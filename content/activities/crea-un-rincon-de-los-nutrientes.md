@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Creá un espacio educativo sobre nutrientes en tu escuela con pósteres y materi
 - ¿Qué nutrientes destacaste en el rincón?
 - ¿Cómo puede ayudar este rincón a la comunidad escolar?
 - ¿Qué compromiso adquieres para mantenerlo actualizado?
+
+---
+## Texto original completo de la actividad
+
+**E.01 CREA UN RINCÓN DE LOS NUTRIENTES.** Pon un rincón de alimentos y nutrientes en una esquina de la cantina o de la biblioteca de tu colegio. Decóralo con pósteres y llénalo de libros y folletos sobre la importancia de comer una gran variedad de alimentos para seguir una dieta sana y equilibrada. Organiza una ceremonia de inauguración para este rincón e invita a la gente para que vaya y descubra qué nutrientes les aportan los alimentos y cómo pueden variar sus platos para una dieta aún más nutritiva y equilibrada.
+
+niveles 3 2 1
 
 ---

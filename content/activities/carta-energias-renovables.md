@@ -167,6 +167,8 @@ Investigá qué porcentaje de la energía en tu país proviene de fuentes renova
 2. Investigá el porcentaje de energía renovable en tu país.
 3. Identificá a quién dirigir tu carta.
 
+> **Opción:** para la carta, usen la ley de energías renovables de tu país; en Argentina, por ejemplo, la Ley 27.191 y los datos de generación de CAMMESA.
+
 ## Desarrollo
 
 ### Parte I - Investigación

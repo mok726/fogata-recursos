@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +171,8 @@ Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfe
 1. Investigá sobre gérmenes y enfermedades infecciosas comunes.
 2. Prepará material para la tabla.
 
+> **Opción:** elijan una enfermedad relevante en tu región; en Argentina, por ejemplo, el dengue, que transmite un mosquito.
+
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé qué son los gérmenes, dónde están y cómo se propagan.
 2. **Tabla** (20 min): Creá una tabla con enfermedades infecciosas comunes (malaria, sarampión, tuberculosis, gripe, diarrea, cólera), sus causas y cómo se contagian.
@@ -181,5 +183,12 @@ Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfe
 - ¿Qué enfermedades infecciosas son más comunes?
 - ¿Cómo se propagan los gérmenes?
 - ¿Qué compromiso adquieres para protegerte de los gérmenes?
+
+---
+## Texto original completo de la actividad
+
+**A.12 LA VERDAD SOBRE LOS GÉRMENES.** Aprendan más cosas sobre lo que son los gérmenes, dónde están y cómo se propagan, cómo afectan a nuestra salud (enfermedades infecciosas comunes), quién corre peligro y cómo podemos protegernos contra los gérmenes perjudiciales y reducirlos. Haz una tabla con las enfermedades infecciosas más comunes, lo que las causa y cómo se contagian (malaria, sarampión, tuberculosis, gripe, diarrea, cólera, etc.), e incluye también los gérmenes que provocan las intoxicaciones alimenticias y enfermedades similares. Expón tu tabla a todo el grupo.
+
+niveles 3 2
 
 ---

@@ -172,6 +172,8 @@ translation_notice:
 2. Prepará preguntas sobre hábitos energéticos.
 3. Prepará materiales para tomar notas.
 
+> **Nota para el educador:** en algunos países, como Pakistán, los cortes programados de luz no se hacen para ahorrar energía sino porque la demanda supera a la oferta disponible.
+
 ## Desarrollo
 
 ### Parte I - Contactar

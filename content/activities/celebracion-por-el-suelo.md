@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -154,7 +154,7 @@ rama_rovers:
 Organizá un día divertido dedicado al suelo con actividades, juegos y concienciación para tu comunidad.
 
 ## Preparación
-1. Elegí una fecha (idealmente 5 de diciembre, Día Mundial del Suelo).
+1. Elegí una fecha (idealmente 5 de diciembre, Día Mundial del Suelo). Muchos países tienen además una fecha propia; en Argentina, por ejemplo, el 7 de julio es el Día Nacional de la Conservación del Suelo.
 2. Prepará carteles, volantes y materiales.
 3. Organizá juegos y actividades.
 4. Prepará bocadillos con etiquetas sobre el rol del suelo.

@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Investigá cómo el hambre afecta a las personas en tu región o país. Elaborá
 - ¿Cuáles son las principales causas del hambre en tu área?
 - ¿Qué está haciendo la comunidad local para abordar el problema?
 - ¿Qué compromiso adquieres para ayudar a combatir el hambre en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**A.11 HAMBRE EN EL HOGAR** Aunque la mayoría de personas hambrientas del mundo viven en países en desarrollo, el hambre no tiene fronteras y afecta a personas en todo el mundo. Investiga sobre cómo el hambre afecta a las personas en tu región o país. ¿Cuáles son los principales factores que causan el hambre o la malnutrición donde tú vives? ¿La mayoría de personas tienen seguridad alimentaria en tu región o país? ¿Qué está haciendo la comunidad local para tratar estas cuestiones sobre el hambre? Elabora un reporte o un póster para exhibir tus hallazgos y compartirlos con tus amigos, tu familia y tu comunidad.
+
+niveles 3 2
 
 ---

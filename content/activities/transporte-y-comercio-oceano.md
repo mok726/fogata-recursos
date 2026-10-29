@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -161,6 +161,8 @@ Visitá el puerto o muelle más cercano, investigá sus actividades y elaborá u
 1. Organizá una visita al puerto o muelle local.
 2. Prepará preguntas para investigar durante la visita.
 3. Reuní materiales para tomar notas y fotografías.
+
+> **Nota para el educador:** coordinen la visita con la autoridad portuaria o la autoridad marítima o costera (en Argentina, por ejemplo, la Prefectura Naval). En el puerto, no entren a zonas de carga ni se acerquen a grúas, bordes de muelle o vehículos en movimiento.
 
 ## Desarrollo
 1. **Visita al puerto** (40 min): Observá y toma notas sobre las actividades.

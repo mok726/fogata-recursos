@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Realizá una encuesta sobre hábitos alimenticios en tu comunidad y analizá los
 - ¿Tu comunidad sigue una dieta equilibrada?
 - ¿Qué cambios harías?
 - ¿Qué compromiso adquieres para promover mejores hábitos alimenticios?
+
+---
+## Texto original completo de la actividad
+
+**E.10 LA ENCUESTA DE LOS HÁBITOS ALIMENTICIOS.** ¿Qué tan sanas son las dietas de la gente de tu entorno? Haz una encuesta sobre los hábitos alimenticios y la elección de alimentos en tu comunidad. Puedes tener como objetivo un grupo de edad en particular, como tus compañeros, o toda la comunidad. Si es posible, informa a la audiencia sobre la encuesta antes de hacerla, y pídeles su permiso para que participen. Prepara un cuestionario corto y directo. Fíjate en lo que come la gente. ¿Con qué frecuencia comen? ¿Están a régimen? ¿Qué aperitivos comen? Después de la entrevista, lee y analiza las respuestas y resúmelas en una tabla, en un gráfico o redacta un informe. Incluye un párrafo con tus propias ideas y consejos. ¿Tu comunidad sigue una dieta equilibrada y sostenible? ¿Qué cambios harías? Comparte los resultados con todos los miembros, incluidos los que participaron en la encuesta. Pon el informe de la encuesta en la sala de reuniones, en tu escuela o en la biblioteca. Contacta a los medios de comunicación y pregúntales si están interesados en publicarlo.
+
+niveles 3 2
 
 ---

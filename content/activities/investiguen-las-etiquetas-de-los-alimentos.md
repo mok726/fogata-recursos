@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,6 +178,8 @@ Investigá la información nutricional de diferentes alimentos y creá una tabla
 2. Prepará una tabla con columnas para alimentos y nutrientes.
 3. Investigá qué nutrientes aporta cada alimento.
 
+> **Opción:** incluyan el etiquetado frontal de advertencias de tu país, si lo tiene; en Argentina, por ejemplo, la Ley 27.642 de Etiquetado Frontal (los sellos negros octogonales "EXCESO EN…").
+
 ## Desarrollo
 1. **Recolección** (15 min): Reuní etiquetas de alimentos.
 2. **Análisis** (20 min): Copia la información nutricional de las etiquetas.
@@ -188,5 +190,12 @@ Investigá la información nutricional de diferentes alimentos y creá una tabla
 - ¿Qué nutrientes encontraste en los alimentos?
 - ¿Qué información te sorprendió más?
 - ¿Qué compromiso adquieres para leer las etiquetas de los alimentos?
+
+---
+## Texto original completo de la actividad
+
+**B.07 INVESTIGUEN LAS ETIQUETAS DE LOS ALIMENTOS.** Hagan una tabla con la información nutricional de los diferentes alimentos que comen. Hagan una lista con las comidas en una columna y con los nutrientes en otra. Por ejemplo: • Las judías nos aportan… • carbohidratos, proteínas, fibra, ácido fólico, hierro Las etiquetas de los alimentos son una fuente de información sobre los nutrientes de los alimentos envasados. Consigan tantas como puedan y copien la información nutricional de las etiquetas en la tabla. Pongan la tabla en la cocina, en la cafetería de la escuela o en el tablón de anuncios, donde los niños, los padres y los visitantes puedan verla.
+
+niveles 3 2 1
 
 ---

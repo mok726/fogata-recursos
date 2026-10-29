@@ -174,6 +174,8 @@ Dividí el grupo en equipos y elegí un combustible fósil (carbón, petróleo, 
 2. Asigná un combustible fósil a cada grupo.
 3. Prepará materiales para la presentación.
 
+> **Opción:** incluyan un caso de tu país; en Argentina, por ejemplo, Vaca Muerta (Neuquén) y el debate sobre el fracking.
+
 ## Desarrollo
 
 ### Parte I - Investigación

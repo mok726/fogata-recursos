@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -190,5 +190,12 @@ Creá un juego educativo sobre nutrientes y grupos alimenticios para compartir c
 - ¿Qué parte del juego te resultó más divertida?
 - ¿Qué aprendiste sobre los nutrientes?
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre nutrición?
+
+---
+## Texto original completo de la actividad
+
+**B.05 INVENTEN UN JUEGO.** Hagan una lluvia de ideas e inventen un juego (un test, un puzle, un juego de verdadero o falso, un crucigrama, un juego de mesa, un juego de memoria o un bingo) para educar a la gente sobre los nutrientes de los alimentos y sobre la necesidad de comer una gran variedad de alimentos de cada grupo alimenticio. Jueguen al juego con su familia y amigos.
+
+niveles 3 2 1
 
 ---

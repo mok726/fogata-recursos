@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Compará alimentos locales e importados y su impacto ambiental, y elegí opcione
 - ¿Qué alimentos son locales y cuáles importados?
 - ¿Cómo podés elegir mejor la comida en el futuro?
 - ¿Qué compromiso adquieres para consumir productos locales?
+
+---
+## Texto original completo de la actividad
+
+**D.15 LOCAL VS.** IMPORTADO. Visita el mercado o el supermercado local. ¿Dónde se producen los alimentos? ¿Cuánto han viajado hasta llegar a la tienda? Transportar los productos de un lugar a otro consume un montón de energía y emite gases de efecto invernadero. Siempre que puedas, elige productos que se han producido en tu zona. Sin embargo, en algunos casos, importar comida puede ser más respetuoso con el medio ambiente que producirlos en la zona, ya que estos productos pueden necesitar calor y luz artificial en invernaderos, además de más agua y fertilizantes para que crezcan adecuadamente. Por ello, puedes disfrutar de algunos productos importados, mientras que compres productos locales y de temporada la mayoría de las veces. Sería incluso mejor si pudieses encontrar una feria de productos de Comercio Justo importados (como plátanos, café, especias o chocolates) que garanticen que esos alimentos se han producido de manera sostenible y que los agricultores se tratan de forma justa. Haz un póster con lo que has descubierto y exponlo en clase, a tu grupo o a tu familia, y ayúdales a elegir mejor la comida en el futuro.
+
+niveles 3 2
 
 ---

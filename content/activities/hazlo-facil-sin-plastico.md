@@ -167,7 +167,7 @@ translation_notice:
 Pensá en cómo tu hogar usa plásticos de un solo uso. Creá sistemas para que sea más fácil usar productos sostenibles en su lugar.
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Observá cómo tu familia usa plásticos en casa.
 3. Prepará materiales para crear sistemas.
 

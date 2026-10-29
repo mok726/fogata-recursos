@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Creá tu propio libro de recetas con ingredientes de temporada y consejos de sos
 - ¿Qué recetas incluiste en tu libro?
 - ¿Cómo podés hacer que tus comidas sean más sostenibles?
 - ¿Qué compromiso adquieres para cocinar de manera más saludable?
+
+---
+## Texto original completo de la actividad
+
+**D.09 HAZ UN LIBRO DE RECETAS.** Crea tu propio libro de recetas. Acuérdate de incluir una lista de ingredientes y la información de los nutrientes que te proporcionan esos ingredientes. También puedes incluir consejos para hacer la compra, para cocinar y para conservar los alimentos de manera sostenible, con el mínimo impacto medioambiental. Incluye recetas de temporada, con comidas sanas para el invierno, la primavera, el verano y el otoño. Averigua qué frutas, verduras y demás alimentos se cultivan en tu zona y en qué estaciones. También puedes incluir dibujos. Pídele a tu familia y amigos que aporten alguna receta. Después, utiliza ese libro para cocinar comidas sanas y respetuosas con el medio ambiente para ti y tu familia. Haz varias copias y dáselas a tus amigos.
+
+niveles 3 2 1
 
 ---

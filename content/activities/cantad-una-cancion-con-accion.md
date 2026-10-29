@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cantad una Canción con Acción"
+title: "Canten una Canción con Acción"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cantad-una-cancion-con-accion/"
@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -166,7 +166,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# Cantad una Canción con Acción
+# Canten una Canción con Acción
 
 ## Resumen
 Compón y canta una canción con movimientos sobre la importancia de la actividad física y la nutrición.
@@ -186,5 +186,12 @@ Compón y canta una canción con movimientos sobre la importancia de la activida
 - ¿Qué mensaje incluyeron en la canción?
 - ¿Cómo se sintieron al presentarla?
 - ¿Qué compromiso adquieres para seguir promoviendo la salud?
+
+---
+## Texto original completo de la actividad
+
+**E.03 CANTAD UNA CANCIÓN CON ACCIÓN.** Una canción con acción es una canción que cantas mientras das palmas, mueves las manos y los pies, saltas o haces mímica. Júntate con tu grupo y compongan una canción con acción sobre la importancia de la actividad física y el deporte. Inventen una melodía pegadiza con movimientos divertidos y ensáyenla varias veces para asegurarse de que todo el mundo se la sabe. Cántensela a sus profesores, responsables y padres en el Día de Padres de su escuela. Pueden pasar un sombrero entre el público para recaudar fondos para un proyecto comunitario sobre nutrición.
+
+niveles 2 1
 
 ---

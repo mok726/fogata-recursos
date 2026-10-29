@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,7 +176,7 @@ Organizá un concurso sobre nutrición en tu colegio con diferentes categorías 
 ## Preparación
 1. Prepará preguntas y respuestas con tu profesor o responsable.
 2. Organizá diferentes categorías para diferentes edades.
-3. Prepará aperitivos saludables como premio.
+3. Prepará colaciones saludables como premio.
 
 ## Desarrollo
 1. **Organización** (15 min): Prepará las categorías y preguntas.
@@ -188,5 +188,12 @@ Organizá un concurso sobre nutrición en tu colegio con diferentes categorías 
 - ¿Qué preguntas te resultaron más difíciles?
 - ¿Qué aprendiste sobre nutrición?
 - ¿Qué compromiso adquieres para seguir aprendiendo?
+
+---
+## Texto original completo de la actividad
+
+**B.10 HORA DEL CONCURSO.** Organiza un concurso en tu colegio, con diferentes categorías para diferentes edades. En primer lugar, preparen las preguntas y las respuestas junto con su profesor o responsable. Como premio pueden preparar aperitivos sanos. El objetivo del concurso es divertirse a la vez que consiguen que sus compañeros reflexionen acerca de la comida y la nutrición. Así que, ¡manos a la obra! Incluyan preguntas como: • Nombra tres nutrientes que son muy importantes a tu edad. •¿Por qué son importantes estos nutrientes a tu edad? • Nombra cinco alimentos que te proporcionen estos nutrientes. • Nombra tres alimentos que deberías comer para tener energía suficiente para estudiar y jugar. • Nombra cinco alimentos que debes tomar para crecer sin problemas. • Nombra tres alimentos que sean buenos para los huesos.
+
+niveles 3 2 1
 
 ---

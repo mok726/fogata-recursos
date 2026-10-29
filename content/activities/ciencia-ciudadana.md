@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -168,6 +168,10 @@ Contribuí a proyectos de investigación científica ciudadana sobre el océano,
 ## Preparación
 1. Investigá proyectos de ciencia ciudadana en tu área.
 2. Registrá tu grupo en un proyecto existente.
+
+> **Opción:** una plataforma abierta en muchos países es iNaturalist (en Argentina, ArgentiNat).
+>
+> **Nota de seguridad:** en la costa, nunca solos y siempre con adultos, atentos a la marea y las olas.
 3. Prepará cuadernos y lapiceras para el registro.
 
 ## Desarrollo

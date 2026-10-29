@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -164,6 +164,8 @@ Creá un video corto, una historia fotográfica, una obra de teatro o un podcast
 1. Investigá cómo las actividades humanas están afectando tu costa local.
 2. Definí tu mensaje: ¿sobre qué querés hablarle a la gente?
 3. Elegí el formato: video, historia fotográfica, obra de teatro o podcast.
+
+> **Nota para el educador:** si aparecen personas, y sobre todo chicos, pidan antes la autorización de imagen.
 
 ## Desarrollo
 1. **Investigación** (20 min): Reuní información sobre el área costera.

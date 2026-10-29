@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -165,6 +165,10 @@ Experimentá con el suelo como filtro de agua para entender su función purifica
 2. **Experimento** (20 min): Verté agua a través de diferentes suelos.
 3. **Observación** (15 min): Compará los resultados.
 4. **Discusión** (10 min): ¿Funcionó mejor con unos suelos que con otros?
+
+> **Nota de seguridad:** el agua filtrada por el suelo **no es potable**: no la tomen ni la usen para cocinar.
+>
+> **Opción:** si el enlace del original no funciona, armen el filtro con una botella plástica cortada e invertida, con capas de grava, arena y suelo, y viertan agua turbia; comparen distintos suelos.
 
 ## Cierre
 - ¿Qué suelos filtraron mejor el agua?

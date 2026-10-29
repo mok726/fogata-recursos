@@ -176,6 +176,8 @@ Aprendé sobre el ciclo del carbono y visita un área natural local (bosque, res
 2. Elegí un lugar natural para visitar.
 3. Prepará materiales para tomar notas y dibujar.
 
+> **Nota para el educador:** los descomponedores devuelven nutrientes al suelo, pero la mayor parte del carbono de lo que descomponen vuelve al aire como CO₂ al respirar.
+
 ## Desarrollo
 
 ### Parte I - Aprender

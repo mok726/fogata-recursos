@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,8 +174,10 @@ Creá una red de jóvenes para luchar contra la malnutrición e intercambiar ide
 
 ## Preparación
 1. Contactá a otros grupos juveniles en tu país o en el extranjero.
-2. Elegí un medio de comunicación (correo, chat, Skype, redes sociales).
+2. Elegí un medio de comunicación (correo, chat, Meet, Zoom, redes sociales).
 3. Planea un proyecto de nutrición conjunto.
+
+> **Nota de seguridad:** el contacto online con chicos de otros lugares lo coordinan y supervisan adultos de las dos partes, según la política de protección de tu organización scout nacional. No compartan datos personales.
 
 ## Desarrollo
 1. **Contacto** (15 min): Contactá a otros grupos juveniles.
@@ -188,5 +190,12 @@ Creá una red de jóvenes para luchar contra la malnutrición e intercambiar ide
 - ¿Qué aprendiste al trabajar en red con otros jóvenes?
 - ¿Cómo pueden colaborar para combatir la malnutrición?
 - ¿Qué compromiso adquieres para seguir construyendo redes?
+
+---
+## Texto original completo de la actividad
+
+**E.15 REDES.** Crea una red en contra de la malnutrición con un grupo de jóvenes de tu país o en el extranjero. Intercambien sus ideas y trabajen juntos para concienciar y luchar contra las diferentes formas de malnutrición. Planeen un proyecto de nutrición conjunto. Manténganse en contacto por correo, por correo electrónico, por chat, por Skype o videoconferencia, creen un blog, o comuníquense por medio de las redes sociales.
+
+nivel 3
 
 ---

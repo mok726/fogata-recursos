@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Registrá tu actividad física diaria, comparala con tu grupo y planificá nuevo
 2. Observá tu actividad física durante un día cualquiera.
 3. Pensá en deportes de equipo que te gustaría probar.
 
+> **Nota para el educador:** estudiar no es actividad física: el original lo incluye para que también registren el tiempo que pasan sentados y lo comparen con el tiempo en movimiento.
+
 ## Desarrollo
 1. **Registro** (durante un día): Anotá tu actividad física (caminar, estudiar, jugar, correr, tareas del hogar, etc.).
 2. **Comparación** (15 min): Compará tus notas con las de tu grupo.
@@ -188,5 +190,12 @@ Registrá tu actividad física diaria, comparala con tu grupo y planificá nuevo
 - ¿Cuánto tiempo pasás sentado cada día?
 - ¿Cómo podés ser más activo?
 - ¿Qué deportes de equipo te gustaría probar?
+
+---
+## Texto original completo de la actividad
+
+**A.02 ¡QUE EMPIECE EL JUEGO!** Haz un seguimiento de la actividad física que llevas a cabo en un día cualquiera (caminar, estudiar, jugar, correr, saltar, las tareas del hogar, etc.). Compara tus notas con las de tu grupo. ¿Cómo eres de activo comparado con tus amigos? ¿Cuánto tiempo pasas sentado cada día? Después de esto, en grupo, hagan una lista de los deportes de equipo que les gustaría probar, y pónganlos en marcha en la siguiente reunión. Realiza un plan de actividades para los primeros 15 minutos de tus próximas reuniones de grupo.
+
+niveles 3 2 1
 
 ---

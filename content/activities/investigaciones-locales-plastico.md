@@ -168,9 +168,11 @@ translation_notice:
 Explorá tu barrio, pueblo o ciudad con una nueva perspectiva. Observá y documentá la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Prepará tu cuaderno y cámara para documentar.
 3. Planificá la ruta de exploración.
+
+> **Nota de seguridad:** con los más chicos (castores y manada), el recorrido se hace en grupo y con adultos acompañando, por calles conocidas. Cerca de ríos o arroyos, no se acerquen a la orilla.
 
 ## Desarrollo
 

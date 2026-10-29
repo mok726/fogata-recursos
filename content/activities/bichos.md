@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Investigá los principales problemas de microorganismos en tu zona y su relació
 2. Averiguá sobre intoxicaciones alimentarias y su relación con el clima.
 3. Prepará una presentación con diapositivas.
 
+> **Opción:** busquen información de la autoridad sanitaria de tu país; en Argentina, por ejemplo, la ANMAT y el Ministerio de Salud, que explican cómo prevenir el síndrome urémico hemolítico (SUH), muy relacionado con la carne picada mal cocida.
+
 ## Desarrollo
 1. **Investigación** (20 min): Investigá microorganismos y enfermedades en tu zona.
 2. **Análisis** (15 min): ¿Es común la intoxicación por alimentos? ¿Contribuye el clima?
@@ -184,5 +186,12 @@ Investigá los principales problemas de microorganismos en tu zona y su relació
 - ¿Qué microorganismos son más comunes en tu zona?
 - ¿Cómo afectan a la seguridad alimentaria?
 - ¿Qué compromiso adquieres para prevenir enfermedades?
+
+---
+## Texto original completo de la actividad
+
+**C.09 BICHOS.** ¿Cuáles son los principales problemas de tu zona con los microrganismos, como las bacterias, los parásitos, etc.? ¿Es común la intoxicación por alimentos? ¿Contribuye el clima a todo esto? ¿Qué enfermedades pueden producirse a causa de todo ello? Preparen una presentación con diapositivas, incluyan gráficos y estadísticas y expónganla en grupo.
+
+nivel 3
 
 ---

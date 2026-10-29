@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Analizá cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicaci
 2. Escribí los encabezados 'Sí...' y 'Si no...'.
 3. Enumerá los ocho Objetivos de Desarrollo del Milenio.
 
+> **Nota para el educador:** los Objetivos de Desarrollo del Milenio (ODM) terminaron en 2015 y fueron reemplazados por los 17 Objetivos de Desarrollo Sostenible (ODS). **Opción:** hagan la tabla con los ODS, eligiendo ocho, y pongan el foco en el ODS 2 (Hambre cero).
+
 ## Desarrollo
 1. **Preparación** (10 min): Creá la tabla con los ODM.
 2. **Análisis** (20 min): Pensá en los efectos del cumplimiento o incumplimiento de cada ODM.
@@ -185,5 +187,12 @@ Analizá cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicaci
 - ¿Qué ODM tiene el mayor impacto en la erradicación del hambre?
 - ¿Cómo se conectan los ODM entre sí?
 - ¿Qué compromiso adquieres para apoyar el cumplimiento de los ODM?
+
+---
+## Texto original completo de la actividad
+
+**D.08 SI, SI NO** Trabajen en pares y creen una tabla con ocho filas y dos columnas. En las dos columnas escriban los siguientes encabezados: ‘Si…’ y ‘Si no…’; y en las ocho filas enumeren cada uno de los Objetivos de Desarrollo del Milenio (pp. 51-53). Piensen en cómo el cumplimiento de cada ODM podría ayudar a erradicar el hambre (en la columna ‘Si…’) y en cómo el incumplimiento de estos podría conducir a más problemas y dificultades (en la columna ‘Si no…’). Cada pareja debe compartir sus hallazgos con el resto del grupo. BUENA IDEA
+
+niveles 3 2
 
 ---

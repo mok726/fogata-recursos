@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Investigá el origen de los alimentos que comés y su impacto medioambiental.
 - ¿Qué alimentos vienen desde más lejos?
 - ¿Cómo podés reducir el impacto ambiental de tu comida?
 - ¿Qué compromiso adquieres para elegir alimentos locales?
+
+---
+## Texto original completo de la actividad
+
+**D.10 ¿DE DÓNDE VIENE TU COMIDA?** Inspecciona tu cocina y averigua de donde vienen los diferentes alimentos que comes. Pídele a tu familia que te ayude a encontrar esos lugares en un mapa y hazles una marca. ¿Tu comida recorre largas distancias hasta llegar a tu plato? ¿Cómo viaja? ¿La importan en avión o en barco? ¿Qué alimentos vienen desde más lejos para llegar a tu plato? Comparte la información con tu familia y debatan sobre qué pueden hacer para reducir el impacto medioambiental de tu comida. Por ejemplo, tu familia puede elegir alimentos locales que no se importen desde muy lejos. Ampliación: ¿Puedes averiguar las emisiones de carbono de tus comidas favoritas? Si estos alimentos emiten mucho CO 2, ¿puedes comprar otras alternativas?
+
+niveles 3 2 1
 
 ---

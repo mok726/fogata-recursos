@@ -1,6 +1,6 @@
 ---
 title: "Acidificación del Océano"
-duration: "60 minutos"
+duration: "1 semana (60 minutos de trabajo)"
 layout: "layouts/activity.njk"
 permalink: "/activities/acidificacion-del-oceano/"
 description: "Experimento para entender cómo la acidificación del océano afecta a la vida marina, especialmente a los organismos con conchas."
@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -166,7 +166,9 @@ Realizá un experimento para entender cómo el aumento de la acidez del océano 
 
 ## Preparación
 1. Reuní los materiales: tres jarras, agua, vinagre, agua carbonatada, conchas y tiras de pH.
-2. Andá el video sobre acidificación del océano.
+2. Mirá el video sobre acidificación del océano.
+
+> **Opción:** si no consiguen conchas, usen cáscaras de huevo (también son de carbonato de calcio).
 
 ## Desarrollo
 1. **Discusión** (10 min): ¿Qué es la acidez? ¿Cómo se mide con pH? ¿Por qué se está acidificando el océano?

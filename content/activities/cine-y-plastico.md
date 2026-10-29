@@ -71,9 +71,9 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://www.youtube.com/watch?v=RS7IzU2VJIQ"
-    caption: "Plastic Pollution - Clean Seas (8M vistas)"
+    caption: "Plastic Pollution - Clean Seas"
     icon: "link"
-  - url: "https://www.youtube.com/watch?v=xKzqLdkuj6l"
+  - url: "https://www.youtube.com/watch?v=xKzqLdkuj6I"
     caption: "Is this the ocean of the future?"
     icon: "link"
 files: []
@@ -175,7 +175,7 @@ translation_notice:
 Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mirá uno de estos videos y organizá un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Elegí uno o ambos videos recomendados.
 3. Prepará el espacio para la proyección.
 
@@ -184,11 +184,11 @@ Ver documentales sobre contaminación plástica es una forma entretenida de apre
 ### Parte I - Ver la película
 Miren uno de estos documentales:
 
-**Opción 1:** "Plastic Pollution: How Humans are Turning the World into Plastic" - Clean Seas (8 millones de vistas)
+**Opción 1:** "Plastic Pollution: How Humans are Turning the World into Plastic" - Clean Seas
 🔗 https://www.youtube.com/watch?v=RS7IzU2VJIQ
 
 **Opción 2:** "Is this the ocean of the future?" - cortometraje sobre plásticos en el océano
-🔗 https://www.youtube.com/watch?v=xKzqLdkuj6l
+🔗 https://www.youtube.com/watch?v=xKzqLdkuj6I
 
 ### Parte II - Debate
 Después de ver la película, organicen un debate en grupo:

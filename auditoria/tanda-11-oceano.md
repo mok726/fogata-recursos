@@ -67,3 +67,13 @@
 | dia-mundial-de-los-oceanos (E05) | fiel | Hoy el sitio oficial de la ONU para el día es otro (no verifiqué URL). | — | ok | P3 |
 | ciencia-ciudadana (E06) | fiel | Enlaces del Reino Unido; en Argentina: iNaturalist/ArgentiNat. | Costa: supervisión. | ok | P3 |
 | voluntario-por-el-oceano (E07) | fiel | Fundación Vida Silvestre, Aves Argentinas, Fundación Temaikèn (no verifiqué). | — | buena | P3 |
+
+## Estado (2026-10-29)
+
+Aplicado (verificado contra `oceano\i3465s.pdf` de la carpeta local):
+- `references.url` de las 53 apunta a https://www.fao.org/docrep/018/i3465s/i3465s.pdf (verificado). La licencia ya decía © FAO.
+- A11 no falta por error: es material de WeatherWizKids que FAO reproduce con permiso. No se carga; queda anotada en `candidatas.md`.
+- Seguridad en costa (línea estándar) en A08, A09, B02, B08, C02, E01 y E06. Además: A04 (fósforo; "bota" → "tirá"), A05 (agua caliente), A07 (recipientes limpios), A09 (solo pilas), A15 (nadar en paralelo a la costa), A16 (No Dejar Rastro), B07 (alergias), B09 y D02 (imagen), C09 (puerto).
+- A14: se agrega la respuesta de la simulación 2. D05: duración "1 semana" y la opción de la cáscara de huevo. B04: OBIS o iNaturalist en lugar del Censo. D01: ActNow (ONU) en lugar de la página de la EPA. E04: aclaración sobre MSC.
+- Ejemplos locales marcados como ejemplo: C11, D04, D06, D07, D09, E04, E06, E07.
+- Pendiente: los enlaces viejos del original, para el link-check (G17). Imágenes: ya están en la lista de regeneración.

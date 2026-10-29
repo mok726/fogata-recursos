@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Creá un póster del cuerpo humano etiquetando qué alimentos son buenos para ca
 2. Dibujá el contorno de un cuerpo humano.
 3. Investigá qué alimentos son buenos para cada parte del cuerpo.
 
+> **Nota para el educador:** ojo con "zanahorias para la vista": la vitamina A es necesaria para la visión, pero comer más zanahorias solo mejora la vista si hay falta de esa vitamina.
+
 ## Desarrollo
 1. **Diseño** (10 min): Dibujá el contorno del cuerpo en el póster.
 2. **Detalles** (15 min): Añadí ojos, dientes, pelo, uñas, etc.
@@ -187,5 +189,12 @@ Creá un póster del cuerpo humano etiquetando qué alimentos son buenos para ca
 - ¿Qué alimentos son buenos para cada parte del cuerpo?
 - ¿Cómo podés asegurarte de obtener los nutrientes que necesitás?
 - ¿Qué compromiso adquieres para cuidar tu cuerpo?
+
+---
+## Texto original completo de la actividad
+
+**B.08 EL CUERPO HUMANO Y LA COMIDA.** Hagan un poster del cuerpo humano, añadiendo todos los detalles que puedan: ojos, dientes, pelo, uñas, etc. Pongan etiquetas en función de los alimentos que sean buenos para cada parte del cuerpo. Por ejemplo, la leche es buena para los huesos, los dientes y las uñas, y las zanahorias son bunas para la vista. Expongan los pósteres en grupo.
+
+niveles 3 2 1
 
 ---

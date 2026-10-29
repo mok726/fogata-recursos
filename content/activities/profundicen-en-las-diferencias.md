@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Investigá los problemas de salud causados por deficiencias de vitaminas y miner
 - ¿Qué deficiencias nutricionales son más comunes?
 - ¿Cómo afectan a la salud?
 - ¿Qué compromiso adquieres para promover una nutrición adecuada?
+
+---
+## Texto original completo de la actividad
+
+**B.19 PROFUNDICEN EN LAS DIFERENCIAS.** Investiguen sobre los problemas de salud y enfermedades causadas por deficiencias de vitaminas y minerales. Divídanse en grupos, cada grupo se encargará de investigar un tipo de deficiencia alimenticia. ¿Por qué causan las deficiencias de vitaminas y minerales estos problemas? ¿Dónde son más comunes? ¿Por qué son más comunes en esa zona? ¿Se puede curar este problema, y en caso de que así sea, cómo? Cada equipo expondrá su investigación al grupo.
+
+nivel 3
 
 ---

@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Explorá los nutrientes de tus comidas favoritas y buscá formas de hacerlas má
 - ¿Qué nutrientes encontraste en tus comidas favoritas?
 - ¿Cómo podés hacerlas más saludables?
 - ¿Qué compromiso adquieres para mejorar tu alimentación?
+
+---
+## Texto original completo de la actividad
+
+**B.03 COMIDAS FAVORITAS.** ¿Cuáles son sus comidas favoritas? Hagan una lista y exploren los nutrientes esenciales que contienen. ¿Hay alguna manera de hacer que sean más sanas, como hacer una pizza desde cero en lugar de pedirla por teléfono o comprarla cocinada? Hagan una lista con cinco formas de mejorar sus comidas más nutritivas y también más sostenibles con el medio ambiente.
+
+niveles 2 1
 
 ---

@@ -169,7 +169,7 @@ translation_notice:
 Realizá una encuesta a al menos 100 personas en tu vecindario sobre sus hábitos de reciclaje. Compilá y analizá los resultados, y luego presenta tus hallazgos a las autoridades locales.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Diseñá el cuestionario con las preguntas.
 3. Prepará los materiales para registrar respuestas.
 
@@ -199,6 +199,8 @@ Encuesta a al menos 100 personas. Podés hacerlo:
 - En persona (calle, centro comercial, parque)
 - Por teléfono
 - En redes sociales
+
+> **Nota de seguridad:** las encuestas en la calle se hacen en grupo y con un adulto cerca, nunca solos ni entrando a casas. Por teléfono o en redes, usen canales del grupo administrados por adultos y no compartan datos personales de los protagonistas.
 
 ### Parte III - Analizar los resultados
 Compilá y analizá los datos:

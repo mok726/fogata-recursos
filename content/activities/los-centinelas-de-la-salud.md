@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Creá una lista de hábitos saludables para tu familia y hacé un seguimiento me
 - ¿Qué hábitos fueron más fáciles de seguir?
 - ¿Cuáles fueron más difíciles?
 - ¿Qué compromiso adquieres para mantener estos hábitos?
+
+---
+## Texto original completo de la actividad
+
+**A.08 LOS CENTINELAS DE LA SALUD.** Preparen una lista para cada miembro de su familia con todos los elementos para una buena salud que has aprendido en la sección “Hábitos de vida saludables” de esta Insignia: una buena dieta, actividad física regular, dormir lo suficiente, etc. Pon la lista en un lugar destacado e intenta que todo el mundo tache lo que haya conseguido; por ejemplo, un día sin comida basura, hacer algo de ejercicio, o hacerte una revisión médica. Si tienes un smartphone, puedes descargarte algunas aplicaciones que pueden ayudarte a registrar aspectos similares de tu estilo de vida. A final de mes, el que haya tachado más cosas será el “ganador”, y el resto de la familia cocinará una comida estupenda y nutritiva para celebrarlo.
+
+niveles 3 2 1
 
 ---

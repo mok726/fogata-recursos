@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,7 +174,7 @@ Ayuna durante un día completo para experimentar el hambre y reflexionar sobre l
 ## Preparación
 1. Prepará suficiente agua para mantenerte hidratado.
 2. Prepará un diario para registrar cómo te sentís.
-3. Asegurá la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. Alternativa para menores de 16 años: saltear una sola comida o comer solo arroz y agua durante un día.
+3. Asegurá la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. Alternativa para menores de 16 años: saltear una sola comida o comer solo arroz y agua durante un día. El original de FAO propone la actividad desde los 11 años; para el ayuno completo recomendamos que sea a partir de los 16.
 
 ## Desarrollo
 1. **Ayuno** (24 horas): No comas durante un día completo (pero toma suficiente agua para hidratarte).
@@ -187,5 +187,12 @@ Ayuna durante un día completo para experimentar el hambre y reflexionar sobre l
 - ¿Cómo te sentiste al no poder comer durante un día?
 - ¿Qué creés que sienten las personas que viven con hambre crónica?
 - ¿Qué compromiso adquieres para ayudar a quienes padecen hambre?
+
+---
+## Texto original completo de la actividad
+
+**A.12 EN SUS ZAPATOS** Trata de no comer durante un día completo (pero toma suficiente agua para que te mantengas hidratado). ¿Cómo te sientes? Escribe cómo te sientes a lo largo del día. Podrías sentir una fuerte falta de concentración, así que ten cuidado con las actividades que realizas ese día y asegúrate de contar con un adulto que te supervise. Sabes que podrás comer de nuevo mañana, así que podrás recuperarte de un día de ayuno (no comer). Sin embargo, casi mil millones de personas no tienen esa certeza. ¿Cómo crees que se sienten? Discute sobre esto con tu grupo. Extensión: podrías hacer esta actividad como una hambruna patrocinada de 24 horas y donar el dinero que recaudaste a una organización benéfica que esté involucrada en la lucha contra el hambre.
+
+niveles 3 2
 
 ---

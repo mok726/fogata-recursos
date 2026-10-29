@@ -190,6 +190,14 @@ Creá dos tipos de tarjetas:
 **Tarjetas de alimentos:** pan, carne, pescado, verduras, frutas
 **Tarjetas de energía:** energía usada en la producción
 
+> **Nota para el educador:** ejemplos de pares para las tarjetas (de cada alimento, el uso de energía más importante):
+> - Pescado de altamar → combustible de los barcos pesqueros.
+> - Carne vacuna → producción del alimento de los animales, maquinaria y frío para conservarla.
+> - Pan → fertilizantes y maquinaria para el trigo, y el horno de la panadería.
+> - Verduras de invernadero fuera de estación → calefacción e iluminación del invernadero.
+> - Fruta importada → transporte (en barco, o en avión si es fresca y de otro continente).
+> - Verduras de estación de una huerta cercana → muy poca energía: es el ejemplo de "menos energía".
+
 ### Parte III - Jugar
 1. Mezclá las tarjetas
 2. Intercambiá tarjetas con el otro equipo

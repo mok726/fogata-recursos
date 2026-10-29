@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -163,6 +163,8 @@ Creá una exhibición pública sobre el suelo, su degradación y los cambios que
 2. **Creación** (30 min): Diseñá carteles y materiales.
 3. **Montaje** (20 min): Instalá la exhibición.
 4. **Promoción** (20 min): Invitá a la comunidad a visitarla.
+
+> **Nota para el educador:** los tiempos son orientativos. Investigar, diseñar e instalar una exhibición pública suele llevar varias reuniones; conviene repartirlo.
 
 ## Cierre
 - ¿Cómo respondió la comunidad?

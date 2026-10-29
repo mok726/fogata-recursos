@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Asigná roles de personas en el sistema alimentario y dramatiza situaciones dond
 - ¿Qué roles te parecieron más difíciles?
 - ¿Cómo afectan los desafíos a las personas del sistema alimentario?
 - ¿Qué compromiso adquieres para valorar a quienes producen nuestros alimentos?
+
+---
+## Texto original completo de la actividad
+
+**B.06 DRAMATIZACIÓN SOBRE EL SISTEMA ALIMENTARIO** Piensa en todas las diferentes personas que pasan necesidades en el sistema alimentario. Con tu grupo, asigna un rol a cada persona (por ej. agricultor, conductor de camión, trabajadores de la planta de procesamiento de alimentos, dueños de un puesto en el mercado, clientes comprando alimentos, etc.). Asegúrate de que cada persona conoce los principales roles y requerimientos de su personaje en el sistema alimentario para que esté lista para actuar de acuerdo con estos. Desarrolla algunas situaciones diferentes (por ej. ‘tu área ha sido afectada por lluvias fuertes e inundaciones durante el último mes’ o ‘un terremoto ha dañado las carreteras principales en el área local’) y lleven a cabo una dramatización en la cual todos los personajes improvisen cómo la situación les está afectando a cada uno. Al final cada persona debe tener la oportunidad de expresar cómo se sintió al representar a ese personaje en la situación. Extensión: intercambien los roles entre los miembros de su grupo. ¿Cómo se ve afectado su nuevo personaje por las mismas situaciones?
+
+niveles 3 2 1
 
 ---

@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -161,6 +161,8 @@ Investigá un incidente grave de contaminación marina en tu área o en el mundo
 ## Preparación
 1. Investigá incidentes de contaminación marina.
 2. Elegí uno que te interese particularmente.
+
+> **Opción:** elijan un caso cercano. En Argentina, por ejemplo, el derrame de petróleo de Magdalena (Río de la Plata, 1999) o el de Caleta Córdova (Chubut, 2007).
 3. Reuní materiales para el cartel.
 
 ## Desarrollo

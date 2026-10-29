@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -152,6 +152,9 @@ Investigá un insecto, molusco o artrópodo que vive en el suelo y creá un pós
 
 ## Preparación
 1. Elegí un organismo del suelo para estudiar.
+
+> **Nota para el educador:** la lombriz, el habitante del suelo más conocido, no es insecto, molusco ni artrópodo: es un anélido. También vale elegirla.
+
 2. Prepará materiales para el póster.
 3. Investigá sobre el organismo.
 

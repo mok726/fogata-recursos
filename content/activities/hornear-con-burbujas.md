@@ -175,6 +175,8 @@ Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. 
 2. Si usás levadura, deja tiempo para que la masa leve antes de hornear.
 3. ¡Lavate las manos antes de comenzar!
 
+> **Nota de seguridad:** el horno lo maneja un adulto. Consulten antes alergias e intolerancias (gluten, huevo, leche).
+
 ## Desarrollo
 
 ### Parte I - Elegir receta

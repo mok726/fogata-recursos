@@ -172,7 +172,7 @@ translation_notice:
 Organizá un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas. Mostrá a tu comunidad que vivir sin plástico es posible y ¡fantástico!
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Elegí un lugar y fecha para el evento.
 3. Prepará materiales y conseguí oradores.
 4. Creá volantes y publicaciones en redes sociales.

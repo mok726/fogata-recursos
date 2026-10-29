@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +183,8 @@ Escribí una historia o poema sobre los patitos de hule que siguieron las corrie
 1. **Investigación** (10 min): Leé el artículo sobre los patitos de hule.
 2. **Creación** (25 min): Escribí una historia o poema sobre la travesía.
 3. **Lanzamiento** (30 min): Hacé barcos con materiales naturales y lanzalos desde la playa.
+
+> **Nota para el educador:** para respetar No Dejar Rastro, usen solo materiales naturales del lugar (sin pegamento, hilo plástico ni pintura) y, si pueden, recuperen los barcos al terminar.
 4. **Seguimiento** (varios días): Revisá otras playas para ver si aparecen.
 5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 

@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,8 @@ Investigá si se violan las recomendaciones de marketing de alimentos no saludab
 2. Prepará un cuaderno para tomar notas.
 3. Pensá en lugares donde buscar anuncios (redes sociales, carteles, escuela, etc.).
 
+> **Opción:** averigüen qué dice la ley de tu país sobre la publicidad de alimentos dirigida a chicos; en Argentina, por ejemplo, la Ley 27.642 de Etiquetado Frontal (los sellos negros octogonales "EXCESO EN…"), que limita esa publicidad para productos con sellos.
+
 ## Desarrollo
 1. **Investigación** (30 min): Buscá anuncios de comida basura dirigidos a niños.
 2. **Observación** (15 min): Observá el marketing en la escuela.
@@ -190,5 +192,12 @@ Investigá si se violan las recomendaciones de marketing de alimentos no saludab
 - ¿Qué violaciones de marketing encontraste?
 - ¿Cómo afectan estos anuncios a los niños?
 - ¿Qué compromiso adquieres para proteger a los niños de la publicidad no saludable?
+
+---
+## Texto original completo de la actividad
+
+**E.13 DETECTIVES DE INFRACCIONES CONTRA EL MARKETING.** En 2010, muchos países respaldaron un conjunto de recomendaciones de la OMS para reducir la publicidad infantil de alimentos con muchas grasas saturadas, grasas trans, azúcares o sal (encuentra más información sobre este tema en: http://www.who.int/dietphysicalactivity/ marketing-food-to-children/es/). Haz de detective y descubre si se violan estas recomendaciones de marketing en tu comunidad o país. Por ejemplo, puedes contar los anuncios de comida basura que van dirigidos a niños y que utilizan personajes de cómics, observar el marketing en las redes sociales, en carteles publicitarios, en eventos deportivos, en la escuela, etc. Presta especial atención al marketing de alimentos y bebidas en tu colegio. Busca las marcas en los menús de la cafetería de la escuela, en los letreros del colegio, en los cupones como recompensas por los resultados escolares, en la donación de equipos de gimnasia de marca, en el patrocinio de eventos, en publicaciones, en vehículos escolares, etc. Escribe un informe y compártelo con tu grupo y con los directores de tu escuela. No te olvides de hacer algunas recomendaciones.
+
+niveles 3 2
 
 ---

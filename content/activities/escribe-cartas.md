@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Escribí cartas a líderes gubernamentales para presionar sobre temas de nutrici
 - ¿Qué temas de nutrición abordaste en tu carta?
 - ¿Cómo podés continuar presionando para lograr cambios?
 - ¿Qué compromiso adquieres para involucrarte en temas políticos?
+
+---
+## Texto original completo de la actividad
+
+**E.12 ESCRIBE CARTAS.** Escribe una carta para presionar a los responsables de tomar decisiones (políticos, diputados). Expresa tu preocupación sobre la desnutrición e infórmate sobre los siguientes temas: • ¿Qué está haciendo tu país para alcanzar el segundo Objetivo de Desarrollo Sostenible (erradicar el hambre y la pobreza) y qué proporción del dinero público se invierte en nutrición y necesidades sociales? • Solicitar normas y campañas para luchar contra la obesidad infantil. ¿Qué está haciendo el gobierno para restringir el marketing de alimentos y bebidas no saludables a los niños? • ¿Tienen algún programa para promover una alimentación saludable en las escuelas? Intenta que más personas también firmen tu carta.
+
+niveles 3 2
 
 ---

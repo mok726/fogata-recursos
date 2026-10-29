@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -164,6 +164,8 @@ Debatí sobre la creación de un Área Marina Protegida en tu playa local, repre
 1. Leé el artículo de National Geographic sobre Áreas Marinas Protegidas.
 2. Asigná roles a cada participante.
 3. Prepará argumentos para tu rol.
+
+> **Opción:** usen un caso real cercano. En Argentina, por ejemplo, las áreas marinas protegidas Namuncurá–Banco Burdwood y Yaganes.
 
 ## Desarrollo
 1. **Investigación** (15 min): Cada persona investiga su rol y prepara argumentos.

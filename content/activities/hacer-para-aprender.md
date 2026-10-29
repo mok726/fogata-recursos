@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -200,5 +200,12 @@ Cultivá vegetales o hierbas con tu grupo o visita una granja local para recolec
 - ¿Qué aprendiste sobre la producción de alimentos?
 - ¿Cómo funciona el sistema alimentario?
 - ¿Qué compromiso adquieres para valorar el trabajo de los agricultores?
+
+---
+## Texto original completo de la actividad
+
+**B.01 HACER PARA APRENDER** Si tienes acceso a un huerto, cultiva algunos vegetales o hierbas con tu grupo. ¡Esto tomará algo de tiempo pero les enseñará mucho sobre cómo se producen los alimentos! Este sitio web provee recursos útiles sobre la jardinería escolar: www.fao.org/schoolgarden/index_en.htm. Si no tienen un espacio de jardinería disponible, pueden organizar una visita a una granja local para recolectar algunas frutas, bayas o vegetales. Usen las frutas o los vegetales que cultivaron o recolectaron para hacer algo que pueden comer ustedes mismos (por ej. una sopa de vegetales) o que pueden vender a sus amigos y vecinos (por ej. mermeladas, encurtidos o conservas que pueden colocar en frascos). ¡Si deciden vender sus productos, pueden donar el dinero que ganen a una organización benéfica! Anoten lo que han hecho en cada paso. ¡Ustedes están experimentando de primera mano cómo funciona el sistema alimentario!
+
+niveles 3 2 1
 
 ---

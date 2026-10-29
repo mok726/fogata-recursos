@@ -61,7 +61,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -152,6 +152,8 @@ Investigá diferentes tipos de contaminación en tu área y presentá tus hallaz
 1. Formá equipos de investigación.
 2. Prepará materiales para tomar notas.
 3. Identificá áreas para investigar.
+
+> **Nota de seguridad:** observen y registren, pero no toquen ni tomen muestras de agua o suelos que parezcan contaminados (basurales, desagües, manchas de aceite o químicos). Siempre con supervisión de un adulto.
 
 ## Desarrollo
 1. **Investigación** (40 min): Investigá contaminación del agua y del suelo.

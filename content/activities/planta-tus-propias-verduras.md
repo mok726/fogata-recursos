@@ -76,7 +76,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +186,8 @@ Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto
 2. Elegí plantas locales y apropiadas para el clima.
 3. Prepará las herramientas y materiales.
 
+> **Opción:** en Argentina, por ejemplo, el programa ProHuerta del INTA entrega semillas de estación y da capacitación para huertas familiares y escolares.
+
 ## Desarrollo
 1. **Preparación** (20 min): Prepará la tierra y las macetas.
 2. **Plantación** (20 min): Plantá las semillas o plántulas.
@@ -197,5 +199,12 @@ Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto
 - ¿Qué plantas elegiste y por qué?
 - ¿Cómo te sentiste al cultivar tus propios alimentos?
 - ¿Qué compromiso adquieres para seguir cultivando alimentos?
+
+---
+## Texto original completo de la actividad
+
+**D.07 PLANTA TUS PROPIAS VERDURAS.** Cultivar tus propias frutas y verduras puede ayudarte a seguir una dieta equilibrada y sana. Puedes hacerlo en el jardín, en el balcón o en un terreno comunitario (como un huerto alquilado) o en el jardín de la escuela. Planta y cuida varias frutas y especias. Aprende cuáles son plantas locales y cuáles son apropiadas para el clima de tu zona. Entre las verduras puedes incluir: judías, patatas, zanahorias, cebollas, espinacas, ajos, calabazas, tomates, pimientos o berenjenas. En las especias puedes incluir perejil, albahaca, orégano, tomillo, eneldo, hinojo, menta, romero, salvia o guindillas. Lleva un registro de tu jardín tomando fotos, videos o con un blog. Invita a la gente y haz un tour por tu jardín, explicándoles el valor nutritivo de cada verdura que cultivas. Averigua más sobre cómo plantar y cuidar un huerto escolar en: http://www.fao.org/docrep/009/a0218s/a0218s00.htm.
+
+niveles 3 2 1
 
 ---

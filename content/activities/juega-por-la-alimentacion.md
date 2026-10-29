@@ -61,7 +61,7 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.wfp.org/students-and-teachers/students/fun-and-learn"
+  - url: "https://freerice.com"
     caption: "Juegos de beneficencia del PMA"
     icon: "read_more"
 
@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,7 +176,7 @@ rama_rovers:
 Jugá juegos de beneficencia en línea donde cada vez que ganas se dona dinero para personas que padecen hambre.
 
 ## Preparación
-1. Accedé a la página de juegos del PMA: www.wfp.org/students-and-teachers/students/fun-and-learn.
+1. Accedé a [Freerice](https://freerice.com), el juego del Programa Mundial de Alimentos (PMA): por cada respuesta correcta se dona arroz.
 2. Asegurá una conexión a internet.
 3. Prepará el tiempo para jugar.
 
@@ -190,5 +190,12 @@ Jugá juegos de beneficencia en línea donde cada vez que ganas se dona dinero p
 - ¿Qué juegos te gustaron más y por qué?
 - ¿Cómo ayudan estos juegos a combatir el hambre?
 - ¿Qué compromiso adquieres para seguir apoyando causas solidarias?
+
+---
+## Texto original completo de la actividad
+
+**B.05 ¡JUEGA POR LA ALIMENTACIÓN!** Si tienes una conexión a Internet en casa o en algún otro lugar, busca algo de tiempo para experimentar unos juegos de beneficencia: www.wfp.org/students-and-teachers/students/fun-and-learn. ¡En estos juegos, cada vez que gansas, donas dinero para las personas que padecen hambre!
+
+niveles 3 2 1
 
 ---

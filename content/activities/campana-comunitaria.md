@@ -173,6 +173,8 @@ Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo co
 2. Prepará materiales (carteles, folletos).
 3. Identificá tu público objetivo.
 
+> **Nota para el educador:** en el original de FAO esta actividad tiene el mismo texto que la E01 (Campaña de Concientización Energética). **Opción** para darle otro foco: organicen la campaña en el barrio junto con la distribuidora o cooperativa eléctrica local, por ejemplo, con una charla abierta o una feria sobre cómo leer la factura y ahorrar.
+
 ## Desarrollo
 
 ### Parte I - Planificar

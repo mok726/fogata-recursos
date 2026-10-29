@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Diseñá pósteres para concienciar sobre dietas sanas para niños y adolescente
 - ¿Qué mensajes incluiste en tus pósteres?
 - ¿Cómo pueden ayudar a prevenir la malnutrición?
 - ¿Qué compromiso adquieres para seguir educando sobre nutrición?
+
+---
+## Texto original completo de la actividad
+
+**E.06 EXHIBICIÓN DE PÓSTERES.** Diseña un poster para concienciar sobre las dietas sanas para niños y adolescentes. ¿Cómo protege de la malnutrición seguir una dieta equilibrada a niños y adolescentes? Incluye normas básicas de higiene para preparar y conservar los alimentos adecuadamente. Crea mensajes claros que cambien el comportamiento de la gente. Pide permiso para exhibirlos en un lugar público importante.
+
+niveles 3 2 1
 
 ---

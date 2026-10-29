@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Macetas
-  - Semillas (albahaca, perejil, fréjoles, etc.)
+  - Semillas (albahaca, perejil, porotos, etc.)
   - Tierra
   - Agua
 tools: []
@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -192,5 +192,12 @@ Cultivá plantas en macetas bajo diferentes condiciones de agua y luz para apren
 - ¿Qué planta creció mejor y por qué?
 - ¿Qué aprendiste sobre el cuidado de los cultivos?
 - ¿Cómo puede este conocimiento ayudar a combatir el hambre?
+
+---
+## Texto original completo de la actividad
+
+**C.04 EL MANEJO DE LOS CULTIVOS** Cultiva unas plantas en macetas (por ej. albahaca, perejil, fréjoles - cualquier cosa que sea fácil para ti plantar y ver crecer). Prepara al menos cinco macetas de la misma planta y cultiva cada planta bajo diferentes condiciones, dando diferentes cantidades de agua y de luz a cada una. Asegúrate de registrar correctamente cuánta agua y cuánta luz está recibiendo cada planta. Después de algunas semanas, haz unas observaciones: ¿cuál planta creció mejor? ¿Cuál crees que sea la razón? Este experimento te mostrará lo importante que es saber exactamente cómo se debe cuidar a una planta específica y las mejores prácticas de manejo para esa planta. La cantidad ideal de agua y de luz para esta planta puede ser incorrecta para otra. Si no sabes cómo cuidar de la mejor manera a tus cultivos y a tus animales, podrías continuar obteniendo menos alimentos de los que verdaderamente podrías obtener - o incluso podrías no obtener ningún alimento.
+
+niveles 3 2 1
 
 ---

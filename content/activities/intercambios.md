@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Organizá un intercambio o campamento de verano con otro grupo que trabaje en te
 - ¿Qué aprendiste de otros grupos?
 - ¿Cómo pueden colaborar para combatir la malnutrición?
 - ¿Qué compromiso adquieres para seguir trabajando en red?
+
+---
+## Texto original completo de la actividad
+
+**E.16 INTERCAMBIOS.** Organicen un intercambio o un campamento de verano con otro grupo que se dedique a estas cuestiones sobre malnutrición en tu país o en el extranjero. Compartan sus experiencias y opiniones.
+
+nivel 3
 
 ---

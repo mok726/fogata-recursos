@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Inspeccioná tu cocina y los lugares donde guardás la comida para mejorar la se
 - ¿Qué aspectos de seguridad alimentaria podés mejorar en casa?
 - ¿Cómo podés asegurar que el agua es potable?
 - ¿Qué compromiso adquieres para mantener la cocina limpia y segura?
+
+---
+## Texto original completo de la actividad
+
+**C.01 EXAMINA TU COCINA.** Los alimentos que tomamos y el agua que bebemos necesitan ser seguros y estar libres de microorganismos dañinos. Inspecciona tu casa, tu cocina y los lugares donde guardas la comida. ¿Qué pueden hacer en tu familia para mejorar la forma en la que guardan la comida? ¿Qué pueden hacer para mantener el agua limpia y potable? Hagan un póster con reglas básicas de higiene para preparar y conservar los alimentos de una manera segura. Pon el póster en un lugar visible de tu casa o dónalo a la cantina de tu escuela, un mercado local o un restaurante.
+
+niveles 3 2 1
 
 ---

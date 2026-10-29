@@ -60,9 +60,6 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.un.org/Pubs/CyberSchoolBus"
-    caption: "Ciberbús Escolar de las Naciones Unidas"
-    icon: "read_more"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -70,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,7 +170,9 @@ rama_rovers:
 Proponé tus propios Objetivos de Desarrollo Sostenible para abordar el hambre después del 2015.
 
 ## Preparación
-1. Revisá los ODM actuales.
+1. Revisá los ODM (2000-2015).
+
+> **Nota para el educador:** el original es de 2013, antes de que existieran los ODS (se aprobaron en 2015). **Opción:** revisen los 17 ODS actuales, en especial el ODS 2 (Hambre cero), y propongan qué metas agregarían o cambiarían para después de 2030. El Ciberbús Escolar de la ONU ya no existe: compartan las propuestas en el grupo o en las redes de su organización.
 2. Prepará papel y lápices.
 3. Pensá en cómo abordar el hambre en el futuro.
 
@@ -181,11 +180,18 @@ Proponé tus propios Objetivos de Desarrollo Sostenible para abordar el hambre d
 1. **Lluvia de ideas** (15 min): Pensá en objetivos para abordar el hambre.
 2. **Propuestas** (20 min): Escribí tus propuestas de ODS.
 3. **Discusión** (15 min): Compartí y discutí ideas con el grupo.
-4. **Publicación** (10 min): Subí sugerencias al Ciberbús Escolar de la ONU.
+4. **Publicación** (10 min): Compartí las propuestas con tu grupo o tu comunidad.
 
 ## Cierre
 - ¿Qué objetivos propondrías para combatir el hambre?
 - ¿Cómo se relacionan tus propuestas con los ODM?
 - ¿Qué compromiso adquieres para involucrarte en el desarrollo sostenible?
+
+---
+## Texto original completo de la actividad
+
+**D.09 TUS ODS** El plazo meta de los ODM termina en el año 2015: ¿cómo crees que los objetivos deberían tratar de abordar el hambre en el futuro? ¿Cuáles crees que deberían ser los nuevos Objetivos de Desarrollo Sostenible? Haz una lluvia de ideas sobre tus propuestas de ODS y comparte tus ideas con tu grupo. ¿Existen ideas que se sobreponen? Suban sus sugerencias al sitio web del Ciberbús Escolar de las Naciones Unidas para que otros las puedan ver: www.un.org/Pubs/CyberSchoolBus.
+
+niveles 3 2
 
 ---

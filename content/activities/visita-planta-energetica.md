@@ -174,6 +174,8 @@ Hacé una excursión a un lugar donde se produce energía: un parque eólico, un
 2. Organizá una visita a una planta de energía local.
 3. Prepará preguntas para hacerle al guía o personal.
 
+> **Nota para el educador:** coordinen la visita con la planta: muchas tienen edad mínima y piden calzado cerrado, casco u otro equipo de protección. Con los más chicos, alcanza con una visita guiada corta. En Argentina, por ejemplo, se pueden visitar centrales como Yacyretá, El Chocón, Atucha o Embalse.
+
 ## Desarrollo
 
 ### Parte I - Visita

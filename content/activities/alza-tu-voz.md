@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Escribí una canción sobre el hambre y la desigualdad para compartir con tu gru
 - ¿Qué mensaje querías transmitir con tu canción?
 - ¿Cómo te hizo sentir expresar tu opinión a través de la música?
 - ¿Qué compromiso adquieres para seguir alzando tu voz contra el hambre?
+
+---
+## Texto original completo de la actividad
+
+**B.03 ALZA TU VOZ** Escribe una canción sobre el hambre y la desigualdad. Podrías cantar sobre la situación de muchas personas que padecen hambre alrededor del mundo, sobre los derechos humanos y sobre el hecho de que todos merecen ser tratados igual y que todos tienen la misma oportunidad en la vida, o sobre cualquier tema relacionado que sea importante para ti.
+
+niveles 3 2 1
 
 ---

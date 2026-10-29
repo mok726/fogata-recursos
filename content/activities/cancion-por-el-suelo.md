@@ -57,7 +57,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -142,7 +142,7 @@ Inventá una canción sobre el suelo y los factores que pueden dañarlo.
 
 ## Preparación
 - Pensá en una canción popular que te guste.
-- Reflexioná sobre los factores que dañan el suelo.
+- Reflexioná sobre los factores que dañan el suelo, como la contaminación y el sellado (cuando se cubre el suelo con cemento o asfalto y deja de absorber agua y sostener vida).
 
 ## Desarrollo
 1. **Creación** (25 min): Escribí la letra sobre el suelo.

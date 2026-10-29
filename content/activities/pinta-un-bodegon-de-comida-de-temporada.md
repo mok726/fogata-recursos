@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Creá un dibujo con frutas y verduras de temporada para usar como guía de compr
 - ¿Qué frutas y verduras son de temporada en tu zona?
 - ¿Cómo ayuda comer alimentos de temporada?
 - ¿Qué compromiso adquieres para consumir alimentos de temporada?
+
+---
+## Texto original completo de la actividad
+
+**D.04 PINTA UN BODEGÓN DE COMIDA DE TEMPORADA.** Haz una lista con todas las frutas y verduras que se venden en los mercados o que cultivas con tu familia. Averigua cuándo estarán maduras y listas para comer. Agrúpalas por temporadas y dibuja todas las frutas y las verduras de temporada. Cuelga los dibujos en la cocina o en la clase para que todos lo vean, o dáselo a quien haga la compra en tu familia, para que lo use como guía cuando escoja productos frescos.
+
+niveles 2 1
 
 ---

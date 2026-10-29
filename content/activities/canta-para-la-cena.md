@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Compón una canción con letra nueva sobre nutrición usando una melodía conoci
 - ¿Qué mensaje sobre nutrición incluiste en tu canción?
 - ¿Cómo te sentiste al crear y cantar la canción?
 - ¿Qué compromiso adquieres para seguir usando el arte para educar?
+
+---
+## Texto original completo de la actividad
+
+**A.04 CANTA PARA LA CENA.** ¿Has oído hablar de Weird Al Yankovic? Ha compuesto un montón de canciones divertidas parodiando canciones famosas, entre las que se encuentra Eat It (www.youtube.com/watch?v=ZcJjMnHoIBI), una parodia de Beat It, de Michael Jackson. Escojan una canción y compongan una letra nueva, centrándose en la nutrición. Canten la canción en grupo en su próxima reunión.
+
+niveles 3 2 1
 
 ---

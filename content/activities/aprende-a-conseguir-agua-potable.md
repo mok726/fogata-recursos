@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,6 +182,8 @@ Aprendé diferentes métodos para potabilizar el agua y hacerla segura para bebe
 2. Aprendé métodos para destruir gérmenes (filtración, hervir, exposición solar, cloro).
 3. Accedé a los recursos sugeridos.
 
+> **Nota de seguridad:** practiquen solo métodos seguros, como hervir el agua (al menos un minuto en hervor) o usar lavandina en la dosis que indica la autoridad sanitaria, siempre con un adulto. No tomen agua de métodos experimentales.
+
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé diferentes métodos de potabilización.
 2. **Comparación** (15 min): Compará los métodos en efectividad y accesibilidad.
@@ -192,5 +194,12 @@ Aprendé diferentes métodos para potabilizar el agua y hacerla segura para bebe
 - ¿Qué métodos de potabilización son más efectivos?
 - ¿Cómo pueden ayudar a prevenir enfermedades?
 - ¿Qué compromiso adquieres para asegurar el acceso a agua potable?
+
+---
+## Texto original completo de la actividad
+
+**C.07 APRENDE A CONSEGUIR AGUA POTABLE.** ¿Sabías que beber agua en malas condiciones puede causar enfermedades graves e incluso mortales? Averigua cómo potabilizar el agua. Aprende cómo destruir la mayoría de los gérmenes que pueden causar enfermedades que se transmiten por el agua: filtrándola, hirviéndola, exponiéndola a la luz solar, o añadiéndole cloro. Si quieres informarte más sobre el tratamiento de las aguas puedes ver Alimentarnos bien para estar sanos de la FAO (Tema 11): http://www.fao.org/docrep/019/i3261s/i3261s00.htm y el sistema para evaluar las tecnologías para el tratamiento del agua para uso doméstico de la OMS: www.who.int/household_ water/scheme/en
+
+niveles 3 2
 
 ---

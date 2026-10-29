@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,5 +179,12 @@ Investigá los problemas de salud más extendidos en tu país y organizá un inf
 - ¿Qué problemas de salud son los más comunes en tu país?
 - ¿Cómo se puede mejorar la prevención?
 - ¿Qué compromiso adquieres para promover la salud en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**A.13 CHARLAS SOBRE SALUD.** Investiga qué problemas de salud y enfermedades son las más extendidas en tu país. ¿Cuántas se pueden prevenir? ¿Cuánto dinero público se invierte en la atención sanitaria para la gente que sufre estos problemas, y cuánto dinero podría ahorrarse si estas enfermedades se previnieran antes de que la gente se contagiase? ¿Tienes alguna idea para una mejor prevención? ¿Necesita la gente estar más informada, o tener un mayor acceso a algunos alimentos, al agua potable y al saneamiento, etc.? Organiza un “informe de grupo” con tu grupo o en la escuela, profundicen sobre estas cuestiones, debatan y respondan a las preguntas de la audiencia.
+
+nivel 3
 
 ---

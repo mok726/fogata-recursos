@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -169,7 +169,7 @@ rama_rovers:
 Creá un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre para compartir con tu grupo.
 
 ## Preparación
-1. Revisá el glosario del folleto para identificar palabras clave sobre el hambre.
+1. Revisá el glosario del [cuadernillo de FAO](https://www.fao.org/docrep/018/i3466s/i3466s.pdf) para identificar palabras clave sobre el hambre.
 2. Prepará el material para crear el juego.
 3. Decidí qué tipo de prueba vas a crear (crucigrama, sopa de letras, etc.).
 
@@ -183,5 +183,12 @@ Creá un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambr
 - ¿Qué palabras nuevas aprendiste sobre el hambre?
 - ¿Cómo te ayudó el juego a entender mejor el tema?
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre el hambre?
+
+---
+## Texto original completo de la actividad
+
+**A.09 ENTRENAMIENTO CEREBRAL** Elabora una pequeña prueba para tus amigos o para los miembros de tu grupo usando el vocabulario relacionado con el hambre que has aprendido. Por ejemplo, podrías crear un crucigrama o una sopa de letras que incluya palabras del glosario de este folleto. Cada vez que un participante encuentre una nueva palabra, este debe explicar la palabra al resto del grupo. BUENA IDEA
+
+niveles 3 2
 
 ---

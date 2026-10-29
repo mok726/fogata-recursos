@@ -70,7 +70,7 @@ link:
   - url: "https://www.youtube.com/watch?v=RS7IzU2VJIQ"
     caption: "Contaminación plástica: Cómo los Humanos están Convirtiendo el Mundo en Plástico"
     icon: "link"
-  - url: "https://www.youtube.com/watch?v=Yomf5pBN8dY"
+  - url: "https://www.youtube.com/watch?v=xKzqLdkuj6I"
     caption: "¿Es este el océano del futuro?"
     icon: "link"
 files: []
@@ -191,7 +191,9 @@ Una forma divertida y educativa para que los participantes aprendan más sobre e
 
 **Opción 2**: "¿Es este el océano del futuro?"  
 - Duración: ~5 minutos  
-- Enlace: https://www.youtube.com/watch?v=Yomf5pBN8dY
+- Enlace: https://www.youtube.com/watch?v=xKzqLdkuj6I
+
+> **Nota para el educador:** el enlace del original llevaba a otro video (de Oceana); acá va el correcto.
 
 3. Tomar notas de los momentos que más impactaron.
 

@@ -173,6 +173,8 @@ Hacé una lista de todas las formas en que se usa la energía en tu hogar. ¿Us�
 2. Buscá información sobre consejos de ahorro.
 3. Prepará materiales para tomar notas.
 
+> **Nota para el educador:** el sitio energysavers.gov que cita el original hoy es energy.gov/energysaver (en inglés). El dato de "1 grado = 10 % de ahorro" no trae fuente; el ahorro real depende del clima y de la casa.
+
 ## Desarrollo
 
 ### Parte I - Lista

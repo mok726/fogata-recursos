@@ -31,7 +31,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cuaderno de campo o libreta
-  - Bolígrafo
+  - Lapicera
   - Cámara fotográfica (opcional)
   - Guantes (para observaciones en terreno)
 tools: []

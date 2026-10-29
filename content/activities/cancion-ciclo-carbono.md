@@ -168,6 +168,8 @@ Escribí una canción sobre el ciclo del carbono para que sea fácil de recordar
 1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
 2. Pensá en una melodía conocida que puedas usar (ej. "Cumpleaños feliz", "Estrellita", etc.).
 
+> **Nota para el educador:** los descomponedores devuelven nutrientes al suelo, pero la mayor parte del carbono de lo que descomponen vuelve al aire como CO₂ al respirar.
+
 ## Desarrollo### Parte I - Aprender
 Aprendé sobre el ciclo del carbono:
 

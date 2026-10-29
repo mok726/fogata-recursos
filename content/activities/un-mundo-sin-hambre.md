@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Organizá una obra de teatro o musical corto imaginando un mundo sin hambre.
 - ¿Cómo imaginaste el mundo sin hambre?
 - ¿Cómo podemos contribuir a hacerlo realidad?
 - ¿Qué compromiso adquieres para actuar contra el hambre?
+
+---
+## Texto original completo de la actividad
+
+**D.05 UN MUNDO SIN HAMBRE** Organiza una obra de teatro o un musical corto donde imaginas un mundo sin hambre. Piensa en las causas del hambre y crea una situación en la cual estas no existan. Haz que el público piense seriamente en cómo la realidad es muy diferente a tu mundo imaginario. ¿Cómo podemos cada uno de nosotros contribuir para cambiar esta situación?
+
+niveles 3 2 1
 
 ---

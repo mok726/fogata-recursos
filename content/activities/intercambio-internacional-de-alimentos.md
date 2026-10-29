@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,11 +178,20 @@ Juego de cartas que simula el comercio internacional de alimentos, mostrando las
 1. **Investigación** (15 min): Investigá países y sus alimentos.
 2. **Preparación** (20 min): Creá cartas de recursos y necesidades.
 3. **Juego** (20 min): Intercambiá cartas para satisfacer necesidades.
+
+> **Opción (reglas simples):** cada grupo recibe una tarjeta de "necesidades" (por ejemplo, 2 granos, 1 fruta, 1 proteína, 1 lácteo) y cartas de recursos según la riqueza de su país: los ricos reciben muchas y variadas; los pobres, pocas y de un solo tipo. Durante 10 minutos negocian e intercambian libremente. Gana quien completa sus necesidades; al final, comparen quién lo logró y por qué.
 4. **Reflexión** (15 min): Discutí sobre las desigualdades del comercio global.
 
 ## Cierre
 - ¿Qué países tuvieron más dificultades para obtener alimentos?
 - ¿Cómo refleja el juego la realidad del comercio internacional?
 - ¿Qué compromiso adquieres para apoyar el comercio justo?
+
+---
+## Texto original completo de la actividad
+
+**C.05 INTERCAMBIO INTERNACIONAL DE ALIMENTOS** Formen grupos de cinco o seis jugadores, cada uno debe investigar sobre un país diferente y sobre los tipos de alimentos que producen y por los cuales son famosos. Dibujen unas cartas de juego con estos diferentes tipos de alimentos (por ej. una banana, un mango, algunas nueces de anacardo, un pescado…). Etiqueten estas cartas con la palabra ‘recursos’ en la parte superior. Si el país para el cual están haciendo las cartas es rico, hagan tres cartas de recursos para cada tipo de alimento que produce este país; si es un país de ingresos medios, hagan dos cartas de recursos para cada tipo de alimento; y si es un país pobre, hagan sólo una carta por cada recurso. Luego, vuelvan a juntarse todos y dibujen cartas de ‘necesidades’ (suficientes para que haya una para cada jugador). Estas cartas de ‘necesidades’ deben incluir dos o tres diferentes recursos alimentarios, cada uno de un país diferente. Hagan que algunas cartas de ‘necesidades’ sean difíciles (por ej. que requieran 2 cartas de banana, 3 cartas de arroz y 1 carta de pescado). Mezclen las cartas de ‘necesidades’ y tomen una cada uno sin ver. Ya casi están listos para empezar, pero primero deben decidir en grupo cuánto debería costar cada alimento en comparación con los otros tipos de alimentos que están disponibles en su ‘mercado internacional’. Dibujen una ‘tabla de intercambio’ para mostrar esto (por ej. dos cartas de arroz podrían valer una carta de granos de café). Ahora pueden empezar a jugar: volteen sus cartas de ‘necesidades’ y empiecen a convencer a los otros países de que intercambien con ustedes, ¡de modo que puedan obtener todos los recursos de sus cartas de ‘necesidades’! En grupo, piensen en aquello que el juego les enseña sobre los verdaderos mercados: los mercados globales no son equilibrados; será más fácil para los jugadores de países ricos satisfacer sus necesidades y será más difícil para los países en desarrollo poder alimentarse. ¿Puedes pensar en algunas formas creativas para intercambiar tus cartas a pesar de los desequilibrios?
+
+niveles 3 2
 
 ---

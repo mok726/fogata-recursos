@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Investigá los hábitos alimenticios de otros países y culturas, y comparalos c
 - ¿Qué diferencias encontraste en los hábitos alimenticios?
 - ¿Cómo influye la cultura en la alimentación?
 - ¿Qué compromiso adquieres para respetar la diversidad cultural?
+
+---
+## Texto original completo de la actividad
+
+**B.04 CHOQUE DE CULTURAS.** La forma de comer, los horarios y los hábitos alimenticios varían entre culturas. Investiguen los hábitos alimenticios en otros países y culturas. ¿Qué diferencias encuentran con los suyos, no solo en las preferencias de alimentos, sino en los horarios de las comidas y en las tradiciones? Por ejemplo, en algunas culturas la gente come con las manos, y en otras se sientan en el suelo para comer en lugar de en la mesa. También pueden investigar los hábitos alimenticios de los diferentes grupos culturales de su comunidad. Habla con tus amigos acerca de las diferentes culturas para descubrir sus hábitos alimenticios (cuántas comidas al día hacen, a qué horas, si come toda la familia junta, si los niños comen por separado, quién hace la compra y la comida, cuál es la comida principal del día, si todos toman desayuno, etc.). Vuelvan a hacer grupo y comparen sus respuestas.
+
+niveles 3 2
 
 ---

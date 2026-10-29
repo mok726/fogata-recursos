@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Investigá cuánta agua se necesita para producir diferentes alimentos y buscá 
 - ¿Qué alimentos necesitan más agua?
 - ¿Cómo podés reducir el impacto del agua en tu dieta?
 - ¿Qué compromiso adquieres para elegir alimentos con menor huella hídrica?
+
+---
+## Texto original completo de la actividad
+
+**D.14 COMIDA SEDIENTA.** Examina tu cocina y averigua qué alimentos que comes necesita la mayor cantidad de agua para crecer. ¿Cuáles son los que menos necesitan? Haz una tabla con el agua que se necesita para producir cada alimento. Comparte esta información con tu familia y debatan sobre lo que pueden hacer para reducir el impacto que tiene su comida en el medio ambiente. Por ejemplo, pueden sustituir estos alimentos “sedientos” por otros más sostenibles con un valor nutricional similar.
+
+niveles 3 2
 
 ---

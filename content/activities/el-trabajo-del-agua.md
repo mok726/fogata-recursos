@@ -59,7 +59,7 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.wssinfo.org"
+  - url: "https://washdata.org"
     caption: "Programa Conjunto de Vigilancia de la OMS y UNICEF"
     icon: "read_more"
 
@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ Contá los usos del agua, analizá qué pasaría sin ella e investigá la situac
 2. Formá equipos y elegí una región del mundo para investigar.
 3. Prepará material para la presentación.
 
+> **Nota para el educador:** el sitio wssinfo.org que cita el original hoy es washdata.org (Programa Conjunto OMS/UNICEF de Monitoreo del agua y el saneamiento).
+
 ## Desarrollo
 1. **Conteo** (10 min): Contá los usos del agua en tu día.
 2. **Reflexión** (15 min): ¿Qué pasaría si no tuvieras agua para una actividad específica?
@@ -186,5 +188,12 @@ Contá los usos del agua, analizá qué pasaría sin ella e investigá la situac
 - ¿Cómo sería tu vida sin acceso a agua potable?
 - ¿Qué problemas de salud causa la falta de agua y saneamiento?
 - ¿Qué compromiso adquieres para ahorrar agua?
+
+---
+## Texto original completo de la actividad
+
+**A.10 EL TRABAJO DEL AGUA.** Cuenten todas las veces que usan agua. ¿Qué pasaría si no tuviesen agua para una actividad o tarea específica? Hagan una lista con todas las formas en que la falta de agua altera la vida. Piensen en los millones de personas que hacen frente a esta situación todos los días. ¿Cómo pueden ahorrar agua? Comprométanse a reducir el uso de agua en una zona específica. Hagan equipos y escojan una región del mundo en la que centrarse. Investiguen la situación del agua en esa zona. ¿Hay escasez? ¿Hay algunos problemas de salud a causa de la falta de agua potable y saneamiento? ¿Qué tan graves son los problemas? Una web muy útil para encontrar información sobre el acceso al agua de las diferentes regiones o países es la del Programa Conjunto de Vigilancia de la OMS y UNICEF (www.wssinfo.org). Preparen una presentación en grupo y expongan todas las regiones una a una en su próxima reunión.
+
+niveles 3 2
 
 ---

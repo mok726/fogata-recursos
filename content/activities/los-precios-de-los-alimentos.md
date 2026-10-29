@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,11 +179,20 @@ Visitá el supermercado semanalmente durante un par de meses para anotar los pre
 1. **Registro** (semanal): Anotá los precios de frutas, vegetales, pan, leche, carne, etc.
 2. **Análisis** (15 min): Observá si los precios cambian y por qué.
 3. **Reflexión** (15 min): Pensá en los efectos de estos cambios sobre los pobres.
+
+> **Opción:** en países con inflación alta, comparen la suba de los alimentos con la inflación general del período (dato del instituto de estadística de tu país) para ver qué alimentos subieron más que el resto.
 4. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Investigá los precios de los alimentos y lo que los afecta. Prepará afiches explicando tus hallazgos y expónlos públicamente.
 
 ## Cierre
 - ¿Qué alimentos cambiaron más de precio?
 - ¿Cómo afectan estos cambios a las personas pobres?
 - ¿Qué compromiso adquieres para ser un consumidor consciente?
+
+---
+## Texto original completo de la actividad
+
+**B.09 LOS PRECIOS DE LOS ALIMENTOS** Visita el supermercado o el mercado con tus padres una vez a la semana durante un par de meses y anota los precios de diferentes tipos de alimentos (por ej. frutas, vegetales, pan, leche, carne). ¿Los precios cambian? Averigua por qué unos precios suben y otros precios bajan y piensa en los efectos que tienen estos cambios sobre los pobres. Extensión: si eres bueno para las matemáticas y estás interesado en aprender por qué los precios de los alimentos cambian cada día, haz una mayor investigación sobre los precios de los alimentos y aquello que los afecta. En grupos pequeños, preparen afiches para explicar aquello que descubrieron. Expónganlos públicamente para que sus amigos y su familia también aprendan sobre este tema.
+
+niveles 3 2
 
 ---

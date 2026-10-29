@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Construí un telescopio para observar la vida bajo el agua en pozas rocosas o ag
 2. Cubrí el final del tubo con plástico transparente.
 3. Asegurá el plástico con bandas elásticas o cinta adhesiva.
 4. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** en la costa, nunca solos y siempre con adultos; atención a la marea (puede subir rápido y dejarlos aislados) y a las olas. No se metan al agua sin las medidas de seguridad acuática de tu organización; en embarcaciones, chaleco salvavidas siempre.
 
 ## Desarrollo
 1. **Construcción** (15 min): Construí el telescopio submarino.

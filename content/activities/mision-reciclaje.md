@@ -166,8 +166,8 @@ translation_notice:
 Aprendé sobre cómo reciclar diferentes tipos de plásticos. Investigá qué plásticos se reciclan en tu área, cuáles no, y creá un sistema de reciclaje en casa y en la escuela.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
-2. Revisá los códigos de reciclaje en las páginas 36-40.
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
+2. Revisá los códigos de reciclaje en las páginas 36-40 del mismo PDF.
 3. Reuní cajas de cartón y marcadores para crear contenedores de reciclaje.
 4. Buscá información de contacto de las autoridades de reciclaje locales.
 
@@ -193,6 +193,9 @@ Basado en la información que recopilaste, crea contenedores de reciclaje con ca
 1. **Plásticos que el programa de reciclaje local acepta** → Reciclar
 2. **Plásticos que el programa local NO acepta** → ¿Podés llevarlos a otro lugar? ¿Podés reutilizarlos? ¿Podés evitarlos?
 3. **Bolsas y envolturas plásticas** → Muchos supermercados las recolectan
+
+> **Nota para el educador:** según el país, puede que los supermercados no reciban bolsas. Averigüen dónde se reciclan en su localidad; en Argentina, por ejemplo, en los puntos verdes municipales.
+
 
 ### Parte III - Compartir
 Compartí tu sistema de reciclaje con tu familia y compañeros. Enseñales cómo usarlo correctamente.

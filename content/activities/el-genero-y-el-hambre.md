@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Investigá en qué países la desigualdad de género es significativa y cómo se
 - ¿Cómo afecta la desigualdad de género al hambre?
 - ¿Qué diferencias encontraste entre países?
 - ¿Qué compromiso adquieres para promover la igualdad de género?
+
+---
+## Texto original completo de la actividad
+
+**A.10 EL GÉNERO Y EL HAMBRE** Hagan una investigación y descubran en qué países la desigualdad de género es aún significativa y difícil de superar. ¿Por qué es una cuestión tan grande en estos países? ¿Cómo se compara esto con la situación de género en su país? Inventen una serie de escenas entre hombres y mujeres o niños y niñas que comiencen con la misma situación (por ej. una mujer agricultora que trata de vender sus productos) pero que terminen diferente dependiendo de la comunidad en la cual se desarrollan. Preséntenlas a sus amigos y a su familia. Extensión: también podrían comparar el estado del hambre entre esos países y el suyo. ¿Pueden identificar algunos vínculos entre el género y el hambre?
+
+niveles 3 2
 
 ---

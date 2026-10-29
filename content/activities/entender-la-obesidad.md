@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +172,8 @@ Debatí sobre las principales causas de la obesidad infantil y su prevalencia en
 2. Investigá sobre los hábitos comunes en tu comunidad.
 3. Prepará argumentos para el debate.
 
+> **Nota para el educador:** el peso y el cuerpo son temas sensibles. No pidan a nadie que diga o muestre su peso, no permitan chistes sobre el cuerpo de nadie y hablen de hábitos, no de personas. Si sospechan un trastorno alimentario o un problema de salud en alguien del grupo, hablen en privado con su familia y deriven a un profesional.
+
 ## Desarrollo
 1. **Introducción** (10 min): Presentá las causas de la obesidad infantil.
 2. **Debate** (25 min): Discutí si estos hábitos son comunes en tu comunidad y por qué.
@@ -182,5 +184,12 @@ Debatí sobre las principales causas de la obesidad infantil y su prevalencia en
 - ¿Cuáles son las principales causas de la obesidad infantil?
 - ¿Qué hábitos son comunes en tu comunidad?
 - ¿Qué compromiso adquieres para prevenir la obesidad?
+
+---
+## Texto original completo de la actividad
+
+**B.13 ENTENDER LA OBESIDAD.** Debatan en grupo las principales causas de la obesidad infantil. Por ejemplo, algunas de las principales causas son: beber demasiados refrescos, comer demasiados dulces o comida basura, pasar mucho tiempo viendo la televisión o jugando a videojuegos en lugar de haciendo ejercicio, no comer suficientes frutas y verduras, saltarse el desayuno, ir al colegio en coche en lugar de ir andando o en bici, y no hacer suficiente educación física. ¿Crees que alguno de estos hábitos en particular es común en tu comunidad? En caso de que sea así, ¿por qué? ¿O en tu área no hay un problema de obesidad infantil? Si es así, ¿por qué?
+
+niveles 3 2
 
 ---

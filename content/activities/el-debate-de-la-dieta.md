@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,10 @@ Debatí sobre la influencia de los medios de comunicación en los trastornos ali
 2. Pensá en argumentos a favor y en contra.
 3. Prepará el espacio para el debate.
 
+> **Nota para el educador:** el peso y el cuerpo son temas sensibles. No pidan a nadie que diga o muestre su peso, no permitan chistes sobre el cuerpo de nadie y hablen de hábitos, no de personas. Si sospechan un trastorno alimentario o un problema de salud en alguien del grupo, hablen en privado con su familia y deriven a un profesional.
+>
+> Para el debate, conviene que lo guíe un adulto con formación en el tema (o un profesional invitado).
+
 ## Desarrollo
 1. **Introducción** (10 min): Presentá el tema del debate.
 2. **Debate** (30 min): Dividí el grupo en dos lados y debate.
@@ -183,5 +187,12 @@ Debatí sobre la influencia de los medios de comunicación en los trastornos ali
 - ¿Son los medios de comunicación los culpables?
 - ¿O es la gente responsable de informarse?
 - ¿Qué compromiso adquieres para promover una imagen corporal saludable?
+
+---
+## Texto original completo de la actividad
+
+**B.14 EL DEBATE DE LA DIETA.** Hay un montón de debates hoy en día sobre el peso, la autoestima, o los trastornos alimenticios, en especial en el caso de las chicas. Algunas personas están de acuerdo en que los medios de comunicación (televisión, revistas, etc.) contribuyen a estos problemas al dar imágenes poco realistas del cuerpo que mucha gente intenta conseguir. Esto puede causar comportamientos enfermizos, como comer muy poco para estar delgado. ¿Son los medios de comunicación los culpables, o es la gente la que debe ser responsable de informarse y de intentar mantenerse sana?
+
+niveles 3 2
 
 ---

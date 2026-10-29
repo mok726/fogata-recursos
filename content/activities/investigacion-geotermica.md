@@ -166,6 +166,8 @@ La energía geotérmica es el calor que está debajo de la Tierra. Puede usarse 
 2. Investigá si hay fuentes geotérmicas en tu área.
 3. Prepará materiales para tu informe.
 
+> **Opción:** busquen un caso cercano; en Argentina, por ejemplo, el proyecto geotérmico de Copahue.
+
 ## Desarrollo
 
 ### Parte I - Investigación

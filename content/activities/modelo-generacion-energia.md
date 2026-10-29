@@ -172,6 +172,8 @@ Investigá qué tipos de energía se usan en tu país. Dibujá un mapa marcando 
 2. Investigá qué tipos de energía se producen en tu país.
 3. Reuní materiales reciclados para construir tu modelo.
 
+> **Opción:** para ver qué fuentes generan la electricidad de tu país, busquen los datos del operador del sistema eléctrico; en Argentina, por ejemplo, CAMMESA publica la generación por fuente casi en tiempo real.
+
 ## Desarrollo
 
 ### Parte I - Investigación

@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Iniciá un programa educativo sobre dietas sanas para tu comunidad con talleres 
 - ¿Cómo reaccionó la comunidad al programa?
 - ¿Qué fue lo más efectivo de tu programa?
 - ¿Qué compromiso adquieres para seguir educando sobre nutrición?
+
+---
+## Texto original completo de la actividad
+
+**E.09 EDUCA A TU COMUNIDAD.** Inicia un programa de educación sobre una dieta sana y equilibrada para tus amigos, colegio o vecindario. Organiza una serie de reuniones, talleres, charlas, seminarios, mesas redondas o exposiciones interactivas sobre los estilos de vida y las dietas sanas. Diseña un poster que llame la atención o una presentación con diapositivas. Prepara algunas preguntas sobre los nutrientes de los alimentos y la importancia de seguir una dieta variada, e invita a un ponente (un nutricionista, un médico o un profesor de ciencia) para que las responda. Organiza una sesión de demostración en la que presentes varios alimentos nutritivos y en la que expliques cómo utilizarlos para satisfacer las necesidades nutricionales a su edad. Toma notas, fotos y vídeos, y publícalos en la red. Publica y distribuye los materiales de tu programa de educación sobre la nutrición para informar a todo el mundo sobre los nutrientes que obtenemos de los alimentos.
+
+niveles 3 2
 
 ---

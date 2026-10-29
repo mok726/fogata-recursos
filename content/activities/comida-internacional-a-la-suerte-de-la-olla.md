@@ -65,9 +65,6 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.endinghunger.org/es/educate/host_a_dinner_party.html"
-    caption: "Cómo organizar una cena internacional"
-    icon: "read_more"
   - url: "www.fao.org/getinvolved/worldfoodday/home/es"
     caption: "Día Mundial de la Alimentación"
     icon: "read_more"
@@ -78,7 +75,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,7 +182,9 @@ Organizá una cena internacional donde cada invitado trae un plato de un país d
 ## Preparación
 1. Elegí una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
 2. Invitá a amigos y familiares.
-3. Pedí a cada invitado que cocine una receta de un país extranjero.
+3. Pedí a cada invitado que cocine una receta de un país extranjero. (En Argentina, este tipo de comida compartida se suele llamar "a la canasta".)
+
+> **Nota para el educador:** pidan que cada plato tenga una tarjeta con sus ingredientes, por las alergias e intolerancias.
 4. Decorá el lugar con banderas internacionales.
 
 ## Desarrollo
@@ -199,5 +198,12 @@ Organizá una cena internacional donde cada invitado trae un plato de un país d
 - ¿Qué plato internacional te gustó más?
 - ¿Cómo te hizo sentir compartir este evento?
 - ¿Qué compromiso adquieres para seguir difundiendo el mensaje contra el hambre?
+
+---
+## Texto original completo de la actividad
+
+**E.01 COMIDA INTERNACIONAL ‘A LA SUERTE DE LA OLLA’** Organiza una cena internacional ‘a la suerte de la olla’ e involucra a tantas personas como puedas (una comida ‘a la suerte de la olla’ es cuando cada invitado lleva un plato diferente para compartir con todo el grupo y al final terminas con una variedad de platos diferentes para probar y degustar). Cada persona debe cocinar una receta de un país extranjero. Decora el lugar de la cena con banderas internacionales y, si desean, vístanse con diferentes trajes nacionales. Usa la ocasión para difundir el mensaje sobre el hambre y alienta a otros a unirse a los esfuerzos por acabar con el hambre. Puedes combinar este evento con otras actividades que has preparado, por ejemplo, puedes presentar afiches y pancartas que has hecho, exhibir tu arte o tus fotografías y/o presentar tus obras de teatro o canciones. Para obtener más ideas sobre cómo ser la anfitriona de una cena visita: www.endinghunger.org/es/ educate/host_a_dinner_party.html. (Una buena fecha para tener en mente es el Día Mundial de la Alimentación, el cual es celebrado cada año el 16 de octubre. Puedes encontrar más información aquí: www.fao.org/getinvolved/worldfoodday/home/es).
+
+niveles 3 2 1
 
 ---

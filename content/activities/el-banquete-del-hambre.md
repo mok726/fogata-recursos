@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Boletos para asignar roles (ingresos altos, medios, bajos)
-  - Comida para los diferentes grupos (comida rica, arroz con fréjoles, arroz blanco y agua)
+  - Comida para los diferentes grupos (comida rica, arroz con porotos, arroz blanco y agua)
   - Platos y utensilios
 tools: []
 responsible:
@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,7 +180,9 @@ Organizá un 'Banquete del Hambre' donde los participantes reciben comidas segú
 1. Invitá a los miembros de tu grupo asegurándote de que los detalles sean una sorpresa.
 2. Prepará boletos para asignar roles (ingresos altos, medios, bajos).
 3. Calculá cuántos boletos de cada tipo necesitás usando las fórmulas: 15% para ingresos altos, 35% para ingresos medios, 50% para ingresos bajos.
-4. Prepará las comidas: comida rica para el 15%, arroz con fréjoles para el 35%, arroz blanco y agua para el 50%.
+4. Prepará las comidas: comida rica para el 15%, arroz con porotos para el 35%, arroz blanco y agua para el 50%.
+
+> **Nota para el educador:** consulten antes las alergias e intolerancias alimentarias del grupo. Con los más chicos, expliquen al final que fue un juego y compartan algo de comer entre todos. Esta dinámica se conoce también como "Banquete del Hambre" de Oxfam, que tiene guías para organizarla.
 
 ## Desarrollo
 1. **Llegada** (5 min): Los invitados llegan y eligen un boleto al azar.
@@ -192,5 +194,12 @@ Organizá un 'Banquete del Hambre' donde los participantes reciben comidas segú
 - ¿Cómo te sentiste al recibir la comida que te tocó?
 - ¿Qué aprendiste sobre la desigualdad en el acceso a los alimentos?
 - ¿Qué acciones podés tomar para ayudar a reducir el hambre en el mundo?
+
+---
+## Texto original completo de la actividad
+
+**A.02 EL BANQUETE DEL HAMBRE** Invita a los miembros de tu grupo a que asistan a un ‘Banquete del Hambre’. Asegúrate de que los detalles sean una sorpresa. Cuando tus invitados lleguen, ellos pueden elegir un boleto al azar que les indicará si son trabajadores de ingresos altos, medios o bajos. Luego cada uno recibirá una comida correspondiente. Para saber cuántos boletos de cada tipo necesitarás (y qué comerá cada grupo): 1. Multiplica el total de tus invitados por 0,15. Ese número representa el 15 por ciento más alto, las personas con el nivel salarial más alto a las cuales se les servirá una comida rica y deliciosa. 2. Multiplica el total de tus invitados por 0,35. Ese número es la sección del medio y representa el 35 por ciento. Estas personas recibirán una comida simple de arroz con fréjoles. 3. El restante 50 por ciento del nivel salarial más bajo deberán servirse pequeñas porciones de arroz blanco y agua. Los invitados también pueden interpretar el personaje de una persona específica dentro del rol que han sido asignados. Obviamente, la mayoría de personas se irán del banquete sin sentirse llenas o completamente satisfechas. Al final de tu comida, permite que cada uno de los invitados hable sobre su experiencia. Úsala como una manera para hablar sobre por qué existe el hambre y sobre aquello que podemos hacer para cambiar las cosas.
+
+niveles 3 2 1
 
 ---

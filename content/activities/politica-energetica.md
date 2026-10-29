@@ -166,6 +166,8 @@ translation_notice:
 2. Investigá qué políticas existen en tu país.
 3. Prepará materiales para analizar.
 
+> **Opción:** usen la ley de energías renovables de tu país; en Argentina, por ejemplo, la Ley 27.191.
+
 ## Desarrollo
 
 ### Parte I - Investigación

@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Juego de mímica con palabras relacionadas con la seguridad alimentaria y la nut
 - ¿Qué palabras te resultaron más difíciles de representar?
 - ¿Qué aprendiste sobre seguridad alimentaria?
 - ¿Qué compromiso adquieres para seguir aprendiendo?
+
+---
+## Texto original completo de la actividad
+
+**C.04 MÍMICA.** En grupo, hagan un mazo de cartas, cada una con una palabra relacionada con la seguridad alimenticia o con la nutrición, como “sano”, “fecha de caducidad” o “bacterias”. ¡Sean lo más creativos que puedan! Después mezclen todas las cartas y divídanse en grupos. Jueguen a la mímica, donde cada uno tiene que interpretar la palabra de su carta, mientras que su grupo la tiene que adivinar.
+
+niveles 2 1
 
 ---

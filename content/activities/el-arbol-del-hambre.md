@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Creá un árbol donde las raíces representan las causas del hambre, el tronco l
 - ¿Qué causas del hambre identificaste?
 - ¿Cómo se conectan las causas, efectos y soluciones?
 - ¿Qué compromiso adquieres para ayudar a combatir el hambre?
+
+---
+## Texto original completo de la actividad
+
+**D.01 EL ÁRBOL DEL HAMBRE** Divídanse en grupos de 3-4 personas y den a cada grupo un modelo de un dibujo de árbol. En primer lugar, los grupos deben discutir sobre los efectos del hambre y escribirlos en el tronco del árbol (por ej. los niños no pueden concentrarse en la escuela, etc.). En segundo lugar, discutan sobre las causas del hambre y escríbanlas en las raíces del árbol. Finalmente, discutan sobre las acciones que pueden tomar para combatir el hambre (por ej. actividades de concientización, apoyar la microfinanciación, organizar una colecta de alimentos, etc.) y escríbanlas en las hojas y en las ramas del árbol. ¡Exhiban el árbol en su clase o en su centro comunitario para que otros lo vean y pasen la voz!
+
+niveles 3 2 1
 
 ---

@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,5 +191,12 @@ Investigá las etapas de producción de un alimento y creá una cadena alimentar
 - ¿Qué aprendiste sobre la producción de alimentos?
 - ¿Qué etapas te parecieron más importantes?
 - ¿Qué compromiso adquieres para valorar el sistema alimentario?
+
+---
+## Texto original completo de la actividad
+
+**B.04 CADENAS ALIMENTARIAS** En grupos pequeños, elijan un tipo de alimento que comen frecuentemente e investiguen sobre las diferentes etapas de su producción (desde el cultivo, hasta la cosecha, el procesamiento, el empacado y la venta. ¡No se olviden del transporte!). En diferentes círculos de cartulina, hagan un dibujo que represente a cada etapa. Luego pueden unirlos con una cuerda y colgar sus cadenas alimentarias en su clase o sala de reunión. Extensión: si es posible, visiten una granja local o una fábrica de procesamiento de alimentos como parte de su investigación. ¿Cómo funciona? Describan los procesos que vieron y las cosas que observaron (por ej. ¿qué máquinas se están usando?, ¿las fábricas estaban muy limpias?, ¿por qué creen que es así?, etc.).
+
+niveles 3 2 1
 
 ---

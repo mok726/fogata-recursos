@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Organizá un picnic saludable y sostenible con envases reutilizables, ingredient
 - ¿Qué alimentos elegiste para el picnic?
 - ¿Cómo podés hacer que tus picnics sean más sostenibles?
 - ¿Qué compromiso adquieres para disfrutar de la naturaleza de forma responsable?
+
+---
+## Texto original completo de la actividad
+
+**D.16 PREPARA UN PICNIC VERDE.** Organicen en grupo un picnic verde y sano. Pueden cocinar al aire libre o cada uno puede traer un plato de su casa. Sigan los consejos de la sección de Dietas Sostenibles de esta Insignia para hacer que el picnic sea lo más respetuoso con el medio ambiente como sea posible. Por ejemplo, pongan la comida en envases reutilizables en lugar de en papel de aluminio o en film de plástico. No utilicen cubiertos ni platos de plástico: utilicen recipientes, platos y cubiertos reutilizables, o hagan comida para la que no hagan falta cubiertos. Escojan ingredientes sanos y respetuosos con el medio ambiente o cultívenlos ustedes mismos. Incluyan algunas actividades físicas en el programa del picnic. Jueguen a juegos y hagan deporte (como el fútbol, el bádminton, bailar, yoga, etc.).
+
+niveles 3 2
 
 ---

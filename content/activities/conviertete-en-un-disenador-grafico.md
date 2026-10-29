@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ Diseñá una representación gráfica de una dieta equilibrada (pirámide, plato
 2. Elegí un formato (pirámide, plato, cesta, arcoíris, etc.).
 3. Prepará material de diseño.
 
+> **Opción:** tomen como modelo la gráfica de la guía alimentaria oficial de tu país; en Argentina, por ejemplo, las Guías Alimentarias para la Población Argentina (GAPA) del Ministerio de Salud, con su gráfica del plato.
+
 ## Desarrollo
 1. **Investigación** (15 min): Investigá diferentes representaciones.
 2. **Diseño** (25 min): Creá tu propio diseño gráfico.
@@ -186,5 +188,12 @@ Diseñá una representación gráfica de una dieta equilibrada (pirámide, plato
 - ¿Qué formato elegiste y por qué?
 - ¿Qué mensajes incluiste?
 - ¿Qué compromiso adquieres para seguir una dieta equilibrada?
+
+---
+## Texto original completo de la actividad
+
+**E.05 CONVIÉRTETE EN UN DISEÑADOR GRÁFICO.** Todos los países utilizan diferentes diseños para representar una dieta equilibrada. Una de las más comunes es la pirámide alimenticia. Otros ejemplos son un plato, una cesta o un arcoíris. Piensa en una manera gráfica de representar una dieta equilibrada. Usa un formato fácil de entender. Añade algunos mensajes para explicar el gráfico.
+
+niveles 3 2 1
 
 ---

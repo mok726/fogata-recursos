@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,7 +175,7 @@ rama_rovers:
 Investigá qué pescado podés comprar de manera sostenible y creá una guía de bolsillo.
 
 ## Preparación
-1. Investigá las piscifactorías y pesquerías de tu zona.
+1. Investigá las criaderos de peces y pesquerías de tu zona.
 2. Averiguá cómo se pescan las diferentes especies.
 3. Prepará material para la guía.
 
@@ -189,5 +189,12 @@ Investigá qué pescado podés comprar de manera sostenible y creá una guía de
 - ¿Qué pescado podés comprar de manera sostenible?
 - ¿Cuál debés evitar?
 - ¿Qué compromiso adquieres para comprar pescado de manera responsable?
+
+---
+## Texto original completo de la actividad
+
+**D.18 COMPRA PESCADO DE MANERA SELECTIVA.** Hoy en día, nuestras ganas de pescado han sobrepasado los límites ecológicos del océano, provocando un impacto devastador. Un 70% de las reservas de peces del mundo se han pescado en su totalidad, se han pescado de manera excesiva o se han reducido considerablemente. Algunas especies se han pescado hasta la extinción para fines comerciales, y otras están en peligro de extinción. Investiga sobre las piscifactorías de tu zona y crea una guía de bolsillo para saber qué pescado puedes comprar y cuál debes evitar. ¿Dónde y cómo se pescan o se crían las diferentes especies de peces? Prepara un collage creativo que puedas compartir con tu familia. Aquí tienes un ejemplo: Know your seafood (“Conoce tu pescado”): www.oneworldoneocean.com/blog/entry/know-your-seafoodinfographic
+
+niveles 3 2
 
 ---

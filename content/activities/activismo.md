@@ -62,9 +62,6 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.endinghunger.org/es/act-petition.html"
-    caption: "Petición para acabar con el hambre"
-    icon: "read_more"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -72,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,7 +174,10 @@ rama_rovers:
 Firmá la petición para acabar con el hambre y difundí el mensaje a través de redes sociales.
 
 ## Preparación
-1. Accedé a la petición en: www.endinghunger.org/es/act-petition.html.
+1. Buscá una petición o campaña vigente contra el hambre.
+
+> **Nota para el educador:** la campaña "1billionhungry / Acabar con el Hambre" de FAO ya terminó y su sitio no está activo. **Opción:** busquen una campaña actual de una organización reconocida, o escriban una carta a un legislador o autoridad local pidiendo una medida concreta contra el hambre.
+
 2. Prepará tus dispositivos para compartir en redes.
 3. Pensá en formas creativas de difundir el mensaje.
 
@@ -191,5 +191,12 @@ Firmá la petición para acabar con el hambre y difundí el mensaje a través de
 - ¿Por qué es importante firmar peticiones?
 - ¿Cómo podés seguir siendo un activista?
 - ¿Qué compromiso adquieres para seguir apoyando la lucha contra el hambre?
+
+---
+## Texto original completo de la actividad
+
+**E.07 ACTIVISMO** Firma la petición para acabar con el hambre (www.endinghunger.org/es/act-petition.html) y pon ‘Me gusta’ en la página de Facebook de Acabar con el Hambre para unirte al movimiento Acabar con el Hambre. Comparte estas páginas tan ampliamente como puedas en los sitios de los medios sociales e intenta animar a tus amigos y a tu familia a que también firmen la petición. ¿En qué otras formas puedes pensar para ser un activista para poner fin al hambre?
+
+niveles 3 2 1
 
 ---

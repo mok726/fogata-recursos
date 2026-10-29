@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Juego divertido para moverse más asignando movimientos de animales a cada parti
 - ¿Qué animal te resultó más divertido de imitar?
 - ¿Cómo te sentiste al moverte como un animal?
 - ¿Qué compromiso adquieres para moverte más cada día?
+
+---
+## Texto original completo de la actividad
+
+**A.03 ANIMALES ACTIVOS.** ¡Aquí tienes un juego muy divertido para moverte más! Formen un círculo y elijan un animal que les guste. Después, asignen un movimiento a cada animal, por ejemplo: el mono anda, la rana salta, el gusano se mueve lentamente, la araña se arrastra, el oso gatea, etc. Jueguen un juego en el que una persona diga el nombre de su animal y realice su movimiento seguido por el nombre y el movimiento del animal de otro miembro del grupo. El juego continúa utilizando todos los animales y los movimientos cada vez más rápido. Para que se diviertan más, ¡pueden añadir los sonidos de los animales a la mezcla!
+
+nivel 1
 
 ---

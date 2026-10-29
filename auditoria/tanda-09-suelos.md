@@ -64,3 +64,12 @@
 ## Propuesta
 
 Un **chequeo automático de enlaces** sobre las 1041 actividades (`link`, `references` y URLs en el texto) sería más confiable que mi revisión manual. Desde este entorno no tengo salida a internet, pero el script se puede correr en tu contenedor `fogata-dev`. Si querés, lo escribo.
+
+## Estado (2026-10-29)
+
+Aplicado:
+- `references.url` de las 49 apunta al PDF en español: https://www.fao.org/3/a-i3855s.pdf (verificado).
+- Recuperado del original: libros (B08), roles del debate (C10), ejemplos de hábitos (D06), sellado del suelo (C03), factores formadores (A03), tapar el hoyo (A01).
+- Notas: B10 (agua no potable y opción de filtro con botella), C11, D04, D11, A04, A05, C13, D02. B04: tiempo de secado corregido en la adaptación.
+- Material: D01 (7 de julio, ejemplo de Argentina), D05 (manual de compostaje en español; INTA/ProHuerta como ejemplo), D09 (Alianza Mundial por el Suelo; AACS como ejemplo).
+- Pendiente: los enlaces viejos del original (Smithsonian, NRCS, EPA, soil-net, Illinois) quedan para el link-check (G17). Los títulos en Title Case no son un error (es el estilo del sitio).

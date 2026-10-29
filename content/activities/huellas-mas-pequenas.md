@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -164,6 +164,8 @@ Discutí los impactos del cambio climático en el océano, identificá actividad
 ## Preparación
 1. Investigá sobre el cambio climático y sus impactos en el océano.
 2. Prepará materiales para la discusión y el compromiso.
+
+> **Nota para el educador:** la página de la EPA que sugiere el original para buscar ideas ya no existe. Pueden usar la campaña "ActNow" de la ONU (un.org/es/actnow) o las guías de su ministerio de ambiente.
 
 ## Desarrollo
 1. **Discusión** (15 min): Hablá sobre los impactos del cambio climático en el océano y cómo afectan a las personas.

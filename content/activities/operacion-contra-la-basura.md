@@ -32,7 +32,7 @@ age_group:
 materials:
   - Formulario de encuesta impreso
   - Hojas para registrar datos
-  - Bolígrafo
+  - Lapicera
   - Cámara fotográfica (opcional)
 tools: []
 responsible:
@@ -235,7 +235,7 @@ Tirar basura es un desafío tanto para el ambiente como para la sociedad. Esta a
 5. ¿De quién es la responsabilidad de mantener limpios los espacios públicos?
    □ De las personas
    □ De los recolectores
-   □ De la Corporación Municipal
+   □ Del municipio
 
 6. ¿Cuáles son los principales problemas con la basura?
    □ Se ve poco estético
@@ -248,7 +248,7 @@ Tirar basura es un desafío tanto para el ambiente como para la sociedad. Esta a
    □ No
    □ En parte
 
-8. ¿Se lleva su basura para botarla en un contenedor si no encuentra uno?
+8. ¿Se lleva su basura para tirarla en un contenedor si no encuentra uno?
    □ Sí
    □ No
    □ Si no es así, ¿por qué?

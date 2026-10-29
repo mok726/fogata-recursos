@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Exterior"
+location: "Interior"
 space_required: "Supermercado local o tiendas cercanas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -168,7 +168,7 @@ translation_notice:
 Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usá colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Consultá la ilustración "Tipos de plástico" para reconocer los materiales plásticos.
 3. Prepará tarjetas o papel para crear el sistema de puntuación.
 
@@ -185,6 +185,8 @@ Como grupo, diseñen un sistema de tarjetas de puntuación para evaluar los empa
 
 ### Parte II
 Visiten un supermercado local y evalúen al menos 20 productos diferentes. Tomen fotos de los empaques.
+
+> **Nota para el educador:** antes de sacar fotos, pidan permiso al encargado del comercio. Con los más chicos, la visita va con adultos acompañando al grupo.
 
 ### Parte III
 Compartan sus hallazgos con el grupo. ¿Qué productos tienen los mejores puntajes? ¿Cuáles tienen los peores? ¿Qué marcas están haciendo un mejor trabajo?

@@ -75,7 +75,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -195,5 +195,12 @@ Vigilá el desperdicio de comida en tu casa durante una semana y buscá formas d
 - ¿Cuánta comida desperdiciaste en una semana?
 - ¿Cómo te sentiste al ver la cantidad de comida desperdiciada?
 - ¿Qué compromiso adquieres para reducir el desperdicio de alimentos?
+
+---
+## Texto original completo de la actividad
+
+**D.02 CUIDADO CON LO QUE DESPERDICIAS.** ¿Cuánta comida se desperdicia en tu casa? Vigila el cubo de la basura durante una semana o dos para ver cuánta comida tiran a la basura tu familia y tú. ¿Qué comidas tiran? ¿Sigue siendo comestible? ¿Por qué la han tirado? Apúntalo en un diario y luego expón tus conclusiones a tu familia. Debatan sobre las maneras de reducir el desperdicio de comida, y explícales por qué es importante. Aporta sugerencias sobre una mejor planificación y conserva para prevenir el gasto. Por ejemplo, poner un estante de “Cómeme primero” en el frigorífico.
+
+niveles 3 2 1
 
 ---

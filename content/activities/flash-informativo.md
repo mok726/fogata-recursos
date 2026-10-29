@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Diseñá un periódico dedicado a cuestiones globales sobre el hambre y la pobre
 - ¿Qué noticias sobre el hambre te parecieron más importantes?
 - ¿Cómo podés contribuir a difundir información sobre el hambre?
 - ¿Qué compromiso adquieres para mantenerte informado sobre el hambre?
+
+---
+## Texto original completo de la actividad
+
+**B.08 FLASH INFORMATIVO** Diseña un periódico dedicado a cuestiones globales sobre el hambre y la pobreza. ¿Cómo deseas que se vea? ¿Qué noticia importante presentarás en la portada? ¿Con qué fotografías? No olvides añadir alguna información general sobre cuestiones clave. Elije los temas relacionados con el hambre que te parezcan más importantes y escribe una noticia principal en profundidad para tu público objetivo.
+
+niveles 3 2
 
 ---

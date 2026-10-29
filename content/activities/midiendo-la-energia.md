@@ -172,6 +172,8 @@ Investigá las diferentes unidades para medir energía: julio, kilovatio-hora, c
 2. Buscá facturas de electricidad o gas en tu casa (opcional).
 3. Prepará materiales para tomar notas.
 
+> **Opción:** usen una factura de luz real: el consumo aparece en kWh (kilovatios-hora). En Argentina, por ejemplo, la de tu distribuidora o cooperativa eléctrica.
+
 ## Desarrollo
 
 ### Parte I - Investigación

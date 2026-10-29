@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Descubrí alimentos tradicionales que tus abuelos comían y que hoy están olvid
 2. Averiguá dónde conseguían esos alimentos.
 3. Prepará material para registrar la información.
 
+> **Opción:** incluyan alimentos nativos de tu región; en Argentina, por ejemplo, la quinoa, el amaranto, la algarroba o el chañar.
+
 ## Desarrollo
 1. **Entrevista** (20 min): Hablá con tus padres o abuelos.
 2. **Investigación** (15 min): Investigá sobre los alimentos mencionados.
@@ -185,5 +187,12 @@ Descubrí alimentos tradicionales que tus abuelos comían y que hoy están olvid
 - ¿Qué alimentos olvidados descubriste?
 - ¿Dónde se conseguían?
 - ¿Qué compromiso adquieres para redescubrir y valorar estos alimentos?
+
+---
+## Texto original completo de la actividad
+
+**D.19 REDESCUBRE ALIMENTOS OLVIDADOS.** El mundo tiene unas 50 000 especies comestibles de plantas, y los agricultores han domesticado unas 5 000. Sin embargo, hoy en día la producción mundial de cultivos se concentra en solo 12 especies. Redescubre los alimentos olvidados. Pregunta a tus padres o abuelos qué comían cuando eran jóvenes. ¿Dónde conseguían esos alimentos? ¿Los puedes conseguir ahora? *Asegúrate de preguntarle a un experto y utilizar las especies correctas; puede ser peligroso que te equivoques.
+
+niveles 3 2
 
 ---

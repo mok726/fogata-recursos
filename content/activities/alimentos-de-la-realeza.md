@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,6 +170,9 @@ Reflexioná sobre el concepto de soberanía alimentaria y cómo se relaciona con
 
 ## Preparación
 1. Investigá el concepto de soberanía alimentaria.
+
+> **Nota para el educador:** es un concepto con carga política (lo impulsan movimientos campesinos como La Vía Campesina) y se suele contrastar con "seguridad alimentaria" (FAO). Presenten las distintas miradas para que el grupo saque sus propias conclusiones.
+
 2. Reflexioná sobre su relación con el hambre.
 3. Prepará material para escribir.
 
@@ -184,5 +187,12 @@ Reflexioná sobre el concepto de soberanía alimentaria y cómo se relaciona con
 - ¿Qué es la soberanía alimentaria y por qué es importante?
 - ¿Cómo se relaciona con el hambre?
 - ¿Qué compromiso adquieres para apoyar la soberanía alimentaria?
+
+---
+## Texto original completo de la actividad
+
+**B.07 ALIMENTOS DE LA REALEZA** Piensa un poco en el concepto de la soberanía alimentaria. ¿Qué exactamente significa para ti? Ser un ‘soberano’ significa regir o gobernar algo. ¿Por qué crees que es importante que las personas tengan la oportunidad de gobernar sus propios sistemas alimentarios? ¿Cómo está relacionada la soberanía alimentaria con el hambre en el mundo? Escribe una historia corta o una dramatización para ilustrar el concepto y aquello que significa para los individuos. Léela o preséntala a tus amigos y a tu familia. Extensión: investiga un poco, compara países que gozan de soberanía alimentaria con otros países que no poseen soberanía alimentaria.
+
+niveles 3 2
 
 ---

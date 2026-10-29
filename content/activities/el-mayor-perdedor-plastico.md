@@ -168,7 +168,7 @@ translation_notice:
 Organizá una competencia entre clases o grupos para ver quién puede reducir más su consumo de plásticos de un solo uso durante una semana. ¡El grupo que produzca menos residuos plásticos gana!
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Organizá dos espacios en la escuela para que cada grupo acumule sus residuos plásticos de la semana.
 3. Prepará planillas de registro para cada participante.
 4. Definí un premio para el grupo ganador.
@@ -182,6 +182,8 @@ Organizá un "enfrentamiento plástico" entre tu clase y otra clase de la escuel
 - Todos los participantes guardan todos los plásticos que usan durante la semana
 - Cada persona registra cada artículo que agrega a la pila
 - Cada clase crea su propia "montaña" de plástico
+
+> **Nota para el educador:** enjuaguen los envases con restos de comida o bebida antes de guardarlos, para evitar olores, insectos y roedores durante la semana.
 
 **Planilla de registro:**
 | Plástico | Cantidad |

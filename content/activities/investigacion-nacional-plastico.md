@@ -170,8 +170,10 @@ translation_notice:
 Investigá la situación de la contaminación plástica en tu país. Analizá cuánto plástico se produce, qué pasa con los residuos y qué políticas existen. Creá un informe con recomendaciones para mejorar la situación.
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Identificá fuentes confiables para tu investigación.
+
+> **Nota para el educador:** buenas fuentes son el ministerio u organismo de ambiente de tu país y el instituto nacional de estadística. En Argentina, por ejemplo, el Ministerio de Ambiente de la Nación y el INDEC; también los informes de universidades nacionales.
 3. Prepará herramientas para organizar datos.
 
 ## Desarrollo

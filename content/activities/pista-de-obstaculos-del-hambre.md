@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,7 +172,7 @@ Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo
 ## Preparación
 1. Dividí el grupo en cuatro o cinco grupos pequeños.
 2. Creá estaciones con diferentes problemas de hambre.
-3. Prepará carteles con descripciones.
+3. Prepará carteles con descripciones. Por ejemplo: una sequía arruina la cosecha; los alimentos son tan caros que una familia numerosa no llega a fin de mes; una inundación corta los caminos al mercado; una plaga ataca los cultivos; una familia no tiene dónde guardar los alimentos y se le echan a perder.
 
 ## Desarrollo
 1. **Rotación** (5 min por estación): Cada grupo visita una estación y busca soluciones.
@@ -183,5 +183,12 @@ Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo
 - ¿Qué problema te pareció más difícil de resolver?
 - ¿Qué soluciones creativas encontraste?
 - ¿Qué compromiso adquieres para ayudar a resolver problemas de hambre?
+
+---
+## Texto original completo de la actividad
+
+**D.06 PISTA DE OBSTÁCULOS DEL HAMBRE** Divide tu grupo en cuatro o cinco grupos más pequeños. Crea cuatro o cinco estaciones diferentes en tu clase, cada una debe describir un problema diferente del hambre (por ej. una sequía en una región, los alimentos son muy costosos como para alimentar a una familia grande, una pareja de ancianos que no puede viajar hasta el mercado para comprar alimentos, etc.). Cada grupo debe rotar alrededor de la clase y tiene 5 minutos para tratar el problema que se ha colocado en un cartel en cada estación. Cada grupo debe hacer una lluvia de ideas sobre posibles soluciones. Una vez que todas las estaciones hayan sido visitadas por todos los grupos, discutan juntos sobre las soluciones. IDEA
+
+niveles 3 2
 
 ---

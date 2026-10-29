@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Evaluá tus hábitos de higiene personal y en casa, y buscá formas de mejorarlo
 - ¿Qué hábitos de higiene podés mejorar?
 - ¿Cómo afectaría a tu vida una mejor higiene?
 - ¿Qué compromiso adquieres para mantenerte limpio?
+
+---
+## Texto original completo de la actividad
+
+**A.05 MANTÉNGANSE LIMPIOS.** Haz un seguimiento de tu higiene en tu día a día. Empieza con tu vida personal. ¿Te bañas o te duchas todos los días? ¿Te lavas las manos cuando es necesario, como después de ir al baño, antes de comer o después de hacer deporte al aire libre? También debes prestar atención a la higiene en casa y en la escuela. ¿Puedes mejorarla? ¿Cómo afectaría a tu vida una mejor higiene? ¿Facilitaría las cosas si fueses más limpio? Si no estás satisfecho con algún aspecto de la higiene de tu colegio o de tu casa, habla con tu familia o tus profesores para mejorar las cosas.
+
+niveles 3 2 1
 
 ---

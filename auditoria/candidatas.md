@@ -41,3 +41,9 @@ Dos datos de esa página:
 | OMMS, *Discovering the SDGs – Activity kit* (manual en español), https://www.jotajoti.info/sites/default/files/uploads/Discovering%20the%20SDGs%20activity%20kit%20-%20Manual_ES.pdf | es | ? | Citada por SAAC Mundo Mejor. |
 | Scouts de España (ASDE), *Anexo II. Recopilación de actividades de EpDS en torno a los ODS*, https://scout.es/wp-content/uploads/2023/03/3.-Anexo-II.-Recopilacion-de-actividades-de-EpDS-en-torno-a-los-ODS-1.pdf | es | ? | |
 | *Scouts por los ODS* (siemprelistos.com), https://siemprelistos.com/wp-content/uploads/2020/03/Scouts-por-los-ODS.pdf | es | ? | |
+
+## WeatherWizKids (anotada 2026-10-29, pedido de Mariano)
+
+- Sitio: www.weatherwizkids.com (en inglés). Tiene actividades y experimentos de clima para chicos: huracanes, nubes, tornados, etc.
+- La Insignia del Océano de FAO (i3465s, 2013) reproduce "con la gentil autorización de www.WeatherWizKids.com" la **A.11 Huracanes, Ciclones y Tifones** y la base de la A.4 (Hacé una Nube). Ese permiso es para FAO; no nos cubre.
+- No cargamos la A.11. Próximo paso: revisar qué otras actividades del sitio sirven y, si conviene, escribirles pidiendo permiso para traducirlas y adaptarlas (licencia de Fogata: CC BY-NC-SA 4.0, uso no comercial).

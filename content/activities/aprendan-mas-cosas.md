@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -190,5 +190,12 @@ Utilizá los materiales de Alimentarnos bien para estar sanos para aprender sobr
 - ¿Qué aprendiste sobre los macronutrientes y micronutrientes?
 - ¿Cómo influyen en tu salud?
 - ¿Qué compromiso adquieres para mejorar tu dieta?
+
+---
+## Texto original completo de la actividad
+
+**B.06 APRENDEN MÁS COSAS.** Utilicen los materiales de Alimentarnos bien para estar sanos (disponibles en http://www.fao.org/docrep/019/i3261s/i3261s00.htm para averiguar más cosas sobre los nutrientes que obtenemos de los alimentos, sus funciones y la importancia de una dieta equilibrada. Estudien el Tema 4 (macronutrientes) y el Tema 5 (micronutrientes) (pueden acceder a ellos con el link anterior). Hagan al menos tres actividades de cada tema.
+
+niveles 3 2 1
 
 ---

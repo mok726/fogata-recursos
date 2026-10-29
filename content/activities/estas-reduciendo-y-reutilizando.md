@@ -159,7 +159,7 @@ translation_notice:
 Aprendé a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas. Descubrí formas creativas de darle nueva vida a los plásticos que ya tenés.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Prepará un pizarrón para anotar las ideas del grupo.
 3. Tené papel y lápices para que cada participante escriba su plan.
 

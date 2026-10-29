@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Organizá una acampada o excursión saludable con menús nutritivos y actividad 
 - ¿Qué actividad física disfrutaste más?
 - ¿Cómo te sentiste al cocinar y comer comidas saludables?
 - ¿Qué compromiso adquieres para seguir practicando actividades saludables?
+
+---
+## Texto original completo de la actividad
+
+**A.09 ACAMPADA SALUDABLE.** En grupo, organicen una acampada o una excursión saludable. Cada uno de ustedes puede preparar el menú de un día. Pongan todos sus menús en un libro de menús. Compartan las tareas de cocina para asegurarse de que todo el mundo contribuya a prepararlas. Incluyan algo de actividad física en el programa de su acampada: senderismo, escalada, baile, yoga, hípica o deportes de equipo.
+
+niveles 3 2
 
 ---

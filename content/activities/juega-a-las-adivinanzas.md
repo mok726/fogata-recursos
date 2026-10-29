@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Juego de adivinanzas con alimentos para aprender sobre la importancia de una die
 2. Colocá las muestras en recipientes.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** consulten antes alergias, intolerancias y celiaquía; con los ojos cerrados nadie puede elegir qué prueba. Usen solo alimentos que todos puedan comer.
+
 ## Desarrollo
 1. **Preparación** (10 min): Organizá las muestras de alimentos.
 2. **Juego** (20 min): Los participantes cierran los ojos, tocan, huelen y prueban.
@@ -187,5 +189,12 @@ Juego de adivinanzas con alimentos para aprender sobre la importancia de una die
 - ¿Qué alimentos pudiste identificar?
 - ¿Por qué es importante comer alimentos variados?
 - ¿Qué compromiso adquieres para probar nuevos alimentos?
+
+---
+## Texto original completo de la actividad
+
+**E.07 JUEGA A LAS ADIVINANZAS.** Juega a las adivinanzas con los niños de tu comunidad. Preparen muestras de varios alimentos (cereales, legumbres, frutas y verduras). Cierren los ojos y toquen, huelan y prueben las muestras de comida. ¿Pueden adivinar qué alimentos son? Hablen sobre la importancia de seguir una dieta variada.
+
+niveles 3 2 1
 
 ---

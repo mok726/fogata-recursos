@@ -168,11 +168,11 @@ translation_notice:
 # ¡Empuje del Viento!
 
 ## Resumen
-El viento es una forma de energía que ayuda a muchos organismos en la naturaleza. Observá cómo el viento mueve plantas, polen y animales, volá una cometa y hacé un molinillo para entender mejor la energía del viento.
+El viento es una forma de energía que ayuda a muchos organismos en la naturaleza. Observá cómo el viento mueve plantas, polen y animales, volá un barrilete y hacé un molinillo para entender mejor la energía del viento.
 
 ## Preparación
 1. Leé la información sobre el viento en la sección de información de fondo.
-2. Prepará materiales para hacer un molinillo (si no tenés cometa).
+2. Prepará materiales para hacer un molinillo (si no tenés barrilete).
 3. Buscá un espacio abierto, lejos de cables eléctricos y personas.
 
 ## Desarrollo
@@ -185,11 +185,11 @@ Observá cómo el viento afecta a la naturaleza:
 - ¿Ves pájaros volando en la dirección del viento?
 - ¿Cómo se mueven las plantas con el viento?
 
-### Parte II - Volar una cometa
-Si es posible, vuela una cometa con tu grupo en un día ventoso.
+### Parte II - Volar un barrilete
+Si es posible, volá un barrilete con tu grupo en un día ventoso.
 
 **¡Seguridad primero!**
-- Volá la cometa en un espacio abierto
+- Volá el barrilete en un espacio abierto
 - Lejos de personas y cables eléctricos
 - Con supervisión de un adulto
 

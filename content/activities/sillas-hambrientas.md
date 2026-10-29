@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,5 +183,12 @@ Juego para pensar en la escasez de alimentos usando sillas y frutas.
 - ¿Cómo te sentiste cuando no había suficiente sillas para todos?
 - ¿Qué creés que podemos hacer para que haya suficiente comida para todos?
 - ¿Qué compromiso adquieres para ayudar a reducir el desperdicio de alimentos?
+
+---
+## Texto original completo de la actividad
+
+**A.03 SILLAS HAMBRIENTAS** Esta es una manera divertida de pensar en la escasez de alimentos. Haz algunos dibujos de diferentes tipos de frutas. Haz varias copias de cada tipo (por ej. si son 12 participantes, elige 3 tipos diferentes de frutas - por ej. manzanas, papayas y bananas). Coloca una silla para cada participante y pega un dibujo en cada silla. Cada uno de ustedes debe buscar una silla para sentarse, pero deben recordar qué fruta son. Su maestro, profesor o dirigente luego debe mencionar el nombre de una fruta. Los jugadores que estén sentados en esas sillas deben pararse de un salto y correr hacia otra silla que esté vacía (no pueden regresar a la silla que acabaron de dejar). Su maestro, profesor o dirigente puede mencionar varias frutas diferentes al mismo tiempo, o incluso todas - ¡cuidado, en este caso es posible que terminen sentándose en una silla con una fruta diferente! Después de un par de rondas de práctica, donde todos se cambien de sillas, retira una silla. Aquella persona que no logre llegar a una silla en la próxima ronda debe salir del juego. En cada ronda siguiente se debe remover una silla y eliminar a otro jugador. El juego continúa hasta que queda sólo una silla. Al final del juego, hablen sobre las razones por las cuales algunas veces no hay suficiente comida para alimentar a todos.
+
+nivel 1
 
 ---

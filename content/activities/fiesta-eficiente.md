@@ -35,7 +35,7 @@ age_group:
 materials:
   - Platos y cubiertos reutilizables
   - Alimentos locales y de temporada
-  - Bombillas de bajo consumo
+  - Lamparitas de bajo consumo
 tools: []
 responsible:
   - Docente o Scouter
@@ -178,7 +178,7 @@ Elegí elementos sostenibles:
 
 - **Comida**: local, de temporada, vegetariana
 - **Vajilla**: reutilizable (no descartable)
-- **Iluminación**: bombillas de bajo consumo
+- **Iluminación**: lamparitas de bajo consumo
 - **Decoración**: materiales naturales o reciclados
 
 ### Parte II - Crear tarjetas

@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,5 +191,12 @@ Visitá una granja, planta de alimentos, restaurante o tienda para aprender cóm
 - ¿Qué medidas de seguridad alimentaria viste?
 - ¿En qué se parece a cómo preparás la comida en casa?
 - ¿Qué compromiso adquieres para mejorar la seguridad alimentaria?
+
+---
+## Texto original completo de la actividad
+
+**C.02 LA SEGURIDAD ALIMENTARIA EN ACCIÓN.** Visiten una granja, una planta de elaboración de alimentos, un restaurante o una tienda de venta al por menor (un supermercado o un restaurante). Hablen con las personas que les acompañan sobre cómo se manipulan los alimentos para asegurar la frescura y seguridad. Esto puede incluir temas relacionados con la conservación de los alimentos, su manipulación y su preparación, la forma cómo se cocinan y se sirven, y la eliminación de desechos. ¿Quién es el responsable de comprar la comida y en qué se fijan para asegurar que es sana? Tomen fotos o hagan dibujos y luego debatan sobre cómo esas acciones les afectan a ustedes y a su comunidad. ¿En qué se parece a cómo preparan ustedes la comida en casa?
+
+niveles 3 2 1
 
 ---

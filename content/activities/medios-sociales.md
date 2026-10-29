@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -149,6 +149,9 @@ Usá las redes sociales para crear conciencia sobre los suelos y su conservació
 
 ## Preparación
 1. Elegí una plataforma para tu campaña.
+
+> **Nota de seguridad:** con menores, la cuenta la administra un adulto responsable, según la política de protección de tu organización scout nacional o de tu escuela. No publiquen datos personales ni fotos de chicos sin autorización.
+
 2. Prepará fotos y contenido.
 3. Definí un calendario de publicaciones.
 

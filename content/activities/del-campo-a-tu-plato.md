@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Investigá el ciclo de vida de un alimento desde su producción hasta tu plato, 
 - ¿Cómo afecta este alimento al medio ambiente?
 - ¿Podés sustituirlo por una alternativa más sostenible?
 - ¿Qué compromiso adquieres para elegir alimentos más sostenibles?
+
+---
+## Texto original completo de la actividad
+
+**D.17 DEL CAMPO A TU PLATO.** Escoge un alimento que comas a menudo e investiga su ciclo vital del campo a tu plato. ¿Dónde se produce? ¿Es un producto de tu zona, de tu región, importado? ¿Está cultivado en el campo, en un invernadero, o en una granja ecológica? ¿Qué recursos naturales (agua, tierra, combustibles fósiles) se necesitan para producir este alimento? ¿Necesita fertilizante? ¿Dónde y cómo se procesa y se envasa? ¿Qué recursos se necesitan para producirlo y envasarlo? ¿Dónde se almacena? ¿Se necesita refrigerarlo o congelarlo para conservarlo? ¿Cómo se transporta del campo a tu plato? ¿Dónde se vende? ¿Lo preparas y lo cocinas tú? ¿Cuánto contribuye a las emisiones de gases de efecto invernadero? ¿Cómo afecta a la contaminación del agua, el aire o la tierra? ¿Es un alimento respetuoso con el medio ambiente? ¿Puedes sustituirlo por una alternativa más sostenible? Resume los resultados de tu investigación en una historia, en un blog o haz una presentación con diapositivas para el resto del grupo.
+
+niveles 3 2
 
 ---

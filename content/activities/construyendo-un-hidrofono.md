@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +185,8 @@ Construí un hidrófono para escuchar los sonidos subacuáticos.
 3. Conectá el micrófono a los audífonos.
 4. Prepará los materiales para sellar el globo.
 5. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** usen solo equipos a pilas (grabadora, celular, auriculares); nunca nada conectado a la red eléctrica cerca del agua. En la costa, nunca solos y siempre con adultos, atentos a la marea y las olas.
 
 ## Desarrollo
 1. **Montaje** (20 min): Seguí los pasos para construir el hidrófono.

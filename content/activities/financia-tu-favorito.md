@@ -175,6 +175,8 @@ Investigá diferentes proyectos de acceso a energía en el mundo. Elegí el que 
 2. Elegí uno que te guste.
 3. Planificá una recaudación de fondos.
 
+> **Nota para el educador:** las rifas y sorteos suelen necesitar autorización oficial; en Argentina, por ejemplo, la otorga la lotería de cada provincia. El manejo de dinero con menores sigue las normas de tu organización scout nacional.
+
 ## Desarrollo
 
 ### Parte I - Investigación

@@ -183,8 +183,8 @@ translation_notice:
 Creá un póster de los 17 Objetivos de Desarrollo Sostenible y explorá cómo la contaminación plástica se conecta con cada uno de ellos. Descubrí que los plásticos afectan a todos los ODS de alguna manera.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
-2. Revisá las conexiones entre plásticos y ODS en las páginas 12-19.
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
+2. Revisá las conexiones entre plásticos y ODS en las páginas 12-19 del mismo PDF.
 3. Prepará materiales para crear el póster.
 
 ## Desarrollo

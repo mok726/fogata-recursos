@@ -33,7 +33,7 @@ materials:
   - Pizarra o papelógrafo
   - Marcadores
   - Hojas de papel
-  - Bolígrafos
+  - Lapiceras
 tools: []
 responsible:
   - Docente o Scouter

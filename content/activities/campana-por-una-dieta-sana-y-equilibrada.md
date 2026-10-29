@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -190,5 +190,12 @@ Organizá un evento para celebrar la Semana de la Nutrición con talleres, charl
 - ¿Qué aprendiste organizando este evento?
 - ¿Cómo reaccionó la comunidad?
 - ¿Qué compromiso adquieres para seguir promoviendo dietas saludables?
+
+---
+## Texto original completo de la actividad
+
+**E.02 CAMPAÑA POR UNA DIETA SANA Y EQUILIBRADA.** Celebra el Día de la Salud o la Semana de la Nutrición en tu escuela o barrio. Invita a un ponente para que les hable sobre crear dietas sanas y equilibradas y sobre elegir bien los alimentos. Distribuye materiales educativos, organiza talleres y puestos interactivos, y haz exposiciones. Toma notas, fotos y vídeos del evento y publícalos en las redes.
+
+niveles 3 2 1
 
 ---

@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -190,5 +190,12 @@ Descubrí y prueba diferentes variedades de frutas y verduras para diversificar 
 - ¿Qué variedades de alimentos encontraste?
 - ¿Cómo beneficia la biodiversidad a tu dieta?
 - ¿Qué compromiso adquieres para diversificar tu alimentación?
+
+---
+## Texto original completo de la actividad
+
+**D.11 MEJORA TU DIETA CON LA BIODIVERSIDAD.** Una dieta variada es buena para ti y para el medioambiente. Si comes una gran variedad de alimentos, aumentarás las posibilidades de conseguir todos los nutrientes que necesitas. También puedes animar a los agricultores a que produzcan diferentes variedades de cultivos y especies para así salvar los recursos genéticos de planas y animales. ¿Sabes que podemos encontrar muchas variedades diferentes de la misma especie de verdura o fruta? ¡Y la mejor parte es que cada una tiene una forma, un color, un olor y un sabor diferente! Visita un mercado agrícola y encuentra tres variedades diferentes de al menos tres productos. Encuentra las similitudes y las diferencias entre ellos y prepara una exposición sobre lo que has descubierto. ¡También puedes incluir una comida deliciosa preparada con todos estos ingredientes!
+
+niveles 3 2 1
 
 ---

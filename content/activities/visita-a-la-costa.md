@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +186,10 @@ Visitá una playa con marea baja y observá animales y plantas que viven en la o
 2. Leé el código de conducta para la playa antes de ir.
 3. Prepará el equipo necesario (tabla sujetapapeles, guía, cámara).
 4. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** en la costa, nunca solos y siempre con adultos; atención a la marea (puede subir rápido y dejarlos aislados) y a las olas. No se metan al agua sin las medidas de seguridad acuática de tu organización; en embarcaciones, chaleco salvavidas siempre.
+>
+> Miren los animales en su lugar: si dan vuelta una roca, vuelvan a dejarla como estaba, y no se lleven animales ni conchas vivas.
 
 ## Desarrollo
 1. **Exploración** (30 min): Buscá animales y plantas en la orilla, bajo rocas y en pozas rocosas.

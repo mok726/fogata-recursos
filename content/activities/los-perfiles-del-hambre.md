@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Investigá la situación del hambre en tu país, identificá regiones con mayor 
 - ¿Cuáles son las regiones con mayor hambre en tu país?
 - ¿Qué factores causan esta situación?
 - ¿Qué compromiso adquieres para ayudar a cambiar esta realidad?
+
+---
+## Texto original completo de la actividad
+
+**C.06 LOS PERFILES DEL HAMBRE** Haz una investigación sobre la situación del hambre en tu país. ¿Hay regiones donde existe una mayor tasa de hambre que en otras? Si es posible, encuentra estadísticas y datos sobre los niveles de pobreza y hambre en diferentes áreas de tu país. Puedes usar este sitio web para comenzar: www.fao.org/countries/es. Ahora que ya has aprendido sobre las principales causas del hambre, habla sobre los motivos que provocaron la situación actual en tu país (o de unas regiones en particular). ¿Qué se puede hacer para cambiar esta situación?
+
+niveles 3 2
 
 ---

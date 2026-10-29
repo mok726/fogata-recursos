@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -156,6 +156,8 @@ Trabajá como voluntario en una organización relacionada con la conservación d
 
 ## Preparación
 1. Investigá organizaciones de conservación marina en tu área.
+
+> **Opción:** en Argentina, por ejemplo, Fundación Vida Silvestre, Aves Argentinas o Fundación Temaikèn tienen programas de voluntariado o ciencia ciudadana.
 2. Contactá a la organización y pregunta sobre oportunidades de voluntariado.
 3. Definí un horario y compromiso para el voluntariado.
 

@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,6 +181,8 @@ Organizá una comida compartida donde cada persona trae un plato y todos adivina
 3. Invitá a familia y amigos al evento.
 4. Prepará el espacio para la comida.
 
+> **Nota de seguridad:** consulten antes alergias, intolerancias y celiaquía. Pidan que cada plato tenga una tarjeta con sus ingredientes.
+
 ## Desarrollo
 1. **Preparación** (30 min): Cada participante prepara su plato.
 2. **Llegada** (10 min): Organizá los platos en la mesa.
@@ -192,5 +194,12 @@ Organizá una comida compartida donde cada persona trae un plato y todos adivina
 - ¿Qué nutrientes encontraste en los platos?
 - ¿Qué plato te pareció más nutritivo?
 - ¿Qué compromiso adquieres para incluir más nutrientes en tu dieta?
+
+---
+## Texto original completo de la actividad
+
+**B.01 PLATOS PARA COMPARTIR.** Hagan una lista con todos los nutrientes esenciales (como las vitaminas, los minerales o las proteínas). Después organicen una comida compartida, en la que todo el mundo será responsable de traer un plato. Inviten a su familia y amigos y háganles un “tour de los nutrientes” con todos los platos para ver si adivinan qué nutrientes contiene cada comida.
+
+niveles 3 2 1
 
 ---

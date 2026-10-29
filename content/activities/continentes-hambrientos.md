@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,9 @@ Investigá las estadísticas de hambre por continente y país. Creá pósters y 
 
 ## Preparación
 1. Divídanse en siete grupos pequeños (uno por continente).
+
+> **Nota para el educador:** la Antártida no tiene población permanente, así que alcanza con seis grupos; o usen el séptimo para comparar con el promedio mundial.
+
 2. Preparen material para pósters y acceso a internet.
 3. Usen el sitio web de la FAO: www.fao.org/countryprofiles/default/es.
 
@@ -187,5 +190,12 @@ Investigá las estadísticas de hambre por continente y país. Creá pósters y 
 - ¿Qué continentes tienen las tasas más altas de hambre?
 - ¿Qué similitudes y diferencias encontraste?
 - ¿Qué compromiso adquieres para ayudar a reducir el hambre global?
+
+---
+## Texto original completo de la actividad
+
+**A.08 CONTINENTES HAMBRIENTOS** Divídanse en siete grupos pequeños. Cada grupo debe elegir un continente y hacer un póster que muestre sus estadísticas sobre el hambre (cuántas personas padecen hambre, si viven en áreas rurales o en la ciudad, etc.). Adicionalmente, cada miembro del grupo debe elegir un país de ese continente para averiguar más sobre las personas que padecen hambre en ese lugar. Pueden usar este sitio web para empezar: www.fao.org/ countryprofiles/default/es. Presenten sus continentes y sus países individuales a los otros grupos, de modo que al final de la actividad todos los participantes estén conscientes sobre la situación global. Discutan sobre las similitudes y las diferencias entre los continentes.
+
+niveles 3 2
 
 ---

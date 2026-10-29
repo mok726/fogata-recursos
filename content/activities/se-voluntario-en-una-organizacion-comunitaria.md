@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ rama_rovers:
 2. Contactá la organización y pregunta sobre oportunidades de voluntariado.
 3. Elegí un proyecto o actividad para unirte.
 
+> **Opción:** en Argentina, por ejemplo, la Red Argentina de Bancos de Alimentos agrupa a los de muchas ciudades; también pueden colaborar con comedores barriales.
+
 ## Desarrollo
 1. **Investigación** (15 min): Buscá organizaciones locales.
 2. **Contacto** (10 min): Contactá la organización.
@@ -186,5 +188,12 @@ rama_rovers:
 - ¿Qué aprendiste como voluntario?
 - ¿Cómo contribuís a mejorar la nutrición en tu comunidad?
 - ¿Qué compromiso adquieres para seguir sirviendo a tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**E.11 SÉ VOLUNTARIO EN UNA ORGANIZACIÓN COMUNITARIA.** Busca una organización no gubernamental o una asociación que trabaje con asuntos relacionados con la nutrición, y únete a sus proyectos y actividades. Algunos ejemplos pueden incluir recoger donaciones de alimentos, hacer voluntariado en los bancos de alimentos, programas de alimentación escolar, cultivo de huertos, criar animales pequeños (pollos, conejos, peces, etc.), programas de eliminación de parásitos en la escuela, recaudar fondos, apoyar a las personas mayores, etc.
+
+niveles 3 2
 
 ---

@@ -176,6 +176,8 @@ Investigá las emisiones de CO₂ por país. ¿Dónde se encuentra tu país en c
 2. Accedé a la calculadora de huella de carbono de WWF.
 3. Prepará materiales para crear el póster.
 
+> **Opción:** para comparar emisiones por país (y no la huella personal), usen los gráficos de CO₂ por país de Our World in Data (ourworldindata.org/co2-emissions).
+
 ## Desarrollo
 
 ### Parte I - Investigación

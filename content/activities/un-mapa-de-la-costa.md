@@ -74,7 +74,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +186,8 @@ Investigá y dibujá un mapa detallado de una porción de la costa.
 1. Leé el código de conducta para la playa antes de la visita.
 2. Prepará el equipo (tabla, papel, lapiceras, cámara).
 3. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** en la costa, nunca solos y siempre con adultos; atención a la marea (puede subir rápido y dejarlos aislados) y a las olas. No se metan al agua sin las medidas de seguridad acuática de tu organización; en embarcaciones, chaleco salvavidas siempre.
 
 ## Desarrollo
 1. **Investigación** (15 min): Investigá la costa usando libros, fotos, internet y preguntando a personas locales.

@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Investigá etiquetas de sostenibilidad en productos y promové el consumo respon
 2. Buscá etiquetas de sostenibilidad.
 3. Prepará material para notas.
 
+> **Opción:** sumen los sellos y el etiquetado frontal de tu país; en Argentina, por ejemplo, la Ley 27.642 de Etiquetado Frontal (los sellos negros octogonales "EXCESO EN…"). También hay sellos como "Alimentos Argentinos" y el de producto orgánico.
+
 ## Desarrollo
 1. **Investigación** (20 min): Buscá etiquetas de sostenibilidad.
 2. **Comparación** (15 min): Compará precios y significados.
@@ -185,5 +187,12 @@ Investigá etiquetas de sostenibilidad en productos y promové el consumo respon
 - ¿Qué etiquetas de sostenibilidad encontraste?
 - ¿Cómo podés animar a tu familia a elegir estos productos?
 - ¿Qué compromiso adquieres para consumir de manera más sostenible?
+
+---
+## Texto original completo de la actividad
+
+**D.12 MIRA LAS ETIQUIETAS.** ¡Infórmate sobre las etiquetas! Busca las etiquetas de sostenibilidad en los mercados locales y en los supermercados. Averigua lo que significan y compáralas. ¿Qué productos has encontrado? ¿Hay diferencias entre los precios con las etiquetas de sostenibilidad y los demás productos? ¿Por qué crees que sucede esto? ¿Puedes animar a tu familia y amigos a que elijan estos productos? ¿Qué beneficios conllevaría hacerlo? Debatan vuestras conclusiones en grupo y preparen un póster guay para ponerlo en un lugar visible de tu supermercado.
+
+niveles 3 2
 
 ---

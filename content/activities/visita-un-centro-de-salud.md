@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,5 +181,12 @@ Visitá un centro de salud o invitá a un profesional sanitario para aprender so
 - ¿Qué servicios ofrece el centro de salud?
 - ¿Cómo ayuda a las personas con malnutrición?
 - ¿Qué compromiso adquieres para apoyar la salud en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**A.11 VISITA UN CENTRO DE SALUD.** Visita un centro de salud o invita a algún profesional sanitario a que les hable sobre los retos a los que se enfrenta en su trabajo. Investiga qué servicios ofrece el centro de salud a las personas que sufren malnutrición o problemas de salud y cómo pueden ofrecerse como voluntarios para ayudar.
+
+niveles 3 2
 
 ---

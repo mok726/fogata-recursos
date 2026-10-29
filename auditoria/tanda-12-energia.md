@@ -94,3 +94,16 @@
 | iluminando-y-empoderando (E14) | Enlaces alliantenergykids y tvakids. | — | genérica | P3 |
 | politica-energetica (E15) | Ley 27.191. | — | floja (bandera de EE. UU.) | P3 |
 | acampada-bajo-impacto (E16) | Conectar con los 7 principios de No Dejar Rastro. | — | **mala (media imagen en blanco)** | P3 |
+
+## Estado (2026-10-29)
+
+Ya estaban de un PR anterior: C16, C06, C12, A10, A07 y B03 (frijoles).
+
+Aplicado:
+- E12: nota sobre el texto duplicado con E01 en el original, más una opción con otro foco (campaña barrial con la distribuidora o cooperativa).
+- Seguridad: A11, A12, B02, B05, C08, C09, E03, E10, E11, E13.
+- Imprecisiones del original, como notas: A06, A09, C04, C08, C15, D08, E07.
+- Material: C14 (pares alimento → energía), D04 (Our World in Data), B08 (cianotipia), E16 (No Dejar Rastro).
+- Léxico: cometa → barrilete (A03), bombilla → lamparita (D03, E08).
+- Ejemplos locales: B01, B02, B05, B07, B10, B11, B12, C12, E15.
+- Imágenes: las 8 malas ya están en la lista de regeneración. Los enlaces viejos quedan para el link-check (G17).

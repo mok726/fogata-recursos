@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -153,7 +153,7 @@ Experimentá con tierra y agua para hacer tortas de barro y ladrillos.
 ## Desarrollo
 1. **Exploración** (10 min): Experimentá añadiendo diferentes cantidades de agua.
 2. **Creación** (15 min): Hacé tortas de barro y ladrillos.
-3. **Secado** (10 min): Dejá secar al sol por unas horas.
+3. **Secado** (unas horas): Dejá secar al sol. Si la reunión es corta, dejen los ladrillos secando y prueben construir en la reunión siguiente.
 4. **Prueba** (10 min): Construí algo con los ladrillos.
 
 ## Cierre

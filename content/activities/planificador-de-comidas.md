@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,9 +177,11 @@ Planificá un menú del día para un compañero, considerando sus necesidades nu
 2. Cada persona anota su edad y su nivel de actividad física. El peso y la altura no se comparten entre compañeros: es un dato sensible (imagen corporal, burlas).
 3. Prepará material para planificar el menú.
 
+> **Nota para el educador:** el peso y el cuerpo son temas sensibles. No pidan a nadie que diga o muestre su peso, no permitan chistes sobre el cuerpo de nadie y hablen de hábitos, no de personas. Si sospechan un trastorno alimentario o un problema de salud en alguien del grupo, hablen en privado con su familia y deriven a un profesional.
+
 ## Desarrollo
 1. **Análisis** (10 min): Analizá las necesidades de tu compañero.
-2. **Planificación** (20 min): Planea un menú del día (comidas y aperitivos).
+2. **Planificación** (20 min): Planea un menú del día (comidas y colaciones).
 3. **Preparación** (opcional): Prepará las comidas siguiendo el menú.
 4. **Debate** (15 min): Reunite y discute sobre los menús.
 5. **Reflexión** (10 min): ¿Es algo que podrías seguir con regularidad?
@@ -188,5 +190,12 @@ Planificá un menú del día para un compañero, considerando sus necesidades nu
 - ¿Qué diferencias había con tus hábitos alimenticios normales?
 - ¿Cómo te sentiste al planificar para otro?
 - ¿Qué compromiso adquieres para planificar mejor tus comidas?
+
+---
+## Texto original completo de la actividad
+
+**B.09 PLANIFICADOR DE COMIDAS.** Divídanse en grupos de dos, cada miembro del grupo será el responsable de planear un menú del día para su compañero. Tengan en cuenta factores como su peso y altura, y su nivel de actividad física a la hora de planear sus comidas. Asegúrense de que comen las cantidades adecuadas de todos los grupos, e intenten que las comidas también sean deliciosas. No se olviden de los aperitivos. Si es posible, preparen las comidas y los aperitivos para cada uno, o sigan estrictamente el menú que les han propuesto. Júntense de nuevo y debatan. ¿Qué piensan de su menú? ¿Es algo que podrían seguir con regularidad? ¿Qué diferencias había con sus hábitos alimenticios normales? *Los participantes de los niveles 1 y 2 deben contar con la ayuda de los adultos para esta tarea, ya que necesitarán utilizar utensilios afilados y el horno.
+
+niveles 3 2 1
 
 ---

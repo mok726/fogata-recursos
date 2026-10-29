@@ -32,7 +32,7 @@ age_group:
 materials:
   - Tres contenedores de basura (azul, verde y rojo/negro)
   - Hojas de papel con nombres de residuos
-  - Bolígrafos
+  - Lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -181,6 +181,8 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
    - **Rojo/Negro**: Residuos peligrosos (baterías, productos químicos)
 2. Preparar hojas de papel con nombres de diferentes residuos.
 3. Colocar los contenedores en un lugar visible.
+
+> **Nota para el educador:** los colores vienen del manual original (India). Cada municipio usa su propio código: usen los colores de su localidad, así lo que aprenden sirve en casa. En la Ciudad de Buenos Aires, por ejemplo, el verde es para reciclables y el negro para el resto.
 
 ## Desarrollo
 

@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Medí y dividí una bolsa de arroz en porciones de 60 g para entender la cantida
 - ¿Cómo te sentiste al ver cuánto es 60 g de arroz?
 - ¿Qué dificultades creés que enfrenta una persona que vive con esta cantidad de comida?
 - ¿Qué compromiso adquieres para ayudar a reducir el hambre?
+
+---
+## Texto original completo de la actividad
+
+**A.04 BOLSAS DE ARROZ** Con tu grupo, mide y divide una bolsa de arroz de modo que cada persona reciba aproximadamente 60 g. Permite que los participantes pesen y midan su propia bolsa para que vean exactamente cuánto es. Usa este ejercicio para explicar que esta es la cantidad de comida que casi mil millones de personas tienen para comer cada día. Discutan sobre cómo esto afectaría la forma en que viven sus vidas y sobre algunas cosas que podrían hacer para cambiar la situación.
+
+niveles 2 1
 
 ---

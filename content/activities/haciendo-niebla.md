@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Creá niebla en una jarra usando agua caliente y cubos de hielo para entender la
 2. Sacá la mayoría del agua, dejando solo 3 cm en el fondo.
 3. Prepará los cubos de hielo.
 4. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** usen agua caliente, no hirviendo, y que la vuelque un adulto; la jarra de vidrio puede quemar o romperse con el cambio brusco de temperatura.
 
 ## Desarrollo
 1. **Preparación** (5 min): Llená la jarra con agua caliente y luego deja solo 3 cm.

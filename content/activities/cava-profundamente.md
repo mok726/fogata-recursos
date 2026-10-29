@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -169,6 +169,7 @@ Visitá espacios naturales y examiná el suelo, sus capas, textura y la vida que
 3. **Registro** (25 min): Observá horizontes, textura y vida (lombrices, insectos).
 4. **Análisis** (15 min): Usá el triángulo de textura para clasificar.
 5. **Compartir** (10 min): Prepará un folleto y discutí hallazgos con el grupo.
+6. Antes de irte, volvé a tapar el hoyo con la misma tierra y dejá el lugar como estaba.
 
 ## Cierre
 - ¿Qué horizontes del suelo pudiste observar?

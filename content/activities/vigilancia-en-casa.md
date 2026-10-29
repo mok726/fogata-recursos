@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -153,7 +153,7 @@ Monitoreá las actividades de tu hogar que pueden tener repercusiones ambientale
 
 ## Preparación
 - Prepará un cuaderno para tomar notas.
-- Revisá las actividades diarias de tu hogar.
+- Revisá las actividades diarias de tu hogar. Por ejemplo: ¿quedan luces prendidas en habitaciones vacías? ¿Hay electrodomésticos enchufados sin usar? ¿Alguien deja la canilla abierta mientras se lava los dientes?
 
 ## Desarrollo
 1. **Monitoreo** (1 semana): Observá y anotá actividades con impacto ambiental.

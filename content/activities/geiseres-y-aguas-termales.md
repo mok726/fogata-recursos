@@ -172,6 +172,10 @@ Los géiseres son una fuente de energía geotérmica. Un famoso géiser es "Old 
 2. Investigá si hay fuentes geotérmicas en tu área.
 3. Prepará materiales para documentar.
 
+> **Nota de seguridad:** el agua de géiseres y termas puede estar hirviendo y el suelo cerca de ellos puede ceder: no salgan de los senderos marcados ni toquen el agua sin saber su temperatura.
+>
+> **Opción:** busquen un caso cercano; en Argentina, por ejemplo, Copahue (Neuquén) o las Termas de Río Hondo (Santiago del Estero).
+
 ## Desarrollo
 
 ### Parte I - Investigación

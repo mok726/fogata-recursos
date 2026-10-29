@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Juerga de las Compras"
+title: "La Salida de Compras"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-juerga-de-las-compras/"
@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -167,7 +167,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas que acompañen mi proyecto de vida.
 ---
 
-# La Juerga de las Compras
+# La Salida de Compras
 
 ## Resumen
 Visitá supermercados y mercados agrícolas para evaluar las medidas de seguridad alimentaria.
@@ -187,5 +187,12 @@ Visitá supermercados y mercados agrícolas para evaluar las medidas de segurida
 - ¿Qué medidas de seguridad alimentaria viste en las tiendas?
 - ¿Qué problemas observaste?
 - ¿Qué compromiso adquieres para elegir tiendas con buenas prácticas?
+
+---
+## Texto original completo de la actividad
+
+**C.03 LA JUERGA DE LAS COMPRAS.** Visiten unos pocos supermercados (y si es posible, un mercado agrícola) de la zona y anoten las diferentes medidas de seguridad alimenticia. ¿Han visto algún problema? ¿Qué están haciendo bien? Comparen sus notas en grupo.
+
+niveles 3 2 1
 
 ---
