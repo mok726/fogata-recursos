@@ -71,7 +71,7 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://www.youtube.com/watch?v=RS7IzU2VJIQ"
-    caption: "Plastic Pollution - Clean Seas (8M vistas)"
+    caption: "Plastic Pollution - Clean Seas"
     icon: "link"
   - url: "https://www.youtube.com/watch?v=xKzqLdkuj6l"
     caption: "Is this the ocean of the future?"
