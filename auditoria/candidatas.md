@@ -44,6 +44,6 @@ Dos datos de esa página:
 
 ## WeatherWizKids (anotada 2026-10-29, pedido de Mariano)
 
-- Sitio: www.weatherwizkids.com (en inglés), de la meteoróloga Crystal Wicker. Tiene actividades y experimentos de clima para chicos: huracanes, nubes, tornados, etc.
+- Sitio: www.weatherwizkids.com (en inglés). Tiene actividades y experimentos de clima para chicos: huracanes, nubes, tornados, etc.
 - La Insignia del Océano de FAO (i3465s, 2013) reproduce "con la gentil autorización de www.WeatherWizKids.com" la **A.11 Huracanes, Ciclones y Tifones** y la base de la A.4 (Hacé una Nube). Ese permiso es para FAO; no nos cubre.
 - No cargamos la A.11. Próximo paso: revisar qué otras actividades del sitio sirven y, si conviene, escribirles pidiendo permiso para traducirlas y adaptarlas (licencia de Fogata: CC BY-NC-SA 4.0, uso no comercial).
