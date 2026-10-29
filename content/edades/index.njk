@@ -1,65 +1,15 @@
 ---
 layout: layouts/base.njk
 title: Edades
+description: "Propuestas para cada rama scout, de Castores a Rovers."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Grupos Etarios
-</h1>
-
-<div class="grid">
-
-  {% for age in ageGroups %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.age_group %}
-
-        {% for item in activity.data.age_group %}
-
-          {% set ageInfo = item | normalizeAge(ageGroups) %}
-
-          {% if ageInfo.id == age.id %}
-            {% set activityCount = activityCount + 1 %}
-          {% endif %}
-
-        {% endfor %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/edades/' + age.id + '/') | url }}">
-
-      <div
-        class="card age-card"
-        style="border-top: 6px solid {{ age.color }};"
-      >
-
-        <div class="card-content age-card-content">
-
-          <img
-            class="age-page-icon"
-            src="{{ ('/imagenes/ramas/' + age.icon) | thumb("rama") | url }}"
-            alt="{{ age.name }}">
-
-          <h2>
-            {{ age.name }}
-          </h2>
-
-          <p class="age-count">
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Ramas" %}
+{% set heroText = "Propuestas para cada rama scout, de Castores a Rovers." %}
+{% set cards = ageGroups | indexCards("age", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "groups" %}
+{% include "components/browse-index.njk" %}

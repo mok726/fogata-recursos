@@ -1,52 +1,15 @@
 ---
 layout: layouts/base.njk
 title: Valores Scouts
+description: "Actividades para vivir los valores scouts."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Valores Scouts
-</h1>
-
-<div class="grid">
-
-  {% for scoutValue in scoutValues %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.scout_values %}
-
-        {% if scoutValue.name in activity.data.scout_values %}
-          {% set activityCount = activityCount + 1 %}
-        {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/valoresScout/' + scoutValue.id + '/') | url }}">
-
-      <div class="card">
-
-        <div class="card-content">
-
-          <h2>
-            {{ scoutValue.name }}
-          </h2>
-
-          <p>
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Valores Scouts" %}
+{% set heroText = "Actividades para vivir los valores scouts." %}
+{% set cards = scoutValues | indexCards("value", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "favorite" %}
+{% include "components/browse-index.njk" %}

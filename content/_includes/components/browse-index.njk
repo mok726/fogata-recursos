@@ -1,0 +1,49 @@
+{# Índice de una taxonomía (insignias, ODS, ramas, competencias,
+   valores, método, tipos) con el mismo aspecto que /activities/.
+   Espera heroKicker, heroTitle, heroText, cards (del filtro
+   indexCards en eleventy.config.js) y symbol: el ícono de
+   Material Symbols para las tarjetas que no tienen imagen
+   propia. #}
+<div class="acts acts-detail" data-pagefind-ignore="all">
+
+<section class="acts-hero">
+  <div class="acts-hero-content">
+    {% if heroKicker %}<p class="acts-hero-kicker">{{ heroKicker }}</p>{% endif %}
+    <h1>{{ heroTitle }}</h1>
+    {% if heroText %}<p>{{ heroText }}</p>{% endif %}
+  </div>
+</section>
+
+<ul class="idx-grid">
+  {% for card in cards %}
+    <li>
+      <a class="idx-card{% if not card.count %} idx-card-empty{% endif %}" href="{{ card.url | url }}"{% if card.color %} style="--idx-color: {{ card.color }}"{% endif %}>
+
+        <span class="idx-cover">
+          {% if card.cover %}
+            <img src="{{ card.cover | thumb('card') | url }}" width="800" height="343" loading="lazy" decoding="async" alt="">
+          {% endif %}
+        </span>
+
+        <span class="idx-icon{% if card.square %} idx-icon-square{% endif %}">
+          {% if card.icon %}
+            <img src="{{ card.icon | url }}" width="64" height="64" loading="lazy" decoding="async" alt="">
+          {% else %}
+            <span class="material-symbols-outlined" aria-hidden="true">{{ symbol }}</span>
+          {% endif %}
+        </span>
+
+        <span class="idx-body">
+          <h2>{{ card.title }}</h2>
+          {% if card.text %}<p>{{ card.text }}</p>{% endif %}
+          <span class="idx-count">
+            {% if card.count %}{{ card.count }} actividad{% if card.count != 1 %}es{% endif %}{% else %}Próximamente{% endif %}
+          </span>
+        </span>
+
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+</div>

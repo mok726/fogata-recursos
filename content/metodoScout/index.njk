@@ -1,52 +1,15 @@
 ---
 layout: layouts/base.njk
-title: Metodo Scout
+title: Método Scout
+description: "Actividades según los elementos del método scout que ponen en práctica."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Metodo Scout
-</h1>
-
-<div class="grid">
-
-  {% for metodoScout in scoutMethod %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.scout_method %}
-
-        {% if metodoScout.name in activity.data.scout_method %}
-          {% set activityCount = activityCount + 1 %}
-        {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/metodoScout/' + metodoScout.id + '/') | url }}">
-
-      <div class="card">
-
-        <div class="card-content">
-
-          <h2>
-            {{ metodoScout.name }}
-          </h2>
-
-          <p>
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Método Scout" %}
+{% set heroText = "Actividades según los elementos del método scout que ponen en práctica." %}
+{% set cards = scoutMethod | indexCards("method", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "explore" %}
+{% include "components/browse-index.njk" %}

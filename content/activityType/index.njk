@@ -1,52 +1,15 @@
 ---
 layout: layouts/base.njk
 title: Tipo de Actividad
+description: "Juegos, talleres, proyectos y más: elegí el formato que necesitás."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Tipo de Actividad
-</h1>
-
-<div class="grid">
-
-  {% for activityType in activityTypes %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.activity_type %}
-
-        {% if activityType.name in activity.data.activity_type %}
-          {% set activityCount = activityCount + 1 %}
-        {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/activityType/' + activityType.id + '/') | url }}">
-
-      <div class="card">
-
-        <div class="card-content">
-
-          <h2>
-            {{ activityType.name }}
-          </h2>
-
-          <p>
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Tipos de Actividad" %}
+{% set heroText = "Juegos, talleres, proyectos y más: elegí el formato que necesitás." %}
+{% set cards = activityTypes | indexCards("type", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "category" %}
+{% include "components/browse-index.njk" %}

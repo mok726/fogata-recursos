@@ -1,58 +1,15 @@
 ---
 layout: layouts/base.njk
 title: ODS
+description: "Los 17 Objetivos de Desarrollo Sostenible de la Agenda 2030, llevados a la reunión."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Objetivos de Desarrollo Sostenible
-</h1>
-
-<div class="grid">
-
-  {% for sdg in allSdgs %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
-
-        {% set activityCount = activityCount + 1 %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/ods/' + sdg.id + '/') | url }}">
-
-      <div class="card sdg-card">
-
-        <img
-          class="badge"
-          src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
-          alt="ODS {{ sdg.id }}">
-
-        <div class="card-content">
-
-          <h2>
-            ODS {{ sdg.id }}
-          </h2>
-
-          <p>
-            {{ sdg.name }}
-          </p>
-
-          <p class="sdg-count">
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "ODS" %}
+{% set heroText = "Los 17 Objetivos de Desarrollo Sostenible de la Agenda 2030, llevados a la reunión." %}
+{% set cards = allSdgs | indexCards("sdg", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "public" %}
+{% include "components/browse-index.njk" %}
