@@ -73,8 +73,8 @@ link:
   - url: "https://www.youtube.com/watch?v=RS7IzU2VJIQ"
     caption: "Plastic Pollution - Clean Seas"
     icon: "link"
-  - url: "https://www.youtube.com/watch?v=Yomf5pBN8dY"
-    caption: "Why We Need to Stop Plastic Pollution in Our Oceans - Oceana"
+  - url: "https://www.youtube.com/watch?v=xKzqLdkuj6I"
+    caption: "Is this the ocean of the future?"
     icon: "link"
 files: []
 
@@ -187,10 +187,8 @@ Miren uno de estos documentales:
 **Opción 1:** "Plastic Pollution: How Humans are Turning the World into Plastic" - Clean Seas
 🔗 https://www.youtube.com/watch?v=RS7IzU2VJIQ
 
-**Opción 2:** "Por qué tenemos que frenar la contaminación plástica en los océanos" (Oceana, en inglés)
-🔗 https://www.youtube.com/watch?v=Yomf5pBN8dY
-
-> **Nota para el educador:** el original recomienda "Is this the ocean of the future?" (Greenpeace, 2018), pero el enlace que da no funciona. Lo reemplazamos por un video de Oceana sobre el mismo tema; si encuentran el de Greenpeace, también sirve.
+**Opción 2:** "Is this the ocean of the future?" - cortometraje sobre plásticos en el océano
+🔗 https://www.youtube.com/watch?v=xKzqLdkuj6I
 
 ### Parte II - Debate
 Después de ver la película, organicen un debate en grupo:
