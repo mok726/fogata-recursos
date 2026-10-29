@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -177,6 +177,9 @@ Construí diferentes botes con diversos materiales, probalos en el agua y descub
 - ¿Cómo se transportan los bienes en el mundo real?
 
 ---
+
+> **Nota de seguridad:** las pruebas se hacen en una palangana, pileta o batea. Si se usa un arroyo o laguna, con supervisión adulta, desde la orilla y sin meterse al agua. Recuperen todos los botes al terminar para no dejar residuos.
+
 ## Texto original completo de la actividad
 
 **B.07 COMPAÑÍA DE TRANSPORTE MARÍTIMO** Enormes cantidades de bienes se transportan en todo el mundo, bajando por los ríos y atravesando el océano. Usa diferentes materiales (madera, papel, cartulina, plástico o aluminio) para hacer pequeños botes y balsas. Prueba tus 'barcos' en un río, un lago o en el mar. ¿Cuáles son los mejores materiales para hacer tus mini barcos? Intenta atar un pedazo de tela a un palo para hacer una vela. ¿Hizo alguna diferencia? Cárgalos con 'bienes' (como palitos y piedras). ¿Cuánto peso pueden soportar los diferentes barcos? También puedes hacer una carrera para averiguar cuál barco es el más veloz.

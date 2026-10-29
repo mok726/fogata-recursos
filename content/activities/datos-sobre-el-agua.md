@@ -77,7 +77,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -218,6 +218,8 @@ Ningún ser vivo en la Tierra puede sobrevivir sin agua. El agua es esencial par
 - ¿Qué dato relacionado con el agua te sorprendió más? ¿Por qué?
 - ¿Por qué podemos decir que el agua impacta todo?
 - ¿Podés vos y tu grupo hacer algo para ayudar a combatir la crisis del agua?
+
+> **Nota para el educador:** los datos del original son de 2013 y varios cambiaron. Para cifras actuales consultá el Programa Conjunto OMS/UNICEF de Monitoreo del Abastecimiento de Agua, el Saneamiento y la Higiene (JMP, https://washdata.org); también es una buena consigna que el grupo compare los datos de 2013 con los actuales.
 
 ## Texto original completo de la actividad
 

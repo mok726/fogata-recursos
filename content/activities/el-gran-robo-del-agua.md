@@ -82,7 +82,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -218,6 +218,8 @@ La cantidad de agua en un río cambia de una temporada a otra y de un año a otr
 - ¿Quién tiene derecho a usar el agua? ¿Significa este derecho que el agua puede desperdiciarse o usarse de manera insostenible?
 - ¿Por qué creés que surgen conflictos relacionados con el agua entre personas, comunidades y naciones?
 - ¿Quién creés que debe trabajar junto para decidir sobre el uso y la conservación del agua? ¿Qué podés hacer vos?
+
+> **Nota para el educador:** el acre-pie es una unidad que se usa en Estados Unidos (un acre-pie equivale a unos 1.233 m³). Fuera de ese país, se puede jugar con millones de metros cúbicos (hm³): 1 maf ≈ 1.233 hm³. Las proporciones del juego no cambian.
 
 ## Texto original completo de la actividad
 

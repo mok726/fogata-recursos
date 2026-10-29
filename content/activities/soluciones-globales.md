@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -175,6 +175,11 @@ Experimentá con la desalinización del agua salada y aprendé cómo diferentes 
 - ¿Qué otras soluciones existen para la escasez de agua?
 
 ---
+
+> **Nota para el educador:** los enlaces del original ya no funcionan. Un método sencillo es el destilador solar: un recipiente grande con agua salada, un vaso vacío en el centro (que no flote), film plástico tapando el recipiente y una piedrita sobre el film, justo encima del vaso. Al sol, el agua se evapora, se condensa en el film y gotea en el vaso sin sal.
+
+> **Nota de seguridad:** si para destilar el agua se usa calor (olla, hornalla o pava), lo maneja el grupo con supervisión adulta: el vapor y el agua caliente queman. El agua obtenida en el experimento no se toma, porque el equipo no es apto para consumo.
+
 ## Texto original completo de la actividad
 
 **D.08 SOLUCIONES GLOBALES** Varios países están trabajando de distintas formas para incrementar su suministro de agua y usarlo de manera más eficiente. En muchos países del Medio Oriente, la desalinización ha demostrado ser una buena solución. Haz un poco de agua salada y trata de desalinizarla - puedes intentar con estos métodos: http://scienceillustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/(en inglés); www.buenastareas.com/ensayos/Desalar-Agua-De-Mar-De-Forma/2002208.html; http://www.ehowenespanol.com/construir-desalinizador-como_62257/ (en español), o puedes pensar en tus propias ideas.

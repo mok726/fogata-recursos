@@ -1,7 +1,7 @@
 prioridad,insignia,codigo,slug,imagen,motivo
-P1,agua,A08,el-baile-del-agua,/imagenes/actividades/el-baile-del-agua.jpg,mala (chicos saltando hacia una ola sobre rocas)
+P1,agua,A08,el-baile-del-agua,/imagenes/actividades/el-baile-del-agua.jpg,mala (chicos saltando hacia una ola sobre rocas) [retirada 2026-10-29]
 P1,agua,A21,la-ciencia-del-agua,/imagenes/actividades/la-ciencia-del-agua.jpg,mala (medio blanqueada)
-P1,agua,A32,agua-alrededor-del-mundo-agua,/imagenes/actividades/agua-alrededor-del-mundo-agua.jpg,mala (mapa con Argentina sobre EE. UU.)
+P1,agua,A32,agua-alrededor-del-mundo-agua,/imagenes/actividades/agua-alrededor-del-mundo-agua.jpg,mala (mapa con Argentina sobre EE. UU.) [retirada 2026-10-29: actividad eliminada, era un duplicado inventado]
 P1,agua,A41,animales-de-la-cuenca,/imagenes/actividades/animales-de-la-cuenca.jpg,mala (medio blanqueada)
 P1,agua,A47,bioevaluacion-macroinvertebrados,/imagenes/actividades/bioevaluacion-macroinvertebrados.jpg,mala (medio blanqueada)
 P1,agua,B31,promesa-del-agua-agua,/imagenes/actividades/promesa-del-agua-agua.jpg,mala (medio blanqueada)
@@ -20,7 +20,7 @@ P1,agua,D38,vegetacion-proteccion-agua,/imagenes/actividades/vegetacion-protecci
 P1,agua,D42,habitos-saludables-personas-saludables,/imagenes/actividades/habitos-saludables-personas-saludables.jpg,mala (medio blanqueada)
 P1,agua,D44,estas-de-acuerdo-o-en-desacuerdo,/imagenes/actividades/estas-de-acuerdo-o-en-desacuerdo.jpg,mala (medio blanqueada)
 P1,agua,D45,datos-sobre-el-agua,/imagenes/actividades/datos-sobre-el-agua.jpg,mala (medio blanqueada)
-P1,agua,E31,tu-codigo-del-agua,/imagenes/actividades/tu-codigo-del-agua.jpg,mala (medio blanqueada)
+P1,agua,E31,tu-codigo-del-agua,/imagenes/actividades/tu-codigo-del-agua.jpg,mala (medio blanqueada) [retirada 2026-10-29: actividad reemplazada por la real]
 P1,biodiversidad,A13,estrategias-de-supervivencia,/imagenes/actividades/estrategias-de-supervivencia.jpg,"mala (león al lado de chicos, bandera EE. UU.)" [retirada 2026-10-29]
 P1,biodiversidad,A14,biogas,/imagenes/actividades/biogas.jpg,"mala (medio blanqueada, marca de agua ""LALANEZA"")"
 P1,biodiversidad,A20,comercio-de-emisiones-y-redd,/imagenes/actividades/comercio-de-emisiones-y-redd.jpg,"mala (medio blanqueada, texto inventado)"

@@ -300,8 +300,12 @@ sections: {
       hero_image: "/imagenes/insignias/agua-hero.png",
       sources: [
         {
-          name: "YUNGA Water Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/water/es/"
+          name: "FAO – Insignia del Agua (2013)",
+          url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
+        },
+        {
+          name: "FAO – Water Challenge Badge (2013)",
+          url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
         }
       ],
   license: {
@@ -311,7 +315,7 @@ sections: {
   },
   attribution: {
     organization: "FAO",
-    year: "2021"
+    year: "2013"
   },
       
     requirements: {

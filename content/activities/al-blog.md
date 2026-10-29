@@ -59,7 +59,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -167,6 +167,9 @@ Creá un blog para tu clase o grupo sobre temas relacionados con el agua, incluy
 - ¿Cómo podés mantenerlo a largo plazo?
 
 ---
+
+> **Nota de seguridad:** el blog lo administra el educador o la institución. No publiquen datos personales (apellidos, dirección, escuela, teléfono) ni fotos de chicos sin el permiso escrito de sus familias, y moderen los comentarios.
+
 ## Texto original completo de la actividad
 
 **E.08 ¡AL BLOG!** Creen un blog de su clase/grupo sobre todos los asuntos relacionados con el agua. Pueden escribir sobre la importancia de usar el agua de manera sostenible y sus ideas para lograrlo. Pero, ¡también pueden ponerse más creativos e incluir además poesías, ensayos, historias o videos cortos sobre el agua! Envíen el enlace a sus amigos y familias (¡y a la YUNGA!) e invítenlos a que les sigan y comenten en su blog. Asegúrense de mantenerlo actualizado - hagan un compromiso para hacerlo al menos una vez al mes.

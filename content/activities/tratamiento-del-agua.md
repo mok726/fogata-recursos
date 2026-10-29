@@ -75,7 +75,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -209,6 +209,8 @@ Los ríos y lagos son fuentes de agua para las áreas locales. Las muestras de a
 - ¿Qué podría pasar si alguno de los pasos involucrados en la purificación del suministro de agua municipal no se incluyera?
 - ¿Todos en tu comunidad tienen acceso a agua limpia y fácilmente disponible? ¿Qué pasa con las personas que no tienen acceso a agua suficiente y de buena calidad?
 - ¿Todos tienen que participar en la protección de nuestros recursos hídricos? ¿Qué cosas podés hacer en casa?
+
+> **Opción:** en lugar de la visita de un representante, se puede visitar una planta potabilizadora o depuradora. En Argentina, por ejemplo, AySA y otras empresas provinciales de agua tienen programas educativos y visitas para escuelas y grupos.
 
 ## Texto original completo de la actividad
 

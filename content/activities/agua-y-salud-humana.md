@@ -77,7 +77,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -194,6 +194,8 @@ translation_notice:
 - ¿Tu comunidad se ha visto afectada por problemas de agua? ¿Cómo?
 - ¿Por qué es importante informar a otros sobre los problemas relacionados con el agua?
 - ¿Cómo podría tu comunidad contribuir a ayudar a otros a superar la escasez de agua?
+
+> **Nota para el educador:** las cifras del original son de 2012–2013 y ya no están vigentes. Para datos actuales consultá el Programa Conjunto OMS/UNICEF de Monitoreo del Abastecimiento de Agua, el Saneamiento y la Higiene (JMP, https://washdata.org) y las notas descriptivas de la OMS sobre agua para consumo humano y saneamiento.
 
 ## Texto original completo de la actividad
 

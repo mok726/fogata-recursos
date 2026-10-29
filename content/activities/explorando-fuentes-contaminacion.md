@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -197,6 +197,8 @@ Las cuencas pueden ser afectadas por dos tipos de contaminación: fuente puntual
 - ¿Cuál fue la peor fuente de contaminación que encontraste? Explicá por qué.
 - ¿Cómo podría la contaminación de la cuenca afectar a la vida acuática?
 - ¿Hay alguna fuente de contaminación en tu vecindario? ¿Cuál podría ser una posible solución?
+
+> **Nota de seguridad:** usen guantes y no levanten con la mano vidrios, jeringas, latas filosas ni envases de productos químicos: se marcan y se avisa a un adulto o a la autoridad local.
 
 ## Texto original completo de la actividad
 

@@ -23,12 +23,13 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -75,7 +76,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -200,7 +201,7 @@ Asegurate de secarse y cambiarse de ropa cuando terminen.
 
 **Title:** Let it Rain!
 
-**Level:** 1 2
+**Level:** 1 2 3
 
 **Aim:** To have fun playing outside in the rain and learn about the benefits of rain.
 
@@ -230,7 +231,7 @@ Asegurate de secarse y cambiarse de ropa cuando terminen.
 
 **Título:** ¡Que llueva!
 
-**Niveles:** 1, 2
+**Niveles:** 1 2 3
 
 **Objetivo:** Divertirse jugando bajo la lluvia y aprender sobre los beneficios de la lluvia.
 
@@ -267,6 +268,6 @@ Esta traducción no fue creada por la Organización de las Naciones Unidas para 
 
 This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.
 
-NIVELES: 1, 2
+NIVELES: 1, 2, 3
 
 ---

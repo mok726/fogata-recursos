@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -74,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -200,13 +199,15 @@ Discutí con ellos lo que piensan sobre esas afirmaciones.
 - ¿Podés nombrar otros beneficios que todos los seres vivos obtienen del agua?
 - ¿Podés contarnos sobre una experiencia divertida que hayas tenido con el agua?
 
+> **Nota para el educador:** la regla de "ocho vasos por día" es una simplificación: la cantidad de agua que necesita cada persona depende de la edad, el clima, la actividad física y la alimentación (los alimentos también aportan agua). La sangre tiene alrededor de 90 % de agua en este dato y 95 % en "Juego de Preguntas sobre el Agua"; en realidad, el plasma es alrededor de 90–92 % agua y la sangre entera, alrededor de 80 %.
+
 ## Texto original completo de la actividad
 
 **English version:**
 
 **Title:** Water is the Way to Go
 
-**Level:** 1 2 3
+**Level:** 1 2
 
 **Aim:** To learn why water is vital for the well-being of all forms of life.
 
@@ -247,7 +248,7 @@ Discutí con ellos lo que piensan sobre esas afirmaciones.
 
 **Título:** El agua es el camino
 
-**Niveles:** 1, 2, 3
+**Niveles:** 1 2
 
 **Objetivo:** Aprender por qué el agua es vital para el bienestar de todas las formas de vida.
 
@@ -295,6 +296,6 @@ Esta traducción no fue creada por la Organización de las Naciones Unidas para 
 
 This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

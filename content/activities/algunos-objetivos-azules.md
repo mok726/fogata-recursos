@@ -92,7 +92,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -222,6 +222,8 @@ Los Objetivos de Desarrollo del Milenio (ODM) son ocho objetivos internacionales
 - ¿Cómo definirías el uso sostenible del agua?
 - ¿Cómo se relaciona la escasez de agua con la capacidad de las personas para llevar una vida feliz?
 - ¿Por qué podemos decir que es responsabilidad de todos "promover el derecho al agua y al saneamiento"?
+
+> **Nota para el educador:** los Objetivos de Desarrollo del Milenio (ODM) terminaron en 2015 y fueron reemplazados por los Objetivos de Desarrollo Sostenible (ODS). Hoy conviene trabajar con el **ODS 6: Agua limpia y saneamiento** (https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) y ver su relación con los demás ODS. El enlace de los ODM se conserva como referencia histórica.
 
 ## Texto original completo de la actividad
 

@@ -75,7 +75,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -202,6 +202,8 @@ j) 1.7 por ciento
 - ¿Por qué el agua es indispensable para todos los seres vivos?
 - ¿Cómo cambiaría la vida si no hubiera suficiente agua para todos?
 - ¿Podés describir algunas cosas que podemos hacer para proteger el agua?
+
+> **Nota para el educador:** el original da 95 % de agua para la sangre; otras actividades de esta insignia dan 90 %. El plasma tiene alrededor de 90–92 % de agua y la sangre entera, alrededor de 80 %.
 
 ## Texto original completo de la actividad
 

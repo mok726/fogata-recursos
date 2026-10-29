@@ -78,7 +78,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -215,13 +215,15 @@ Si vivís cerca de la costa, esta es una excelente manera de animar a tu grupo a
 
 **English version:**
 
-**Title:** Beach Signs
+**Title:** Be An Ocean Watcher
 
 **Level:** 1 2 3
 
-**Aim:** To create signs to encourage responsible behavior at the beach.
+**Aim:** To reflect about how to protect beaches and oceans and the life it sustains.
 
-**Materials:** Poster boards, colour markers, colouring pencils, adhesive tape.
+**Materials:** Cardboards, colour markers, adhesive tape.
+
+**Time:** One hour.
 
 **How to do it:**
 1. If you live near the seashore, this is a great way to encourage your group to be conscious about the importance of respecting and protecting the beach and the sea. Explain to them that they are going to create some signs to encourage everyone at school or youth group to act responsibly when enjoying a day at the beach!

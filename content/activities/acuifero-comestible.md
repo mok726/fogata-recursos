@@ -87,7 +87,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -216,6 +216,8 @@ Cuando llueve, parte del agua se filtra en el suelo y se almacena en los espacio
 - ¿Cuáles son algunas fuentes de contaminación del agua subterránea? (Pesticidas, fertilizantes, aceite de motor, fosas sépticas, lixiviados de basurales, productos químicos de minería, industria y tanques de almacenamiento con fugas).
 - ¿Por qué es importante evitar la contaminación del agua subterránea?
 - ¿Puede esta contaminación afectar el agua superficial? (El agua subterránea y el agua superficial están conectadas; el agua puede moverse de una a otra; un lago, por ejemplo, está bajo la influencia directa del agua subterránea).
+
+> **Nota de seguridad:** si la actividad se hace en un espacio donde se manipulan alimentos, cuidá la higiene (manos limpias, utensilios limpios). Cada participante usa su propia bombilla o pajita.
 
 ## Texto original completo de la actividad
 

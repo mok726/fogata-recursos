@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Tu Código del Agua"
-duration: "40 minutos"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-codigo-del-agua/"
-description: "Los participantes crean su propio código personal de conducta para el uso responsable del agua, comprometiéndose con acciones concretas para conservar y proteger este recurso."
-summary: "Creá tu código personal para cuidar el agua."
+description: "Creen el «Código del Agua» de la escuela o el grupo: una declaración de compromiso para usar el agua con cuidado."
+summary: "Código del Agua del grupo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,6 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tu-codigo-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -32,18 +31,18 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Papel
-  - Lápices
-  - Lápices de colores
-  - Marcadores
-  - Cartulinas (opcional)
+  - Salón de reunión
+  - Papeles y lápices
+  - Cartulinas para afiches
+  - Marcadores y lápices de colores
+  - Cinta adhesiva
 tools: []
 responsible:
   - Docente o Scouter
-prep_time: "10 min"
-participants: "4-20"
+prep_time: "15 min"
+participants: "6-30"
 location: "Interior"
-space_required: "Salón con mesas"
+space_required: "Salón de reunión"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
@@ -62,10 +61,9 @@ required_category: ""
 # ========== ETIQUETAS GENERALES ==========
 tags:
   - agua
-  - codigo
   - compromiso
-  - conservacion
-  - educacion-ambiental
+  - valores
+  - afiches
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -77,7 +75,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -97,69 +95,55 @@ attributions:
   - entity: "Mariano S. Cosentino"
     role: "Adaptación, traducción y compilación para publicación WEB"
     year: 2026
-  - entity: "DeepSeek"
-    role: "Preprocesamiento, traducción al español y conversión a Markdown"
-    year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
-ludic_component: 4  # Actividad creativa
-reflective_component: 4  # Reflexión sobre acciones
-active_component: 2  # Escritura y dibujo
+ludic_component: 3
+reflective_component: 4
+active_component: 3
 
 # ========== COMPLEJIDAD (escala 1-5) ==========
-complexity_execution: 2  # Creación de código
-complexity_organizer: 2  # Preparación simple
+complexity_execution: 2
+complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
 main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
-image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating personal water codes with drawings and commitments, learning about water conservation. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating their water codes. No text, no letters, no words. Wide shot."
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large colorful handmade poster with a water drop and a pledge being written by many hands dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, hanging the poster. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
   - Responsabilidad
-  - Compromiso
-  - Creatividad
+  - Trabajo en equipo
+  - Comunicación
 activity_type:
   - Reflexión
-  - Arte
-  - Creatividad / Arte
+  - Participación comunitaria
 category:
-  - Conservación
   - Agua
-  - Compromiso
+  - Conservación
 skills:
+  - Trabajo en equipo
   - Creatividad
-  - Responsabilidad
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Superación personal
 scout_method:
-  - Ley y Promesa
   - Aprender haciendo
-  - Progresión personal
+  - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
-# Nota: Se incluyen competencias para TODAS las ramas,
-# independientemente del nivel de la actividad, para permitir adaptación.
-rama_castores: []  # Castores no tienen competencias definidas
+rama_castores: []
 rama_lobatos:
-  - 16  # Participo de las decisiones que me involucran y respeto los acuerdos.
   - 24  # Cuido del planeta utilizando los recursos de forma responsable.
 rama_scouts:
-  - 29  # Adhiero a los valores expresados en la Ley y la Promesa Scout.
   - 31  # Reconozco mi impacto en el ambiente y en la sociedad.
 rama_caminantes:
-  - 28  # Reconozco cómo mis creencias influyen en mis decisiones.
   - 29  # Adopto un estilo de vida responsable y sostenible.
 rama_rovers:
-  - 17  # Me responsabilizo por mi desarrollo personal.
-  - 30  # Consumo y produzco de manera sostenible y sustentable.
+  - 33  # Reconozco que la Tierra es nuestra casa común.
 
 # ========== AVISO DE TRADUCCIÓN ==========
 translation_notice:
@@ -170,43 +154,26 @@ translation_notice:
 # ¡Tu Código del Agua!
 
 ## Resumen
-En esta actividad, los participantes reflexionan sobre la importancia de cuidar el agua y crean su propio "Código del Agua", un conjunto de compromisos personales para usar el agua de manera responsable. El código puede incluir acciones concretas para ahorrar agua en casa, en la escuela y en la comunidad.
+El "Código del Agua" es una declaración de principios de la escuela o el grupo: muestra, de forma clara e imaginativa, el compromiso de todos con el uso cuidadoso del agua. Tiene que ser fácil de recordar.
 
 ## Preparación
-1. Prepará los materiales de escritura y arte.
-2. Pensá en ejemplos de acciones para cuidar el agua.
+1. Invitá a otros grupos o clases a sumarse: así todos se sienten responsables de los valores del código.
+2. Prepará papeles, cartulinas, marcadores y cinta.
 
 ## Desarrollo
-
-### Paso 1: Reflexión
-1. Pedí a los participantes que piensen en la importancia del agua y en cómo pueden contribuir a su cuidado.
-2. Pregunta: ¿Qué acciones podés tomar para ahorrar agua? ¿Cómo podés inspirar a otros a hacer lo mismo?
-
-### Paso 2: Creación del código
-3. Explicá que cada participante creará su propio "Código del Agua", una lista de compromisos personales para el cuidado del agua.
-4. El código puede incluir entre 5 y 10 acciones concretas.
-5. Los participantes pueden escribir su código en un papel y decorarlo con dibujos.
-
-### Paso 3: Compartir
-6. Pedí a los participantes que compartan su código con el grupo.
-7. Animá a los participantes a firmar su código como un compromiso formal.
-
-## Ejemplos de acciones para el Código del Agua
-- Cerrar la canilla mientras me cepillo los dientes.
-- Tomar duchas de no más de 5 minutos.
-- Reparar las fugas de agua en mi casa.
-- Reutilizar el agua de la lluvia para regar plantas.
-- No tirar basura en ríos, lagos o el mar.
-- Usar un vaso para enjuagarme en lugar de dejar correr el agua.
-- Lavar el auto con un balde en lugar de una manguera.
-- Informar a mi familia y amigos sobre la importancia del agua.
-- Participar en actividades de limpieza de fuentes de agua.
-- Reducir el consumo de productos que requieren mucha agua para su fabricación.
+1. **Introducción** (10 min): Explicá qué es el Código del Agua.
+2. **Metas** (15 min): Reunidos, piensen qué objetivos tiene la escuela o el grupo para cuidar el agua.
+3. **Redacción** (15 min): Escriban el código. Un ejemplo, con las letras de AGUA:
+   - **A**horrar agua todos los días;
+   - **G**uardar la de lluvia para regar;
+   - **U**nidos aprendemos a cuidarla;
+   - **A**gua limpia para todos es nuestra meta.
+4. **Afiches** (20 min): Hagan afiches con el código y cuélguenlos en lugares visibles (cartelera, aulas, espacios comunes). Preséntenlo también en los eventos de la comunidad.
 
 ## Cierre
-- ¿Qué acciones incluirás en tu código?
-- ¿Cómo te sentís al comprometerte con el cuidado del agua?
-- ¿Cómo podés inspirar a otros a crear su propio código?
+- ¿En qué aspecto tiene que mejorar la escuela o el grupo?
+- ¿Cómo ayuda el Código del Agua a lograrlo?
+- ¿Por qué es importante que todos se sientan responsables de cumplirlo?
 
 ## Texto original completo de la actividad
 
@@ -216,45 +183,61 @@ En esta actividad, los participantes reflexionan sobre la importancia de cuidar 
 
 **Level:** 1 2
 
-**Aim:** To reflect about the importance of water and create a personal commitment to use water responsibly.
+**Aim:** To create your school or youth group's water values.
 
-**Materials:** Paper, pencils, colouring pencils, markers.
+**Materials:** A meeting room, papers, pencils, poster boards, colour markers, colouring pencils, adhesive tape.
+
+**Time:** One hour.
 
 **How to do it:**
-1. Ask the participants to think about the importance of water and how they can contribute to its care.
-2. Explain that each participant will create their own "Water Code", a list of personal commitments for water care.
-3. The code can include between 5 and 10 concrete actions.
-4. Participants can write their code on paper and decorate it with drawings.
-5. Ask participants to share their code with the group.
-6. Encourage participants to sign their code as a formal commitment.
+1. Tell your group that you are creating your school or youth group's Water-code. The Water-code is a mission statement that should demonstrate, in a clear and imaginative way, your school or youth group's commitment to use water wisely. It should be memorable and familiar.
+2. Explain to the participants that you are inviting some friends from other groups and classes to elaborate the Water-code; this is important as it will give everyone a greater sense of responsibility toward the values the Water-code represents.
+3. Gather everyone in a meeting room and ask them to think about their school or youth group's aims and targets regarding water conservation. Here is an example:
+
+   W.A.T.E.R
+   Water will not be wasted;
+   All of us will make a change;
+   Together we will learn to care for it;
+   Every day we will find new ways to save it;
+   Respect for water is our aim.
+4. Ask the participants to make some cool posters containing the Water-code. They must be prominently displayed throughout the school or youth group. For instance, post it on your notice board, in every classroom or meeting room, in communal areas, and in the staff room. The Water-code should also be presented to the local community at your different events.
 
 **Discussion:**
-- What actions will you include in your code?
-- How do you feel about committing to water care?
-- How can you inspire others to create their own code?
+- Is there any aspect in which your school or youth group needs to improve?
+- How do you think your Water-code will help overcome this?
+- How important is it that everyone develops a sense of responsibility toward applying your Water-code?
+
+Adapted from: National Wildlife Federation, Eco-Schools USA, Eco-Code, www.nwf.org/Global-Warming/School-Solutions/Eco-Schools-USA/Become-an-Eco-School/Steps/Eco-Code.aspx
 
 **Versión en español:**
 
-**Título:** Tu Código del Agua
+**Título:** Tu código del agua
 
 **Niveles:** 1, 2
 
-**Objetivo:** Reflexionar sobre la importancia del agua y crear un compromiso personal para usarla de manera responsable.
+**Objetivo:** Crear los valores sobre el agua de tu escuela o grupo.
 
-**Materiales:** Papel, lápices, lápices de colores, marcadores.
+**Materiales:** Un salón de reunión, papeles, lápices, cartulinas para afiches, marcadores de colores, lápices de colores, cinta adhesiva.
+
+**Tiempo:** Una hora.
 
 **Desarrollo:**
-1. Pide a los participantes que piensen en la importancia del agua y en cómo pueden contribuir a su cuidado.
-2. Explica que cada participante creará su propio "Código del Agua", una lista de compromisos personales para el cuidado del agua.
-3. El código puede incluir entre 5 y 10 acciones concretas.
-4. Los participantes pueden escribir su código en un papel y decorarlo con dibujos.
-5. Pide a los participantes que compartan su código con el grupo.
-6. Anima a los participantes a firmar su código como un compromiso formal.
+1. Cuenta a tu grupo que van a crear el Código del Agua de su escuela o grupo. El Código del Agua es una declaración de misión que debe mostrar, de forma clara e imaginativa, el compromiso de la escuela o el grupo con el uso sabio del agua. Debe ser fácil de recordar y familiar.
+2. Explica que van a invitar a amigos de otros grupos y clases a elaborar el código; esto es importante porque dará a todos un mayor sentido de responsabilidad hacia los valores que representa.
+3. Reúne a todos en un salón y pídeles que piensen en los objetivos y metas de la escuela o el grupo sobre el cuidado del agua. Un ejemplo (en inglés, con las letras de WATER):
+   El agua no se desperdiciará;
+   Todos haremos un cambio;
+   Juntos aprenderemos a cuidarla;
+   Cada día encontraremos nuevas formas de ahorrarla;
+   Respetar el agua es nuestra meta.
+4. Pide a los participantes que hagan afiches atractivos con el Código del Agua. Deben exhibirse en lugares visibles de la escuela o el grupo: la cartelera, cada aula o salón, los espacios comunes y la sala de docentes. El código también debe presentarse a la comunidad en los distintos eventos.
 
 **Discusión:**
-- ¿Qué acciones incluirás en tu código?
-- ¿Cómo te sientes al comprometerte con el cuidado del agua?
-- ¿Cómo puedes inspirar a otros a crear su propio código?
+- ¿Hay algún aspecto en el que tu escuela o grupo necesite mejorar?
+- ¿Cómo crees que el Código del Agua ayudará a lograrlo?
+- ¿Qué tan importante es que todos se sientan responsables de aplicar el código?
+
+Adaptado de: National Wildlife Federation, Eco-Schools USA, Eco-Code.
 
 ---
 **Citación requerida / Required citation:**

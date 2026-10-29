@@ -78,7 +78,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -205,6 +205,8 @@ Cada pareja presenta su cartel al grupo.
 - ¿Podés nombrar algunos de los beneficios que las personas reciben de estos ríos? (Transporte, desarrollo, agricultura, recreación, etc.)
 - Las vías fluviales son un recurso compartido. ¿De quién es la responsabilidad de conservarlas?
 - ¿Por qué los países necesitan cooperar para proteger las aguas transfronterizas?
+
+> **Opción:** sumen ríos de la propia región. En América del Sur, por ejemplo, el **Paraná** (unos 4.880 km, el segundo más largo del continente) o el **Orinoco**. En Argentina, por ejemplo, se puede consultar el Instituto Nacional del Agua (INA, https://www.argentina.gob.ar/ina). El enlace de ouramazingplanet ya no funciona; se puede usar cualquier atlas o enciclopedia actual.
 
 ## Texto original completo de la actividad
 
