@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,7 +181,9 @@ Organizá una versión local de la Carrera Contra el Hambre de la FAO cerca del 
 ## Preparación
 1. Elegí una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
 2. Definí el recorrido y la logística de la carrera.
-3. Prepará los permisos necesarios.
+3. Prepará los permisos necesarios (para usar calles o espacios públicos, el municipio y, si corresponde, la policía de tránsito).
+
+> **Nota para el educador:** la "Carrera contra el hambre" fue una iniciativa de FAO por el Día Mundial de la Alimentación; puede que ya no se organice. Igual pueden hacer la suya en esa fecha.
 4. Diseñá material promocional.
 
 ## Desarrollo

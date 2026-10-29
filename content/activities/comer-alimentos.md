@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +186,8 @@ Registrá tus hábitos alimenticios durante una semana y comparalos con lo que c
 3. **Comparación** (15 min): Compará tus hábitos con lo que come una persona que vive con 1 USD al día.
 4. **Reflexión** (15 min): Discutí y reflexioná sobre tus hallazgos con tu grupo.
 5. **Extensión** (opcional): Registrá cuánto pagaron por los alimentos y calculá cuánto podrías comprar con 1 o 2 USD al día.
+
+> **Nota para el educador:** el original (2013) usa "1 dólar por día", la línea de pobreza extrema de entonces. Hoy el Banco Mundial la ubica en unos 3 USD por día (ajustados por poder de compra). **Opción:** usen el valor de la canasta básica alimentaria por persona de tu país, que suele ser un dato oficial y local; en Argentina, por ejemplo, la que publica el INDEC.
 
 ## Cierre
 - ¿Qué te sorprendió al comparar tus hábitos alimenticios con los de una persona que vive con 1 USD al día?

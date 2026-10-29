@@ -62,12 +62,6 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "http://es.wfp.org/historias/11-mitos-sobre-el-hambre-mundial"
-    caption: "11 mitos sobre el hambre mundial"
-    icon: "link"
-  - filepath: "http://quiz.wfp.org"
-    caption: "Prueba sobre el hambre"
-    icon: "link"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -75,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,8 +174,10 @@ rama_rovers:
 Revisá once mitos sobre el hambre y discutí si son verdaderos o falsos. Tomá un quiz sobre el hambre.
 
 ## Preparación
-1. Accedé al recurso con los 11 mitos sobre el hambre: http://es.wfp.org/historias/11-mitos-sobre-el-hambre-mundial.
-2. Prepará el quiz sobre el hambre: http://quiz.wfp.org.
+1. Buscá un recurso sobre mitos del hambre (el original enlazaba a "11 mitos sobre el hambre mundial" del Programa Mundial de Alimentos, PMA).
+2. Prepará un quiz sobre el hambre.
+
+> **Nota para el educador:** los enlaces del original (es.wfp.org y quiz.wfp.org) son de un sitio viejo del PMA y ya no funcionan. Busquen material actualizado en wfp.org/es o en fao.org/hunger/es, o armen ustedes el quiz con datos del último informe de FAO sobre el estado de la seguridad alimentaria en el mundo (SOFI).
 3. Prepará material para póster o folleto (extensión).
 
 ## Desarrollo

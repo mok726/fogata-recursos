@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,7 +172,7 @@ Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo
 ## Preparación
 1. Dividí el grupo en cuatro o cinco grupos pequeños.
 2. Creá estaciones con diferentes problemas de hambre.
-3. Prepará carteles con descripciones.
+3. Prepará carteles con descripciones. Por ejemplo: una sequía arruina la cosecha; los alimentos son tan caros que una familia numerosa no llega a fin de mes; una inundación corta los caminos al mercado; una plaga ataca los cultivos; una familia no tiene dónde guardar los alimentos y se le echan a perder.
 
 ## Desarrollo
 1. **Rotación** (5 min por estación): Cada grupo visita una estación y busca soluciones.

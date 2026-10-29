@@ -65,9 +65,6 @@ link:
   - url: "mailto:yunga@fao.org"
     caption: "Enviar video a YUNGA"
     icon: "read_more"
-  - url: "mailto:The-1billionhungry-project@fao.org"
-    caption: "Enviar video a 1BillionHungry"
-    icon: "read_more"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -75,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,7 +186,9 @@ Grabá un video para difundir un mensaje sobre la importancia de acabar con el h
 2. **Grabación** (20 min): Grabá tu video.
 3. **Edición** (15 min): Editá el video si es posible.
 4. **Difusión** (10 min): Compartí el video con tu comunidad.
-5. **Envío** (5 min): Enviá el video a YUNGA y a 1BillionHungry.
+5. **Envío** (5 min): Enviá el video a YUNGA (yunga@fao.org).
+
+> **Nota para el educador:** la campaña 1BillionHungry ya terminó. Si en el video aparecen chicos, pidan antes la autorización de imagen de las familias, según la política de tu organización scout nacional o de tu escuela.
 
 ## Cierre
 - ¿Qué mensaje quisiste transmitir?

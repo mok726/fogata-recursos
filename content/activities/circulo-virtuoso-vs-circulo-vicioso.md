@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Creá una pancarta con dos columnas para comparar el círculo virtuoso y el cír
 1. Prepará una pancarta grande con dos columnas.
 2. Escribí tarjetas con acciones que conducen al círculo virtuoso y al círculo vicioso.
 3. Prepará marcadores.
+
+> **Nota para el educador:** la **trampa del hambre** es un círculo vicioso: quien pasa hambre tiene menos energía y salud para trabajar o estudiar, gana menos, y por eso sigue sin poder comprar o producir suficientes alimentos. El **círculo virtuoso** es lo contrario: una mejor alimentación permite trabajar y aprender mejor, eso mejora los ingresos, y con eso se accede a más y mejores alimentos.
 
 ## Desarrollo
 1. **Preparación** (10 min): Dibujá dos círculos en la pancarta.

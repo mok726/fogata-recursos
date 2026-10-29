@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,9 @@ Creá un personaje atrapado en la trampa del hambre y dibujá un guión gráfico
 
 ## Preparación
 1. Revisá el concepto de la trampa del hambre y el círculo virtuoso.
+
+> **Nota para el educador:** la **trampa del hambre** es un círculo vicioso: quien pasa hambre tiene menos energía y salud para trabajar o estudiar, gana menos, y por eso sigue sin poder comprar o producir suficientes alimentos. El **círculo virtuoso** es lo contrario: una mejor alimentación permite trabajar y aprender mejor, eso mejora los ingresos, y con eso se accede a más y mejores alimentos.
+
 2. Prepará papel y lápices para dibujar.
 3. Pensá en un personaje para tu historia.
 

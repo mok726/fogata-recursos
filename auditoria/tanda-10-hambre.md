@@ -69,3 +69,14 @@
 | trabajo-voluntario (E08) | Banco de Alimentos de tu ciudad (Red Argentina de Bancos de Alimentos). | "Lugares de adoración" → "parroquias o templos". | buena | P3 |
 | carta-para-ejercer-presion (E09) | — | — | ok | P3 |
 | alimentos-justos (E10) | — | En Argentina casi no hay productos con sello de Comercio Justo en supermercados; sugerir economía social y ferias de productores. | ok | P3 |
+
+## Estado (2026-10-29)
+
+Aplicado:
+- Original de FAO (`i3466s.pdf`, de la carpeta local de Mariano) embebido en las 49 actividades. `references.url` y `badges.js` apuntan a https://www.fao.org/docrep/018/i3466s/i3466s.pdf (© FAO 2013; la licencia del sitio ya decía "todos los derechos reservados").
+- A12: FAO la propone desde el nivel 2 (11 años). Queda 11+ con autorización familiar, contraindicaciones y alternativa para menores de 16; se recomienda el ayuno completo desde los 16 (decisión de Mariano).
+- Notas por contenido vencido: A01/A06 (línea de pobreza, canasta básica), D08/D09 (ODM → ODS, opción ODS 2), campañas cerradas (A06, C01, E03, E07), Ciberbús (D09), enlaces del PMA (A07). B05 → Freerice.
+- Léxico: fréjoles → porotos (A02, C04), lugares de adoración → templos o parroquias (E08), barrilete (D03).
+- Seguridad: alergias (A02, A05, E01), cocina (A05), barrilete y cables (D03), vía pública (E02, E06), imagen (E03).
+- Didáctica: trampa del hambre / círculos (C02, D02, D07), Antártida (A08), reglas de C05, ejemplos de D06, miradas en B07, B09, E10; bancos de alimentos (E08).
+- Pendiente: `duration` vacío (criterio de Mariano: se deja), imágenes en la lista de regeneración, verificación fina de consistencia adaptación ↔ original.

@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,6 +187,8 @@ Diseñá estrategias de comunicación creativas para difundir el mensaje de acab
 2. **Diseño** (20 min): Diseñá eslóganes, logos o mensajes.
 3. **Creación** (20 min): Prepará los materiales.
 4. **Acción** (15 min): Llevá a cabo tu estrategia (flash-mob, carteles, etc.).
+
+> **Nota para el educador:** para acciones en la vía pública o en espacios privados (shoppings, estaciones), pidan permiso antes y vayan siempre con adultos.
 
 ## Cierre
 - ¿Qué estrategia de comunicación te pareció más efectiva?

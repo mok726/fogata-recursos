@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,6 +188,10 @@ Averiguá cuánto es 1 USD en tu moneda y creá una lista de compras para un dí
 3. **Precios** (30 min): Visitá el mercado y revisá los precios.
 4. **Reflexión** (20 min): Pensá en qué elementos deberías sacrificar y cómo sería alimentar a una familia con ese presupuesto.
 5. **Discusión** (15 min): Compartí tus ideas con el grupo.
+
+> **Nota para el educador:** el original (2013) usa "1 dólar por día", la línea de pobreza extrema de entonces. Hoy el Banco Mundial la ubica en unos 3 USD por día (ajustados por poder de compra). **Opción:** usen el valor de la canasta básica alimentaria por persona de tu país, que suele ser un dato oficial y local; en Argentina, por ejemplo, la que publica el INDEC.
+>
+> El video que sugiere el original estaba en el sitio de la campaña "Acabar con el Hambre" de FAO, que ya no está activo.
 
 ## Cierre
 - ¿Qué aprendiste sobre vivir con 1 dólar al día?

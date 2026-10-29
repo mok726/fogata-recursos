@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,6 +178,8 @@ Juego de cartas que simula el comercio internacional de alimentos, mostrando las
 1. **Investigación** (15 min): Investigá países y sus alimentos.
 2. **Preparación** (20 min): Creá cartas de recursos y necesidades.
 3. **Juego** (20 min): Intercambiá cartas para satisfacer necesidades.
+
+> **Opción (reglas simples):** cada grupo recibe una tarjeta de "necesidades" (por ejemplo, 2 granos, 1 fruta, 1 proteína, 1 lácteo) y cartas de recursos según la riqueza de su país: los ricos reciben muchas y variadas; los pobres, pocas y de un solo tipo. Durante 10 minutos negocian e intercambian libremente. Gana quien completa sus necesidades; al final, comparen quién lo logró y por qué.
 4. **Reflexión** (15 min): Discutí sobre las desigualdades del comercio global.
 
 ## Cierre

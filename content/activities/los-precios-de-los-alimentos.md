@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,8 @@ Visitá el supermercado semanalmente durante un par de meses para anotar los pre
 1. **Registro** (semanal): Anotá los precios de frutas, vegetales, pan, leche, carne, etc.
 2. **Análisis** (15 min): Observá si los precios cambian y por qué.
 3. **Reflexión** (15 min): Pensá en los efectos de estos cambios sobre los pobres.
+
+> **Opción:** en países con inflación alta, comparen la suba de los alimentos con la inflación general del período (dato del instituto de estadística de tu país) para ver qué alimentos subieron más que el resto.
 4. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Investigá los precios de los alimentos y lo que los afecta. Prepará afiches explicando tus hallazgos y expónlos públicamente.
 
 ## Cierre

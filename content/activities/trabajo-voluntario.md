@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,7 +170,7 @@ rama_rovers:
 Investigá organizaciones que trabajan contra el hambre en tu comunidad y trabajá como voluntario.
 
 ## Preparación
-1. Investigá organizaciones locales (bancos de alimentos, ONGs, lugares de adoración, etc.).
+1. Investigá organizaciones locales (bancos de alimentos, ONGs, templos o parroquias, etc.). En Argentina, por ejemplo, la Red Argentina de Bancos de Alimentos agrupa a los de muchas ciudades.
 2. Contactá a una organización y pregunta sobre oportunidades de voluntariado.
 3. Organizá una visita de campo.
 

@@ -1493,8 +1493,8 @@ sections: {
       hero_image: "/imagenes/insignias/hambre-hero.png",
       sources: [
         {
-          name: "YUNGA Ending Hunger Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/ending-hunger/es/"
+          name: "FAO/YUNGA: Insignia Acabar con el Hambre (2013)",
+          url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
         }
       ],
   license: {

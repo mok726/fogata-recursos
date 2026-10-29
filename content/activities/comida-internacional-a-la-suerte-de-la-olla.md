@@ -65,9 +65,6 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.endinghunger.org/es/educate/host_a_dinner_party.html"
-    caption: "Cómo organizar una cena internacional"
-    icon: "read_more"
   - url: "www.fao.org/getinvolved/worldfoodday/home/es"
     caption: "Día Mundial de la Alimentación"
     icon: "read_more"
@@ -78,7 +75,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,7 +182,9 @@ Organizá una cena internacional donde cada invitado trae un plato de un país d
 ## Preparación
 1. Elegí una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
 2. Invitá a amigos y familiares.
-3. Pedí a cada invitado que cocine una receta de un país extranjero.
+3. Pedí a cada invitado que cocine una receta de un país extranjero. (En Argentina, este tipo de comida compartida se suele llamar "a la canasta".)
+
+> **Nota para el educador:** pidan que cada plato tenga una tarjeta con sus ingredientes, por las alergias e intolerancias.
 4. Decorá el lugar con banderas internacionales.
 
 ## Desarrollo

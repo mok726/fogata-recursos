@@ -61,9 +61,6 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.endinghunger.org/es/educate/cutting_food_waste.html"
-    caption: "Información sobre desperdicios de alimentos"
-    icon: "read_more"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -71,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +182,8 @@ Anotá cuánta comida desecha tu familia durante una semana y buscá formas de r
 2. **Cálculo** (15 min): Al final de la semana, calcula el total de alimentos desperdiciados.
 3. **Discusión** (15 min): Hablá con tu familia sobre cómo reducir estos desperdicios.
 4. **Acción** (durante las próximas semanas): Pongan en práctica las sugerencias.
+
+> **Nota para el educador:** la campaña "1billionhungry / Acabar con el Hambre" de FAO ya terminó y su sitio no está activo. Para información sobre desperdicio de alimentos, consulten fao.org/food-loss-and-food-waste/es o la campaña nacional de tu país, si existe.
 5. **Extensión - 16+ (Caminantes y Rovers)** (20 min): Investigá sobre pérdidas de alimentos en otras etapas del sistema alimentario (producción, transporte). ¿Qué se puede hacer para reducirlas? ¿Qué podés hacer como consumidor? Hacé una presentación para tu grupo.
 
 ## Cierre

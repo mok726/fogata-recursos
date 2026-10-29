@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Macetas
-  - Semillas (albahaca, perejil, fréjoles, etc.)
+  - Semillas (albahaca, perejil, porotos, etc.)
   - Tierra
   - Agua
 tools: []
@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:

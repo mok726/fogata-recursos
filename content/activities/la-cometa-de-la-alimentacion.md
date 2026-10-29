@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,21 +171,23 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # La Cometa de la Alimentación
 
 ## Resumen
-Construí una cometa decorada con un deseo para acabar con el hambre y hacela volar para difundir tu mensaje.
+Construí un barrilete (cometa) decorado con un deseo para acabar con el hambre y hacela volar para difundir tu mensaje.
 
 ## Preparación
 1. Reuní dos palos de madera (menos de 50 cm) y papel o tela.
 2. Prepará cuerda y material para decorar.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** remonten el barrilete en un espacio abierto, lejos de cables eléctricos, antenas, rutas y árboles. Si se engancha en un cable, no intenten bajarlo.
+
 ## Desarrollo
 1. **Construcción** (15 min): Ata los palos en forma de cruz.
 2. **Cubierta** (10 min): Extendé papel o tela sobre la cruz.
 3. **Decoración** (15 min): Decorá con un deseo para acabar con el hambre.
-4. **Vuelo** (15 min): Hacé volar tu cometa para difundir tu mensaje.
+4. **Vuelo** (15 min): Hacé volar tu barrilete para difundir tu mensaje.
 
 ## Cierre
-- ¿Qué deseo escribiste en tu cometa?
+- ¿Qué deseo escribiste en tu barrilete?
 - ¿Cómo te sentiste al ver volar tu mensaje?
 - ¿Qué compromiso adquieres para seguir difundiendo tu mensaje?
 

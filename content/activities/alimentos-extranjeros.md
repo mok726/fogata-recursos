@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,7 +181,7 @@ Investigá recetas de otros países y cocina una comida. Compará los ingredient
 1. Investigá recetas de otros países o culturas.
 2. Elegí una receta que puedas cocinar sin habilidades especiales.
 3. Comprá los ingredientes necesarios.
-4. Asegurá la supervisión de un adulto.
+4. Asegurá la supervisión de un adulto, sobre todo con cuchillos, hornallas y horno. Consulten alergias e intolerancias del grupo.
 
 ## Desarrollo
 1. **Investigación** (15 min): Investigá recetas de otros países.

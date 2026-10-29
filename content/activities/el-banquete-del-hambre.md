@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Boletos para asignar roles (ingresos altos, medios, bajos)
-  - Comida para los diferentes grupos (comida rica, arroz con fréjoles, arroz blanco y agua)
+  - Comida para los diferentes grupos (comida rica, arroz con porotos, arroz blanco y agua)
   - Platos y utensilios
 tools: []
 responsible:
@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,7 +180,9 @@ Organizá un 'Banquete del Hambre' donde los participantes reciben comidas segú
 1. Invitá a los miembros de tu grupo asegurándote de que los detalles sean una sorpresa.
 2. Prepará boletos para asignar roles (ingresos altos, medios, bajos).
 3. Calculá cuántos boletos de cada tipo necesitás usando las fórmulas: 15% para ingresos altos, 35% para ingresos medios, 50% para ingresos bajos.
-4. Prepará las comidas: comida rica para el 15%, arroz con fréjoles para el 35%, arroz blanco y agua para el 50%.
+4. Prepará las comidas: comida rica para el 15%, arroz con porotos para el 35%, arroz blanco y agua para el 50%.
+
+> **Nota para el educador:** consulten antes las alergias e intolerancias alimentarias del grupo. Con los más chicos, expliquen al final que fue un juego y compartan algo de comer entre todos. Esta dinámica se conoce también como "Banquete del Hambre" de Oxfam, que tiene guías para organizarla.
 
 ## Desarrollo
 1. **Llegada** (5 min): Los invitados llegan y eligen un boleto al azar.

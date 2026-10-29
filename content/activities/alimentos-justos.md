@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/98e53fed-550e-43d6-8a91-3a4c8a21446c"
+    url: "https://www.fao.org/docrep/018/i3466s/i3466s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +183,8 @@ Aprendé sobre el Comercio Justo, buscá productos con el sello y promové su co
 ## Desarrollo
 1. **Investigación** (15 min): Aprendé sobre el Comercio Justo.
 2. **Búsqueda** (20 min): Buscá productos con sello de Comercio Justo.
+
+> **Nota para el educador:** en muchos países los productos con sello de Comercio Justo son difíciles de encontrar en el supermercado. **Opción:** busquen productos de la economía social, cooperativas o ferias de productores locales, que comparten la misma idea de precio justo para quien produce.
 3. **Lista** (15 min): Reemplazá productos en la lista del supermercado por alternativas de Comercio Justo.
 4. **Explicación** (15 min): Explicá a tu familia por qué el Comercio Justo ayuda.
 5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Hacé una encuesta sobre Comercio Justo a tu grupo. Discutí los hallazgos y organizá una Feria de Alimentos de Comercio Justo.
