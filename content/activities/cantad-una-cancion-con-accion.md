@@ -188,3 +188,10 @@ Compón y canta una canción con movimientos sobre la importancia de la activida
 - ¿Qué compromiso adquieres para seguir promoviendo la salud?
 
 ---
+## Texto original completo de la actividad
+
+**E.03 CANTAD UNA CANCIÓN CON ACCIÓN.** Una canción con acción es una canción que cantas mientras das palmas, mueves las manos y los pies, saltas o haces mímica. Júntate con tu grupo y compongan una canción con acción sobre la importancia de la actividad física y el deporte. Inventen una melodía pegadiza con movimientos divertidos y ensáyenla varias veces para asegurarse de que todo el mundo se la sabe. Cántensela a sus profesores, responsables y padres en el Día de Padres de su escuela. Pueden pasar un sombrero entre el público para recaudar fondos para un proyecto comunitario sobre nutrición.
+
+niveles 2 1
+
+---

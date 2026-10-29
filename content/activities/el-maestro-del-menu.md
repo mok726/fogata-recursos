@@ -189,3 +189,10 @@ Prepará un menú semanal con cenas saludables y equilibradas, variando los grup
 - ¿Qué compromiso adquieres para diversificar tu alimentación?
 
 ---
+## Texto original completo de la actividad
+
+**B.16 EL MAESTRO DEL MENÚ.** Preparen todos juntos un menú con las cenas de toda la semana, que contenga todos los elementos de una dieta sana y equilibrada. En primer lugar, dividan todos los alimentos que comen con sus familias en diferentes categorías, utilizando los grupos de alimentos que aparecen en la Sección A. Después busquen recetas que incorporen estos grupos. Quizá pueden usar un tema diferente para cada cena: comida india, china, marroquí o griega. Recuerden que tienen que variar y utilizar muchos tipos diferentes de alimentos, incluso dentro del mismo grupo de alimentos. *Los participantes del nivel 2 deben contar con la ayuda de los adultos para esta tarea, ya que los utensilios para preparar y cocinar los alimentos y los fogones y el horno pueden ser peligrosos.
+
+niveles 3 2
+
+---

@@ -187,3 +187,10 @@ Investigá qué alimentos enriquecidos se producen en tu país y para qué sirve
 - ¿Qué compromiso adquieres para informarte sobre la nutrición?
 
 ---
+## Texto original completo de la actividad
+
+**B.15 DESCUBRE LOS ALIMENTOS ENRIQUECIDOS.** Cuando la gente no puede seguir una dieta equilibrada o absorber suficientes nutrientes, por ejemplo, durante el embarazo o cuando somos bebés, el médico puede recomendar que tome alimentos enriquecidos o suplementos dietéticos. Investiga qué alimentos enriquecidos se producen en tu país. Por ejemplo: la vitamina A puede añadirse a la leche y a algunos aceites vegetales; a la sal se le puede añadir yodo; y a la harina, al pan o a otros cereales les pueden añadir vitaminas del grupo B y hierro. Haz una tabla con los alimentos enriquecidos que encuentres y explica para qué sirven.
+
+niveles 3 2
+
+---

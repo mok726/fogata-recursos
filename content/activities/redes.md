@@ -190,3 +190,10 @@ Creá una red de jóvenes para luchar contra la malnutrición e intercambiar ide
 - ¿Qué compromiso adquieres para seguir construyendo redes?
 
 ---
+## Texto original completo de la actividad
+
+**E.15 REDES.** Crea una red en contra de la malnutrición con un grupo de jóvenes de tu país o en el extranjero. Intercambien sus ideas y trabajen juntos para concienciar y luchar contra las diferentes formas de malnutrición. Planeen un proyecto de nutrición conjunto. Manténganse en contacto por correo, por correo electrónico, por chat, por Skype o videoconferencia, creen un blog, o comuníquense por medio de las redes sociales.
+
+nivel 3
+
+---

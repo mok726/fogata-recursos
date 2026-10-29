@@ -190,3 +190,10 @@ Investigá la información nutricional de diferentes alimentos y creá una tabla
 - ¿Qué compromiso adquieres para leer las etiquetas de los alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**B.07 INVESTIGUEN LAS ETIQUETAS DE LOS ALIMENTOS.** Hagan una tabla con la información nutricional de los diferentes alimentos que comen. Hagan una lista con las comidas en una columna y con los nutrientes en otra. Por ejemplo: • Las judías nos aportan… • carbohidratos, proteínas, fibra, ácido fólico, hierro Las etiquetas de los alimentos son una fuente de información sobre los nutrientes de los alimentos envasados. Consigan tantas como puedan y copien la información nutricional de las etiquetas en la tabla. Pongan la tabla en la cocina, en la cafetería de la escuela o en el tablón de anuncios, donde los niños, los padres y los visitantes puedan verla.
+
+niveles 3 2 1
+
+---

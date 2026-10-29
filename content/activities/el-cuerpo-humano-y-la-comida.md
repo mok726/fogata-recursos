@@ -189,3 +189,10 @@ Creá un póster del cuerpo humano etiquetando qué alimentos son buenos para ca
 - ¿Qué compromiso adquieres para cuidar tu cuerpo?
 
 ---
+## Texto original completo de la actividad
+
+**B.08 EL CUERPO HUMANO Y LA COMIDA.** Hagan un poster del cuerpo humano, añadiendo todos los detalles que puedan: ojos, dientes, pelo, uñas, etc. Pongan etiquetas en función de los alimentos que sean buenos para cada parte del cuerpo. Por ejemplo, la leche es buena para los huesos, los dientes y las uñas, y las zanahorias son bunas para la vista. Expongan los pósteres en grupo.
+
+niveles 3 2 1
+
+---

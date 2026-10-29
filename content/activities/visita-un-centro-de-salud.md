@@ -183,3 +183,10 @@ Visitá un centro de salud o invitá a un profesional sanitario para aprender so
 - ¿Qué compromiso adquieres para apoyar la salud en tu comunidad?
 
 ---
+## Texto original completo de la actividad
+
+**A.11 VISITA UN CENTRO DE SALUD.** Visita un centro de salud o invita a algún profesional sanitario a que les hable sobre los retos a los que se enfrenta en su trabajo. Investiga qué servicios ofrece el centro de salud a las personas que sufren malnutrición o problemas de salud y cómo pueden ofrecerse como voluntarios para ayudar.
+
+niveles 3 2
+
+---

@@ -187,3 +187,10 @@ Descubrí alimentos tradicionales que tus abuelos comían y que hoy están olvid
 - ¿Qué compromiso adquieres para redescubrir y valorar estos alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**D.19 REDESCUBRE ALIMENTOS OLVIDADOS.** El mundo tiene unas 50 000 especies comestibles de plantas, y los agricultores han domesticado unas 5 000. Sin embargo, hoy en día la producción mundial de cultivos se concentra en solo 12 especies. Redescubre los alimentos olvidados. Pregunta a tus padres o abuelos qué comían cuando eran jóvenes. ¿Dónde conseguían esos alimentos? ¿Los puedes conseguir ahora? *Asegúrate de preguntarle a un experto y utilizar las especies correctas; puede ser peligroso que te equivoques.
+
+niveles 3 2
+
+---

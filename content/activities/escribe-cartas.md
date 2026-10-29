@@ -188,3 +188,10 @@ Escribí cartas a líderes gubernamentales para presionar sobre temas de nutrici
 - ¿Qué compromiso adquieres para involucrarte en temas políticos?
 
 ---
+## Texto original completo de la actividad
+
+**E.12 ESCRIBE CARTAS.** Escribe una carta para presionar a los responsables de tomar decisiones (políticos, diputados). Expresa tu preocupación sobre la desnutrición e infórmate sobre los siguientes temas: • ¿Qué está haciendo tu país para alcanzar el segundo Objetivo de Desarrollo Sostenible (erradicar el hambre y la pobreza) y qué proporción del dinero público se invierte en nutrición y necesidades sociales? • Solicitar normas y campañas para luchar contra la obesidad infantil. ¿Qué está haciendo el gobierno para restringir el marketing de alimentos y bebidas no saludables a los niños? • ¿Tienen algún programa para promover una alimentación saludable en las escuelas? Intenta que más personas también firmen tu carta.
+
+niveles 3 2
+
+---

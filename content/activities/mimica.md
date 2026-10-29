@@ -187,3 +187,10 @@ Juego de mímica con palabras relacionadas con la seguridad alimentaria y la nut
 - ¿Qué compromiso adquieres para seguir aprendiendo?
 
 ---
+## Texto original completo de la actividad
+
+**C.04 MÍMICA.** En grupo, hagan un mazo de cartas, cada una con una palabra relacionada con la seguridad alimenticia o con la nutrición, como “sano”, “fecha de caducidad” o “bacterias”. ¡Sean lo más creativos que puedan! Después mezclen todas las cartas y divídanse en grupos. Jueguen a la mímica, donde cada uno tiene que interpretar la palabra de su carta, mientras que su grupo la tiene que adivinar.
+
+niveles 2 1
+
+---

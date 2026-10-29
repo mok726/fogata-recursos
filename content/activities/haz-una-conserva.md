@@ -186,3 +186,10 @@ Investigá técnicas tradicionales de conserva de alimentos de tu cultura y de o
 - ¿Qué compromiso adquieres para mantener vivas las tradiciones culinarias?
 
 ---
+## Texto original completo de la actividad
+
+**C.06 HAZ UNA CONSERVA.** ¿Cuáles son las técnicas típicas de conserva en tu cultura? ¿Hay alguien en tu familia, como tus abuelos o tíos, que tengan una técnica especial que haya pasado de generación en generación? Escribe una redacción sobre ello. También puedes investigar sobre algunas técnicas de otras culturas e incluirlas en tu redacción.
+
+niveles 3 2
+
+---

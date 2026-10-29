@@ -186,3 +186,10 @@ Explorá los nutrientes de tus comidas favoritas y buscá formas de hacerlas má
 - ¿Qué compromiso adquieres para mejorar tu alimentación?
 
 ---
+## Texto original completo de la actividad
+
+**B.03 COMIDAS FAVORITAS.** ¿Cuáles son sus comidas favoritas? Hagan una lista y exploren los nutrientes esenciales que contienen. ¿Hay alguna manera de hacer que sean más sanas, como hacer una pizza desde cero en lugar de pedirla por teléfono o comprarla cocinada? Hagan una lista con cinco formas de mejorar sus comidas más nutritivas y también más sostenibles con el medio ambiente.
+
+niveles 2 1
+
+---

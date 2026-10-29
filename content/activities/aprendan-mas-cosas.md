@@ -192,3 +192,10 @@ Utilizá los materiales de Alimentarnos bien para estar sanos para aprender sobr
 - ¿Qué compromiso adquieres para mejorar tu dieta?
 
 ---
+## Texto original completo de la actividad
+
+**B.06 APRENDEN MÁS COSAS.** Utilicen los materiales de Alimentarnos bien para estar sanos (disponibles en http://www.fao.org/docrep/019/i3261s/i3261s00.htm para averiguar más cosas sobre los nutrientes que obtenemos de los alimentos, sus funciones y la importancia de una dieta equilibrada. Estudien el Tema 4 (macronutrientes) y el Tema 5 (micronutrientes) (pueden acceder a ellos con el link anterior). Hagan al menos tres actividades de cada tema.
+
+niveles 3 2 1
+
+---

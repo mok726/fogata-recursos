@@ -191,3 +191,10 @@ Organizá una rifa para recaudar fondos para un proyecto de nutrición en tu com
 - ¿Qué compromiso adquieres para seguir apoyando causas sociales?
 
 ---
+## Texto original completo de la actividad
+
+**E.14 RECAUDAR FONDOS.** Organiza una rifa para recaudar fondos destinados a un proyecto de nutrición en tu comunidad o en cualquier otro lugar del mundo.
+
+niveles 3 2
+
+---

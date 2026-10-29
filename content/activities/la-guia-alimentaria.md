@@ -188,3 +188,10 @@ Averiguá si tu país tiene una guía alimentaria y creá pósteres para difundi
 - ¿Qué compromiso adquieres para seguir una dieta saludable?
 
 ---
+## Texto original completo de la actividad
+
+**B.18 LA GUÍA ALIMENTARIA.** Para ayudar a la gente a seguir una dieta saludable, muchos países han desarrollado una guía alimentaria. Estas guías indican qué alimentos debemos comer más o menos a menudo. Algunos puntos incluyen cuántas porciones se recomienda tomar. Averigua si tu país tiene su propia guía alimentaria, y en caso de que así sea, hagan pósteres y repártanlos por todos sitios a la gente de su comunidad.
+
+niveles 3 2
+
+---

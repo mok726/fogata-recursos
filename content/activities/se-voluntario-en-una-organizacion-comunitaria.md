@@ -188,3 +188,10 @@ rama_rovers:
 - ¿Qué compromiso adquieres para seguir sirviendo a tu comunidad?
 
 ---
+## Texto original completo de la actividad
+
+**E.11 SÉ VOLUNTARIO EN UNA ORGANIZACIÓN COMUNITARIA.** Busca una organización no gubernamental o una asociación que trabaje con asuntos relacionados con la nutrición, y únete a sus proyectos y actividades. Algunos ejemplos pueden incluir recoger donaciones de alimentos, hacer voluntariado en los bancos de alimentos, programas de alimentación escolar, cultivo de huertos, criar animales pequeños (pollos, conejos, peces, etc.), programas de eliminación de parásitos en la escuela, recaudar fondos, apoyar a las personas mayores, etc.
+
+niveles 3 2
+
+---

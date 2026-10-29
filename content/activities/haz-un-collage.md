@@ -190,3 +190,10 @@ Creá un collage de una dieta sana y respetuosa con el medio ambiente usando rev
 - ¿Qué compromiso adquieres para seguir una dieta verde?
 
 ---
+## Texto original completo de la actividad
+
+**D.05 HAZ UN COLLAGE.** Haz un collage de una dieta sana y respetuosa con el medio ambiente. Utiliza revistas viejas para recortar las fotos de los diferentes alimentos y pégalas en una hoja de papel. Enséñaselo a tu familia y al resto del grupo y explica por qué has elegido esos alimentos para ilustrar una dieta verde.
+
+niveles 2 1
+
+---

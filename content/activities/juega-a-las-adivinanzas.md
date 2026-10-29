@@ -189,3 +189,10 @@ Juego de adivinanzas con alimentos para aprender sobre la importancia de una die
 - ¿Qué compromiso adquieres para probar nuevos alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**E.07 JUEGA A LAS ADIVINANZAS.** Juega a las adivinanzas con los niños de tu comunidad. Preparen muestras de varios alimentos (cereales, legumbres, frutas y verduras). Cierren los ojos y toquen, huelan y prueben las muestras de comida. ¿Pueden adivinar qué alimentos son? Hablen sobre la importancia de seguir una dieta variada.
+
+niveles 3 2 1
+
+---

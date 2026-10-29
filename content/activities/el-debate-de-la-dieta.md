@@ -185,3 +185,10 @@ Debatí sobre la influencia de los medios de comunicación en los trastornos ali
 - ¿Qué compromiso adquieres para promover una imagen corporal saludable?
 
 ---
+## Texto original completo de la actividad
+
+**B.14 EL DEBATE DE LA DIETA.** Hay un montón de debates hoy en día sobre el peso, la autoestima, o los trastornos alimenticios, en especial en el caso de las chicas. Algunas personas están de acuerdo en que los medios de comunicación (televisión, revistas, etc.) contribuyen a estos problemas al dar imágenes poco realistas del cuerpo que mucha gente intenta conseguir. Esto puede causar comportamientos enfermizos, como comer muy poco para estar delgado. ¿Son los medios de comunicación los culpables, o es la gente la que debe ser responsable de informarse y de intentar mantenerse sana?
+
+niveles 3 2
+
+---

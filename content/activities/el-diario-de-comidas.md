@@ -196,3 +196,10 @@ Llevá un registro detallado de tu alimentación durante una semana para evaluar
 - ¿Qué compromiso adquieres para mejorar tu alimentación?
 
 ---
+## Texto original completo de la actividad
+
+**B.02 EL DIARIO DE COMIDAS.** Lleven un diario de comidas durante una semana. En él deberán apuntar todas las comidas que coman a lo largo del día. Si tienes un smartphone, puedes descargarte una aplicación para ayudarte a seguir la pista a tu dieta. Mira el recuadro de la página 174 para saber qué cosas tener en cuenta. Evalúa tu dieta al final de la semana. ¿Sigues una dieta equilibrada? ¿Qué puedes mejorar? Habla con tus padres sobre los cambios que crees que deberías hacer (para implementarlos después). PUNTOS ATENER EN CUENTA EN TU DIARIO DE COMIDAS (B.2): ¿Haces tres comidas al día? ¿Comes de dos a tres aperitivos entre ellas? ¿Tomas un desayuno nutritivo antes de ir al colegio? ¿Tomas el almuerzo a mediodía en el comedor del colegio o lo traes de casa? ¿Incluyes en tu dieta: • Mucho arroz, maíz, cereales, patatas, mandioca, pan, pasta? • Muchas verduras, en especial de hoja verde y verduras naranjas? • Muchas frutas frescas o secas? • Suficiente carne, pescado, judías y guisantes? • Suficiente leche, yogur, queso y huevos? • Un poco de grasa? ¿Cuánto azúcar o alimentos azucarados comes? ¿Cuántas bebidas azucaradas consumes? ¿Qué alimentos altos en proteínas comes? ¿Crees que tomas suficientes proteínas? ¿La mayoría de las proteínas que tomas son de origen vegetal o animal? ¿Qué alimentos con mucha grasa consumes? ¿Tomas la cantidad adecuada de grasas? ¿Demasiadas? ¿Muy pocas? ¿Crees que tomas la cantidad suficiente de vitaminas y minerales esenciales? ¿Comes una gran variedad de alimentos para asegurarte de que tomas las vitaminas y minerales que necesitas? ¿Qué beneficios para la salud están relacionados con los nutrientes de tus alimentos? ¿Qué problemas de salud están relacionados con los nutrientes de tus alimentos? ¿Bebes suficiente agua? ¿Qué puedes cambiar en tu dieta para asegurarte de que satisfaces las necesidades de tu organismo? u u
+
+niveles 3 2 1
+
+---

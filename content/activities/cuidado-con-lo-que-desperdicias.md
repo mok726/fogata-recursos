@@ -197,3 +197,10 @@ Vigilá el desperdicio de comida en tu casa durante una semana y buscá formas d
 - ¿Qué compromiso adquieres para reducir el desperdicio de alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**D.02 CUIDADO CON LO QUE DESPERDICIAS.** ¿Cuánta comida se desperdicia en tu casa? Vigila el cubo de la basura durante una semana o dos para ver cuánta comida tiran a la basura tu familia y tú. ¿Qué comidas tiran? ¿Sigue siendo comestible? ¿Por qué la han tirado? Apúntalo en un diario y luego expón tus conclusiones a tu familia. Debatan sobre las maneras de reducir el desperdicio de comida, y explícales por qué es importante. Aporta sugerencias sobre una mejor planificación y conserva para prevenir el gasto. Por ejemplo, poner un estante de “Cómeme primero” en el frigorífico.
+
+niveles 3 2 1
+
+---

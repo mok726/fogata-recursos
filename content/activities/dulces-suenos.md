@@ -191,3 +191,10 @@ Registrá tu patrón de sueño y analizá la calidad de tu descanso para mejorar
 - ¿Qué compromiso adquieres para dormir mejor?
 
 ---
+## Texto original completo de la actividad
+
+**A.06 DULCES SUEÑOS.** ¿Duermes lo suficiente? Los niños y los adolescentes necesitan de media de 8 a 10 horas de sueño cada noche. Apunta tu patrón de sueño, no solo el número de horas, sino también la calidad del sueño. ¿Cuántas veces te despiertas cada noche, si es que hay alguna? ¿Te cuesta quedarte dormido? ¿Sueñas a menudo? ¿Te levantas cansado o descansado? ¿Te entra sueño cuando estás en el colegio? Si tienes acceso a un smartphone, puedes descargarte una aplicación para anotar tu patrón de sueño. Si no duermes bien, intenta averiguar la razón, por ejemplo, comer antes de irse a la cama, o ver demasiada televisión antes de dormir. Puedes encontrar algunas ideas en este enlace: http://kidshealth.org/teen/your_body/take_care/tips_sleep. html.
+
+niveles 3 2 1
+
+---

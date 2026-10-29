@@ -184,3 +184,10 @@ Debatí sobre las principales causas de la obesidad infantil y su prevalencia en
 - ¿Qué compromiso adquieres para prevenir la obesidad?
 
 ---
+## Texto original completo de la actividad
+
+**B.13 ENTENDER LA OBESIDAD.** Debatan en grupo las principales causas de la obesidad infantil. Por ejemplo, algunas de las principales causas son: beber demasiados refrescos, comer demasiados dulces o comida basura, pasar mucho tiempo viendo la televisión o jugando a videojuegos en lugar de haciendo ejercicio, no comer suficientes frutas y verduras, saltarse el desayuno, ir al colegio en coche en lugar de ir andando o en bici, y no hacer suficiente educación física. ¿Crees que alguno de estos hábitos en particular es común en tu comunidad? En caso de que sea así, ¿por qué? ¿O en tu área no hay un problema de obesidad infantil? Si es así, ¿por qué?
+
+niveles 3 2
+
+---

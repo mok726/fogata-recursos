@@ -189,3 +189,10 @@ Supervisa los alimentos del comedor escolar y haz recomendaciones para mejorarlo
 - ¿Qué compromiso adquieres para promover una alimentación saludable en la escuela?
 
 ---
+## Texto original completo de la actividad
+
+**E.08 SUPERVISAR UNA DIETA EQUILIBRADA.** ¿Te has parado a pensar en lo variadas que son las comidas de tu escuela? Durante dos semanas consecutivas, supervisa lo que incluye el almuerzo: frutas y verduras frescas, comidas fritas, bebidas azucaradas, etc. ¿A qué conclusión has llegado? ¿Las comidas que sirven en la escuela y las que se pueden comprar allí son sanas? ¿Son variadas? ¿Qué cambiarías para que fuesen más sanas y divertidas? Haz recomendaciones y propónselas al director o al responsable del comedor.
+
+niveles 3 2 1
+
+---

@@ -188,3 +188,10 @@ Diseñá pósteres para concienciar sobre dietas sanas para niños y adolescente
 - ¿Qué compromiso adquieres para seguir educando sobre nutrición?
 
 ---
+## Texto original completo de la actividad
+
+**E.06 EXHIBICIÓN DE PÓSTERES.** Diseña un poster para concienciar sobre las dietas sanas para niños y adolescentes. ¿Cómo protege de la malnutrición seguir una dieta equilibrada a niños y adolescentes? Incluye normas básicas de higiene para preparar y conservar los alimentos adecuadamente. Crea mensajes claros que cambien el comportamiento de la gente. Pide permiso para exhibirlos en un lugar público importante.
+
+niveles 3 2 1
+
+---

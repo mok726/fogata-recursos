@@ -194,3 +194,10 @@ Organizá una comida compartida donde cada persona trae un plato y todos adivina
 - ¿Qué compromiso adquieres para incluir más nutrientes en tu dieta?
 
 ---
+## Texto original completo de la actividad
+
+**B.01 PLATOS PARA COMPARTIR.** Hagan una lista con todos los nutrientes esenciales (como las vitaminas, los minerales o las proteínas). Después organicen una comida compartida, en la que todo el mundo será responsable de traer un plato. Inviten a su familia y amigos y háganles un “tour de los nutrientes” con todos los platos para ver si adivinan qué nutrientes contiene cada comida.
+
+niveles 3 2 1
+
+---

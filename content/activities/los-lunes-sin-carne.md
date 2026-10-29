@@ -190,3 +190,10 @@ Reducí el impacto ambiental de tu dieta con un día sin carne a la semana.
 - ¿Qué compromiso adquieres para reducir el consumo de carne?
 
 ---
+## Texto original completo de la actividad
+
+**D.13 LOS LUNES SIN CARNE.** Como ya has aprendido en esta insignia, producir carne conlleva un gran impacto medioambiental, y utiliza muchos recursos naturales como la tierra, el agua y la energía. ¿Qué te parecería hacer un día sin carne a la semana? Busca recetas vegetarianas y prueba nuevas verduras, cereales y legumbres que no hayas comido nunca. Incluso pueden convertirlo en un trabajo en grupo, y que todo el mundo traiga un plato vegetariano diferente cada lunes para probarlo. Organicen un intercambio de recetas vegetarianas y publíquenlas en un blog o en un espacio en línea al que todos tengan acceso.
+
+niveles 3 2
+
+---

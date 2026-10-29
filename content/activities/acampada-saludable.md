@@ -189,3 +189,10 @@ Organizá una acampada o excursión saludable con menús nutritivos y actividad 
 - ¿Qué compromiso adquieres para seguir practicando actividades saludables?
 
 ---
+## Texto original completo de la actividad
+
+**A.09 ACAMPADA SALUDABLE.** En grupo, organicen una acampada o una excursión saludable. Cada uno de ustedes puede preparar el menú de un día. Pongan todos sus menús en un libro de menús. Compartan las tareas de cocina para asegurarse de que todo el mundo contribuya a prepararlas. Incluyan algo de actividad física en el programa de su acampada: senderismo, escalada, baile, yoga, hípica o deportes de equipo.
+
+niveles 3 2
+
+---

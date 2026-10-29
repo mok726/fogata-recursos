@@ -186,3 +186,10 @@ Investigá alimentos prohibidos en diferentes religiones y culturas, y su impact
 - ¿Qué compromiso adquieres para respetar las diferencias culturales?
 
 ---
+## Texto original completo de la actividad
+
+**B.20 HABLAR SOBRE TABÚS.** Investiguen qué alimentos están prohibidos en qué religiones y culturas. Profundicen aún más para averiguar por qué están prohibidos y si a causa de ello las comunidades sufren alguna deficiencia nutricional. ¿Qué alimentos comen para sustituir a los que están prohibidos? ¿Qué echarías más de menos si esos alimentos estuviesen prohibidos en tu cultura o en tu religión? Debatan en grupo.
+
+nivel 3
+
+---

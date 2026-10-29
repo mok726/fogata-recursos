@@ -190,3 +190,10 @@ Organizá un concurso sobre nutrición en tu colegio con diferentes categorías 
 - ¿Qué compromiso adquieres para seguir aprendiendo?
 
 ---
+## Texto original completo de la actividad
+
+**B.10 HORA DEL CONCURSO.** Organiza un concurso en tu colegio, con diferentes categorías para diferentes edades. En primer lugar, preparen las preguntas y las respuestas junto con su profesor o responsable. Como premio pueden preparar aperitivos sanos. El objetivo del concurso es divertirse a la vez que consiguen que sus compañeros reflexionen acerca de la comida y la nutrición. Así que, ¡manos a la obra! Incluyan preguntas como: • Nombra tres nutrientes que son muy importantes a tu edad. •¿Por qué son importantes estos nutrientes a tu edad? • Nombra cinco alimentos que te proporcionen estos nutrientes. • Nombra tres alimentos que deberías comer para tener energía suficiente para estudiar y jugar. • Nombra cinco alimentos que debes tomar para crecer sin problemas. • Nombra tres alimentos que sean buenos para los huesos.
+
+niveles 3 2 1
+
+---

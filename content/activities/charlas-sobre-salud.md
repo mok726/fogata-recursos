@@ -181,3 +181,10 @@ Investigá los problemas de salud más extendidos en tu país y organizá un inf
 - ¿Qué compromiso adquieres para promover la salud en tu comunidad?
 
 ---
+## Texto original completo de la actividad
+
+**A.13 CHARLAS SOBRE SALUD.** Investiga qué problemas de salud y enfermedades son las más extendidas en tu país. ¿Cuántas se pueden prevenir? ¿Cuánto dinero público se invierte en la atención sanitaria para la gente que sufre estos problemas, y cuánto dinero podría ahorrarse si estas enfermedades se previnieran antes de que la gente se contagiase? ¿Tienes alguna idea para una mejor prevención? ¿Necesita la gente estar más informada, o tener un mayor acceso a algunos alimentos, al agua potable y al saneamiento, etc.? Organiza un “informe de grupo” con tu grupo o en la escuela, profundicen sobre estas cuestiones, debatan y respondan a las preguntas de la audiencia.
+
+nivel 3
+
+---

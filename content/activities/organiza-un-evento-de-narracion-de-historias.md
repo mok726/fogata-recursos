@@ -191,3 +191,10 @@ Organizá un evento de narración de historias sobre comida y nutrición con mit
 - ¿Qué compromiso adquieres para preservar estas tradiciones?
 
 ---
+## Texto original completo de la actividad
+
+**E.04 ORGANIZA UN EVENTO DE NARRACIÓN DE HISTORIAS.** La comida es tan importante para la vida y el bienestar que todos los países tienen sus propios mitos, leyendas, canciones típicas y poemas sobre ella. En grupo, organicen un evento de narración cuyo tema principal sea la comida. Hablen con sus abuelos y con otras personas mayores para ver si recuerdan algunos relatos interesantes. Busquen historias en la biblioteca o en internet. Sean creativos y hagan una presentación interesante: un espectáculo de marionetas, un corto o un recital. Usen sonidos, acciones, gestos o música para hacer la historia más interesante. Representen la historia en público. Den premios a los mejores narradores. Tomen fotos y vídeos, y publíquenlos en las redes. Intenten publicar su colección de folklore como un folleto o una página web.
+
+niveles 3 2 1
+
+---

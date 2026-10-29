@@ -192,3 +192,10 @@ Organizá un evento para celebrar la Semana de la Nutrición con talleres, charl
 - ¿Qué compromiso adquieres para seguir promoviendo dietas saludables?
 
 ---
+## Texto original completo de la actividad
+
+**E.02 CAMPAÑA POR UNA DIETA SANA Y EQUILIBRADA.** Celebra el Día de la Salud o la Semana de la Nutrición en tu escuela o barrio. Invita a un ponente para que les hable sobre crear dietas sanas y equilibradas y sobre elegir bien los alimentos. Distribuye materiales educativos, organiza talleres y puestos interactivos, y haz exposiciones. Toma notas, fotos y vídeos del evento y publícalos en las redes.
+
+niveles 3 2 1
+
+---

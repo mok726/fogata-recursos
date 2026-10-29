@@ -187,3 +187,10 @@ Investigá etiquetas de sostenibilidad en productos y promové el consumo respon
 - ¿Qué compromiso adquieres para consumir de manera más sostenible?
 
 ---
+## Texto original completo de la actividad
+
+**D.12 MIRA LAS ETIQUIETAS.** ¡Infórmate sobre las etiquetas! Busca las etiquetas de sostenibilidad en los mercados locales y en los supermercados. Averigua lo que significan y compáralas. ¿Qué productos has encontrado? ¿Hay diferencias entre los precios con las etiquetas de sostenibilidad y los demás productos? ¿Por qué crees que sucede esto? ¿Puedes animar a tu familia y amigos a que elijan estos productos? ¿Qué beneficios conllevaría hacerlo? Debatan vuestras conclusiones en grupo y preparen un póster guay para ponerlo en un lugar visible de tu supermercado.
+
+niveles 3 2
+
+---

@@ -188,3 +188,10 @@ Diseñá una representación gráfica de una dieta equilibrada (pirámide, plato
 - ¿Qué compromiso adquieres para seguir una dieta equilibrada?
 
 ---
+## Texto original completo de la actividad
+
+**E.05 CONVIÉRTETE EN UN DISEÑADOR GRÁFICO.** Todos los países utilizan diferentes diseños para representar una dieta equilibrada. Una de las más comunes es la pirámide alimenticia. Otros ejemplos son un plato, una cesta o un arcoíris. Piensa en una manera gráfica de representar una dieta equilibrada. Usa un formato fácil de entender. Añade algunos mensajes para explicar el gráfico.
+
+niveles 3 2 1
+
+---

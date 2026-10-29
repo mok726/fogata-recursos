@@ -188,3 +188,10 @@ Organizá un intercambio o campamento de verano con otro grupo que trabaje en te
 - ¿Qué compromiso adquieres para seguir trabajando en red?
 
 ---
+## Texto original completo de la actividad
+
+**E.16 INTERCAMBIOS.** Organicen un intercambio o un campamento de verano con otro grupo que se dedique a estas cuestiones sobre malnutrición en tu país o en el extranjero. Compartan sus experiencias y opiniones.
+
+nivel 3
+
+---

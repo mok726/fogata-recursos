@@ -190,3 +190,10 @@ Planificá un menú del día para un compañero, considerando sus necesidades nu
 - ¿Qué compromiso adquieres para planificar mejor tus comidas?
 
 ---
+## Texto original completo de la actividad
+
+**B.09 PLANIFICADOR DE COMIDAS.** Divídanse en grupos de dos, cada miembro del grupo será el responsable de planear un menú del día para su compañero. Tengan en cuenta factores como su peso y altura, y su nivel de actividad física a la hora de planear sus comidas. Asegúrense de que comen las cantidades adecuadas de todos los grupos, e intenten que las comidas también sean deliciosas. No se olviden de los aperitivos. Si es posible, preparen las comidas y los aperitivos para cada uno, o sigan estrictamente el menú que les han propuesto. Júntense de nuevo y debatan. ¿Qué piensan de su menú? ¿Es algo que podrían seguir con regularidad? ¿Qué diferencias había con sus hábitos alimenticios normales? *Los participantes de los niveles 1 y 2 deben contar con la ayuda de los adultos para esta tarea, ya que necesitarán utilizar utensilios afilados y el horno.
+
+niveles 3 2 1
+
+---

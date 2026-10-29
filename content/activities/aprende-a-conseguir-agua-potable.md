@@ -194,3 +194,10 @@ Aprendé diferentes métodos para potabilizar el agua y hacerla segura para bebe
 - ¿Qué compromiso adquieres para asegurar el acceso a agua potable?
 
 ---
+## Texto original completo de la actividad
+
+**C.07 APRENDE A CONSEGUIR AGUA POTABLE.** ¿Sabías que beber agua en malas condiciones puede causar enfermedades graves e incluso mortales? Averigua cómo potabilizar el agua. Aprende cómo destruir la mayoría de los gérmenes que pueden causar enfermedades que se transmiten por el agua: filtrándola, hirviéndola, exponiéndola a la luz solar, o añadiéndole cloro. Si quieres informarte más sobre el tratamiento de las aguas puedes ver Alimentarnos bien para estar sanos de la FAO (Tema 11): http://www.fao.org/docrep/019/i3261s/i3261s00.htm y el sistema para evaluar las tecnologías para el tratamiento del agua para uso doméstico de la OMS: www.who.int/household_ water/scheme/en
+
+niveles 3 2
+
+---

@@ -188,3 +188,10 @@ Invitá a un doctor o nutricionista para que responda preguntas sobre salud, die
 - ¿Qué compromiso adquieres para aplicar lo aprendido?
 
 ---
+## Texto original completo de la actividad
+
+**A.07 OIGA, DOCTOR** Invita a un doctor o a un nutricionista a que les dé una charla. Háganle sus preguntas sobre salud, dieta y ejercicio. ¿Cuáles son sus alternativas más deliciosas a sus snacks favoritos? ¿Cuáles son los principales retos de la nutrición en su región? ¿Es verdad lo que pasaba con Popeye cuando comía espinacas? Hagan que su visita valga la pena. Después, comparen sus notas. ¿Les ha sorprendido algún dato? ¿Sabían ya algunas cosas? En casa, habla con tu familia sobre lo que has aprendido.
+
+niveles 3 2 1
+
+---

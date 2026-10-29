@@ -191,3 +191,10 @@ Compón una canción con letra nueva sobre nutrición usando una melodía conoci
 - ¿Qué compromiso adquieres para seguir usando el arte para educar?
 
 ---
+## Texto original completo de la actividad
+
+**A.04 CANTA PARA LA CENA.** ¿Has oído hablar de Weird Al Yankovic? Ha compuesto un montón de canciones divertidas parodiando canciones famosas, entre las que se encuentra Eat It (www.youtube.com/watch?v=ZcJjMnHoIBI), una parodia de Beat It, de Michael Jackson. Escojan una canción y compongan una letra nueva, centrándose en la nutrición. Canten la canción en grupo en su próxima reunión.
+
+niveles 3 2 1
+
+---

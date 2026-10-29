@@ -190,3 +190,10 @@ Evaluá las prácticas sostenibles en tu cocina y creá una lista de acciones pa
 - ¿Qué compromiso adquieres para mejorar la sostenibilidad en tu cocina?
 
 ---
+## Texto original completo de la actividad
+
+**D.06 COMPRAS SOSTENIBLES.** Echa un vistazo a tu casa para ver las costumbres que tiene tu familia en la cocina y su impacto medioambiental. Ten cuidado con cosas como el uso ineficiente de energía al cocinar, o lavar las verduras debajo del grifo en lugar de en un barreño. Prepara una lista de acciones sostenibles y ponla en un lugar vistoso, como en la puerta de la nevera. ¿Siguen la lista? Compara tus resultados con los demás miembros de tu grupo. ¿Cuáles son las prácticas menos sostenibles que han observado? ¿Cuáles son las mejores?
+
+niveles 3 2 1
+
+---

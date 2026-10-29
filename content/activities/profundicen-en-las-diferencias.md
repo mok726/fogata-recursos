@@ -187,3 +187,10 @@ Investigá los problemas de salud causados por deficiencias de vitaminas y miner
 - ¿Qué compromiso adquieres para promover una nutrición adecuada?
 
 ---
+## Texto original completo de la actividad
+
+**B.19 PROFUNDICEN EN LAS DIFERENCIAS.** Investiguen sobre los problemas de salud y enfermedades causadas por deficiencias de vitaminas y minerales. Divídanse en grupos, cada grupo se encargará de investigar un tipo de deficiencia alimenticia. ¿Por qué causan las deficiencias de vitaminas y minerales estos problemas? ¿Dónde son más comunes? ¿Por qué son más comunes en esa zona? ¿Se puede curar este problema, y en caso de que así sea, cómo? Cada equipo expondrá su investigación al grupo.
+
+nivel 3
+
+---

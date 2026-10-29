@@ -189,3 +189,10 @@ Visitá supermercados y mercados agrícolas para evaluar las medidas de segurida
 - ¿Qué compromiso adquieres para elegir tiendas con buenas prácticas?
 
 ---
+## Texto original completo de la actividad
+
+**C.03 LA JUERGA DE LAS COMPRAS.** Visiten unos pocos supermercados (y si es posible, un mercado agrícola) de la zona y anoten las diferentes medidas de seguridad alimenticia. ¿Han visto algún problema? ¿Qué están haciendo bien? Comparen sus notas en grupo.
+
+niveles 3 2 1
+
+---

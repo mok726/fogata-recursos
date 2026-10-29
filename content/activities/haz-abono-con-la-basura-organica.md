@@ -191,3 +191,10 @@ Instalá un sistema de compostaje para convertir residuos orgánicos en abono na
 - ¿Qué compromiso adquieres para seguir haciendo compost?
 
 ---
+## Texto original completo de la actividad
+
+**D.08 HAZ ABONO CON LA BASURA ORGÁNICA.** Instala un rincón en tu jardín para hacer abono. Utiliza viejos trozos de madera para hacer una caja simple con espacio para que circule el aire. Mete pieles de frutas y verduras, cáscaras de huevo, hojas de té, café usado, flores, hierba, ramas y otros residuos biodegradables. Cuando el abono esté listo, úsalo para alimentar a tus plantas de exterior y de interior. Si vives en una ciudad y no tienes jardín, llévate tu basura orgánica a un jardín urbano para convertirla en abono.
+
+niveles 3 2 1
+
+---

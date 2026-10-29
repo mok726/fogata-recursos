@@ -190,3 +190,10 @@ Experimentá creando bebidas saludables bajas en azúcar usando hierbas, raíces
 - ¿Qué compromiso adquieres para consumir menos bebidas azucaradas?
 
 ---
+## Texto original completo de la actividad
+
+**B.11 PREPARA UNA INFUSIÓN.** Experimenta creando bebidas saludables que contengan poco o nada de azúcar. Por ejemplo, si mezclas agua con algunas hojas de menta y zumo de limón puedes obtener una bebida muy refrescante. Los tés de hierbas también pueden ser una opción muy interesante. Desde la antigüedad, la gente de todo el mundo ha utilizado hierbas, raíces, hojas, frutas y cereales para preparar bebidas. Averigua qué hiervas crecen en tu zona. ¿Puedes recolectarlas para hacer té? Aprende cómo hacer infusiones con menta, camomila, albahaca, tomillo, raíz de jengibre o con cáscara de limón. También puedes aprender a usar hierbas medicinales, como la caléndula, el eneldo, el aloe o el eucalipto, para aliviar los síntomas de la enfermedad, para estimular el apetito, para calmar las llagas en la boca, en la garganta o en la piel. ¿Se te ocurren otras ideas para hacer bebidas sanas bajas en azúcares? Atención: pregúntale a un médico antes de utilizar las hierbas medicinales y comprueba si tienes la planta correcta preguntándole a un adulto. *Los participantes de los niveles 1 y 2 deben contar con la ayuda de los adultos para esta tarea, ya que para hacer té necesitarán utilizar agua caliente.
+
+niveles 3 2 1
+
+---

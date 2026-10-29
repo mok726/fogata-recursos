@@ -190,3 +190,10 @@ Ayudá a tu familia con la compra eligiendo alimentos frescos, de temporada y so
 - ¿Qué compromiso adquieres para comprar de manera más sostenible?
 
 ---
+## Texto original completo de la actividad
+
+**D.03 APRENDE A COMPRAR.** Ayuda a tu familia con la compra. Ve al supermercado o a la tienda de comestibles y escoge comida teniendo en cuenta lo que es bueno para ti o para el planeta. Aprende a elegir alimentos frescos como las frutas y verduras de temporada; son más baratos, más frescos y más nutritivos. Cuando compres aperitivos, elige comidas más sanas. ¿Puedes evitar productos como las patatas fritas? ¿Hay opciones ecológicas? Elige productos con menos envases. Piensa en cuántas veces haces la compra por semana. ¿Dónde? ¿Qué sueles comprar? ¿De dónde viene? Recuerda que comprar más alimentos enteros y menos procesados es mejor para tu salud y para el medio ambiente.
+
+niveles 3 2 1
+
+---

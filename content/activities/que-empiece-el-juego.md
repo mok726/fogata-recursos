@@ -190,3 +190,10 @@ Registrá tu actividad física diaria, comparala con tu grupo y planificá nuevo
 - ¿Qué deportes de equipo te gustaría probar?
 
 ---
+## Texto original completo de la actividad
+
+**A.02 ¡QUE EMPIECE EL JUEGO!** Haz un seguimiento de la actividad física que llevas a cabo en un día cualquiera (caminar, estudiar, jugar, correr, saltar, las tareas del hogar, etc.). Compara tus notas con las de tu grupo. ¿Cómo eres de activo comparado con tus amigos? ¿Cuánto tiempo pasas sentado cada día? Después de esto, en grupo, hagan una lista de los deportes de equipo que les gustaría probar, y pónganlos en marcha en la siguiente reunión. Realiza un plan de actividades para los primeros 15 minutos de tus próximas reuniones de grupo.
+
+niveles 3 2 1
+
+---

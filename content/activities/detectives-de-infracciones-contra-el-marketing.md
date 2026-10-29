@@ -192,3 +192,10 @@ Investigá si se violan las recomendaciones de marketing de alimentos no saludab
 - ¿Qué compromiso adquieres para proteger a los niños de la publicidad no saludable?
 
 ---
+## Texto original completo de la actividad
+
+**E.13 DETECTIVES DE INFRACCIONES CONTRA EL MARKETING.** En 2010, muchos países respaldaron un conjunto de recomendaciones de la OMS para reducir la publicidad infantil de alimentos con muchas grasas saturadas, grasas trans, azúcares o sal (encuentra más información sobre este tema en: http://www.who.int/dietphysicalactivity/ marketing-food-to-children/es/). Haz de detective y descubre si se violan estas recomendaciones de marketing en tu comunidad o país. Por ejemplo, puedes contar los anuncios de comida basura que van dirigidos a niños y que utilizan personajes de cómics, observar el marketing en las redes sociales, en carteles publicitarios, en eventos deportivos, en la escuela, etc. Presta especial atención al marketing de alimentos y bebidas en tu colegio. Busca las marcas en los menús de la cafetería de la escuela, en los letreros del colegio, en los cupones como recompensas por los resultados escolares, en la donación de equipos de gimnasia de marca, en el patrocinio de eventos, en publicaciones, en vehículos escolares, etc. Escribe un informe y compártelo con tu grupo y con los directores de tu escuela. No te olvides de hacer algunas recomendaciones.
+
+niveles 3 2
+
+---

@@ -188,3 +188,10 @@ Evaluá tus hábitos de higiene personal y en casa, y buscá formas de mejorarlo
 - ¿Qué compromiso adquieres para mantenerte limpio?
 
 ---
+## Texto original completo de la actividad
+
+**A.05 MANTÉNGANSE LIMPIOS.** Haz un seguimiento de tu higiene en tu día a día. Empieza con tu vida personal. ¿Te bañas o te duchas todos los días? ¿Te lavas las manos cuando es necesario, como después de ir al baño, antes de comer o después de hacer deporte al aire libre? También debes prestar atención a la higiene en casa y en la escuela. ¿Puedes mejorarla? ¿Cómo afectaría a tu vida una mejor higiene? ¿Facilitaría las cosas si fueses más limpio? Si no estás satisfecho con algún aspecto de la higiene de tu colegio o de tu casa, habla con tu familia o tus profesores para mejorar las cosas.
+
+niveles 3 2 1
+
+---

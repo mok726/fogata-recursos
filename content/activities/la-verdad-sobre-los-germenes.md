@@ -183,3 +183,10 @@ Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfe
 - ¿Qué compromiso adquieres para protegerte de los gérmenes?
 
 ---
+## Texto original completo de la actividad
+
+**A.12 LA VERDAD SOBRE LOS GÉRMENES.** Aprendan más cosas sobre lo que son los gérmenes, dónde están y cómo se propagan, cómo afectan a nuestra salud (enfermedades infecciosas comunes), quién corre peligro y cómo podemos protegernos contra los gérmenes perjudiciales y reducirlos. Haz una tabla con las enfermedades infecciosas más comunes, lo que las causa y cómo se contagian (malaria, sarampión, tuberculosis, gripe, diarrea, cólera, etc.), e incluye también los gérmenes que provocan las intoxicaciones alimenticias y enfermedades similares. Expón tu tabla a todo el grupo.
+
+niveles 3 2
+
+---

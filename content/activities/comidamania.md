@@ -193,3 +193,10 @@ Reflexioná sobre tus elecciones de alimentos y planificá una comida sostenible
 - ¿Qué compromiso adquieres para seguir una dieta sostenible?
 
 ---
+## Texto original completo de la actividad
+
+**D.01 COMIDAMANÍA.** ¿Normalmente eliges la comida que vas a comer o la elige alguien por ti (como tus padres)? Cuando te dejan elegir, ¿qué clase de comidas eliges? ¿Eliges bien la comida? Debatan en grupo sobre sus elecciones de alimentos y hábitos alimenticios. Ahora que ya saben más cosas sobre la importancia de una dieta sostenible y nutritiva, ¡es hora de que elijan una dieta respetuosa con el medio ambiente! Pide permiso para utilizar la cocina en el colegio o en casa. Planeen en grupo un menú y hagan una lista con los ingredientes que necesitan. Vayan en grupo al supermercado o al mercado agrícola y compren lo que necesiten, teniendo en cuenta factores como evitar los envases, comprar productos locales y de temporada, etc. Inviten a sus amigos y hablen sobre la importancia de unos hábitos alimenticios sostenibles.
+
+niveles 3 2 1
+
+---

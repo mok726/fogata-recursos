@@ -186,3 +186,10 @@ Investigá los principales problemas de microorganismos en tu zona y su relació
 - ¿Qué compromiso adquieres para prevenir enfermedades?
 
 ---
+## Texto original completo de la actividad
+
+**C.09 BICHOS.** ¿Cuáles son los principales problemas de tu zona con los microrganismos, como las bacterias, los parásitos, etc.? ¿Es común la intoxicación por alimentos? ¿Contribuye el clima a todo esto? ¿Qué enfermedades pueden producirse a causa de todo ello? Preparen una presentación con diapositivas, incluyan gráficos y estadísticas y expónganla en grupo.
+
+nivel 3
+
+---

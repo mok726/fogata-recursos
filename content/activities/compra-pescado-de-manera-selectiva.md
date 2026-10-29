@@ -191,3 +191,10 @@ Investigá qué pescado podés comprar de manera sostenible y creá una guía de
 - ¿Qué compromiso adquieres para comprar pescado de manera responsable?
 
 ---
+## Texto original completo de la actividad
+
+**D.18 COMPRA PESCADO DE MANERA SELECTIVA.** Hoy en día, nuestras ganas de pescado han sobrepasado los límites ecológicos del océano, provocando un impacto devastador. Un 70% de las reservas de peces del mundo se han pescado en su totalidad, se han pescado de manera excesiva o se han reducido considerablemente. Algunas especies se han pescado hasta la extinción para fines comerciales, y otras están en peligro de extinción. Investiga sobre las piscifactorías de tu zona y crea una guía de bolsillo para saber qué pescado puedes comprar y cuál debes evitar. ¿Dónde y cómo se pescan o se crían las diferentes especies de peces? Prepara un collage creativo que puedas compartir con tu familia. Aquí tienes un ejemplo: Know your seafood (“Conoce tu pescado”): www.oneworldoneocean.com/blog/entry/know-your-seafoodinfographic
+
+niveles 3 2
+
+---

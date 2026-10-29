@@ -187,3 +187,10 @@ Entrevistá a autoridades locales sobre seguridad alimentaria y nutrición en tu
 - ¿Qué compromiso adquieres para promover la seguridad alimentaria?
 
 ---
+## Texto original completo de la actividad
+
+**C.08 ENTREVISTA CON UN EXPERTO.** Contacta a las autoridades responsables de la comida y la nutrición en tu zona. Organiza una entrevista donde puedan preguntarle a un invitado sobre las buenas y las malas prácticas para la seguridad en tu comunidad. ¿Se pueden mejorar? ¿Hay algunos alimentos que deberían evitarse porque no están preparados o conservados de manera higiénica? Tomen notas y escriban una redacción sobre la entrevista. Escríbanlo en un blog o publíquenlo en el periódico local.
+
+niveles 3 2
+
+---

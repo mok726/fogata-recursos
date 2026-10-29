@@ -199,3 +199,10 @@ Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto
 - ¿Qué compromiso adquieres para seguir cultivando alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**D.07 PLANTA TUS PROPIAS VERDURAS.** Cultivar tus propias frutas y verduras puede ayudarte a seguir una dieta equilibrada y sana. Puedes hacerlo en el jardín, en el balcón o en un terreno comunitario (como un huerto alquilado) o en el jardín de la escuela. Planta y cuida varias frutas y especias. Aprende cuáles son plantas locales y cuáles son apropiadas para el clima de tu zona. Entre las verduras puedes incluir: judías, patatas, zanahorias, cebollas, espinacas, ajos, calabazas, tomates, pimientos o berenjenas. En las especias puedes incluir perejil, albahaca, orégano, tomillo, eneldo, hinojo, menta, romero, salvia o guindillas. Lleva un registro de tu jardín tomando fotos, videos o con un blog. Invita a la gente y haz un tour por tu jardín, explicándoles el valor nutritivo de cada verdura que cultivas. Averigua más sobre cómo plantar y cuidar un huerto escolar en: http://www.fao.org/docrep/009/a0218s/a0218s00.htm.
+
+niveles 3 2 1
+
+---

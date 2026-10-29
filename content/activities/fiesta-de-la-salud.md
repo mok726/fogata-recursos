@@ -196,3 +196,10 @@ Organizá un Día de la Salud en tu comunidad con actividades divertidas, juegos
 - ¿Qué compromiso adquieres para llevar un estilo de vida más saludable?
 
 ---
+## Texto original completo de la actividad
+
+**A.01 FIESTA DE LA SALUD.** Organiza un Día de la Salud en tu comunidad. Invita a los residentes, amigos y familia para que asistan y organicen diversas actividades divertidas. Por ejemplo, pueden celebrar unos “mini Juegos Olímpicos” en los que los participantes realicen varias actividades como atletismo, salto de longitud, salto de altura, carreras de relevos, etc., e incluso juegos menos convencionales como carreras de sacos, carreras con huevos y cucharas, etc. También pueden organizar concursos con preguntas sobre salud y nutrición, y hacer algo de ejercicio con algunos juegos. Sé creativo y prepara folletos, pósteres y panfletos con información sobre la nutrición, higiene y actividad física. También puedes invitar a profesionales del sector sanitario para que asistan y respondan preguntas.
+
+niveles 3 2 1
+
+---

@@ -189,3 +189,10 @@ Investigá diferentes formas de malnutrición, sus causas y efectos en diferente
 - ¿Qué compromiso adquieres para ayudar a combatir la malnutrición?
 
 ---
+## Texto original completo de la actividad
+
+**B.12 INVESTIGACIÓN SOBRE LA MALNUTRICIÓN.** Divídanse en equipos y elijan una forma de malnutrición para investigarla en grupo (miren la página 86 para más detalles): • Deficiencias de micronutrientes (por ejemplo, la anemia). • Sobrepeso y obesidad Sea cual sea el tipo de malnutrición que hayan escogido, exploren las causas y los efectos. ¿Dónde prevalecen más? Puedes sorprenderte al averiguar que la malnutrición también existe en los países más ricos. Preparen una exposición sobre las diferentes formas de malnutrición. Vuelvan a juntarse con el resto de grupos y expongan sus conclusiones en grupo.
+
+niveles 3 2
+
+---

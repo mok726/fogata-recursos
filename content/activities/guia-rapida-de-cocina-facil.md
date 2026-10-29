@@ -190,3 +190,10 @@ Investigá métodos y tiempos de cocción para diferentes alimentos nutritivos y
 - ¿Qué compromiso adquieres para cocinar de manera más saludable?
 
 ---
+## Texto original completo de la actividad
+
+**C.05 GUÍA RÁPIDA DE COCINA FÁCIL.** Investiguen sobre los diferentes métodos y los tiempos de cocción de las comidas nutritivas. Hagan una tabla para apuntar exactamente cuánto tiempo hervir, hornear, asar, guisar o freír los alimentos para que estén buenos. Hagan una lista con los alimentos en la primera columna, luego los métodos de cocción en la segunda, y el tiempo de cocción en la tercera columna. Pongan la tabla en un lugar visible de su cocina para que les sirva como guía.
+
+niveles 3 2 1
+
+---

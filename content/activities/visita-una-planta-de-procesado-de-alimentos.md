@@ -195,3 +195,10 @@ Visitá una granja o planta de procesado de alimentos para aprender sobre la pro
 - ¿Qué compromiso adquieres para valorar la producción local?
 
 ---
+## Texto original completo de la actividad
+
+**B.17 VISITA UNA PLANTA DE PROCESADO DE ALIMENTOS.** Planeen una excursión a una granja o a una planta de procesado de alimentos junto con su profesor o responsable, y aprendan cosas sobre los diferentes cultivos y animales que se crían en su zona. ¿Qué alimentos están hechos con estas plantas o animales? ¿Qué nutrientes contienen estos alimentos? Documenten su viaje tomando notas, fotos o videos. Compartan estos materiales con sus medios locales (periódicos, televisión, radio, páginas web), publíquenlos en una red social o utilícenlos para hacer una exposición en la escuela, en la biblioteca local o en un campamento de verano.
+
+niveles 3 2
+
+---
