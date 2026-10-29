@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Investigá qué tipo de especies invasoras viven actualmente en los bosques de t
 1. Investigá sobre especies invasoras en tu área.
 2. Prepará material para tomar notas y registrar hallazgos.
 
+> **Nota para el educador:** en Argentina, por ejemplo, el castor en Tierra del Fuego es el caso más conocido; otros ejemplos son el ligustro, el pino y la acacia negra.
+
 ## Desarrollo
 1. **Investigación** (20 min): Identificá qué especies invasoras viven en tu área (insectos, mamíferos, virus, árboles, pastos, etc.).
 2. **Análisis** (15 min): Investigá de dónde vinieron, cómo llegaron y cómo están afectando al bosque.
@@ -185,5 +187,12 @@ Investigá qué tipo de especies invasoras viven actualmente en los bosques de t
 - ¿Qué especies invasoras encontraste en tu área?
 - ¿Cómo afectan estas especies a los bosques y la biodiversidad?
 - ¿Qué acciones podés tomar para prevenir la propagación de especies invasoras?
+
+---
+## Texto original completo de la actividad
+
+**D.04 ¡INVASORAS!** Investiga qué tipo de especies invasoras viven actualmente en los bosques de tu área. ¿Son insectos, mamíferos, virus, árboles, pastos o algo más? ¿De dónde vinieron? ¿Cómo llegaron a tu bosque? ¿De qué manera lo están afectando? ¿Qué medidas se pueden tomar para prevenir tales incidentes? Comparte tus hallazgos con tu grupo.
+
+niveles 3 2 1
 
 ---

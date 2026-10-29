@@ -23,11 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -77,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -169,6 +170,8 @@ La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conser
 2. Identificá mercados locales o supermercados para visitar.
 3. Prepará preguntas y una tabla para registrar información.
 
+> **Nota para el educador:** en Argentina, por ejemplo, el programa ProHuerta (INTA) da semillas y capacitación para huertas agroecológicas.
+
 ## Desarrollo
 1. Visitá supermercados o mercados de agricultores locales.
 2. Investigá: ¿De dónde vinieron los productos?
@@ -185,6 +188,6 @@ La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conser
 ## Texto original completo de la actividad
 E.05 SIEMBRA ORGÁNICO. La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conservar su habilidad de almacenar carbono, lo cual ayuda a reducir el cambio climático. Busca productos orgánicos y de comercio justo que estén disponibles en tus supermercados o mercados de agricultores locales. ¿De dónde vinieron los productos? ¿Fueron cultivados localmente o fueron importados de agricultores al otro lado del mundo? ¿Cuáles son los pros y los contras de cada situación? Además, ¿cómo podría ayudar al medio ambiente la producción de estos bienes orgánicos y de comercio justo? ¿Existe una diferencia de precio significativa entre estos y otros productos? ¿Por qué sucede esto? Reúne tus hallazgos en forma de fotos o gráficos y luego preséntalos a tus compañeros, a tus padres o a otros adultos. Anímalos a comprar más bienes orgánicos y de comercio justo, cuando sea posible.
 
-NIVELES: 2, 3
+NIVELES: 1, 2
 
 ---

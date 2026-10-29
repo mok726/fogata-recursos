@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +77,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,6 +183,6 @@ rama_rovers:
 ## Texto original completo de la actividad
 A.07 RELATOS DE VIAJE. ¿Qué lugar del mundo te encantaría visitar? Búscalo y aprende sobre este. ¿Cómo viven las personas de ese lugar? ¿El cambio climático es un problema allá? ¿Las personas usan menos o más, o un tipo diferente, de energía que las personas de tu área? Crea una guía de viaje con información y dibujos y presenta tus hallazgos a todos en tu grupo.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

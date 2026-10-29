@@ -134,3 +134,14 @@
 | confesiones-de-los-consumidores (E12) | — | — | floja (texto inventado) | P3 |
 | al-blog-bosques (E13) | — | Sin fotos de caras ni datos personales de menores. | ok | P3 |
 | reportaje-sobre-el-carbono (E14) | — | — | floja (texto inventado "Carbon Market Climals") | P3 |
+
+## Estado (2026-10-29)
+
+Revisado contra el PDF `i3479s.pdf` (© FAO 2013) de la carpeta local de Mariano. La licencia ya estaba bien.
+- Se embebió el original de FAO en las 89 actividades, extraído con `pdftotext -bbox`, incluidos los recuadros de seguridad. `references.url` pasa a https://www.fao.org/3/i3479s/i3479s.pdf (verificado).
+- Niveles: coinciden con el sitio, salvo A20 (solo nivel 2), que pasa de 5–15 a 11–15. C07 (niveles 1 y 2) estaba bien.
+- Seguridad: A01, C05 y C09 (recolección), A11, A14, A17, B05, C02 (fuego y SNMF), C14, C15, D14 y E13. E04: las rifas pueden requerir autorización. C05: verificar yunga@fao.org.
+- A18: la app de la FAO ya no existe; opción de quiz propio o Kahoot.
+- Ejemplos locales (marcados "en Argentina, por ejemplo"): A05, A08, E02, A14, A24, A26, B06, E10, B12, D09, D12, B16, C01, D13, C08, C13, D02, D04 y E05.
+- Léxico: champiñón → hongo (D10). "Computador" ya no aparecía.
+- Imágenes retiradas: C11 y D11. C16, E08, A11 y D01 siguen en la lista.

@@ -103,3 +103,15 @@
 | se-un-ecoturista-cambioclimatico (E21) | fiel | — | Tilde corregida en el PR. | ok | P3 |
 | invierte-en-soluciones (E22) | fiel | — | — | **mala (medio blanqueada)** | P2 |
 | programa-global-escuelas-seguras (E23) | fiel | Riesgolandia (UNISDR/UNICEF). Los enlaces de Plan y Cruz Roja son viejos. | — | ok | P3 |
+
+## Estado (2026-10-29)
+
+Revisado contra el PDF `i5216s.pdf` (© FAO 2016) de la carpeta local de Mariano. **La auditoría original subestimó los problemas:**
+- **Niveles**: en el PDF, los niveles que no aplican están impresos en gris, y la extracción anterior los tomó como válidos. Se corrigieron los niveles en 35 actividades (verificado a ojo en 8 páginas), y con ellos `age`/`age_group` (1 = 5–10 castores/manada, 2 = 11–15 scouts/caminantes, 3 = 16–22 caminantes/rovers).
+- **Originales inventados o truncados**: B09 (faltaba), B10, B11 y D11 se reemplazaron por el texto real del PDF. Sus adaptaciones se reescribieron para seguir el original. B11 tiene una nota sobre el consenso del IPCC.
+- `references.url` (86) pasa a https://www.fao.org/3/i5216s/i5216s.pdf (verificado).
+- Referencias internas (C04, D05, E02): nota con enlace al PDF.
+- Enlaces: se quitaron D06, D12, D09 (portal UNFCCC), E13 y A13. C11 pasa a la Water Footprint Network y E09 a epa.gov. Todos llevan nota (D09 con YOUNGO/LCOY).
+- Seguridad: B10, B15, E17. Opción C03 (sin eliminados). Datos: B12 y C15 (Groundswell 2021).
+- Ejemplos locales: A04, C10, D02, E05, E19.
+- Imágenes retiradas: E09 y D16. El resto sigue en la lista de regeneración.

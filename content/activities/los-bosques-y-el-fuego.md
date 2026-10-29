@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,6 +182,8 @@ Aprendé cómo construir y disfrutar de una fogata al aire libre de manera segur
 3. Prepará alimentos para asar (castañas, manzanas, papas, pochoclo).
 4. Tené agua y equipo de seguridad cerca.
 
+> **Nota de seguridad:** hagan fuego solo en lugares habilitados, con leña muerta caída, y respeten las prohibiciones de temporada del servicio de manejo del fuego (en Argentina, por ejemplo, el Servicio Nacional de Manejo del Fuego, Ley 26.815). Tengan agua a mano y apaguen todo antes de irse.
+
 ## Desarrollo
 1. **Construcción** (20 min): Construí la fogata con la supervisión de un adulto.
 2. **Encendido** (10 min): Enciende la fogata con precaución.
@@ -195,5 +197,12 @@ Aprendé cómo construir y disfrutar de una fogata al aire libre de manera segur
 - ¿Qué aprendiste sobre la construcción segura de fogatas?
 - ¿Cómo podés prevenir incendios forestales?
 - ¿Qué compromiso adquieres para usar el fuego de manera responsable?
+
+---
+## Texto original completo de la actividad
+
+**C.02 LOS BOSQUES Y EL FUEGO** Se requiere precaución especial y supervisión adulta. Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Recolecta leña y fajina (hojas secas y pequeños palos para ayudar a prender el fuego). Construye la hoguera y enciéndela con la supervisión de un adulto. Asegúrate de tomar precauciones para que el fuego permanezca bajo control. Pueden asar alimentos sobre el fuego cuidadosamente (por ej. castañas, manzanas, patatas y palomitas de maíz). Crea una lista sobre por qué el fuego es esencial para nuestra supervivencia. Investiga sobre los diferentes tipos de madera y averigua cuales se queman más rápidamente, por ejemplo, el roble se quema lentamente, mientras que el pino se quema muy rápido. ¿Cuándo es el fuego peligroso para los humanos y para los bosques? ¿Han sufrido algunos bosques en tu área a causa de incendios forestales? ¿Qué precauciones puedes tomar para garantizar que tu fogata no provoque un incendio forestal? Discute sobre esto con tu grupo. También puedes disfrutar de la fogata al cantar o leer a su alrededor. Discutan sobre cómo las fogatas son importantes para diferentes culturas - ¿Puedes pensar en algunos eventos o rituales que se llevan a cabo alrededor de una fogata? Extensión: Planifica y dirige una fogata donde puedan cantar a coro canciones con un tema forestal.
+
+niveles 3 2 1
 
 ---

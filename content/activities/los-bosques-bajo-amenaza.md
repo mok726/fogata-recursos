@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Creá un collage, modelo o póster educativo sobre las amenazas a los bosques en
 - ¿Qué amenazas a los bosques te parecieron más impactantes?
 - ¿Cómo podemos contribuir a proteger los bosques?
 - ¿Qué compromiso adquieres para crear conciencia sobre las amenazas a los bosques?
+
+---
+## Texto original completo de la actividad
+
+**D.01 LOS BOSQUES BAJO AMENAZA** Crea un collage, un modelo o un póster educativo sobre las amenazas a los bosques en tu área y a los bosques alrededor del mundo. Escribe una pequeña declaración del artista para acompañarlo y explica los impactos de estas amenazas y aquello que podemos hacer para crear una diferencia. Si es posible, exhibe tu obra de arte en un espacio público, como una escuela o un centro de visitantes de un parque.
+
+niveles 3 2 1
 
 ---

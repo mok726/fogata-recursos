@@ -78,7 +78,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -213,6 +213,8 @@ Tener acceso a agua potable y saneamiento es central para vivir una vida con dig
 **Accesible:** Todos tienen derecho a servicios de agua y saneamiento que sean físicamente accesibles dentro o en las inmediaciones de su hogar. Según la OMS, la fuente de agua debe estar a menos de 1,000 metros del hogar.
 
 **Asequible:** Las instalaciones y servicios de agua y saneamiento deben estar disponibles y ser asequibles para todos. Los costos no deben exceder el cinco por ciento de los ingresos del hogar.
+
+> **Nota para el educador:** los datos del original son de 2013. Para cifras actuales sobre saneamiento consultá el Programa Conjunto OMS/UNICEF de Monitoreo del Abastecimiento de Agua, el Saneamiento y la Higiene (JMP, https://washdata.org).
 
 ## Texto original completo de la actividad
 

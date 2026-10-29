@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,5 +183,12 @@ Prepará un noticiario para educar a las personas sobre los mercados de carbono 
 - ¿Qué aprendiste sobre los mercados de carbono y su importancia?
 - ¿Cómo pueden las compensaciones de carbono ayudar a proteger los bosques?
 - ¿Qué otras acciones podés tomar para educar sobre el cambio climático?
+
+---
+## Texto original completo de la actividad
+
+**E.14 REPORTAJE SOBRE EL CARBONO** Prepara un noticiario para educar a las personas sobre los mercados de carbono y las compensaciones de carbono. Preséntalo como una transmisión en vivo de radio, televisión o en línea.
+
+niveles 3
 
 ---

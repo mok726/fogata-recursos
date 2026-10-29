@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -80,7 +82,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,6 +189,6 @@ Estudiá un problema de salud o una enfermedad que se presente o se propague má
 ## Texto original completo de la actividad
 A.11 CLIMA Y SALUD. Estudia un problema de salud o una enfermedad que se presente o se propague más fácilmente en ciertos climas, como la malaria, la fiebre del dengue, la insolación, los problemas respiratorios, la contaminación por alimentos o las alergias. ¿Cuál es la conexión entre el clima y el problema? ¿A cuántas personas afecta alrededor del mundo y cómo se puede prevenir? Prepara una presentación con diapositivas y preséntala a tu clase o grupo.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

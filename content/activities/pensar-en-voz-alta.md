@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -77,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +182,6 @@ rama_rovers:
 ## Texto original completo de la actividad
 A.05 PENSAR EN VOZ ALTA. ¿Cómo te sientes tú en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo puedes hacer una diferencia o sólo no te interesa? Escribe un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos sobre el cambio climático y explica por qué te sientes de la manera que lo haces. Comparte tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,5 +183,12 @@ Investigá dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidade
 - ¿Qué aprendiste sobre el ecoturismo y su impacto?
 - ¿Cómo puede el ecoturismo ayudar a proteger los bosques?
 - ¿Te gustaría participar en un ecoturismo? ¿Por qué?
+
+---
+## Texto original completo de la actividad
+
+**B.09 ECOTURISMO** Haz una investigación sobre dos ejemplos de ecoturismo que ayudan a proteger a los bosques y a las personas que viven dentro y alrededor de estos. ¿Qué tipo de bosques son? ¿En qué actividades participan los eco-turistas? ¿Dónde se alojan? ¿Qué comen? ¿Las compañías de ecoturismo contratan a personas locales? ¿Cómo impacta el ecoturismo al medio ambiente? ¿Cómo impacta a las personas locales? ¿Crees que esas operaciones son buenos ejemplos de ecoturismo? ¿Por qué o por qué no? ¿Te gustaría participar en un ecoturismo? Presenta tus hallazgos a tu grupo. Extensión: Visita un bosque de tu área e imagina que es un destino de ecoturismo. ¿Qué actividades se podrían ofrecer? ¿Dónde se alojarían los turistas? ¿Qué comerían? ¿Cuánto costaría? ¿Se emplearía una parte del dinero para ayudar a las personas locales o para la conservación del bosque? Haz un folleto de viaje para tu destino de ecoturismo. Si es posible, lleva algunos amigos al bosque y ofréceles un ‘tour en vivo’ o una caminata guiada.
+
+niveles 3 2
 
 ---

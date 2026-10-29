@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,5 +183,12 @@ Aprendé sobre un grupo que cultive en los bosques. Compartí tus hallazgos de f
 - ¿Qué aprendiste sobre los agricultores del bosque?
 - ¿Cómo pueden los pueblos gestionar la biodiversidad de manera sostenible?
 - ¿Qué compromiso adquieres para apoyar prácticas agrícolas sostenibles?
+
+---
+## Texto original completo de la actividad
+
+**C.16 AGRICULTORES DEL BOSQUE** Algunos pueblos basados en el bosque cultivan alimentos y crían animales en el bosque. Por medio de su trabajo (cultivar plantas) ellos pueden gestionar activamente la biodiversidad, algunas veces pueden incluso incrementar la biodiversidad presente en el área. Aprende sobre un grupo que cultive en los bosques. Comparte tus hallazgos con tu grupo de forma creativa, como un modelo, una tira cómica o una novela ilustrada corta.
+
+niveles 3 2
 
 ---

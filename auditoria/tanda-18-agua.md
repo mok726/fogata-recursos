@@ -203,3 +203,29 @@
 | anuncios-del-agua (E46) | fiel (trad. EN) | — | — | ok | P3 |
 | humanidad-o-naturaleza (E47) | fiel (trad. EN) | — | — | ok | P3 |
 | responsabilidad-corporativa (E48) | fiel (trad. EN) | — | — | ok | P3 |
+
+## Estado (2026-10-29)
+
+Revisado contra los dos PDF (`i3225s` en español, códigos < 31; `ax744e` en inglés, códigos ≥ 31).
+
+**Hecho:**
+- Fuentes: `references.url` de las 161 actividades apunta al PDF correcto (español o inglés); en `badges.js`, las dos fuentes PDF y año 2013.
+- Originales inventados o equivocados:
+  - A32 (agua-alrededor-del-mundo-agua) y B45 (ciclo-agua-uso-agua) eliminadas: eran duplicados sin original real.
+  - E31 (tu-codigo-del-agua) y C47 (expedicion-cambio-climatico) reescritas con la actividad real del PDF.
+  - C39 (nuestro-agua-tambien-enfermarse): embebido el original, completado el cuerpo (discusión, sopa de letras en español con solución) y nota sobre la cifra "cada 20 segundos".
+- Nuevas: C01, C02 (español) y A32 Your Own Rainstick!, A52 Wonderful Waters, A53 Words of Wisdom, B45 Be Wise About Water, C52 Be a Water Reporter!, E49 World Water Day (inglés).
+- Niveles y edades corregidos: A35 (1 2), A39 (1 2 3), B42 (1 2), B43 (1 2 3), C43 (1 2), C44 (1 2), E41 (2 3). C06 ya estaba bien.
+- Títulos del original corregidos en el texto embebido: B31 How Do You Use Water?, E32 Be An Ocean Watcher, A48 Groundwater, C44 Oil Spills!, E46 Green Advertisements! (en E32 y A48 también objetivo y materiales).
+- Títulos repetidos: B41 → "Agua a Nuestro Alrededor", A51 → "Agua, Agua por Todas Partes".
+- Notas: D49 (ODM → ODS 6), D43/C51/D45 (datos de 2013, JMP), A35/A36 (8 vasos, % de agua en sangre), D37 (acre-pie), D08 (destilador solar, enlaces muertos).
+- Seguridad: A46, B07, C37, C40, A49, D08, E08.
+- Ejemplos regionales: A43 (Paraná, INA), A14 (Quiroga y otros), A48 (Acuífero Guaraní), B38 (AySA).
+- Imágenes retiradas: A08 (el-baile-del-agua) y las de A32, B45 y E31 eliminadas con sus actividades.
+
+**Pendiente:**
+- Los originales en inglés embebidos están **resumidos** en muchas actividades (faltan "Time", pasos o párrafos del Background; p. ej. A48 omite un paso y cambia los materiales). Re-embeber los 98 textos completos desde `ax744e` es un trabajo aparte.
+- Material auxiliar faltante (sigue igual): glosario (A12), Data Sheets I y II (A47), laberinto (A54), planilla Water Audit (B34), crucigrama (B39), términos de Hot Water (C50), recuadros (C47, C48), tarjetas de necesidades y deseos (D34), folleto (D46).
+- Probables duplicados A54 ≈ A02 y A55 ≈ A31: son actividades distintas en los dos PDF (español e inglés); se dejan.
+- Enlaces muertos restantes: van al link-check (G17).
+- Imágenes medio blanqueadas y genéricas: van a la regeneración.

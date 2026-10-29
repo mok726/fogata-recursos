@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -172,6 +172,9 @@ Leé una novela donde el agua sea una característica importante y escribí una 
 - ¿Qué simboliza el agua en el libro?
 
 ---
+
+> **Opción:** en español hay muchos libros donde el agua es protagonista. Por ejemplo, los cuentos de Horacio Quiroga (*Cuentos de la selva*, *A la deriva*), *El viejo y el mar* de Ernest Hemingway o *Veinte mil leguas de viaje submarino* de Julio Verne. Pidan sugerencias en la biblioteca según la edad del grupo.
+
 ## Texto original completo de la actividad
 
 **A.14 AGUAS EN LITERATURA** Visita la biblioteca de tu escuela o la biblioteca local y pídele al bibliotecario que te recomiende una novela en la cual el agua sea una importante característica. Por ejemplo, el río Mississippi (EE.UU.) juega un papel importante en Las Aventuras de Huckleberry Finn y el Distrito de los Lagos (GB) es el escenario de Las Golondrinas y las Amazonas. Escribe una reseña del libro enfocándote en la importancia o en el simbolismo del agua en la historia.

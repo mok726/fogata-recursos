@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -82,7 +81,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -217,7 +216,7 @@ Muchas personas no se dan cuenta de que las plantas son esenciales para la salud
 
 **Title:** Plants & Water Pollution
 
-**Level:** 1 2 3
+**Level:** 1 2
 
 **Aim:** To learn that plants have a role in water purification.
 
@@ -250,7 +249,7 @@ In a natural system, plants are fairly efficient at keeping the system in balanc
 
 **Título:** Plantas y Contaminación del Agua
 
-**Niveles:** 1, 2, 3
+**Niveles:** 1 2
 
 **Objetivo:** Aprender que las plantas tienen un papel en la purificación del agua.
 
@@ -290,6 +289,6 @@ Esta traducción no fue creada por la Organización de las Naciones Unidas para 
 
 This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

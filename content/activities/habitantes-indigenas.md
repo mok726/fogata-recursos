@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,8 @@ Aprendé sobre historias o leyendas tradicionales de poblaciones indígenas que 
 2. Elegí una leyenda para representar.
 3. Prepará vestuario y utilería para la obra.
 
+> **Nota para el educador:** representen las leyendas sin estereotipos ni disfraces, y si es posible consulten a la comunidad. En Argentina, por ejemplo, hay relatos mbya guaraní, wichí o mapuche.
+
 ## Desarrollo
 1. **Investigación** (25 min): Aprendé sobre leyendas indígenas relacionadas con los bosques.
 2. **Adaptación** (20 min): Adapta la leyenda a una obra de teatro.
@@ -190,5 +192,12 @@ Aprendé sobre historias o leyendas tradicionales de poblaciones indígenas que 
 - ¿Qué aprendiste sobre los pueblos indígenas y sus leyendas?
 - ¿Cómo se relacionan las leyendas con la conservación de los bosques?
 - ¿Qué compromiso adquieres para respetar y valorar las culturas indígenas?
+
+---
+## Texto original completo de la actividad
+
+**C.01 HABITANTES INDÍGENAS** Aprende sobre las historias o leyendas tradicionales de las poblaciones indígenas que viven o que solían vivir en los bosques de tu país. Prepara una pequeña obra de teatro sobre una de estas y preséntala a tus amigos. Podrías incluso organizar en evento especial como un show nocturno donde varios grupos presenten diferentes leyendas. Extensión: Invita a una persona indígena a que vaya a tu reunión para que hable sobre cómo usan y respetan el bosque. ¿La relación actual de su pueblo con el bosque es la misma que hace 50 años? ¿Qué tal hace 200 años? ¿Por qué sí o por qué no?
+
+niveles 3 2 1
 
 ---

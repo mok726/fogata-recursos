@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +171,8 @@ Formen grupos y salgan a investigar diferentes tipos de contaminación en su ár
 2. Definan qué tipos de contaminación van a investigar (agua, tierra, lluvia ácida, etc.).
 3. Preparen el equipo necesario (libretas, cámaras, etc.).
 
+> **Nota de seguridad:** no toquen residuos peligrosos (jeringas, vidrios, bidones de químicos): regístrenlos con fotos y avisen a la autoridad local.
+
 ## Desarrollo
 1. **Investigación de campo** (1-2 horas): Salgan a investigar la contaminación en su área.
 2. **Análisis** (30 min): Analicen la magnitud del problema, sus causas y su impacto en la biodiversidad.
@@ -182,5 +184,12 @@ Formen grupos y salgan a investigar diferentes tipos de contaminación en su ár
 - ¿Qué aprendiste sobre la contaminación en tu área?
 - ¿Cómo afecta la contaminación a los bosques y su biodiversidad?
 - ¿Qué compromiso adquieres para contribuir a prevenir la contaminación?
+
+---
+## Texto original completo de la actividad
+
+**D.14 DESENTERRANDO LA SUCIEDAD** Formen grupos y salgan a investigar diferentes tipos de contaminación en su área, por ejemplo, la contaminación del agua (la cual también se puede presentar como lluvia ácida) y la contaminación de la tierra. ¿Qué tan grande es este problema en su área? ¿Cuáles son las causas? ¿Está afectando a la biodiversidad, y si es así, cómo? ¿Qué se puede hacer para prevenir este problema de contaminación? Presenten sus hallazgos en forma de un reportaje de noticias.
+
+niveles 3
 
 ---

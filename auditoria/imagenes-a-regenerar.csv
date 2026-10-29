@@ -1,7 +1,7 @@
 prioridad,insignia,codigo,slug,imagen,motivo
-P1,agua,A08,el-baile-del-agua,/imagenes/actividades/el-baile-del-agua.jpg,mala (chicos saltando hacia una ola sobre rocas)
+P1,agua,A08,el-baile-del-agua,/imagenes/actividades/el-baile-del-agua.jpg,mala (chicos saltando hacia una ola sobre rocas) [retirada 2026-10-29]
 P1,agua,A21,la-ciencia-del-agua,/imagenes/actividades/la-ciencia-del-agua.jpg,mala (medio blanqueada)
-P1,agua,A32,agua-alrededor-del-mundo-agua,/imagenes/actividades/agua-alrededor-del-mundo-agua.jpg,mala (mapa con Argentina sobre EE. UU.)
+P1,agua,A32,agua-alrededor-del-mundo-agua,/imagenes/actividades/agua-alrededor-del-mundo-agua.jpg,mala (mapa con Argentina sobre EE. UU.) [retirada 2026-10-29: actividad eliminada, era un duplicado inventado]
 P1,agua,A41,animales-de-la-cuenca,/imagenes/actividades/animales-de-la-cuenca.jpg,mala (medio blanqueada)
 P1,agua,A47,bioevaluacion-macroinvertebrados,/imagenes/actividades/bioevaluacion-macroinvertebrados.jpg,mala (medio blanqueada)
 P1,agua,B31,promesa-del-agua-agua,/imagenes/actividades/promesa-del-agua-agua.jpg,mala (medio blanqueada)
@@ -20,21 +20,21 @@ P1,agua,D38,vegetacion-proteccion-agua,/imagenes/actividades/vegetacion-protecci
 P1,agua,D42,habitos-saludables-personas-saludables,/imagenes/actividades/habitos-saludables-personas-saludables.jpg,mala (medio blanqueada)
 P1,agua,D44,estas-de-acuerdo-o-en-desacuerdo,/imagenes/actividades/estas-de-acuerdo-o-en-desacuerdo.jpg,mala (medio blanqueada)
 P1,agua,D45,datos-sobre-el-agua,/imagenes/actividades/datos-sobre-el-agua.jpg,mala (medio blanqueada)
-P1,agua,E31,tu-codigo-del-agua,/imagenes/actividades/tu-codigo-del-agua.jpg,mala (medio blanqueada)
-P1,biodiversidad,A13,estrategias-de-supervivencia,/imagenes/actividades/estrategias-de-supervivencia.jpg,"mala (león al lado de chicos, bandera EE. UU.)"
+P1,agua,E31,tu-codigo-del-agua,/imagenes/actividades/tu-codigo-del-agua.jpg,mala (medio blanqueada) [retirada 2026-10-29: actividad reemplazada por la real]
+P1,biodiversidad,A13,estrategias-de-supervivencia,/imagenes/actividades/estrategias-de-supervivencia.jpg,"mala (león al lado de chicos, bandera EE. UU.)" [retirada 2026-10-29]
 P1,biodiversidad,A14,biogas,/imagenes/actividades/biogas.jpg,"mala (medio blanqueada, marca de agua ""LALANEZA"")"
 P1,biodiversidad,A20,comercio-de-emisiones-y-redd,/imagenes/actividades/comercio-de-emisiones-y-redd.jpg,"mala (medio blanqueada, texto inventado)"
 P1,biodiversidad,B13,experimento-de-derrame-de-petroleo,/imagenes/actividades/experimento-de-derrame-de-petroleo.jpg,mala (medio blanqueada)
-P1,biodiversidad,B17,bacterias-y-mamiferos-marinos,/imagenes/actividades/bacterias-y-mamiferos-marinos.jpg,mala (chicos metidos en mar abierto con delfines)
+P1,biodiversidad,B17,bacterias-y-mamiferos-marinos,/imagenes/actividades/bacterias-y-mamiferos-marinos.jpg,mala (chicos metidos en mar abierto con delfines) [retirada 2026-10-29]
 P1,biodiversidad,B27,escondite-junto-al-agua,/imagenes/actividades/escondite-junto-al-agua.jpg,mala (medio blanqueada)
-P1,biodiversidad,C04,plantas-silvestres-comestibles,/imagenes/actividades/plantas-silvestres-comestibles.jpg,mala (estereotipo de persona indígena)
+P1,biodiversidad,C04,plantas-silvestres-comestibles,/imagenes/actividades/plantas-silvestres-comestibles.jpg,mala (estereotipo de persona indígena) [retirada 2026-10-29]
 P1,biodiversidad,C27,especies-raras-de-arboles,/imagenes/actividades/especies-raras-de-arboles.jpg,mala (medio blanqueada)
 P1,biodiversidad,D17,arte-natural,/imagenes/actividades/arte-natural.jpg,mala (medio blanqueada)
 P1,biodiversidad,D18,desfile-de-modas,/imagenes/actividades/desfile-de-modas.jpg,mala (medio blanqueada)
-P1,biodiversidad,D31,conservacion-practica,/imagenes/actividades/conservacion-practica.jpg,"mala (chica abrazando un animal silvestre: zoonosis, mal ejemplo)"
-P1,bosques,C11,alimentos-del-bosque,/imagenes/actividades/alimentos-del-bosque.jpg,mala (chicos recolectando hongos silvestres)
+P1,biodiversidad,D31,conservacion-practica,/imagenes/actividades/conservacion-practica.jpg,"mala (chica abrazando un animal silvestre: zoonosis, mal ejemplo)" [retirada 2026-10-29]
+P1,bosques,C11,alimentos-del-bosque,/imagenes/actividades/alimentos-del-bosque.jpg,mala (chicos recolectando hongos silvestres) [retirada 2026-10-29]
 P1,bosques,C16,agricultores-del-bosque,/imagenes/actividades/agricultores-del-bosque.jpg,mala (medio blanqueada)
-P1,bosques,D11,no-madereros-y-no-son-buenos,/imagenes/actividades/no-madereros-y-no-son-buenos.jpg,mala (parece un chico fumando)
+P1,bosques,D11,no-madereros-y-no-son-buenos,/imagenes/actividades/no-madereros-y-no-son-buenos.jpg,mala (parece un chico fumando) [retirada 2026-10-29]
 P1,bosques,E08,olas-verdes,/imagenes/actividades/olas-verdes.jpg,mala (medio blanqueada)
 P1,cambioclimatico,A10,alimentos-locales,/imagenes/actividades/alimentos-locales.jpg,mala (medio blanqueada)
 P1,cambioclimatico,C11,huella-hidrica,/imagenes/actividades/huella-hidrica.jpg,mala (medio blanqueada)
@@ -43,7 +43,7 @@ P1,cambioclimatico,D10,informacion-privilegiada,/imagenes/actividades/informacio
 P1,cambioclimatico,E04,tarjetas-de-felicitacion-recicladas-cambioclimatico,/imagenes/actividades/tarjetas-de-felicitacion-recicladas-cambioclimatico.jpg,"mala (medio blanqueada, bandera de EE. UU.)"
 P1,cambioclimatico,E06,compras-inteligentes,/imagenes/actividades/compras-inteligentes.jpg,mala (medio blanqueada)
 P1,cambioclimatico,E08,recicla-tu-propio-papel,/imagenes/actividades/recicla-tu-propio-papel.jpg,mala (medio blanqueada)
-P1,cambioclimatico,E09,haz-tu-propio-compost,/imagenes/actividades/haz-tu-propio-compost.jpg,mala (compost con latas y metal: enseña lo contrario)
+P1,cambioclimatico,E09,haz-tu-propio-compost,/imagenes/actividades/haz-tu-propio-compost.jpg,mala (compost con latas y metal: enseña lo contrario) [retirada 2026-10-29]
 P1,cambioclimatico,E22,invierte-en-soluciones,/imagenes/actividades/invierte-en-soluciones.jpg,mala (medio blanqueada)
 P1,ciudadesverdes,D02,celebra-el-dia-de-mi-ciudad,/imagenes/actividades/celebra-el-dia-de-mi-ciudad.jpg,"mala: texto ""My City Da"" sobre la imagen"
 P1,comunidad,M01,patitas-limpias,/imagenes/actividades/patitas-limpias.jpg,mala: pantera/oso gigante; no muestra limpieza (hay 9 variantes patitas-limpias_1..9 sin usar)
@@ -144,7 +144,7 @@ P2,cambioclimatico,D06,mantente-al-tanto-de-las-noticias,/imagenes/actividades/m
 P2,cambioclimatico,D08,manteniendose-frescos-o-calientes-en-el-pasado,/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.jpg,floja (texto inventado)
 P2,cambioclimatico,D14,conoce-tu-consumo-de-electricidad,/imagenes/actividades/conoce-tu-consumo-de-electricidad.jpg,"floja (adultos, texto inventado)"
 P2,cambioclimatico,D15,opiniones-sobre-el-intercambio-de-emisiones,/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.jpg,floja (texto inventado)
-P2,cambioclimatico,D16,negociacion-por-el-clima,/imagenes/actividades/negociacion-por-el-clima.jpg,"floja (logo de la ONU y texto ""NEWALLING""; el uso del emblema de la ONU está restringido)"
+P2,cambioclimatico,D16,negociacion-por-el-clima,/imagenes/actividades/negociacion-por-el-clima.jpg,"floja (logo de la ONU y texto ""NEWALLING""; el uso del emblema de la ONU está restringido)" [retirada 2026-10-29]
 P2,cambioclimatico,E01,dia-de-accion-por-el-clima,/imagenes/actividades/dia-de-accion-por-el-clima.jpg,floja (texto inventado)
 P2,cambioclimatico,E02,concurso-por-el-clima,/imagenes/actividades/concurso-por-el-clima.jpg,floja (texto inventado)
 P2,cambioclimatico,E05,siembra-organico,/imagenes/actividades/siembra-organico.jpg,"floja (verdulería, no huerta)"

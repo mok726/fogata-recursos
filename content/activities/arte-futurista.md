@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,6 +182,6 @@ rama_rovers:
 ## Texto original completo de la actividad
 B.03 ARTE FUTURISTA. ¿Cómo te imaginas que se verá tu ciudad o pueblo dentro de 100 años? ¿Cómo crees que pueda ser afectado por el cambio climático? ¿Qué soluciones se idearán las personas para lidiar con los efectos del cambio climático? Deja volar a tu imaginación y haz un dibujo sobre cómo crees que serán las cosas.
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

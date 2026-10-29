@@ -23,8 +23,11 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "16-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
   - rovers
 
@@ -76,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +186,6 @@ Se espera que el cambio climático aumente la propagación de varias enfermedade
 ## Texto original completo de la actividad
 C.16 DISCUSIONES SALUDABLES. Se espera que el cambio climático aumente la propagación de varias enfermedades, incluyendo la malaria, la diarrea y la fiebre del dengue. Lee sobre las enfermedades que podrían propagarse debido al cambio climático y por qué. ¿Qué sucede en estas enfermedades, cómo se propagan y quién se ve más afectado? ¿En qué áreas prevalecen más? ¿Estas enfermedades ya están en aumento en ciertos lugares debido al cambio climático? ¿Cómo se puede afrontar este problema? Invita a tus amigos, a tu familia y a tus compañeros de clase a una noche de preguntas & respuestas, donde tú y tu grupo formarán un panel y contestarán preguntas sobre el cambio climático y la salud.
 
-NIVELES: 3
+NIVELES: 1, 2, 3
 
 ---

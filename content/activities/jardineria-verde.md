@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -193,5 +193,12 @@ Prepará un recipiente para compost y aprendé cómo la naturaleza recicla los m
 - ¿Qué aprendiste sobre el ciclo de la vida y el compostaje?
 - ¿Cómo contribuye el compostaje a la salud de los bosques?
 - ¿Qué compromiso adquieres para seguir cuidando el suelo?
+
+---
+## Texto original completo de la actividad
+
+**E.09 JARDINERÍA VERDE** Una tierra saludable es esencial para unos bosques saludables. Haz tu parte al cuidar de la tierra de tu jardín. Una forma grandiosa de hacer esto es preparar un recipiente para compost (averigua cómo se hace: www2.epa. gov/recycle/composting-home). El compostaje es la forma cómo la naturaleza recicla los materiales orgánicos de regreso hacia la tierra para que continúe el ciclo de la vida. Los miles de millones de organismos que viven en los suelos saludables transforman las plantas muertas en nutrientes vitales para que crezcan nuevas plantas. Mantén un diario sobre todo aquello que colocas en el recipiente y observa a tus plantas para ver si hace una diferencia. Si no tienes un jardín, crea un póster sobre el compostaje y su importancia en general y compártelo con tus amigos y los miembros de tu familia que sí tienen jardines.
+
+niveles 3 2
 
 ---

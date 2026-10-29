@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -70,9 +72,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.swfwm.d.state.fl.us/conservation/thepowerof10"
-    caption: "Calculadora de agua - The Power of 10"
-    icon: "link"
+  - url: "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/"
+    caption: "Huella hídrica de los productos - Water Footprint Network (en inglés)"
+    icon: "read_more"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -81,7 +83,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +175,8 @@ El agua limpia es vital para nuestra salud; dependemos del agua para muchas, si 
 2. Prepará una tabla para registrar el consumo de agua.
 3. Organizá los grupos de trabajo.
 
+> **Nota para el educador:** la página del distrito de agua de Florida que cita el original ya no existe. La galería de la Water Footprint Network (en inglés) muestra cuánta agua lleva producir cada alimento o producto.
+
 ## Desarrollo
 1. Usá una calculadora de agua para descubrir cuánta agua usan vos y tu familia en tu hogar.
 2. Registrá los resultados.
@@ -187,6 +191,6 @@ El agua limpia es vital para nuestra salud; dependemos del agua para muchas, si 
 ## Texto original completo de la actividad
 C.11 HUELLA HÍDRICA. El agua limpia es vital para nuestra salud; dependemos del agua para muchas, si no todas, nuestras actividades diarias. Los patrones cambiantes del clima ya están amenazando a nuestros lagos y ríos y, por lo tanto, a nuestro suministro de agua. Usa una calculadora de agua que te ayude a descubrir cuánta agua usan tú y tu familia en tu hogar. Aquí hay un ejemplo: www.swfwm.d.state.fl.us/conservation/thepowerof10. ¿Crees que están gastando mucha agua? ¿Qué puedes hacer para disminuir tu consumo de agua? ¡Comparte con tu familia las ventajas de ahorrar agua!
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

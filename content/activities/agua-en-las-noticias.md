@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua por Todas Partes"
+title: "Agua a Nuestro Alrededor"
 duration: "1 hora (15 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-en-las-noticias/"
@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -168,7 +168,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Agua por Todas Partes!
+# ¡Agua a Nuestro Alrededor!
 
 ## Resumen
 El agua está en todas partes y es un tema constante en las noticias. En esta actividad, los participantes crean su propio álbum de recortes sobre el agua, recolectando artículos y fotografías de periódicos y revistas relacionados con la disponibilidad y los usos del agua.

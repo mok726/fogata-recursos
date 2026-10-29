@@ -70,9 +70,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://sustainablebusinessforum.com/kaitylf/55614/2012-year-dragon-and-year-sustainability"
-    caption: "Proyectos de energía renovable"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -81,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +169,8 @@ Hay un montón de ideas y proyectos geniales sobre la eficiencia energética all
 1. Investigá sobre proyectos de energía renovable.
 2. Prepará recursos y fuentes de información.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** el artículo que cita el original (2012) ya no está disponible. Busquen ejemplos actuales de proyectos de eficiencia energética, de su país o de otros.
 
 ## Desarrollo
 1. Investigá proyectos innovadores de energía renovable.

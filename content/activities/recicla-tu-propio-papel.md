@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -86,7 +88,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -195,6 +197,6 @@ Para esta actividad necesitarás: papel de desecho de cuadernos viejos/periódic
 ## Texto original completo de la actividad
 E.08 RECICLA TU PROPIO PAPEL. Para esta actividad necesitarás: 1. Papel de desecho de cuadernos viejos/periódicos viejos/revistas viejas 2. Un poco de almidón 3. Un balde o un tazón viejo 4. Un mortero y la mano de mortero o cualquier otro artefacto para moler el papel 5. Un colador con malla metálica o un plato perforado Pasos: a. Rompe el papel que estás usando en pequeños pedazos. b. En un balde, remójalos en agua tibia durante un tiempo con un poco de almidón. c. Luego de unas horas retíralo del agua y muélelo con el mortero hasta que se haga suave y pulposo. Añade más almidón para que se haga más espeso. d. Coloca esta pulpa en el colador para permitir que gotee el agua. Aplástalo si es necesario para eliminar el exceso de agua. e. Luego voltea el colador al revés sobre una superficie lisa y coloca algo de peso sobre el papel. f. Una vez que esté seco, tu papel hecho a mano está listo para usar. No serás capaz de escribir sobre este, pero podrás hacer dibujos o usarlo para otro propósito.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

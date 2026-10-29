@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Aprendé sobre diferentes biomas forestales, sus características y ubicación. 
 - ¿Qué biomas forestales te parecieron más interesantes?
 - ¿Cómo afecta la ubicación geográfica al tipo de bosque?
 - ¿Qué compromiso adquieres para aprender más sobre los bosques del mundo?
+
+---
+## Texto original completo de la actividad
+
+**A.02 LOS BIOMAS SON HOGARES** El tipo de bosque y la variedad de vida que es posible encontrar en este (su biodiversidad) depende de muchos factores, incluyendo la ubicación geográfica del bosque y su clima. Aprende sobre estos diferentes ‘biomas forestales’. ¿Qué es un bioma forestal? Nombra cuatro ejemplos de biomas forestales. ¿Cuáles son las principales características de cada uno? ¿En qué lugar del mundo están ubicados? ¿Cuáles biomas forestales se encuentran en tu área o país? Comparte tus respuestas con tu grupo. Extensión: Recolecta o haz dibujos de diferentes biomas forestales. Inventa un juego de buscar parejas en el cual debas colocar el bioma forestal en la ubicación geográfica donde se encuentra alrededor del mundo. Juega a este juego con un amigo.
+
+niveles 3 2 1
 
 ---

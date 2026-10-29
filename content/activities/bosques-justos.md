@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -168,6 +168,8 @@ Discutí cómo se puede proteger el derecho de acceso y distribución de benefic
 1. Investigá sobre derechos de acceso y distribución de beneficios en la gestión forestal.
 2. Prepará argumentos para la discusión.
 
+> **Nota para el educador:** en Argentina, por ejemplo, la Ley 26.331 de Bosques Nativos prevé la participación de las comunidades.
+
 ## Desarrollo
 1. **Introducción** (10 min): Presentá el tema y los conceptos clave.
 2. **Discusión guiada** (30 min): Discutí cómo proteger los derechos de las personas locales.
@@ -178,5 +180,12 @@ Discutí cómo se puede proteger el derecho de acceso y distribución de benefic
 - ¿Qué aprendiste sobre la justicia en la gestión forestal?
 - ¿Cómo podemos garantizar el acceso justo a los bosques?
 - ¿Qué compromiso adquieres para promover la justicia social?
+
+---
+## Texto original completo de la actividad
+
+**B.12 BOSQUES JUSTOS** El derecho de acceso y la distribución de beneficios para las personas locales es un requisito fundamental para la gestión sostenible de los bosques y para la reducción de la pobreza en las áreas forestales rurales. Con tu grupo, discute sobre cómo se puede proteger este derecho dentro de las políticas de gestión forestal de tu gobierno.
+
+niveles 3
 
 ---

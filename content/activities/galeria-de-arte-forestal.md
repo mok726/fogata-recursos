@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Creá una obra de arte inspirada en los bosques, escribí una declaración del a
 - ¿Qué te inspiró a crear tu obra?
 - ¿Cómo te hizo sentir crear arte sobre los bosques?
 - ¿Qué compromiso adquieres para seguir expresando tu amor por la naturaleza a través del arte?
+
+---
+## Texto original completo de la actividad
+
+**C.10 GALERÍA DE ARTE FORESTAL** Crea una obra de arte, como una pintura, un dibujo o una escultura inspirada en los bosques. Escribe o registra una pequeña declaración del artista para describir tu obra. Convence a tus amigos de que ellos también creen otras obras. Exhiban sus obras de arte en una ‘Galería de Arte Forestal’ en su próxima reunión; pueden invitar a su familia y a sus amigos para que hagan un tour mientras ustedes explican sus exhibiciones.
+
+niveles 3 2 1
 
 ---

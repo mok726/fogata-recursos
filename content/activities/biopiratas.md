@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,5 +180,12 @@ Organizá un debate sobre bioprospección versus biopiratería. Un lado represen
 - ¿Qué aprendiste sobre la bioprospección y la biopiratería?
 - ¿Cómo podemos proteger el conocimiento tradicional?
 - ¿Qué compromiso adquieres para promover prácticas éticas?
+
+---
+## Texto original completo de la actividad
+
+**B.13 ¡BIOPIRATAS!** La biodiversidad de los bosques posee ingredientes muy valiosos para los productos médicos y farmacéuticos. Los curanderos tradicionales y los doctores conocen algunos de los usos medicinales de las plantas, los animales y los hongos (setas). Las compañías farmacéuticas (aquellas que producen medicinas comerciales) y los centros de investigación (como las universidades) están tratando de tener acceso a y de aprender sobre este conocimiento tradicional con el fin de desarrollar mejores medicinas. Organiza un debate sobre este tema con tu grupo. Un lado debe representar a los investigadores y a las compañías de medicamentos y deben hablar a favor de la ‘bioprospección’. El otro lado debe representar a los grupos que están en contra de la ‘biopiratería’ (por ej. poblaciones indígenas).
+
+niveles 3
 
 ---

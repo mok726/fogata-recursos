@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Hacé un póster que indique aquello que las personas pueden hacer para prevenir
 2. Reuní los materiales para el póster (cartulina, marcadores, etc.).
 3. Definí el mensaje clave que querés comunicar.
 
+> **Nota para el educador:** en Argentina, por ejemplo, el castor en Tierra del Fuego, el ligustro o la acacia negra.
+
 ## Desarrollo
 1. **Investigación** (20 min): Investigá qué son las especies invasoras, cómo se transfieren y qué daños causan.
 2. **Diseño del póster** (30 min): Creá un póster claro y atractivo con recomendaciones prácticas.
@@ -187,5 +189,12 @@ Hacé un póster que indique aquello que las personas pueden hacer para prevenir
 - ¿Qué aprendiste sobre las especies invasoras y su impacto en los bosques?
 - ¿Qué acciones concretas podemos tomar para prevenir su propagación?
 - ¿Cómo creés que tu póster puede influir en otras personas?
+
+---
+## Texto original completo de la actividad
+
+**E.05 EDUCACIÓN ANTI-INVASIÓN** Haz un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques. Exhibe tu obra de arte en un espacio público, como por ejemplo en el comienzo de un sendero natural, en una escuela o en el centro de visitantes de un parque. Tal vez incluso puedas dar una charla o una presentación a tu comunidad local.
+
+niveles 3 2 1
 
 ---

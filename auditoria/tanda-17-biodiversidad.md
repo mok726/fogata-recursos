@@ -143,3 +143,14 @@ Además se perdieron "con un adulto" (A14), "permiso de los padres" (A19) y "dev
 | la-ola-verde (D32) | fiel | **greenwave.cbd.int probablemente caído**. Duplica bosques E08. | — | genérica | P2 |
 | recaudacion-de-fondos-biodiversidad (D33) | fiel | — | Rifas: autorización. | ok | P3 |
 | organizador-comunitario-biodiversidad (D34) | fiel | — | — | floja (texto inventado) | P3 |
+
+## Estado (2026-10-29)
+
+Revisado contra el PDF `i1885s.pdf` (© FAO, AMGS y CBD 2011) de la carpeta local de Mariano. Los originales embebidos son fieles y los niveles coinciden: se verificaron 85 actividades y no hay diferencias.
+- `references.url` (111) y `sources` pasan a https://www.fao.org/3/i1885s/i1885s.pdf (verificado). La licencia y los titulares se corrigieron a "© FAO, AMGS y CBD 2011", en badges.js y en las actividades.
+- **Nuevas A09 (Guía de Campo de Insectos) y A10 (Rutas Migratorias)**: se crearon desde el PDF, con el original embebido, la advertencia de seguridad del original y niveles 2 y 3.
+- Léxico: yerba → pasto (A02); anciano → persona mayor (C01, C04); guión → guion (D20, incluido el título; D22). B08 tiene una nota sobre "invernáculo" (hibernáculo).
+- Enlaces: A11 (WorldBirds → eBird o ArgentiNat), D24 (BioBlitz con iNaturalist), B10, D03, D11, D26 y D32, todos con nota. El resto va al link-check.
+- Seguridad: A07, A18, A14, B07, B26, C20, C25, C26, D17, D26, D29, D31 y D33.
+- Datos: A06, C09 (etiquetado de transgénicos), C11 y C21. Ejemplos locales: A04, A12, B18, B22, C18, C30, D02 y D10.
+- Imágenes retiradas: A13, B17, C04 y D31. Las medio blanqueadas siguen en la lista.

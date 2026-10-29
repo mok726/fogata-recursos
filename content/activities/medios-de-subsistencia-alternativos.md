@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Lista productos forestales que las personas usan para su subsistencia. Inventá 
 - ¿Qué productos forestales te parecieron más importantes?
 - ¿Cómo dependen las personas de los bosques para su subsistencia?
 - ¿Qué compromiso adquieres para apoyar medios de subsistencia sostenibles?
+
+---
+## Texto original completo de la actividad
+
+**B.02 MEDIOS DE SUBSISTENCIA ALTERNATIVOS** No todas las personas que dependen de los bosques para su subsistencia son parte de aquello que se conoce como la ‘economía formal’ - el sistema económico oficial (de ganar dinero, comprar y vender bienes) de un país que es reconocido por el gobierno. Algunas personas buscan y recolectan madera y productos forestales para obtener alimentos, medicinas, vestimenta y suministros para fabricar otros bienes que son importantes para su bienestar. Haz una lista de todas las cosas que puedes encontrar en un bosque y que las personas pueden usar para su subsistencia. Inventa un juego para que eduques a tus amigos acerca de los diferentes productos forestales y sus usos como medios de subsistencia.
+
+niveles 3 2 1
 
 ---

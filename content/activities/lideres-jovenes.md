@@ -71,9 +71,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://unfccc.int/cc_inet/cc_inet/youth_portal/items/6578.php"
-    caption: "Portal Juvenil de la CMNUCC"
-    icon: "link"
   - url: "https://youthclimate.org"
     caption: "Youth Climate Movement"
     icon: "link"
@@ -91,7 +88,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +180,8 @@ Averiguá cómo los niños y los jóvenes están haciendo escuchar su voz en las
 1. Investigá sobre el activismo juvenil climático.
 2. Prepará recursos y enlaces para explorar.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** el portal juvenil de la CMNUCC que cita el original ya no existe. Hoy la voz juvenil ante la CMNUCC es YOUNGO, que también organiza Conferencias Locales de la Juventud (LCOY) en muchos países; en Argentina, por ejemplo, la LCOY Argentina.
 
 ## Desarrollo
 1. Visitá los sitios Web proporcionados para conocer el activismo juvenil.

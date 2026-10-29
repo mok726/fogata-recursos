@@ -4,7 +4,7 @@ title: "Jarra de Efecto Invernadero"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/jarra-de-efecto-invernadero/"
-description: "Experimento para entender el efecto invernadero utilizando una jarra y una lámpara."
+description: "Experimento con dos termómetros y una jarra para ver el efecto invernadero."
 summary: "Experimento para entender el efecto invernadero."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -23,10 +23,11 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-15 años"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -77,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -162,28 +163,27 @@ rama_rovers:
 # ¡Jarra de Efecto Invernadero!
 
 ## Resumen
-¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
+Hacé un experimento muy simple para ver cómo funciona el efecto invernadero, con dos termómetros y una jarra transparente.
 
 ## Preparación
-1. Reuní los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
-2. Prepará una tabla para registrar temperaturas.
-3. Explicá el experimento al grupo.
+1. Conseguí dos termómetros pequeños, una jarra u otro recipiente transparente y un reloj.
+2. Buscá un lugar soleado (o una lámpara que dé calor).
+3. Prepará una tabla para registrar las temperaturas.
+
+> **Nota de seguridad:** si usan lámpara en lugar de sol, la lámpara incandescente o halógena se calienta mucho: no la toquen y manéjenla con supervisión de un adulto. Con una lámpara LED el experimento no funciona, porque casi no da calor.
 
 ## Desarrollo
-1. Colocá un termómetro en el recipiente vacío y otro dentro de la jarra.
-2. Colocá el recipiente y la jarra bajo la lámpara.
-3. Registrá las temperaturas cada minuto durante diez minutos.
-4. Observá las diferencias de temperatura entre ambos termómetros.
-5. Discutí: ¿Qué representa la jarra? ¿Qué representa la lámpara?
+1. **Armado** (5 min): Colocá los dos termómetros en el área soleada y cubrí uno con la jarra puesta boca abajo.
+2. **Medición** (10 min): Registrá la temperatura de los dos termómetros cada minuto durante diez minutos.
+3. **Análisis** (10 min): ¿Hubo diferencia entre la temperatura dentro y fuera de la jarra? ¿En qué se parece esto al efecto invernadero?
 
 ## Cierre
-1. Compará los resultados y discutí el efecto invernadero.
-2. Reflexioná: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
-3. Pregunta final: ¿Cómo podemos reducir la cantidad de gases de efecto invernadero en la atmósfera?
+- ¿Qué representa la jarra? ¿Y el sol?
+- ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
 
 ## Texto original completo de la actividad
-B.10 JARRA DE EFECTO INVERNADERO. ¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
+B.10 JARRA DE EFECTO INVERNADERO. ¿Estás curioso por saber cómo funciona realmente el efecto invernadero? Puedes hacer un experimento muy simple para ver los efectos de un invernadero. Para este experimento necesitarás dos termómetros pequeños, una jarra u otro contenedor transparente, un reloj y una lámpara solar o un lugar soleado para el experimento. Coloca los dos termómetros en un área soleada. Cubre uno de los termómetros con una jarra colocada al revés. Registra la temperatura de los dos termómetros cada minuto durante diez minutos. ¿Hubo una diferencia entre las temperaturas dentro de la jarra y fuera de la jarra? ¿En qué se parece esto al efecto invernadero? Descubre más sobre este experimento aquí: http://sln.fi.edu/tfi/activity/Earth/Earth-5.html.
 
-NIVELES: 2
+NIVELES: 2, 3
 
 ---

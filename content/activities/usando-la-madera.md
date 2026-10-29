@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,5 +181,12 @@ Enumerá cosas hechas con madera en tu hogar. Discutí pros y contras de cortar 
 - ¿Qué aprendiste sobre el uso de la madera en tu hogar?
 - ¿Cómo podemos usar la madera de manera sostenible?
 - ¿Qué compromiso adquieres para consumir madera responsablemente?
+
+---
+## Texto original completo de la actividad
+
+**B.07 USANDO LA MADERA** Enumera todas las cosas hechas con madera a tu alrededor o en tu hogar. ¿Qué podemos crear y usar gracias a la madera? ¿Qué publicidad o campaña te dice que es malo cortar los árboles? ¿Estás de acuerdo con estas? En una columna, enumera todas las razones por las cuales crees que cortar los árboles es bueno y en otra columna enumera por qué es malo.
+
+niveles 3 2
 
 ---

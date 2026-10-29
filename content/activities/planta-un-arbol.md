@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -193,6 +193,8 @@ Trabajá con un maestro, dirigente o padre para buscar un espacio en la comunida
 5. Coordiná con un maestro, dirigente o padre para la supervisión.
 6. Invitá a amigos y familiares a la ceremonia.
 
+> **Nota para el educador:** elijan una especie nativa de la zona, no exóticas invasoras.
+
 ## Desarrollo
 1. **Investigación** (30 min): Investigá qué especie de árbol es adecuada para tu área y dónde plantarlo.
 2. **Preparación del terreno** (20 min): Prepará el hoyo y el suelo.
@@ -204,5 +206,12 @@ Trabajá con un maestro, dirigente o padre para buscar un espacio en la comunida
 - ¿Qué aprendiste sobre la importancia de plantar árboles?
 - ¿Cómo te sentiste al participar en la plantación de un árbol?
 - ¿Qué compromiso adquieres para cuidar de este árbol y de otros árboles en el futuro?
+
+---
+## Texto original completo de la actividad
+
+**E.02 PLANTA UN ÁRBOL** Trabaja con un maestro, dirigente o padre para buscar un espacio en la comunidad donde tu grupo tenga la autorización para plantar un árbol. Luego, investiga qué tipo de árbol plantar. Visita este sitio web para obtener instrucciones sobre cómo plantar tu árbol: http://greenwave.cbd.int/resources/how-to-plant y luego organiza una ceremonia oficial para plantar tu árbol. Inviten a sus amigos y a su familia para que les acompañen en su gran día, distribuyan información sobre los árboles y los bosques y animen a todos a organizar sus propios eventos de plantación de árboles. Asegúrense de planear cómo cuidarán de su árbol a medida que va creciendo y cómo compartirán la responsabilidad de este trabajo.
+
+niveles 3 2 1
 
 ---

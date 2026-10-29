@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,5 +183,12 @@ Investigá una especie de ave forestal que migra a través de continentes. Compa
 - ¿Qué aprendiste sobre las aves migratorias?
 - ¿Cómo se adaptan a diferentes ecosistemas?
 - ¿Qué compromiso adquieres para proteger las rutas migratorias?
+
+---
+## Texto original completo de la actividad
+
+**A.21 ALZAR EL VUELO** Algunas aves migratorias viajan grandes distancias cada año. Estas pasan los meses de invierno en los cálidos bosques tropicales cerca de la línea ecuatorial y los meses de reproducción de verano en bosques templados ricos en insectos. Elije una especie de ave forestal que migre a través de los continentes cada año. ¿Dónde vive? ¿En qué tipos de bosque vive? ¿Come los mismos alimentos en cada bosque? ¿Qué predadores y patógenos (bacterias y virus que causan enfermedades) les atacan en cada bosque? ¿Las aves tienen diferentes grupos sociales en cada sitio, por ejemplo, vuelan en bandadas pequeñas en un sitio y en bandadas grandes en otro? ¿Cómo crees que las aves pueden lidiar con toda esta variedad? Comparte tus respuestas con tu grupo. ¡No olvides mostrar algunas fotografías!
+
+niveles 3 2
 
 ---

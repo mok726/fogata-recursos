@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Investigá tres comunidades indígenas o religiones que valoren los bosques como
 - ¿Qué aprendiste sobre el valor sagrado de los bosques?
 - ¿Cómo influye la espiritualidad en la conservación de los bosques?
 - ¿Qué compromiso adquieres para respetar las creencias de otras culturas?
+
+---
+## Texto original completo de la actividad
+
+**C.12 BOSQUES SAGRADOS** Para algunos grupos de personas, el bosque es un lugar sagrado, espiritual o religioso. Elige tres comunidades indígenas o religiones que valoren a los bosques de esta manera. Investiga por qué el bosque es importante para cada uno de ellos. ¿Cómo usan el bosque? ¿Qué partes del bosque usan? ¿Cuándo usan el bosque? ¿Cuáles son, si es que hay alguno, los tabús (cosas que no está bien hacer) del bosque? ¿Por qué crees que el bosque fue elegido como un lugar especial, en vez del centro de la ciudad, por ejemplo? Comparte tus hallazgos con tu grupo.
+
+niveles 3 2 1
 
 ---

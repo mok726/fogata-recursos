@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,6 +180,10 @@ Descargá la aplicación de la FAO Forestal o inventá tu propio juego sobre los
 2. O inventa tu propio juego sobre bosques.
 3. Prepará los dispositivos o materiales para jugar.
 
+> **Nota para el educador:** la aplicación de la FAO que cita el original ya no existe.
+
+> **Opción:** armen un quiz propio sobre bosques, en papel o con una herramienta en línea como Kahoot.
+
 ## Desarrollo
 1. **Descarga/Invención** (15 min): Descargá la app o inventá tu juego.
 2. **Prueba** (20 min): Realizá la prueba en tu dispositivo.
@@ -190,5 +194,12 @@ Descargá la aplicación de la FAO Forestal o inventá tu propio juego sobre los
 - ¿Qué aprendiste sobre los bosques con el juego?
 - ¿Cómo te ayudó el juego a entender mejor los bosques?
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre los bosques?
+
+---
+## Texto original completo de la actividad
+
+**A.18 PRUEBA BOSCOSA** ¡Hora de jugar! Descarga la aplicación del departamento Forestal de la FAO de iTunes. Visita https://itunes.apple.com/en/app/fao-forestry/id490653521?mt=8. Haz la prueba en tu computador, tablet o teléfono móvil. O inventa tu propio juego sobre los bosques. Juégalo con tu grupo.
+
+niveles 3 2 1
 
 ---

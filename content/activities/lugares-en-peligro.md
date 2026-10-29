@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -79,7 +81,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +173,8 @@ Descubrí cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenaz
 2. Prepará recursos y fuentes de información.
 3. Organizá los grupos de trabajo.
 
+> **Nota para el educador:** busquen lugares en peligro de su país; en Argentina, por ejemplo, los glaciares (Inventario Nacional de Glaciares, IANIGLA).
+
 ## Desarrollo
 1. Investigá cuáles sitios de Patrimonio Mundial de la UNESCO están amenazados por el cambio climático.
 2. Elegí algunos que te interesen.
@@ -185,6 +189,6 @@ Descubrí cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenaz
 ## Texto original completo de la actividad
 C.10 LUGARES EN PELIGRO. Descubre cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenazados por el cambio climático y cómo. Elige algunos que te interesen y crea un collage, historia o presentación con fotos e información sobre estos. ¿Dónde están ubicados, cuál es su historia y de qué manera están en riesgo? Exhibe tu trabajo en un lugar prominente de tu escuela o comunidad.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

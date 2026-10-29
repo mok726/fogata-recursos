@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Expedición al Cambio Climático"
-duration: "1 hora 40 minutos (1h lectura + 40 min discusión)"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/expedicion-cambio-climatico/"
-description: "Los participantes exploran cómo el cambio climático afecta la disponibilidad de agua en todo el mundo a través de la lectura y discusión de un texto sobre sequías extremas."
-summary: "Explorá el impacto del cambio climático en el agua."
+description: "Expedición virtual para conocer los efectos del cambio climático y su relación con el agua."
+summary: "Expedición virtual sobre clima y agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -33,22 +33,19 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Copias del texto sobre sequías extremas
-  - Cuaderno
-  - Lápices
+  - Computadora con acceso a internet
 tools: []
 responsible:
   - Docente o Scouter
-prep_time: "10 min"
-participants: "4-20"
+prep_time: "15 min"
+participants: "6-30"
 location: "Interior"
-space_required: "Salón con mesas"
+space_required: "Salón con computadora o proyector"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
   - 6   # Agua limpia y saneamiento
   - 13  # Acción por el clima
-  - 15  # Vida de ecosistemas terrestres
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
@@ -63,15 +60,11 @@ required_category: ""
 tags:
   - agua
   - cambio-climatico
-  - sequia
-  - amazonas
-  - educacion-ambiental
+  - investigacion
+  - expedicion-virtual
 
 # ========== ENLACES Y ARCHIVOS ==========
-link:
-  - url: "http://awsassets.panda.org/downloads/1_lpr_2012_online_full_size_single_pages_final_120516.pdf"
-    caption: "WWF - Living Planet Report 2012"
-    icon: "link"
+link: []
 files: []
 
 # ========== REFERENCIAS ==========
@@ -80,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -100,67 +93,52 @@ attributions:
   - entity: "Mariano S. Cosentino"
     role: "Adaptación, traducción y compilación para publicación WEB"
     year: 2026
-  - entity: "DeepSeek"
-    role: "Preprocesamiento, traducción al español y conversión a Markdown"
-    year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
-ludic_component: 2  # Lectura y reflexión
-reflective_component: 5  # Reflexión profunda sobre cambio climático
-active_component: 2  # Lectura y escritura
+ludic_component: 3
+reflective_component: 3
+active_component: 3
 
 # ========== COMPLEJIDAD (escala 1-5) ==========
-complexity_execution: 2  # Lectura y discusión
-complexity_organizer: 2  # Preparación simple
+complexity_execution: 2
+complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
-image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth reading and discussing climate change impacts on water, with images of droughts and forests, learning about environmental consequences. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, reading and discussing. No text, no letters, no words. Wide shot."
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A computer screen showing a melting glacier, a coral reef and a storm, as stops of a virtual expedition, dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting to the group. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Investigación
   - Pensamiento crítico
-  - Conciencia climática
-  - Análisis de impacto
 activity_type:
-  - Reflexión
-  - Debate / Diálogo
   - Investigación
 category:
+  - Agua
   - Cambio climático
-  - Sequías
-  - Ecosistemas
 skills:
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - Investigación
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
   - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
 scout_method:
   - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
-# Nota: Se incluyen competencias para TODAS las ramas,
-# independientemente del nivel de la actividad, para permitir adaptación.
-rama_castores: []  # Castores no tienen competencias definidas
+rama_castores: []
 rama_lobatos:
-  - 26  # Identifico algunos problemas ambientales de mi comunidad.
-  - 28  # Entiendo que mis acciones tienen un impacto en el Planeta Tierra.
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
 rama_scouts:
   - 31  # Reconozco mi impacto en el ambiente y en la sociedad.
-  - 34  # Comprendo las causas y consecuencias del impacto ambiental.
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable y sostenible.
-  - 30  # Me posiciono de manera crítica sobre decisiones con impacto ambiental.
 rama_rovers:
-  - 30  # Consumo y produzco de manera sostenible y sustentable.
   - 33  # Reconozco que la Tierra es nuestra casa común.
 
 # ========== AVISO DE TRADUCCIÓN ==========
@@ -172,38 +150,23 @@ translation_notice:
 # ¡Expedición al Cambio Climático!
 
 ## Resumen
-Las temperaturas globales promedio han aumentado y las concentraciones de CO₂ han alcanzado niveles sin precedentes. El aumento de las temperaturas y las concentraciones de CO₂ traerán cambios disruptivos al clima. Los aumentos en la frecuencia y severidad de inundaciones y sequías ya están afectando a nuestro mundo. En esta actividad, los participantes exploran cómo el cambio climático afecta la disponibilidad de agua en todo el mundo a través de la lectura y discusión de un texto sobre sequías extremas en el Amazonas.
+El clima de la Tierra está cambiando de formas que no siempre se ven. Las personas agregamos gases de efecto invernadero a la atmósfera, sobre todo al quemar combustibles fósiles, y la Tierra se calienta. Eso trae otros cambios: tormentas más fuertes, glaciares que se derriten y pérdida de hábitats. Como el aire, el agua y la tierra están relacionados, un cambio en un lugar provoca cambios en otro. En esta expedición virtual, el grupo conoce los efectos del cambio climático, sobre todo los relacionados con el agua.
 
 ## Preparación
-1. Prepará copias del texto sobre sequías extremas para cada participante.
-2. Prepará la pizarra para la discusión.
+1. Prepará una computadora con internet (o proyector).
+2. Elegí el recorrido virtual (ver la nota).
+
+> **Nota para el educador:** la "Climate Change Expedition" de la EPA de Estados Unidos que usa el original ya no está en línea. Pueden armar la expedición con otros recursos; por ejemplo, Climate Kids de la NASA (en inglés) o los materiales educativos del IPCC y de la autoridad ambiental de su país.
 
 ## Desarrollo
-
-### Paso 1: Introducción
-1. Comenzá recordando a tu grupo qué es el cambio climático y cómo está afectando a nuestro medio ambiente y a sus personas debido al aumento de eventos climáticos extremos.
-
-### Paso 2: Lectura del texto
-2. Pedí a los participantes que lean el texto sobre **"Sequías Extremas en el Amazonas"** del Informe Planeta Vivo 2012 del World Wildlife Fund.
-3. El texto dará a los participantes una idea clara sobre las consecuencias del cambio climático y cómo se relaciona con el agua.
-
-### Paso 3: Discusión grupal
-4. Animá una discusión grupal para que los participantes obtengan más ideas y opiniones sobre el tema.
-
-### Paso 4: Ensayo (tarea)
-5. Explicá que, como tarea, los participantes escribirán un ensayo basado en la siguiente afirmación: **"Los principales impactos del cambio climático en los humanos y el medio ambiente ocurren a través del agua."**
-6. En la próxima reunión, pide a cada participante que presente un resumen de las ideas principales que incluyó en su ensayo.
-
-## Texto: Sequías Extremas en el Amazonas
-
-Los científicos están preocupados de que el cambio climático pueda traer condiciones cada vez más áridas (junto con sequías extremas más frecuentes) a la Amazonía, resultando en pérdidas netas de carbono de los bosques de la región hacia la atmósfera. Esas preocupaciones se destacaron en 2005 cuando una sequía "de una vez en un siglo" afectó la Amazonía, con impactos tan severos que el gobierno declaró el estado de emergencia para gran parte del área. La sequía resultó en una liberación masiva de 0.8 a 2.6 Gigatoneladas (mil millones de toneladas métricas) de carbono a la atmósfera. Esto se puede comparar con las emisiones globales de CO₂ de combustibles fósiles en 2005 de 7.4 Gigatoneladas de carbono.
-
-En 2009, el World Wildlife Fund identificó la perspectiva de sequías extremas más frecuentes en la Amazonía y la consiguiente muerte regresiva de la selva tropical como uno de los "puntos de inflexión" que podrían superarse en las próximas décadas a medida que el clima cambia, con impactos significativos dentro de la primera mitad de este siglo. Al año siguiente, en 2010, otra sequía extraordinaria afligió la región, esta vez con emisiones quizás aún mayores, estimadas entre 1.2 y 3.4 Gigatoneladas de carbono. "Las dos sequías recientes en la Amazonía demuestran un mecanismo por el cual los bosques tropicales intactos restantes de América del Sur pueden pasar de amortiguar el aumento del dióxido de carbono atmosférico a acelerarlo", dijeron los investigadores en el número del 4 de febrero de 2011 de Science. "Si los eventos de sequía continúan, la era de los bosques amazónicos intactos amortiguando el aumento del dióxido de carbono atmosférico puede haber pasado".
+1. **Introducción** (10 min): Recordá qué es el cambio climático y sus causas. ¿Cómo contribuyen nuestras actividades al aumento de la temperatura?
+2. **Expedición** (35 min): Visiten los distintos destinos. Pueden recorrerlos todos juntos o asignar un destino a cada grupo para que lo presente al resto.
+3. **Debate** (15 min): ¡Fomentá la discusión!
 
 ## Cierre
-- ¿Qué otras consecuencias podrían traer las sequías en el Amazonas a las personas?
-- ¿Por qué podemos decir que todos tenemos que hacer mejores elecciones para un planeta vivo?
-- ¿Cómo se relacionan la protección del medio ambiente y la seguridad del agua?
+- ¿Qué fue lo más interesante que aprendiste?
+- ¿Sabías que el cambio climático provoca tantos cambios relacionados con el agua?
+- ¿Qué podés hacer para ayudar a frenar el calentamiento global?
 
 ## Texto original completo de la actividad
 
@@ -213,51 +176,53 @@ En 2009, el World Wildlife Fund identificó la perspectiva de sequías extremas 
 
 **Level:** 1 2 3
 
-**Aim:** To explore how climate change affects the availability of water around the world.
+**Aim:** To explore the effects of climate change and its relation to water.
 
-**Materials:** Notebooks, pencils, copies of the text box.
+**Materials:** Computer with internet access.
 
-**Background:** Average global surface temperatures were 0.8°C warmer during the first decade of the 21st century than during the first decade of the 20th century, and the most pronounced warming has been over the past 30 years. The actual global warming trend is rising atmospheric concentrations of greenhouse gases, especially carbon dioxide CO₂ from fossil fuel use. Additional lesser amounts of greenhouse gases have come from deforestation and from other land use and land cover changes. Emissions of CO₂ from fossil fuel use have been rising since the Industrial Revolution (i.e. since the mid-1700s); and by the 1950s, the atmospheric concentration of CO₂ had risen from pre-industrial levels of 284 parts-per-million (ppm) to 300ppm - the highest level in at least 800,000 years. By 2010, emissions of CO₂ from fossil fuels had risen to the highest level in history: 9.1 billion tonnes of carbon, and atmospheric concentrations followed suit, reaching 388.5 ppm that year.
+**Time:** One hour.
 
-The rising global temperatures and atmospheric CO₂ concentrations will bring dangerously disruptive changes to climate. Increases in the frequency and severity of floods and droughts are already affecting our world. Experts have described an even worse scenario as they believe that the resilience of many ecosystems (their ability to adapt naturally) is likely to be exceeded by an unprecedented combination of change in climate, associated disturbances (e.g. flooding, drought, wildfire, insects, ocean acidification) and other global change drivers (especially land-use change, pollution and over-exploitation of resources), if greenhouse gas emissions and other changes continue at or above the current rates.
+**Background:** The Earth's climate is changing, but in ways that you can't easily see. The Earth is getting warmer because people are adding heat-trapping gases to the atmosphere, mainly by burning fossil fuels. These gases are called greenhouse gases. Rising global temperatures lead to other changes around the world, such as stronger hurricanes, melting glaciers, and the loss of wildlife habitats. That's because the Earth's air, water, and land are all related to one another and to the climate. This means a change in one place can lead to other changes somewhere else. For example, when air temperatures rise, the oceans absorb more heat from the atmosphere and become warmer. Warmer oceans, in turn, can cause stronger storms. The Earth's climate has changed before, but this time it is different. People are causing these changes, which are bigger and happening faster than any climate changes that modern society has ever seen before.
 
 **How to do it:**
-1. Start by reminding your group what climate change is and how it is affecting our environment and its people due to the increase of extreme weather events.
-2. Have the participants read the text box about Extreme Droughts in the Amazon of the World Wildlife Fund Living Planet Report 2012, which will give the participants a clear idea about the consequences of climate change and how it is related to water.
-3. Next, encourage a group discussion so the participants can obtain more ideas and opinions about the topic.
-4. Explain that, as homework, the participants will have to write an essay based to the following statement: "The main impacts of climate change on humans and the environment occur through water."
-5. In the next meeting, ask each participant to present a summary of the main ideas he or she included in his or her essay.
+1. Start by reminding your class about climate change and it causes. How do our activities contribute to the rise in global temperature?
+2. Explain to your group that they will go on a Climate Change Expedition that will help them to learn about the different effects of climate change, which are already affecting our world and its inhabitants. You will be using the United States Environmental Protection Agency, A Student's Guide to Climate Change web page:
+   - Climate Change Expedition! www.epa.gov/climatechange/students/expeditions/tropical/index.html
+
+   During the trip you will be visiting different places, so you can visit all the places together or you can assign a group to each stop and have them make a small presentation for the rest of the participants.
+3. Encourage discussion!
 
 **Discussion:**
-- What other consequences might the droughts in the Amazon bring to people?
-- Why can we say that we all have to make better choices for a living planet?
-- How are the protection of the environment and water security related?
+- What is the most interesting thing you learned?
+- Did you know climate change was provoking so many changes, especially related to water?
+- What are some things you can do to help prevent global warming?
 
 **Versión en español:**
 
-**Título:** Expedición al Cambio Climático
+**Título:** Expedición al cambio climático
 
 **Niveles:** 1, 2, 3
 
-**Objetivo:** Explorar cómo el cambio climático afecta la disponibilidad de agua en todo el mundo.
+**Objetivo:** Explorar los efectos del cambio climático y su relación con el agua.
 
-**Materiales:** Cuaderno, lápices, copias del texto.
+**Materiales:** Computadora con acceso a internet.
 
-**Información previa:** Las temperaturas globales promedio fueron 0.8°C más cálidas durante la primera década del siglo XXI que durante la primera década del siglo XX, y el calentamiento más pronunciado ha ocurrido en los últimos 30 años. La tendencia real del calentamiento global es el aumento de las concentraciones atmosféricas de gases de efecto invernadero, especialmente dióxido de carbono CO₂ del uso de combustibles fósiles. Cantidades adicionales menores de gases de efecto invernadero han provenido de la deforestación y de otros cambios en el uso de la tierra y la cobertura del suelo. Las emisiones de CO₂ por el uso de combustibles fósiles han aumentado desde la Revolución Industrial (es decir, desde mediados del siglo XVIII); y en la década de 1950, la concentración atmosférica de CO₂ había aumentado de niveles preindustriales de 284 partes por millón (ppm) a 300 ppm - el nivel más alto en al menos 800,000 años. Para 2010, las emisiones de CO₂ de combustibles fósiles habían aumentado al nivel más alto de la historia: 9.1 mil millones de toneladas de carbono, y las concentraciones atmosféricas siguieron su ejemplo, alcanzando 388.5 ppm ese año.
+**Tiempo:** Una hora.
 
-El aumento de las temperaturas globales y las concentraciones atmosféricas de CO₂ traerán cambios peligrosamente disruptivos al clima. Los aumentos en la frecuencia y severidad de inundaciones y sequías ya están afectando a nuestro mundo. Los expertos han descrito un escenario aún peor, ya que creen que la resiliencia de muchos ecosistemas (su capacidad de adaptarse naturalmente) es probable que sea superada por una combinación sin precedentes de cambio climático, perturbaciones asociadas (por ejemplo, inundaciones, sequías, incendios forestales, insectos, acidificación de los océanos) y otros factores de cambio global (especialmente el cambio de uso de la tierra, la contaminación y la sobreexplotación de recursos), si las emisiones de gases de efecto invernadero y otros cambios continúan a las tasas actuales o superiores.
+**Información previa:** El clima de la Tierra está cambiando, pero de formas que no se ven fácilmente. La Tierra se calienta porque las personas agregan a la atmósfera gases que atrapan el calor, principalmente al quemar combustibles fósiles. Estos gases se llaman gases de efecto invernadero. El aumento de las temperaturas globales provoca otros cambios en el mundo, como huracanes más fuertes, glaciares que se derriten y pérdida de hábitats de la vida silvestre. Esto sucede porque el aire, el agua y la tierra están relacionados entre sí y con el clima, así que un cambio en un lugar puede provocar cambios en otro. Por ejemplo, cuando sube la temperatura del aire, los océanos absorben más calor de la atmósfera y se calientan; los océanos más cálidos, a su vez, pueden causar tormentas más fuertes. El clima de la Tierra ya cambió antes, pero esta vez es diferente: las personas estamos causando estos cambios, que son mayores y más rápidos que cualquier cambio climático que la sociedad moderna haya visto.
 
 **Desarrollo:**
-1. Comienza recordando a tu grupo qué es el cambio climático y cómo está afectando a nuestro medio ambiente y a sus personas debido al aumento de eventos climáticos extremos.
-2. Pide a los participantes que lean el texto sobre Sequías Extremas en el Amazonas del Informe Planeta Vivo 2012 del World Wildlife Fund, que dará a los participantes una idea clara sobre las consecuencias del cambio climático y cómo se relaciona con el agua.
-3. Luego, anima una discusión grupal para que los participantes obtengan más ideas y opiniones sobre el tema.
-4. Explica que, como tarea, los participantes escribirán un ensayo basado en la siguiente afirmación: "Los principales impactos del cambio climático en los humanos y el medio ambiente ocurren a través del agua."
-5. En la próxima reunión, pide a cada participante que presente un resumen de las ideas principales que incluyó en su ensayo.
+1. Empieza recordando a tu clase qué es el cambio climático y sus causas. ¿Cómo contribuyen nuestras actividades al aumento de la temperatura global?
+2. Explica que harán una Expedición al Cambio Climático para conocer los distintos efectos del cambio climático que ya están afectando al mundo y a sus habitantes. Usarán la página "A Student's Guide to Climate Change" de la Agencia de Protección Ambiental de Estados Unidos:
+   - Climate Change Expedition! www.epa.gov/climatechange/students/expeditions/tropical/index.html
+
+   Durante el viaje visitarán distintos lugares: pueden recorrerlos todos juntos o asignar un grupo a cada parada para que haga una pequeña presentación al resto.
+3. ¡Fomenta la discusión!
 
 **Discusión:**
-- ¿Qué otras consecuencias podrían traer las sequías en el Amazonas a las personas?
-- ¿Por qué podemos decir que todos tenemos que hacer mejores elecciones para un planeta vivo?
-- ¿Cómo se relacionan la protección del medio ambiente y la seguridad del agua?
+- ¿Qué fue lo más interesante que aprendiste?
+- ¿Sabías que el cambio climático provoca tantos cambios, sobre todo relacionados con el agua?
+- ¿Qué cosas puedes hacer para ayudar a prevenir el calentamiento global?
 
 ---
 **Citación requerida / Required citation:**

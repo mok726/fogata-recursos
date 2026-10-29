@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Inventá un deporte y jugalo en el bosque. ¿Cómo ayuda el medio ambiente del b
 - ¿Qué deporte inventaste y cómo usó el bosque?
 - ¿Cómo influyó el medio ambiente del bosque en tu deporte?
 - ¿Qué aprendiste sobre la creatividad y el trabajo en equipo?
+
+---
+## Texto original completo de la actividad
+
+**C.07 TU DEPORTE** Inventa un deporte y juégalo en el bosque. ¿Cómo ayuda el medio ambiente del bosque a tu deporte?
+
+niveles 
 
 ---

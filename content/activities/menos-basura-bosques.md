@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,5 +191,12 @@ Visitá un bosque de tu área y buscá basura y otros tipos de desechos. Pensá 
 - ¿Qué tipos de basura encontraste y cuáles te sorprendieron más?
 - ¿Cómo podemos reducir la cantidad de basura que termina en los bosques?
 - ¿Qué compromiso adquieres para ayudar a mantener limpios los espacios naturales?
+
+---
+## Texto original completo de la actividad
+
+**E.03 ¡MENOS BASURA!** Desafortunadamente, algunas veces la basura pasa a formar parte del paisaje forestal. Visita un bosque de tu área y busca basura y otros tipos de desechos. Es probable que te sorprenda cómo la naturaleza descompone la basura: esta descompone vasos de papel para tomar café, musgos y pastos que crecen en un viejo y oxidado automóvil. Piensa en cómo puedes deshacerte de la basura y ayudar a prevenir que se tire más basura en los bosques. Comparte tus ideas con tu familia y tus amigos. Recoge la basura cuidadosamente y deshazte de ella apropiadamente, en un bote de basura, por ejemplo. ¡Usa guantes y prendas de protección si es apropiado!
+
+niveles 3 2 1
 
 ---

@@ -82,7 +82,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -204,17 +204,21 @@ Cuando llueve, parte del agua se filtra en el suelo y se mueve a través de los 
 - ¿Qué tan importante es el agua subterránea para los seres humanos?
 - ¿Cómo podemos proteger el agua subterránea?
 
+> **Opción:** si hay un acuífero importante en tu región, preséntenlo como ejemplo real. En América del Sur, por ejemplo, el **Acuífero Guaraní**, compartido por Argentina, Brasil, Paraguay y Uruguay, es una de las mayores reservas de agua subterránea del mundo.
+
 ## Texto original completo de la actividad
 
 **English version:**
 
-**Title:** Discover Groundwater
+**Title:** Groundwater
 
 **Level:** 1 2 3
 
-**Aim:** To learn about groundwater and how water moves through soil.
+**Aim:** To understand what groundwater is and why it is important.
 
-**Materials:** 2 clear cups, gravel, sand, water, spray nozzle with tube, nylon stocking, rubber band, clear salad bowl, blue food colouring (optional).
+**Materials:** Three clear plastic cups, pea-sized un-coloured aquarium gravel, sand, water bottle spray nozzle, pieces of nylon stocking or tight, pitcher, clear salad bowl, light-blue food colouring, water.
+
+**Time:** One hour.
 
 **Time:** 45 minutes.
 

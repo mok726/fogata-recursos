@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Escribí un reporte sobre lo que el bosque significa para vos y para tu comunida
 - ¿Qué aprendiste sobre la importancia de los bosques en tu vida?
 - ¿Cómo te sentirías si el bosque desapareciera?
 - ¿Qué compromiso adquieres para cuidar los bosques?
+
+---
+## Texto original completo de la actividad
+
+**D.06 LOS BOSQUES Y TÚ** ¿Vives cerca de un bosque? ¿Qué tan importante es el papel que juega este bosque en tu vida? ¿Cómo te sentirías si el bosque desapareciese? Escribe un reporte sobre aquello que el bosque significa para ti y para tu comunidad. Si no vives cerca de un bosque, escribe por qué te gustaría tener un bosque cerca de ti y cómo afectaría tu vida. Lee tu trabajo en voz alta para las demás personas de tu grupo.
+
+niveles 3 2 1
 
 ---

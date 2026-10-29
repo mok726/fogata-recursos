@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -190,5 +190,12 @@ Visitá un bosque local en al menos dos estaciones diferentes. Registrá tus obs
 - ¿Qué cambios observaste entre estaciones?
 - ¿Cómo se adaptan los animales y plantas a las estaciones?
 - ¿Qué compromiso adquieres para observar la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**A.10 UN BOSQUE PARA TODAS LAS ESTACIONES** Elige un sitio de un bosque local. Visítalo al menos en dos estaciones diferentes. Registra aquello que ves, hueles, escuchas y sientes. ¿Cómo está el tiempo? ¿Qué están haciendo los animales y las personas en el bosque? ¿Las plantas están floreciendo? Compara tus observaciones en cada una de las estaciones. Comparte tus hallazgos con tu grupo de forma creativa, como un collage de fotos, un video corto o una serie de notas de diario.
+
+niveles 3 2 1
 
 ---

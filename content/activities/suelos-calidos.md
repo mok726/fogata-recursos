@@ -23,10 +23,11 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-15 años"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -71,9 +72,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.ucar.edu/learn/1_1_2_5t.htm"
-    caption: "Instrucciones detalladas del experimento"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -82,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +173,8 @@ Algunas partes del mundo se calientan más rápidamente que otras debido a los d
 3. Colocá un termómetro en cada molde.
 4. Buscá un área soleada o conseguí una lámpara fuerte.
 
+> **Nota para el educador:** la página de UCAR que cita el original ya no existe; el experimento se puede hacer igual con las instrucciones de la actividad.
+
 ## Desarrollo
 1. Colocá los moldes bajo una lámpara fuerte o en la luz del Sol.
 2. Registrá las temperaturas cada minuto durante diez minutos.
@@ -190,6 +190,6 @@ Algunas partes del mundo se calientan más rápidamente que otras debido a los d
 ## Texto original completo de la actividad
 A.13 SUELOS CÁLIDOS. Algunas partes del mundo se calientan más rápidamente que otras debido a los diferentes tipos de superficies, colores y otros factores. ¿Alguna vez has notado diferentes temperaturas del aire en áreas soleadas versus áreas con sombra? ¿Crees que el agua o la tierra absorben más calor? ¿Cómo crees que el color de las superficies del suelo influye en la cantidad de calor que es absorbido (por ej. hielo, arena y tierra obscura)? Descubre, por medio de un experimento, cómo los suelos de diferentes colores y el agua absorben y retienen el calor. Necesitarás un área soleada o una lámpara fuerte, tres moldes para tarta (o platos), tierra oscura, arena de color claro, agua, tres termómetros y un reloj. Llena los moldes hasta el mismo nivel: uno con tierra, uno con arena y uno con agua. Coloca un termómetro en cada molde. Coloca los moldes o los platos bajo una lámpara fuerte o en la luz del Sol y registra las temperaturas cada minuto durante diez minutos. Luego coloca los moldes en un área con sombra y registra las temperaturas cada minuto durante otros diez minutos. También puedes experimentar con tierra húmeda, tierra seca, restos de césped u otros tipos de cubierta. ¿Cuáles superficies de tu área absorben la mayor cantidad de calor del Sol? Lee más sobre este experimento aquí: www.ucar.edu/learn/1_1_2_5t.htm.
 
-NIVELES: 2
+NIVELES: 2, 3
 
 ---

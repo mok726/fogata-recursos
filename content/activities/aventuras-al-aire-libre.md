@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Investigá actividades recreativas en el bosque. Elegí tres actividades y creá
 - ¿Qué actividades recreativas te gustaron más?
 - ¿Cómo influye el bosque en estas actividades?
 - ¿Qué compromiso adquieres para seguir explorando la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**C.04 AVENTURAS AL AIRE LIBRE** ¿Cuáles son algunas actividades recreativas que puedes hacer en un bosque (por ej. acampar, hacer caminatas, escalar rocas, cocinar, etc.)? Escribe todas tus ideas. Elige tres actividades y crea una guía ilustrada sobre las cosas que debes usar o llevar contigo para desarrollar estas actividades. Lleva a cabo al menos una de estas actividades.
+
+niveles 2 1
 
 ---

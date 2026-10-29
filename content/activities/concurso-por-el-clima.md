@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +171,8 @@ Organizá un concurso para ver quién puede hacer la mayor cantidad de cambios e
 2. Prepará una lista de control para cada participante.
 3. Definí las reglas del concurso.
 4. Prepará un premio para el ganador.
+
+> **Nota para el educador:** la sección "Toma acción" está en la p. 88 de la insignia original: [PDF de la insignia (FAO, en español)](https://www.fao.org/3/i5216s/i5216s.pdf).
 
 ## Desarrollo
 1. Cada participante elige acciones sostenibles para implementar.

@@ -23,12 +23,13 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -77,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +186,6 @@ La próxima vez que tus padres vayan al mercado, acompañalos. Observá si lleva
 ## Texto original completo de la actividad
 E.06 COMPRAS INTELIGENTES. La próxima vez que tus padres vayan al mercado, acompáñalos. a. Observa lo siguiente: (i). Si llevan bolsas de tela/yute; (ii). Qué están comprando. b. Haz una lista de productos: (i). Que ellos podrían haber comprado en contenedores reutilizables; (ii). Que tienen empaques innecesarios; (iii). Que podrían haber sido evitados. c. Explícales cómo pueden ayudar al medio ambiente cuando compran productos en contenedores reutilizables y al evitar empaques innecesarios.
 
-NIVELES: 1, 2
+NIVELES: 1, 2, 3
 
 ---

@@ -23,12 +23,13 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -77,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +187,6 @@ Cuando estés viendo tu show de TV favorito para niños, presta atención a los 
 ## Texto original completo de la actividad
 E.07 OBSERVA LOS ANUNCIOS. Cuando estés viendo tu show de TV favorito para niños, presta atención a los comerciales. Elige un comercial determinado que te esté influenciando a comprar un producto aunque sientas que es innecesario y podrías estar bien sin comprar. Toma en cuenta lo siguiente: a. Cuántas veces el comercial salió al aire durante el programa. b. ¿Lo puedes entender? c. ¿Sentiste que el comercial es imparcial, veraz y preciso? d. ¿Vas a comprar el producto porque lo dice la publicidad o porque tú crees que es bueno? e. ¿Tus padres están en contra de comprar el producto? ¿Por qué? f. Compara tus notas con tus amigos. En general, ¿creen que los comerciales deberían ser prohibidos durante los programas para niños?
 
-NIVELES: 1, 2
+NIVELES: 1, 2, 3
 
 ---

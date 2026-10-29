@@ -12,7 +12,6 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-baile-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -59,7 +58,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/019/i3225s/i3225s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"

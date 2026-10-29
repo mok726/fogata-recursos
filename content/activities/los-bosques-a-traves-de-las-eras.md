@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +172,8 @@ Investigá plantas forestales de un período histórico (Jurásico, Cretáceo, e
 2. Investigá plantas forestales que vivieron en ese tiempo.
 3. Prepará material para comparar con plantas modernas.
 
+> **Nota para el educador:** en Argentina, por ejemplo, pueden investigar los bosques petrificados de Jaramillo (Santa Cruz) y Sarmiento (Chubut).
+
 ## Desarrollo
 1. **Investigación** (20 min): Investigá plantas del período elegido.
 2. **Análisis** (15 min): Compará con plantas modernas (tamaño, características, diversidad).
@@ -182,5 +184,12 @@ Investigá plantas forestales de un período histórico (Jurásico, Cretáceo, e
 - ¿Qué diferencias encontraste entre plantas antiguas y modernas?
 - ¿Cómo han cambiado los bosques a través del tiempo?
 - ¿Qué compromiso adquieres para aprender más sobre la historia de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**A.24 LOS BOSQUES A TRAVÉS DE LAS ERAS** Muchos factores diferentes determinan qué tipo de especies sobreviven y prosperan en un bosque. (Los tipos y la cantidad relativa de gases en la atmósfera es uno de esos factores). Elige un período de la historia, como el período Jurásico o Cretáceo, y aprende sobre algunas de las plantas forestales que vivieron en ese tiempo. ¿Estas plantas poseen familiares modernos que viven actualmente? ¿Son más grandes o más pequeños? ¿Tienen características diferentes? ¿La variedad dentro de las familias vegetales (como la cola de caballo) era mayor en ese entonces o ahora?
+
+niveles 3 2
 
 ---

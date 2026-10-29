@@ -22,10 +22,8 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "11-15 años"
 age_group:
-  - castores
-  - manada
   - scouts
   - caminantes
 
@@ -67,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +182,12 @@ Investigá un animal del bosque de tu área y dónde vive en diferentes épocas 
 - ¿Qué aprendiste sobre los movimientos estacionales del animal?
 - ¿Cómo se adapta el animal a diferentes hábitats?
 - ¿Qué compromiso adquieres para proteger su hábitat?
+
+---
+## Texto original completo de la actividad
+
+**A.20 EN MOVIMIENTO** Algunos animales del bosque viven en diferentes partes del bosque en diferentes épocas de sus vidas. Por ejemplo, es probable que una serpiente en un bosque templado salga de su cascarón y pase los inviernos en una cueva y que pase los cálidos meses de primavera y verano en el suelo del bosque y arriba en los árboles. Elije un animal del bosque de tu área. Investiga en qué lugar del bosque vive en diferentes épocas del año. Haz un calendario anual y dibuja los diferentes lugares donde es probable que encuentres al animal en cada mes. Muestra tu calendario a tu grupo.
+
+niveles 2
 
 ---

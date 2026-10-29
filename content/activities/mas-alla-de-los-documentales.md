@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -194,5 +194,12 @@ Con tu grupo, mira un documental sobre un bosque. Después, discutan sobre las c
 - ¿Qué aprendiste sobre los bosques que no sabías antes?
 - ¿Cómo podés aplicar lo aprendido en tu vida cotidiana?
 - ¿Qué compromiso adquieres para actuar en favor de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**E.06 MÁS ALLÁ DE LOS DOCUMENTALES** Con tu grupo, mira un documental sobre un bosque. Después, discutan sobre las cuestiones que el video presenta. ¿A quién representan los puntos de vista que se presentan en el video? ¿A quién no representan? ¿Cuáles son los mensajes más importantes? ¿Qué acciones se recomiendan? Y lo más importante: ¿qué hará tu grupo para seguir estas recomendaciones? Hagan un plan de acción y luego llévenlo a cabo.
+
+niveles 3 2 1
 
 ---

@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,5 +182,12 @@ Mantené un diario en el cual monitorees tus hábitos de cada día y sus potenci
 - ¿Qué aprendiste sobre tus hábitos de consumo y su impacto en los bosques?
 - ¿Qué cambios podés implementar en tu vida diaria?
 - ¿Cómo podés compartir este aprendizaje con tu familia y amigos?
+
+---
+## Texto original completo de la actividad
+
+**E.12 CONFESIONES DE LOS CONSUMIDORES** Mantén un diario en el cual monitorees tus hábitos de cada día y sus potenciales impactos sobre los bosques. Por ejemplo, ¿estás consumiendo más energía y carne de lo necesario? ¿Compras madera y productos forestales no madereros sólo de empresas responsables? Después de un mes, reúnanse en grupo y comparen sus notas. Discutan sobre cómo pueden mejorar sus hábitos de consumo.
+
+niveles 3 2
 
 ---

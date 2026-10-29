@@ -84,7 +84,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -209,6 +209,8 @@ Asegurate de devolver todo a su lugar. Bajá suavemente los recipientes al agua 
 - ¿Qué relaciones pudiste identificar entre los elementos vivos y no vivos?
 - ¿Qué organismos dependen del agua para sobrevivir?
 - ¿Qué tan importante es mantener un ambiente saludable y limpio? ¿Quién es responsable de esto?
+
+> **Nota de seguridad:** siempre con supervisión adulta. Nadie se mete al agua; se trabaja desde la orilla, en un lugar firme y sin barranca. Lavarse las manos al terminar y no tocarse la boca ni los ojos mientras se manipula agua del estanque.
 
 ## Texto original completo de la actividad
 

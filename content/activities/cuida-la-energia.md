@@ -69,9 +69,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.energystar.gov/index.cfm?c=kids.kids_index"
-    caption: "ENERGY STAR para niños"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -80,7 +77,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +168,8 @@ Mantené un diario de todas las maneras en que se usa la energía diariamente en
 1. Prepará un diario para registrar observaciones.
 2. Revisá los consejos para ahorrar energía.
 3. Explicá la actividad al grupo.
+
+> **Nota para el educador:** la sección para chicos de Energy Star que cita el original ya no existe. Busquen guías de ahorro de energía de la autoridad energética de su país.
 
 ## Desarrollo
 1. Observá todas las maneras en que se usa la energía en tu hogar.

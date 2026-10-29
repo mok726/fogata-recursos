@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ Talla una escultura en un pedazo de madera usando como inspiración un desastre.
 2. Reuní la madera (recuperada de desastres, de fuentes sostenibles o de la costa).
 3. Prepará las herramientas de tallado y asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** al tallar, corten siempre hacia afuera del cuerpo, con guante anticorte y supervisión de un adulto.
+
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé sobre el desastre elegido y cómo afectó a las personas y los bosques.
 2. **Diseño** (15 min): Diseñá la escultura que vas a tallar.
@@ -187,5 +189,12 @@ Talla una escultura en un pedazo de madera usando como inspiración un desastre.
 - ¿Qué aprendiste sobre los desastres naturales y su impacto?
 - ¿Cómo puede el arte ayudar a las personas a lidiar con la tragedia?
 - ¿Qué compromiso adquieres para apoyar a las comunidades afectadas por desastres?
+
+---
+## Texto original completo de la actividad
+
+**C.14 ESCULPIR UN DESASTRE** Talla una escultura en un pedazo de madera usando como inspiración un desastre. Cuando una amenaza natural, como una inundación, un tifón, un huracán, un ciclón (vientos espiralados) y un terremoto afecta severamente a las personas, a sus hogares y a sus medios de subsistencia, el evento se denomina un ‘desastre’. Para lidiar con la tragedia y la pérdida, las personas algunas veces crean esculturas y obras de arte con ‘madera recuperada’ (de los árboles que fueron arrancados). Si vives en un área afectada por un desastre, trata de usar esta madera para tu escultura. Si no, usa madera procedente de fuentes sostenibles. Si vives cerca del mar, también podrías usar la madera que el mar ha arrastrado hacia la costa.
+
+niveles 3 2
 
 ---

@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Investigá una parcela de vegetación de 1m² en el bosque. Contá plantas, iden
 - ¿Qué similitudes y diferencias encontraste entre parcelas?
 - ¿Cómo ayuda este método a los científicos?
 - ¿Qué aprendiste sobre la vegetación del bosque?
+
+---
+## Texto original completo de la actividad
+
+**A.22 PARCELAS DE VEGETACIÓN** En grupos de dos o tres, investiguen una parcela de vegetación. Este es un método utilizado por los científicos para hacer un muestreo de la vegetación y de la tierra de diferentes paisajes. Para hacer esto, marquen un cuadrado de un metro por un metro en el suelo forestal. Cuenten el número de plantas en su parcela. ¿Qué especies son? ¿Qué tan grandes o pequeñas son? ¿Hay otras cosas en su parcela, como rocas, insectos o basura? Hagan un dibujo a escala de su parcela (por ej. si toman una escala de 1:10, su parcela de 1 m² (100 cm²) en el suelo se convertirá en una parcela de 10 cm² en su diagrama). Comparen sus resultados con los resultados de otros equipos. ¿Qué similitudes y qué diferencias tienen? Si es posible, inviten a un botanista (un especialista en plantas) para que acompañe a su grupo y les ayude a identificar las diferentes especies de plantas.
+
+niveles 3 2
 
 ---

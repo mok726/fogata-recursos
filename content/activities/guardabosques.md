@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgo
 2. Prepará una lista de preguntas sobre su trabajo.
 3. Conseguí equipo para registrar la entrevista.
 
+> **Nota para el educador:** en Argentina, por ejemplo, pueden contactar a los guardaparques de la Administración de Parques Nacionales.
+
 ## Desarrollo
 1. **Preparación** (15 min): Prepará preguntas para el guardabosques.
 2. **Entrevista** (20 min): Realizá la entrevista y registrá las respuestas.
@@ -187,5 +189,12 @@ Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgo
 - ¿Qué aprendiste sobre el trabajo de los guardabosques?
 - ¿Cómo ayudan a proteger los bosques?
 - ¿Qué compromiso adquieres para apoyar su trabajo?
+
+---
+## Texto original completo de la actividad
+
+**B.06 GUARDABOSQUES** Haz una entrevista a un guardabosques o guarda parques que trabaje en un área protegida. Prepara una lista de preguntas para descubrir más sobre su trabajo. Por ejemplo, podrías preguntar qué hacen cada día, si sus actividades cambian de estación a estación, a dónde van, cómo ayuda su trabajo a proteger el bosque, sobre los bienes y servicios de los ecosistemas que provee o sobre cómo trabajan con las personas locales. Comparte los hallazgos de tu entrevista con tu grupo.
+
+niveles 3 2 1
 
 ---

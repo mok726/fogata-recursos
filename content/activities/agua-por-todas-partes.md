@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua por Todas Partes"
+title: "Agua, Agua por Todas Partes"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-por-todas-partes/"
@@ -77,7 +77,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -164,7 +164,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Agua por Todas Partes!
+# ¡Agua, Agua por Todas Partes!
 
 ## Resumen
 ¿Has notado que nuestro planeta es azul? ¡Eso es porque el 70 por ciento está cubierto de agua! Sin embargo, del total de agua de la Tierra, el 97.5 por ciento es agua salada y solo el 2.5 por ciento es agua dulce. Además, casi el 70 por ciento de esta agua dulce está congelada en glaciares y casquetes polares; esto significa que menos del 1 por ciento del agua del mundo está disponible para humanos, animales, plantas y todas las demás formas de vida.

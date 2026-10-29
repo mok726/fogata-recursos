@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Compará cómo tres diferentes tipos de bosques se verán afectados por el cambi
 - ¿Qué aprendiste sobre los diferentes tipos de bosques y su relación con el clima?
 - ¿Cómo podés contribuir a combatir el cambio climático?
 - ¿Qué compromiso adquieres para actuar frente al cambio climático?
+
+---
+## Texto original completo de la actividad
+
+**B.08 CAMBIANDO CON EL CLIMA** El cambio climático afecta y también es afectado por los bosques. ¡El funcionamiento y la composición de los bosques puede cambiar debido a cambios en la temperatura de un valor tan bajo como 1 °C! Compara cómo tres diferentes tipos de bosques (por ejemplo, bosques de manglar, de montaña o boreales) se verán afectados por el cambio climático. ¿Cómo puede cada uno de estos influir sobre el cambio climático? Para compartir tus hallazgos, crea un juego de cartas en el cual los jugadores deben emparejar cada tipo de bosque con su relación con el cambio climático.
+
+niveles 3 2
 
 ---

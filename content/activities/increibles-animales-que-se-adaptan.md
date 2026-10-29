@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -80,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,6 +185,6 @@ Diferentes animales han evolucionado durante generaciones para adaptarse al medi
 ## Texto original completo de la actividad
 A.03 INCREÍBLES ANIMALES QUE SE ADAPTAN. Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventa tu propio animal y describe cómo se ha adaptado durante los años para sobrevivir a su medio ambiente. ¿Vive en un lugar frío o caliente? ¿Lluvioso o polvoriento? ¿Qué características particulares ha desarrollado? Haz un dibujo y decora tu clase con tu criatura inventada.
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

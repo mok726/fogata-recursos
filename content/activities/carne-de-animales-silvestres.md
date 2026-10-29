@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,5 +182,12 @@ Encontrá tres países donde las personas coman carne de animales silvestres. In
 - ¿Qué aprendiste sobre el consumo de carne de animales silvestres?
 - ¿Cómo afecta la caza a los bosques y la biodiversidad?
 - ¿Qué compromiso adquieres para contribuir a la conservación de las especies?
+
+---
+## Texto original completo de la actividad
+
+**D.08 CARNE DE ANIMALES SILVESTRES** La carne de animales silvestres (carne silvestre) es una fuente muy importante de proteínas para los hogares rurales (los hogares del campo) en algunas partes del mundo, como África Central. Desafortunadamente, las especies de animales de los cuales se obtiene la carne silvestre están desapareciendo a causa de la sobre-explotación. Encuentra tres países donde las personas coman carne de animales silvestres. ¿Qué especies de animales comen? ¿Cómo se las caza? ¿Cuál es el impacto de la caza de carne de animales silvestres en los bosques? ¿Qué crees que se debería hacer para abordar la ‘crisis de la carne de animales silvestres’? Comparte tus hallazgos con tu grupo.
+
+niveles 3 2
 
 ---

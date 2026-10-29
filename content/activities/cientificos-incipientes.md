@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -76,7 +75,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,6 +181,6 @@ Imaginá que sos un adulto que está estudiando el cambio climático. ¿Qué te 
 ## Texto original completo de la actividad
 A.06 CIENTÍFICOS INCIPIENTES. Imagina que eres un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo y cavando en las profundidades de los lagos para entender cómo ha cambiado el clima de la Tierra durante los años? ¿Tal vez preferirías estar estudiando ciertas plantas y animales para ver cómo estos se verán afectados por el cambio climático? Aprende más sobre aquello que hacen diferentes científicos del clima y decide qué tipo de científico te gustaría ser. Luego haz una lista de puntos que expliquen por qué.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

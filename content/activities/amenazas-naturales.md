@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,5 +179,12 @@ Investigá sobre un desastre en el cual los bosques jugaron un papel importante.
 - ¿Qué aprendiste sobre el rol de los bosques en los desastres naturales?
 - ¿Cómo pueden los bosques proteger a las comunidades?
 - ¿Qué compromiso adquieres para apoyar la conservación de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**B.15 AMENAZAS NATURALES** Cuando una amenaza natural (como un derrumbe, tifón o tsunami) ocurre, los bosques del área pueden influir sobre los efectos de si esta amenaza causa un desastre o no (se convierte en un ‘desastre’ cuando las comunidades son incapaces de responder y enfrentar los efectos de la amenaza). Investiga sobre un desastre en el cual los bosques jugaron un papel importante. ¿Los bosques empeoraron o ayudaron a mejorar los impactos sobre las personas? Presenta tus hallazgos como una nota periodística - en un artículo de periódico, en un blog en línea, en un programa de radio o en un videoclip de televisión.
+
+niveles 3
 
 ---

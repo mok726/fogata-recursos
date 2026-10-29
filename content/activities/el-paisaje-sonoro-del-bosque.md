@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Visitá un bosque y grabá sonidos bióticos (aves, insectos) y abióticos (agua
 - ¿Qué sonidos del bosque te sorprendieron más?
 - ¿Cómo te hizo sentir escuchar el paisaje sonoro?
 - ¿Qué aprendiste sobre la biodiversidad a través de los sonidos?
+
+---
+## Texto original completo de la actividad
+
+**A.23 EL PAISAJE SONORO DEL BOSQUE** Visita un bosque y graba sonidos del bosque. Incluye tanto ruidos bióticos (vivientes), como canciones de aves o insectos gorjeando, como abióticos (novivientes), de agua o aire en movimiento. Tal vez escuches incluso sonidos humanos (como el sonido de tus pasos mientras caminas). Haz una mezcla de todos los sonidos del bosque que grabes. Compártelos con tu grupo. ¿Pueden identificar los sonidos?
+
+niveles 3 2
 
 ---

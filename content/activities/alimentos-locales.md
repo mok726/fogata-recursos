@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -77,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,6 +183,6 @@ Investigá qué tipo de cultivos se producen en tu país, cómo el clima de tu p
 ## Texto original completo de la actividad
 A.10 ALIMENTOS LOCALES. ¿Qué tipo de cultivos se producen en tu país? ¿Cómo afecta el clima de tu país a los cultivos? Visita tu biblioteca local, busca en línea y, si es posible, habla con agricultores locales para obtener tanta información como puedas. Prepara un informe, incluyendo fotos o dibujos y detalles sobre los tipos de cultivo que produce tu país y el rol que el clima juega en todo esto. Si el clima de tu país no es apto para producir cultivos, explica por qué y averigua de dónde vienen tus alimentos. ¿De qué forma es el clima más apto para producir cultivos en ese lugar?
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

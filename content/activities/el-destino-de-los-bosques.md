@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Investigá la cubierta forestal de cada continente y cuánto ha perdido. Creá u
 - ¿Qué patrones observaste en la pérdida de bosques entre continentes?
 - ¿Cómo afecta la pérdida de bosques a la vida en cada continente?
 - ¿Qué compromiso adquieres para contribuir a la conservación de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**D.05 EL DESTINO DE LOS BOSQUES** Divídanse en grupos, cada grupo debe elegir un continente. Investiguen la cantidad de cubierta forestal que cada continente tiene actualmente y cuánta cubierta forestal ha perdido a lo largo de los últimos años. ¿Por qué sucedió esto? ¿Cómo afectó a la vida la pérdida de bosques en ese continente? Creen un póster sobre sus hallazgos y vuelvan a juntarse para que observen todos sus trabajos.
+
+niveles 3 2 1
 
 ---

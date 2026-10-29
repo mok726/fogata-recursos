@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -196,5 +196,12 @@ Organizá una celebración por la Ola Verde en el Día Internacional de la Biodi
 - ¿Qué significa ser parte de una ola verde global?
 - ¿Cómo te sentiste al participar en esta celebración?
 - ¿Cómo podés seguir contribuyendo a la biodiversidad en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**E.08 OLAS VERDES** ¡Organiza una celebración por la Ola Verde en el Día Internacional de la Biodiversidad. La Ola Verde es una campaña mundial que educa a los niños y a los jóvenes sobre la biodiversidad. Su actividad principal se centra en celebraciones locales para plantar árboles, las cuales se llevan a cabo cada año a las 10 am, hora local, en el Día Internacional de la Diversidad Biológica (siempre el 22 de mayo). En conjunto, todas estas celebraciones crean una ‘ola verde’ a través del planeta, la cual comienza en el lejano oriente y viaja hacia el occidente. No olvides inscribirte en http://greenwave.cbd.int/es/node/2.
+
+niveles 3 2 1
 
 ---

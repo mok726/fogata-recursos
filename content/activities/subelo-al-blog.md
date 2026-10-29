@@ -77,7 +77,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -168,6 +168,8 @@ Creen un blog de su grupo sobre el cambio climático. Pueden escribir sobre la f
 1. Creá un blog en una plataforma gratuita.
 2. Reuní contenido para las primeras publicaciones.
 3. Organizá los roles y tareas.
+
+> **Nota de seguridad:** al publicar en internet, no pongan fotos de caras, nombres completos, colegio ni ubicación de los menores, y pidan autorización a las familias. Moderen los comentarios.
 
 ## Desarrollo
 1. Escribí sobre las causas del cambio climático.

@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -183,6 +181,6 @@ Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para
 ## Texto original completo de la actividad
 B.06 AGUA INVISIBLE. Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para preparar una sopa. Pero, ¿cuánta agua has usado hoy que no puedes ver? Prepara un cartel donde incluyas los nombres de todas las personas de tu grupo o clase. Por cada litro de agua que haya sido usado por cada persona ese día, entrega a cada una un pequeño adhesivo para pegar en el cartel. Por ejemplo, podrías preguntar "¿quién está usando una camiseta?: necesitas agua para cultivar el algodón, agua para el camión que lo llevó a la fábrica, agua en la fábrica para producir la camiseta y luego agua para el camión que lleva la camiseta al almacén. Y, ¿alguna camiseta no es nueva? Deben añadir un adhesivo extra por lavarla". Con tu profesor o dirigente, piensen en otros ejemplos donde los niños hayan usado 'agua invisible'. ¿Cómo se ve el cartel al final de la actividad? Investiguen algunos datos sobre cuánta agua se requiere para producir diferentes cosas, como un auto, un libro o una hamburguesa y compartan la información en grupo. ¡Todos estarán muy sorprendidos!
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

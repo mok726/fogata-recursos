@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,5 +191,12 @@ Durante una caminata por el bosque, dibuja cinco tipos diferentes de vegetación
 - ¿Qué tipos de vegetación encontraste?
 - ¿Qué rasgos únicos observaste en cada uno?
 - ¿Qué compromiso adquieres para seguir observando la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**A.12 VEGETACIÓN ÚNICA** La vegetación del bosque (plantas y árboles) puede ser muy diversa. Algunos tipos de vegetación son altos, algunos son bajos, algunos son espinosos, algunos tienen flores brillantes, etc. Durante una caminata por el bosque, dibuja cinco tipos diferentes de vegetación. Asegúrate de señalar los rasgos únicos de cada uno. Si es posible, busca los nombres comunes y los nombres científicos de cada especie.
+
+niveles 3 2 1
 
 ---

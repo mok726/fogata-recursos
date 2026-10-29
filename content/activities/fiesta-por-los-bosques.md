@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -189,5 +189,12 @@ Planea y/o participa en una celebración por los bosques, con juegos, música, d
 - ¿Qué aprendiste sobre los bosques mientras organizabas y disfrutabas de esta celebración?
 - ¿Cómo podemos seguir celebrando y protegiendo los bosques en nuestra vida cotidiana?
 - ¿Qué fue lo que más te gustó de compartir esta experiencia con tu familia y amigos?
+
+---
+## Texto original completo de la actividad
+
+**E.01 FIESTA POR LOS BOSQUES** Planea y/o participa en una celebración por los bosques, con juegos, música, deportes, entretenimiento, alimentos y otras cosas divertidas. Invita a tu familia y a tus amigos a que se unan a las festividades. ¡También puedes combinar esta actividad con exhibiciones, presentaciones o representaciones que has preparado a lo largo de esta insignia! Si tu país tiene un día nacional de los bosques, puedes realizar tu evento ese día. El Día Internacional de los Bosques es el 21 de marzo de cada año y el Día Internacional de la Diversidad Biológica es el 22 de mayo.
+
+niveles 3 2 1
 
 ---

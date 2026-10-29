@@ -14,7 +14,6 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/no-madereros-y-no-son-buenos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -67,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +183,12 @@ Investigá productos forestales no madereros (PFNM) y su producción sostenible.
 - ¿Qué aprendiste sobre los productos forestales no madereros en tu hogar?
 - ¿Cómo podés cambiar tus hábitos de consumo para apoyar la sostenibilidad?
 - ¿Qué compromiso adquieres para consumir de manera más responsable?
+
+---
+## Texto original completo de la actividad
+
+**D.11 NO MADEREROS Y NO SON BUENOS** Algunos productos forestales no madereros (PFNM) son producidos de formas que pueden ser dañinas para el medio ambiente. Por ejemplo, como aprendimos anteriormente, grandes áreas de bosque son con frecuencia despejadas para producir aceite de palma, el cual genera ganancias. Investiga tu hogar para descubrir cuántos de los objetos que usas contienen aceite de palma. ¿Fueron estos producidos sosteniblemente? Si no es así, ¿podrías cambiarte a una compañía comprometida con la agricultura sostenible o tal vez cambiarte a productos diferentes? Haz la misma investigación para otros PFNM en tu hogar.
+
+niveles 3 2
 
 ---

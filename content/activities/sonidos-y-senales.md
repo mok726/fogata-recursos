@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,5 +181,12 @@ Realizá una misión de observación temprano en la mañana en un bosque. Escuch
 - ¿Qué sonidos de animales escuchaste?
 - ¿Qué huellas y pistas encontraste?
 - ¿Qué aprendiste sobre los animales del bosque?
+
+---
+## Texto original completo de la actividad
+
+**A.03 SONIDOS Y SEÑALES** Muy temprano en la mañana, conduce una misión de observación en un bosque. Escucha los sonidos de los animales. Trata de imitar los sonidos para ver si los animales responden. Busca huellas de animales en el piso. ¿Puedes descifrar qué animal dejó el rastro? Intenta encontrar pistas como pelo de animal, plumas y heces (desechos de animales). Observa el hábitat en el que viven.
+
+niveles 1
 
 ---

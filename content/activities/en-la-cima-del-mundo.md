@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,10 @@ Hacé una caminata por el dosel del bosque y observá desde las copas de los ár
 2. Prepará material para dibujo, pintura o cámara.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** si la caminata es en altura (pasarelas, torres o puentes colgantes), usen solo instalaciones habilitadas, con arnés y operador cuando corresponda. No es para castores.
+
+> **Nota para el educador:** hay pocos senderos de dosel en Argentina; por ejemplo, sirven un mirador o las pasarelas del Parque Nacional Iguazú.
+
 ## Desarrollo
 1. **Exploración** (30 min): Caminá por el dosel y observá desde las copas.
 2. **Observación** (15 min): Identificá epífitas, nidos de aves, insectos, etc.
@@ -190,5 +194,12 @@ Hacé una caminata por el dosel del bosque y observá desde las copas de los ár
 - ¿Qué viste desde el dosel que no se ve desde el suelo?
 - ¿Cómo te hizo sentir estar en las copas de los árboles?
 - ¿Qué compromiso adquieres para proteger el dosel forestal?
+
+---
+## Texto original completo de la actividad
+
+**A.14 EN LA CIMA DEL MUNDO** Si esto es posible en tu área, haz una caminata por el dosel del bosque. ¿Qué puedes observar desde las copas de los árboles que no puedes ver fácilmente desde el suelo? Cuando estés nuevamente seguro en el suelo, dibuja, pinta o toma una fotografía de tu vista favorita. No olvides incluir todas las epífitas (‘plantas aéreas’ que crecen en otras plantas), los nidos de aves, los insectos, los monos, etc. que viste. Escribe una pequeña declaración del artista para acompañar a tu obra. Con otros miembros de tu grupo, creen una exhibición de arte e inviten a sus familias y amigos a verla.
+
+niveles 3 2 1
 
 ---

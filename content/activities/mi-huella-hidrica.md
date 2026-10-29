@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -77,7 +79,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -199,7 +201,7 @@ translation_notice:
 
 **Title:** Water Footprint
 
-**Level:** 2 3
+**Level:** 1 2 3
 
 **Aim:** To understand what the water footprint is.
 
@@ -226,7 +228,7 @@ But this approach has limitations, because you may find it difficult to drastica
 
 **Título:** Mi Huella Hídrica
 
-**Niveles:** 2, 3
+**Niveles:** 1 2 3
 
 **Objetivo:** Comprender qué es la huella hídrica.
 
@@ -260,6 +262,6 @@ Esta traducción no fue creada por la Organización de las Naciones Unidas para 
 
 This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

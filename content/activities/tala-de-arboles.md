@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Invitá a alguien que trabaje en la industria de la tala de árboles para que ha
 - ¿Qué aprendiste sobre la industria de la tala y las prácticas sostenibles?
 - ¿Cómo podés identificar productos de madera sostenibles?
 - ¿Qué compromiso adquieres como consumidor?
+
+---
+## Texto original completo de la actividad
+
+**D.03 TALA DE ÁRBOLES** Invita a alguien que trabaje en la industria de la tala de árboles para que hable en tu reunión. Pregúntale sobre aquello que está haciendo su compañía y la industria de la tala para garantizar que los bosques no desaparezcan. ¿Qué pueden hacer los consumidores (las personas que compran productos de madera) para apoyar las prácticas de tala sostenibles (por ej. prácticas de tala que no dañan el medio ambiente a largo plazo)? ¿Cómo puedes saber si un producto de madera no viene de una especie en peligro o de un bosque primario?
+
+niveles 3 2 1
 
 ---

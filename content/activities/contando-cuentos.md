@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,6 +168,8 @@ En la p. 62 de esta insignia aprendiste sobre Omar Faruk, un hombre pobre de Ban
 2. Prepará ejemplos de personas afectadas por el cambio climático.
 3. Organizá los grupos de trabajo.
 
+> **Nota para el educador:** la historia de Omar Faruk está en la p. 62 de la insignia original: [PDF de la insignia (FAO, en español)](https://www.fao.org/3/i5216s/i5216s.pdf).
+
 ## Desarrollo
 1. Inventá tu propia historia sobre una persona o una familia que ha sido afectada por una situación extrema causada por el cambio climático.
 2. Pensá: ¿Qué les pasó y cómo lidiaron con esa situación?
@@ -184,6 +184,6 @@ En la p. 62 de esta insignia aprendiste sobre Omar Faruk, un hombre pobre de Ban
 ## Texto original completo de la actividad
 C.04 CONTANDO CUENTOS. En la p. 62 de esta insignia aprendiste sobre Omar Faruk, un hombre pobre de Bangladesh que tuvo que dejar su hogar y mudarse a la ciudad porque las inundaciones arruinaron sus cultivos. Inventa tu propia historia sobre una persona o una familia que ha sido afectada por una situación extrema que podría haber sido causada por el cambio climático. ¿Qué les pasó y cómo lidiaron con esa situación? ¡Ilustra tu historia con dibujos y compártela con tus padres y otros miembros de tu familia!
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

@@ -4,7 +4,7 @@ title: "Presentando a los Combustibles Fósiles"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentando-a-los-combustibles-fosiles/"
-description: "Actividad creativa para investigar y presentar información sobre diferentes combustibles fósiles."
+description: "En grupos, preparen una presentación sobre un combustible fósil."
 summary: "Presentar información sobre combustibles fósiles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -23,12 +23,13 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
+  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -79,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -164,28 +165,26 @@ rama_rovers:
 # ¡Presentando a los Combustibles Fósiles!
 
 ## Resumen
-Investigá qué son los combustibles fósiles y cómo se utilizan. Elegí uno de los combustibles fósiles (carbón, petróleo o gas natural) para investigar más a fondo.
+En grupos, elijan un combustible fósil (carbón, petróleo, gas natural, etc.) y preparen una presentación lo más completa, colorida e interesante posible para compartir en la próxima reunión.
 
 ## Preparación
-1. Investigá sobre los combustibles fósiles.
-2. Prepará ejemplos visuales o diagramas.
-3. Organizá los grupos de trabajo.
+1. Formen grupos y que cada uno elija un combustible fósil distinto.
+2. Decidan el formato: diapositivas, un cartel o un modelo de papel maché.
+3. Reúnan fuentes de información confiables.
 
 ## Desarrollo
-1. Investigá qué son los combustibles fósiles.
-2. Elegí un tipo para investigar más a fondo: carbón, petróleo o gas natural.
-3. Descubrí cómo se forman, cómo se extraen y para qué se utilizan.
-4. Investigá cómo su uso contribuye al cambio climático.
-5. Prepará una presentación o cartel con tus hallazgos.
+1. **Investigación** (30 min): ¿Cuáles son las ventajas de este combustible? ¿Y las desventajas? ¿Qué tan ampliamente se usa en el mundo?
+2. **Preparación** (30 min o entre reuniones): Armen la presentación, el cartel o el modelo.
+3. **Presentación** (próxima reunión): Cada grupo presenta su trabajo al resto.
 
 ## Cierre
-1. Compartí tu presentación con el grupo.
-2. Discutan: ¿Qué alternativas existen a los combustibles fósiles?
-3. Pregunta final: ¿Cómo podemos reducir nuestra dependencia de los combustibles fósiles?
+- ¿Qué combustible tiene más desventajas para el clima?
+- ¿Qué alternativas existen?
+- ¿Qué fue lo más sorprendente que aprendieron?
 
 ## Texto original completo de la actividad
-B.09 PRESENTANDO A LOS COMBUSTIBLES FÓSILES. [Texto original del PDF - no se encuentra disponible en el extracto]
+B.09 PRESENTANDO A LOS COMBUSTIBLES FÓSILES. Sepárense en grupos y elijan una fuente de combustible fósil por grupo, por ej. carbón, gas natural, etc. En su grupo, preparen una presentación tan minuciosa como puedan sobre su tema. Pueden hacer una presentación con diapositivas, un cartel o incluso un modelo con papel maché. Traten de hacerlo tan colorido e interesante como sea posible. ¿Cuáles son las ventajas de este combustible fósil? ¿Cuáles son las desventajas? ¿Qué tan ampliamente se usa en el mundo? En su próxima reunión, cada grupo deberá presentar su trabajo.
 
-NIVELES: 1, 2
+NIVELES: 1, 2, 3
 
 ---

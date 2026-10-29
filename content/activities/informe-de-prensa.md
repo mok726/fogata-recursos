@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Hacé una entrevista a una persona indígena sobre un desafío que enfrente su p
 - ¿Qué aprendiste sobre los desafíos que enfrentan los pueblos indígenas?
 - ¿Cómo podemos apoyar a los pueblos indígenas en su lucha por sus derechos?
 - ¿Qué compromiso adquieres para respetar y valorar la diversidad cultural?
+
+---
+## Texto original completo de la actividad
+
+**C.18 INFORME DE PRENSA** Haz una entrevista a una persona indígena sobre un importante desafío que esté enfrentando su pueblo con relación al uso de los bosques locales. Escribe un reportaje de periódico o inventa un show de radio en base a tu entrevista. Recuerda pedir la autorización de la persona a la cual le realizaste la entrevista para compartir la información que te dio. También es una buena idea que esta persona revise tu reporte antes de que lo muestres a tu familia y a tus amigos. ¡Si tienes la autorización de esta persona, tal vez incluso desees compartir tu reportaje o show de radio con el periódico o la estación de radio local!
+
+niveles 3 2
 
 ---

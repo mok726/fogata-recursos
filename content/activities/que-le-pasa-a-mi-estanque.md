@@ -81,7 +81,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
+    url: "https://www.fao.org/docrep/018/ax744e/ax744e.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -217,6 +217,8 @@ La calidad del agua jugará un papel importante en cualquier uso que se le dé a
 - ¿Qué determina un estanque exitoso para peces? Da ejemplos específicos.
 - Si has probado una muestra de agua y los niveles de nitratos son demasiado altos, ¿cuál es una posible causa y qué se puede hacer para corregir la situación?
 - ¿Cómo juega un papel la química en las pruebas y corrección del agua del estanque?
+
+> **Nota de seguridad:** usen guantes al recolectar y manipular agua de estanque, y lávense las manos al terminar. Los kits de análisis tienen reactivos químicos: se usan con supervisión adulta, siguiendo las instrucciones del fabricante, y los residuos no se tiran al estanque.
 
 ## Texto original completo de la actividad
 
