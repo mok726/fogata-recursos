@@ -76,7 +76,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +185,8 @@ Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto
 1. Decidí dónde plantar (jardín, balcón, huerto comunitario).
 2. Elegí plantas locales y apropiadas para el clima.
 3. Prepará las herramientas y materiales.
+
+> **Opción:** en Argentina, por ejemplo, el programa ProHuerta del INTA entrega semillas de estación y da capacitación para huertas familiares y escolares.
 
 ## Desarrollo
 1. **Preparación** (20 min): Prepará la tierra y las macetas.

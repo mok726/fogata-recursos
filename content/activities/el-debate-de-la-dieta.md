@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +172,10 @@ Debatí sobre la influencia de los medios de comunicación en los trastornos ali
 1. Investigá sobre la influencia de los medios en la imagen corporal.
 2. Pensá en argumentos a favor y en contra.
 3. Prepará el espacio para el debate.
+
+> **Nota para el educador:** el peso y el cuerpo son temas sensibles. No pidan a nadie que diga o muestre su peso, no permitan chistes sobre el cuerpo de nadie y hablen de hábitos, no de personas. Si sospechan un trastorno alimentario o un problema de salud en alguien del grupo, hablen en privado con su familia y deriven a un profesional.
+>
+> Para el debate, conviene que lo guíe un adulto con formación en el tema (o un profesional invitado).
 
 ## Desarrollo
 1. **Introducción** (10 min): Presentá el tema del debate.

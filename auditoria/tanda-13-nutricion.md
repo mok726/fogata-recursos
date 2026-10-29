@@ -89,3 +89,13 @@
 | recaudar-fondos (E14) | — | Rifas: pueden requerir autorización (lotería provincial). | ok | P3 |
 | redes (E15) | — | "Skype" está discontinuado. Contacto online de menores con desconocidos: supervisión. | ok | P3 |
 | intercambios (E16) | — | — | ok | P3 |
+
+## Estado (2026-10-29)
+
+Aplicado (original `i6590es.pdf` de la carpeta local de Mariano):
+- Se embebe el original de FAO en las 77 actividades. `references.url` pasa a https://www.fao.org/3/I6590es/i6590es.pdf (verificado). La licencia ya decía © FAO 2018.
+- Léxico: títulos "Canten una Canción con Acción" y "La Salida de Compras" (el permalink no cambia); aperitivos → colaciones; piscifactorías → criaderos de peces; camomila → manzanilla; grifo → canilla; cubo de la basura → tacho; Skype → Meet o Zoom. **"Bodegón" queda así** (decisión de Mariano).
+- Temas sensibles: B02, B09, B13, B14, B20. Seguridad: B01, B17, C05, C06 (botulismo), C07, E07, E14, E15.
+- Didáctica: A02, A10 (washdata.org), B08.
+- Ejemplos locales: A12, B07, B15, B18, C09, D07, D12, D19, E05, E11, E13.
+- Pendiente: `duration` vacío (se deja), imágenes en la lista de regeneración, enlaces viejos para el link-check (G17).

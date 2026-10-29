@@ -75,7 +75,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,8 +184,10 @@ Llevá un registro detallado de tu alimentación durante una semana para evaluar
 2. Si tenés smartphone, descarga una aplicación para seguir tu dieta.
 3. Revisá los puntos clave para evaluar tu dieta.
 
+> **Nota para el educador:** si alguien del grupo tiene o tuvo un trastorno alimentario, registrar todo lo que come puede hacerle mal: ofrézcanle otra actividad, sin exponerlo.
+
 ## Desarrollo
-1. **Registro** (durante una semana): Anotá todas las comidas y aperitivos.
+1. **Registro** (durante una semana): Anotá todas las comidas y colaciones.
 2. **Evaluación** (20 min): Al final de la semana, evalúa tu dieta.
 3. **Análisis** (15 min): ¿Seguís una dieta equilibrada? ¿Qué podés mejorar?
 4. **Acción** (15 min): Hablá con tus padres sobre los cambios que deberías hacer.

@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,7 +175,7 @@ rama_rovers:
 Investigá qué pescado podés comprar de manera sostenible y creá una guía de bolsillo.
 
 ## Preparación
-1. Investigá las piscifactorías y pesquerías de tu zona.
+1. Investigá las criaderos de peces y pesquerías de tu zona.
 2. Averiguá cómo se pescan las diferentes especies.
 3. Prepará material para la guía.
 

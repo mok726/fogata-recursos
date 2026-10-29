@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,6 +181,8 @@ Visitá una granja o planta de procesado de alimentos para aprender sobre la pro
 1. Planea una excursión a una granja o planta de procesado.
 2. Prepará preguntas sobre los cultivos, animales y procesos.
 3. Llevá cámara y cuaderno para documentar.
+
+> **Nota para el educador:** coordinen la visita con la planta: suelen pedir cofia, calzado cerrado y no usar anillos ni pulseras, y algunas tienen edad mínima.
 
 ## Desarrollo
 1. **Visita** (45 min): Recorré la granja o planta de procesado.

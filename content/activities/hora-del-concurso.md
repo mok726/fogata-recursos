@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,7 +176,7 @@ Organizá un concurso sobre nutrición en tu colegio con diferentes categorías 
 ## Preparación
 1. Prepará preguntas y respuestas con tu profesor o responsable.
 2. Organizá diferentes categorías para diferentes edades.
-3. Prepará aperitivos saludables como premio.
+3. Prepará colaciones saludables como premio.
 
 ## Desarrollo
 1. **Organización** (15 min): Prepará las categorías y preguntas.

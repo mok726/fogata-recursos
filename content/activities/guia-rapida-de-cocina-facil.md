@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Investigá métodos y tiempos de cocción para diferentes alimentos nutritivos y
 1. Investigá diferentes métodos de cocción (hervir, hornear, asar, guisar, freír).
 2. Prepará una tabla con columnas: alimentos, métodos de cocción y tiempos.
 3. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** con castores y manada no se fríe: el aceite caliente quema. Elijan recetas sin fuego o con horno manejado por un adulto.
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá métodos y tiempos de cocción.

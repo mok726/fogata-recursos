@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,8 @@ Investigá los principales problemas de microorganismos en tu zona y su relació
 1. Investigá los problemas de microorganismos en tu zona.
 2. Averiguá sobre intoxicaciones alimentarias y su relación con el clima.
 3. Prepará una presentación con diapositivas.
+
+> **Opción:** busquen información de la autoridad sanitaria de tu país; en Argentina, por ejemplo, la ANMAT y el Ministerio de Salud, que explican cómo prevenir el síndrome urémico hemolítico (SUH), muy relacionado con la carne picada mal cocida.
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá microorganismos y enfermedades en tu zona.

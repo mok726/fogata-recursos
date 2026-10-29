@@ -32,7 +32,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Hierbas y plantas (menta, camomila, albahaca, tomillo, jengibre, limón, etc.)
+  - Hierbas y plantas (menta, manzanilla, albahaca, tomillo, jengibre, limón, etc.)
   - Agua caliente
   - Recipientes
 tools: []
@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:

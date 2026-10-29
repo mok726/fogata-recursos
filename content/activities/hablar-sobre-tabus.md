@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,8 @@ Investigá alimentos prohibidos en diferentes religiones y culturas, y su impact
 1. Investigá alimentos prohibidos en diferentes religiones y culturas.
 2. Averiguá por qué están prohibidos.
 3. Investigá si causan deficiencias nutricionales.
+
+> **Nota para el educador:** respeten las creencias y prácticas alimentarias de las familias del propio grupo (religiosas, culturales o personales, como el vegetarianismo). El objetivo es conocer y entender, no juzgar.
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá alimentos prohibidos y sus razones.

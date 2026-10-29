@@ -59,7 +59,7 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "www.wssinfo.org"
+  - url: "https://washdata.org"
     caption: "Programa Conjunto de Vigilancia de la OMS y UNICEF"
     icon: "read_more"
 
@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Contá los usos del agua, analizá qué pasaría sin ella e investigá la situac
 1. Contá todas las veces que usás agua en un día.
 2. Formá equipos y elegí una región del mundo para investigar.
 3. Prepará material para la presentación.
+
+> **Nota para el educador:** el sitio wssinfo.org que cita el original hoy es washdata.org (Programa Conjunto OMS/UNICEF de Monitoreo del agua y el saneamiento).
 
 ## Desarrollo
 1. **Conteo** (10 min): Contá los usos del agua en tu día.

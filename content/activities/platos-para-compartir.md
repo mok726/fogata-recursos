@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,6 +180,8 @@ Organizá una comida compartida donde cada persona trae un plato y todos adivina
 2. Pedí a cada participante que prepare un plato.
 3. Invitá a familia y amigos al evento.
 4. Prepará el espacio para la comida.
+
+> **Nota de seguridad:** consulten antes alergias, intolerancias y celiaquía. Pidan que cada plato tenga una tarjeta con sus ingredientes.
 
 ## Desarrollo
 1. **Preparación** (30 min): Cada participante prepara su plato.

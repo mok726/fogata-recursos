@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Organizá una rifa para recaudar fondos para un proyecto de nutrición en tu com
 2. Prepará los boletos para la rifa.
 3. Conseguí premios.
 4. Promocioná el evento.
+
+> **Nota para el educador:** las rifas y sorteos suelen necesitar autorización oficial; en Argentina, por ejemplo, la otorga la lotería de cada provincia. El manejo de dinero con menores sigue las normas de tu organización scout nacional.
 
 ## Desarrollo
 1. **Planificación** (20 min): Organizá la rifa.

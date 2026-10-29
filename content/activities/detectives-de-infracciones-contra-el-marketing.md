@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,6 +178,8 @@ Investigá si se violan las recomendaciones de marketing de alimentos no saludab
 1. Leé las recomendaciones de la OMS sobre marketing de alimentos.
 2. Prepará un cuaderno para tomar notas.
 3. Pensá en lugares donde buscar anuncios (redes sociales, carteles, escuela, etc.).
+
+> **Opción:** averigüen qué dice la ley de tu país sobre la publicidad de alimentos dirigida a chicos; en Argentina, por ejemplo, la Ley 27.642 de Etiquetado Frontal (los sellos negros octogonales "EXCESO EN…"), que limita esa publicidad para productos con sellos.
 
 ## Desarrollo
 1. **Investigación** (30 min): Buscá anuncios de comida basura dirigidos a niños.

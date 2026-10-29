@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,6 +170,8 @@ Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfe
 ## Preparación
 1. Investigá sobre gérmenes y enfermedades infecciosas comunes.
 2. Prepará material para la tabla.
+
+> **Opción:** elijan una enfermedad relevante en tu región; en Argentina, por ejemplo, el dengue, que transmite un mosquito.
 
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé qué son los gérmenes, dónde están y cómo se propagan.

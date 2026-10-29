@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Investigá qué alimentos enriquecidos se producen en tu país y para qué sirve
 1. Investigá qué alimentos enriquecidos existen (vitamina A en leche, yodo en sal, vitaminas B y hierro en harina, etc.).
 2. Prepará una tabla para tus hallazgos.
 3. Reuní ejemplos de alimentos enriquecidos.
+
+> **Opción:** busquen las leyes de enriquecimiento de tu país; en Argentina, por ejemplo, la harina de trigo se enriquece con hierro y vitaminas del grupo B (Ley 25.630) y la sal de mesa es yodada por ley.
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá alimentos enriquecidos en tu país.

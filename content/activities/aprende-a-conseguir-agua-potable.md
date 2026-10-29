@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2018
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i6590e"
+    url: "https://www.fao.org/3/I6590es/i6590es.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,6 +181,8 @@ Aprendé diferentes métodos para potabilizar el agua y hacerla segura para bebe
 1. Investigá cómo potabilizar el agua.
 2. Aprendé métodos para destruir gérmenes (filtración, hervir, exposición solar, cloro).
 3. Accedé a los recursos sugeridos.
+
+> **Nota de seguridad:** practiquen solo métodos seguros, como hervir el agua (al menos un minuto en hervor) o usar lavandina en la dosis que indica la autoridad sanitaria, siempre con un adulto. No tomen agua de métodos experimentales.
 
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé diferentes métodos de potabilización.
