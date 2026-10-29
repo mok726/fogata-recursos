@@ -1081,6 +1081,41 @@ else {
     }
   );
 
+  // Opciones de los filtros de listas del front matter
+  // (skills, scout_values, scout_method): los valores que
+  // existen, con su cantidad, ordenados por nombre. El id es el
+  // slug del nombre, igual que en activity-listing-item.njk.
+  eleventyConfig.addFilter(
+    "fieldOptions",
+    function(activities, field) {
+
+      const slugify = eleventyConfig.getFilter("slugify");
+      const options = new Map();
+
+      for (const a of activities) {
+        for (const v of a.data[field] || []) {
+
+          const name = String(v || "").trim();
+
+          if (!name) {
+            continue;
+          }
+
+          const id = slugify(name);
+          const o = options.get(id) || { id, name, count: 0 };
+
+          o.count++;
+          options.set(id, o);
+
+        }
+      }
+
+      return [...options.values()]
+        .sort((a, b) => a.name.localeCompare(b.name, "es"));
+
+    }
+  );
+
   // Opciones del filtro "Insignia": sólo las que tienen
   // actividades, con su cantidad.
   eleventyConfig.addFilter(
@@ -1155,6 +1190,98 @@ else {
           default:
             return false;
         }
+
+      });
+
+    }
+  );
+
+
+
+  // Tarjetas de los índices (/badges/, /ods/, /edades/,
+  // /competencias/, /valoresScout/, /metodoScout/, /activityType/)
+  // para components/browse-index.njk: url, título, texto, ícono,
+  // cantidad de actividades (con el mismo criterio que la página
+  // de detalle) y una imagen de portada tomada de una de ellas,
+  // sin repetir entre tarjetas mientras se pueda.
+  eleventyConfig.addFilter(
+    "indexCards",
+    function(list, kind, activities, ageGroups, badges) {
+
+      const slugify = eleventyConfig.getFilter("slugify");
+      const activitiesFor = eleventyConfig.getFilter("activitiesFor");
+      const used = new Set();
+
+      const knownBadges = new Set((badges || []).map(b => slugify(String(b.id))));
+
+      const badgeActivities = badge => activities.filter(a => {
+        const own = (a.data.activity_badges || []).map(b => slugify(String(b && b.id ? b.id : b)));
+        if (badge.id === "general") {
+          return own.length === 0 || own.includes("general") || !own.some(b => knownBadges.has(b));
+        }
+        return own.includes(slugify(String(badge.id)));
+      });
+
+      return list.map(entry => {
+
+        let card;
+        let matched;
+
+        switch (kind) {
+          case "badge":
+            matched = badgeActivities(entry);
+            card = {
+              url: "/badges/" + entry.id + "/",
+              title: entry.name,
+              text: entry.description,
+              icon: entry.logo && !entry.generic ? entry.logo : ""
+            };
+            break;
+          case "sdg":
+            matched = activitiesFor(activities, "sdg", entry.id);
+            card = {
+              url: "/ods/" + entry.id + "/",
+              title: "ODS " + entry.id,
+              text: entry.name,
+              icon: "/imagenes/ods/ods-" + entry.id + ".png",
+              square: true
+            };
+            break;
+          case "age":
+            matched = activitiesFor(activities, "age", entry.id, ageGroups);
+            card = {
+              url: "/edades/" + entry.id + "/",
+              title: entry.name,
+              text: entry.agefrom ? "De " + entry.agefrom + " a " + entry.ageto + " años" : "",
+              icon: entry.icon ? eleventyConfig.getFilter("thumb")("/imagenes/ramas/" + entry.icon, "rama") : "",
+              color: entry.color
+            };
+            break;
+          default: {
+            const paths = { skill: "/competencias/", value: "/valoresScout/", method: "/metodoScout/", type: "/activityType/" };
+            matched = activitiesFor(activities, kind, entry.name);
+            card = {
+              url: paths[kind] + entry.id + "/",
+              title: entry.name,
+              text: entry.description || ""
+            };
+          }
+        }
+
+        const withImage = matched.filter(a => a.data.image);
+        const cover =
+          withImage.find(a => !used.has(a.data.image)) ||
+          withImage[0];
+
+        if (cover) {
+          used.add(cover.data.image);
+        }
+
+        return {
+          ...card,
+          count: matched.length,
+          cover: cover ? cover.data.image : ""
+        };
 
       });
 

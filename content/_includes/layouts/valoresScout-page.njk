@@ -9,5 +9,5 @@ fonts:
 {% set heroTitle = scoutValue.name %}
 {% set heroText = scoutValue.description or "" %}
 {% set browserItems = collections.activitiesSorted | activitiesFor("value", scoutValue.name) %}
-{% set fixed = { filter: "otro", label: "Valor scout", text: scoutValue.name } %}
+{% set fixed = { filter: "valor", text: scoutValue.name } %}
 {% include "components/browse-page.njk" %}

@@ -1,52 +1,15 @@
 ---
 layout: layouts/base.njk
 title: Competencias
+description: "Habilidades que se ponen en juego en cada actividad."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<h1>
-  Competencias
-</h1>
-
-<div class="grid">
-
-  {% for skill in allskills %}
-
-    {% set activityCount = 0 %}
-
-    {% for activity in collections.activitiesSorted %}
-
-      {% if activity.data.skills %}
-
-        {% if skill.name in activity.data.skills %}
-          {% set activityCount = activityCount + 1 %}
-        {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    <a href="{{ ('/competencias/' + skill.id + '/') | url }}">
-
-      <div class="card">
-
-        <div class="card-content">
-
-          <h2>
-            {{ skill.name }}
-          </h2>
-
-          <p>
-            {{ activityCount }} actividades
-          </p>
-
-        </div>
-
-      </div>
-
-    </a>
-
-  {% endfor %}
-
-</div>
-
-
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Competencias" %}
+{% set heroText = "Habilidades que se ponen en juego en cada actividad." %}
+{% set cards = allskills | indexCards("skill", collections.activitiesSorted, ageGroups, badges) %}
+{% set symbol = "psychology" %}
+{% include "components/browse-index.njk" %}

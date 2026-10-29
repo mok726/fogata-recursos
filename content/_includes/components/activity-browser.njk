@@ -4,13 +4,19 @@
    - browserItems: las actividades a listar.
    - pageSize (opcional, 24 por defecto).
    - fixed (opcional): { filter, label, text } para el filtro que
-     la página deja fijo. filter es "rama", "tipo", "ods" u "otro"
-     (competencia, valor, método: no tiene filtro propio).
+     la página deja fijo. filter es "rama", "tipo", "ods",
+     "competencia", "valor" o "metodo".
+   Todas las páginas muestran los mismos filtros; el fijo aparece
+   bloqueado. La edad (desde/hasta) sólo se ofrece mientras no
+   haya rama elegida.
    El buscador (#acts-q dentro de .acts-search) lo pone la
    página, en su encabezado. #}
 {% set pageSize = pageSize or 24 %}
 {% set activityTypeOptions = collections.activitiesSorted | activityTypeOptions %}
 {% set badgeOptions = badges | badgeOptions(collections.activitiesSorted) %}
+{% set skillOptions = collections.activitiesSorted | fieldOptions("skills") %}
+{% set valueOptions = collections.activitiesSorted | fieldOptions("scout_values") %}
+{% set methodOptions = collections.activitiesSorted | fieldOptions("scout_method") %}
 
 {% macro fixedSelect(fixed, name, label) %}
   {% if fixed and fixed.filter == name %}
@@ -35,9 +41,14 @@
 
   <div class="acts-filters-grid">
 
-    <label>
-      <span>Edad</span>
-      <select data-filter="edad" data-attr="agespan" data-range>
+    {# Rango de edad del grupo: muestra las actividades cuyo
+       rango "age" cubre todas las edades elegidas. Con rama fija
+       no tiene sentido: la rama ya define la edad. #}
+    {% if not (fixed and fixed.filter == "rama") %}
+    {% for end in [{ name: "desde", label: "Edad desde" }, { name: "hasta", label: "Edad hasta" }] %}
+    <label data-age-range>
+      <span>{{ end.label }}</span>
+      <select data-filter="edad-{{ end.name }}" data-attr="agespan" data-range>
         <option value="">Cualquiera</option>
         {% for n in range(5, 18) %}
           <option value="{{ n }}">{{ n }} años</option>
@@ -45,6 +56,8 @@
         <option value="18">18 años o más</option>
       </select>
     </label>
+    {% endfor %}
+    {% endif %}
 
     {{ fixedSelect(fixed, "rama", "Rama") }}
     {% if not (fixed and fixed.filter == "rama") %}
@@ -105,7 +118,45 @@
     </label>
     {% endif %}
 
-    {% if fixed and fixed.filter == "otro" %}{{ fixedSelect(fixed, "otro", fixed.label) }}{% endif %}
+    {{ fixedSelect(fixed, "competencia", "Competencia") }}
+    {% if not (fixed and fixed.filter == "competencia") %}
+    <label>
+      <span>Competencia</span>
+      <select data-filter="competencia" data-attr="skills" data-multi>
+        <option value="">Todas</option>
+        {% for o in skillOptions %}
+          <option value="{{ o.id }}">{{ o.name }} ({{ o.count }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
+    {{ fixedSelect(fixed, "valor", "Valor scout") }}
+    {% if not (fixed and fixed.filter == "valor") %}
+    <label>
+      <span>Valor scout</span>
+      <select data-filter="valor" data-attr="values" data-multi>
+        <option value="">Todos</option>
+        {% for o in valueOptions %}
+          <option value="{{ o.id }}">{{ o.name }} ({{ o.count }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
+    {{ fixedSelect(fixed, "metodo", "Método scout") }}
+    {% if not (fixed and fixed.filter == "metodo") %}
+    <label>
+      <span>Método scout</span>
+      <select data-filter="metodo" data-attr="methods" data-multi>
+        <option value="">Todos</option>
+        {% for o in methodOptions %}
+          <option value="{{ o.id }}">{{ o.name }} ({{ o.count }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
 
     <label>
       <span>Orden</span>
@@ -192,6 +243,33 @@ const filtersBadge = $(".acts-filters-badge");
 // Los filtros fijos de la página (deshabilitados) no cuentan:
 // la lista ya viene filtrada.
 const selects = [...document.querySelectorAll("select[data-filter]:not([disabled])")];
+const bySelect = name => selects.find(s => s.dataset.filter === name);
+
+// Edad desde/hasta: cada extremo tiene que entrar en el rango
+// de la actividad, así que el rango del grupo queda cubierto
+// entero. Sólo se ofrece mientras no haya rama elegida.
+const ramaSel = bySelect("rama");
+const desdeSel = bySelect("edad-desde");
+const hastaSel = bySelect("edad-hasta");
+const ageLabels = [...document.querySelectorAll("[data-age-range]")];
+
+function syncAge() {
+  const off = Boolean(ramaSel && ramaSel.value);
+  for (const label of ageLabels) label.hidden = off;
+  if (off) {
+    desdeSel.value = "";
+    hastaSel.value = "";
+  }
+}
+
+if (desdeSel && hastaSel) {
+  desdeSel.addEventListener("change", () => {
+    if (hastaSel.value && Number(hastaSel.value) < Number(desdeSel.value)) hastaSel.value = desdeSel.value;
+  });
+  hastaSel.addEventListener("change", () => {
+    if (desdeSel.value && Number(desdeSel.value) > Number(hastaSel.value)) desdeSel.value = hastaSel.value;
+  });
+}
 
 // Todas las tarjetas, en orden alfabético: las visibles del
 // HTML y las que esperan en el <template>.
@@ -267,6 +345,8 @@ function writeUrl(state) {
 }
 
 function run({ keepShown = false } = {}) {
+
+  syncAge();
 
   const state = readState();
   const terms = parseQuery(state.search);
@@ -372,6 +452,11 @@ function resetAll() {
 const params = new URLSearchParams(location.search);
 input.value = params.get("search") || "";
 sortSel.value = params.get("orden") || "";
+// Enlaces viejos con una sola edad (?edad=9).
+if (params.has("edad") && desdeSel) {
+  params.set("edad-desde", params.get("edad"));
+  params.set("edad-hasta", params.get("edad"));
+}
 for (const s of selects) {
   const v = params.get(s.dataset.filter);
   if (v && [...s.options].some(o => o.value === v)) s.value = v;
