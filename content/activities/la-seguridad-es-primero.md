@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,5 +182,12 @@ Aprendé sobre normas de seguridad y protección para trabajadores forestales. C
 - ¿Qué normas de seguridad te parecieron más importantes?
 - ¿Cómo podés mantenerte seguro en el bosque?
 - ¿Qué compromiso adquieres para priorizar la seguridad?
+
+---
+## Texto original completo de la actividad
+
+**B.03 LA SEGURIDAD ES PRIMERO** Para mantenerse a salvo, las personas que trabajan en los bosques necesitan seguir ciertas normas de seguridad y protección. ¿Cuáles son algunos ejemplos de normas que los trabajadores forestales deben seguir? ¿Qué tipo de vestimenta deben usar los trabajadores forestales? Crea una lista de control sobre las cosas que deberías llevar contigo para garantizar tu seguridad cuando estés en el bosque.
+
+niveles 2 1
 
 ---

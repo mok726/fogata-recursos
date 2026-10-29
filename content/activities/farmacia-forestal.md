@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ Aprendé sobre dos plantas medicinales y dos plantas venenosas del bosque. Compa
 2. Investigá plantas venenosas para los humanos.
 3. Prepará material para presentar.
 
+> **Nota de seguridad:** es solo investigación: no toquen ni prueben plantas silvestres, porque algunas venenosas se parecen a las comestibles o medicinales.
+
 ## Desarrollo
 1. **Investigación** (20 min): Investigá dos plantas medicinales y dos venenosas.
 2. **Análisis** (15 min): Analizá sus usos y riesgos.
@@ -186,5 +188,12 @@ Aprendé sobre dos plantas medicinales y dos plantas venenosas del bosque. Compa
 - ¿Qué plantas medicinales te parecieron más interesantes?
 - ¿Qué precauciones debemos tomar con las plantas venenosas?
 - ¿Qué compromiso adquieres para aprender más sobre plantas medicinales?
+
+---
+## Texto original completo de la actividad
+
+**A.11 FARMACIA FORESTAL** El material viviente de un bosque puede ser usado como medicina para tratar todo, desde cortes y rasguños menores hasta enfermedades mortales. Aprende sobre dos plantas que crezcan en un bosque y que ayuden a curar enfermedades. Las plantas también pueden ser dañinas. Aprende sobre dos plantas que son venenosas para los humanos. Comparte tus hallazgos con tu grupo.
+
+niveles 3 2 1
 
 ---

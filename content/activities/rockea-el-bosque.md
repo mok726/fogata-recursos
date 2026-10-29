@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,5 +186,12 @@ Invitá a un geólogo para hablar sobre las rocas del bosque. Creá una exhibici
 - ¿Qué aprendiste sobre el rol de las rocas en el bosque?
 - ¿Cómo contribuyen las rocas al ecosistema forestal?
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre geología?
+
+---
+## Texto original completo de la actividad
+
+**A.15 ‘ROCKEA’ EL BOSQUE** Invita a un geólogo (un especialista en rocas) para que hable con tu grupo sobre las diferentes clases de rocas que puedes encontrar en un bosque cercano. ¿Cómo se formaron las rocas? ¿Cuándo se formaron? ¿Todavía seguirán ahí dentro de 100 años? ¿Qué rol o roles juagan en el paisaje forestal? Extensión: Una roca algunas veces actúa como un substrato (una superficie sobre la cual puede crecer una planta o un animal). Por ejemplo, musgos, líquenes e incluso algunos árboles crecen en las rocas o en las grietas de las rocas. Haz una exhibición real o una exhibición en línea de fotografías, dibujos o pinturas de rocas que actúan como substrato en el bosque. Puedes obtener inspiración para tu exhibición en tu bosque local, tu biblioteca o tu museo natural. Invita a tu familia y a tus amigos a visitar y a comentar sobre tu exhibición.
+
+niveles 3 2 1
 
 ---

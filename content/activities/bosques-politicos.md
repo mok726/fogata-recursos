@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,5 +181,12 @@ Elegí un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia 
 - ¿Qué aprendiste sobre los movimientos de resistencia en los bosques?
 - ¿Cómo pueden los bosques ser sitios de lucha por la justicia social?
 - ¿Qué compromiso adquieres para apoyar movimientos de justicia ambiental?
+
+---
+## Texto original completo de la actividad
+
+**C.19 BOSQUES POLÍTICOS** Elije un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política, por ejemplo, en el Movimiento Chipko en la India o en el Movimiento Cinturón Verde en Kenia. Aprende sobre este: ¿qué paso?, ¿dónde y cuándo?, ¿quién participó?, ¿cuál fue la causa?, ¿cuáles fueron los resultados?, ¿por qué fue importante el bosque para el movimiento? Presenta tus resultados en un formato creativo, como un podcast, un poema recitado, un baile o un informe de prensa.
+
+niveles 3
 
 ---

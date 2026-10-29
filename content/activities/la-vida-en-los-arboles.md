@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Aprendé sobre dos poblaciones indígenas que construyen casas en el bosque. Con
 - ¿Qué aprendiste sobre los pueblos indígenas que viven en los árboles?
 - ¿Qué relación tienen estas comunidades con el bosque?
 - ¿Qué compromiso adquieres para respetar y valorar las culturas indígenas?
+
+---
+## Texto original completo de la actividad
+
+**C.17 LA VIDA EN LOS ÁRBOLES** Algunos pueblos basados en l el bosque, como los Korowai en Papúa Occidental, construyen e increíbles casas en los árboles en medio de la jungla. Aprende sobre v i dos poblaciones indígenas que construyen cabañas, hamacas n o casas temporales o permanentes en el bosque. Construye una réplica en miniatura de una de estas casas.
+
+niveles 3 2
 
 ---

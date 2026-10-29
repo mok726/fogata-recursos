@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Aprendé sobre actores y tomadores de decisiones en temas forestales. Compartí 
 - ¿Qué aprendiste sobre el proceso de toma de decisiones?
 - ¿Cómo te sentiste al compartir tu opinión?
 - ¿Qué otras acciones podés tomar para influir en las políticas forestales?
+
+---
+## Texto original completo de la actividad
+
+**E.11 CONTACTA A LOS TOMADORES DE DECISIONES** Además de las agencias de las Naciones Unidas, también existen otras organizaciones que trabajan en temas forestales. Aprende acerca de algunos de estos actores y tomadores de decisiones. ¿Cuál es una cuestión en la que están trabajando que de verdad te interesa? ¿Por qué es esta cuestión importante para ti? ¿Cuál podría ser una posible solución para esta cuestión? Comparte tu opinión sobre una política forestal específica con tu gobierno o con tu oficial elegido. Puedes contactarlo por medio de cartas, por el teléfono o puedes visitarlo en persona.
+
+niveles 3 2
 
 ---

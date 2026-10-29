@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,5 +176,12 @@ Enumerá cinco razones por las cuales los bosques son importantes para la natura
 - ¿Qué razones te parecieron más importantes?
 - ¿Cómo benefician los bosques a las personas?
 - ¿Qué compromiso adquieres para cuidar los bosques?
+
+---
+## Texto original completo de la actividad
+
+**A.04 CINCO COSAS BUENAS** ¿Cuáles son cinco razones por las cuales los bosques son importantes para la naturaleza? ¿Estos beneficios también son buenos para las personas? ¿Por qué sí o por qué no? Haz un dibujo que muestre la importancia de los bosques.
+
+niveles 1
 
 ---

@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,5 +180,12 @@ Aprendé sobre importantes conferencias y eventos relacionados con el cambio cli
 - ¿Qué eventos te parecieron más importantes y por qué?
 - ¿Cómo han evolucionado las políticas climáticas a lo largo del tiempo?
 - ¿Qué compromiso adquieres para involucrarte en acciones climáticas?
+
+---
+## Texto original completo de la actividad
+
+**B.14 LÍNEA DE TIEMPO INTERNACIONAL** Aprende sobre las importantes conferencias y eventos relacionados con el cambio climático y los bosques que se realizaron en los pasados cincuenta años. Crea una línea de tiempo que muestre todos estos eventos. ¿Cuáles fueron los roles de los gobiernos, las agencias de las Naciones Unidas, las poblaciones indígenas y las organizaciones no gubernamentales en cada uno de estos eventos?
+
+niveles 3
 
 ---

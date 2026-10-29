@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Investigá en qué lugar es posible encontrar agua en un bosque. Dibujá un mapa
 - ¿Qué sitios con agua encontraste en el bosque?
 - ¿Cómo usan las plantas y animales estos sitios?
 - ¿Qué compromiso adquieres para proteger las fuentes de agua?
+
+---
+## Texto original completo de la actividad
+
+**A.16 ¿DÓNDE ESTÁ EL AGUA?** Los bosques a menudo son importantes cuencas hidrográficas. Investiga en qué lugar es posible encontrar agua en un bosque. ¿Está debajo de la tierra, en la tierra, en un lago o arroyo, en diminutas gotas debajo de las hojas, etc.? Dibuja un mapa o haz un modelo de todos los sitios donde existe agua. ¿Qué plantas y animales crees que usen cada uno de estos diferentes sitios?
+
+niveles 3 2 1
 
 ---

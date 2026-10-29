@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,8 @@ Visitá un arboreto y calca las cortezas de los tres árboles más inusuales. Et
 2. Prepará papel y lápices de cera o carboncillo.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota para el educador:** si no hay un arboreto cerca, sirve un jardín botánico, una plaza o un parque con árboles identificados. La guía de wikiHow está en inglés.
+
 ## Desarrollo
 1. **Observación** (15 min): Buscá los tres árboles más inusuales.
 2. **Calco** (20 min): Calca las cortezas de los árboles elegidos.
@@ -183,5 +185,12 @@ Visitá un arboreto y calca las cortezas de los tres árboles más inusuales. Et
 - ¿Qué patrones de corteza encontraste?
 - ¿Qué árbol te pareció más inusual?
 - ¿Qué aprendiste sobre la diversidad de árboles?
+
+---
+## Texto original completo de la actividad
+
+**A.05 PATRONES DE CORTEZA** Visita un arboreto (un museo al aire libre sobre árboles vivos). Calca las cortezas de los tres árboles más inusuales que veas. (Aprende cómo hacerlo en este sitio web: www.wikihow.com/Make-a-Bark-Rubbing). Etiqueta cada árbol con su nombre común y científico y anota dónde crece el árbol naturalmente.
+
+niveles 1
 
 ---

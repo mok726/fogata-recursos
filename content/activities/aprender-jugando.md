@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Investigá diferentes tipos de juegos tradicionales de culturas basadas en los b
 - ¿Qué aprendiste sobre los juegos tradicionales de diferentes culturas?
 - ¿Cuál fue la enseñanza de cada juego?
 - ¿Cómo podés incorporar estos juegos en tu vida diaria?
+
+---
+## Texto original completo de la actividad
+
+**C.03 APRENDER JUGANDO** Investiga sobre diferentes tipos de juegos que juegan tradicionalmente las culturas basadas en los bosques. Jueguen tres de estos juegos; elijan un juego que se juega en tu país y dos juegos que se juegan en otros países. ¿Cuál es la enseñanza de cada juego?
+
+niveles 2 1
 
 ---

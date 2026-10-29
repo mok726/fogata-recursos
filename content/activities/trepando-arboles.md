@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,8 @@ Investigá trabajos donde las personas necesitan trepar árboles. Compartí tus 
 2. Asegurá la supervisión de un adulto para la extensión.
 3. Elegí un árbol adecuado para trepar.
 
+> **Nota de seguridad:** para la extensión: poca altura, solo ramas gruesas y vivas, y un adulto debajo. Con castores, apenas despegarse del suelo. Trepar con cuerda requiere equipo e instructor.
+
 ## Desarrollo
 1. **Investigación** (15 min): Investigá cinco trabajos donde se trepan árboles.
 2. **Análisis** (10 min): Analizá por qué trepar es importante, equipo y medidas de seguridad.
@@ -190,5 +192,12 @@ Investigá trabajos donde las personas necesitan trepar árboles. Compartí tus 
 - ¿Qué trabajos requieren trepar árboles y por qué?
 - ¿Qué medidas de seguridad son importantes?
 - ¿Qué compromiso adquieres para practicar la seguridad?
+
+---
+## Texto original completo de la actividad
+
+**B.05 TREPANDO ÁRBOLES** Trepar los árboles no es sólo una actividad divertida o una forma de obtener un mango o un coco fresco. También es una habilidad importante requerida por algunos tipos de medios de subsistencia o trabajos. ¿Cuáles son cinco trabajos o medios de subsistencia en los cuales las personas deben trepar árboles? ¿Por qué trepar árboles es importante para sus trabajos? ¿Los trepadores de cada trabajo trepan los árboles de la misma forma o hasta la misma altura? ¿Utilizan algún equipo especial para trepar? ¿Qué medidas de seguridad toman los trepadores? ¿Qué tipo de personas trepan los árboles, por ejemplo, son hombres jóvenes o mujeres ancianas aquellos que hacen la mayor parte del trabajo? Comparte tus hallazgos con tu grupo. Extensión: Intenta trepar un árbol tú mismo. ¡Pon mucha atención en dónde colocas tus manos y tus pies! No pongas tu peso en ramas pequeñas o delgadas. Trepa el árbol sólo si hay al menos un adulto que cuide de ti.
+
+niveles 3 2 1
 
 ---

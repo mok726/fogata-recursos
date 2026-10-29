@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Creá y presentá una canción sobre un bosque. Recolectá elementos del bosque 
 1. Reuní elementos naturales del bosque para instrumentos (palos, hojas, etc.).
 2. Prepará material para escribir la canción.
 
+> **Nota de seguridad:** junten solo elementos caídos y nunca arranquen corteza, hojas ni ramas de plantas vivas. En parques nacionales y otras áreas protegidas está prohibido sacar cualquier cosa: ahí, solo fotos y dibujos.
+
 ## Desarrollo
 1. **Exploración** (15 min): Recolectá elementos naturales para hacer instrumentos.
 2. **Creación musical** (20 min): Creá instrumentos con los elementos recolectados.
@@ -187,5 +189,12 @@ Creá y presentá una canción sobre un bosque. Recolectá elementos del bosque 
 - ¿Qué aprendiste sobre la música y el bosque?
 - ¿Cómo podés expresar tu amor por la naturaleza a través del arte?
 - ¿Qué compromiso adquieres para seguir creando arte inspirado en la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**C.09 CANTA CON EL BOSQUE** Crea y presenta una canción sobre un bosque. También puedes recolectar diferentes elementos mientras caminas por el bosque y hacer un instrumento musical para acompañar a tu canción favorita o a la canción que escribiste (por ej. los crujidos de una hoja, tocar el tambor con unos palitos, silbar como un ave, etc.). No recojas y comas cualquier planta ya que algunas plantas venenosas se ven muy similares a aquellas que no lo son. Además, algunas plantas son raras y no deben ser dañadas. NO tomes criaturas vivas; mejor haz un dibujo de ellas. Recuerda siempre lavar tus manos después de cualquier actividad.
+
+niveles 3 2 1
 
 ---

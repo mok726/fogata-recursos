@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,5 +182,12 @@ Aprendé sobre dos agencias de las Naciones Unidas que trabajan por los bosques.
 - ¿Qué aprendiste sobre el trabajo de la ONU en temas forestales?
 - ¿Cómo pueden las agencias internacionales ayudar a proteger los bosques?
 - ¿Qué compromiso adquieres para involucrarte en iniciativas internacionales?
+
+---
+## Texto original completo de la actividad
+
+**B.11 LOS BOSQUES Y LAS NN. UU.** Varias agencias de las Naciones Unidas trabajan por los bosques. Aprende sobre dos de estas agencias. ¿Cuáles son las cuestiones específicas que cada una cubre? ¿Cuáles son los principales desafíos globales que cada una trata de abordar? ¿Los bosques son el enfoque principal de cada agencia o estos entran dentro de objetivos y actividades más amplios? ¿Dónde están ubicadas sus sedes? ¿Cuándo se crearon las agencias? ¿Cuáles son algunos de los proyectos actuales relacionados con el bosque que cada agencia está desarrollando? Comparte tus hallazgos con tu grupo.
+
+niveles 3 2
 
 ---

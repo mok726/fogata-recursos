@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,5 +188,12 @@ Prepará un reporte de investigación sobre un bosque de tu área. Presentá tus
 - ¿Qué aprendiste sobre el bosque de tu área?
 - ¿Cómo podemos proteger su valor biológico, cultural y económico?
 - ¿Qué compromiso adquieres para cuidar el bosque local?
+
+---
+## Texto original completo de la actividad
+
+**B.01 BOSQUES LLENOS DE VIDA** Prepara un reporte de investigación sobre un bosque de tu área. ¿Qué tipo de bosque es? ¿Es importante para la herencia cultural local? ¿Qué medios de subsistencia locales sustenta? ¿Los bosques enfrentan algunas amenazas? ¿Qué están haciendo las personas (si es que están haciendo algo) para proteger el valor biológico, cultural y económico de los bosques? Presenta tus hallazgos creativamente, por ejemplo, como una obra de teatro, un noticiero, un sitio web o un póster.
+
+niveles 3 2 1
 
 ---

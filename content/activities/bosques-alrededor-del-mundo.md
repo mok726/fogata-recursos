@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Aprendé cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa 
 - ¿Qué similitudes encontraste entre las palabras para 'bosque' en diferentes idiomas?
 - ¿Cómo se relaciona el idioma con la geografía?
 - ¿Qué aprendiste sobre la diversidad cultural y lingüística?
+
+---
+## Texto original completo de la actividad
+
+**C.06 BOSQUES ALREDEDOR DEL MUNDO** Aprende cómo decir ‘bosque’ y ‘árbol’ en diez idiomas diferentes. En un mapa del mundo, escribe las palabras en cada país en el idioma correspondiente. ¿Notas alguna similitud entre las palabras? ¿Las palabras similares se encuentran cerca las unas de las otras en el mapa? ¿Por qué crees que puede ser esto?
+
+niveles 2 1
 
 ---

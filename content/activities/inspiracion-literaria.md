@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,6 +176,8 @@ Leé poemas, historias u obras de teatro sobre los bosques. Compartí tus respue
 1. Reuní poemas, historias u obras de teatro sobre bosques.
 2. Prepará material para escribir.
 
+> **Nota para el educador:** en Argentina, por ejemplo, los "Cuentos de la selva" de Horacio Quiroga.
+
 ## Desarrollo
 1. **Lectura** (20 min): Leé los textos seleccionados.
 2. **Análisis** (15 min): Reflexioná sobre cómo describe el bosque el autor y qué palabras usa.
@@ -186,5 +188,12 @@ Leé poemas, historias u obras de teatro sobre los bosques. Compartí tus respue
 - ¿Qué aprendiste sobre la representación literaria de los bosques?
 - ¿Cómo te inspiró la naturaleza para tu creación?
 - ¿Qué compromiso adquieres para seguir explorando la literatura y la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**C.08 INSPIRACIÓN LITERARIA** Lee algunos poemas, historias u obras de teatro que hablen sobre los bosques. ¿Cómo describe un bosque el autor? ¿Cuáles son algunas de las palabras o frases que él o ella utiliza? ¿Qué te hacen pensar y sentir los poemas o las historias? ¿Por qué crees que el autor eligió representar al bosque de esta manera? ¿La descripción te hace querer visitar el bosque? Comparte tus respuestas con tu grupo. Extensión: ¡Escribe tú mismo un poema, una historia corta o una obra de teatro inspirada en un bosque!
+
+niveles 3 2 1
 
 ---

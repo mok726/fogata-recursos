@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Invitá a un arbolista para que hable sobre los árboles. Hacé preguntas sobre 
 - ¿Qué aprendiste sobre los árboles?
 - ¿Qué pregunta te pareció más interesante?
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre los árboles?
+
+---
+## Texto original completo de la actividad
+
+**A.13 CHARLA SOBRE LOS ÁRBOLES** Inviten a un arbolista (un especialista en árboles) para que vaya a su clase. Hagan todas las preguntas relacionadas con los árboles en las que puedan pensar, como “¿por qué las hojas de los árboles caducifolios cambian de color en los bosques templados?” o “¿por qué no se ahogan los árboles de manglar?”
+
+niveles 3 2 1
 
 ---

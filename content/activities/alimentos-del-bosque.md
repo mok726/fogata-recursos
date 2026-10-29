@@ -14,7 +14,6 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-del-bosque.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -71,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,5 +190,12 @@ Investigá alimentos silvestres del bosque y prepará una comida con ellos. Apre
 - ¿Qué aprendiste sobre los alimentos del bosque?
 - ¿Cómo podemos aprovechar los alimentos del bosque de manera sostenible?
 - ¿Qué compromiso adquieres para valorar y cuidar la biodiversidad?
+
+---
+## Texto original completo de la actividad
+
+**C.11 ALIMENTOS DEL BOSQUE** La biodiversidad de los bosques es una excelente fuente de alimentos para las plantas, los animales e incluso las personas. Invita a alguien que recolecte alimentos silvestres del bosque a tu reunión. Si no conoces a nadie, entonces investiga cuáles alimentos comestibles están disponibles para recolectar y cazar en tu bosque local. ¿Cuál es la manera más deliciosa, más segura y más sana de preparar estos alimentos? Si es posible, pide a la persona que invitaste que te ayude a preparar una comida con alimentos basados en el bosque o prepárala con tu grupo. Bon appétit! NO recojas y comas cualquier planta que no puedas identificar, ya que pueden ser plantas venenosas
+
+niveles 3 2 1
 
 ---

@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +172,8 @@ Investigá qué porción de tu país está cubierta por bosques y cuál es la ta
 1. Reuní fuentes de información sobre bosques y deforestación en tu país.
 2. Prepará material para una presentación creativa.
 
+> **Nota para el educador:** en Argentina, por ejemplo, el Inventario Nacional de Bosques Nativos (Ley 26.331). A nivel mundial: Global Forest Watch.
+
 ## Desarrollo
 1. **Investigación** (30 min): Investigá qué porción de tu país está cubierta por bosques primarios y otros tipos de bosque.
 2. **Análisis** (15 min): Analizá la tasa de deforestación actual y comparala con el promedio mundial y años anteriores.
@@ -182,5 +184,12 @@ Investigá qué porción de tu país está cubierta por bosques y cuál es la ta
 - ¿Qué aprendiste sobre la deforestación en tu país?
 - ¿Cuáles son las principales causas de la deforestación en tu área?
 - ¿Qué acciones podemos tomar para frenar la deforestación?
+
+---
+## Texto original completo de la actividad
+
+**D.09 DEFORESTACIÓN Y DEGRADACIÓN** La deforestación y la degradación forestal son grandes amenazas a los bosques alrededor del mundo. ¿Qué porción de tu país está cubierta por bosques primarios y qué porción por otros tipos de bosque? ¿Cuál es la tasa de deforestación actual en tu país? ¿Es más alta o más baja que el promedio mundial? ¿Se ha presentado más rápida o más lenta que en los años anteriores? ¿Por qué crees que sucede esto? Inventa una forma creativa de compartir tus hallazgos con tu grupo.
+
+niveles 3 2
 
 ---

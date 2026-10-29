@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,8 @@ Empezá un blog en tu grupo sobre tu bosque local y sobre las diferentes formas 
 3. Planificá el contenido inicial (presentación, temas, etc.).
 4. Prepará una cámara para la expedición fotográfica.
 
+> **Nota de seguridad:** al publicar en internet, no pongan fotos de caras, nombres completos, colegio ni ubicación de los menores, y pidan autorización a las familias.
+
 ## Desarrollo
 1. **Creación del blog** (30 min): Configurá el blog y creá las primeras entradas.
 2. **Expedición fotográfica** (1 hora): Visitá el bosque local y toma fotografías.
@@ -185,5 +187,12 @@ Empezá un blog en tu grupo sobre tu bosque local y sobre las diferentes formas 
 - ¿Qué aprendiste al crear y mantener el blog?
 - ¿Cómo puede un blog ayudar a proteger los bosques?
 - ¿Qué compromiso adquieres para seguir difundiendo información sobre los bosques?
+
+---
+## Texto original completo de la actividad
+
+**E.13 ¡AL BLOG!** Empieza un blog en tu grupo sobre tu bosque local y sobre las diferentes formas cómo los miembros de la comunidad pueden ayudar a protegerlo. Pasa la voz al enviar el blog por correo electrónico a tu familia y a tus amigos y pídeles que lo sigan reenviando. Invita a las personas a que comenten o a que contribuyan con contenidos relacionados con los bosques. Haz una expedición de fotografías al bosque y sube las imágenes en el blog. Pide a las personas que voten por su foto favorita.
+
+niveles 3
 
 ---

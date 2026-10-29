@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Buscá un ejemplo de cada clase de animal que viva en el bosque y jugá un juego
 - ¿Qué clase de animal te resultó más difícil de adivinar?
 - ¿Qué aprendiste sobre los animales del bosque?
 - ¿Qué compromiso adquieres para aprender más sobre la biodiversidad?
+
+---
+## Texto original completo de la actividad
+
+**A.19 CLASES DE ANIMALES** Existen seis clases principales de animales: mamíferos, reptiles, aves, anfibios, insectos y peces. Busca un ejemplo de cada clase que viva en un bosque de tu área. Ahora prepárate para jugar un juego de adivinanza con tu grupo. Cada miembro del grupo debe escribir sus ejemplos, un ejemplo en cada pedazo de papel. Coloca todos los pedazos de papel en un sombrero. Formen grupos de tres o cuatro personas. Cada miembro del equipo debe sacar un papel del sombrero y se lo debe pegar en su frente sin leerlo. Cada miembro del equipo debe adivinar qué animal es. Sólo se permiten preguntas cuyas respuestas sean ‘sí’ o ‘no’, las cuales son respondidas por el resto de miembros del grupo. Si la respuesta es ‘sí’, la persona que está preguntando puede hacer otra pregunta hasta que la respuesta sea ‘no’. Luego, es el turno de la próxima persona para hacer preguntas. (Por ej. «¿Pongo huevos?» - SÍ. «¿Soy un reptil?» - NO).
+
+niveles 3 2 1
 
 ---

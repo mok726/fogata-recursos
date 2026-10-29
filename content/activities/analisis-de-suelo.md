@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,6 +180,8 @@ Cavá un hoyo de 30 cm en el bosque y observá la estructura del suelo. Dibujá 
 2. Encontrá un lugar adecuado en el bosque para cavar.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** no caven en parques nacionales ni reservas; pidan permiso en terrenos privados o municipales y tapen el hoyo al terminar.
+
 ## Desarrollo
 1. **Excavación** (15 min): Cavá un hoyo de al menos 30 cm de profundidad.
 2. **Observación** (15 min): Observá la estructura, capas, textura, humedad y vida.
@@ -190,5 +192,12 @@ Cavá un hoyo de 30 cm en el bosque y observá la estructura del suelo. Dibujá 
 - ¿Qué capas de suelo observaste?
 - ¿Qué evidencia de vida encontraste en el suelo?
 - ¿Qué compromiso adquieres para cuidar la salud del suelo?
+
+---
+## Texto original completo de la actividad
+
+**A.17 ANÁLISIS DE SUELO** En un bosque, cava un hoyo de al menos 30 cm de profundidad. Observa la estructura de la tierra en las diferentes profundidades. ¿Puedes ver capas distintas? ¿Qué hay en cada capa? ¿Cómo es la textura y qué tan húmeda está la tierra? ¿Hay evidencia de plantas, insectos u otro tipo de vida? Haz un boceto y etiqueta tu estructura del suelo. Vuelve a llenar el hoyo antes de irte.
+
+niveles 3 2 1
 
 ---

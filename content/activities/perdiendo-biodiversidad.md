@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Elegí tu animal favorito del bosque entre aquellos que están enfrentando la ex
 2. Elegí tu animal favorito.
 3. Reuní los materiales para el póster.
 
+> **Nota para el educador:** también pueden elegir especies de su país; en Argentina, por ejemplo, el yaguareté, el huemul, la taruca o el tapir.
+
 ## Desarrollo
 1. **Investigación** (20 min): Investigá sobre tu animal elegido, su situación actual y las causas de su peligro.
 2. **Análisis** (15 min): Pensá en cómo este animal podría ser protegido contra la extinción.
@@ -187,5 +189,12 @@ Elegí tu animal favorito del bosque entre aquellos que están enfrentando la ex
 - ¿Qué aprendiste sobre los animales del bosque en peligro de extinción?
 - ¿Cómo podemos contribuir a proteger estas especies?
 - ¿Qué compromiso adquieres para ayudar a conservar la biodiversidad?
+
+---
+## Texto original completo de la actividad
+
+**D.02 PERDIENDO BIODIVERSIDAD** Los animales del bosque sufren a medida que los bosques son destruidos o degradados. Las miles de especies forestales actualmente en peligro de extinción incluyen algunos de los animales más conocidos de la Tierra, como los pandas gigantes, los rinocerontes asiáticos, los tigres, los orangutanes y los gorilas. Elige tu animal favorito del bosque entre aquellos que están enfrentando la extinción y haz un póster para describir su situación actual y cómo crees que este animal podría ser protegido contra la extinción.
+
+niveles 3 2 1
 
 ---

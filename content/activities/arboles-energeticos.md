@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,5 +184,12 @@ Investigá de qué formas se usan los recursos forestales como fuentes de energ�
 - ¿Qué aprendiste sobre la energía de los bosques?
 - ¿Cómo podemos obtener energía de los bosques de manera sostenible?
 - ¿Qué compromiso adquieres para promover energías renovables?
+
+---
+## Texto original completo de la actividad
+
+**B.10 ÁRBOLES ENERGÉTICOS** Los bosques pueden ser una fuente importante de energía. Por ejemplo, los troncos y los palos pueden ser quemados como combustible para cocinar o se pueden convertir en carbón vegetal. ¿De qué otras formas se usan los recursos forestales como fuentes de energía? ¿Cuáles son algunas de las posibilidades que están siendo exploradas al momento por compañías de energía o de biotecnología? ¿Tienes alguna idea nueva y original sobre cómo hacer energía a partir de los bosques? Crea un mini-modelo de tu invención.
+
+niveles 3 2
 
 ---

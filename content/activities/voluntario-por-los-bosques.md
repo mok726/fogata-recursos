@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Emplea algunas horas cada semana, durante un par de meses, para ayudar a una org
 2. Contactá a la organización y pregunta cómo podés ayudar.
 3. Definí un horario regular para el voluntariado.
 
+> **Nota para el educador:** en Argentina, por ejemplo, Parques Nacionales y muchos viveros municipales reciben voluntarios.
+
 ## Desarrollo
 1. **Investigación** (30 min): Identificá organizaciones locales que trabajen en conservación forestal.
 2. **Contacto** (15 min): Comunicate con la organización y acuerda tu participación.
@@ -184,5 +186,12 @@ Emplea algunas horas cada semana, durante un par de meses, para ayudar a una org
 - ¿Qué aprendiste sobre el trabajo de conservación forestal?
 - ¿Cómo te sentiste al contribuir a la protección de los bosques?
 - ¿Qué compromiso adquieres para seguir apoyando la conservación?
+
+---
+## Texto original completo de la actividad
+
+**E.10 VOLUNTARIO POR LOS BOSQUES** Emplea algunas horas cada semana, durante un par de meses, para ayudar a una organización local de conservación forestal.
+
+niveles 3 2
 
 ---

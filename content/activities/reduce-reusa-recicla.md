@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Hacé un balance del uso de objetos derivados de árboles en tu hogar. Creá una
 - ¿Qué aprendiste sobre el consumo de productos derivados de los bosques en tu hogar?
 - ¿Qué cambios pudiste implementar en tu hogar?
 - ¿Cómo podemos seguir reduciendo nuestro consumo de productos derivados de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**E.07 REDUCE, REÚSA, RECICLA** Busca alrededor de tu casa durante los próximos días, haz un balance del uso de objetos derivados de árboles en tu hogar, como toallas de papel y cuadernos. ¿Están usando más de lo que necesitan? ¿Podrían reusar más cosas? ¿Están reciclando las cosas cuando estas ya no pueden ser reusadas? Crea una lista de recordatorios y colócala en algún lugar donde toda tu familia la pueda ver fácilmente (por ej. en el refrigerador). Revisa para ver si todos la están siguiendo y cómo está impactando el uso general de los productos derivados de los bosques en tu hogar.
+
+niveles 3 2 1
 
 ---

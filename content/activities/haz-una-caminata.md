@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -181,6 +181,8 @@ Hacé una caminata en el bosque y recolectá elementos que representen partes im
 2. Prepará bolsas para recolectar elementos.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** junten solo elementos caídos y nunca arranquen corteza, hojas ni ramas de plantas vivas. En parques nacionales y otras áreas protegidas está prohibido sacar cualquier cosa: ahí, solo fotos y dibujos.
+
 ## Desarrollo
 1. **Caminata** (30 min): Caminá por el bosque y recolectá elementos (piedras, tierra, hojas, ramillas, plumas, etc.).
 2. **Selección** (10 min): Seleccioná los elementos más representativos.
@@ -191,5 +193,12 @@ Hacé una caminata en el bosque y recolectá elementos que representen partes im
 - ¿Qué elementos recolectaste y qué representan?
 - ¿Qué aprendiste sobre las partes del bosque?
 - ¿Qué compromiso adquieres para cuidar el bosque?
+
+---
+## Texto original completo de la actividad
+
+**A.01 HAZ UNA CAMINATA** Hagan una caminata en el bosque. En el camino, recojan diferentes cosas que crean que representan partes importantes del bosque. Una pequeña piedra, una pizca de tierra, algunas hojas secas, unas pocas ramillas, una vieja piel de serpiente o algunas plumas que encuentren en el suelo del bosque podrían, respectivamente, representar a las rocas y peñas del bosque, su suelo, sus arbustos, sus árboles, sus reptiles y sus aves. Usen su imaginación para encontrar otros elementos que representen otras cosas que pueden ver, oler, escuchar o sentir - como el viento, el agua o los insectos. Luego de su caminata, creen un collage del bosque con todos los elementos que su grupo recolectó. Hablen sobre aquello que significa cada elemento y por qué cada uno es importante. NO recojas y comas cualquier planta ya que algunas plantas venenosas se ven muy similares a aquellas que no lo son. Además, algunas plantas son raras y no deben ser dañadas. NO tomes criaturas vivas; mejor haz un dibujo de ellas. Recuerda SIEMPRE lavar tus manos después de cualquier actividad.
+
+niveles 3 2 1
 
 ---

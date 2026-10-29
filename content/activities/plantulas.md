@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -179,6 +179,8 @@ Plantá plántulas de árboles forestales con tu grupo. Discutí sobre el proces
 2. Prepará herramientas de jardinería (pala, guantes, etc.).
 3. Encontrá un lugar adecuado para plantar.
 
+> **Nota para el educador:** planten especies nativas de la zona, nunca exóticas invasoras (en Argentina, por ejemplo, pino o ligustro). Consulten un vivero de nativas; en Argentina, por ejemplo, de Parques Nacionales, el INTA o el municipio.
+
 ## Desarrollo
 1. **Preparación** (15 min): Prepará el hoyo y el suelo.
 2. **Plantación** (15 min): Plantá las plántulas con cuidado.
@@ -189,5 +191,12 @@ Plantá plántulas de árboles forestales con tu grupo. Discutí sobre el proces
 - ¿Qué aprendiste sobre la plantación de árboles?
 - ¿Qué cuidados necesitan las plántulas?
 - ¿Qué compromiso adquieres para cuidar las plántulas?
+
+---
+## Texto original completo de la actividad
+
+**A.08 PLÁNTULAS** Con tu grupo, planta algunas plántulas de árboles forestales. Discutan sobre la forma cómo las plantaron (por ejemplo, ¿qué tan profundo era cada hoyo? ¿Qué tan espaciadas se plantaron las plántulas? ¿Añadieron algo en el hoyo antes de colocar la plántula, como fertilizante o compost?). ¿Las plántulas necesitan algún tipo de cuidado especial, por ejemplo, cuando hay una temporada fría? Hablen sobre cómo continuarán cuidando de las plántulas con el fin de que sobrevivan.
+
+niveles 2 1
 
 ---

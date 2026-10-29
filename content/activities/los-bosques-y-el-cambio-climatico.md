@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +173,8 @@ Investigá qué gases estaban presentes en la atmósfera históricamente y compa
 2. Prepará un cuaderno para tomar notas.
 3. Definí las fuentes de información que vas a utilizar.
 
+> **Nota para el educador:** recuerden que los bosques también son sumideros: absorben y almacenan carbono. En Argentina, por ejemplo, la Ley 26.331 protege los bosques nativos.
+
 ## Desarrollo
 1. **Investigación histórica** (30 min): Investigá qué gases estaban presentes en la atmósfera históricamente y sus porcentajes.
 2. **Investigación actual** (30 min): Investigá los tipos y niveles actuales de gases en la atmósfera.
@@ -184,5 +186,12 @@ Investigá qué gases estaban presentes en la atmósfera históricamente y compa
 - ¿Qué aprendiste sobre los cambios en la atmósfera a lo largo del tiempo?
 - ¿Cómo afectan los gases atmosféricos a la vida vegetal de los bosques?
 - ¿Qué creés que podría suceder si los niveles de dióxido de carbono continúan incrementando?
+
+---
+## Texto original completo de la actividad
+
+**D.12 LOS BOSQUES Y EL CAMBIO CLIMÁTICO** Investiga qué gases estaban presentes en la atmósfera históricamente. ¿Cuál era el porcentaje de cada gas en la atmósfera? Compara tus hallazgos con los actuales tipos y niveles de gases en la atmósfera. ¿Por qué han cambiado los tipos y los niveles de estos gases a lo largo del tiempo? De acuerdo con los científicos, ¿cómo afectan los gases atmosféricos a la vida vegetal de los bosques? ¿Qué crees que podría suceder si los niveles de dióxido de carbono continúan incrementando? Comparte tus hallazgos con tu grupo.
+
+niveles 3 2
 
 ---

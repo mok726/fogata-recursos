@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Participá en un evento de orientación forestal usando un mapa para navegar por
 2. Prepará una brújula si es necesario.
 3. Definí la ruta y los puntos de control.
 
+> **Nota para el educador:** en Argentina, por ejemplo, hay clubes de orientación (orienteering) que organizan eventos abiertos.
+
 ## Desarrollo
 1. **Aprendizaje** (15 min): Aprendé a leer un mapa y usar una brújula.
 2. **Planificación** (10 min): Planificá la ruta con tu grupo.
@@ -185,5 +187,12 @@ Participá en un evento de orientación forestal usando un mapa para navegar por
 - ¿Qué aprendiste sobre la orientación en el bosque?
 - ¿Qué desafíos encontraste durante la navegación?
 - ¿Cómo podés mejorar tus habilidades de orientación?
+
+---
+## Texto original completo de la actividad
+
+**C.13 ENCUENTRA TU CAMINO** Participa en un evento de orientación forestal donde tienes que buscar el camino por medio de un bosque usando un mapa. Si vives en un lugar donde hay nieve, trata de realizar esta actividad en diferentes estaciones. Podrías hacer caminatas durante la primavera o el verano y caminar sobre la nieve o practicar esquí de fondo en los meses de invierno.
+
+niveles 3 2
 
 ---

@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -176,5 +176,12 @@ Hacé un dibujo de las capas de plantas y árboles de un bosque de tu área. Eti
 - ¿Qué capas del bosque dibujaste?
 - ¿Qué plantas y animales viven en cada capa?
 - ¿Qué aprendiste sobre la estructura del bosque?
+
+---
+## Texto original completo de la actividad
+
+**A.06 LAS CAPAS DEL BOSQUE** Haz un dibujo para mostrar las capas de plantas y árboles de un bosque de tu área. Etiqueta las diferentes capas. (Si no vives en un área con bosques, elige un área que sí los tenga y haz un dibujo de ese bosque).
+
+niveles 1
 
 ---

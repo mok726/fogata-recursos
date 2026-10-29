@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,6 +170,8 @@ Grabá un podcast o escribí un artículo para explicar el REDD+, cómo funciona
 1. Investigá sobre REDD+ (Reducción de Emisiones por Deforestación y Degradación forestal).
 2. Prepará el material para el podcast o artículo.
 
+> **Nota para el educador:** en Argentina, por ejemplo, existe un Plan de Acción Nacional de REDD+.
+
 ## Desarrollo
 1. **Investigación** (25 min): Aprendé sobre REDD+, sus objetivos y funcionamiento.
 2. **Análisis** (15 min): Reflexioná sobre el potencial de REDD+ para la biodiversidad.
@@ -181,5 +183,12 @@ Grabá un podcast o escribí un artículo para explicar el REDD+, cómo funciona
 - ¿Qué aprendiste sobre REDD+ y su importancia?
 - ¿Cómo puede REDD+ ayudar a proteger los bosques?
 - ¿Qué compromiso adquieres para apoyar iniciativas de conservación?
+
+---
+## Texto original completo de la actividad
+
+**B.16 REDD+** REDD+ (pronunciado REDD ‘más’) es un programa internacional que busca reducir la cantidad de gases de efecto invernadero en la atmósfera y mitigar el cambio climático. Si es usado correctamente, tiene el potencial de ayudar a la biodiversidad, especialmente a la biodiversidad forestal. Graba un podcast o escribe un artículo de periódico para explicar el REDD+ y cómo trabaja. No olvides dar tu opinión sobre este.
+
+niveles 3
 
 ---

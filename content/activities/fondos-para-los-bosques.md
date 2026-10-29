@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Organizá un evento para recaudar fondos para proteger a un bosque (o parte de u
 3. Conseguí los materiales y permisos necesarios.
 4. Prepará material educativo sobre los bosques para compartir durante el evento.
 
+> **Nota para el educador:** las rifas y otros sorteos con dinero pueden requerir autorización según el país o la localidad.
+
 ## Desarrollo
 1. **Investigación** (30 min): Investigá la organización que vas a ayudar y aprendé sobre su trabajo.
 2. **Planificación** (30 min): Organizá la logística del evento y asigná roles.
@@ -188,5 +190,12 @@ Organizá un evento para recaudar fondos para proteger a un bosque (o parte de u
 - ¿Qué aprendiste sobre la organización que apoyaste?
 - ¿Cómo te sentiste al contribuir a la conservación de los bosques?
 - ¿Qué otras acciones podemos tomar para apoyar la protección de los bosques?
+
+---
+## Texto original completo de la actividad
+
+**E.04 FONDOS PARA LOS BOSQUES** Organiza un evento para recaudar fondos para proteger a un bosque (o parte de un bosque). Dona el dinero a un grupo local de conservación forestal o a una organización que trabaje por la protección forestal en otro país. Es importante que investigues sobre la organización que vas a ayudar antes de que realices tu evento. ¡No olvides que tu evento para recaudar fondos es también una oportunidad para ayudar a educar a otras personas sobre los beneficios de los bosques y las amenazas que enfrentan!
+
+niveles 3 2 1
 
 ---

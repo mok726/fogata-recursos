@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -174,6 +174,8 @@ Aprendé cómo hacer símbolos de senderos y creá un sendero en el bosque para 
 2. Reuní el material para marcar el sendero (piedras, palos, tiza, etc.).
 3. Definí la ruta del sendero con tu grupo.
 
+> **Nota de seguridad:** respeten "No Dejar Rastro": desarmen las marcas al terminar y no marquen los árboles con tiza ni pintura.
+
 ## Desarrollo
 1. **Aprendizaje** (15 min): Aprendé y practicá los símbolos de senderos.
 2. **Planificación** (15 min): Diseñá la ruta del sendero con tu grupo.
@@ -184,5 +186,12 @@ Aprendé cómo hacer símbolos de senderos y creá un sendero en el bosque para 
 - ¿Qué aprendiste sobre la orientación en los bosques?
 - ¿Cómo te sentiste al crear y seguir el sendero?
 - ¿Qué habilidades creés que se necesitan para navegar en el bosque?
+
+---
+## Texto original completo de la actividad
+
+**C.15 RASTREADORES DE SENDEROS** Algunas personas que viven dentro y alrededor de los bosques son muy buenas para navegar por medio de los bosques aunque no existan carreteras ni señalización. En su lugar, estas personas usan otros puntos de referencia o marcas para señalizar un sendero y encontrar el camino. Aprende cómo hacer símbolos de senderos que significan cosas como ‘sigue derecho’, ‘curva a la derecha’, ‘para’ y ’me he ido a casa’. Con dos o tres amigos, haz un sendero a través del bosque usando los símbolos de los senderos. Inviten a otro grupo para que intente seguir su sendero.
+
+niveles 3 2
 
 ---

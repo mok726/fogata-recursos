@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,5 +185,12 @@ Enumerá empleos que dependen de los bosques. Jugá un juego de adivinanzas imit
 - ¿Qué empleos forestales te parecieron más interesantes?
 - ¿Cómo dependen estos empleos de los bosques?
 - ¿Qué compromiso adquieres para valorar el trabajo forestal?
+
+---
+## Texto original completo de la actividad
+
+**B.04 EMPLEOS FORESTALES** Enumera tantos empleos como puedas que dependen de los bosques, sea directa o indirectamente. Con tu grupo, juega un juego de adivinanzas en el cual una persona debe imitar el empleo y las otras personas deben tratar de adivinar cuál es.
+
+niveles 3 2 1
 
 ---

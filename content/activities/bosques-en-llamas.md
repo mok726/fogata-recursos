@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -168,6 +168,8 @@ Averiguá cómo tu municipalidad y/o tu país maneja los incendios forestales. C
 1. Investigá cómo tu municipalidad o país maneja los incendios forestales.
 2. Prepará preguntas para investigar (incendios controlados, prevención, etc.).
 
+> **Nota para el educador:** en Argentina, por ejemplo, el Servicio Nacional de Manejo del Fuego (Ley 26.815).
+
 ## Desarrollo
 1. **Investigación** (30 min): Averiguá cómo se manejan los incendios forestales en tu área.
 2. **Análisis** (15 min): Reflexioná sobre si se llevan a cabo incendios controlados, se permiten incendios naturales, y si se educa a los residentes.
@@ -178,5 +180,12 @@ Averiguá cómo tu municipalidad y/o tu país maneja los incendios forestales. C
 - ¿Qué aprendiste sobre el manejo de incendios forestales en tu área?
 - ¿Cómo podés ayudar a prevenir incendios accidentales y descontrolados?
 - ¿Qué compromiso adquieres para contribuir a la prevención de incendios?
+
+---
+## Texto original completo de la actividad
+
+**D.13 BOSQUES EN LLAMAS** Los incendios pueden ser parte del ciclo natural de los bosques. De hecho, algunas semillas necesitan el intenso calor de un incendio antes de poder germinar. Por otro lado, algunos incendios destruyen enormes cantidades de un bosque y los hogares de las personas. Averigua cómo tu municipalidad y/o tu país maneja los incendios forestales. ¿Lleva a cabo incendios controlados (incendiar partes específicas de un bosque bajo una cuidadosa supervisión)? ¿Permite los incendios forestales naturales? ¿Educa a los residentes sobre la prevención de incendios forestales? ¿El fuego es importante para los ecosistemas forestales en tu área? ¿Qué puedes hacer para prevenir incendios accidentales y descontrolados? Comparte tus ideas con tu grupo.
+
+niveles 3
 
 ---

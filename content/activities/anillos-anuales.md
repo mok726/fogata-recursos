@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -187,5 +187,12 @@ Examiná un tocón o tronco cortado para contar sus anillos de crecimiento. Dete
 - ¿Qué edad tiene tu árbol?
 - ¿Qué te indican los anillos sobre la historia del árbol?
 - ¿Qué aprendiste sobre la vida de los árboles?
+
+---
+## Texto original completo de la actividad
+
+**A.07 ANILLOS ANUALES** La edad de un árbol se puede determinar por el número de anillos que posee. Encuentra un tocón de árbol o un tronco cortado y examina sus anillos de crecimiento. ¿Cuántos anillos de crecimiento ves? Cada anillo de crecimiento representa una temporada de crecimiento. ¿Qué edad tiene tu árbol? ¿Los anillos están espaciados uniformemente o no? ¿Qué te indica el espaciado sobre la historia de la vida de tu árbol? Piensa en aquello que eso te indica sobre el bosque donde encontraste el tocón o el tronco. Haz un póster para mostrar los anillos de crecimiento de tu árbol.
+
+niveles 2 1
 
 ---

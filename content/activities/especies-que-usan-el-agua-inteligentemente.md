@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,7 +170,7 @@ Aprendé cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin
 
 ## Preparación
 1. Investigá especies que han desarrollado adaptaciones para sobrevivir sin agua.
-2. Elegí cuatro especies diferentes (ej. un árbol conífero, un ave, un champiñón, una flor silvestre).
+2. Elegí cuatro especies diferentes (ej. un árbol conífero, un ave, un hongo, una flor silvestre).
 
 ## Desarrollo
 1. **Investigación** (30 min): Investigá cómo cada especie logra encontrar agua o sobrevivir sin agua.
@@ -182,5 +182,12 @@ Aprendé cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin
 - ¿Qué estrategias de supervivencia te parecieron más sorprendentes?
 - ¿Cómo afectará el cambio climático la disponibilidad de agua en los bosques?
 - ¿Qué compromiso adquieres para cuidar el agua en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**D.10 ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE** Todas las formas de vida necesitan agua para sobrevivir. Pero obtener suficiente agua puede ser muy complicado en algunas estaciones, por ejemplo, en la estación seca cuando no llueve o en el invierno cuando el agua está congelada. Aprende cómo cuatro especies diferentes (por ej. un árbol conífero, una ave, un champiñón y una flor silvestre) logran encontrar agua o sobrevivir sin agua durante estos períodos. ¿Crees que estas estrategias continuarán funcionando si el cambio climático afecta la disponibilidad de agua en los bosques? ¿Por qué sí o por qué no?
+
+niveles 3 2
 
 ---

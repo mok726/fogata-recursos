@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,5 +182,12 @@ Dibujá, hacé un collage o creá un modelo de una red alimentaria que conecte a
 - ¿Qué conexiones encontraste en la red alimentaria?
 - ¿Cómo afecta la desaparición de una especie a la red?
 - ¿Qué compromiso adquieres para proteger la biodiversidad?
+
+---
+## Texto original completo de la actividad
+
+**A.09 ¿QUIÉN SE COME A QUIÉN?** Dibuja, haz un collage o crea un modelo de una red alimentaria que conecte a muchas especies que vivan en un bosque.
+
+niveles 2 1
 
 ---

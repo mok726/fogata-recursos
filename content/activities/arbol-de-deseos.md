@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,6 +180,10 @@ Recolectá materiales del bosque que se pueden usar como papel (corteza, hojas, 
 2. Prepará materiales para escribir y crear el collage.
 3. Pensá en deseos para vos, para otros o para el mundo.
 
+> **Nota de seguridad:** junten solo elementos caídos y nunca arranquen corteza, hojas ni ramas de plantas vivas. En parques nacionales y otras áreas protegidas está prohibido sacar cualquier cosa: ahí, solo fotos y dibujos.
+
+> **Nota para el educador:** el correo yunga@fao.org es del original (2013): verifiquen que siga activo antes de enviar fotos.
+
 ## Desarrollo
 1. **Recolección** (20 min): Recolectá materiales naturales del bosque.
 2. **Escritura** (15 min): Escribí tus deseos en los materiales recolectados.
@@ -191,5 +195,12 @@ Recolectá materiales del bosque que se pueden usar como papel (corteza, hojas, 
 - ¿Qué deseos escribiste y por qué?
 - ¿Cómo te hizo sentir crear el Árbol de Deseos?
 - ¿Qué compromiso adquieres para hacer realidad tus deseos?
+
+---
+## Texto original completo de la actividad
+
+**C.05 ÁRBOL DE DESEOS** Recolecten materiales del bosque que se pueden usar como papel (por ej. corteza, hojas, etc.). Escriban deseos sobre estos y luego úsenlos para crear un gran collage de un árbol - o un grupo de árboles, si tienen suficientes deseos. Sus deseos pueden ser para ustedes mismos, para sus amigos y sus familias o para todo el mundo. ¡Asegúrense de enviar fotografías de sus árboles de deseos a yunga@fao.org!
+
+niveles 2 1
 
 ---

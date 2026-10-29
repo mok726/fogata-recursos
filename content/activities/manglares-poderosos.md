@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3479e"
+    url: "https://www.fao.org/3/i3479s/i3479s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -177,6 +177,8 @@ Aprendé cómo los bosques de manglar protegen las áreas costeras contra mareas
 2. Si es posible, planea una visita a un manglar.
 3. Prepará cuaderno para observaciones.
 
+> **Nota para el educador:** si en tu país no hay manglares (en Argentina, por ejemplo, no los hay), investiguen un ambiente parecido que proteja las costas, como los bosques en galería o los humedales del Delta del Paraná.
+
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé cómo los manglares protegen las costas.
 2. **Visita** (30 min): Si es posible, visita un bosque de manglar.
@@ -188,5 +190,12 @@ Aprendé cómo los bosques de manglar protegen las áreas costeras contra mareas
 - ¿Cómo protegen los manglares las áreas costeras?
 - ¿Qué especies viven en los manglares?
 - ¿Qué compromiso adquieres para proteger los manglares?
+
+---
+## Texto original completo de la actividad
+
+**A.26 MANGLARES PODEROSOS** Aprende cómo un bosque de manglar puede ayudar a proteger las áreas costeras contra las mareas tormentosas (olas enormes provocadas en el mar por vientos extraordinariamente fuertes que empujan la superficie del agua) y los tsunamis (olas gigantes causadas por grandes masas de agua marina que se mueve debido a eventos como terremotos o erupciones volcánicas submarinas). Si puedes, visita un bosque de manglar. Observa la forma cómo crecen los árboles. ¿Cómo se ve el sistema de raíces? ¿Qué otras especies -tanto terrestres como acuáticasviven en el bosque de manglar? ¿Qué rol crees que los árboles de manglar juegan en la provisión de una ‘estructura’ en la cual vivan estas especies?
+
+niveles 3 2
 
 ---
