@@ -9,5 +9,5 @@ fonts:
 {% set heroTitle = skill.name %}
 {% set heroText = skill.description or "" %}
 {% set browserItems = collections.activitiesSorted | activitiesFor("skill", skill.name) %}
-{% set fixed = { filter: "otro", label: "Competencia", text: skill.name } %}
+{% set fixed = { filter: "competencia", text: skill.name } %}
 {% include "components/browse-page.njk" %}

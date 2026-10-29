@@ -11,6 +11,9 @@
   data-age="{% for g in (item.age_group or []) %}{{ (g | normalizeAge(ageGroups)).id }} {% endfor %}"
   data-type="{{ (item.main_type or '') | string | trim | slugify }}"
   data-badges="{% for b in (item.activity_badges or []) %}{{ (b.id or b) | string | lower }} {% endfor %}"
+  data-skills="{% for v in (item.skills or []) %}{{ v | string | trim | slugify }} {% endfor %}"
+  data-values="{% for v in (item.scout_values or []) %}{{ v | string | trim | slugify }} {% endfor %}"
+  data-methods="{% for v in (item.scout_method or []) %}{{ v | string | trim | slugify }} {% endfor %}"
   data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
   data-dur="{{ item.duration | durationBucket }}">
 {% include "components/activity-card.njk" %}

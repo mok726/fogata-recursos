@@ -1081,6 +1081,41 @@ else {
     }
   );
 
+  // Opciones de los filtros de listas del front matter
+  // (skills, scout_values, scout_method): los valores que
+  // existen, con su cantidad, ordenados por nombre. El id es el
+  // slug del nombre, igual que en activity-listing-item.njk.
+  eleventyConfig.addFilter(
+    "fieldOptions",
+    function(activities, field) {
+
+      const slugify = eleventyConfig.getFilter("slugify");
+      const options = new Map();
+
+      for (const a of activities) {
+        for (const v of a.data[field] || []) {
+
+          const name = String(v || "").trim();
+
+          if (!name) {
+            continue;
+          }
+
+          const id = slugify(name);
+          const o = options.get(id) || { id, name, count: 0 };
+
+          o.count++;
+          options.set(id, o);
+
+        }
+      }
+
+      return [...options.values()]
+        .sort((a, b) => a.name.localeCompare(b.name, "es"));
+
+    }
+  );
+
   // Opciones del filtro "Insignia": sólo las que tienen
   // actividades, con su cantidad.
   eleventyConfig.addFilter(

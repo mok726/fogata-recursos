@@ -191,6 +191,8 @@ body:has(.acts) {
 
 .acts-filters-badge[hidden] { display: none; }
 
+.acts-filters label[hidden] { display: none; }
+
 .acts-filters-grid {
   display: grid;
   grid-template-columns: repeat(6, minmax(0, 1fr));
