@@ -3,7 +3,7 @@ title: "Entrevistá a un Anciano"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-a-un-anciano/"
-description: "Entrevistá a un abuelo o anciano para aprender cómo vivían en el pasado."
+description: "Entrevistá a un abuelo o una persona mayor para aprender cómo vivían en el pasado."
 summary: "Entrevistá intergeneracional sobre estilos de vida."
 
 author:
@@ -49,7 +49,7 @@ required_category: ""
 tags:
   - sacc
   - entrevista
-  - ancianos
+  - personas mayores
   - historia
   - energia
   - comparacion
@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -148,7 +148,7 @@ rama_rovers: []
 # ¡Entrevistá a un Anciano!
 
 ## Resumen
-Entrevistá a tu abuelo o a un amigo anciano para aprender cómo vivían cuando eran niños.
+Entrevistá a tu abuelo o a una persona mayor amiga para aprender cómo vivían cuando eran niños.
 
 ## Preparación
 1. Identificá a una persona mayor para entrevistar.
@@ -162,7 +162,7 @@ Entrevistá a tu abuelo o a un amigo anciano para aprender cómo vivían cuando 
 4. **Compartir** (5 min): Compartí tus dibujos con el grupo.
 
 ## Cierre
-- ¿Cómo era la vida de los ancianos cuando eran niños?
+- ¿Cómo era la vida de las personas mayores cuando eran niños?
 - ¿Cómo es diferente tu uso de energía?
 - ¿Qué aprendiste de esta experiencia?
 

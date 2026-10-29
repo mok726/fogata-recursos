@@ -3,7 +3,7 @@ title: "Bolsa Reutilizable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/bolsa-reutilizable/"
-description: "Usá una bolsa reutilizable en lugar de fundas plásticas."
+description: "Usá una bolsa reutilizable en lugar de bolsas plásticas."
 summary: "Uso de bolsa reutilizable."
 
 author:
@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -145,7 +145,7 @@ rama_rovers: []
 # ¡Bolsa Reutilizable!
 
 ## Resumen
-Usá una bolsa reutilizable en lugar de fundas plásticas cuando vayas de compras.
+Usá una bolsa reutilizable en lugar de bolsas plásticas cuando vayas de compras.
 
 ## Preparación
 - Conseguí una bolsa reutilizable.

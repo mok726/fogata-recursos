@@ -74,7 +74,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -167,6 +167,8 @@ Aprendé a hacer tu propio papel reciclado con la ayuda de un adulto.
 1. Reuní papel usado.
 2. Prepará los materiales necesarios.
 3. Pedí ayuda a un adulto.
+
+> **Nota de seguridad:** la licuadora se usa con supervisión de un adulto, con la tapa puesta y sin meter las manos ni utensilios mientras está enchufada.
 
 ## Desarrollo
 1. **Preparación** (10 min): Cortá el papel en trozos pequeños.

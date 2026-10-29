@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -155,6 +155,8 @@ Construí una abonera para transformar desechos biodegradables en abono para tus
 1. Reuní madera vieja y clavos.
 2. Prepará el área del jardín.
 3. Identificá desechos biodegradables.
+
+> **Nota de seguridad:** martillo, clavos y madera vieja (puede tener astillas o clavos oxidados) con supervisión de un adulto y guantes.
 
 ## Desarrollo
 1. **Construcción** (30 min): Armá la estructura de la abonera.

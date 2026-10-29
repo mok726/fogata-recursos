@@ -100,3 +100,13 @@
 | carboschools (C31) | fiel | **Carboschools** fue un proyecto europeo de alrededor de 2008–2011 (**probable**, no verificado): hoy no existe. Reemplazar por la medición de CO₂ en el aula con un sensor barato. | — | ok | P2 |
 | organizador-comunitario (C32) | fiel | 350.org/es: vigente (no verifiqué). | Manifestaciones con menores: autorización. | genérica | P3 |
 | adopta-un-rio-o-lago (C33) | fiel | — | **Seguridad en el agua**: no meterse, guantes, no tocar residuos peligrosos. | ok | P2 |
+
+## Estado (2026-10-29)
+
+Aplicado (original `i1091s.pdf` de la carpeta local de Mariano, "© FAO 2010": la licencia ya estaba bien):
+- `sources` y `references.url` (88) pasan a https://www.fao.org/4/i1091s/i1091s.pdf (verificado).
+- Léxico en el cuerpo (los títulos no cambian): fundas → bolsas, tiradero → relleno sanitario (space_required), lonchera/jarro → vianda/taza, botado → iría a la basura, agua lluvia → agua de lluvia, hacienda → chacra o granja, anciano → persona mayor.
+- Enlaces: A09 (calculadora de PBA como ejemplo), B10 (Water Footprint Network), B12 (actividad interna "Horno Solar / Cocina Solar"), B18 (guía FAO a1301s), B19 (feedingminds ya no existe; opción: Día Mundial de la Alimentación), C31 (Carboschools terminó; opción: medidor de CO₂), C32 (350.org). A24 (hacerpapel) queda sin verificar.
+- Seguridad: A06, A13, A24, B02, B06, B11, B12, C23, C29, C32, C33. Ya estaban A07, A08, C17, C28.
+- Actualización: A11 (IRAM como ejemplo), A31, B05 (no frost), C10, C30. C17: nota que recomienda 16+ para la soda cáustica (se mantiene la edad del original).
+- Imágenes retiradas (quedan con la imagen genérica y en la lista de regeneración): A15, B10, B17, C28. A04, A07, A11 y B12 siguen en la lista.

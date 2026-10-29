@@ -3,7 +3,7 @@ title: "Reciclaje de Agua"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-agua/"
-description: "Reciclá agua de cocina, baño y recogé agua lluvia."
+description: "Reciclá agua de cocina, baño y recogé agua de lluvia."
 summary: "Reciclaje de agua en el hogar."
 
 author:
@@ -61,7 +61,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -148,7 +148,7 @@ rama_rovers:
 # ¡Reciclaje de Agua!
 
 ## Resumen
-Reciclá el agua de cocina, baño y limpieza, y recogé agua lluvia para regar plantas.
+Reciclá el agua de cocina, baño y limpieza, y recogé agua de lluvia para regar plantas.
 
 ## Preparación
 - Identificá fuentes de agua reciclable.

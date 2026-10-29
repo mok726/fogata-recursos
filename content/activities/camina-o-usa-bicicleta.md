@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -155,6 +155,8 @@ Caminá o usá tu bicicleta para ir a la escuela o al trabajo durante al menos u
 - Planificá una ruta segura.
 - Asegurate de que el clima lo permita.
 - Hablá con tus padres sobre el proyecto.
+
+> **Nota de seguridad:** elijan rutas seguras, usen casco y luces en la bici y respeten las normas de tránsito. Los más chicos (castores), siempre con un adulto.
 
 ## Desarrollo
 1. **Compromiso** (5 min): Decidí caminar o usar bicicleta.

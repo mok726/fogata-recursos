@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -149,6 +149,8 @@ Organizá la instalación de paneles solares u otros sistemas de energía verde 
 1. Investigá sobre sistemas de energía renovable.
 2. Buscá donaciones o iniciativas gubernamentales.
 3. Planificá la instalación.
+
+> **Nota de seguridad:** la instalación eléctrica (paneles, inversores, conexión a la red) la hace un profesional matriculado. Los protagonistas pueden investigar, planificar y acompañar, con supervisión adulta.
 
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé sobre energía verde.

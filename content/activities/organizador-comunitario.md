@@ -65,7 +65,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -158,6 +158,10 @@ Organizá un evento para elevar la conciencia pública sobre un aspecto local de
 1. Definí el objetivo específico.
 2. Hacé pancartas y pósters.
 3. Contactá a medios locales.
+
+> **Nota para el educador:** 350.org sigue activa, pero la página en español con el plan de 9 pasos que cita el original ya no está; el enlace lleva al sitio general.
+
+> **Nota de seguridad:** si el evento es una manifestación o se hace en la vía pública, pidan autorización de las familias y los permisos que correspondan, y vayan siempre con adultos responsables.
 
 ## Desarrollo
 1. **Planificación** (30 min): Diseñá el evento.

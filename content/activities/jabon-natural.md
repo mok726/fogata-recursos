@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -158,6 +158,8 @@ Aprendé a hacer jabón natural con la ayuda de un artesano y véndelo para una 
    - Seguridad: el jabón artesanal se hace con soda cáustica, que quema la piel y los ojos. Solo la manipula un adulto, con guantes y antiparras. Los más chicos pueden usar base de glicerina para fundir (sin soda) o solo observar.
 2. Reuní los ingredientes y materiales.
 3. Organizá la venta.
+
+> **Nota para el educador:** la FAO no pone edad mínima, pero recomendamos que solo los mayores de 16 elaboren jabón con soda cáustica, con supervisión adulta. Los más chicos pueden usar base de glicerina para fundir.
 
 ## Desarrollo
 1. **Aprendizaje** (30 min): Aprendé a hacer jabón natural.

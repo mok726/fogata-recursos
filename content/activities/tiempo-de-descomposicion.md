@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -155,6 +155,8 @@ Investigá cuánto tiempo tardan diferentes elementos de basura en descomponerse
 ## Preparación
 - Accedé a recursos sobre descomposición.
 - Prepará materiales para presentar.
+
+> **Nota para el educador:** muchas tablas de "tiempos de descomposición" que circulan en internet no citan fuente y se contradicen. Elijan una que diga de dónde salen los datos.
 
 ## Desarrollo
 1. **Investigación** (20 min): Averiguá el tiempo de descomposición de diferentes elementos.

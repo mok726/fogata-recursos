@@ -3,7 +3,7 @@ title: "Menos Televisión y Computadora"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-television-y-computador/"
-description: "Comprométete a usar menos tiempo la televisión y la computadora."
+description: "Comprometete a usar menos tiempo la televisión y la computadora."
 summary: "Reducción de tiempo frente a pantallas."
 
 author:
@@ -59,7 +59,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -140,7 +140,7 @@ rama_rovers: []
 # ¡Menos Televisión y Computadora!
 
 ## Resumen
-Comprométete a usar tu televisión o computadora menos tiempo cada día.
+Comprometete a usar tu televisión o computadora menos tiempo cada día.
 
 ## Preparación
 - Reflexioná sobre cuánto tiempo pasás frente a pantallas.

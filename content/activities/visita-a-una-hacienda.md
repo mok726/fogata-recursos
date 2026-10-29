@@ -3,8 +3,8 @@ title: "Visitá a una Hacienda"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-una-hacienda/"
-description: "Visitá una hacienda tradicional y una orgánica para aprender sobre producción de alimentos."
-summary: "Visitá a una hacienda."
+description: "Visitá una chacra o granja tradicional y una orgánica para aprender sobre producción de alimentos."
+summary: "Visita a una chacra o granja."
 
 author:
   - FAO
@@ -50,7 +50,7 @@ required_category: ""
 
 tags:
   - sacc
-  - hacienda
+  - chacra
   - agricultura
   - organico
   - alimentos
@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -98,7 +98,7 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a traditional and an organic farm, learning about crops and animals with their school or youth group dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning from farmers. Agricultural education and sustainable farming atmosphere. No text, no letters, no words. Wide shot."
 
 location: "Exterior"
-space_required: "Hacienda tradicional y orgánica"
+space_required: "Chacra o granja tradicional y orgánica"
 prep_time: "30 min"
 participants: "4-20"
 
@@ -151,16 +151,16 @@ rama_rovers:
 # ¡Visitá a una Hacienda!
 
 ## Resumen
-Visitá una hacienda tradicional y una orgánica para aprender sobre productos que se cultivan y animales que se crían en tu área.
+Visitá una chacra o granja tradicional y una orgánica para aprender sobre productos que se cultivan y animales que se crían en tu área.
 
 ## Preparación
-1. Identificá haciendas para visitar.
+1. Identificá chacras o granjas para visitar.
 2. Organizá el transporte y los permisos.
 3. Prepará preguntas para los agricultores.
 
 ## Desarrollo
-1. **Visita** (40 min): Recorré la hacienda tradicional.
-2. **Visita** (30 min): Recorré la hacienda orgánica.
+1. **Visita** (40 min): Recorré la chacra tradicional.
+2. **Visita** (30 min): Recorré la chacra orgánica.
 3. **Comparación** (10 min): ¿Cuáles son las diferencias?
 4. **Reflexión** (10 min): Compartí lo aprendido.
 

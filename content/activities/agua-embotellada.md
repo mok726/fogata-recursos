@@ -59,7 +59,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -151,6 +151,8 @@ Averiguá si el agua de la canilla es segura y dejá de comprar agua embotellada
 ## Preparación
 - Investigá la calidad del agua local.
 - Hablá con tu familia sobre el proyecto.
+
+> **Nota de seguridad:** antes de dejar el agua envasada, verifiquen que el agua de la canilla sea potable (con la empresa de agua o con un análisis). Donde no lo es (por ejemplo, en Argentina, pozos con arsénico en algunas zonas), no la reemplacen: usen un filtro adecuado o bidones retornables.
 
 ## Desarrollo
 1. **Investigación** (15 min): ¿Es segura el agua de la canilla?

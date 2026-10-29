@@ -61,7 +61,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -154,6 +154,8 @@ Contactá a científicos, meteorólogos, grupos ambientales y oficinas de la ONU
 1. Identificá expertos en tu país.
 2. Prepará preguntas.
 3. Contactá a los expertos.
+
+> **Nota para el educador:** en Argentina, por ejemplo, pueden contactar al Servicio Meteorológico Nacional, el CONICET, el INTA o la autoridad ambiental nacional o provincial.
 
 ## Desarrollo
 1. **Investigación** (15 min): Identificá expertos.

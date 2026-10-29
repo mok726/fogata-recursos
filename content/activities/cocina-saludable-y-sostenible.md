@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -157,6 +157,8 @@ Aprendé a cocinar una comida sana y balanceada para tu familia, usando producto
 1. Elegí una receta con productos locales.
 2. Hacé una lista de compras.
 3. Reuní los ingredientes.
+
+> **Nota de seguridad:** con los más chicos, el fuego y los cuchillos con supervisión de un adulto. Consulten antes alergias, intolerancias y celiaquía.
 
 ## Desarrollo
 1. **Planificación** (15 min): Elegí la receta y hacé la lista.
