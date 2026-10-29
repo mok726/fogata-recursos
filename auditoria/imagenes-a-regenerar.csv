@@ -81,11 +81,11 @@ P1,rrd,B08,riesgo-calculado,/imagenes/actividades/riesgo-calculado.jpg,"muestra 
 P1,rrd,D05,treinta-dias-por-el-ambiente,/imagenes/actividades/treinta-dias-por-el-ambiente.jpg,calendario con texto en inglés sin sentido
 P1,sacc,A07,bombillas-ahorradoras-de-energia,/imagenes/actividades/bombillas-ahorradoras-de-energia.jpg,mala (chicos tocando una lamparita incandescente encendida)
 P1,sacc,A11,electrodomesticos-ahorradores-de-energia,/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg,"mala (scouts en un campo, nada que ver)"
-P1,sacc,A15,ducha-rapida,/imagenes/actividades/ducha-rapida.jpg,mala (menor en la ducha: no apta para un sitio con chicos)
-P1,sacc,B10,recursos-para-producir-alimentos,/imagenes/actividades/recursos-para-producir-alimentos.jpg,mala (adulto con un rifle al fondo)
+P1,sacc,A15,ducha-rapida,/imagenes/actividades/ducha-rapida.jpg,mala (menor en la ducha: no apta para un sitio con chicos) [retirada 2026-10-29]
+P1,sacc,B10,recursos-para-producir-alimentos,/imagenes/actividades/recursos-para-producir-alimentos.jpg,mala (adulto con un rifle al fondo) [retirada 2026-10-29]
 P1,sacc,B12,horno-solar,/imagenes/actividades/horno-solar.jpg,"mala (chico metido en un horno de barro, que no es solar)"
-P1,sacc,B17,clima-y-agricultura,/imagenes/actividades/clima-y-agricultura.jpg,mala (adulto con un rifle)
-P1,sacc,C28,colecta-puerta-a-puerta,/imagenes/actividades/colecta-puerta-a-puerta.jpg,mala (persona encapuchada)
+P1,sacc,B17,clima-y-agricultura,/imagenes/actividades/clima-y-agricultura.jpg,mala (adulto con un rifle) [retirada 2026-10-29]
+P1,sacc,C28,colecta-puerta-a-puerta,/imagenes/actividades/colecta-puerta-a-puerta.jpg,mala (persona encapuchada) [retirada 2026-10-29]
 P2,agua,A05,la-gallina-ciega,/imagenes/actividades/la-gallina-ciega.jpg,floja (afiche con texto ilegible)
 P2,agua,A17,donde-esta-el-agua,/imagenes/actividades/donde-esta-el-agua.jpg,floja (marca de agua + franjas)
 P2,agua,A18,cientificos-nadadores,/imagenes/actividades/cientificos-nadadores.jpg,floja (nadan con uniforme y mochila)

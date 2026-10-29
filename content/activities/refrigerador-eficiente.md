@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -152,6 +152,8 @@ Ayudá a tus padres a instalar y mantener la heladera para ahorrar energía.
 ## Preparación
 - Hablá con tus padres sobre el proyecto.
 - Aprendé sobre la temperatura correcta de la heladera.
+
+> **Nota para el educador:** las heladeras "no frost" no se descongelan a mano; en ese caso, revisen que el burlete cierre bien y que la parte de atrás tenga espacio para ventilar.
 
 ## Desarrollo
 1. **Instalación** (15 min): Asegurate de que esté bien instalado.

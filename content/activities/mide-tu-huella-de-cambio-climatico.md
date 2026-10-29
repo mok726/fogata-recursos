@@ -55,11 +55,8 @@ tags:
   - plan
 
 link:
-  - url: "http://www.myfootprint.org/es/about_the_quiz/what_it_measures/"
-    caption: "Calculadora de huella ecológica"
-    icon: "read_more"
-  - url: "http://desarrollosustentable.pemex.com/portal/index.cfm?action=mapa&flashid=huella"
-    caption: "Calculadora de huella de carbono"
+  - url: "https://www.gba.gob.ar/desarrollo_agrario/huella_de_carbono/calculadora_hc_personal"
+    caption: "Calculadora de huella de carbono personal (Provincia de Buenos Aires, Argentina)"
     icon: "read_more"
 
 files: []
@@ -69,7 +66,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -162,6 +159,8 @@ Medí tu huella de carbono usando calculadoras en línea y hacé un plan para re
 1. Accedé a una calculadora de huella de carbono.
 2. Prepará papel y lapiceras.
 3. Reflexioná sobre tus actividades diarias.
+
+> **Nota para el educador:** las calculadoras que cita el original (myfootprint.org y la de Pemex) ya no existen. Usen cualquier calculadora vigente en su idioma; en Argentina, por ejemplo, la de la Provincia de Buenos Aires (planilla descargable, en el enlace). También se puede hacer en papel, como propone el original.
 
 ## Desarrollo
 1. **Cálculo** (20 min): Medí tu huella de carbono.

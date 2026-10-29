@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -96,7 +96,7 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group visiting the local landfill, analyzing its sustainability and discussing solutions with municipal authorities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and discussing. Waste management and sustainability investigation atmosphere. No text, no letters, no words. Wide shot."
 
 location: "Exterior"
-space_required: "Tiradero de basura local"
+space_required: "Relleno sanitario habilitado"
 prep_time: "30 min"
 participants: "4-20"
 
@@ -155,6 +155,8 @@ Visitá el basural local, analizá su sostenibilidad y hablá con las autoridade
 1. Identificá el basural local.
 2. Organizá la visita.
 3. Prepará preguntas.
+
+> **Nota de seguridad:** visiten solo un relleno sanitario o planta habilitada, en una visita oficial organizada con el operador, con calzado cerrado y siguiendo sus indicaciones. No entren a basurales a cielo abierto: hay riesgo sanitario, de cortes y de incendio.
 
 ## Desarrollo
 1. **Visita** (40 min): Recorré las instalaciones.

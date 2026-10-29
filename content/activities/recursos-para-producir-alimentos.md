@@ -13,7 +13,6 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/recursos-para-producir-alimentos.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -55,8 +54,8 @@ tags:
   - huella
 
 link:
-  - url: "https://www.fao.org/nr/water/promotional.html"
-    caption: "Agua y alimentos - FAO"
+  - url: "https://www.waterfootprint.org/resources/interactive-tools/product-gallery/"
+    caption: "Huella hídrica de los alimentos - Water Footprint Network (en inglés)"
     icon: "read_more"
 
 files: []
@@ -66,7 +65,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -159,6 +158,8 @@ Investigá cuánta energía, agua y recursos se necesitan para producir diferent
 1. Accedé a recursos sobre el uso de agua en alimentos.
 2. Prepará papel y lapiceras.
 3. Seleccioná alimentos para investigar.
+
+> **Nota para el educador:** la página de la FAO que cita el original ya no tiene esos datos. La galería de la Water Footprint Network (en inglés) muestra cuántos litros de agua lleva producir cada alimento.
 
 ## Desarrollo
 1. **Investigación** (20 min): Buscá datos sobre recursos necesarios.

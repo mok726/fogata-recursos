@@ -51,8 +51,8 @@ tags:
   - cocina
 
 link:
-  - url: "http://www.sitiosolar.com/Horno%20Solar%20de%20caja.htm#procesodeconstruccion"
-    caption: "Cómo construir un horno solar"
+  - url: "/activities/horno-solar-cocina-solar/"
+    caption: "Actividad: Horno Solar / Cocina Solar (instrucciones de construcción)"
     icon: "read_more"
 
 files: []
@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -151,6 +151,10 @@ Aprendé a construir un horno solar y a cocinar usando energía renovable.
 1. Reuní los materiales necesarios.
 2. Encontrá un lugar soleado.
 3. Seguí las instrucciones del enlace.
+
+> **Nota para el educador:** el sitio que cita el original ya no existe. Para construirlo, sigan la actividad "Horno Solar / Cocina Solar" de este sitio (enlace).
+
+> **Nota de seguridad:** un horno solar casero no siempre llega a temperatura segura: no cocinen carne, pollo ni huevos crudos. Prueben con alimentos que se comen crudos o ya cocidos (fruta, malvaviscos, recalentar). El vidrio y el interior queman: usen guantes de cocina y anteojos de sol.
 
 ## Desarrollo
 1. **Construcción** (30 min): Construí el horno solar.

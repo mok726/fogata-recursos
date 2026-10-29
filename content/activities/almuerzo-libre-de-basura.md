@@ -28,7 +28,7 @@ age_group:
   - caminantes
 
 materials:
-  - Lonchera reusable
+  - Vianda reutilizable
   - Recipientes reutilizables
   - Botella rellenable
   - Cubiertos reutilizables
@@ -52,7 +52,7 @@ tags:
   - sacc
   - almuerzo
   - cero-residuos
-  - lonchera
+  - vianda
   - reutilizable
 
 link: []
@@ -64,7 +64,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -154,13 +154,13 @@ rama_rovers:
 Llevá un almuerzo sin generar basura a la escuela.
 
 ## Preparación
-- Conseguí una lonchera reusable.
+- Conseguí una vianda reutilizable.
 - Prepará recipientes reutilizables.
-- Llevá tu propio jarro y cubiertos.
+- Llevá tu propia taza y cubiertos.
 
 ## Desarrollo
 1. **Preparación** (15 min): Prepará el almuerzo sin residuos.
-2. **Acción** (continua): Usá la lonchera y recipientes reutilizables.
+2. **Acción** (continua): Usá la vianda y recipientes reutilizables.
 3. **Reflexión** (10 min): ¿Cuánta basura ahorraste?
 
 ## Cierre

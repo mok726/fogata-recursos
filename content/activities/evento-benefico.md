@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -155,6 +155,8 @@ Organizá una carrera, concierto o bazar para recaudar fondos para proyectos amb
 1. Elegí el tipo de evento.
 2. Planificá la logística.
 3. Promocioná el evento.
+
+> **Nota de seguridad:** si el evento se hace en la calle (por ejemplo, una carrera), pidan los permisos municipales y organicen el corte de tránsito y la asistencia sanitaria.
 
 ## Desarrollo
 1. **Planificación** (30 min): Diseñá el evento.

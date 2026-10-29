@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -153,6 +153,10 @@ Investigá si tu escuela puede unirse a la red Carboschools para medir CO2 atmos
 1. Investigá sobre Carboschools.
 2. Hablá con la dirección de tu escuela.
 3. Prepará materiales para la propuesta.
+
+> **Nota para el educador:** Carboschools fue un proyecto europeo que ya terminó.
+
+> **Opción:** midan el CO₂ en el aula con un medidor de CO₂ (NDIR) económico, como los que se usaron para ventilar aulas en la pandemia, y registren cómo cambia con la ventana abierta o cerrada, o con más o menos gente.
 
 ## Desarrollo
 1. **Investigación** (20 min): Aprendé sobre Carboschools.

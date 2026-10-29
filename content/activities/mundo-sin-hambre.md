@@ -53,10 +53,7 @@ tags:
   - juventud
   - mundo
 
-link:
-  - url: "https://www.feedingminds.org/yw/index_es.htm"
-    caption: "Alimentar la Mente - Ventana de la Juventud"
-    icon: "read_more"
+link: []
 
 files: []
 
@@ -65,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -157,6 +154,10 @@ rama_rovers:
 ## Preparación
 1. Accedé a la plataforma en línea.
 2. Prepará materiales para participar.
+
+> **Nota para el educador:** la comunidad en línea de la FAO que cita el original (feedingminds.org) ya no existe.
+
+> **Opción:** súmense a la campaña del Día Mundial de la Alimentación (16 de octubre) que organiza la FAO cada año; ver la actividad "Día Mundial de la Alimentación" de esta insignia.
 
 ## Desarrollo
 1. **Registro** (10 min): Únete a la comunidad.

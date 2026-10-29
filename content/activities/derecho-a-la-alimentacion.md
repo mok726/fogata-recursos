@@ -55,8 +55,8 @@ tags:
   - justicia
 
 link:
-  - url: "https://www.feedingminds.org/info/info_cartoon_es.htm"
-    caption: "El Derecho a la Alimentación - Libro de dibujos"
+  - url: "https://www.fao.org/docrep/pdf/009/a1301s/a1301s.pdf"
+    caption: "El derecho a la alimentación: una ventana abierta al mundo - Guía de referencias y actividades (FAO, PDF)"
     icon: "read_more"
 
 files: []
@@ -66,7 +66,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -158,6 +158,8 @@ Aprendé sobre el derecho humano a la alimentación usando el libro de dibujos.
 ## Preparación
 1. Accedé al libro de dibujos en línea.
 2. Prepará materiales para dibujar.
+
+> **Nota para el educador:** el sitio feedingminds.org que cita el original ya no está disponible. La guía de actividades del libro sigue en el sitio de la FAO (enlace, PDF en español).
 
 ## Desarrollo
 1. **Lectura** (20 min): Leé el libro de dibujos.

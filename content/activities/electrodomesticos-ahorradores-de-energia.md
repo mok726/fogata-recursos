@@ -61,7 +61,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -152,6 +152,8 @@ Investigá electrodomésticos ahorradores de energía y recomienda opciones a tu
 1. Identificá electrodomésticos que tu familia planea comprar.
 2. Investigá sobre etiquetas de eficiencia energética.
 3. Prepará materiales para la presentación.
+
+> **Nota para el educador:** busquen la etiqueta de eficiencia energética de su país (en Argentina, por ejemplo, la etiqueta IRAM con letras de A a G).
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá electrodomésticos eficientes.

@@ -61,7 +61,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -154,6 +154,8 @@ Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación.
 1. Identificá un área para adoptar.
 2. Organizá la limpieza.
 3. Prepará materiales para monitoreo.
+
+> **Nota de seguridad:** no se metan al agua y usen guantes resistentes. No toquen jeringas, vidrios, bidones de químicos ni residuos peligrosos: márquenlos y avisen a la autoridad local.
 
 ## Desarrollo
 1. **Limpieza** (1-2 horas): Limpiá el área.

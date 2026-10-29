@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2010
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/items/e8e82492-5c09-4d03-b72d-487f6bc9dd37"
+    url: "https://www.fao.org/4/i1091s/i1091s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -145,7 +145,7 @@ rama_rovers: []
 # ¡Inventá un Nuevo Uso!
 
 ## Resumen
-Inventá un nuevo uso para un residuo doméstico que normalmente sería botado.
+Inventá un nuevo uso para un residuo doméstico que normalmente iría a la basura.
 
 ## Preparación
 - Reuní residuos domésticos.
