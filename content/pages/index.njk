@@ -158,7 +158,7 @@ populares:
 
   <div class="grid">
 
-    {% for activityItem in collections.activitiesSorted %}
+    {% for activityItem in collections.activitiesRecent %}
       {% if loop.index <= 6 %}
         {% set item = activityItem.data %}
         {% set activityUrl = activityItem.url %}

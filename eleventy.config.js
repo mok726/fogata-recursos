@@ -98,6 +98,68 @@ eleventyConfig.addCollection(
 
 
 
+// Fecha de incorporación de cada actividad: el primer commit
+// que agregó el archivo (con su nombre actual). Se calcula con
+// una sola llamada a git. Sin historial (clon superficial o sin
+// git) queda vacío y las actividades caen al final por título.
+
+const activityAddedDates = (() => {
+
+  const dates = {};
+
+  try {
+    const log = require("child_process").execSync(
+      'git log --diff-filter=AR --name-only --format="@%cI" -- content/activities/',
+      { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 }
+    );
+
+    let current = "";
+
+    // git log va del más nuevo al más viejo: la última
+    // fecha vista para un archivo es la de su primer alta.
+    for (const line of log.split("\n")) {
+      if (line.startsWith("@")) current = line.slice(1);
+      else if (line.trim()) dates[line.trim()] = current;
+    }
+  } catch (e) {
+    console.warn("[fogata] Sin historial git: actividades recientes por título.");
+  }
+
+  return dates;
+
+})();
+
+
+// Más recientes primero. Usada por la landing
+// ("Actividades destacadas").
+
+eleventyConfig.addCollection(
+  "activitiesRecent",
+  function(collectionApi) {
+
+    const added = item =>
+      activityAddedDates[
+        item.inputPath.replace(/^\.\//, "")
+      ] || "";
+
+    return collectionApi
+      .getFilteredByGlob(
+        "content/activities/*.md"
+      )
+      .sort((a, b) =>
+        added(b).localeCompare(added(a)) ||
+        (a.data.title || "").localeCompare(
+          b.data.title || "",
+          "es"
+        )
+      );
+
+  }
+);
+
+
+
+
 // Orden por activity_code.
 // Usada únicamente por badge-page.njk para que las
 // actividades aparezcan siguiendo el orden oficial

@@ -26,7 +26,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Historial completo: la landing ordena por fecha de alta
+      # de cada actividad (primer commit del archivo).
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
