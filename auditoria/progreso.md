@@ -29,3 +29,5 @@
 - Link-check (G17), edad 16 para jabón y ayuno, piloto B-P, permiso de WeatherWizKids, regeneración de imágenes, material auxiliar faltante.
 
 **Niveles en gris (2026-10-29)**: revisados por color de los círculos de nivel (pdfplumber) en Suelos (49), Hambre (49), Océano (53) y Nutrición (77). Solo había un error: océano B07 (delicias-del-mar), que es 1 2 3 y figuraba 2 3. Corregido.
+
+**2026-10-30**: edad mínima 16 en en-sus-zapatos (ayuno) y jabon-natural (soda cáustica), con opción para menores de 16 como nota. Link-check (G17) como workflow mensual de GitHub Actions.

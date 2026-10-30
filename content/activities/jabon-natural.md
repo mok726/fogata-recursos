@@ -20,11 +20,8 @@ version: "0.99"
 
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "16-22 años"
 age_group:
-  - castores
-  - manada
-  - scouts
   - caminantes
   - rovers
 
@@ -151,20 +148,20 @@ rama_rovers:
 # ¡Jabón Natural!
 
 ## Resumen
-Aprendé a hacer jabón natural con la ayuda de un artesano y véndelo para una campaña contra la contaminación.
+Aprendé a hacer jabón natural con la ayuda de un artesano y vendelo para una campaña contra la contaminación.
 
 ## Preparación
 1. Encontrá un artesano que enseñe a hacer jabón.
-   - Seguridad: el jabón artesanal se hace con soda cáustica, que quema la piel y los ojos. Solo la manipula un adulto, con guantes y antiparras. Los más chicos pueden usar base de glicerina para fundir (sin soda) o solo observar.
+   - Seguridad: el jabón artesanal se hace con soda cáustica, que quema la piel y los ojos. Solo la manipulan mayores de 16, con guantes, antiparras, ropa de manga larga y supervisión adulta.
 2. Reuní los ingredientes y materiales.
 3. Organizá la venta.
 
-> **Nota para el educador:** la FAO no pone edad mínima, pero recomendamos que solo los mayores de 16 elaboren jabón con soda cáustica, con supervisión adulta. Los más chicos pueden usar base de glicerina para fundir.
+> **Nota para el educador:** la FAO no pone edad mínima; en el sitio la recomendamos a partir de los 16, por la soda cáustica. **Opción para menores de 16:** hacer jabón con base de glicerina para fundir (sin soda cáustica), que se derrite, se colorea y se perfuma; o solo observar la elaboración con soda a distancia segura.
 
 ## Desarrollo
 1. **Aprendizaje** (30 min): Aprendé a hacer jabón natural.
 2. **Elaboración** (30 min): Hacé el jabón.
-3. **Venta** (20 min): Vende el jabón para la campaña.
+3. **Venta** (20 min): Vendé el jabón para la campaña.
 4. **Reflexión** (10 min): ¿Cómo ayuda esto al medio ambiente?
 
 ## Cierre
