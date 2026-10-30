@@ -1210,7 +1210,20 @@ else {
 
       const slugify = eleventyConfig.getFilter("slugify");
       const activitiesFor = eleventyConfig.getFilter("activitiesFor");
-      const used = new Set();
+      const thumb = eleventyConfig.getFilter("thumb");
+      const DEFAULT_COVER = "/imagenes/actividades/activity-card.png";
+
+      // "/ods/13/" -> "ods-13"; devuelve la miniatura si hay archivo.
+      const heroFor = url => {
+        const base = url.split("/").filter(Boolean).join("-");
+        for (const ext of ["png", "jpg", "jpeg", "webp"]) {
+          const src = "/imagenes/heroes/" + base + "." + ext;
+          if (fs.existsSync(path.join(__dirname, src))) {
+            return thumb(src, "indexHero");
+          }
+        }
+        return "";
+      };
 
       const knownBadges = new Set((badges || []).map(b => slugify(String(b.id))));
 
@@ -1234,7 +1247,8 @@ else {
               url: "/badges/" + entry.id + "/",
               title: entry.name,
               text: entry.description,
-              icon: entry.logo && !entry.generic ? entry.logo : ""
+              icon: entry.logo && !entry.generic ? entry.logo : "",
+              cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) ? thumb(entry.hero_image, "badgeHero") : ""
             };
             break;
           case "sdg":
@@ -1253,7 +1267,8 @@ else {
               url: "/edades/" + entry.id + "/",
               title: entry.name,
               text: entry.agefrom ? "De " + entry.agefrom + " a " + entry.ageto + " años" : "",
-              icon: entry.icon ? eleventyConfig.getFilter("thumb")("/imagenes/ramas/" + entry.icon, "rama") : "",
+              icon: entry.icon ? thumb("/imagenes/ramas/" + entry.icon, "rama") : "",
+              shaped: true,
               color: entry.color
             };
             break;
@@ -1263,24 +1278,19 @@ else {
             card = {
               url: paths[kind] + entry.id + "/",
               title: entry.name,
-              text: entry.description || ""
+              text: entry.description || "",
+              symbol: entry.symbol
             };
           }
         }
 
-        const withImage = matched.filter(a => a.data.image);
-        const cover =
-          withImage.find(a => !used.has(a.data.image)) ||
-          withImage[0];
-
-        if (cover) {
-          used.add(cover.data.image);
-        }
-
+        // Portada: hero_image de la entrada (insignias), o
+        // imagenes/heroes/<sección>-<id>.png|jpg|webp si existe
+        // (ej. ods-13.png, edades-manada.jpg), o el hero por defecto.
         return {
           ...card,
           count: matched.length,
-          cover: cover ? cover.data.image : ""
+          cover: card.cover || heroFor(card.url) || DEFAULT_COVER
         };
 
       });
