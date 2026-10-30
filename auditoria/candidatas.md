@@ -47,3 +47,7 @@ Dos datos de esa página:
 - Sitio: www.weatherwizkids.com (en inglés). Tiene actividades y experimentos de clima para chicos: huracanes, nubes, tornados, etc.
 - La Insignia del Océano de FAO (i3465s, 2013) reproduce "con la gentil autorización de www.WeatherWizKids.com" la **A.11 Huracanes, Ciclones y Tifones** y la base de la A.4 (Hacé una Nube). Ese permiso es para FAO; no nos cubre.
 - No cargamos la A.11. Próximo paso: revisar qué otras actividades del sitio sirven y, si conviene, escribirles pidiendo permiso para traducirlas y adaptarlas (licencia de Fogata: CC BY-NC-SA 4.0, uso no comercial).
+
+## Piloto B-P (2026-10-29)
+
+Se publicaron 10 juegos de *Scouting for Boys* (1908, dominio público; texto de Project Gutenberg #65993), traducidos y adaptados, en la insignia `general` (códigos E15–E24): El Juego de Kim, El Juego de Morgan, Seguí el Rastro, Olfato Scout, Cerca y Lejos, Encontrá al Ladrón, Scout Encuentra a Scout, Carrera de Plantas, Ojo de Lince y Acecho y Reporte. Cada uno incluye el original en inglés, la traducción completa y notas de seguridad actuales. Copia local del libro: `Fichas\BP\pg65993.txt`.

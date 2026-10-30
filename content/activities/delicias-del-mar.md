@@ -22,8 +22,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -147,7 +149,7 @@ scout_method:
   - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
-rama_castores: []  # No aplica (actividad nivel 2-3)
+rama_castores: []  # Castores no tienen competencias definidas
 
 rama_lobatos:
   - 1   # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
@@ -204,6 +206,6 @@ Nosotros los humanos somos parte de las redes alimentarias marinas, ¡al igual q
 
 **Extensión:** ¿por qué no invitar a tus amigos y a tu familia a un completo banquete del océano? Cuéntales a tus invitados todo lo que sabes sobre lo que están comiendo y convéncelos de la importancia de disfrutar de delicias del mar procedentes de fuentes sostenibles.
 
-nivel: 3 2
+nivel: 3 2 1
 
 ---
