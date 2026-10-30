@@ -2,8 +2,8 @@
    valores, método, tipos) con el mismo aspecto que /activities/.
    Espera heroKicker, heroTitle, heroText, cards (del filtro
    indexCards en eleventy.config.js) y symbol: el ícono de
-   Material Symbols para las tarjetas que no tienen imagen
-   propia. #}
+   Material Symbols para las tarjetas que no tienen imagen ni
+   símbolo propio. #}
 <div class="acts acts-detail" data-pagefind-ignore="all">
 
 <section class="acts-hero">
@@ -25,11 +25,11 @@
           {% endif %}
         </span>
 
-        <span class="idx-icon{% if card.square %} idx-icon-square{% endif %}">
+        <span class="idx-icon{% if card.square %} idx-icon-square{% endif %}{% if card.shaped %} idx-icon-shaped{% endif %}">
           {% if card.icon %}
             <img src="{{ card.icon | url }}" width="64" height="64" loading="lazy" decoding="async" alt="">
           {% else %}
-            <span class="material-symbols-outlined" aria-hidden="true">{{ symbol }}</span>
+            <span class="material-symbols-outlined" aria-hidden="true">{{ card.symbol or symbol }}</span>
           {% endif %}
         </span>
 

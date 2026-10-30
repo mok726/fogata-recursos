@@ -19,8 +19,9 @@
   flex-wrap: wrap;
   gap: 2rem;
 }
+/* Ancho completo: con 40% el texto ocupaba el doble de renglones. */
 .footer-slogan {
-  max-width: 40%;
+  flex: 1 1 100%;
 }
 .footer-slogan h3 {
   font-size: 1.5rem;

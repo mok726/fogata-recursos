@@ -506,6 +506,29 @@ body:has(.acts) {
 .idx-icon-square { border-radius: 14px; }
 .idx-icon-square img { object-fit: cover; }
 
+/* Logos de rama: sin marco, el contorno lo da la propia forma
+   del logo (drop-shadow sigue el canal alfa del PNG). */
+.idx-icon-shaped {
+  align-self: flex-start;
+  width: auto;
+  height: 84px;
+  margin-top: -48px;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  overflow: visible;
+}
+
+.idx-icon-shaped img {
+  width: auto;
+  max-width: 120px;
+  background: none;
+  filter:
+    drop-shadow(0 2px 0 #fff) drop-shadow(0 -2px 0 #fff)
+    drop-shadow(2px 0 0 #fff) drop-shadow(-2px 0 0 #fff)
+    drop-shadow(0 3px 4px rgba(0,0,0,.25));
+}
+
 .idx-body {
   display: flex;
   flex: 1;
@@ -558,6 +581,12 @@ body:has(.acts) {
     width: 52px;
     height: 52px;
     margin: -30px 0 0 .7rem;
+  }
+
+  .idx-icon-shaped {
+    width: auto;
+    height: 62px;
+    margin-top: -36px;
   }
 
   .idx-icon .material-symbols-outlined { font-size: 1.6rem; }

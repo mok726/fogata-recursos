@@ -2,112 +2,134 @@ module.exports = [
 
   {
     id: "investigacion",
-    name: "Investigación"
+    name: "Investigación",
+    symbol: "search"
   },
 
   {
     id: "servicio-a-los-demas",
-    name: "Servicio a los demás"
+    name: "Servicio a los demás",
+    symbol: "volunteer_activism"
   },
 
   {
     id: "aprender-haciendo",
-    name: "Aprender haciendo"
+    name: "Aprender haciendo",
+    symbol: "construction"
   },
 
   {
     id: "reflexion",
-    name: "Reflexión"
+    name: "Reflexión",
+    symbol: "psychology_alt"
   },
 
   {
     id: "arte",
-    name: "Arte"
+    name: "Arte",
+    symbol: "palette"
   },
 
   {
     id: "juego",
-    name: "Juego"
+    name: "Juego",
+    symbol: "toys"
   },
 
   {
     id: "creatividad-arte",
-    name: "Creatividad / Arte"
+    name: "Creatividad / Arte",
+    symbol: "brush"
   },
 
   {
     id: "experimentacion",
-    name: "Experimentación"
+    name: "Experimentación",
+    symbol: "science"
   },
 
   {
     id: "debate-dialogo",
-    name: "Debate / Diálogo"
+    name: "Debate / Diálogo",
+    symbol: "forum"
   },
 
   {
     id: "aprender-jugando",
-    name: "Aprender jugando"
+    name: "Aprender jugando",
+    symbol: "extension"
   },
 
   {
     id: "planificacion",
-    name: "Planificación"
+    name: "Planificación",
+    symbol: "event_note"
   },
 
   {
     id: "sensibilizacion",
-    name: "Sensibilización"
+    name: "Sensibilización",
+    symbol: "campaign"
   },
 
   {
     id: "orientacion",
-    name: "Orientación"
+    name: "Orientación",
+    symbol: "explore"
   },
 
   {
     id: "autoconocimiento",
-    name: "Autoconocimiento"
+    name: "Autoconocimiento",
+    symbol: "self_improvement"
   },
 
   {
     id: "simulacion",
-    name: "Simulación"
+    name: "Simulación",
+    symbol: "theater_comedy"
   },
 
   {
     id: "exploracion",
-    name: "Exploración"
+    name: "Exploración",
+    symbol: "travel_explore"
   },
 
   {
     id: "dinamica-de-grupos",
-    name: "Dinámica de grupos"
+    name: "Dinámica de grupos",
+    symbol: "groups"
   },
 
   {
     id: "participacion-comunitaria",
-    name: "Participación comunitaria"
+    name: "Participación comunitaria",
+    symbol: "location_city"
   },
 
   {
     id: "comunicacion",
-    name: "Comunicación"
+    name: "Comunicación",
+    symbol: "chat"
   },
 
   {
     id: "salud",
-    name: "Salud"
+    name: "Salud",
+    symbol: "favorite"
   },
 
   {
     id: "compromiso",
-    name: "Compromiso"
+    name: "Compromiso",
+    symbol: "handshake"
   },
 
   {
     id: "habitos-sostenibles",
-    name: "Hábitos sostenibles"
+    name: "Hábitos sostenibles",
+    symbol: "recycling"
   }
 
 ];

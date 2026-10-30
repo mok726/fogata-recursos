@@ -2,102 +2,122 @@ module.exports = [
 
   {
     id: "conciencia-ambiental",
-    name: "Conciencia ambiental"
+    name: "Conciencia ambiental",
+    symbol: "eco"
   },
 
   {
     id: "investigacion",
-    name: "Investigación"
+    name: "Investigación",
+    symbol: "search"
   },
 
   {
     id: "creatividad",
-    name: "Creatividad"
+    name: "Creatividad",
+    symbol: "lightbulb"
   },
 
   {
     id: "pensamiento-critico",
-    name: "Pensamiento crítico"
+    name: "Pensamiento crítico",
+    symbol: "psychology"
   },
 
   {
     id: "trabajo-en-equipo",
-    name: "Trabajo en equipo"
+    name: "Trabajo en equipo",
+    symbol: "groups"
   },
 
   {
     id: "comunicacion",
-    name: "Comunicación"
+    name: "Comunicación",
+    symbol: "forum"
   },
 
   {
     id: "observacion",
-    name: "Observación"
+    name: "Observación",
+    symbol: "visibility"
   },
 
   {
     id: "responsabilidad",
-    name: "Responsabilidad"
+    name: "Responsabilidad",
+    symbol: "task_alt"
   },
 
   {
     id: "pensamiento-sistemico",
-    name: "Pensamiento sistémico"
+    name: "Pensamiento sistémico",
+    symbol: "hub"
   },
 
   {
     id: "conciencia-social",
-    name: "Conciencia social"
+    name: "Conciencia social",
+    symbol: "diversity_3"
   },
 
   {
     id: "autoconciencia",
-    name: "Autoconciencia"
+    name: "Autoconciencia",
+    symbol: "self_improvement"
   },
 
   {
     id: "planificacion-organizacion",
-    name: "Planificación y organización"
+    name: "Planificación y organización",
+    symbol: "event_note"
   },
 
   {
     id: "liderazgo",
-    name: "Liderazgo"
+    name: "Liderazgo",
+    symbol: "flag"
   },
 
   {
     id: "resolucion-de-problemas",
-    name: "Resolución de problemas"
+    name: "Resolución de problemas",
+    symbol: "extension"
   },
 
   {
     id: "conservacion",
-    name: "Conservación"
+    name: "Conservación",
+    symbol: "forest"
   },
 
   {
     id: "empatia",
-    name: "Empatía"
+    name: "Empatía",
+    symbol: "volunteer_activism"
   },
 
   {
     id: "habitos-sostenibles",
-    name: "Hábitos sostenibles"
+    name: "Hábitos sostenibles",
+    symbol: "recycling"
   },
 
   {
     id: "experimentacion",
-    name: "Experimentación"
+    name: "Experimentación",
+    symbol: "science"
   },
 
   {
     id: "pensamiento-cientifico",
-    name: "Pensamiento científico"
+    name: "Pensamiento científico",
+    symbol: "biotech"
   },
 
   {
     id: "alfabetizacion-digital",
-    name: "Alfabetización digital"
+    name: "Alfabetización digital",
+    symbol: "devices"
   }
 
 ];

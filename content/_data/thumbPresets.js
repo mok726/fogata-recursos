@@ -14,6 +14,17 @@ module.exports = {
     quality: 70
   },
 
+  // Hero de cada insignia como portada en /badges/.
+  badgeHero: {
+    dir: "imagenes/insignias",
+    files: require("./badges.js")()
+      .map(b => b.hero_image)
+      .filter(Boolean)
+      .map(src => src.replace("/imagenes/insignias/", "")),
+    width: 800,
+    quality: 70
+  },
+
   // Íconos de rama (36px en tarjetas, más grandes en /edades/).
   rama: {
     dir: "imagenes/ramas",
