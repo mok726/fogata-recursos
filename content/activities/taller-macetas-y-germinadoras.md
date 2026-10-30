@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-macetas-y-germinadoras.jpg"
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
