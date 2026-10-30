@@ -2122,6 +2122,61 @@ sections: {
 
 
 {
+  id: "badenpowell",
+  name: "Homenaje a Baden-Powell",
+  description:
+    "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
+  summary:
+    "Esta no es una insignia oficial: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por Scouting for Boys (1908). Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+  logo: "/imagenes/insignias/badenpowell.png",
+  hero_image: "/imagenes/insignias/badenpowell-hero.png",
+  sources: [
+    {
+      name: "Robert Baden-Powell, Scouting for Boys (1908) – Project Gutenberg #65993",
+      url: "https://www.gutenberg.org/ebooks/65993"
+    }
+  ],
+  license: {
+    type: "Dominio público",
+    url: "https://www.gutenberg.org/ebooks/65993",
+    note: "Los textos de Baden-Powell (fallecido en 1941) son de dominio público. Las traducciones y adaptaciones son de Fogata de Recursos."
+  },
+  attribution: {
+    organization: "Robert Baden-Powell",
+    year: "1908"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente y jugar.",
+    rules: [
+      "Elegí los juegos que mejor se adapten a tu grupo, su edad y el lugar",
+      "Respetá las notas de seguridad de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Exploración",
+      description: "Juegos de la Parte I de Scouting for Boys (Scoutcraft): la base del trabajo de los scouts."
+    },
+    B: {
+      title: "Observación y Rastreo",
+      description: "Juegos de la Parte II (Tracking): observar, recordar y deducir a partir de pistas y huellas."
+    },
+    C: {
+      title: "Bosque y Acecho",
+      description: "Juegos de la Parte II (Woodcraft): moverse sin ser visto, conocer las plantas y los animales, y trabajar en patrulla."
+    },
+    D: {
+      title: "Vida en Campaña y Orientación",
+      description: "Juegos de la Parte III (Campaigning, Camp Life, Pathfinding): fuego, distancias, puntos cardinales y estrellas."
+    },
+    E: {
+      title: "Resistencia y Salud",
+      description: "Juegos de la Parte IV (Endurance): vista, cuerpo y salud."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
