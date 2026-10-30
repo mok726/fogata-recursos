@@ -1,0 +1,58 @@
+# Revisa los enlaces externos de las actividades y de las insignias (G17).
+# Corre el día 1 de cada mes y se puede lanzar a mano desde Actions.
+# Si encuentra enlaces rotos, abre (o actualiza) un issue con la lista.
+# No corre en los pull requests: un sitio caído de terceros no tiene
+# que poner en rojo un PR.
+
+name: Revisar enlaces
+
+on:
+  schedule:
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  enlaces:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 403 y 429 suelen ser sitios que bloquean robots, no enlaces rotos.
+      - name: Revisar enlaces
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --scheme http --scheme https
+            --accept 200..=299,403,429
+            --max-concurrency 8
+            --timeout 30
+            --max-retries 2
+            "content/activities/*.md"
+            "content/_data/badges.js"
+          output: lychee/enlaces-rotos.md
+          fail: false
+
+      # Reusa el issue abierto de la corrida anterior, si existe.
+      - name: Buscar issue abierto
+        id: issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --label enlaces-rotos --state open --json number --jq '.[0].number // empty')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Abrir o actualizar el issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Enlaces rotos en las actividades"
+          content-filepath: lychee/enlaces-rotos.md
+          issue-number: ${{ steps.issue.outputs.number }}
+          labels: enlaces-rotos

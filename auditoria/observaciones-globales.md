@@ -93,3 +93,5 @@ Verificado en el *Tide Turners Plastic Challenge – Implementation Manual* (OMM
 ## G17. Enlaces viejos (P2)
 
 Las insignias de FAO de 2013–2017 (hambre, suelos, oceano…) tienen enlaces de esa época, muchos casi seguro caídos: campañas terminadas (1billionhungry), dominios migrados (USDA NRCS, WFP), Flash. Desde mi entorno no puedo verificarlos. Propuesta: un script de chequeo de enlaces que corras en `fogata-dev` y que genere la lista de rotos.
+
+**Hecho (2026-10-30):** workflow `.github/workflows/link-check.yml` (lychee). Corre el día 1 de cada mes y a mano desde Actions → "Revisar enlaces"; si hay enlaces rotos abre o actualiza un issue con la etiqueta `enlaces-rotos`. No corre en los PR.

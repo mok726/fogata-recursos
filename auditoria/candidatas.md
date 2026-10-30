@@ -51,3 +51,7 @@ Dos datos de esa página:
 ## Piloto B-P (2026-10-29)
 
 Se publicaron 10 juegos de *Scouting for Boys* (1908, dominio público; texto de Project Gutenberg #65993), traducidos y adaptados, en la insignia `general` (códigos E15–E24): El Juego de Kim, El Juego de Morgan, Seguí el Rastro, Olfato Scout, Cerca y Lejos, Encontrá al Ladrón, Scout Encuentra a Scout, Carrera de Plantas, Ojo de Lince y Acecho y Reporte. Cada uno incluye el original en inglés, la traducción completa y notas de seguridad actuales. Copia local del libro: `Fichas\BP\pg65993.txt`.
+
+## B-P, tanda 2 (2026-10-30)
+
+Otros 10 juegos de *Scouting for Boys* en `general` (E25–E34): Mirar las Estrellas, Calcular Distancias, Encontrá el Norte, Carrera de Fuego, Carrera de Relevos, La Araña y la Mosca, Carrera Scout, La Caza del Scout, El Correo y El Ciervo. Adaptados al hemisferio sur donde hace falta (Cruz del Sur en vez de la Estrella Polar). Se evitaron los juegos bélicos o de época ("Shoot Out", "Badajoz", "Throwing the Assegai", "Track the Assassin") y los "Non-scouting games", que el libro toma de otra obra.

@@ -4,7 +4,7 @@ title: "En Sus Zapatos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/en-sus-zapatos/"
-description: "Ayuna durante un día completo para experimentar el hambre y reflexionar sobre la experiencia de quienes no tienen certeza de cuándo volverán a comer."
+description: "Ayuná durante un día completo para experimentar el hambre y reflexionar sobre la experiencia de quienes no tienen certeza de cuándo volverán a comer."
 summary: "Experiencia de ayuno para comprender el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -22,9 +22,8 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Comunidad
-age: "11-22 años"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
 
@@ -169,15 +168,17 @@ rama_rovers:
 # En Sus Zapatos
 
 ## Resumen
-Ayuna durante un día completo para experimentar el hambre y reflexionar sobre la experiencia de quienes no tienen certeza de cuándo volverán a comer.
+Ayuná durante un día completo para experimentar el hambre y reflexionar sobre la experiencia de quienes no tienen certeza de cuándo volverán a comer.
 
 ## Preparación
 1. Prepará suficiente agua para mantenerte hidratado.
 2. Prepará un diario para registrar cómo te sentís.
-3. Asegurá la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. Alternativa para menores de 16 años: saltear una sola comida o comer solo arroz y agua durante un día. El original de FAO propone la actividad desde los 11 años; para el ayuno completo recomendamos que sea a partir de los 16.
+3. Asegurá la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. El ayuno completo es a partir de los 16 años.
+
+> **Nota para el educador:** el original de FAO propone esta actividad desde los 11 años. En el sitio la recomendamos a partir de los 16. **Opción para menores de 16:** saltear una sola comida, o comer solo arroz y agua durante un día, con las mismas precauciones y la autorización de la familia.
 
 ## Desarrollo
-1. **Ayuno** (24 horas): No comas durante un día completo (pero toma suficiente agua para hidratarte).
+1. **Ayuno** (24 horas): No comas durante un día completo (pero tomá suficiente agua para hidratarte).
 2. **Registro** (durante el día): Escribí cómo te sentís a lo largo del día.
 3. **Reflexión** (15 min): Reflexioná sobre la experiencia y cómo sería vivir sin certeza de la próxima comida.
 4. **Discusión** (15 min): Discutí tus sentimientos y reflexiones con tu grupo.
@@ -186,7 +187,7 @@ Ayuna durante un día completo para experimentar el hambre y reflexionar sobre l
 ## Cierre
 - ¿Cómo te sentiste al no poder comer durante un día?
 - ¿Qué creés que sienten las personas que viven con hambre crónica?
-- ¿Qué compromiso adquieres para ayudar a quienes padecen hambre?
+- ¿Qué compromiso asumís para ayudar a quienes padecen hambre?
 
 ---
 ## Texto original completo de la actividad
