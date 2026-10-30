@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/danza-vientos-y-olas.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
