@@ -25,6 +25,15 @@ module.exports = {
     quality: 70
   },
 
+  // Heroes propios de ODS, ramas, competencias, etc. para las
+  // cards de los índices: imagenes/heroes/<sección>-<id>.png
+  // (ver indexCards en eleventy.config.js).
+  indexHero: {
+    dir: "imagenes/heroes",
+    width: 800,
+    quality: 70
+  },
+
   // Íconos de rama (36px en tarjetas, más grandes en /edades/).
   rama: {
     dir: "imagenes/ramas",
