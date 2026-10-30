@@ -48,8 +48,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - general
-activity_code: "general-E22"
+  - badenpowell
+activity_code: "badenpowell-C05"
 required: false
 required_for: []
 required_comment: ""
@@ -57,7 +57,6 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - general
   - baden-powell
   - juego-scout
   - plantas
