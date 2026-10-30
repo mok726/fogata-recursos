@@ -297,7 +297,7 @@ async function shareActivity() {
 
   {# 4. ODS RELACIONADOS #}
   {% if (sdgs | default([])) | length %}
-  <div class="info-card">
+  <div class="info-card sidebar-late">
   <h3><span class="material-symbols-outlined" aria-hidden="true">public</span> Alineado a los ODS</h3>
 
   <div class="sidebar-sdgs large-ods">
@@ -313,7 +313,7 @@ async function shareActivity() {
 
   {# 5. INSIGNIAS RELACIONADAS #}
   {% if (activity_badges | default([])) | length %}
-  <div class="info-card">
+  <div class="info-card sidebar-late">
     <h3><span class="material-symbols-outlined" aria-hidden="true">military_tech</span> Contribuye a las Insignias</h3>
     <div class="badges-mini">
       {% for rawBadge in activity_badges %}
