@@ -585,3 +585,86 @@
 .badge-hero-nav .material-symbols-outlined {
   font-size: 42px;
 }
+
+/* ---------- MÓVIL / TABLET ----------
+   La regla equivalente en components/responsive.css no
+   aplicaba: este archivo se carga después y la pisaba. Con
+   240px fijos de sidebar el texto quedaba en ~80px y la
+   sidebar sticky se superponía al contenido. */
+@media (max-width: 1000px) {
+  .badge-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+  .badge-sidebar {
+    position: static;
+    top: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .badge-main > section,
+  .badge-main > .info-box {
+    padding: 1.25rem 1rem;
+    border-radius: 16px;
+  }
+
+  /* Hero: logo centrado entre las flechas y título abajo
+     (antes las flechas tapaban el logo y el título). */
+  .badge-hero-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+  }
+  .badge-hero-logo {
+    width: 88px;
+    height: 88px;
+    margin-bottom: 0;
+  }
+  .badge-hero-nav {
+    top: 3.75rem;
+  }
+
+  /* Ícono chico al lado del título y texto a todo el ancho */
+  .badge-summary-block {
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr);
+    align-items: center;
+    gap: 0.5rem 0.75rem;
+    margin-bottom: 1.25rem;
+  }
+  .badge-summary-icon {
+    width: 44px;
+    height: 44px;
+    font-size: 1.3rem;
+    border-radius: 12px;
+  }
+  .badge-summary-content {
+    display: contents;
+  }
+  .badge-summary-content h3 {
+    font-size: 1.5rem;
+    margin: 0;
+  }
+  .badge-summary-content > :not(h3) {
+    grid-column: 1 / -1;
+  }
+  .badge-summary-content p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .badge-section-header {
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+  .badge-section-letter {
+    width: 48px;
+    height: 48px;
+    font-size: 1.3rem;
+    border-radius: 12px;
+  }
+  .badge-section-info h2 {
+    font-size: 1.4rem;
+  }
+}
