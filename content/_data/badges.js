@@ -2173,6 +2173,22 @@ sections: {
     E: {
       title: "Resistencia y Salud",
       description: "Juegos de la Parte IV (Endurance): vista, cuerpo y salud."
+    },
+    F: {
+      title: "Caballería y Servicio",
+      description: "Prácticas de la Parte IV (Chivalry, Self-Discipline, Self-Improvement): la buena acción, el servicio, compartir y aprender oficios."
+    },
+    G: {
+      title: "Salvar Vidas",
+      description: "Prácticas y juegos de la Parte V (Saving Life): rescate, incendios y emergencias."
+    },
+    H: {
+      title: "Juegos de Patrulla",
+      description: "Juegos del capítulo IX (Patriotism): puntería y fuerza por patrullas."
+    },
+    I: {
+      title: "Juegos de Salón",
+      description: "Los «juegos no scouts» que B-P recomienda para las noches en el local o en campamento, tomados del libro Social—to Save."
     }
   }
 },
