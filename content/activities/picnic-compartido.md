@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - hambre
 activity_code: "badenpowell-F03"
 required: false
 required_for: []

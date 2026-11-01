@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - biodiversidad
 activity_code: "badenpowell-C11"
 required: false
 required_for: []

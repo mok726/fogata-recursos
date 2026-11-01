@@ -48,6 +48,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - gobernanza
 activity_code: "badenpowell-F02"
 required: false
 required_for: []

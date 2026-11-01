@@ -49,6 +49,8 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - ciudadesverdes
+  - biodiversidad
 activity_code: "badenpowell-B12"
 required: false
 required_for: []

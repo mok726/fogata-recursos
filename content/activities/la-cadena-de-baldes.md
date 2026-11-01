@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - rrd
 activity_code: "badenpowell-G02"
 required: false
 required_for: []

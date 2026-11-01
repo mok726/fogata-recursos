@@ -50,6 +50,9 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - bosques
+  - biodiversidad
+  - agricultura
 activity_code: "badenpowell-C12"
 required: false
 required_for: []
