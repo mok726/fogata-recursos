@@ -48,6 +48,8 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - sacc
+  - biodiversidad
 activity_code: "badenpowell-D12"
 required: false
 required_for: []

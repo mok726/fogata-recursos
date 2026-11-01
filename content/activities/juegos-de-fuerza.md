@@ -45,6 +45,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - nutricion
 activity_code: "badenpowell-E02"
 required: false
 required_for: []
