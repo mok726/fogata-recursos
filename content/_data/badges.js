@@ -2193,6 +2193,54 @@ sections: {
   }
 },
 {
+  id: "badenpowellmanada",
+  name: "Homenaje a B-P: Manada",
+  description:
+    "Juegos, danzas y prácticas para la Manada tomados del Wolf Cub's Handbook de Robert Baden-Powell.",
+  summary:
+    "Esta no es una insignia oficial: es una colección hermana de «Homenaje a Baden-Powell», dedicada al libro que B-P escribió para los lobatos, The Wolf Cub's Handbook (1916). Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+  logo: "/imagenes/insignias/badenpowell.png",
+  hero_image: "/imagenes/insignias/badenpowell-hero.png",
+  sources: [
+    {
+      name: "Robert Baden-Powell, The Wolf Cub's Handbook, 9.ª ed. (1938)",
+      url: ""
+    },
+    {
+      name: "The Wolf Cub's Handbook, reimpresión de la Boy Scouts Association de la India (1944) – Internet Archive",
+      url: "https://archive.org/details/in.ernet.dli.2015.206592"
+    }
+  ],
+  license: {
+    type: "Dominio público en Argentina, el Reino Unido y otros países",
+    url: "",
+    note: "Robert Baden-Powell murió en 1941. Su obra es de dominio público en muchos países, entre ellos Argentina (donde se hace este sitio) y el Reino Unido (país de origen de la obra). Para el resto de los países se pidió autorización a The Scout Association y se espera respuesta. Las traducciones y adaptaciones son de Fogata de Recursos."
+  },
+  attribution: {
+    organization: "Robert Baden-Powell",
+    year: "1938"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente y jugar con la Manada.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu Manada, su edad y el lugar",
+      "Respetá las notas de seguridad de cada actividad",
+      "Usá la Ley, la Promesa y las ceremonias de tu organización scout nacional; las del libro son las originales de 1938"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Selva y Ceremonias",
+      description: "El Gran Aullido, las Danzas de la Selva, el Tótem y la Guarida: el marco simbólico del Libro de la Selva tal como lo propuso B-P."
+    },
+    B: {
+      title: "Juegos de la Selva",
+      description: "Los juegos que B-P intercala entre las «Mordidas» del libro."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
