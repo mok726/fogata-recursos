@@ -4,8 +4,8 @@ title: "Preparar y Encender un Fuego"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preparar-y-encender-un-fuego/"
-description: "Los consejos de Baden-Powell para armar un fuego que prenda con un solo fósforo: poco papel, ramitas bien armadas para que entre aire y combustible de a poco."
-summary: "Armar la estructura de un fuego en un fogón y encenderlo con un fósforo, con supervisión adulta."
+description: "Los consejos de Baden-Powell para armar y encender el fuego del hogar con un solo fósforo: limpiar, separar los carbones, poco papel, ramitas bien armadas para que entre aire y combustible de a poco."
+summary: "Preparar y encender el fuego de un hogar o estufa con un fósforo, como enseña B-P, con supervisión adulta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -27,19 +27,21 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
+  - Pala y cepillo para la ceniza
+  - Una rejilla o tamiz para separar ceniza y carbones
   - Diarios
-  - Ramitas secas finas y medianas
-  - Leña o carbón
+  - Ramitas secas finas
+  - Carbón o leña chica
   - Fósforos
-  - Balde con agua y pala con tierra o arena
   - Papel manteca usado (el truco de B-P)
+  - Balde con agua o arena a mano
 tools: []
 responsible:
   - Docente o Scouter
 prep_time: "15 min"
-participants: "2-24"
-location: "Exterior"
-space_required: "Fogón o parrilla habilitados, lejos de pasto seco"
+participants: "2-12"
+location: "Interior"
+space_required: "Un hogar, chimenea o estufa a leña"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
@@ -61,8 +63,8 @@ tags:
   - manada
   - wolf-cub
   - fuego
-  - fogon
-  - campamento
+  - hogar
+  - estufa
   - seguridad
 
 # ========== ENLACES Y ARCHIVOS ==========
@@ -113,7 +115,7 @@ complexity_organizer: 2
 main_type: "Aprender haciendo"
 
 # ========== IMAGEN PROMPT ==========
-image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, kneeling around a stone fire ring at a campsite, carefully laying loose paper balls and dry twigs like a little log cabin, one child striking a single match while an adult leader kneels beside them, a water bucket nearby."
+image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, kneeling in front of a brick fireplace in a cozy home, carefully laying loose paper balls, dry twigs and small pieces of coal, one child striking a single match while an adult kneels beside them, a bucket of sand nearby."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
@@ -139,7 +141,7 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
 rama_lobatos:
-  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+  - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
 rama_scouts: []
@@ -150,23 +152,22 @@ rama_rovers: []
 # ¡Preparar y Encender un Fuego!
 
 ## Resumen
-B-P dice que el fuego al aire libre es para cuando sean Scouts y que, hasta entonces, conviene dejárselo a un Viejo Lobo; pero que los lobatos sí pueden practicar a armar y encender un fuego. Los principiantes ponen mucho papel, poca madera y mucho combustible. Él propone bollos sueltos de papel, ramitas secas armadas "como ladrillos" para que entre aire, combustible chico de a poco, encender con un solo fósforo y no irse hasta que prenda bien.
+B-P dice que el fuego al aire libre es para cuando sean Scouts y que, hasta entonces, en las exploraciones conviene dejárselo a un Viejo Lobo; pero que los lobatos sí pueden practicar a preparar y encender el fuego de la casa. Primero se limpia el hogar y se separan los carbones a medio quemar de la ceniza. Los principiantes ponen mucho papel, poca madera y mucho carbón; él propone bollos sueltos de papel, ramitas secas armadas "como ladrillos" para que entre aire, trozos chicos de carbón puestos con la mano, encender con un solo fósforo y no irse hasta que prenda bien.
 
 ## Desarrollo
-1. Antes de empezar: balde con agua y tierra a mano, pelo atado, y un adulto a cargo del fogón.
-2. Limpiar el fogón y separar lo que todavía sirve (los carbones a medio quemar) de la ceniza, como hacía B-P.
-3. Cada seisena arma su estructura: bollos y tiras sueltas de papel, encima ramitas secas bien armadas para que no se aplasten y dejen pasar el aire, y después trozos chicos de leña o carbón puestos con la mano.
-4. Un lobato por seisena enciende el papel en varios puntos con un solo fósforo, con el adulto al lado. ¡Nadie se va hasta que la madera haya prendido bien!
-5. Si la leña está húmeda, prueben el truco de B-P: virutas de un palito seco o un papel manteca usado.
-6. Al terminar, apagar el fuego con agua y revolver hasta que no quede ninguna brasa.
+1. Limpiar el hogar: sacar la ceniza vieja y barrer.
+2. Separar la ceniza de los carbones a medio quemar con una rejilla, como hacía B-P: la ceniza se tira y los carbones se guardan para el fuego.
+3. Armar el fuego: bollos y tiras sueltas de papel abajo (sin exagerar), encima ramitas secas bien armadas para que no se aplasten y dejen pasar el aire, y después trozos chicos de carbón o leña puestos con la mano.
+4. Encender el papel a lo largo de la base con un solo fósforo. ¡Nadie se va hasta que la madera y el carbón hayan prendido bien! Recién entonces se agrega más combustible y los carbones que se guardaron.
+5. Si la leña está húmeda, probar los trucos de B-P: virutas de un palito seco o un papel manteca usado.
 
 ## Cierre
 - ¿Qué pasó en los fuegos que no prendieron? ¿Mucho papel, poca madera, mucho peso?
 - ¿Por qué B-P dice que nunca hay que echar querosén al fuego?
 
-> **Nota de seguridad:** siempre con supervisión adulta, en un fogón o parrilla habilitado, con agua y tierra a mano y sin ropa suelta cerca del fuego. Nunca usar alcohol, nafta ni querosén para encender o avivar el fuego.
+> **Nota de seguridad:** siempre con supervisión adulta, con agua o arena a mano, el pelo atado y sin ropa suelta cerca del fuego. Nunca usar alcohol, nafta ni querosén para encender o avivar el fuego. Ventilar bien el ambiente y no dejar el fuego encendido sin un adulto.
 
-> **Nota para el educador:** el original explica cómo prender la estufa de carbón dentro de la casa. Los principios son los mismos para un fogón al aire libre; respetá las reglas de tu organización scout nacional sobre qué edad puede encender fuego y en qué condiciones.
+> **Alternativa:** hoy pocas casas o locales tienen un hogar a carbón o leña. Si no hay, la misma práctica se puede hacer en un fogón o parrilla habilitados al aire libre, lejos de pasto seco y con supervisión adulta, apagándolo al final con agua y revolviendo hasta que no quede ninguna brasa. Respetá las reglas de tu organización scout nacional sobre qué edad puede encender fuego y en qué condiciones.
 
 ## Texto original completo de la actividad
 
