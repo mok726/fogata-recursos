@@ -2237,6 +2237,30 @@ sections: {
     B: {
       title: "Juegos de la Selva",
       description: "Los juegos que B-P intercala entre las «Mordidas» del libro."
+    },
+    C: {
+      title: "Sentidos y Observación",
+      description: "Usar los ojos, los oídos, la nariz, las manos y la cabeza: juegos de atención, memoria, acecho y lectura de huellas."
+    },
+    D: {
+      title: "Señales y Mensajes",
+      description: "Semáforo, Morse, silbato, mensajes y puntos cardinales para comunicarse a distancia y pedir ayuda."
+    },
+    E: {
+      title: "Cuerpo y Salud",
+      description: "Crecer fuertes y sanos: saltar, caminar, ejercicios y equilibrio, con los consejos de salud de B-P."
+    },
+    F: {
+      title: "Manos Útiles y Hogar",
+      description: "Ayudar en casa, cuidar la ropa y el calzado, nudos, manualidades, colecciones y ahorro."
+    },
+    G: {
+      title: "Campamento y Primeros Auxilios",
+      description: "Preparar la mochila y la cama, el fuego, los incendios y los primeros auxilios básicos para lobatos."
+    },
+    H: {
+      title: "Mascotas y Naturaleza",
+      description: "Cuidar animales y plantas: mascotas y huerta."
     }
   }
 },
