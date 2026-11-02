@@ -10,6 +10,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: .github/scripts/sin-texto-original.sh
       - id: lychee
+        if: false
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -20,7 +21,27 @@ jobs:
             "_enlaces/content/activities/*.md" "_enlaces/content/_data/badges.js"
           output: lychee/out.json
           fail: false
+      - name: Segunda pasada
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, urllib.parse
+          H={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) Firefox/140.0'}
+          for u in open('.github/tmp-sinwb.txt').read().split():
+              q='https://web.archive.org/cdx/search/cdx?'+urllib.parse.urlencode({'url':u,'output':'json','filter':'statuscode:200','limit':'-3'})
+              try:
+                  r=json.load(urllib.request.urlopen(urllib.request.Request(q,headers=H),timeout=60))
+                  best=['https://web.archive.org/web/%s/%s'%(x[1],x[2]) for x in r[1:]]
+              except Exception as ex: best=['ERR '+str(ex)[:50]]
+              print('CDX\t%s\t%s'%(u,' '.join(best)))
+          for u in open('.github/tmp-candidatas.txt').read().split():
+              try:
+                  rr=urllib.request.urlopen(urllib.request.Request(u,headers=H),timeout=40); st=rr.status; fin=rr.geturl()
+              except urllib.error.HTTPError as e: st=e.code; fin=''
+              except Exception as ex: st='ERR '+str(ex)[:50]; fin=''
+              print('CAND\t%s\t%s\t%s'%(u,st,fin))
+          PY
       - name: Wayback
+        if: false
         run: |
           python3 - <<'PY'
           import json, urllib.request, urllib.parse, subprocess
