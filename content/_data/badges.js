@@ -2129,7 +2129,7 @@ sections: {
   summary:
     "Esta no es una insignia oficial: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por Scouting for Boys (1908). Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
-  hero_image: "/imagenes/insignias/badenpowell-hero.png",
+  hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, Scouting for Boys (1908) – Project Gutenberg #65993",
