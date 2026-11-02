@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.who.int/mediacentre/factsheets/fs292/en/index.html"
+  - url: "https://web.archive.org/web/20140211130115/http://www.who.int:80/mediacentre/factsheets/fs292/en/index.html"
     caption: "Datos sobre contaminación de la OMS"
     icon: "link"
 files: []

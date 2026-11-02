@@ -64,7 +64,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.phoenixlearninggroup.com/Images/Custom/Kinetic_and_Potential_Energy.pdf"
+  - url: "https://web.archive.org/web/20160509194945/http://www.phoenixlearninggroup.com:80/images/custom/kinetic_and_potential_energy.pdf"
     caption: "Más información sobre energía cinética y potencial"
     icon: "link"
 files: []

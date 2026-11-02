@@ -76,7 +76,7 @@ link:
   - url: "https://www.oecd.org/en/about/projects/innovation-capacity-in-cities.html"
     caption: "Capacidad de innovación en ciudades - OECD"
     icon: "link"
-  - url: "https://time.com/collection/davos-2020/5765632/young-inventors-changing-the-world"
+  - url: "https://web.archive.org/web/20200117232911/https://time.com/collection/davos-2020/5765632/young-inventors-changing-the-world/"
     caption: "Jóvenes inventores cambiando el mundo - Time"
     icon: "link"
   - url: "https://www.treehugger.com/young-inventors-who-may-just-save-the-world-4868617"

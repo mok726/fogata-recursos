@@ -58,7 +58,7 @@ link:
   - url: "http://worldoceansday.org"
     caption: "Sitio web del Día Mundial de los Océanos"
     icon: "read_more"
-  - url: "http://worldoceansday.org/?page_id=59"
+  - url: "https://web.archive.org/web/20120629133418/http://worldoceansday.org:80/?page_id=59"
     caption: "Ideas para actividades - Día Mundial de los Océanos"
     icon: "read_more"
 

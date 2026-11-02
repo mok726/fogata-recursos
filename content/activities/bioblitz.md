@@ -73,10 +73,10 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.education.eol.org/bioblitz/activities"
+  - url: "https://web.archive.org/web/20131016154536/http://education.eol.org:80/bioblitz/activities"
     caption: "Actividades de BioBlitz - EOL"
     icon: "link"
-  - url: "https://www.education.eol.org/bioblitz/gallery"
+  - url: "https://web.archive.org/web/20131217030103/http://education.eol.org:80/bioblitz/gallery"
     caption: "Galería de BioBlitz - EOL"
     icon: "link"
 files: []

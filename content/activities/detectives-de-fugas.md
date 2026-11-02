@@ -68,7 +68,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "http://unep.org/tunza/children/images/flash/a_trip_with_drip/start.swf"
+  - url: "https://web.archive.org/web/20151118100437/http://unep.org/tunza/children/images/flash/a_trip_with_drip/start.swf"
     caption: "UNEP - A Trip With Drip (juego interactivo)"
     icon: "link"
 files: []

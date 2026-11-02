@@ -70,9 +70,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://education.nationalgeographic.co.uk/education/encyclopedia/climate-refugee/?ar_a=1"
-    caption: "Refugiados climáticos - National Geographic"
-    icon: "link"
   - url: "https://youtu.be/B7Dc-Nb-y9M"
     caption: "Video sobre refugiados climáticos 1"
     icon: "link"

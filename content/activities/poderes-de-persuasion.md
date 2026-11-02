@@ -67,9 +67,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.youtube.com/watch?v=3aiDIhHyrmg"
-    caption: "Ejemplo de campaña - #BeReadytoChange"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

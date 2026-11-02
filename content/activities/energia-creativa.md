@@ -68,7 +68,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.globalactionplan.org.uk/energy-bike"
+  - url: "https://web.archive.org/web/20210417171222/https://www.globalactionplan.org.uk/energy-bike"
     caption: "Ejemplo de bicicleta de energía"
     icon: "link"
 files: []
@@ -180,7 +180,7 @@ Mirá ejemplos de innovaciones energéticas:
 
 **Ejemplo:** Bicicleta de energía que genera electricidad para un reproductor de música y una lamparita.
 
-**Más información:** https://www.globalactionplan.org.uk/energy-bike
+**Más información:** https://web.archive.org/web/20210417171222/https://www.globalactionplan.org.uk/energy-bike
 
 ### Parte II - Escribir
 Escribí una historia corta sobre tu idea innovadora:

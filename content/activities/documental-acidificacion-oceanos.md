@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.oceanacidification.net/go-deeper/"
+  - url: "https://web.archive.org/web/20150109203721/http://oceanacidification.net/go-deeper/"
     caption: "Ocean Acidification Network - Acid Test (documental)"
     icon: "link"
 files: []
@@ -182,7 +182,7 @@ La acidificación de los océanos es uno de los efectos más graves del cambio c
 
 ### Paso 2: Visualización
 2. Andá el documental "Acid Test: The Global Challenge of Ocean Acidification" en:
-   - https://www.oceanacidification.net/go-deeper/
+   - https://web.archive.org/web/20150109203721/http://oceanacidification.net/go-deeper/
 3. Pedí a los participantes que tomen notas de palabras clave mientras ven el video.
 
 ### Paso 3: Brainstorming y discusión

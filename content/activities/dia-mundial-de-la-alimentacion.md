@@ -53,7 +53,7 @@ tags:
   - salud
 
 link:
-  - url: "https://www.fao.org/getinvolved/worldfoodday/es/"
+  - url: "https://www.fao.org/world-food-day/es"
     caption: "Día Mundial de la Alimentación - FAO"
     icon: "read_more"
 

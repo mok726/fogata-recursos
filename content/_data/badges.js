@@ -13,7 +13,7 @@ module.exports = function () {
       sources: [
         {
           name: "YUNGA Agriculture Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/en"
         }
       ],
   license: {
@@ -50,7 +50,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Forest Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/forests/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/forests/en"
         }
       ],
   license: {
@@ -123,7 +123,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Gender Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/en"
         }
       ],
   license: {
@@ -160,7 +160,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Nutrition Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/en"
         }
       ],
   license: {
@@ -374,13 +374,8 @@ sections: {
 
   "sitios_web": [
     {
-      "nombre": "Environmental Education for Kids - Water Wonders",
-      "url": "http://dnr.wi.gov/org/caer/ce/ee/k/earth/groundwater/index.htm",
-      "categoria": "Educación ambiental"
-    },
-    {
       "nombre": "National Wildlife Federation - Kids",
-      "url": "http://www.nwf.org/en/Kids.aspx",
+      "url": "https://www.nwf.org/Kids-and-Family",
       "categoria": "Educación ambiental"
     },
     {
@@ -425,7 +420,7 @@ sections: {
     },
     {
       "nombre": "EPA Students - Water",
-      "url": "http://www2.epa.gov/learn-issues/water",
+      "url": "https://web.archive.org/web/20130412140500/http://www2.epa.gov/learn-issues/water",
       "categoria": "Educación ambiental"
     },
     {
@@ -440,12 +435,12 @@ sections: {
     },
     {
       "nombre": "National Drought Mitigation Centre",
-      "url": "http://drought.unl.edu/DroughtforKids.aspx",
+      "url": "https://web.archive.org/web/20170120132623/http://drought.unl.edu/DroughtforKids.aspx",
       "categoria": "Ciencia"
     },
     {
       "nombre": "National Environmental Education Week",
-      "url": "http://eeweek.org/resources/index.htm",
+      "url": "https://web.archive.org/web/20190914144414/http://eeweek.org/resources/index.htm",
       "categoria": "Educación ambiental"
     },
     {
@@ -455,7 +450,7 @@ sections: {
     },
     {
       "nombre": "EPA Student's Guide to Global Climate Change",
-      "url": "http://www.epa.gov/climatechange/students/index.html",
+      "url": "https://web.archive.org/web/20160612081740/https://www3.epa.gov/climatechange/students/index.html",
       "categoria": "Educación ambiental"
     },
     {
@@ -467,11 +462,6 @@ sections: {
       "nombre": "Oxfam Water For All",
       "url": "http://www.oxfam.org.uk/education/resources/water-for-all",
       "categoria": "ONG"
-    },
-    {
-      "nombre": "Hygiene Education",
-      "url": "http://www.hygiene-edu.com/en/home.htm",
-      "categoria": "Educación"
     },
     {
       "nombre": "Practical Action",
@@ -510,12 +500,12 @@ sections: {
     },
     {
       "nombre": "UNEP TUNZA",
-      "url": "http://www.unep.org/Tunza",
+      "url": "https://web.archive.org/web/20130120201053/http://www.unep.org/tunza/",
       "categoria": "Naciones Unidas"
     },
     {
       "nombre": "UN Cyber School Bus",
-      "url": "http://www.un.org/cyberschoolbus",
+      "url": "https://web.archive.org/web/20160608071628/http://www.un.org:80/cyberschoolbus/",
       "categoria": "Naciones Unidas"
     },
     {
@@ -535,12 +525,12 @@ sections: {
     },
     {
       "nombre": "USGS Water Cycle for Kids",
-      "url": "http://ga.water.usgs.gov/edu/watercycle-kids.html",
+      "url": "https://web.archive.org/web/20140108123756/http://ga.water.usgs.gov/edu/watercycle-kids.html",
       "categoria": "Ciencia"
     },
     {
       "nombre": "UN International Decade for Action 'Water for Life'",
-      "url": "https://www.un.org/waterforlifedecade/index.shtml",
+      "url": "https://web.archive.org/web/20161204113732/http://www.un.org:80/waterforlifedecade/index.shtml",
       "categoria": "Naciones Unidas"
     },
     {
@@ -560,13 +550,8 @@ sections: {
     },
     {
       "nombre": "Ocean Acidification Network - Acid Test",
-      "url": "https://www.oceanacidification.net/go-deeper/",
+      "url": "https://web.archive.org/web/20150109203721/http://oceanacidification.net/go-deeper/",
       "categoria": "Ciencia"
-    },
-    {
-      "nombre": "World Water Monitoring Day - The Water Down Under",
-      "url": "https://www.worldwatermonitoringday.org/The_Water_Down_Under.aspx",
-      "categoria": "Educación"
     },
     {
       "nombre": "USGS Water Education Posters",
@@ -580,12 +565,12 @@ sections: {
     },
     {
       "nombre": "UN-Water Activity Information System",
-      "url": "https://www.ais.unwater.org/ais/aiscm/activity.php",
+      "url": "https://web.archive.org/web/20140112050844/http://www.ais.unwater.org:80/ais/aiscm/activity.php",
       "categoria": "Naciones Unidas"
     },
     {
       "nombre": "WAGGGS",
-      "url": "http://www.waggsworld.org",
+      "url": "https://www.wagggs.org/es/",
       "categoria": "Scouts"
     },
     {
@@ -823,32 +808,32 @@ sections: {
   "sitios_web": [
     {
       "nombre": "ALIMENTAR LA MENTE PARA COMBATIR EL HAMBRE",
-      "url": "https://www.feedingminds.org/inicio.htm",
+      "url": "https://web.archive.org/web/20121116014125/http://www.feedingminds.org:80/inicio.htm",
       "descripcion": "Aula internacional de exploración de los problemas del hambre, la malnutrición y la inseguridad alimentaria. Diseñada para empoderar y alentar a los maestros, estudiantes y jóvenes alrededor de todo el mundo a participar activamente en la creación de un mundo libre de hambre. Disponible en árabe, chino, español, francés, inglés, italiano, portugués, ruso y suajili."
     },
     {
       "nombre": "VENTANA DE LA JUVENTUD - ALIMENTAR LA MENTE",
-      "url": "https://www.feedingminds.org/yw/index_es.htm",
+      "url": "https://web.archive.org/web/20140305035318/http://www.feedingminds.org:80/yw/index_es.htm",
       "descripcion": "Plataforma juvenil de la iniciativa Alimentar la Mente para Combatir el Hambre."
     },
     {
       "nombre": "EL DERECHO A LA ALIMENTACIÓN",
-      "url": "https://www.feedingminds.org/inicio.htm",
+      "url": "https://web.archive.org/web/20121116014125/http://www.feedingminds.org:80/inicio.htm",
       "descripcion": "Iniciativa conjunta de la FAO y la WAGGGS para educar a los jóvenes sobre el hambre y la malnutrición y promover su participación activa."
     },
     {
       "nombre": "UNITE FOR CLIMATE (JUNTOS POR EL CLIMA)",
-      "url": "http://uniteforclimate.org",
+      "url": "https://web.archive.org/web/20121203084547/http://uniteforclimate.org:80/",
       "descripcion": "Punto de entrada al mundo de la acción juvenil sobre el cambio climático. Permite unirse a la comunidad, conocer experiencias y participar en campañas globales."
     },
     {
       "nombre": "FAO - JUVENTUD Y CAMBIO CLIMÁTICO",
-      "url": "https://www.fao.org/climatechange/youth/es/",
+      "url": "https://web.archive.org/web/20151124154613/http://www.fao.org:80/climatechange/youth/es/",
       "descripcion": "Portal de la FAO con actividades, recursos, eventos, competencias y proyectos relacionados con el cambio climático para niños y jóvenes."
     },
     {
       "nombre": "WAGGGS - ASOCIACIÓN MUNDIAL DE GUÍAS SCOUT",
-      "url": "https://www.wagggsworld.org/es/home",
+      "url": "https://www.wagggs.org/es/",
       "descripcion": "Sitio web de la WAGGGS con recursos y noticias sobre cambio climático y otros temas ambientales, incluyendo el programa de insignias 'Juntos podemos cambiar nuestro mundo'."
     },
     {
@@ -873,7 +858,7 @@ sections: {
     },
     {
       "nombre": "UNEP - PLANTEMOS PARA EL PLANETA",
-      "url": "https://www.unep.org/billiontreecampaign/spanish/index.asp",
+      "url": "https://web.archive.org/web/20170207001303/http://www.unep.org/billiontreecampaign/spanish/index.asp",
       "descripcion": "Campaña mundial para plantar árboles 'Plantemos para el Planeta: Campaña de los Mil Millones de Árboles'."
     },
     {
@@ -888,7 +873,7 @@ sections: {
     },
     {
       "nombre": "CREATE YOUR FUTURE",
-      "url": "https://www.kidsforfuture.net",
+      "url": "https://web.archive.org/web/20170607075932/http://kidsforfuture.net/",
       "descripcion": "Ideas acerca de formas de vida sostenibles."
     },
     {
@@ -1049,9 +1034,9 @@ sections: {
     {
       "nombre": "CC:INET",
       "descripcion": "Portal Web que contiene materiales sobre educación, capacitación y sensibilización en el campo del cambio climático.",
-      "url": "http://unfccc.int/cc_inet",
+      "url": "https://web.archive.org/web/20220119064427/http://unfccc.int/cc_inet",
       "nota": "Presenta iniciativas, proyectos, campañas, herramientas educativas, sitios Web y publicaciones sobre el cambio climático que han sido producidas por personas jóvenes y para ellas.",
-      "url_juvenil": "http://unfccc.int/cc_inet/cc_inet/youth_portal/items/6578.php"
+      "url_juvenil": "https://web.archive.org/web/20170106184420/http://unfccc.int/cc_inet/cc_inet/youth_portal/items/6578.php"
     },
     {
       "nombre": "Connect for Climate (Connect4Climate)",
@@ -1066,17 +1051,17 @@ sections: {
     {
       "nombre": "Energía Sostenible para Todos",
       "descripcion": "Sitio Web de las Naciones Unidas que trata la necesidad de todas las personas de tener acceso a energía sostenible, incluyendo formas de alcanzar este objetivo hasta el 2030.",
-      "url": "https://www.sustainableenergyforall.org"
+      "url": "https://www.seforall.org/"
     },
     {
       "nombre": "The Nature Conservancy",
       "descripcion": "Información sobre el cambio climático, sus impactos y cómo calcular tu huella de carbono.",
-      "url": "https://www.nature.org/ourinitiatives/urgentissues/global-warming-climate-change"
+      "url": "https://web.archive.org/web/20160621194915/http://www.nature.org:80/ourinitiatives/urgentissues/global-warming-climate-change/?"
     },
     {
       "nombre": "TUNZA",
       "descripcion": "Programa para la niñez y la juventud del Programa de las Naciones Unidas para el Medio Ambiente. Posee información sobre actividades y campañas juveniles, así como publicaciones y recursos multimedia.",
-      "url": "https://www.unep.org/tunza"
+      "url": "https://web.archive.org/web/20170125083434/http://www.unep.org/tunza/"
     },
     {
       "nombre": "WWF Cambio Climático",
@@ -1105,7 +1090,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Governance Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/en"
         }
       ],
   license: {
@@ -1142,7 +1127,7 @@ sections: {
       sources: [
         {
           name: "YUNGA The Ocean Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/en"
         }
       ],
   license: {
@@ -1214,7 +1199,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Disaster Risk Reduction Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/en"
         }
       ],
   license: {
@@ -1366,7 +1351,7 @@ sections: {
     {
       "nombre": "FAO - Portal sobre el Cambio Climático, la Niñez y la Juventud",
       "descripcion": "Contiene actividades, recursos, eventos, competencias y proyectos relacionados con la biodiversidad, el cambio climático y otros aspectos que conciernen a la juventud.",
-      "url": "https://www.fao.org/climatechange/youth/es"
+      "url": "https://web.archive.org/web/20151124154613/http://www.fao.org:80/climatechange/youth/es/"
     },
     {
       "nombre": "La Ola Verde (Green Wave)",
@@ -1381,12 +1366,12 @@ sections: {
     {
       "nombre": "TUNZA - Programa para niños y jóvenes (PNUMA)",
       "descripcion": "Contiene actividades y campañas, así como publicaciones y recursos multimedia.",
-      "url": "https://www.unep.org/tunza"
+      "url": "https://web.archive.org/web/20170125083434/http://www.unep.org/tunza/"
     },
     {
       "nombre": "CyberSchoolBus - Naciones Unidas",
       "descripcion": "Enseñanza y aprendizaje que cubre temas como la paz, los derechos humanos, el medio ambiente, la salud y los océanos.",
-      "url": "https://www.cyberschoolbus.un.org/spanish/index.asp"
+      "url": "https://web.archive.org/web/20130312044250/http://cyberschoolbus.un.org:80/spanish/index.asp"
     },
     {
       "nombre": "WorldBirds - BirdLife International",
@@ -1396,12 +1381,12 @@ sections: {
     {
       "nombre": "AMGS - Asociación Mundial de las Guías Scouts",
       "descripcion": "Contiene muchos recursos y noticias sobre aspectos medio ambientales como la insignia 'Juntos podemos cambiar nuestro mundo' sobre los Objetivos de Desarrollo del Milenio.",
-      "url": "https://www.wagggsworld.org/es/home"
+      "url": "https://www.wagggs.org/es/"
     },
     {
       "nombre": "WWF - Fondo Mundial para la Naturaleza",
       "descripcion": "Te lleva de los conceptos básicos sobre la biodiversidad hasta la problemática de la tierra, el cambio climático y la pesquería.",
-      "url": "https://www.biodiversity911.org/default.html"
+      "url": "https://web.archive.org/web/20121016083237/http://www.biodiversity911.org:80/default.html"
     },
     {
       "nombre": "YUNGA - Alianza Mundial de la Juventud de las Naciones Unidas",
@@ -1425,7 +1410,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Energy Badge",
-          url: "https://www.fao.org/yunga/activities/challenge-badges/energy/es"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/energy/en"
         }
       ],
   license: {
@@ -1569,7 +1554,7 @@ sections: {
   sources: [
     {
       name: "YUNGA Soils Badge",
-      url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/es"
+      url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/en"
     }
   ],
   license: {
@@ -1627,7 +1612,7 @@ sections: {
   "sitios_web": [
     {
       "nombre": "BURÓ DE GESTIÓN DE TIERRAS PARA NIÑOS",
-      "url": "https://www.blm.gov/nstc/soil/Kids",
+      "url": "https://web.archive.org/web/20170119091708/https://www.blm.gov/nstc/soil/Kids/",
       "descripcion": "sitio divertido que te enseña todo sobre el suelo e incluye algunas actividades divertidas"
     },
     {
@@ -1647,12 +1632,12 @@ sections: {
     },
     {
       "nombre": "LA OLA VERDE",
-      "url": "https://www.greenwave.cbd.int",
+      "url": "https://web.archive.org/web/20131216175230/http://greenwave.cbd.int/",
       "descripcion": "puerta de acceso hacia un emocionante proyecto de biodiversidad para jóvenes. Ofrece muchos recursos e historias sobre cómo los jóvenes de alrededor del mundo están celebrando a la biodiversidad"
     },
     {
       "nombre": "RED GLOBAL DE JÓVENES POR LA BIODIVERSIDAD (GYBN)",
-      "url": "https://www.gybn.net",
+      "url": "https://gybn.org/",
       "descripcion": "red de organizaciones juveniles y de jóvenes de alrededor de todo el mundo que buscan integrarse y unirse en base al objetivo común de frenar la pérdida de biodiversidad tan pronto como sea posible"
     },
     {
@@ -1672,7 +1657,7 @@ sections: {
     },
     {
       "nombre": "SAVE OUR SOILS",
-      "url": "https://www.saveoursoils.com",
+      "url": "https://web.archive.org/web/20161208191014/http://saveoursoils.com:80/",
       "descripcion": "campaña de Nature & More que busca crear conciencia en el consumidor sobre la importancia del suelo para nuestra salud, nuestra seguridad alimentaria y nuestro clima. Está tratando de concientizar a las personas sobre el problema de los suelos degradados y de dirigirlos hacia la búsqueda de soluciones"
     },
     {
@@ -1692,7 +1677,7 @@ sections: {
     },
     {
       "nombre": "TUNZA: El Suelo - un elemento olvidado",
-      "url": "https://www.unep.org/pdf/Tunza_9.2_Spa.pdf",
+      "url": "https://web.archive.org/web/20130921022502/http://unep.org/pdf/Tunza_9.2_Spa.pdf",
       "descripcion": "programa de la juventud del PNUMA (TUNZA) ha producido esta edición especial de su revista que trata sobre todo aquello que hay que saber acerca del suelo, presenta historias sobre jóvenes que están actuando para proteger a los suelos, estudios de caso y mucho más"
     },
     {
@@ -1707,17 +1692,17 @@ sections: {
     },
     {
       "nombre": "DEPARTAMENTO DE AGRICULTURA DE LOS EE. UU. - Para niños",
-      "url": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/edu/kthru6",
+      "url": "https://web.archive.org/web/20161226194034/https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/edu/kthru6/",
       "descripcion": "contiene todo, desde planes de lecciones hasta proyectos de arte e ideas de conservación"
     },
     {
       "nombre": "ASOCIACIÓN MUNDIAL DE GUÍAS SCOUTS (AMGS)",
-      "url": "https://www.wagggsworld.org",
+      "url": "https://www.wagggs.org/es/",
       "descripcion": "movimiento mundial que brinda educación no formal a niñas y mujeres jóvenes, quienes desarrollan aptitudes de liderazgo y para la vida mediante el desarrollo personal, el desafío y la aventura"
     },
     {
       "nombre": "DÍA MUNDIAL PARA COMBATIR LA DESERTIFICACIÓN",
-      "url": "https://www.unccd.int/en/programmes/Event-and-campaigns/WDCD/Pages/WDCD-2014.aspx",
+      "url": "https://web.archive.org/web/20170315195515/http://www.unccd.int/en/programmes/Event-and-campaigns/WDCD/Pages/WDCD-2014.aspx",
       "descripcion": "se celebra el 17 de junio de cada año. En el 2014 el enfoque estuvo en lograr un suelo 'a prueba del clima' para las futuras generaciones"
     },
     {
@@ -1751,7 +1736,7 @@ sections: {
   sources: [
     {
       name: "YUNGA Pollinators Badge",
-      url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/es"
+      url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/en"
     }
   ],
   license: {
@@ -1809,7 +1794,7 @@ sections: {
     {
       "nombre": "Apimondia",
       "descripcion": "Federación Internacional de Asociaciones de Apicultores. Promueve la apicultura en todo el mundo.",
-      "url": "https://www.apimondia.com",
+      "url": "https://apimondia.org/",
       "idioma": "Inglés"
     },
     {
@@ -1911,7 +1896,7 @@ sections: {
     {
       "nombre": "Día Mundial de las Abejas",
       "descripcion": "Se celebra el 20 de mayo para recordar la necesidad de proteger y conservar a las abejas.",
-      "url": "https://www.worldbeeday.org",
+      "url": "https://web.archive.org/web/20251213201927/http://worldbeeday.org/",
       "idioma": "Inglés"
     },
     {

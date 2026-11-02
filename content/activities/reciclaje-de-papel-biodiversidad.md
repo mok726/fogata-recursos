@@ -82,10 +82,10 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.terra.org/articulos/art02001.html"
+  - url: "https://web.archive.org/web/20121016041930/http://www.terra.org/articulos/art02001.html"
     caption: "Cómo hacer papel reciclado"
     icon: "link"
-  - url: "https://www.dibujosparapintar.com/manualidades_hacer_papel_reciclado.html"
+  - url: "https://web.archive.org/web/20170124211946/http://www.dibujosparapintar.com:80/manualidades_hacer_papel_reciclado.html"
     caption: "Manualidades - papel reciclado"
     icon: "link"
 files: []

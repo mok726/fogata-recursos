@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.practicalaction.org/energy"
+  - url: "https://web.archive.org/web/20170106034942/https://practicalaction.org/energy"
     caption: "Practical Action - proyectos de energía"
     icon: "link"
   - url: "https://www.powertheworld.org"
@@ -183,7 +183,7 @@ Investigá diferentes proyectos de acceso a energía en el mundo. Elegí el que 
 Buscá proyectos de acceso a energía:
 
 **Fuentes sugeridas:**
-- https://www.practicalaction.org/energy
+- https://web.archive.org/web/20170106034942/https://practicalaction.org/energy
 - https://www.powertheworld.org
 
 **Ejemplos:**

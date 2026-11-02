@@ -56,7 +56,7 @@ tags:
   - fertilizante
 
 link:
-  - url: "https://www2.epa.gov/recycle/composting-home"
+  - url: "https://www.epa.gov/recycle/composting-home"
     caption: "Guía de compostaje - EPA"
     icon: "read_more"
 

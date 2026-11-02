@@ -70,7 +70,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.scout.org/sdgs"
+  - url: "https://sdgs.scout.org/"
     caption: "Hub de los ODS de Scouts"
     icon: "link"
 files: []

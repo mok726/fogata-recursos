@@ -57,7 +57,7 @@ link:
   - url: "https://thewaterproject.org/resources/lesson-plans/create-a-mini-water-cycle.php"
     caption: "Experimento del ciclo del agua (inglés)"
     icon: "read_more"
-  - url: "http://www.imta.gob.mx/educacion-ambiental/aprende/interface.html"
+  - url: "https://web.archive.org/web/20131029225538/http://www.imta.gob.mx/educacion-ambiental/aprende/interface.html"
     caption: "Experimentos sobre el agua (español)"
     icon: "read_more"
 

@@ -56,7 +56,7 @@ tags:
   - texturas
 
 link:
-  - url: "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/kthru6/?cid=nrcs142p2_054304"
+  - url: "https://web.archive.org/web/20210325012236/https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/kthru6/?cid=nrcs142p2_054304"
     caption: "Instrucciones para pintura de suelo - USDA"
     icon: "read_more"
 

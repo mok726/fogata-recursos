@@ -66,9 +66,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://wwolit.org/links/booklists/covid-19-books"
-    caption: "Libros sobre COVID-19"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

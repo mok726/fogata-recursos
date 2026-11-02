@@ -70,9 +70,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.oxfam.org.uk/~/media/Files/Education/Resources/Water%20week%20learn%20primary/Water%20vulnerable%20game.ashx"
-    caption: "Oxfam - Water Vulnerable Game"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

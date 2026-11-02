@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.greenschools.net/article.php-id=271.html"
+  - url: "https://web.archive.org/web/20170422064605/http://www.greenschools.net:80/article.php-id=271.html"
     caption: "Green Schools - Recursos"
     icon: "link"
   - url: "https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-calculator-for-students/"

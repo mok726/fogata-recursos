@@ -72,13 +72,13 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.bgci.org/education/article/443"
+  - url: "https://web.archive.org/web/20190601003312/http://www.bgci.org:80/education/article/443"
     caption: "Juego de cartas sobre biodiversidad - BGCI"
     icon: "link"
-  - url: "https://www.ecopibes.com/problemas/biodiversidad/index.html"
+  - url: "https://web.archive.org/web/20160529131845/http://www.ecopibes.com:80/problemas/biodiversidad/index.html"
     caption: "Juegos de biodiversidad - Ecopibes"
     icon: "link"
-  - url: "https://blog.educastur.es/blogmedioambiente/enlaces-juegos-interactivos/"
+  - url: "https://web.archive.org/web/20170131202440/http://blog.educastur.es:80/blogmedioambiente/enlaces-juegos-interactivos/"
     caption: "Juegos interactivos - Educastur"
     icon: "link"
 files: []

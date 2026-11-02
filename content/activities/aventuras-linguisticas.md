@@ -53,7 +53,7 @@ tags:
   - juego
 
 link:
-  - url: "https://www.un.org/es/members/"
+  - url: "https://www.un.org/es/about-us/member-states"
     caption: "Países miembros de la ONU"
     icon: "read_more"
 

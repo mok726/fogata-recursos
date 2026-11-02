@@ -63,7 +63,7 @@ tags:
   - casero
 
 link:
-  - url: "http://www.hacerpapel.com/2008/08/6-el-resultado-papel-reciclado-casero.html"
+  - url: "https://web.archive.org/web/20161012074839/http://www.hacerpapel.com/2008/08/6-el-resultado-papel-reciclado-casero.html"
     caption: "Cómo hacer papel reciclado casero"
     icon: "read_more"
 

@@ -70,7 +70,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.guardian.co.uk/news/datablog/2011/jan/31/worldcarbon-dioxide-emissions-country-data-co2"
+  - url: "https://www.theguardian.com/news/datablog/2011/jan/31/world-carbon-dioxide-emissions-country-data-co2"
     caption: "Emisiones de CO2 por país - The Guardian"
     icon: "link"
 files: []
