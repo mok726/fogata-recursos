@@ -154,3 +154,77 @@
   max-width: 50ch;
   margin: 1rem auto 0;
 }
+
+/* ---------- PÁGINAS DE TEXTO (front matter `prose: true`) ----------
+   /acerca-de/, /colaborar/, /historia-del-proyecto/, /licencia/:
+   ancho de lectura acotado en vez del 100% de la pantalla. */
+.prose-page {
+  max-width: 860px;
+  padding: 2rem clamp(1rem, 4vw, 2rem) 3rem;
+  line-height: 1.7;
+}
+.prose-page h1 { margin-top: 0.5rem; }
+.prose-page h2 { margin-top: 2.2rem; }
+.prose-page img { max-width: 100%; height: auto; }
+
+/* Tablas (p. ej. "Estado de las autorizaciones" en /licencia/) */
+.prose-page table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0 1.5rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  background: #fff;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 0 1px #dfe7da, 0 4px 14px rgba(0, 0, 0, 0.05);
+}
+.prose-page th,
+.prose-page td {
+  padding: 0.65rem 0.8rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #e6ece2;
+}
+.prose-page thead th {
+  background: #2e6b3d;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.prose-page tbody tr:nth-child(even) { background: #f6f9f4; }
+.prose-page tbody tr:last-child td { border-bottom: none; }
+
+/* En pantallas angostas la tabla se apila: cada fila es una tarjeta
+   y cada celda muestra su encabezado (data-label, agregado por JS
+   abajo; sin JS, la tabla queda con scroll horizontal). */
+@media (max-width: 700px) {
+  .prose-page table { display: block; overflow-x: auto; }
+  .prose-page table.stacked,
+  .prose-page table.stacked tbody,
+  .prose-page table.stacked tr,
+  .prose-page table.stacked td { display: block; width: 100%; }
+  .prose-page table.stacked { box-shadow: none; background: none; overflow: visible; }
+  .prose-page table.stacked thead { display: none; }
+  .prose-page table.stacked tr {
+    background: #fff;
+    margin-bottom: 0.9rem;
+    border-radius: 12px;
+    box-shadow: 0 0 0 1px #dfe7da;
+    overflow: hidden;
+  }
+  .prose-page table.stacked tbody tr:nth-child(even) { background: #fff; }
+  .prose-page table.stacked td { border-bottom: 1px solid #eef2ea; }
+  .prose-page table.stacked td::before {
+    content: attr(data-label);
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e6b3d;
+    margin-bottom: 0.15rem;
+  }
+}

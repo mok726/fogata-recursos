@@ -16,11 +16,18 @@
 
       <div class="activity-card-overlay-top">
 
+      <div class="activity-card-overlay-tags">
+
+    {# Marcadores de estado: un único lugar, sólo ícono (propia / mandatoria / complementaria). #}
     {% if item.original and (item.original | string | lower) != "false" and item.original != false  %}
-       <div class="activity-original" title="Actividad original"><span class="material-symbols-outlined" role="img" aria-label="Actividad original">stars</span></div>
+       <span class="activity-marker activity-marker-original" title="Actividad propia"><span class="material-symbols-outlined" role="img" aria-label="Actividad propia">star</span></span>
     {% endif %}
-
-
+    {% if isRequired %}
+       <span class="activity-marker activity-marker-required" title="Actividad mandatoria"><span class="material-symbols-outlined" role="img" aria-label="Actividad mandatoria">priority_high</span></span>
+    {% endif %}
+    {% if isComplementary %}
+       <span class="activity-marker activity-marker-complementary" title="Actividad complementaria"><span class="material-symbols-outlined" role="img" aria-label="Actividad complementaria">add</span></span>
+    {% endif %}
 
         {% if item.main_type %}
      	   <div class="activity-type-chip">
@@ -30,21 +37,7 @@
            </div>
         {% endif %}
 
-    {% if isRequired %}
-       <div class="activity-required">
-          <span class="material-symbols-outlined" aria-hidden="true">asterisk</span>Mandatoria
-       </div>
-    {% endif %}
-
-
-
-
-
-    {% if isComplementary %}
-       <div class="activity-complementary">
-        <span class="material-symbols-outlined" aria-hidden="true">add</span>Complementaria
-       </div>
-    {% endif %}
+      </div>
 
         {% if item.duration %} 
   	  {% if not item.duration in ["Proyecto continuo","Proyecto de campaña","Proyecto de recaudación","Proyecto de organización","Proyecto de evento" ,"Proyecto de seguimiento"]%}

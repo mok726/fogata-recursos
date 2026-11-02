@@ -165,11 +165,17 @@
   color: #4c554d;
 }
 .sidebar-icon {
-  width: 28px;
-  height: 28px;
-  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
   background: #eef5ea;
   color: #355b38;
+  font-size: 1.3rem;
+  line-height: 1;
 }
 
 .badge-resource {
@@ -182,7 +188,7 @@
   display: block;
   border-radius: 16px;
   box-shadow: 0 6px 20px rgba(0,0,0,.12);
-  max-width: 140px;
+  max-width: 220px;
   transition: transform .2s ease;
 }
 .badge-resource:hover img {

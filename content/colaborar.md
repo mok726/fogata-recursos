@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+prose: true
 title: Estado del Proyecto y Colaboración
 permalink: /colaborar/
 ---
