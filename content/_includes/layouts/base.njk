@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.language }}">
+<html lang="{{ site.language }}" data-base="{{ '/' | url }}">
 
 <head>
 
@@ -252,6 +252,9 @@ put this inside the body
   </main>
 
   {% include "components/footer.njk" %}
+
+  {# Migas de pan de las actividades según el origen (js/migas.js). #}
+  <script src="{{ '/js/migas.js' | url }}?v={{ cssVersion }}"></script>
 
   <script
     src="{{ '/pagefind/pagefind-ui.js' | url }}">

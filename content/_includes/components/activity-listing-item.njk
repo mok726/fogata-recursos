@@ -14,6 +14,7 @@
   data-skills="{% for v in (item.skills or []) %}{{ v | string | trim | slugify }} {% endfor %}"
   data-values="{% for v in (item.scout_values or []) %}{{ v | string | trim | slugify }} {% endfor %}"
   data-methods="{% for v in (item.scout_method or []) %}{{ v | string | trim | slugify }} {% endfor %}"
+  data-tags="{% for t in (item.tags or []) %}{{ t | string | slugify }} {% endfor %}"
   data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
   data-dur="{{ item.duration | durationBucket }}">
 {% include "components/activity-card.njk" %}
