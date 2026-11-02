@@ -158,6 +158,16 @@
     {% endif %}
 
 
+    {# Etiqueta: sin lista (son demasiadas). Llega desde las
+       etiquetas de una actividad (?etiqueta=...) y sólo se ve
+       mientras está aplicada. #}
+    <label data-tag-filter hidden>
+      <span>Etiqueta</span>
+      <select data-filter="etiqueta" data-attr="tags" data-multi>
+        <option value="">Todas</option>
+      </select>
+    </label>
+
     <label>
       <span>Orden</span>
       <select id="acts-sort">
@@ -253,7 +263,11 @@ const desdeSel = bySelect("edad-desde");
 const hastaSel = bySelect("edad-hasta");
 const ageLabels = [...document.querySelectorAll("[data-age-range]")];
 
+const tagSel = bySelect("etiqueta");
+const tagLabel = document.querySelector("[data-tag-filter]");
+
 function syncAge() {
+  if (tagLabel) tagLabel.hidden = !tagSel.value;
   const off = Boolean(ramaSel && ramaSel.value);
   for (const label of ageLabels) label.hidden = off;
   if (off) {
@@ -456,6 +470,11 @@ sortSel.value = params.get("orden") || "";
 if (params.has("edad") && desdeSel) {
   params.set("edad-desde", params.get("edad"));
   params.set("edad-hasta", params.get("edad"));
+}
+// La etiqueta no tiene lista: se agrega la opción pedida.
+if (params.get("etiqueta") && tagSel) {
+  const v = params.get("etiqueta").trim().toLowerCase();
+  tagSel.add(new Option(v.replace(/-/g, " "), v));
 }
 for (const s of selects) {
   const v = params.get(s.dataset.filter);

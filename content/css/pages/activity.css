@@ -962,3 +962,41 @@ a.hero-category:focus-visible {
     width: auto;
   }
 }
+
+/* ---------- ETIQUETAS CON ENLACE ---------- */
+a.tag {
+  text-decoration: none;
+}
+
+a.tag:hover,
+a.tag:focus-visible {
+  background: #e3ece4;
+  color: #2e6b3d;
+}
+
+/* ---------- PROGRAMA SCOUT: OTRAS RAMAS ---------- */
+.branch-others {
+  margin-top: 12px;
+}
+
+.branch-others summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #2e6b3d;
+}
+
+.branch-others-note {
+  margin: 0.4rem 0 0.6rem;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.branch-others .branch-item {
+  background: #f7f7f4;
+  border-style: dashed;
+}
+
+.branch-others .branch-item img {
+  opacity: 0.75;
+}
