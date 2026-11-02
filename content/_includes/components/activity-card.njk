@@ -180,19 +180,16 @@
                 {% set badgeId = rawBadge | slugify %}
                 {% set badgeName = rawBadge | smartTitle %}
               {% endif %}
+              {% if not (badgeId | badgeInfo(badges)) %}
+                {% set badgeName = badgeName + " (Actividades Generales)" %}
+              {% endif %}
 
               {% set badgeInfo = badgeId | badgeById(badges) %}
 
-              <a href="{{ ('/badges/' + badgeId + '/') | url }}">
+              <a href="{{ (badgeId | badgeHref(badges)) | url }}">
                 <img
                   class="badge-icon" loading="lazy" decoding="async"
-                  src="{{
-                    (
-                      badgeInfo.logo
-                      if badgeInfo and badgeInfo.logo
-                      else '/imagenes/insignias/' + badgeId + '.png'
-                    ) | url
-                  }}"
+                  src="{{ (badgeId | badgeLogo(badges)) | url }}"
                   alt="{{ badgeName }}"
                   title="{{ badgeName }}">
               </a>

@@ -319,16 +319,11 @@ async function shareActivity() {
       {% for rawBadge in activity_badges %}
         {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
         {% set badgeInfo = badgeId | badgeById(badges) %}
-        <a href="{{ ('/badges/' + badgeId + '/') | url }}">
-          <img 
-             src="{{
-             (
-                badgeInfo.logo
-                if badgeInfo and badgeInfo.logo
-                else '/imagenes/insignias/' + badgeId + '.png'
-              ) | url 
-            }}" 
-                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-large-icon">
+        {% set badgeLabel = badgeInfo.name if badgeInfo else ((rawBadge.name or rawBadge) | smartTitle) + ' (Actividades Generales)' %}
+        <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+          <img
+             src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                alt="{{ badgeLabel }}"   title="{{ badgeLabel }}" class="badge-large-icon">
        </a>
       {% endfor %}
     </div>

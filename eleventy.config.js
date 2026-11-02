@@ -614,6 +614,32 @@ eleventyConfig.addFilter(
 
 
 
+// Logo y enlace de una insignia citada en activity_badges.
+// Si el id no corresponde a ninguna insignia conocida (ni alias), la
+// actividad cae en "general": se usa su logo y su página en vez de
+// apuntar a una imagen/página inexistente.
+function resolveBadge(badgeId, badges) {
+  const list = badges || [];
+  const n = String(badgeId || "").trim().toLowerCase();
+  return (
+    list.find(b => b.id && b.id.toLowerCase() === n) ||
+    list.find(b => (b.aliases || []).some(a => a.toLowerCase() === n)) ||
+    null
+  );
+}
+
+eleventyConfig.addFilter("badgeLogo", function(badgeId, badges) {
+  const info = resolveBadge(badgeId, badges);
+  if (info) return info.logo || "/imagenes/insignias/" + info.id + ".png";
+  const general = resolveBadge("general", badges);
+  return (general && general.logo) || "/imagenes/insignias/general.png";
+});
+
+eleventyConfig.addFilter("badgeHref", function(badgeId, badges) {
+  const info = resolveBadge(badgeId, badges);
+  return "/badges/" + (info ? info.id : "general") + "/";
+});
+
 eleventyConfig.addFilter(
   "badgeById",
   function(badgeId, badges) {

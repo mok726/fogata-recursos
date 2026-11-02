@@ -259,15 +259,9 @@
         {% for rawBadge in activity.data.activity_badges %}
         {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
         {% set badgeInfo = badgeId | badgeById(badges) %}
-          <img 
-             src="{{
-             (
-                badgeInfo.logo
-                if badgeInfo and badgeInfo.logo
-                else '/imagenes/insignias/' + badgeId + '.png'
-              ) | url 
-            }}" 
-                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-icon">
+          <img
+             src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                alt="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}"   title="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}" class="badge-icon">
         {% endfor %}
       </div>
     </div>
