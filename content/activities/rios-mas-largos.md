@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.ouramazingplanet.com/112-the-worlds-longest-rivers.html"
+  - url: "https://web.archive.org/web/20130504045114/http://www.ouramazingplanet.com:80/112-the-worlds-longest-rivers.html"
     caption: "Our Amazing Planet - Los ríos más largos del mundo"
     icon: "link"
 files: []

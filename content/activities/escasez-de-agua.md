@@ -71,9 +71,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "http://eeweek.org/assets/files/EDN%20Water%20Lessons/Water_Scarcity_2-4.pdf"
-    caption: "Earth Day Network - Water Scarcity"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

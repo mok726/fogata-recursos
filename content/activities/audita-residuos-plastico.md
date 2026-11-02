@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.cleanseas.org"
+  - url: "https://web.archive.org/web/20170226172014/http://cleanseas.org:80/"
     caption: "Guía de Mares Limpios - Clean Seas"
     icon: "link"
   - url: "https://sdgs.scout.org"

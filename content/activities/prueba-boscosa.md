@@ -61,9 +61,6 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "https://itunes.apple.com/en/app/fao-forestry/id490653521?mt=8"
-    caption: "Aplicación Forestal de la FAO en iTunes"
-    icon: "link"
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
 references:
@@ -176,7 +173,7 @@ rama_rovers:
 Descargá la aplicación de la FAO Forestal o inventá tu propio juego sobre los bosques. Jugalo con tu grupo.
 
 ## Preparación
-1. Descargá la aplicación de la FAO Forestal desde https://itunes.apple.com/en/app/fao-forestry/id490653521?mt=8.
+1. Descargá la aplicación de la FAO Forestal (ya no está disponible, ver nota).
 2. O inventa tu propio juego sobre bosques.
 3. Prepará los dispositivos o materiales para jugar.
 

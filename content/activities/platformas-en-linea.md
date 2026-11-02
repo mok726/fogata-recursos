@@ -75,7 +75,7 @@ link:
   - url: "https://greenwave.cbd.int/es/node/602"
     caption: "La Ola Verde"
     icon: "link"
-  - url: "https://uniteforclimate.org/?lang=es"
+  - url: "https://web.archive.org/web/20151007055711/http://www.uniteforclimate.org:80/?lang=es"
     caption: "Unite for Climate"
     icon: "link"
 files: []

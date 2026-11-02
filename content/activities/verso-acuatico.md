@@ -56,7 +56,7 @@ link:
   - url: "https://www.poetry4kids.com/blog/lessons/how-to-write-a-limerick/"
     caption: "Cómo escribir un limerick (inglés)"
     icon: "read_more"
-  - url: "https://www.alquimistasdelapalabra.com/Poesia/7_limerik/index.html"
+  - url: "https://web.archive.org/web/20160911031016/http://alquimistasdelapalabra.com/Poesia/7_limerik/index.html"
     caption: "Cómo escribir un limerick (español)"
     icon: "read_more"
 

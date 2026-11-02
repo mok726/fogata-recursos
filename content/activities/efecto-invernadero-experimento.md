@@ -70,7 +70,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "http://sln.fi.edu/tfi/activity/earth/earth-5.html"
+  - url: "https://web.archive.org/web/20140421224255/http://sln.fi.edu/tfi/activity/earth/earth-5.html"
     caption: "Instrucciones detalladas del experimento"
     icon: "link"
 files: []

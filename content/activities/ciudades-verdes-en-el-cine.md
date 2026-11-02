@@ -69,9 +69,6 @@ link:
   - url: "https://www.youtube.com/watch?v=o86Ut6kAEMQ"
     caption: "The Urban Green - WWF"
     icon: "link"
-  - url: "https://www.youtube.com/watch?v=svvHxwgMDY"
-    caption: "Smart Cities - Building for the Cities of Tomorrow"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

@@ -66,7 +66,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.argentina.gob.ar/salud/alimentacion-saludable/guias-alimentarias"
+  - url: "https://www.argentina.gob.ar/salud/alimentacion-saludable/grafico"
     caption: "Guías Alimentarias para la Población Argentina (Ministerio de Salud): Gráfica de la Alimentación Diaria"
     icon: "link"
 files: []

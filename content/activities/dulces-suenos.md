@@ -60,7 +60,7 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "http://kidshealth.org/teen/your_body/take_care/tips_sleep.html"
+  - url: "https://web.archive.org/web/20160131212537/http://kidshealth.org/teen/your_body/take_care/tips_sleep.html"
     caption: "Consejos para dormir mejor"
     icon: "read_more"
 

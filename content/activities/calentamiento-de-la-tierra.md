@@ -71,9 +71,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.ucar.edu/learn/1_1_2_5.htm"
-    caption: "Instrucciones detalladas del experimento"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

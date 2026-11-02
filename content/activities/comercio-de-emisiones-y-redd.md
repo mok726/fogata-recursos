@@ -70,10 +70,10 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.forestsclimatechange.org/simplyredd1.html"
+  - url: "https://web.archive.org/web/20120308185858/http://www.forestsclimatechange.org/simplyredd1.html"
     caption: "REDD simplificado"
     icon: "link"
-  - url: "https://storyofstuff.com/capandtrade"
+  - url: "https://web.archive.org/web/20111022025807/http://storyofstuff.com:80/capandtrade/"
     caption: "Comercio de emisiones - Story of Stuff"
     icon: "link"
   - url: "https://www.unep.org/spanish/climatechange/ElTrabajodelPNUMA/REDD/tabid/4165/Default.aspx"

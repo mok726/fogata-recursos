@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.un.org/en/members"
+  - url: "https://www.un.org/en/about-us/member-states"
     caption: "Lista de países miembros de la ONU"
     icon: "link"
 files: []

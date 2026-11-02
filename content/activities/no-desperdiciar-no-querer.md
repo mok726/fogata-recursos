@@ -68,7 +68,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.thedailygreen.com/going-green/community-tips/reduce-food-waste-460708"
+  - url: "https://web.archive.org/web/20131129182941/http://www.thedailygreen.com:80/going-green/community-tips/reduce-food-waste-460708"
     caption: "Consejos para reducir el desperdicio de alimentos"
     icon: "link"
 files: []

@@ -70,9 +70,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "http://c03.apogee.net/contentplayer/?coursetype=kids&utilityid=gcpud&id=16174"
-    caption: "Más información sobre el ciclo del carbono"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

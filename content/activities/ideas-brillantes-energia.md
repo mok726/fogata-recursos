@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.sustainableenergyforall.org/about/success-stories"
+  - url: "https://web.archive.org/web/20120326121608/http://www.sustainableenergyforall.org:80/about/success-stories"
     caption: "Historias de éxito de Energía Sostenible para Todos"
     icon: "link"
 files: []

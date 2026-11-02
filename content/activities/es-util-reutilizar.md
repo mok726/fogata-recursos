@@ -76,7 +76,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://twistedsifter.com/2012/06/creative-ways-to-repurpose-reuse-and-upcycle-old-things"
+  - url: "https://web.archive.org/web/20161121065452/http://twistedsifter.com:80/2012/06/creative-ways-to-repurpose-reuse-and-upcycle-old-things/"
     caption: "Formas creativas de reutilizar cosas viejas"
     icon: "link"
 files: []

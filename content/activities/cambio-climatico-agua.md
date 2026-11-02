@@ -52,7 +52,7 @@ tags:
   - investigacion
 
 link:
-  - url: "https://www.emdat.be/database"
+  - url: "https://web.archive.org/web/20161210071911/http://emdat.be:80/database"
     caption: "Base de datos de desastres EM-DAT"
     icon: "read_more"
 

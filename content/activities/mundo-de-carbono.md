@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.kidsnewsroom.org/climatechange/carbon_cycle_version2.html"
+  - url: "https://web.archive.org/web/20130524193514/http://www.kidsnewsroom.org/climatechange/carbon_cycle_version2.html"
     caption: "Más información sobre el ciclo del carbono"
     icon: "link"
 files: []

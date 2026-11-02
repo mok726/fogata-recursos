@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.un.org/waterforlifedecade/pdf/human_right_to_water_and_sanitation_media_brief.pdf"
+  - url: "https://web.archive.org/web/20170110145840/http://www.un.org:80/waterforlifedecade/pdf/human_right_to_water_and_sanitation_media_brief.pdf"
     caption: "UN - El derecho humano al agua y al saneamiento"
     icon: "link"
 files: []

@@ -60,7 +60,7 @@ tags:
 
 # ========== ENLACES ==========
 link:
-  - url: "http://www.who.int/dietphysicalactivity/marketing-food-to-children/es/"
+  - url: "https://web.archive.org/web/20161127102952/http://www.who.int:80/dietphysicalactivity/marketing-food-to-children/es/"
     caption: "Recomendaciones de la OMS sobre marketing de alimentos"
     icon: "read_more"
 

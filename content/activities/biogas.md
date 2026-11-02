@@ -73,7 +73,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.pge.com/microsite/safety_esw_ngsw/ngsw/basics/experiment2.html"
+  - url: "https://web.archive.org/web/20100304000546/http://www.pge.com:80/microsite/safety_esw_ngsw/ngsw/basics/experiment2.html"
     caption: "Experimento de biogás"
     icon: "link"
   - url: "https://www4.biblioredes.cl/BiblioRed/Nosotros+en+Internet/ciencias+y+ninos/uno.htm"

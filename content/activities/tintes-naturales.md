@@ -80,7 +80,7 @@ link:
   - url: "https://www.pioneerthinking.com/naturaldyes.html"
     caption: "Tintes naturales - Pioneer Thinking"
     icon: "link"
-  - url: "https://tilz.tearfund.org/Espanol/Paso+a+Paso+21-30/Paso+a+Paso+21/Tintes+de+plantas+caseros.htm"
+  - url: "https://web.archive.org/web/20120626023801/http://tilz.tearfund.org:80/Espanol/Paso+a+Paso+21-30/Paso+a+Paso+21/Tintes+de+plantas+caseros.htm"
     caption: "Tintes de plantas caseros"
     icon: "link"
 files: []

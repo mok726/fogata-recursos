@@ -60,9 +60,6 @@ tags:
   - conchas
 
 link:
-  - url: "https://www.youtube.com/watch?v=55D8TGRsl4k"
-    caption: "Video sobre acidificación del océano"
-    icon: "read_more"
 
 files: []
 

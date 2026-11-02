@@ -53,7 +53,7 @@ tags:
   - purificacion
 
 link:
-  - url: "https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_050949.pdf"
+  - url: "https://web.archive.org/web/20170116155745/https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_050949.pdf"
     caption: "Experimento de filtrado de agua - USDA"
     icon: "read_more"
 

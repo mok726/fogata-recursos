@@ -70,12 +70,6 @@ link:
   - url: "https://www.ourplanet.com"
     caption: "Nuestro Planeta - sitio oficial"
     icon: "link"
-  - url: "https://www.ourplanet.com/en/educators/"
-    caption: "Recursos educativos de Nuestro Planeta"
-    icon: "link"
-  - url: "https://www.ourplanet.com/en/take-action/"
-    caption: "Dar Voz al Planeta - acciones"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

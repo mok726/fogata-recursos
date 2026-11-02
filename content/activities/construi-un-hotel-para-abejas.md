@@ -74,7 +74,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.nationalgeographic.org/media/build-your-own-bee-hotel"
+  - url: "https://web.archive.org/web/20161021024008/http://nationalgeographic.org:80/media/build-your-own-bee-hotel/"
     caption: "Cómo construir tu propio hotel para abejas - National Geographic"
     icon: "link"
   - url: "https://www.wildlifetrusts.org/actions/how-make-bee-hotel"

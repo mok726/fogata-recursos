@@ -56,7 +56,7 @@ tags:
   - cuidado
 
 link:
-  - url: "https://urbanext.illinois.edu/firstgarden/basics/dirt.cfm"
+  - url: "https://web.archive.org/web/20150502124914/http://urbanext.illinois.edu:80/firstgarden/basics/dirt.cfm"
     caption: "Consejos para preparar el suelo - Illinois Extension"
     icon: "read_more"
 

@@ -53,7 +53,7 @@ tags:
   - organismos
 
 link:
-  - url: "https://www.education.com/science-fair/article/grainy/"
+  - url: "https://web.archive.org/web/20150103074704/http://www.education.com:80/science-fair/article/grainy/"
     caption: "Guía para observar el suelo con microscopio"
     icon: "read_more"
 
