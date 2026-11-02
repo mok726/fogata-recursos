@@ -2265,6 +2265,12 @@ sections: {
     organization: "MSC",
     year: "2025"
   },
+  sections: {
+    E: {
+      title: "Extras",
+      description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y solo documento."
+    },
+  }  
 }
 
 
