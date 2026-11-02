@@ -24,7 +24,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import json, urllib.request, urllib.parse, subprocess
-          d = json.load(open('lychee/out.json'))
+          d, _ = json.JSONDecoder().raw_decode(open('lychee/out.json').read().lstrip())
           m = d.get('error_map') or d.get('fail_map') or {}
           rows = []
           for f, errs in m.items():

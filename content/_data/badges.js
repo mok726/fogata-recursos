@@ -13,7 +13,7 @@ module.exports = function () {
       sources: [
         {
           name: "YUNGA Agriculture Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/agriculture/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/es"
         }
       ],
   license: {
@@ -50,7 +50,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Forest Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/forests/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/forests/es"
         }
       ],
   license: {
@@ -123,7 +123,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Gender Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/gender/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/es"
         }
       ],
   license: {
@@ -160,7 +160,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Nutrition Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/nutrition/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/es"
         }
       ],
   license: {
@@ -984,7 +984,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Climate Change Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/climatechange/es/"
+          url: "https://www.fao.org/3/i5216s/i5216s.pdf"
         }
       ],
   license: {
@@ -1105,7 +1105,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Governance Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/governance/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/es"
         }
       ],
   license: {
@@ -1142,7 +1142,7 @@ sections: {
       sources: [
         {
           name: "YUNGA The Ocean Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/theocean/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/es"
         }
       ],
   license: {
@@ -1214,7 +1214,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Disaster Risk Reduction Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/disaster-risk-reduction/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/es"
         }
       ],
   license: {
@@ -1425,7 +1425,7 @@ sections: {
       sources: [
         {
           name: "YUNGA Energy Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/energy/es/"
+          url: "https://www.fao.org/yunga/activities/challenge-badges/energy/es"
         }
       ],
   license: {
@@ -1569,7 +1569,7 @@ sections: {
   sources: [
     {
       name: "YUNGA Soils Badge",
-      url: "https://www.fao.org/yunga/resources/challengebadges/soils/es/"
+      url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/es"
     }
   ],
   license: {
@@ -1751,7 +1751,7 @@ sections: {
   sources: [
     {
       name: "YUNGA Pollinators Badge",
-      url: "https://www.fao.org/yunga/resources/challengebadges/polinizadores/es/"
+      url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/es"
     }
   ],
   license: {
