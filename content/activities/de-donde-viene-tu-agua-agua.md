@@ -186,7 +186,7 @@ Cuando una persona abre una canilla para beber un vaso de agua, puede estar obte
 
 ## Laberinto: ¿De dónde viene tu agua?
 
-*[El laberinto original del PDF muestra un dibujo con caminos que conectan una casa con diferentes fuentes de agua: un lago, un río, un pozo y una canilla. Los participantes deben trazar el camino correcto desde su hogar hasta cada fuente de agua.]*
+*Encontrá el camino desde tu casa hasta el lago, el río y el pozo.*
 
 ![Laberinto - ¿De dónde viene tu agua?](/imagenes/actividades/de-donde-viene-tu-agua-agua-laberinto.png)
 
