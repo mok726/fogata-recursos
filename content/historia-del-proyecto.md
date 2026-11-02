@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+prose: true
 title: Historia del Proyecto
 permalink: /historia-del-proyecto/
 ---

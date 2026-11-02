@@ -1,5 +1,6 @@
 ---
 layout: layouts/base.njk
+prose: true
 title: Acerca de Fogata de Recursos
 permalink: /acerca-de/
 ---
