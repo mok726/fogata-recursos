@@ -12,7 +12,7 @@
 
    Esta es la única regla base que faltaba.
    ========================================= */
-
+/*margin-right: 0.25rem;*/
 .material-symbols-outlined {
   font-family: 'Material Symbols Outlined';
   font-weight: normal;
@@ -26,7 +26,6 @@
   word-wrap: normal;
   direction: ltr;
   vertical-align: middle;
-  margin-right: 0.25rem;
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
 }
