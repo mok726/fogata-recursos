@@ -1,0 +1,52 @@
+# TEMPORAL: se borra antes de mergear. Busca reemplazos para los enlaces rotos.
+name: TMP enlaces
+on:
+  push:
+    branches: [claude/project-thread-29sfcd]
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: .github/scripts/sin-texto-original.sh
+      - id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --scheme http --scheme https --scheme file
+            --root-dir ${{ github.workspace }}
+            --accept 200..=299,403,405,429 --max-concurrency 8 --timeout 30 --max-retries 2
+            --format json
+            "_enlaces/content/activities/*.md" "_enlaces/content/_data/badges.js"
+          output: lychee/out.json
+          fail: false
+      - name: Wayback
+        run: |
+          python3 - <<'PY'
+          import json, urllib.request, urllib.parse, subprocess
+          d = json.load(open('lychee/out.json'))
+          m = d.get('error_map') or d.get('fail_map') or {}
+          rows = []
+          for f, errs in m.items():
+              for e in errs:
+                  st = e.get('status', {})
+                  rows.append((f.replace('_enlaces/',''), e['url'], json.dumps(st)[:80]))
+          urls = sorted({r[1] for r in rows})
+          print("FAILS", len(rows), "UNIQUE", len(urls))
+          wb = {}
+          for u in urls:
+              if not u.startswith('http'): wb[u] = ''; continue
+              res = ''
+              for ts in ('2016', '2012', '2020'):
+                  try:
+                      q = 'https://archive.org/wayback/available?' + urllib.parse.urlencode({'url': u, 'timestamp': ts})
+                      j = json.load(urllib.request.urlopen(q, timeout=40))
+                      c = j.get('archived_snapshots', {}).get('closest')
+                      if c and c.get('status') == '200':
+                          res = c['url']; break
+                  except Exception as ex:
+                      res = 'ERR ' + str(ex)[:40]
+              wb[u] = res
+          for f, u, st in sorted(rows):
+              print('ROW\t%s\t%s\t%s\t%s' % (f, u, wb.get(u, ''), st))
+          PY
