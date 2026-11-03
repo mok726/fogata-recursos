@@ -974,6 +974,22 @@ a.tag:focus-visible {
   color: #2e6b3d;
 }
 
+/* ---------- MÉTODO, VALORES Y COMPETENCIAS CON ENLACE ---------- */
+.method-list a,
+.competence-list a {
+  color: var(--fogata-forest, #23402a);
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+}
+
+.method-list a:hover,
+.method-list a:focus-visible,
+.competence-list a:hover,
+.competence-list a:focus-visible {
+  color: var(--fogata-fire-dark, #c25a1a);
+  text-decoration-style: solid;
+}
+
 /* ---------- PROGRAMA SCOUT: OTRAS RAMAS ---------- */
 .branch-others {
   margin-top: 12px;

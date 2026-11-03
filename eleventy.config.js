@@ -635,6 +635,15 @@ eleventyConfig.addFilter("badgeLogo", function(badgeId, badges) {
   return (general && general.logo) || "/imagenes/insignias/general.png";
 });
 
+// Enlace de un valor de la ficha (método, competencia, valor) a
+// su página de taxonomía. Mismo criterio que activitiesFor (nombre
+// exacto), para que la página enlazada liste la actividad. Sin
+// coincidencia devuelve "" y la plantilla muestra texto plano.
+eleventyConfig.addFilter("taxonomyHref", function(name, list, base) {
+  const item = (list || []).find(x => x.name === name);
+  return item ? base + item.id + "/" : "";
+});
+
 eleventyConfig.addFilter("badgeHref", function(badgeId, badges) {
   const info = resolveBadge(badgeId, badges);
   return "/badges/" + (info ? info.id : "general") + "/";
