@@ -85,6 +85,9 @@ license:
 
 # ========== ATRIBUCIONES ==========
 attributions:
+  - entity: "A. Hyatt Verrill"
+    role: "autor del original (Knots, Splices and Rope Work, 1912)"
+    year: 1912
   - entity: "Mariano S. Cosentino"
     role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026

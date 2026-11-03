@@ -2253,9 +2253,9 @@ sections: {
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
-    "Nudos, campamento, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
+    "Nudos, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
   summary:
-    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, y Knots, Splices and Rope Work de A. Hyatt Verrill (1912).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
   logo: "/imagenes/insignias/general-logo.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   sources: [
@@ -2270,6 +2270,10 @@ sections: {
     {
       name: "A. Hyatt Verrill, Knots, Splices and Rope Work (1912) – Project Gutenberg #13510",
       url: "https://www.gutenberg.org/ebooks/13510"
+    },
+    {
+      name: "Daniel Carter Beard, Shelters, Shacks and Shanties (1914) – Project Gutenberg #28255",
+      url: "https://www.gutenberg.org/ebooks/28255"
     }
   ],
   license: {
@@ -2310,6 +2314,10 @@ sections: {
     E: {
       title: "Juegos de Seton",
       description: "Juegos de observación, puntería y persecución del Boy Scouts Handbook."
+    },
+    F: {
+      title: "Refugios",
+      description: "Aislarse del suelo, leer el terreno y construir refugios simples con material muerto, sin dañar árboles (Daniel Carter Beard)."
     }
   }
 },
