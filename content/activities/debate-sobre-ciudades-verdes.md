@@ -131,7 +131,6 @@ category:
   - Urbanización
   - Sostenibilidad
 skills:
-  - Argumentación
   - Pensamiento crítico
   - Trabajo en equipo
 

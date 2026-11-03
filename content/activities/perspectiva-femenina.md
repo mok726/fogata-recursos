@@ -125,9 +125,8 @@ skills:
   - Creatividad
 
 scout_values:
-  - Igualdad
-  - Respeto al prójimo
   - Justicia
+  - Respeto al prójimo
 
 scout_method:
   - Acompañamiento adulto / Protagonismo juvenil

@@ -132,9 +132,8 @@ category:
   - Plásticos
   - Participación ciudadana
 skills:
-  - Debate
   - Pensamiento crítico
-  - Colaboración
+  - Trabajo en equipo
   - Comunicación
 
 # ========== VALORES SCOUT ==========

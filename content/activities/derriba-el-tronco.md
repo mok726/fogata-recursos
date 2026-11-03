@@ -115,8 +115,7 @@ activity_type:
 category:
   - Juegos scouts
 skills:
-  - Fuerza
-  - Equilibrio
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

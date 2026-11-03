@@ -120,8 +120,8 @@ category:
   - Medio ambiente
 
 skills:
-  - Planificación
-  - Reflexión
+  - Planificación y organización
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:

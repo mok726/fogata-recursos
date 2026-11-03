@@ -135,7 +135,7 @@ category:
 skills:
   - Observación
   - Pensamiento crítico
-  - Conciencia de seguridad
+  - Resolución de problemas
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

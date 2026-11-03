@@ -127,7 +127,7 @@ category:
   - Energía
   - Sostenibilidad
 skills:
-  - Organización
+  - Planificación y organización
   - Trabajo en equipo
   - Conciencia ambiental
 
@@ -137,7 +137,7 @@ scout_values:
   - Sencillez y Austeridad
   - Naturaleza
 scout_method:
-  - Participación comunitaria
+  - Participación comunitaria y Servicio
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

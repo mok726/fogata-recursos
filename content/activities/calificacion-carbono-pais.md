@@ -133,7 +133,7 @@ category:
   - Datos
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

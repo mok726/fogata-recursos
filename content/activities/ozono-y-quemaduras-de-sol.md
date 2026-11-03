@@ -134,7 +134,7 @@ category:
   - Protección solar
 skills:
   - Investigación
-  - Conciencia sobre salud
+  - Salud y autocuidado
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

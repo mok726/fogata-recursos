@@ -119,7 +119,7 @@ skills:
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Hermandad
 
 scout_method:

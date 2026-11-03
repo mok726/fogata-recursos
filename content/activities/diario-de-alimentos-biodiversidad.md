@@ -138,8 +138,8 @@ category:
   - Biodiversidad
 skills:
   - Observación
-  - Análisis
-  - Conciencia alimentaria
+  - Pensamiento crítico
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:

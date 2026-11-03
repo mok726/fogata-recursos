@@ -121,7 +121,6 @@ category:
 skills:
   - Comunicación
   - Investigación
-  - Oratoria
 
 scout_values:
   - Responsabilidad

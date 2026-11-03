@@ -142,7 +142,7 @@ skills:
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Empatía
+  - Respeto al prójimo
 scout_method:
   - Aprender haciendo
   - Vida en la Naturaleza y Aventura

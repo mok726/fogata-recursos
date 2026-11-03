@@ -132,7 +132,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Conciencia del consumidor
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

@@ -130,7 +130,7 @@ category:
   - Cambio climático
 skills:
   - Conciencia ambiental
-  - Participación ciudadana
+  - Conciencia social
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

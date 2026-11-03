@@ -125,8 +125,8 @@ category:
   - Salud
   - Educación
 skills:
-  - Primeros auxilios
-  - Higiene
+  - Técnicas scout
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:

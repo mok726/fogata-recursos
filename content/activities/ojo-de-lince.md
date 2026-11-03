@@ -120,15 +120,14 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Agudeza visual
-  - Memoria visual
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación personal
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

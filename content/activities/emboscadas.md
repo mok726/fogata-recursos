@@ -118,7 +118,7 @@ category:
   - Juegos scouts
   - Acecho
 skills:
-  - Camuflaje
+  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========

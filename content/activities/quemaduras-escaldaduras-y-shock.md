@@ -123,8 +123,8 @@ category:
   - Salud
   - Educación
 skills:
-  - Primeros auxilios
-  - Calma ante emergencias
+  - Técnicas scout
+  - Autoconciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

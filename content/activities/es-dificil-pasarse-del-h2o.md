@@ -119,7 +119,7 @@ category:
 
 skills:
   - Empatía
-  - Reflexión
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:

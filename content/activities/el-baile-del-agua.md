@@ -115,12 +115,11 @@ category:
 
 skills:
   - Creatividad
-  - Expresión corporal
   - Trabajo en equipo
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:

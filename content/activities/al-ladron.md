@@ -118,15 +118,14 @@ category:
   - Observación
 skills:
   - Observación
-  - Atención
-  - Velocidad de reacción
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Hermandad
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========

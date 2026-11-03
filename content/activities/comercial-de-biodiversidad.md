@@ -133,14 +133,13 @@ category:
   - Comunicación
   - Biodiversidad
 skills:
-  - Actuación
-  - Edición de video
+  - Creatividad
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Creatividad e Ingenio
-  - Comunicación
+  - Hermandad
   - Responsabilidad
 scout_method:
   - Aprender haciendo

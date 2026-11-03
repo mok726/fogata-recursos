@@ -118,6 +118,24 @@ module.exports = [
     id: "alfabetizacion-digital",
     name: "Alfabetización digital",
     symbol: "devices"
+  },
+
+  {
+    id: "tecnicas-scout",
+    name: "Técnicas scout",
+    symbol: "camping"
+  },
+
+  {
+    id: "destreza-fisica",
+    name: "Destreza física",
+    symbol: "directions_run"
+  },
+
+  {
+    id: "salud-y-autocuidado",
+    name: "Salud y autocuidado",
+    symbol: "health_and_safety"
   }
 
 ];

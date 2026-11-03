@@ -118,9 +118,7 @@ category:
   - Juegos scouts
   - Salud
 skills:
-  - Equilibrio
-  - Coordinación ojo-mano
-  - Lateralidad
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

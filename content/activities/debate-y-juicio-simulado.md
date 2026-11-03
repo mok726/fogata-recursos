@@ -120,9 +120,8 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Argumentación
+  - Pensamiento crítico
   - Comunicación
-  - Escucha activa
 
 # ========== VALORES SCOUT ==========
 scout_values:

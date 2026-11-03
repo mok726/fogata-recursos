@@ -122,9 +122,8 @@ category:
   - Hambre
 
 skills:
-  - Comprensión lectora
-  - Reflexión
   - Comunicación
+  - Pensamiento crítico
 
 scout_values:
   - Justicia

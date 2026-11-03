@@ -135,7 +135,7 @@ scout_values:
   - Responsabilidad
   - Aventura
 scout_method:
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

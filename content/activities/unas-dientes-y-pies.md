@@ -122,8 +122,7 @@ activity_type:
 category:
   - Salud
 skills:
-  - Higiene personal
-  - Cuidado de los pies
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -124,12 +124,12 @@ category:
 
 skills:
   - Creatividad
-  - Expresión escrita
-  - Comprensión del uso del agua
+  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
-  - Creatividad e ingenio
-  - Curiosidad y apertura al aprendizaje
+  - Creatividad e Ingenio
+  - Curiosidad y Apertura al aprendizaje
   - Optimismo y Alegría
 
 scout_method:

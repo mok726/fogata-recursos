@@ -148,7 +148,7 @@ scout_values:
   - Aventura
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

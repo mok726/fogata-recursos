@@ -117,7 +117,6 @@ category:
 
 skills:
   - Creatividad
-  - Diseño
   - Comunicación
 
 scout_values:

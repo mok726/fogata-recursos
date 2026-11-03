@@ -120,8 +120,7 @@ category:
   - Juegos scouts
   - Técnicas de campamento
 skills:
-  - Encendido de fuego
-  - Técnicas de campamento
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
@@ -129,7 +128,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

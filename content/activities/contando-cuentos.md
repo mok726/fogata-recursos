@@ -136,7 +136,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad
-  - Empatía
+  - Respeto al prójimo
   - Creatividad e Ingenio
 scout_method:
   - Aprender haciendo

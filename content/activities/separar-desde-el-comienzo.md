@@ -132,7 +132,7 @@ category:
   - Gestión de residuos
   - Plásticos
 skills:
-  - Clasificación
+  - Pensamiento crítico
   - Trabajo en equipo
   - Conciencia ambiental
 

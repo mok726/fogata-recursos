@@ -138,7 +138,6 @@ category:
 
 skills:
   - Observación
-  - Paciencia
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

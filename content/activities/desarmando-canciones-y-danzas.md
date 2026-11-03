@@ -131,9 +131,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Igualdad de género
-  - Respeto al prójimo
   - Justicia
+  - Respeto al prójimo
 scout_method:
   - Aprender haciendo
   - Marco simbólico

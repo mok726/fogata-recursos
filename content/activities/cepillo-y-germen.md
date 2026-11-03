@@ -117,8 +117,8 @@ category:
   - Juegos scouts
   - Salud
 skills:
-  - Agilidad
-  - Cooperación
+  - Destreza física
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:

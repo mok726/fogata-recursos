@@ -123,12 +123,11 @@ category:
 skills:
   - Creatividad
   - Observación
-  - Expresión artística
 
 scout_values:
   - Naturaleza
-  - Creatividad e ingenio
-  - Empatía
+  - Creatividad e Ingenio
+  - Respeto al prójimo
 
 scout_method:
   - Marco simbólico

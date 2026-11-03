@@ -117,13 +117,13 @@ category:
 
 skills:
   - Observación
-  - Natación
+  - Destreza física
   - Investigación
 
 scout_values:
   - Aventura
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Vida en la Naturaleza y Aventura

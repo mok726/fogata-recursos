@@ -138,7 +138,7 @@ category:
   - Comunidad
   - Polinizadores
 skills:
-  - Organización
+  - Planificación y organización
   - Liderazgo
   - Comunicación
 

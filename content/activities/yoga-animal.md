@@ -129,7 +129,7 @@ category:
   - Animales
   - Biodiversidad
 skills:
-  - Coordinación
+  - Destreza física
   - Creatividad
   - Trabajo en equipo
 

@@ -119,7 +119,7 @@ category:
   - Juegos scouts
   - Rastreo
 skills:
-  - Rastreo
+  - Técnicas scout
   - Observación
   - Trabajo en equipo
 
@@ -129,7 +129,7 @@ scout_values:
   - Hermandad
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

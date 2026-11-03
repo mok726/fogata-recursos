@@ -131,7 +131,6 @@ category:
   - Clima
 skills:
   - Creatividad
-  - Imaginación
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

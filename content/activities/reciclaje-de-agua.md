@@ -117,9 +117,8 @@ category:
   - Lluvia
 
 skills:
-  - Reciclaje de agua
+  - Hábitos sostenibles
   - Responsabilidad
-  - Sostenibilidad
 
 scout_values:
   - Sencillez y Austeridad

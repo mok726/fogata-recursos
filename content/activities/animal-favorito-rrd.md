@@ -116,13 +116,13 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación escrita
+  - Comunicación
   - Empatía
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Marco simbólico

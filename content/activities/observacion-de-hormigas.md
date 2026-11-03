@@ -133,7 +133,6 @@ category:
 skills:
   - Observación
   - Investigación
-  - Paciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

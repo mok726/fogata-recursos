@@ -132,8 +132,7 @@ category:
   - Sostenibilidad
   - Clima
 skills:
-  - Autogestión
-  - Planificación
+  - Planificación y organización
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

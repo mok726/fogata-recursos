@@ -123,8 +123,8 @@ category:
   - Juegos scouts
   - Naturaleza
 skills:
-  - Vida en campamento
-  - Autonomía
+  - Técnicas scout
+  - Autoconciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

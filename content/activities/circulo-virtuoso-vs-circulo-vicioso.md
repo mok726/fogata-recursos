@@ -134,7 +134,6 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Análisis
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

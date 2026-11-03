@@ -120,11 +120,11 @@ category:
 
 skills:
   - Comunicación
-  - Reflexión
-  - Dibujo
+  - Pensamiento crítico
+  - Creatividad
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Respeto al prójimo
   - Superación personal
 

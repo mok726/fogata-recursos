@@ -116,12 +116,12 @@ category:
 
 skills:
   - Creatividad
-  - Expresión escrita
+  - Comunicación
   - Observación
 
 scout_values:
   - Naturaleza
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Optimismo y Alegría
 
 scout_method:

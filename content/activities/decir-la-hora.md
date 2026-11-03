@@ -125,8 +125,8 @@ category:
   - Educación
   - Arte
 skills:
-  - Lectura de la hora
-  - Manualidades
+  - Pensamiento científico
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

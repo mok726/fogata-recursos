@@ -118,7 +118,6 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Análisis
 
 scout_values:
   - Justicia

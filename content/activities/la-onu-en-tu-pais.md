@@ -131,7 +131,7 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Conciencia global
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -133,7 +133,7 @@ category:
 
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

@@ -117,7 +117,7 @@ category:
   - Viaje
 
 skills:
-  - Planificación
+  - Planificación y organización
   - Investigación
   - Comunicación
 

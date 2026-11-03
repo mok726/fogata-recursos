@@ -118,10 +118,10 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Expresión oral
+  - Comunicación
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Solidaridad
   - Naturaleza
 

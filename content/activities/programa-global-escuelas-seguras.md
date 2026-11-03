@@ -138,7 +138,7 @@ category:
   - Seguridad
   - Clima
 skills:
-  - Planificación
+  - Planificación y organización
   - Pensamiento crítico
   - Liderazgo
 

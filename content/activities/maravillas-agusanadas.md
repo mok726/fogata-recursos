@@ -125,12 +125,12 @@ category:
 skills:
   - Observación
   - Experimentación
-  - Análisis
+  - Pensamiento crítico
 
 scout_values:
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
-  - Creatividad e ingenio
+  - Curiosidad y Apertura al aprendizaje
+  - Creatividad e Ingenio
 
 scout_method:
   - Aprender haciendo

@@ -131,8 +131,8 @@ category:
   - Agua
 skills:
   - Investigación
-  - Comunicación visual
-  - Conciencia global
+  - Comunicación
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

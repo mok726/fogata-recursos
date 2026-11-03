@@ -117,12 +117,11 @@ category:
 
 skills:
   - Creatividad
-  - Dibujo
   - Comunicación
 
 scout_values:
   - Naturaleza
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Responsabilidad
 
 scout_method:

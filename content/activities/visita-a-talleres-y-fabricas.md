@@ -119,7 +119,6 @@ category:
   - Educación
 skills:
   - Observación
-  - Escritura
   - Comunicación
 
 # ========== VALORES SCOUT ==========

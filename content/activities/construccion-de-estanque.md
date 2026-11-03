@@ -134,8 +134,8 @@ category:
   - Hábitat
   - Biodiversidad
 skills:
-  - Construcción
-  - Planificación
+  - Creatividad
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

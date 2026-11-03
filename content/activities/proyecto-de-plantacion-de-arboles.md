@@ -120,7 +120,7 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Jardinería
+  - Técnicas scout
   - Responsabilidad
 
 scout_values:

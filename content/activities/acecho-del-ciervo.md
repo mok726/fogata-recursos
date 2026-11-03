@@ -120,8 +120,7 @@ category:
   - Juegos scouts
   - Acecho
 skills:
-  - Acecho
-  - Pisada silenciosa
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

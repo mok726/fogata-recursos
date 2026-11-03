@@ -122,8 +122,8 @@ category:
   - Rastreo
   - Observación
 skills:
-  - Rastreo
-  - Deducción
+  - Técnicas scout
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

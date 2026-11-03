@@ -134,7 +134,7 @@ scout_values:
   - Creatividad e Ingenio
   - Hermandad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

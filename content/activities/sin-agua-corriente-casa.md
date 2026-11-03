@@ -129,7 +129,7 @@ category:
   - Familia
 skills:
   - Empatía
-  - Planificación
+  - Planificación y organización
   - Conciencia social
 
 # ========== VALORES SCOUT ==========

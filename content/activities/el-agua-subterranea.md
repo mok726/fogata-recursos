@@ -134,7 +134,7 @@ category:
   - Literatura
   - Educación
 skills:
-  - Comprensión lectora
+  - Comunicación
   - Pensamiento crítico
   - Conciencia ambiental
 

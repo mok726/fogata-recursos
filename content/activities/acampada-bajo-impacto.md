@@ -126,7 +126,7 @@ category:
   - Energía
   - Naturaleza
 skills:
-  - Planificación
+  - Planificación y organización
   - Conciencia ambiental
   - Trabajo en equipo
   - Resolución de problemas

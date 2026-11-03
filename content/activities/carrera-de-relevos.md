@@ -119,7 +119,7 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========
@@ -127,7 +127,7 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

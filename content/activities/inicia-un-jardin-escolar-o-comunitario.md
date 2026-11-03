@@ -143,7 +143,7 @@ category:
   - Alimentación
   - Sostenibilidad
 skills:
-  - Jardinería
+  - Técnicas scout
   - Trabajo en equipo
   - Responsabilidad
 

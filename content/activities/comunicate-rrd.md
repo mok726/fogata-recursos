@@ -118,13 +118,13 @@ category:
 
 skills:
   - Investigación
-  - Comunicación escrita
-  - Argumentación
+  - Comunicación
+  - Pensamiento crítico
 
 scout_values:
   - Justicia
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

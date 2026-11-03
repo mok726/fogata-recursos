@@ -121,7 +121,7 @@ skills:
   - Comunicación
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Responsabilidad
   - Superación personal
 

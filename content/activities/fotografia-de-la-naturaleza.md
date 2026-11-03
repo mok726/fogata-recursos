@@ -132,7 +132,7 @@ category:
   - Fotografía
   - Biodiversidad
 skills:
-  - Fotografía
+  - Creatividad
   - Observación
   - Conciencia ambiental
 

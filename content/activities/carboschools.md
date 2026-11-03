@@ -117,11 +117,11 @@ category:
 
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Naturaleza
   - Superación personal
 

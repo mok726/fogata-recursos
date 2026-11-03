@@ -115,9 +115,9 @@ category:
   - Energía
 
 skills:
-  - Conciencia del agua
-  - Autodisciplina
-  - Influencia social
+  - Hábitos sostenibles
+  - Planificación y organización
+  - Comunicación
 
 scout_values:
   - Sencillez y Austeridad

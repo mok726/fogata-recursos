@@ -145,7 +145,7 @@ category:
   - Hábitat
   - Polinizadores
 skills:
-  - Jardinería
+  - Técnicas scout
   - Observación
   - Conciencia ambiental
 

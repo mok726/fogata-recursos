@@ -118,11 +118,9 @@ category:
 
 skills:
   - Creatividad
-  - Habilidades manuales
-  - Trabajo con materiales
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
   - Sencillez y Austeridad
 

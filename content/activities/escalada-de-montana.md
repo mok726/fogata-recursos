@@ -134,7 +134,7 @@ category:
   - Biodiversidad
 skills:
   - Observación
-  - Esfuerzo
+  - Autoconciencia
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

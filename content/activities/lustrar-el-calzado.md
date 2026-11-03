@@ -126,8 +126,8 @@ category:
   - Comunidad
   - Educación
 skills:
-  - Cuidado del equipo
-  - Motricidad fina
+  - Responsabilidad
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

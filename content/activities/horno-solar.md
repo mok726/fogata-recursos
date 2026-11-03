@@ -118,12 +118,11 @@ category:
   - Cocina
 
 skills:
-  - Construcción
-  - Innovación
+  - Creatividad
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
   - Superación personal
 

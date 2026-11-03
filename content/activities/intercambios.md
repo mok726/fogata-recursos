@@ -134,7 +134,7 @@ category:
 skills:
   - Comunicación
   - Trabajo en equipo
-  - Conciencia global
+  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

@@ -123,7 +123,7 @@ activity_type:
 category:
   - Salud
 skills:
-  - Hábitos saludables
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:

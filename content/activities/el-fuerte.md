@@ -115,8 +115,8 @@ category:
   - Juegos scouts
   - Fuerza
 skills:
-  - Fuerza
-  - Estrategia
+  - Destreza física
+  - Pensamiento crítico
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
@@ -124,7 +124,7 @@ scout_values:
   - Hermandad
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

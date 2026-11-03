@@ -135,7 +135,7 @@ category:
   - Conflictos
   - Recursos compartidos
 skills:
-  - Negociación
+  - Comunicación
   - Pensamiento crítico
   - Conciencia social
 

@@ -120,9 +120,9 @@ category:
   - Juegos scouts
   - Rastreo
 skills:
-  - Rastreo
+  - Técnicas scout
   - Observación
-  - Trabajo en pareja
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -116,9 +116,9 @@ category:
   - Monitoreo
 
 skills:
-  - Monitoreo
-  - Análisis
-  - Planificación
+  - Observación
+  - Pensamiento crítico
+  - Planificación y organización
 
 scout_values:
   - Responsabilidad

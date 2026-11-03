@@ -124,8 +124,7 @@ category:
   - Consumo
   - Educación
 skills:
-  - Manejo del dinero
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

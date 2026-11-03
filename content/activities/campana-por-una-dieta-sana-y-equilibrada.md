@@ -136,9 +136,9 @@ category:
   - Comunidad
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
-  - Conciencia de salud
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

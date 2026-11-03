@@ -119,16 +119,16 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Uso de brújula
-  - Redacción de informes
-  - Estimación de distancias
+  - Técnicas scout
+  - Comunicación
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación personal
   - Responsabilidad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

@@ -127,8 +127,8 @@ category:
   - Agua
   - Salud
 skills:
-  - Conciencia sobre la salud
-  - Cálculo
+  - Salud y autocuidado
+  - Pensamiento científico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

@@ -131,7 +131,7 @@ category:
   - Gestión
 skills:
   - Observación
-  - Análisis
+  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

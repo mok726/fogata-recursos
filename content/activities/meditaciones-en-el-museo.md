@@ -118,11 +118,11 @@ category:
 skills:
   - Observación
   - Investigación
-  - Reflexión
+  - Pensamiento crítico
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
-  - Creatividad e ingenio
+  - Curiosidad y Apertura al aprendizaje
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:

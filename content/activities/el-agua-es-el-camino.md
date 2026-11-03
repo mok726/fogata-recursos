@@ -133,8 +133,8 @@ scout_values:
   - Salud
   - Curiosidad y Apertura al aprendizaje
 scout_method:
-  - Aprender jugando
-  - Vida en la Naturaleza
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

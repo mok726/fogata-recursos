@@ -121,14 +121,14 @@ category:
   - Concienciación
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Liderazgo
 
 scout_values:
   - Justicia
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

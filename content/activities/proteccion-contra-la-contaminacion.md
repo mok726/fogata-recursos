@@ -120,13 +120,13 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación visual
+  - Comunicación
   - Conciencia ambiental
 
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Marco simbólico

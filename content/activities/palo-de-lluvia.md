@@ -124,7 +124,6 @@ category:
   - Cultura
 skills:
   - Creatividad
-  - Motricidad fina
 
 # ========== VALORES SCOUT ==========
 scout_values:

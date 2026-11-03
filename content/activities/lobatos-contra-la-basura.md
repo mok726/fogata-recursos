@@ -126,8 +126,8 @@ category:
   - Comunidad
   - Reciclaje
 skills:
-  - Orden
-  - Servicio
+  - Planificación y organización
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

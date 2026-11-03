@@ -144,7 +144,7 @@ category:
 
 skills:
   - Observación
-  - Dibujo
+  - Creatividad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

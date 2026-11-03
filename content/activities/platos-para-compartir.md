@@ -138,7 +138,7 @@ category:
 skills:
   - Trabajo en equipo
   - Comunicación
-  - Conciencia nutricional
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

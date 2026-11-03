@@ -118,8 +118,8 @@ category:
   - Juegos scouts
   - Primeros auxilios
 skills:
-  - Salvamento
-  - Puntería
+  - Técnicas scout
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

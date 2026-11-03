@@ -135,7 +135,7 @@ category:
   - Polinizadores
   - Biodiversidad
 skills:
-  - Jardinería
+  - Técnicas scout
   - Observación
   - Conciencia ambiental
 

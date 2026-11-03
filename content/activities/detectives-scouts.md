@@ -121,7 +121,6 @@ category:
   - Observación
 skills:
   - Observación
-  - Análisis
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
@@ -129,7 +128,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Hermandad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

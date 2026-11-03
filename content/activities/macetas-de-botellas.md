@@ -133,7 +133,6 @@ category:
   - Jardinería
   - Plásticos
 skills:
-  - Motricidad fina
   - Creatividad
   - Conciencia ambiental
   - Responsabilidad

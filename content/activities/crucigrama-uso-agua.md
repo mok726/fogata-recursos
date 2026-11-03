@@ -140,7 +140,7 @@ scout_values:
   - Responsabilidad
   - Naturaleza
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Progresión personal
 
 # ========== COMPETENCIAS POR RAMA ==========

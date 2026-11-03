@@ -120,14 +120,14 @@ category:
   - Jardinería
 
 skills:
-  - Jardinería
+  - Técnicas scout
   - Responsabilidad
   - Observación
 
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Vida en la Naturaleza y Aventura

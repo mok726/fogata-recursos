@@ -117,13 +117,13 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Pensamiento rápido
-  - Conocimiento
+  - Resolución de problemas
+  - Pensamiento científico
 
 scout_values:
   - Superación personal
   - Hermandad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Sistema de equipos

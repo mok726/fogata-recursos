@@ -124,8 +124,8 @@ category:
   - Comunidad
   - Educación
 skills:
-  - Orden
-  - Rapidez
+  - Planificación y organización
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

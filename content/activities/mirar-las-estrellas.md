@@ -118,15 +118,15 @@ category:
   - Juegos scouts
   - Orientación
 skills:
-  - Reconocimiento de estrellas
-  - Orientación nocturna
+  - Observación
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Naturaleza
   - Curiosidad y Apertura al aprendizaje
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

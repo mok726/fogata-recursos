@@ -115,9 +115,7 @@ category:
   - Consumo
 
 skills:
-  - Consumo responsable
-  - Conciencia del papel
-  - Reciclaje
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

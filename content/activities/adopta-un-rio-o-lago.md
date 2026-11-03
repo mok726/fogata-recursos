@@ -117,9 +117,9 @@ category:
   - Recuperación
 
 skills:
-  - Organización
-  - Limpieza
-  - Monitoreo
+  - Planificación y organización
+  - Hábitos sostenibles
+  - Observación
 
 scout_values:
   - Naturaleza

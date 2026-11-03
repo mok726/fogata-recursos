@@ -139,7 +139,7 @@ scout_values:
   - Responsabilidad
 scout_method:
   - Sistema de equipos
-  - Participación comunitaria
+  - Participación comunitaria y Servicio
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

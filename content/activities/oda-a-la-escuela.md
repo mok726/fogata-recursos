@@ -114,13 +114,13 @@ category:
   - Valoración
 
 skills:
-  - Reflexión
-  - Expresión escrita
+  - Pensamiento crítico
+  - Comunicación
   - Empatía
 
 scout_values:
   - Superación personal
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Optimismo y Alegría
 
 scout_method:

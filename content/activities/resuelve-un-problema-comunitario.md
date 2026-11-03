@@ -117,7 +117,7 @@ category:
 
 skills:
   - Liderazgo
-  - Organización
+  - Planificación y organización
   - Resolución de problemas
 
 scout_values:

@@ -132,7 +132,7 @@ category:
   - Biodiversidad
 skills:
   - Creatividad
-  - Expresión
+  - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

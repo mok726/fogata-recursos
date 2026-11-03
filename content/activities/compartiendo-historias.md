@@ -119,7 +119,6 @@ category:
 skills:
   - Empatía
   - Comunicación
-  - Escucha activa
 
 scout_values:
   - Hermandad

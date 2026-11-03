@@ -136,7 +136,7 @@ category:
   - Cocina
   - Sostenibilidad
 skills:
-  - Cocina
+  - Técnicas scout
   - Creatividad
   - Comunicación
 

@@ -119,7 +119,7 @@ category:
 skills:
   - Investigación
   - Observación
-  - Conciencia del consumo
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

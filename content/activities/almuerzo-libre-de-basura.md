@@ -120,8 +120,8 @@ category:
   - Reutilizable
 
 skills:
-  - Reducción de residuos
-  - Organización
+  - Hábitos sostenibles
+  - Planificación y organización
   - Responsabilidad
 
 scout_values:

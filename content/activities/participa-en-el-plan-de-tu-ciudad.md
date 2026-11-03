@@ -138,7 +138,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Participación comunitaria
+  - Solidaridad
   - Justicia
   - Responsabilidad
 scout_method:

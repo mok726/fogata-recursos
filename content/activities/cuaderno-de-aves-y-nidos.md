@@ -124,9 +124,9 @@ category:
   - Naturaleza
   - Observación
 skills:
-  - Observación de aves
-  - Acecho
-  - Registro de datos
+  - Observación
+  - Técnicas scout
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

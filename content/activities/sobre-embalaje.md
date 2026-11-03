@@ -119,7 +119,7 @@ category:
 
 skills:
   - Observación
-  - Análisis
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:

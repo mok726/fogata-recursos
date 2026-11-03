@@ -135,8 +135,7 @@ category:
   - Jardinería
 skills:
   - Observación
-  - Registro
-  - Paciencia
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -121,8 +121,8 @@ category:
   - Comunidad
   - Educación
 skills:
-  - Autonomía
-  - Tareas del hogar
+  - Autoconciencia
+  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

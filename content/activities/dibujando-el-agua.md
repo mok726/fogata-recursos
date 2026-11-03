@@ -126,11 +126,11 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Comunicación visual
+  - Comunicación
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Hermandad
 
 scout_method:

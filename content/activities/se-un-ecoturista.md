@@ -119,14 +119,14 @@ category:
   - Naturaleza
 
 skills:
-  - Planificación
+  - Planificación y organización
   - Observación
   - Comunicación
 
 scout_values:
   - Naturaleza
   - Aventura
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Vida en la Naturaleza y Aventura

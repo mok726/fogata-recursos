@@ -122,7 +122,7 @@ skills:
 
 scout_values:
   - Responsabilidad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Superación personal
 
 scout_method:

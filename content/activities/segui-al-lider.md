@@ -117,7 +117,7 @@ category:
   - Juegos scouts
   - Salud
 skills:
-  - Coordinación
+  - Destreza física
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
@@ -125,7 +125,7 @@ scout_values:
   - Optimismo y Alegría
   - Hermandad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

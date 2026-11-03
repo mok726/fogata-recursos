@@ -135,7 +135,6 @@ category:
   - Geografía
 skills:
   - Investigación
-  - Análisis
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

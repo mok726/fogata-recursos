@@ -133,8 +133,7 @@ category:
   - Polinizadores
   - Nutrición
 skills:
-  - Planificación
-  - Reflexión
+  - Planificación y organización
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

@@ -118,11 +118,10 @@ category:
 
 skills:
   - Creatividad
-  - Dibujo
-  - Comunicación visual
+  - Comunicación
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
   - Optimismo y Alegría
 

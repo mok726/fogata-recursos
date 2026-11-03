@@ -144,7 +144,7 @@ scout_values:
   - Responsabilidad
   - Justicia
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

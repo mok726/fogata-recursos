@@ -119,7 +119,7 @@ category:
   - Juegos scouts
   - Náutica
 skills:
-  - Remo
+  - Destreza física
   - Trabajo en equipo
   - Comunicación
 
@@ -128,7 +128,7 @@ scout_values:
   - Hermandad
   - Aventura
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

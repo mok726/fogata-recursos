@@ -118,16 +118,16 @@ category:
   - Juegos scouts
   - Rastreo
 skills:
-  - Rastreo
+  - Técnicas scout
   - Observación
-  - Dibujo
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Justicia
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

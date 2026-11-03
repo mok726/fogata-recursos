@@ -132,7 +132,6 @@ category:
   - Clima
 skills:
   - Investigación
-  - Análisis
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

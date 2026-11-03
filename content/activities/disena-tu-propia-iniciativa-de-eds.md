@@ -134,8 +134,8 @@ category:
   - Naturaleza
   - Ciudades
 skills:
-  - Diseño
-  - Planificación
+  - Creatividad
+  - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========

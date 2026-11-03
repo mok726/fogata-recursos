@@ -135,7 +135,6 @@ category:
 skills:
   - Experimentación
   - Observación
-  - Paciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

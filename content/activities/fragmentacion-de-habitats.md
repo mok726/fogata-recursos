@@ -131,7 +131,6 @@ category:
   - Conservación
   - Biodiversidad
 skills:
-  - Debate
   - Pensamiento crítico
   - Empatía
 

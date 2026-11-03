@@ -138,7 +138,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 scout_method:
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

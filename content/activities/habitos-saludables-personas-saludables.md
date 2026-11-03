@@ -138,7 +138,7 @@ scout_values:
   - Responsabilidad
   - Solidaridad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Participación comunitaria y Servicio
 
 # ========== COMPETENCIAS POR RAMA ==========

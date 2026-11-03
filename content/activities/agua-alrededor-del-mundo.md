@@ -120,12 +120,11 @@ category:
 
 skills:
   - Investigación
-  - Entrevista
   - Comunicación
 
 scout_values:
   - Hermandad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Respeto al prójimo
 
 scout_method:

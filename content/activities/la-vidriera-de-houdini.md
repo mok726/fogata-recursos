@@ -120,7 +120,6 @@ category:
   - Observación
 skills:
   - Observación
-  - Memoria
 
 # ========== VALORES SCOUT ==========
 scout_values:

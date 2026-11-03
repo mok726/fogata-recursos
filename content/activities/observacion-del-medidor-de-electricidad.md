@@ -118,8 +118,8 @@ category:
   - Consumo
 
 skills:
-  - Monitoreo
-  - Análisis
+  - Observación
+  - Pensamiento crítico
   - Responsabilidad
 
 scout_values:

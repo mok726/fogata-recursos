@@ -130,7 +130,7 @@ category:
   - Energía
   - Clima
 skills:
-  - Autogestión
+  - Planificación y organización
   - Creatividad
   - Responsabilidad
 

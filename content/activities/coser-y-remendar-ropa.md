@@ -118,13 +118,12 @@ category:
   - Reuso
 
 skills:
-  - Costura
-  - Habilidades manuales
-  - Reuso
+  - Creatividad
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Superación personal
 
 scout_method:

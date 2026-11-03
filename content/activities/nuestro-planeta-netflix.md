@@ -144,7 +144,7 @@ scout_values:
   - Justicia
 scout_method:
   - Sistema de equipos
-  - Reflexión
+  - Progresión personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

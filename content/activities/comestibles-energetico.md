@@ -132,7 +132,7 @@ category:
   - Energía
   - Clima
 skills:
-  - Planificación
+  - Planificación y organización
   - Trabajo en equipo
   - Investigación
 

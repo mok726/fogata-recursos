@@ -132,7 +132,7 @@ category:
   - Campaña
   - Polinizadores
 skills:
-  - Organización
+  - Planificación y organización
   - Liderazgo
   - Comunicación
 
@@ -140,7 +140,6 @@ skills:
 scout_values:
   - Responsabilidad
   - Solidaridad
-  - Participación comunitaria
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

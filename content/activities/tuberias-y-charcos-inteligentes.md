@@ -139,7 +139,7 @@ scout_values:
   - Naturaleza
   - Creatividad e Ingenio
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

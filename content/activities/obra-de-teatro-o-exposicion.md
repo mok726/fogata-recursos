@@ -119,11 +119,11 @@ category:
 
 skills:
   - Creatividad
-  - Expresión
+  - Comunicación
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Optimismo y Alegría
   - Naturaleza
 

@@ -149,7 +149,6 @@ category:
   - Hábitat
   - Conservación
 skills:
-  - Construcción
   - Creatividad
   - Conciencia ambiental
 

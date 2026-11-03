@@ -131,7 +131,6 @@ category:
   - Comunicación
   - Biodiversidad
 skills:
-  - Escritura
   - Comunicación
   - Pensamiento crítico
 
@@ -139,7 +138,7 @@ skills:
 scout_values:
   - Justicia
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

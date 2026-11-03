@@ -134,7 +134,7 @@ category:
   - Navegación
   - Energía solar
 skills:
-  - Orientación
+  - Técnicas scout
   - Observación
   - Resolución de problemas
 

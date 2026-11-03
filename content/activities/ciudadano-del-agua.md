@@ -117,14 +117,14 @@ category:
   - Política
 
 skills:
-  - Comunicación escrita
-  - Argumentación
+  - Comunicación
+  - Pensamiento crítico
   - Investigación
 
 scout_values:
   - Justicia
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

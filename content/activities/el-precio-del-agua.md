@@ -118,7 +118,6 @@ category:
   - Economía
 
 skills:
-  - Argumentación
   - Pensamiento crítico
   - Comunicación
 

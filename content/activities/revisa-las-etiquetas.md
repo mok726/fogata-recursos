@@ -124,13 +124,13 @@ category:
 
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Aprender haciendo

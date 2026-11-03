@@ -138,7 +138,7 @@ scout_values:
   - Responsabilidad
 scout_method:
   - Progresión personal
-  - Participación comunitaria
+  - Participación comunitaria y Servicio
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -134,7 +134,7 @@ category:
 
 skills:
   - Investigación
-  - Conciencia cultural
+  - Conciencia social
   - Empatía
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

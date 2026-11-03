@@ -125,11 +125,10 @@ category:
 
 skills:
   - Creatividad
-  - Manualidades
   - Comunicación
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Sencillez y Austeridad
   - Naturaleza
 

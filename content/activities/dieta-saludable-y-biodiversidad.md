@@ -131,7 +131,6 @@ category:
   - Biodiversidad
 skills:
   - Pensamiento crítico
-  - Reflexión
   - Comunicación
 
 # ========== VALORES SCOUT ==========

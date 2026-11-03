@@ -148,7 +148,7 @@ category:
   - Activismo
   - Clima
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Liderazgo
 
@@ -156,7 +156,6 @@ skills:
 scout_values:
   - Solidaridad
   - Responsabilidad
-  - Servicio
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

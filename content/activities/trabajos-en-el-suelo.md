@@ -125,7 +125,7 @@ skills:
 scout_values:
   - Superación personal
   - Hermandad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Sistema de equipos

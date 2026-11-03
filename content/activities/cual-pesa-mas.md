@@ -115,7 +115,7 @@ category:
   - Juegos de salón
   - Integración
 skills:
-  - Estimación
+  - Pensamiento científico
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
@@ -123,7 +123,7 @@ scout_values:
   - Hermandad
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

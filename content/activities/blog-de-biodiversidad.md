@@ -131,7 +131,6 @@ category:
   - Comunicación
   - Biodiversidad
 skills:
-  - Escritura
   - Comunicación
   - Alfabetización digital
 
@@ -139,7 +138,7 @@ skills:
 scout_values:
   - Creatividad e Ingenio
   - Responsabilidad
-  - Comunidad
+  - Hermandad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

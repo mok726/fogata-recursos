@@ -124,11 +124,11 @@ category:
 skills:
   - Observación
   - Investigación
-  - Análisis
+  - Pensamiento crítico
 
 scout_values:
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 
 scout_method:

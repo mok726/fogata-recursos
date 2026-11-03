@@ -117,13 +117,13 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Planificación
+  - Planificación y organización
   - Observación
 
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Participación comunitaria y Servicio

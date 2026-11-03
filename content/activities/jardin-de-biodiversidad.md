@@ -140,9 +140,8 @@ category:
   - Agricultura
   - Biodiversidad
 skills:
-  - Jardinería
+  - Técnicas scout
   - Observación
-  - Paciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

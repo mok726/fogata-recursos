@@ -126,7 +126,7 @@ category:
   - Trivia
   - Juego
 skills:
-  - Memoria
+  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
@@ -135,7 +135,7 @@ scout_values:
   - Naturaleza
   - Hermandad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

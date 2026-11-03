@@ -140,7 +140,7 @@ category:
   - Biodiversidad
 skills:
   - Observación
-  - Planificación
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

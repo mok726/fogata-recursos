@@ -123,7 +123,7 @@ category:
   - Jardinería
 
 skills:
-  - Jardinería
+  - Técnicas scout
   - Responsabilidad
   - Observación
 

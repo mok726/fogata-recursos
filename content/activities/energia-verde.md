@@ -116,9 +116,9 @@ category:
   - Renovables
 
 skills:
-  - Organización
+  - Planificación y organización
   - Investigación
-  - Promoción
+  - Comunicación
 
 scout_values:
   - Naturaleza

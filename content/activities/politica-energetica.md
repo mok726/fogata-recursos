@@ -128,7 +128,6 @@ skills:
   - Investigación
   - Pensamiento crítico
   - Conciencia social
-  - Análisis
 
 # ========== VALORES SCOUT ==========
 scout_values:
@@ -137,7 +136,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
 scout_method:
   - Progresión personal
-  - Participación comunitaria
+  - Participación comunitaria y Servicio
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

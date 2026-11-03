@@ -133,7 +133,7 @@ category:
   - Comunidad
   - Sostenibilidad
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Responsabilidad
 

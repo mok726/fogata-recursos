@@ -118,11 +118,11 @@ category:
 
 skills:
   - Investigación
-  - Análisis
-  - Cocina
+  - Pensamiento crítico
+  - Técnicas scout
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
   - Hermandad
 

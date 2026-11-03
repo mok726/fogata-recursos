@@ -129,7 +129,7 @@ category:
   - Energía
 skills:
   - Comunicación
-  - Conciencia cultural
+  - Conciencia social
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
@@ -138,7 +138,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 scout_method:
-  - Participación comunitaria
+  - Participación comunitaria y Servicio
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

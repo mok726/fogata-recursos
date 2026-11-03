@@ -123,9 +123,8 @@ category:
   - Salidas
   - Comunicación
 skills:
-  - Señales con silbato
-  - Señales con banderas
-  - Disciplina de grupo
+  - Técnicas scout
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

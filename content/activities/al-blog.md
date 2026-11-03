@@ -115,13 +115,12 @@ category:
   - Comunicación
 
 skills:
-  - Comunicación digital
-  - Redacción
+  - Comunicación
   - Creatividad
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
-  - Creatividad e ingenio
+  - Curiosidad y Apertura al aprendizaje
+  - Creatividad e Ingenio
   - Responsabilidad
 
 scout_method:

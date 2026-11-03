@@ -118,8 +118,8 @@ category:
   - Juegos scouts
   - Orientación
 skills:
-  - Orientación
-  - Cálculo
+  - Técnicas scout
+  - Pensamiento científico
   - Observación
 
 # ========== VALORES SCOUT ==========

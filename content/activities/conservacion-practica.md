@@ -128,7 +128,7 @@ category:
   - Voluntariado
   - Biodiversidad
 skills:
-  - Servicio comunitario
+  - Conciencia social
   - Empatía
   - Conciencia ambiental
 

@@ -131,8 +131,8 @@ category:
 
 skills:
   - Investigación
-  - Análisis
-  - Conciencia de salud
+  - Pensamiento crítico
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

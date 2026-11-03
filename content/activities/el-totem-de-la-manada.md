@@ -123,7 +123,7 @@ category:
   - Ceremonias
   - Manualidades
 skills:
-  - Manualidades
+  - Creatividad
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

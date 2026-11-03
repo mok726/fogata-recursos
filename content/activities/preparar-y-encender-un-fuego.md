@@ -127,8 +127,8 @@ category:
   - Juegos scouts
   - Naturaleza
 skills:
-  - Fuego
-  - Seguridad
+  - Técnicas scout
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -120,7 +120,7 @@ category:
   - Alimentos
 
 skills:
-  - Jardinería
+  - Técnicas scout
   - Trabajo en equipo
   - Responsabilidad
 

@@ -118,10 +118,9 @@ category:
 skills:
   - Creatividad
   - Experimentación
-  - Trabajo con materiales
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Optimismo y Alegría
   - Naturaleza
 

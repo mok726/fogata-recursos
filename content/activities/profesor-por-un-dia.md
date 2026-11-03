@@ -130,12 +130,11 @@ category:
 skills:
   - Comunicación
   - Liderazgo
-  - Enseñanza
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación personal
-  - Servicio
+  - Solidaridad
   - Responsabilidad
 scout_method:
   - Aprender haciendo

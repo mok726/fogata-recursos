@@ -126,8 +126,7 @@ category:
   - Arte
   - Educación
 skills:
-  - Diseño
-  - Manualidades
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

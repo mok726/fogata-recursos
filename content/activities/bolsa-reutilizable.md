@@ -116,9 +116,8 @@ category:
   - Consumo
 
 skills:
-  - Consumo responsable
-  - Reducción de plásticos
-  - Influencia social
+  - Hábitos sostenibles
+  - Comunicación
 
 scout_values:
   - Sencillez y Austeridad

@@ -131,7 +131,6 @@ category:
   - Cambio climático
 skills:
   - Pensamiento crítico
-  - Análisis
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

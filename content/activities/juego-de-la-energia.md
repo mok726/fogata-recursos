@@ -127,7 +127,7 @@ category:
   - Movimiento
 skills:
   - Trabajo en equipo
-  - Memoria
+  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
@@ -136,7 +136,7 @@ scout_values:
   - Hermandad
   - Curiosidad y Apertura al aprendizaje
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

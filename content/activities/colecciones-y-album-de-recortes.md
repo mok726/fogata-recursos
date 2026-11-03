@@ -129,8 +129,8 @@ category:
   - Arte
   - Educación
 skills:
-  - Organización
-  - Dibujo
+  - Planificación y organización
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -133,7 +133,7 @@ category:
   - Comunidad
 skills:
   - Trabajo en equipo
-  - Organización
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

@@ -128,9 +128,9 @@ category:
   - Ejercicio
   - Bienestar
 skills:
-  - Planificación
+  - Planificación y organización
   - Trabajo en equipo
-  - Conciencia de salud
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
@@ -139,7 +139,7 @@ scout_values:
   - Perseverancia
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

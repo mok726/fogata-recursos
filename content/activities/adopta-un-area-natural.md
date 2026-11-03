@@ -133,7 +133,7 @@ category:
   - Comunidad
   - Biodiversidad
 skills:
-  - Servicio comunitario
+  - Conciencia social
   - Observación
   - Conciencia ambiental
 

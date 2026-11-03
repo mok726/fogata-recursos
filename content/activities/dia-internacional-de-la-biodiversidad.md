@@ -135,7 +135,7 @@ category:
   - Comunidad
   - Biodiversidad
 skills:
-  - Organización
+  - Planificación y organización
   - Creatividad
   - Comunicación
 

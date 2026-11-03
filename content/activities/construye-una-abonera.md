@@ -118,14 +118,14 @@ category:
   - Jardinería
 
 skills:
-  - Construcción
-  - Reciclaje
-  - Jardinería
+  - Creatividad
+  - Hábitos sostenibles
+  - Técnicas scout
 
 scout_values:
   - Sencillez y Austeridad
   - Naturaleza
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Aprender haciendo

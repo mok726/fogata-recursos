@@ -122,7 +122,7 @@ category:
 skills:
   - Investigación
   - Empatía
-  - Análisis
+  - Pensamiento crítico
 
 scout_values:
   - Solidaridad

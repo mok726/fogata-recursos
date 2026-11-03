@@ -115,12 +115,11 @@ category:
   - Cooperación
 
 skills:
-  - Negociación
-  - Pensamiento crítico
   - Comunicación
+  - Pensamiento crítico
 
 scout_values:
-  - Paz y justicia
+  - Justicia
   - Hermandad
   - Responsabilidad
 

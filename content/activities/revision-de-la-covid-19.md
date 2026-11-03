@@ -133,7 +133,6 @@ category:
   - Ciudades
 skills:
   - Pensamiento crítico
-  - Reflexión
   - Comunicación
 
 # ========== VALORES SCOUT ==========

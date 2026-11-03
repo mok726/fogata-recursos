@@ -120,9 +120,8 @@ category:
   - Danzas de la Selva
   - Libro de la Selva
 skills:
-  - Expresión corporal
-  - Canto
-  - Memoria
+  - Creatividad
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

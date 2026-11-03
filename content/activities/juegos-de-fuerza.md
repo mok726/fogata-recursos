@@ -115,15 +115,15 @@ category:
   - Juegos scouts
   - Salud
 skills:
-  - Fuerza
-  - Conciencia de salud
+  - Destreza física
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Salud
   - Superación personal
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

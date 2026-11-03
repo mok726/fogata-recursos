@@ -135,7 +135,6 @@ skills:
   - Investigación
   - Pensamiento crítico
   - Alfabetización digital
-  - Análisis
 
 # ========== VALORES SCOUT ==========
 scout_values:

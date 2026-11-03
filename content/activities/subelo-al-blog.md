@@ -138,7 +138,7 @@ skills:
 scout_values:
   - Creatividad e Ingenio
   - Responsabilidad
-  - Comunicación
+  - Hermandad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

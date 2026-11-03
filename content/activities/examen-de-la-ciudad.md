@@ -137,14 +137,14 @@ category:
   - Comunidad
 skills:
   - Observación
-  - Análisis crítico
+  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad
   - Curiosidad y Apertura al aprendizaje
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

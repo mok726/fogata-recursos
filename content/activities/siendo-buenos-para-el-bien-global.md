@@ -133,9 +133,9 @@ category:
   - Compromiso
   - Polinizadores
 skills:
-  - Autogestión
+  - Planificación y organización
   - Responsabilidad
-  - Conciencia global
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -136,7 +136,6 @@ category:
 skills:
   - Observación
   - Pensamiento científico
-  - Análisis de datos
 
 # ========== VALORES SCOUT ==========
 scout_values:

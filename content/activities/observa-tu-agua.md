@@ -130,8 +130,8 @@ category:
 
 skills:
   - Observación
-  - Análisis
-  - Planificación
+  - Pensamiento crítico
+  - Planificación y organización
 
 scout_values:
   - Responsabilidad

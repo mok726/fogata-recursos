@@ -136,7 +136,7 @@ category:
   - Huella de Carbono
   - Sostenibilidad
 skills:
-  - Planificación
+  - Planificación y organización
   - Comunicación
   - Responsabilidad
 

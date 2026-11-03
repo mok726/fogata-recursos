@@ -142,7 +142,7 @@ category:
 skills:
   - Observación
   - Investigación
-  - Fotografía
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

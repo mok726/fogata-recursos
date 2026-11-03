@@ -124,14 +124,14 @@ category:
   - Ciencia
 
 skills:
-  - Comprensión científica
+  - Pensamiento científico
   - Creatividad
   - Trabajo en equipo
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Naturaleza
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Aprender haciendo

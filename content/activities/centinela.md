@@ -123,9 +123,8 @@ category:
   - Juegos scouts
   - Acecho
 skills:
-  - Acecho
+  - Técnicas scout
   - Observación
-  - Memoria
 
 # ========== VALORES SCOUT ==========
 scout_values:

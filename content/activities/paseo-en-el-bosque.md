@@ -133,7 +133,6 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Atención plena
 
 # ========== VALORES SCOUT ==========
 scout_values:

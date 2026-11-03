@@ -135,7 +135,7 @@ category:
 skills:
   - Alfabetización digital
   - Trabajo en equipo
-  - Conocimiento ambiental
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
@@ -144,7 +144,6 @@ scout_values:
   - Creatividad e Ingenio
 
 scout_method:
-  - Aprender jugando
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

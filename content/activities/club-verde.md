@@ -135,7 +135,7 @@ category:
   - Salud
   - Sostenibilidad
 skills:
-  - Organización
+  - Planificación y organización
   - Liderazgo
   - Trabajo en equipo
 

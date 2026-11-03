@@ -121,14 +121,13 @@ category:
   - Acción
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Trabajo en equipo
 
 scout_values:
   - Solidaridad
   - Responsabilidad
-  - Participación comunitaria
 
 scout_method:
   - Participación comunitaria y Servicio

@@ -118,9 +118,8 @@ category:
   - Agua
 
 skills:
-  - Planificación
-  - Análisis
-  - Reflexión
+  - Planificación y organización
+  - Pensamiento crítico
 
 scout_values:
   - Responsabilidad
