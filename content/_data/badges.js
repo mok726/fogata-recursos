@@ -2250,6 +2250,78 @@ sections: {
   }
 },
 {
+  id: "tecnicascout",
+  name: "Técnica Scout",
+  description:
+    "Nudos, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
+  summary:
+    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Girl Scouts of the USA, Scouting for Girls, Official Handbook of the Girl Scouts (1920) – Project Gutenberg #28490",
+      url: "https://www.gutenberg.org/ebooks/28490"
+    },
+    {
+      name: "Boy Scouts of America, Boy Scouts Handbook, 1.ª ed. (1911) – Project Gutenberg #29558",
+      url: "https://www.gutenberg.org/ebooks/29558"
+    },
+    {
+      name: "A. Hyatt Verrill, Knots, Splices and Rope Work (1912) – Project Gutenberg #13510",
+      url: "https://www.gutenberg.org/ebooks/13510"
+    },
+    {
+      name: "Daniel Carter Beard, Shelters, Shacks and Shanties (1914) – Project Gutenberg #28255",
+      url: "https://www.gutenberg.org/ebooks/28255"
+    }
+  ],
+  license: {
+    type: "Dominio público",
+    url: "",
+    note: "Obras publicadas en EE. UU. entre 1911 y 1920, de dominio público en EE. UU.; sus autores murieron hace más de 70 años o son textos institucionales de más de cien años, de dominio público también en Argentina. Las traducciones y adaptaciones son de Fogata de Recursos."
+  },
+  attribution: {
+    organization: "Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir según la edad, el lugar y lo que la patrulla quiera aprender.",
+    rules: [
+      "Respetá las notas de seguridad y ambientales de cada actividad",
+      "Las herramientas filosas y el fuego se usan siempre con supervisión de un adulto",
+      "Seguí las normas del lugar donde acampás y las de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Nudos y Cuerdas",
+      description: "Partes de la cuerda, remates, nudos para unir, atar y acortar, empalmes y el tablero de nudos."
+    },
+    B: {
+      title: "Campamento",
+      description: "Elegir el lugar, agua segura, ropa, higiene, roles de patrulla, herramientas, fuego, cocina y caminatas."
+    },
+    C: {
+      title: "Orientación, Mapas y Tiempo",
+      description: "Medidas personales, croquis, rumbos, refranes del tiempo y qué hacer si te perdés."
+    },
+    D: {
+      title: "Señales",
+      description: "Señales de pista con materiales naturales y señales de silbato y de mano."
+    },
+    E: {
+      title: "Juegos de Seton",
+      description: "Juegos de observación, puntería y persecución del Boy Scouts Handbook."
+    },
+    F: {
+      title: "Refugios",
+      description: "Aislarse del suelo, leer el terreno y construir refugios simples con material muerto, sin dañar árboles (Daniel Carter Beard)."
+    }
+  }
+},
+{
   id: "vial",
   name: "Seguridad Vial",
   description:
