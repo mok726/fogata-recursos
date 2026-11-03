@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere habilidades manuales
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Intricate treehouse structures built by indigenous peoples in tropical forests dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building miniature replicas of treehouses. Indigenous architecture and cultural appreciation atmosphere. No text, no letters, no words. Wide shot."
@@ -122,7 +122,7 @@ competencies:
   - Habilidades manuales
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Investigación
   - Aprender haciendo
 

@@ -123,7 +123,6 @@ competencies:
   - Conocimiento de la naturaleza
 activity_type:
   - Investigación
-  - Análisis
   - Reflexión
 category:
   - Biología

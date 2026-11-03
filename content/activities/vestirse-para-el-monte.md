@@ -113,9 +113,8 @@ image_prompt: "Scouts laying out layers of outdoor clothing on a tarp in a camp,
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Pensamiento científico
-  - Observación
-  - Conciencia de salud
 activity_type:
   - Experimentación
   - Aprender haciendo

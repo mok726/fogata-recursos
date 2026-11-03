@@ -117,8 +117,7 @@ image_prompt: "Scouts cooking over a small teepee fire with a pot hanging from a
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades prácticas
-  - Conciencia de seguridad
+  - Técnicas scout
   - Trabajo en equipo
 activity_type:
   - Aprender haciendo

@@ -125,7 +125,7 @@ competencies:
 activity_type:
   - Juego
   - Sensibilización
-  - Arte
+  - Creatividad / Arte
 
 category:
   - Celebración

@@ -101,7 +101,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Muy baja complejidad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful still life drawing of seasonal fruits and vegetables dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing and creating. Seasonal eating and artistic creativity atmosphere. No text, no letters, no words. Wide shot."
@@ -122,7 +122,7 @@ competencies:
   - Observación
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Investigación
   - Sensibilización
 

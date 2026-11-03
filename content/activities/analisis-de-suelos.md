@@ -114,7 +114,7 @@ competencies:
 activity_type:
   - Investigación
   - Aprender haciendo
-  - Presentación
+  - Comunicación
 
 category:
   - Suelo

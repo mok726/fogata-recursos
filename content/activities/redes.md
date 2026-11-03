@@ -124,7 +124,7 @@ competencies:
 
 activity_type:
   - Servicio a los demás
-  - Tecnología
+  - Comunicación
   - Sensibilización
 
 category:

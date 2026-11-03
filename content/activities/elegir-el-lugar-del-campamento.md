@@ -113,9 +113,8 @@ image_prompt: "A patrol of scouts walking across a grassy forest clearing with a
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
-  - Planificación
-  - Pensamiento crítico
+  - Técnicas scout
+  - Planificación y organización
 activity_type:
   - Exploración
   - Planificación
@@ -125,7 +124,7 @@ category:
   - Campamento
 skills:
   - Técnicas scout
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

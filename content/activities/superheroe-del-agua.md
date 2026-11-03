@@ -115,7 +115,7 @@ complexity_execution: 2  # Dibujo y creatividad
 complexity_organizer: 3  # Organización del concurso
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating and voting for a water superhero with special powers to improve water quality and availability. Colorful educational contest activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating superhero drawings. No text, no letters, no words. Wide shot."
@@ -126,7 +126,6 @@ competencies:
   - Trabajo en equipo
   - Comunicación
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Sensibilización
 category:

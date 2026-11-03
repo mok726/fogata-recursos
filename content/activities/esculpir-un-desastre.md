@@ -102,7 +102,7 @@ complexity_execution: 3  # Requiere habilidades de tallado
 complexity_organizer: 3  # Requiere preparación de materiales y seguridad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A wood carving sculpture depicting a natural disaster like a hurricane or flood dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, carving wood with tools. Artistic expression and resilience atmosphere. No text, no letters, no words. Wide shot."
@@ -124,7 +124,7 @@ competencies:
   - Resiliencia
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Reflexión
   - Aprender haciendo
 

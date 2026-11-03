@@ -123,7 +123,7 @@ competencies:
 
 activity_type:
   - Exploración
-  - Arte
+  - Creatividad / Arte
   - Investigación
 
 category:

@@ -123,7 +123,6 @@ competencies:
   - Pensamiento sistémico
   - Planificación urbana
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Planificación
 category:

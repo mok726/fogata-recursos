@@ -117,7 +117,6 @@ competencies:
   - Conciencia ambiental
 activity_type:
   - Aprender haciendo
-  - Arte
   - Creatividad / Arte
 category:
   - Reciclaje

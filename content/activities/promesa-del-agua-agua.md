@@ -127,7 +127,6 @@ competencies:
   - Creatividad
 activity_type:
   - Reflexión
-  - Arte
   - Creatividad / Arte
   - Sensibilización
 category:

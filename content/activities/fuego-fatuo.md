@@ -111,9 +111,8 @@ image_prompt: "Night scene in a field at a scout camp, a small flashlight glowin
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
-  - Estrategia
-  - Orientación
 activity_type:
   - Juego
   - Orientación

@@ -114,7 +114,6 @@ image_prompt: "Scouts looking out of a bus window at the countryside, pointing e
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
   - Observación
-  - Atención
 activity_type:
   - Juego
   - Aprender jugando

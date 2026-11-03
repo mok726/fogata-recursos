@@ -126,7 +126,7 @@ competencies:
 activity_type:
   - Reflexión
   - Sensibilización
-  - Arte
+  - Creatividad / Arte
 category:
   - Conservación
   - Naturaleza

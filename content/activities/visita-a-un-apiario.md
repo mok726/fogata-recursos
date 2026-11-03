@@ -130,7 +130,6 @@ competencies:
 activity_type:
   - Investigación
   - Exploración
-  - Entrevista
 category:
   - Apicultura
   - Abejas

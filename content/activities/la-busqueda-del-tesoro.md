@@ -114,10 +114,9 @@ image_prompt: "A patrol of scouts reading a clue card at a gate post with a comp
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
-  - Orientación
-  - Trabajo en equipo
+  - Técnicas scout
   - Resolución de problemas
+  - Trabajo en equipo
 activity_type:
   - Juego
   - Aprender jugando
@@ -127,7 +126,8 @@ category:
   - Orientación
 skills:
   - Técnicas scout
-  - Orientación
+  - Resolución de problemas
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:

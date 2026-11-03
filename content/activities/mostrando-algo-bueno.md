@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Presentación
+  - Comunicación
 
 category:
   - Suelo

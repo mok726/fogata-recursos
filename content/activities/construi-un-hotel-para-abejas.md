@@ -143,7 +143,6 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte
-  - Construcción
 category:
   - Polinizadores
   - Hábitat

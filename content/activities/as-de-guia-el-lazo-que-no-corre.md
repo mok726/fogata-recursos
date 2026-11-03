@@ -106,8 +106,8 @@ image_prompt: "A scout showing a bowline knot loop around her own waist in a for
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Concentración
+  - Técnicas scout
+  - Destreza física
 activity_type:
   - Aprender haciendo
   - Juego
@@ -116,7 +116,7 @@ category:
   - Nudos
 skills:
   - Técnicas scout
-  - Trabajo manual
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

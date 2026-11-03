@@ -125,7 +125,6 @@ competencies:
   - Creatividad
 activity_type:
   - Investigación
-  - Arte
   - Creatividad / Arte
 category:
   - Medios de comunicación

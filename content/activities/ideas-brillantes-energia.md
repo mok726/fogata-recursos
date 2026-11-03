@@ -123,7 +123,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Presentación
+  - Comunicación
 category:
   - Innovación
   - Proyectos

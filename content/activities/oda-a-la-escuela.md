@@ -106,7 +106,7 @@ competencies:
 activity_type:
   - Reflexión
   - Sensibilización
-  - Escritura
+  - Creatividad / Arte
 
 category:
   - Educación

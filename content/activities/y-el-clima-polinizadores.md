@@ -126,7 +126,6 @@ competencies:
   - Conciencia climática
 activity_type:
   - Investigación
-  - Entrevista
   - Reflexión
 category:
   - Cambio Climático

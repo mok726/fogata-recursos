@@ -2253,9 +2253,9 @@ sections: {
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
-    "Nudos, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
+    "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
   summary:
-    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no hay manuales de pionerismo de dominio público con autor conocido.\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
   logo: "/imagenes/insignias/general-logo.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   sources: [
@@ -2274,12 +2274,16 @@ sections: {
     {
       name: "Daniel Carter Beard, Shelters, Shacks and Shanties (1914) – Project Gutenberg #28255",
       url: "https://www.gutenberg.org/ebooks/28255"
+    },
+    {
+      name: "Pathfinder Wiki, especialidades JA de Amarres y de Campamento I (CC BY-SA 3.0)",
+      url: "https://wiki.pathfindersonline.org/w/AY_Honors/Lashing/Answer_Key/es"
     }
   ],
   license: {
-    type: "Dominio público",
+    type: "Dominio público y CC BY-SA 4.0",
     url: "",
-    note: "Obras publicadas en EE. UU. entre 1911 y 1920, de dominio público en EE. UU.; sus autores murieron hace más de 70 años o son textos institucionales de más de cien años, de dominio público también en Argentina. Las traducciones y adaptaciones son de Fogata de Recursos."
+    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
   },
   attribution: {
     organization: "Fogata de Recursos",
@@ -2301,7 +2305,7 @@ sections: {
     },
     B: {
       title: "Campamento",
-      description: "Elegir el lugar, agua segura, ropa, higiene, roles de patrulla, herramientas, fuego, cocina y caminatas."
+      description: "Elegir el lugar, armar la carpa, agua segura, ropa, higiene, roles de patrulla, herramientas, fuego, cocina y caminatas."
     },
     C: {
       title: "Orientación, Mapas y Tiempo",
@@ -2318,6 +2322,10 @@ sections: {
     F: {
       title: "Refugios",
       description: "Aislarse del suelo, leer el terreno y construir refugios simples con material muerto, sin dañar árboles (Daniel Carter Beard)."
+    },
+    G: {
+      title: "Amarres y Pionerismo",
+      description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA)."
     }
   }
 },

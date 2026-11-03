@@ -126,7 +126,6 @@ competencies:
   - Conciencia ambiental
 activity_type:
   - Exploración
-  - Aventura
   - Aprender haciendo
 category:
   - Montaña

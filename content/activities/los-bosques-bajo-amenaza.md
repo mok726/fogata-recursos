@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A powerful artistic collage showing threats to forests like deforestation, fires, and climate change dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating art and presenting their work. Environmental awareness and artistic expression atmosphere. No text, no letters, no words. Wide shot."
@@ -123,7 +123,7 @@ competencies:
   - Comunicación
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Sensibilización
   - Reflexión
 

@@ -108,7 +108,7 @@ complexity_execution: 2  # Creación de poema
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children writing poems about water, with creative inspiration from nature and water scenes. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing poems. No text, no letters, no words. Wide shot."
@@ -119,7 +119,6 @@ competencies:
   - Expresión escrita
   - Reflexión
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Reflexión
 category:

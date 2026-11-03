@@ -119,7 +119,6 @@ competencies:
   - Creatividad
 activity_type:
   - Aprender haciendo
-  - Arte
   - Creatividad / Arte
 category:
   - Reciclaje

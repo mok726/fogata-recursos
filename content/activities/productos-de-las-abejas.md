@@ -127,7 +127,6 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Entrevista
 category:
   - Apicultura
   - Productos

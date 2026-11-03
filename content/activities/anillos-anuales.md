@@ -125,7 +125,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Arte
+  - Creatividad / Arte
   - Aprender haciendo
 
 category:

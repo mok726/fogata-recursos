@@ -127,7 +127,7 @@ competencies:
 activity_type:
   - Investigación
   - Sensibilización
-  - Arte
+  - Creatividad / Arte
 
 category:
   - Pescado

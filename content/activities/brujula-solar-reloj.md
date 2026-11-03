@@ -128,7 +128,6 @@ competencies:
 activity_type:
   - Exploración
   - Aprender haciendo
-  - Aventura
 category:
   - Orientación
   - Navegación

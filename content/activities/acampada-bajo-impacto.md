@@ -120,7 +120,6 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Exploración
-  - Vida en la Naturaleza
 category:
   - Acampada
   - Energía

@@ -131,7 +131,6 @@ competencies:
   - Observación
 activity_type:
   - Aprender haciendo
-  - Construcción
   - Sensibilización
 category:
   - Anfibios

@@ -134,7 +134,6 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Experimentación
-  - Construcción
 category:
   - Agua caliente
   - Energía solar

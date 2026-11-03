@@ -122,7 +122,6 @@ competencies:
   - Comprensión del ciclo del agua
   - Expresión escrita
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Aprender haciendo
 category:

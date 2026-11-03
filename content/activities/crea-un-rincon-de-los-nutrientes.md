@@ -125,7 +125,7 @@ competencies:
 
 activity_type:
   - Servicio a los demás
-  - Arte
+  - Creatividad / Arte
   - Sensibilización
 
 category:

@@ -115,7 +115,6 @@ image_prompt: "Scouts on a hilltop at sunset looking at a red sky and clouds, on
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Pensamiento crítico
   - Pensamiento científico
   - Observación
 activity_type:

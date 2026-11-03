@@ -124,7 +124,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Teatro
+  - Simulación
   - Sensibilización
 
 category:

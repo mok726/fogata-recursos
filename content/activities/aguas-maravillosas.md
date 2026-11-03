@@ -115,7 +115,7 @@ competencies:
   - Comunicación
 activity_type:
   - Investigación
-  - Arte
+  - Creatividad / Arte
 category:
   - Agua
   - Geografía

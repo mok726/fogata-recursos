@@ -107,8 +107,8 @@ image_prompt: "Close-up of young scouts' hands whipping the end of a natural fib
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Paciencia
+  - Técnicas scout
+  - Destreza física
 activity_type:
   - Aprender haciendo
 category:
@@ -116,7 +116,7 @@ category:
   - Nudos
 skills:
   - Técnicas scout
-  - Trabajo manual
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

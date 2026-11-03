@@ -115,9 +115,8 @@ image_prompt: "A patrol of scouts cooking a stew in a big pot and a golden pan b
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades culinarias
+  - Técnicas scout
   - Trabajo en equipo
-  - Planificación
 activity_type:
   - Aprender haciendo
   - Planificación

@@ -113,9 +113,9 @@ image_prompt: "Scouts kneeling on the ground lashing a frame of poles over a thi
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
-  - Habilidades manuales
-  - Planificación
+  - Planificación y organización
 activity_type:
   - Aprender haciendo
   - Dinámica de grupos

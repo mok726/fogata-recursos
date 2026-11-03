@@ -108,10 +108,8 @@ image_prompt: "A patrol of scouts around a camp table looking at a hand-drawn ch
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Trabajo en equipo
+  - Planificación y organización
   - Liderazgo
-  - Organización
-  - Responsabilidad
 activity_type:
   - Planificación
   - Dinámica de grupos

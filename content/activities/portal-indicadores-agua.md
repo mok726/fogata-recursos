@@ -124,7 +124,6 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Investigación
-  - Alfabetización digital
 category:
   - Datos
   - Estadísticas

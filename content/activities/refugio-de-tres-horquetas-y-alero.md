@@ -112,9 +112,9 @@ image_prompt: "A patrol of scouts building a lean-to shelter from dead poles wit
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
   - Resolución de problemas
-  - Habilidades manuales
 activity_type:
   - Aprender haciendo
   - Experimentación

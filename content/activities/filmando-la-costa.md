@@ -103,7 +103,7 @@ complexity_execution: 4  # Requiere planificación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person filming a coastal documentary with a camera and microphone dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, shooting and directing. Documentary filmmaking and coastal conservation atmosphere. No text, no letters, no words. Wide shot."
@@ -124,7 +124,7 @@ competencies:
   - Creatividad
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Investigación
   - Sensibilización
 
