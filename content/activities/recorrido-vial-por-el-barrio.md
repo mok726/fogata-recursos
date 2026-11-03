@@ -128,8 +128,10 @@ rama_lobatos:
   - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas.
 rama_scouts:
   - 13  # Identifico situaciones de riesgo y adopto prácticas seguras.
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+rama_rovers:
+  - 25  # Miro al mundo desde una perspectiva de derechos, viviendo y promoviendo colectivamente una experiencia integral, igualitaria y segura.
 
 # ========== NOTA ==========
 # Actividad original de Mariano S. Cosentino

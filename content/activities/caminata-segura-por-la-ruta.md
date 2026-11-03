@@ -129,7 +129,8 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
 rama_scouts:
   - 13  # Identifico situaciones de riesgo y adopto prácticas seguras.
 rama_caminantes:
