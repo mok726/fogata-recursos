@@ -124,7 +124,8 @@ category:
   - Naturaleza
   - Jardinería
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Observación
   - Responsabilidad
 

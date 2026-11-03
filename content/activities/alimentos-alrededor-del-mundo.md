@@ -133,7 +133,7 @@ category:
   - Alimentación
   - Biodiversidad
 skills:
-  - Técnicas scout
+  - Salud y autocuidado
   - Investigación
   - Comunicación
 

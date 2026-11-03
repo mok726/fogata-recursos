@@ -140,7 +140,8 @@ category:
   - Agricultura
   - Biodiversidad
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Observación
 
 # ========== VALORES SCOUT ==========

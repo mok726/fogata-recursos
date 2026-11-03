@@ -120,7 +120,8 @@ category:
   - Jardinería
 
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Responsabilidad
   - Observación
 

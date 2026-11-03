@@ -141,7 +141,8 @@ category:
   - Alimentación
   - Sostenibilidad
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Observación
 
 # ========== VALORES SCOUT ==========

@@ -138,7 +138,7 @@ category:
   - Energía solar
   - Sostenibilidad
 skills:
-  - Técnicas scout
+  - Salud y autocuidado
   - Conciencia ambiental
   - Trabajo en equipo
 

@@ -119,7 +119,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Técnicas scout
+  - Salud y autocuidado
 
 scout_values:
   - Curiosidad y Apertura al aprendizaje

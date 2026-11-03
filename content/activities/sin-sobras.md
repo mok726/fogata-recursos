@@ -153,7 +153,7 @@ category:
   - Cocina
   - Sostenibilidad
 skills:
-  - Técnicas scout
+  - Salud y autocuidado
   - Creatividad
   - Responsabilidad
 

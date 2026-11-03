@@ -120,7 +120,8 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Responsabilidad
 
 scout_values:

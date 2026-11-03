@@ -120,9 +120,8 @@ category:
   - Sostenibilidad
 
 skills:
-  - Técnicas scout
-  - Planificación y organización
   - Salud y autocuidado
+  - Planificación y organización
 
 scout_values:
   - Salud

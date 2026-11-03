@@ -138,9 +138,9 @@ category:
   - Global
   - Biodiversidad
 skills:
-  - Técnicas scout
-  - Conciencia social
+  - Hábitos sostenibles
   - Conciencia ambiental
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

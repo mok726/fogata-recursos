@@ -120,7 +120,7 @@ category:
 skills:
   - Creatividad
   - Hábitos sostenibles
-  - Técnicas scout
+  - Conciencia ambiental
 
 scout_values:
   - Sencillez y Austeridad

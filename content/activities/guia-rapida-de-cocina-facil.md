@@ -136,7 +136,7 @@ category:
 skills:
   - Investigación
   - Planificación y organización
-  - Técnicas scout
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

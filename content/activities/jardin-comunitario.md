@@ -120,7 +120,8 @@ category:
   - Alimentos
 
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Trabajo en equipo
   - Responsabilidad
 

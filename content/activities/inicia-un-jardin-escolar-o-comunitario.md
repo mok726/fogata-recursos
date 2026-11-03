@@ -143,7 +143,8 @@ category:
   - Alimentación
   - Sostenibilidad
 skills:
-  - Técnicas scout
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Trabajo en equipo
   - Responsabilidad
 
