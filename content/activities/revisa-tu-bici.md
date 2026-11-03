@@ -112,7 +112,7 @@ category:
   - Seguridad vial
 skills:
   - Responsabilidad
-  - Trabajo manual
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
