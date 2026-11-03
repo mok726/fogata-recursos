@@ -54,7 +54,7 @@ tags:
   - creatividad
 
 link:
-  - url: "https://kids.nationalgeographic.com/kids/stories/peopleplaces/playpumps/"
+  - url: "https://web.archive.org/web/20140402114322/http://kids.nationalgeographic.com/kids/stories/peopleplaces/playpumps/"
     caption: "PlayPumps - Bombas de agua lúdicas (inglés)"
     icon: "read_more"
   - url: "http://espafrigadget.wordpress.com/2006/06/04/playpumps-bombas-de-agua-ludicas/"

@@ -70,7 +70,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://planetgreen.discovery.com/games-quizzes/biodiversity-hotspots-quiz"
+  - url: "https://web.archive.org/web/20120721001716/http://planetgreen.discovery.com:80/games-quizzes/biodiversity-hotspots-quiz/"
     caption: "Prueba de Puntos Calientes de Biodiversidad"
     icon: "link"
 files: []

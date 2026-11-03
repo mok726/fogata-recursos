@@ -71,7 +71,7 @@ link:
   - url: "https://plan-international.org/about-plan/resources/publications/emergencies/safe-schools-global-programme"
     caption: "Programa Escuelas Seguras - Plan Internacional"
     icon: "link"
-  - url: "https://www.redcross.org/prepare/location/school/preparedness-education"
+  - url: "https://web.archive.org/web/20160124160358/http://www.redcross.org:80/prepare/location/school/preparedness-education"
     caption: "Masters of Disaster - Cruz Roja"
     icon: "link"
   - url: "https://www.unisdr.org/2004/campaign/pa-camp04-riskland-eng.htm"

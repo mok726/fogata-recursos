@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.projects-for-kids.com/food-projects/dough.php"
+  - url: "https://web.archive.org/web/20170302183836/http://projects-for-kids.com/food-projects/dough.php"
     caption: "Receta de pan"
     icon: "link"
 files: []

@@ -337,35 +337,18 @@
 }
 
 .activity-duration {
-  position: absolute;
-  top: 12px;
-  right: 12px;
+  display: block;
+  flex: 0 1 auto;
+  max-width: 55%;
+  text-align: right;
+  line-height: 1.25;
   background: rgba(255, 255, 255, 0.95);
   padding: 0.35rem 0.6rem;
-  border-radius: 999px;
+  border-radius: 14px;
   font-size: 0.85rem;
   font-weight: 600;
   backdrop-filter: blur(6px);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-}
-
-.activity-original {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  border-radius: 999px;
-  color: greenyellow;
-  backdrop-filter: blur(6px);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-  z-index: 10;
-  padding: 0.4rem 0.7rem;
-  font-size: 0.75rem;
-  font-weight: 700;
-}
-
-.activity-original .material-symbols-outlined {
-  font-size: 2.3rem;
-  position: absolute;
 }
 
 .activity-title-row h3 {
@@ -478,34 +461,6 @@
   font-weight: 700;
   border: 1px solid #e5c86b;
 }
-.activity-required {
-  position: absolute;
-  bottom: 12px;
-  left: 12px;
-  z-index: 10;
-  background: #d62828;
-  color: white;
-  padding: 0.4rem 0.7rem;
-  border-radius: 999px;
-  font-size: 0.75rem;
-  font-weight: 700;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
-}
-
-.activity-complementary {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  z-index: 10;
-  background: #2563eb;
-  color: white;
-  padding: 0.4rem 0.7rem;
-  border-radius: 999px;
-  font-size: 0.75rem;
-  font-weight: 700;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
-}
-
 .activity-card-featured {
   border: 2px solid #d4af37;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 0 0 3px rgba(212, 175, 55, 0.25);
@@ -609,7 +564,44 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  gap: 0.5rem;
 }
+
+/* Grupo izquierdo: marcador de estado + tipo de actividad */
+.activity-duration .material-symbols-outlined {
+  font-size: 1.05em;
+  vertical-align: -0.18em;
+  margin-right: 0.2rem;
+}
+
+.activity-card-overlay-tags {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+/* Marcador de estado (propia / mandatoria / complementaria):
+   un solo lugar, sólo ícono, nunca encima de otro dato. */
+.activity-marker {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  color: #fff;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+  cursor: help;
+}
+.activity-marker .material-symbols-outlined {
+  font-size: 18px;
+}
+.activity-marker-original      { background: #487700; }
+.activity-marker-required      { background: #d62828; }
+.activity-marker-complementary { background: #2563eb; }
 
 .activity-card-overlay-middle {
   flex: 1;

@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.group-games.com/ice-breakers/homemade-pictionary-game.html"
+  - url: "https://web.archive.org/web/20170121235408/http://www.group-games.com/ice-breakers/homemade-pictionary-game.html"
     caption: "Reglas del juego Pictionary"
     icon: "link"
 files: []

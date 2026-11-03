@@ -80,7 +80,7 @@ link:
   - url: "https://sustainabledevelopment.un.org/topics"
     caption: "Más información sobre los ODS"
     icon: "link"
-  - url: "https://sdgsinaction.com"
+  - url: "https://web.archive.org/web/20170113161230/https://sdgsinaction.com/"
     caption: "App SDGs in Action"
     icon: "link"
 files: []

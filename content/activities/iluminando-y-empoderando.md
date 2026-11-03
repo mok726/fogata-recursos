@@ -71,7 +71,7 @@ link:
   - url: "https://www.alliantenergykids.com/EnergyandTheEnvironment/SavingEnergy/022391"
     caption: "Consejos de ahorro de energía"
     icon: "link"
-  - url: "https://www.tvakids.com/electricity/conservation.htm"
+  - url: "https://web.archive.org/web/20161118123602/https://www.tvakids.com/electricity/conservation.htm"
     caption: "Conservación de electricidad"
     icon: "link"
 files: []
@@ -185,7 +185,7 @@ Buscá consejos de ahorro de energía:
 
 **Fuentes sugeridas:**
 - https://www.alliantenergykids.com/EnergyandTheEnvironment/SavingEnergy/022391
-- https://www.tvakids.com/electricity/conservation.htm
+- https://web.archive.org/web/20161118123602/https://www.tvakids.com/electricity/conservation.htm
 
 ### Parte II - Crear materiales
 Diseñá carteles y volantes con:

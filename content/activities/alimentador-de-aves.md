@@ -76,7 +76,7 @@ link:
   - url: "http://fieltro.net/como-hacer-un-alimentador-de-aves/"
     caption: "Cómo hacer un alimentador de aves"
     icon: "link"
-  - url: "http://www.guiademanualidades.com/alimentador-casero-de-aves-2582.htm"
+  - url: "https://web.archive.org/web/20160826202552/http://www.guiademanualidades.com/alimentador-casero-de-aves-2582.htm"
     caption: "Alimentador casero de aves"
     icon: "link"
 files: []

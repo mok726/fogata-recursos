@@ -64,10 +64,10 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.scouts.scot/media/1606/goal-15-life-on-land.pdf"
+  - url: "https://web.archive.org/web/20210817213712/https://www.scouts.scot/media/1606/goal-15-life-on-land.pdf"
     caption: "Recursos ODS 15 - Scouts Escocia"
     icon: "pdf"
-  - url: "https://www.scouts.scot/media/1595/17-activities-for-17-goals-print-friendly-scout-cards.pdf"
+  - url: "https://web.archive.org/web/20220422121354/https://www.scouts.scot/media/1595/17-activities-for-17-goals-print-friendly-scout-cards.pdf"
     caption: "17 actividades para 17 ODS - Scouts Escocia"
     icon: "pdf"
 files: []

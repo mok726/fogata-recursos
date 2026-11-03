@@ -64,7 +64,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.pixar.com/storytelling"
+  - url: "https://www.khanacademy.org/computing/pixar/storytelling"
     caption: "Método de narración de historias de Pixar"
     icon: "link"
 files: []

@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.energysavers.gov/tips"
+  - url: "https://web.archive.org/web/20120902092055/http://www.energysavers.gov:80/tips/"
     caption: "Consejos para ahorrar energía"
     icon: "link"
 files: []

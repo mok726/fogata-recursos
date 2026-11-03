@@ -51,7 +51,7 @@ tags:
   - desigualdad
 
 link:
-  - url: "http://webworld.unesco.org/water/wwap/wwdr/wwdr2/pdf/wwdr2_ch_12_es.pdf"
+  - url: "https://web.archive.org/web/20160804041917/http://webworld.unesco.org/water/wwap/wwdr/wwdr2/pdf/wwdr2_ch_12_es.pdf"
     caption: "El precio del agua - UNESCO"
     icon: "read_more"
 

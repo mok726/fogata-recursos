@@ -67,7 +67,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.green-planet-solar-energy.com/solar-energy-education-8.html"
+  - url: "https://web.archive.org/web/20160225230455/http://www.green-planet-solar-energy.com:80/solar-energy-education-8.html"
     caption: "Instrucciones del experimento solar"
     icon: "link"
 files: []

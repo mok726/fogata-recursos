@@ -70,7 +70,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://halogentv.com/articles/4-really-cool-water-inventions"
+  - url: "https://web.archive.org/web/20121028103048/http://halogentv.com/articles/4-really-cool-water-inventions/"
     caption: "Halogen.tv - 4 inventos realmente geniales sobre el agua"
     icon: "link"
 files: []
@@ -184,7 +184,7 @@ Durante los últimos 50 años, el uso del agua ha aumentado para la producción 
 ### Paso 1: Introducción
 1. Explicá a tu grupo que van a investigar inventos geniales diseñados para ahorrar y/o conservar agua.
 2. Proporcioná algunos enlaces útiles para comenzar:
-   - Halogen.tv: https://halogentv.com/articles/4-really-cool-water-inventions
+   - Halogen.tv: https://web.archive.org/web/20121028103048/http://halogentv.com/articles/4-really-cool-water-inventions/
 
 ### Paso 2: Investigación
 3. Dividí a los participantes en equipos pequeños y asignales la tarea de buscar un invento innovador relacionado con el agua.

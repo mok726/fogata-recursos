@@ -71,9 +71,6 @@ link:
   - url: "https://www.youtube.com/watch?v=SiFaN2xQg5g"
     caption: "Video sobre polinización"
     icon: "link"
-  - url: "https://www.youtube.com/watch?v=W90iGA5_mVs"
-    caption: "Video sobre polinización"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

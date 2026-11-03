@@ -66,9 +66,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://dumbwaystokilltheocean.com"
-    caption: "Maneras tontas de matar al océano - Dumb Ways to Kill the Ocean"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -171,10 +168,12 @@ rama_rovers:
 "Maneras tontas de matar al océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
 
 ## Preparación
-1. Acceder al juego en línea: https://dumbwaystokilltheocean.com
+1. Acceder al juego en línea (ver nota).
 2. Probar que funcione en los dispositivos disponibles.
 3. Preparar los recursos educativos adicionales del sitio web.
 4. Tener listas preguntas para la discusión posterior.
+
+> **Nota para el educador:** el sitio del juego (dumbwaystokilltheocean.com) ya no está en línea. Si no lo encontrás, reemplazalo por otro juego sobre el océano o pasá directo a la discusión.
 
 ## Desarrollo
 

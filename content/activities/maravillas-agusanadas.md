@@ -56,7 +56,7 @@ tags:
   - biodiversidad
 
 link:
-  - url: "https://www.soil-net.com/dev/page.cfm?pageid=activities_wormery"
+  - url: "https://web.archive.org/web/20160729140954/http://www.soil-net.com:80/dev/page.cfm?pageid=activities_wormery"
     caption: "Instrucciones para lombricera - Soil-Net"
     icon: "read_more"
 

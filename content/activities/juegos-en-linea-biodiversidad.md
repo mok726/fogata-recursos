@@ -69,7 +69,7 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.biodiversity911.org"
+  - url: "https://web.archive.org/web/20120718100841/http://www.biodiversity911.org:80/"
     caption: "Biodiversity 911"
     icon: "link"
   - url: "https://www.eol.org"
@@ -81,7 +81,7 @@ link:
   - url: "https://www.fundacion-biodiversidad.es/"
     caption: "Fundación Biodiversidad"
     icon: "link"
-  - url: "https://www.castillalamancha.es/infantil/biodiversidad/bio_index.htm"
+  - url: "https://web.archive.org/web/20111016184154/http://www.castillalamancha.es/infantil/biodiversidad/bio_index.htm"
     caption: "Biodiversidad - Castilla La Mancha"
     icon: "link"
 files: []

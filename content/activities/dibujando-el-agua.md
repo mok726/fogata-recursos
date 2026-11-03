@@ -54,7 +54,7 @@ tags:
   - vocabulario
 
 link:
-  - url: "https://www.group-games.com/ice-breakers/homemade-pictionary-game.html"
+  - url: "https://web.archive.org/web/20170121235408/http://www.group-games.com/ice-breakers/homemade-pictionary-game.html"
     caption: "Cómo hacer un juego de Pictionary (inglés)"
     icon: "read_more"
   - url: "https://www.ehowenespanol.com/tarjetas-caseras-pictionary-como_20028/"

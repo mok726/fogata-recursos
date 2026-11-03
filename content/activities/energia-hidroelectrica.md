@@ -53,7 +53,7 @@ tags:
   - construccion
 
 link:
-  - url: "https://www.uptoten.com/kids/coloringpage-mixedbag-craft-colorfulwatermillcraft.html"
+  - url: "https://web.archive.org/web/20170213094935/http://www.uptoten.com:80/kids/coloringpage-mixedbag-craft-colorfulwatermillcraft.html"
     caption: "Molino de agua - manualidad (inglés)"
     icon: "read_more"
   - url: "https://www.tryengineering.org/lang/spanish/lessons/watermills_sp.pdf"

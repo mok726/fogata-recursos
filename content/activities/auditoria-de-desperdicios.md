@@ -72,14 +72,11 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.globalfootprints.org/pdf/waste_num34.pdf"
+  - url: "https://web.archive.org/web/20100216013213/http://www.globalfootprints.org:80/pdf/waste_num34.pdf"
     caption: "Auditoría de desperdicios - Global Footprints"
     icon: "link"
   - url: "https://www.libroverde.cl/basura/basura.htm"
     caption: "Basura - Libro Verde"
-    icon: "link"
-  - url: "https://www.mma.es/secciones_formacion_educacion/programas_ceneam/escuela_ciudad/pdf/residuos.pdf"
-    caption: "Residuos - MMA"
     icon: "link"
 files: []
 

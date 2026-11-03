@@ -56,7 +56,7 @@ tags:
   - accion-climatica
 
 link:
-  - url: "https://www.epa.gov/climatestudents/solutions/actions/index.html"
+  - url: "https://web.archive.org/web/20150907194045/http://www.epa.gov:80/climatestudents/solutions/actions/index.html"
     caption: "Ideas para reducir emisiones - EPA"
     icon: "read_more"
 

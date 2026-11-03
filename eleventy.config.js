@@ -98,6 +98,68 @@ eleventyConfig.addCollection(
 
 
 
+// Fecha de incorporación de cada actividad: el primer commit
+// que agregó el archivo (con su nombre actual). Se calcula con
+// una sola llamada a git. Sin historial (clon superficial o sin
+// git) queda vacío y las actividades caen al final por título.
+
+const activityAddedDates = (() => {
+
+  const dates = {};
+
+  try {
+    const log = require("child_process").execSync(
+      'git log --diff-filter=AR --name-only --format="@%cI" -- content/activities/',
+      { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 }
+    );
+
+    let current = "";
+
+    // git log va del más nuevo al más viejo: la última
+    // fecha vista para un archivo es la de su primer alta.
+    for (const line of log.split("\n")) {
+      if (line.startsWith("@")) current = line.slice(1);
+      else if (line.trim()) dates[line.trim()] = current;
+    }
+  } catch (e) {
+    console.warn("[fogata] Sin historial git: actividades recientes por título.");
+  }
+
+  return dates;
+
+})();
+
+
+// Más recientes primero. Usada por la landing
+// ("Actividades destacadas").
+
+eleventyConfig.addCollection(
+  "activitiesRecent",
+  function(collectionApi) {
+
+    const added = item =>
+      activityAddedDates[
+        item.inputPath.replace(/^\.\//, "")
+      ] || "";
+
+    return collectionApi
+      .getFilteredByGlob(
+        "content/activities/*.md"
+      )
+      .sort((a, b) =>
+        added(b).localeCompare(added(a)) ||
+        (a.data.title || "").localeCompare(
+          b.data.title || "",
+          "es"
+        )
+      );
+
+  }
+);
+
+
+
+
 // Orden por activity_code.
 // Usada únicamente por badge-page.njk para que las
 // actividades aparezcan siguiendo el orden oficial
@@ -551,6 +613,32 @@ eleventyConfig.addFilter(
 
 
 
+
+// Logo y enlace de una insignia citada en activity_badges.
+// Si el id no corresponde a ninguna insignia conocida (ni alias), la
+// actividad cae en "general": se usa su logo y su página en vez de
+// apuntar a una imagen/página inexistente.
+function resolveBadge(badgeId, badges) {
+  const list = badges || [];
+  const n = String(badgeId || "").trim().toLowerCase();
+  return (
+    list.find(b => b.id && b.id.toLowerCase() === n) ||
+    list.find(b => (b.aliases || []).some(a => a.toLowerCase() === n)) ||
+    null
+  );
+}
+
+eleventyConfig.addFilter("badgeLogo", function(badgeId, badges) {
+  const info = resolveBadge(badgeId, badges);
+  if (info) return info.logo || "/imagenes/insignias/" + info.id + ".png";
+  const general = resolveBadge("general", badges);
+  return (general && general.logo) || "/imagenes/insignias/general.png";
+});
+
+eleventyConfig.addFilter("badgeHref", function(badgeId, badges) {
+  const info = resolveBadge(badgeId, badges);
+  return "/badges/" + (info ? info.id : "general") + "/";
+});
 
 eleventyConfig.addFilter(
   "badgeById",
