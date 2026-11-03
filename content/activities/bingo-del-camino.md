@@ -144,7 +144,9 @@ rama_scouts:
   - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
 rama_caminantes:
   - 33  # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
-rama_rovers: []
+rama_rovers:
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Bingo del Camino!

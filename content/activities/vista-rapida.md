@@ -142,7 +142,9 @@ rama_scouts:
   - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
 rama_caminantes:
   - 11  # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
-rama_rovers: []
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 17  # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # ¡Vista Rápida!

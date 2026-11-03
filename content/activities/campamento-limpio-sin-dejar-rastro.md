@@ -140,7 +140,11 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 28  # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
 rama_scouts:
   - 31  # Reconozco mi impacto en el ambiente y en la sociedad, adoptando un estilo de vida responsable y sostenible.
   - 37  # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.

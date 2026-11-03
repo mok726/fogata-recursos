@@ -134,7 +134,9 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
+  - 38  # Desempeño el rol de seisenera o seisenero y apoyo a otras lobeznas y otros lobatos para que lo hagan.
 rama_scouts:
   - 44  # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
   - 45  # Lidero actividades y proyectos, acompañando y motivando a mis pares a sumarse.

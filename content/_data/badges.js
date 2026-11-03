@@ -2305,7 +2305,7 @@ sections: {
     },
     C: {
       title: "Orientación, Mapas y Tiempo",
-      description: "Medidas personales, croquis, rumbos, el sol y el reloj en el hemisferio sur, refranes del tiempo y qué hacer si te perdés."
+      description: "Medidas personales, croquis, rumbos, refranes del tiempo y qué hacer si te perdés."
     },
     D: {
       title: "Señales",

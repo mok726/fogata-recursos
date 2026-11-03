@@ -140,7 +140,9 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 1   # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
+  - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
 rama_scouts:
   - 2   # Entiendo la importancia de alimentarme de forma saludable.
   - 44  # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.

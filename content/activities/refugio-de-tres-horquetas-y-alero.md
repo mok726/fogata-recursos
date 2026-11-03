@@ -137,7 +137,9 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+  - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
 rama_scouts:
   - 38  # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
   - 44  # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.

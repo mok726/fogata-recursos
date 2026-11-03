@@ -135,7 +135,9 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
-rama_lobatos: []
+rama_lobatos:
+  - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
 rama_scouts:
   - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
   - 38  # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
