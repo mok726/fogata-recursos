@@ -2250,6 +2250,57 @@ sections: {
   }
 },
 {
+  id: "vial",
+  name: "Seguridad Vial",
+  description:
+    "Aprender a moverse seguros por la calle, la ruta y en bici: señales, cruces, caminatas y travesías.",
+  summary:
+    "Insignia propia de Fogata de Recursos. Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\nLas señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). Donde hace falta citar una ley o un organismo, va como ejemplo: consultá las normas de tu país.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Agencia Nacional de Seguridad Vial (Argentina) – material educativo (referencia)",
+      url: "https://www.argentina.gob.ar/noticias/educacion-vial-en-las-escuelas-la-ansv-presento-una-plataforma-web-con-herramientas"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  },
+  attribution: {
+    organization: "MSC",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias todavía: elegí las que se adapten a la edad y al lugar.",
+    rules: [
+      "Toda salida a la calle se hace con la cantidad de adultos que pida tu organización scout nacional",
+      "Elegí recorridos cortos y conocidos, y revisalos antes de salir con los chicos",
+      "Respetá las notas de seguridad de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Conocer la Calle",
+      description: "Señales, semáforos y cruces: observar el barrio y aprender lo básico (Castores y Manada)."
+    },
+    B: {
+      title: "Peatón Seguro",
+      description: "Caminar en grupo, por la vereda y por la ruta; ver y ser visto."
+    },
+    C: {
+      title: "En Bici",
+      description: "Revisar la bici, manejarla con habilidad y planificar una travesía."
+    },
+    D: {
+      title: "Toma Acción",
+      description: "Detectar los puntos peligrosos del barrio, enseñar a los más chicos y saber qué hacer ante un choque."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
