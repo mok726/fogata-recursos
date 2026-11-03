@@ -110,7 +110,7 @@ complexity_execution: 3  # Creación de anuncios
 complexity_organizer: 3  # Coordinación de equipos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating video advertisements about water and sanitation, with cameras and creative props, learning about health and environmental messaging. Educational media activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, filming their ads. No text, no letters, no words. Wide shot."
@@ -121,7 +121,6 @@ competencies:
   - Comunicación
   - Alfabetización digital
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Sensibilización
 category:

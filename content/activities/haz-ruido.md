@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere preparación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A loud and creative event like a concert or street theater raising awareness about hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing and engaging the audience. Creative activism and social engagement atmosphere. No text, no letters, no words. Wide shot."
@@ -125,7 +125,7 @@ competencies:
   - Comunicación
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Sensibilización
   - Servicio a los demás
 

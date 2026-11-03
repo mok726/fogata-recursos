@@ -130,7 +130,7 @@ competencies:
 activity_type:
   - Participación comunitaria
   - Reflexión
-  - Advocacy
+  - Sensibilización
 category:
   - Política
   - Conservación

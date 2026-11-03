@@ -100,7 +100,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative album showing various uses of the ocean and products derived from it dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating and presenting albums. Ocean resource awareness and creative learning atmosphere. No text, no letters, no words. Wide shot."
@@ -121,7 +121,7 @@ competencies:
   - Conciencia marina
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Investigación
   - Sensibilización
 

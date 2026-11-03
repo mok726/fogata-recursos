@@ -120,7 +120,6 @@ competencies:
   - Emprendimiento
   - Comunicación
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Dinámica de grupos
 category:

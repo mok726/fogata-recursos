@@ -129,7 +129,6 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Análisis
 category:
   - Economía
   - Agricultura

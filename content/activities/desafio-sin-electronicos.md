@@ -119,7 +119,7 @@ competencies:
 activity_type:
   - Autoconocimiento
   - Aprender haciendo
-  - Desafío personal
+  - Compromiso
 category:
   - Electrónicos
   - Hábitos

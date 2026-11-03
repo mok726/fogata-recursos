@@ -127,7 +127,6 @@ competencies:
   - Pensamiento sistémico
 activity_type:
   - Investigación
-  - Arte
   - Creatividad / Arte
 category:
   - Pesquerías

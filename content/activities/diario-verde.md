@@ -109,7 +109,7 @@ competencies:
 activity_type:
   - Reflexión
   - Aprender haciendo
-  - Escritura
+  - Creatividad / Arte
 
 category:
   - Diario

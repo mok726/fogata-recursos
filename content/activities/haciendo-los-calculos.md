@@ -107,7 +107,6 @@ competencies:
 
 activity_type:
   - Investigación
-  - Análisis
   - Sensibilización
 
 category:

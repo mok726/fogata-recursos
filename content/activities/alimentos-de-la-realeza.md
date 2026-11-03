@@ -122,7 +122,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Arte
+  - Creatividad / Arte
   - Investigación
 
 category:

@@ -24,11 +24,6 @@ module.exports = [
     symbol: "psychology_alt"
   },
 
-  {
-    id: "arte",
-    name: "Arte",
-    symbol: "palette"
-  },
 
   {
     id: "juego",
@@ -130,7 +125,11 @@ module.exports = [
     id: "habitos-sostenibles",
     name: "Hábitos sostenibles",
     symbol: "recycling"
+  },
+
+  {
+    id: "actividad-fisica",
+    name: "Actividad física",
+    symbol: "directions_run"
   }
-
 ];
-

@@ -108,7 +108,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Compartir
+  - Dinámica de grupos
   - Sensibilización
 
 category:

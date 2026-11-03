@@ -124,7 +124,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Escritura
+  - Creatividad / Arte
   - Debate / Diálogo
 
 category:

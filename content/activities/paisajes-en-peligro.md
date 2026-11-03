@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A model of an agricultural landscape with natural disasters like floods and droughts dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating models of farms and solutions. Environmental awareness and creative education atmosphere. No text, no letters, no words. Wide shot."
@@ -123,7 +123,7 @@ competencies:
   - Resolución de problemas
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Aprender haciendo
   - Sensibilización
 

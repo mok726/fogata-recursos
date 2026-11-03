@@ -128,7 +128,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Arte
+  - Creatividad / Arte
   - Sensibilización
 
 category:

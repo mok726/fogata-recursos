@@ -122,7 +122,6 @@ competencies:
   - Planificación
 activity_type:
   - Investigación
-  - Análisis
   - Reflexión
 category:
   - Energía

@@ -122,7 +122,6 @@ competencies:
   - Conciencia social
 activity_type:
   - Sensibilización
-  - Arte
   - Creatividad / Arte
 category:
   - Concienciación

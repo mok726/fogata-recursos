@@ -124,7 +124,6 @@ competencies:
   - Conciencia urbana
 activity_type:
   - Investigación
-  - Análisis
   - Reflexión
 category:
   - Ciudades

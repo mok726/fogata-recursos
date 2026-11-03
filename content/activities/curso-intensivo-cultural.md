@@ -109,7 +109,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Compartir
+  - Dinámica de grupos
 
 category:
   - Agua

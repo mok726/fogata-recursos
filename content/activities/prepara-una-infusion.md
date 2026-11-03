@@ -126,7 +126,7 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Experimentación
-  - Arte
+  - Creatividad / Arte
 
 category:
   - Bebidas

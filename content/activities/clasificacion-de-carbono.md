@@ -127,7 +127,6 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Investigación
-  - Análisis
   - Creatividad / Arte
 category:
   - Datos

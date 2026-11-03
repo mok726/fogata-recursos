@@ -117,7 +117,6 @@ competencies:
   - Creatividad
   - Conciencia de género
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Reflexión
 category:

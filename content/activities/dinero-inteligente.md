@@ -107,8 +107,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Análisis
-  - Presentación
+  - Comunicación
 
 category:
   - Finanzas

@@ -126,7 +126,6 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Entrevista
 category:
   - Contaminación
   - Polinizadores

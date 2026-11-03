@@ -130,7 +130,7 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Investigación
-  - Arte
+  - Creatividad / Arte
 
 category:
   - Cocina

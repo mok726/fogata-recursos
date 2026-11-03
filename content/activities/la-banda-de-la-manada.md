@@ -109,7 +109,7 @@ complexity_execution: 1
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Arte"
+main_type: "Creatividad / Arte"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, marching in a joyful homemade band: a big drum made from a tin can, saucepan lids as cymbals, combs with paper as kazoos, a child conducting with a stick, outdoors."
@@ -120,7 +120,6 @@ competencies:
   - Trabajo en equipo
   - Comunicación
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Aprender haciendo
 category:

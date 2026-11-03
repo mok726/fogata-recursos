@@ -114,7 +114,6 @@ competencies:
   - Conciencia social
 activity_type:
   - Dinámica de grupos
-  - Compartir
   - Reflexión
 category:
   - Comunidad

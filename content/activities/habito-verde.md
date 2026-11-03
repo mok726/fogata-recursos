@@ -129,7 +129,7 @@ competencies:
 activity_type:
   - Aprender haciendo
   - Reflexión
-  - Desafío
+  - Compromiso
 category:
   - Hábitos
   - Sostenibilidad

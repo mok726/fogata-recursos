@@ -128,7 +128,7 @@ competencies:
 activity_type:
   - Exploración
   - Aprender haciendo
-  - Entrevista
+  - Investigación
 category:
   - Agricultura
   - Alimentos

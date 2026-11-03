@@ -128,7 +128,6 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Entrevista
 category:
   - Desastres
   - Resiliencia

@@ -125,7 +125,7 @@ competencies:
 activity_type:
   - Investigación
   - Aprender haciendo
-  - Visita
+  - Exploración
 category:
   - Semillas
   - Conservación

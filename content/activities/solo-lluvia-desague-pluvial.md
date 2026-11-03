@@ -124,7 +124,6 @@ competencies:
   - Conciencia ambiental
   - Comunicación
 activity_type:
-  - Arte
   - Creatividad / Arte
   - Sensibilización
 category:

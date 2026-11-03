@@ -113,7 +113,7 @@ competencies:
 activity_type:
   - Exploración
   - Investigación
-  - Presentación
+  - Comunicación
 category:
   - Comunidad
   - Educación

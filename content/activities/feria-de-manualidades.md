@@ -115,7 +115,7 @@ competencies:
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo
-  - Evento
+  - Participación comunitaria
 category:
   - Arte
   - Reciclaje

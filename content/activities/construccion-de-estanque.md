@@ -127,7 +127,6 @@ competencies:
   - Planificación
 activity_type:
   - Aprender haciendo
-  - Construcción
   - Sensibilización
 category:
   - Agua

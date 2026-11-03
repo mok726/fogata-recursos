@@ -123,7 +123,7 @@ competencies:
   - Comunicación
 
 activity_type:
-  - Arte
+  - Creatividad / Arte
   - Sensibilización
   - Investigación
 

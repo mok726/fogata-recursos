@@ -109,7 +109,6 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Análisis
 
 category:
   - Riesgo

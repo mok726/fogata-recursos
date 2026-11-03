@@ -127,7 +127,7 @@ competencies:
 activity_type:
   - Investigación
   - Exploración
-  - Arte
+  - Creatividad / Arte
 
 category:
   - Estaciones
