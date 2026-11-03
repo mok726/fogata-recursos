@@ -112,9 +112,8 @@ image_prompt: "A scout leader on a field raising one arm straight up with a whis
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Comunicación
-  - Atención
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Aprender jugando

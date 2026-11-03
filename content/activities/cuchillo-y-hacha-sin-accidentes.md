@@ -115,8 +115,8 @@ image_prompt: "A scout leader supervising teenage scouts whittling sticks away f
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Conciencia de seguridad
+  - Técnicas scout
+  - Salud y autocuidado
   - Responsabilidad
 activity_type:
   - Aprender haciendo
@@ -126,7 +126,8 @@ category:
   - Seguridad
 skills:
   - Técnicas scout
-  - Conciencia de seguridad
+  - Salud y autocuidado
+  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

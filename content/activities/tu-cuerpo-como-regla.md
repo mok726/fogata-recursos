@@ -110,9 +110,8 @@ image_prompt: "Scouts measuring their arm span and hand span with a tape measure
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
-  - Pensamiento lógico
-  - Autoconocimiento
+  - Técnicas scout
+  - Pensamiento científico
 activity_type:
   - Aprender haciendo
   - Investigación

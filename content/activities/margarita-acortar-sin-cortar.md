@@ -107,8 +107,8 @@ image_prompt: "Scouts shortening a tent guy rope with a sheepshank knot beside a
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Resolución de problemas
+  - Técnicas scout
+  - Destreza física
 activity_type:
   - Aprender haciendo
 category:
@@ -116,7 +116,7 @@ category:
   - Nudos
 skills:
   - Técnicas scout
-  - Trabajo manual
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

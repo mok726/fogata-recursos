@@ -109,9 +109,8 @@ image_prompt: "A wooden knot board hanging on a scout den wall, with neatly tied
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
+  - Técnicas scout
   - Trabajo en equipo
-  - Organización
 activity_type:
   - Aprender haciendo
   - Planificación

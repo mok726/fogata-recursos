@@ -112,9 +112,9 @@ image_prompt: "Close-up of scouts' hands tying a tight square lashing joining tw
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Trabajo en equipo
-  - Paciencia
+  - Técnicas scout
+  - Destreza física
+  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Experimentación

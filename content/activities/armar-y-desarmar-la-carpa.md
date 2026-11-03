@@ -112,8 +112,8 @@ image_prompt: "A patrol of scouts pitching a dome tent on a grassy campsite, two
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
-  - Organización
   - Responsabilidad
 activity_type:
   - Aprender haciendo

@@ -112,7 +112,7 @@ image_prompt: "Scouts standing up a wooden tripod made of three poles joined at 
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
+  - Técnicas scout
   - Trabajo en equipo
   - Resolución de problemas
 activity_type:

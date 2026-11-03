@@ -109,9 +109,8 @@ image_prompt: "Close-up of teenage scouts splicing three-strand rope with a wood
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Paciencia
-  - Concentración
+  - Técnicas scout
+  - Destreza física
 activity_type:
   - Aprender haciendo
   - Aprender jugando
@@ -120,7 +119,7 @@ category:
   - Nudos
 skills:
   - Técnicas scout
-  - Trabajo manual
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

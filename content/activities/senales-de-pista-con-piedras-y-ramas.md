@@ -111,8 +111,8 @@ image_prompt: "Close-up of trail signs on a forest path made of a small stone st
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Observación
-  - Trabajo en equipo
   - Comunicación
 activity_type:
   - Juego
@@ -123,7 +123,8 @@ category:
   - Rastreo
 skills:
   - Técnicas scout
-  - Rastreo
+  - Observación
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:

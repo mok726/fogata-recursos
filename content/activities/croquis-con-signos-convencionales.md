@@ -112,9 +112,9 @@ image_prompt: "Scouts sitting on the grass drawing a hand-made map of their camp
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
-  - Orientación
+  - Técnicas scout
   - Comunicación
+  - Observación
 activity_type:
   - Aprender haciendo
   - Exploración
@@ -125,7 +125,8 @@ category:
   - Mapas
 skills:
   - Técnicas scout
-  - Comunicación visual
+  - Comunicación
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

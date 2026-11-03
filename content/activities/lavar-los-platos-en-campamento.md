@@ -113,9 +113,8 @@ image_prompt: "A patrol of scouts washing dishes at camp in a line of basins, sc
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
-  - Organización
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Juego

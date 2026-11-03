@@ -108,8 +108,8 @@ image_prompt: "A young scout tying two ropes of different thickness together wit
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
-  - Resolución de problemas
+  - Técnicas scout
+  - Destreza física
 activity_type:
   - Aprender haciendo
   - Aprender jugando
@@ -118,7 +118,7 @@ category:
   - Nudos
 skills:
   - Técnicas scout
-  - Trabajo manual
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -113,9 +113,9 @@ image_prompt: "Scouts examining a rocky overhang at the edge of a forest, one po
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
+  - Técnicas scout
   - Resolución de problemas
-  - Conciencia de seguridad
+  - Observación
 activity_type:
   - Exploración
   - Planificación

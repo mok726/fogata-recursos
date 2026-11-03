@@ -112,8 +112,7 @@ image_prompt: "Two scouts kneeling face to face over chalk-drawn 5 by 5 grids, o
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
   - Observación
-  - Memoria
-  - Concentración
+  - Técnicas scout
 activity_type:
   - Juego
   - Aprender jugando
@@ -122,7 +121,7 @@ category:
   - Observación
 skills:
   - Observación
-  - Memoria
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

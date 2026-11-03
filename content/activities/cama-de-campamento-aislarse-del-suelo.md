@@ -110,9 +110,9 @@ image_prompt: "Scouts in a pine forest building a thick bed of dry pine needles 
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Observación
-  - Pensamiento crítico
-  - Conciencia de salud
+  - Técnicas scout
+  - Experimentación
+  - Salud y autocuidado
 activity_type:
   - Experimentación
   - Aprender haciendo

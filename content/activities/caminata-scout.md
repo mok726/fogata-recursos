@@ -114,9 +114,8 @@ image_prompt: "A patrol of scouts hiking in single file on the left side of a qu
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Planificación
-  - Resistencia física
-  - Observación
+  - Técnicas scout
+  - Planificación y organización
 activity_type:
   - Exploración
   - Orientación
@@ -126,7 +125,7 @@ category:
   - Caminata
 skills:
   - Técnicas scout
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

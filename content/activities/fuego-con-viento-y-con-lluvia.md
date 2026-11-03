@@ -113,9 +113,8 @@ image_prompt: "A scout cupping hands around a lit match facing the wind on a rai
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Resolución de problemas
-  - Observación
-  - Habilidades prácticas
 activity_type:
   - Aprender jugando
   - Aprender haciendo

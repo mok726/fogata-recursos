@@ -109,7 +109,7 @@ image_prompt: "A patrol of scouts holding a rope line together, each with a loop
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Habilidades manuales
+  - Técnicas scout
   - Trabajo en equipo
 activity_type:
   - Aprender haciendo

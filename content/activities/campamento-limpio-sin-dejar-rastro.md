@@ -114,9 +114,8 @@ image_prompt: "Scouts cleaning up a forest campsite at the end of camp, carrying
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Conciencia ambiental
-  - Pensamiento crítico
-  - Responsabilidad
 activity_type:
   - Reflexión
   - Aprender haciendo

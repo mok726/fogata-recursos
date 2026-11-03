@@ -114,9 +114,9 @@ image_prompt: "A patrol of scouts proudly testing a rustic camp table made of la
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
+  - Técnicas scout
   - Trabajo en equipo
-  - Planificación
-  - Habilidades manuales
+  - Planificación y organización
 activity_type:
   - Aprender haciendo
   - Planificación

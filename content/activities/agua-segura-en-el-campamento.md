@@ -115,9 +115,8 @@ image_prompt: "Scouts examining a clear mountain stream in the forest, one holdi
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Pensamiento crítico
-  - Observación
-  - Conciencia de salud
+  - Técnicas scout
+  - Pensamiento científico
 activity_type:
   - Investigación
   - Experimentación

@@ -107,8 +107,8 @@ image_prompt: "A large compass rose drawn in chalk on a schoolyard, scouts stand
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Orientación
-  - Memoria
+  - Técnicas scout
+  - Observación
 activity_type:
   - Juego
   - Aprender jugando
@@ -117,7 +117,7 @@ category:
   - Orientación
 skills:
   - Técnicas scout
-  - Orientación
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

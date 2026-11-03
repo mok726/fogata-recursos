@@ -110,9 +110,8 @@ image_prompt: "Children scouts throwing small sandbags at a plastic bottle balan
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Coordinación
-  - Agilidad
-  - Estrategia
+  - Destreza física
+  - Trabajo en equipo
 activity_type:
   - Juego
   - Aprender jugando
@@ -120,7 +119,8 @@ category:
   - Juegos scouts
   - Juegos tradicionales
 skills:
-  - Coordinación
+  - Destreza física
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:

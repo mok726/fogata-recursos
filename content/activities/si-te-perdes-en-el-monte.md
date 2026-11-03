@@ -115,8 +115,8 @@ image_prompt: "A young scout sitting calmly against a tree in a forest, blowing 
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Conciencia de seguridad
-  - Autocontrol emocional
+  - Técnicas scout
+  - Salud y autocuidado
   - Resolución de problemas
 activity_type:
   - Simulación
@@ -127,7 +127,8 @@ category:
   - Seguridad
 skills:
   - Técnicas scout
-  - Conciencia de seguridad
+  - Salud y autocuidado
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
