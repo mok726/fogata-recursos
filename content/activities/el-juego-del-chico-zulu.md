@@ -138,9 +138,18 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
   - 34  # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 38 # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 34 # Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡El Juego del Chico Zulú!

@@ -150,11 +150,17 @@ rama_lobatos:
   - 24  # Cuido del planeta utilizando los recursos de forma responsable.
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
 
-rama_scouts: []  # No aplica (actividad nivel 1)
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
 
-rama_caminantes: []  # No aplica (actividad nivel 1)
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
 
-rama_rovers: []  # No aplica (actividad nivel 1)
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # Cinco Cosas Buenas

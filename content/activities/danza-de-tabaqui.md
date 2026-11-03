@@ -136,9 +136,18 @@ rama_lobatos:
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
   - 11  # Ante una pelea o situación de conflicto recurro al diálogo para resolverla.
   - 23  # Intento vivir la Ley de la Manada en mis acciones cotidianas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+  - 15 # Colaboro en la resolución de situaciones de conflicto a través del diálogo, evitando situaciones de violencia, en los espacios donde me desenvuelvo.
+  - 29 # Adhiero a los valores expresados en la Ley y la Promesa Scout comprendiendo su importancia para mi vida.
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 15 # Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia.
+  - 28 # Reconozco cómo mis creencias, prioridades y valores influyen en mis decisiones cotidianas para vivir de manera auténtica y coherente con lo que creo y valoro.
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 10 # Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia, promoviendo la paz.
+  - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
 ---
 
 # ¡La Danza de Tabaqui!

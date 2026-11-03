@@ -139,8 +139,14 @@ rama_scouts:
   - 20  # Respeto los acuerdos y expreso mis ideas de manera empática.
   - 45  # Lidero actividades y proyectos, acompañando a mis pares.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 19 # Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+  - 40 # Motivo y oriento a otras personas a trabajar en conjunto para lograr objetivos comunes.
+rama_rovers:
+  - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
+  - 27 # Me involucro, planifico y desarrollo acciones comunitarias que sean sostenibles y tengan un impacto socioambiental positivo.
 ---
 
 # ¡Hazles Saber!

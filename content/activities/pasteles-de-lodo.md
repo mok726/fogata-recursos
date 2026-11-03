@@ -134,9 +134,15 @@ rama_lobatos:
   - 33  # Utilizo diferentes herramientas y busco soluciones.
   - 34  # Me enfrento a desafíos y encuentro soluciones creativas.
 
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+rama_caminantes:
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡Tortas de Barro!

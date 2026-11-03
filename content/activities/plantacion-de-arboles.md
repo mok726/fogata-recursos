@@ -140,14 +140,17 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 30 # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
 rama_scouts:
   - 37
   - 38
 rama_caminantes:
   - 33
   - 34
-rama_rovers: []
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # ¡Aprendamos sobre la Plantación de Árboles!

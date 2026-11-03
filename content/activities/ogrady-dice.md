@@ -132,9 +132,18 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 17  # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
   - 46  # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 20 # Respeto los acuerdos de convivencia y las decisiones tomadas por los demás, expresando mis propias ideas y posturas de manera empática y respetuosa.
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 19 # Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
 # ¡O'Grady Dice!

@@ -131,7 +131,10 @@ scout_method:
   - Sistema de equipos
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 18 # Participó e incluyo a todas las personas sin discriminarlas.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 19 # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
 rama_scouts:
   - 23  # Promuevo la participación e inclusión.
   - 25  # Me comprometo y animo a otras personas.

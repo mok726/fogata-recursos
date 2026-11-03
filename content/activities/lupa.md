@@ -141,8 +141,12 @@ rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.
   - 47  # Busco información en diversas fuentes.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 43 # Busco y evalúo el valor de diversas fuentes de información (académicas, científicas, artísticas, populares, empíricas, ancestrales, etc.) y las aplico de manera crítica y creativa en función de la necesidad y los contextos.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 8  # Busco y evalúo el valor de diversas fuentes de información (académicas, científicas, artísticas, populares, empíricas, ancestrales, etc.) y las aplico de manera crítica y creativa en función de la necesidad y los contextos.
 ---
 
 # ¡Lupa!

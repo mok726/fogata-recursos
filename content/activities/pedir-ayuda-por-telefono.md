@@ -140,9 +140,18 @@ rama_lobatos:
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
   - 45  # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
   - 39  # Uso programas y aplicaciones que me ayudan en mi vida cotidiana.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 14 # Conozco y construyo redes de apoyo y ayuda mutua.
+  - 46 # Exploro y experimento con diferentes técnicas y tecnologías para resolver problemas, lograr mis objetivos y descubrir soluciones creativas.
+rama_caminantes:
+  - 12 # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+  - 14 # Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # ¡Pedir Ayuda por Teléfono!

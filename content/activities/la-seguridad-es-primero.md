@@ -161,7 +161,9 @@ rama_caminantes:
   - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad.
   - 13  # Me informo y preparo para enfrentar situaciones de emergencia.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # La Seguridad Es Primero

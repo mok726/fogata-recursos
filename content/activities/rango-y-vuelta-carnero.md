@@ -134,9 +134,17 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 12 # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
 # ¡Rango y Vuelta Carnero!

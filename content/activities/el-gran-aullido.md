@@ -137,9 +137,18 @@ rama_lobatos:
   - 23  # Intento vivir la Ley de la Manada en mis acciones cotidianas.
   - 16  # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 29 # Adhiero a los valores expresados en la Ley y la Promesa Scout comprendiendo su importancia para mi vida.
+  - 19 # Ejercito y promuevo prácticas que fomenten la participación democrática en los diferentes contextos en donde me desenvuelvo.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+rama_caminantes:
+  - 28 # Reconozco cómo mis creencias, prioridades y valores influyen en mis decisiones cotidianas para vivir de manera auténtica y coherente con lo que creo y valoro.
+  - 19 # Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
+  - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡El Gran Aullido!

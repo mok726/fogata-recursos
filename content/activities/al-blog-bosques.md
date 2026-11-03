@@ -149,9 +149,13 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
 
-rama_lobatos: []  # No aplica (actividad nivel 3)
+rama_lobatos:
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
 
-rama_scouts: []  # No aplica (actividad nivel 3)
+rama_scouts:
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+  - 47 # Busco información en diversas fuentes, y evalúo su veracidad y relevancia antes de aplicarla de manera crítica y creativa en diferentes situaciones y contextos.
 
 rama_caminantes:
   - 48  # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa.

@@ -158,7 +158,9 @@ rama_scouts:
 rama_caminantes:
   - 31
   - 34
-rama_rovers: []
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # ¿Qué Está en Riesgo?

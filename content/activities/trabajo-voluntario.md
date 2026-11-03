@@ -149,7 +149,9 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 19 # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
 
 rama_scouts:
   - 24  # Identifico oportunidades para ayudar a alguien.

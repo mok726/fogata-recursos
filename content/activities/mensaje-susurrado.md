@@ -134,9 +134,18 @@ rama_lobatos:
   - 46  # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 32  # Me intereso por aprender cosas nuevas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+rama_caminantes:
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+rama_rovers:
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # ¡Mensaje Susurrado!

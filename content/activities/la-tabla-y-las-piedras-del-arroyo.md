@@ -137,9 +137,17 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 34  # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡La Tabla y las Piedras del Arroyo!

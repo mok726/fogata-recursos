@@ -149,7 +149,9 @@ rama_caminantes:
   - 16  # Valoro mi historia e identidad y promuevo la herencia cultural.
   - 21  # Cuestiono mis prejuicios y estereotipos culturales.
 
-rama_rovers: []
+rama_rovers:
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
 ---
 
 # ¡Amenazas en Tu Cultura!

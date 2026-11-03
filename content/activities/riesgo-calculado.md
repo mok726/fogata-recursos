@@ -131,7 +131,9 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
 
 rama_scouts:
   - 40  # Exploro temas de mi interés con la intención de mejorar cada día.

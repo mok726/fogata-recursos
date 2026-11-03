@@ -141,7 +141,10 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 11 # Ante una pelea o situación de conflicto recurro al diálogo para resolverla.
+  - 18 # Participó e incluyo a todas las personas sin discriminarlas.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 rama_scouts:
   - 15
   - 23

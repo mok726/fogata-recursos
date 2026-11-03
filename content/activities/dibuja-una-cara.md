@@ -132,9 +132,18 @@ rama_lobatos:
   - 32  # Me intereso por aprender cosas nuevas.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+rama_rovers:
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Dibujá una Cara!

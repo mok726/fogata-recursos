@@ -150,11 +150,17 @@ rama_lobatos:
   - 27  # Comprendo que en la naturaleza todo está relacionado.
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
 
-rama_scouts: []  # No aplica (actividad nivel 1)
+rama_scouts:
+  - 35 # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
 
-rama_caminantes: []  # No aplica (actividad nivel 1)
+rama_caminantes:
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
 
-rama_rovers: []  # No aplica (actividad nivel 1)
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # Las Capas del Bosque

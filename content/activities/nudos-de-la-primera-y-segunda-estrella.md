@@ -141,9 +141,18 @@ rama_lobatos:
   - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
   - 45  # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 38 # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+  - 14 # Conozco y construyo redes de apoyo y ayuda mutua.
+rama_caminantes:
+  - 34 # Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 14 # Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
 # ¡Nudos de la Primera y Segunda Estrella!

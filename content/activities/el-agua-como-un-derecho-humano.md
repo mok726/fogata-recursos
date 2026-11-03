@@ -131,7 +131,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 15 # Conozco mis derechos como niña o niño e identifico cuando estos son vulnerados.
+  - 17 # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 
 rama_scouts:
   - 18  # Valoro y respeto los Derechos Humanos.

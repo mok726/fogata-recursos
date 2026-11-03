@@ -135,9 +135,18 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 45  # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
   - 18  # Participó e incluyo a todas las personas sin discriminarlas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 14 # Conozco y construyo redes de apoyo y ayuda mutua.
+  - 23 # Promuevo la participación e inclusión de todas las personas, sin discriminación alguna.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 14 # Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares.
+  - 22 # Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas en mis actividades.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
 ---
 
 # ¡Shere Khan y Mowgli!

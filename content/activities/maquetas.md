@@ -142,9 +142,18 @@ rama_lobatos:
   - 34  # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
   - 36  # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+  - 43 # Comparto mis pasatiempos y especialidades con amigas y amigos, buscando intereses comunes que podamos desarrollar en conjunto.
+rama_caminantes:
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+rama_rovers:
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
 ---
 
 # ¡Maquetas!

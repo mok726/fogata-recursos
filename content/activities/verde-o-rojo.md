@@ -153,7 +153,10 @@ rama_scouts:
 rama_caminantes:
   - 27
   - 29
-rama_rovers: []
+rama_rovers:
+  - 35 # Promuevo el diálogo y el entendimiento más allá de las creencias personales.
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 ---
 
 # ¡Verde o Rojo!

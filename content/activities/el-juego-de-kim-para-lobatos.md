@@ -134,9 +134,18 @@ rama_lobatos:
   - 32  # Me intereso por aprender cosas nuevas.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡El Juego de Kim para Lobatos!

@@ -152,7 +152,10 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 27 # Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
 
 rama_scouts:
   - 35  # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta.

@@ -141,9 +141,18 @@ rama_lobatos:
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
   - 45  # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 14 # Conozco y construyo redes de apoyo y ayuda mutua.
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+rama_caminantes:
+  - 12 # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+  - 14 # Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Quemaduras, Escaldaduras y Shock!

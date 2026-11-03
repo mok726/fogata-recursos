@@ -135,9 +135,18 @@ rama_lobatos:
   - 32  # Me intereso por aprender cosas nuevas.
   - 46  # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+rama_rovers:
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡Aprender Semáforo con Banderas!

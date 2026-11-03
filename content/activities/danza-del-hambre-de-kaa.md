@@ -137,9 +137,18 @@ rama_lobatos:
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 23  # Intento vivir la Ley de la Manada en mis acciones cotidianas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 29 # Adhiero a los valores expresados en la Ley y la Promesa Scout comprendiendo su importancia para mi vida.
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 28 # Reconozco cómo mis creencias, prioridades y valores influyen en mis decisiones cotidianas para vivir de manera auténtica y coherente con lo que creo y valoro.
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
 ---
 
 # ¡La Danza del Hambre de Kaa!

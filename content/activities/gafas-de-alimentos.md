@@ -149,14 +149,20 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 1  # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
 rama_scouts:
   - 2
   - 31
 rama_caminantes:
   - 1
   - 29
-rama_rovers: []
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
 ---
 
 # ¡Caminando con Gafas de Alimentos Puestas!

@@ -149,7 +149,11 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 36 # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
 
 rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.

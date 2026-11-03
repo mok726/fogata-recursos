@@ -139,8 +139,14 @@ rama_scouts:
   - 24  # Identifico oportunidades para ayudar a alguien de manera individual o colectiva.
   - 37  # Exploro oportunidades para conectarme con la naturaleza.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 23 # Me involucro de forma empática y activa, en acciones solidarias en la comunidad.
+  - 25 # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+rama_rovers:
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # ¡Preparate!

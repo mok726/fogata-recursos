@@ -132,9 +132,15 @@ rama_castores: []
 rama_lobatos:
   - 24  # Cuido del planeta utilizando los recursos de forma responsable.
   - 43  # Organizo mis tiempos en las distintas actividades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 50 # Organizo mi tiempo en forma adecuada diferenciando mis responsabilidades de mi tiempo libre.
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡Menos Televisión y Computadora!

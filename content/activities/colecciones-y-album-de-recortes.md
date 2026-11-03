@@ -147,9 +147,18 @@ rama_lobatos:
   - 36  # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
   - 14  # Conozco mi historia, la de mi familia y de mi país.
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 43 # Comparto mis pasatiempos y especialidades con amigas y amigos, buscando intereses comunes que podamos desarrollar en conjunto.
+  - 17 # Valoro mi historia e identidad, la de mi País y respeto sus símbolos patrios.
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 16 # Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones).
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Colecciones y Álbum de Recortes!

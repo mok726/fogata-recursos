@@ -142,9 +142,18 @@ rama_lobatos:
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 31  # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 39 # Exploro y contemplo la naturaleza como un espacio que me permite el bienestar para mí, ayudándome a conectar con lo trascendente.
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 35 # Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # ¡Mascotas!

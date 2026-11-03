@@ -143,7 +143,10 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 15 # Conozco mis derechos como niña o niño e identifico cuando estos son vulnerados.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 rama_scouts:
   - 21  # Promuevo que se garanticen los derechos de todas las personas
   - 25  # Me comprometo y animo a otras personas a trabajar en conjunto

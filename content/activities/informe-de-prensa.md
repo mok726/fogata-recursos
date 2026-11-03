@@ -149,7 +149,11 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 19 # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
 
 rama_scouts:
   - 22  # Fomento el respeto a la diversidad en todas sus formas.

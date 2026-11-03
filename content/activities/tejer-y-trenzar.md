@@ -140,9 +140,18 @@ rama_lobatos:
   - 36  # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 43 # Comparto mis pasatiempos y especialidades con amigas y amigos, buscando intereses comunes que podamos desarrollar en conjunto.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+rama_rovers:
+  - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡Tejer y Trenzar!

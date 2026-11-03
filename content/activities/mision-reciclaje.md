@@ -143,7 +143,11 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 26 # Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan.
 rama_scouts:
   - 31  # Reconozco mi impacto en el ambiente adoptando un estilo de vida responsable
   - 32  # Utilizo los recursos naturales de forma consciente

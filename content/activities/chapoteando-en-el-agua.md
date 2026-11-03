@@ -134,9 +134,15 @@ rama_lobatos:
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
   - 31  # Descubro las maravillas de la naturaleza y me asombro.
 
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+  - 39 # Exploro y contemplo la naturaleza como un espacio que me permite el bienestar para mí, ayudándome a conectar con lo trascendente.
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 35 # Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # ¡Chapoteando en el Agua!

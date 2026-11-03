@@ -145,8 +145,12 @@ rama_scouts:
   - 53  # Participo de manifestaciones artísticas.
   - 41  # Experimento diferentes medios y tecnologías.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # ¡Dibujos Polvorientos!

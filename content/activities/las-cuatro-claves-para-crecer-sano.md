@@ -139,9 +139,16 @@ rama_lobatos:
   - 1   # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 2   # Mantengo una buena higiene personal para tener una vida saludable.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 2  # Entiendo la importancia de alimentarme de forma saludable.
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 1  # Incorporo hábitos de higiene.
+rama_caminantes:
+  - 1  # Adopto y promuevo hábitos de alimentación e higiene saludables.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Las Cuatro Claves para Crecer Sano!

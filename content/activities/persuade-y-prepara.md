@@ -133,7 +133,11 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 17 # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
 
 rama_scouts:
   - 20  # Respeto los acuerdos y expreso mis ideas de manera empática.

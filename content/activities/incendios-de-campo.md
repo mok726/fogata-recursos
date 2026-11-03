@@ -147,9 +147,18 @@ rama_lobatos:
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
   - 27  # Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
   - 28  # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 35 # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+  - 31 # Reconozco mi impacto en el ambiente y en la sociedad, adoptando un estilo de vida responsable y sostenible.
+rama_caminantes:
+  - 12 # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 ---
 
 # ¡Incendios de Campo!

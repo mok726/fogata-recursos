@@ -135,9 +135,17 @@ rama_lobatos:
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 34  # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+rama_caminantes:
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡A Oscuras como el Lobo!

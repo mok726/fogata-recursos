@@ -156,7 +156,9 @@ rama_scouts:
 rama_caminantes:
   - 33
   - 34
-rama_rovers: []
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # ¡Descubriendo la Naturaleza con Seek de iNaturalist!

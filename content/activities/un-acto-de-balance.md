@@ -133,9 +133,15 @@ rama_lobatos:
   - 18  # Participo e incluyo a todas las personas sin discriminarlas.
   - 19  # Realizo acciones solidarias para ayudar a las personas.
 
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 23 # Promuevo la participación e inclusión de todas las personas, sin discriminación alguna.
+  - 24 # Identifico oportunidades para ayudar a alguien de manera individual y/o colectiva, sin esperar nada a cambio.
+rama_caminantes:
+  - 22 # Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas en mis actividades.
+  - 23 # Me involucro de forma empática y activa, en acciones solidarias en la comunidad.
+rama_rovers:
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
 # ¡Un Acto de Balance!

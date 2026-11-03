@@ -143,9 +143,18 @@ rama_lobatos:
   - 2   # Mantengo una buena higiene personal para tener una vida saludable.
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 45  # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 1  # Incorporo hábitos de higiene.
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 14 # Conozco y construyo redes de apoyo y ayuda mutua.
+rama_caminantes:
+  - 1  # Adopto y promuevo hábitos de alimentación e higiene saludables.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 14 # Conozco, construyo y promociono redes de apoyo y ayuda mutua junto a mis pares.
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
 # ¡Heridas Limpias!

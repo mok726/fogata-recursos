@@ -135,8 +135,12 @@ rama_lobatos:
 rama_scouts:
   - 53  # Participo de diferentes manifestaciones artísticas en las que expreso mis emociones.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡El Baile del Agua!

@@ -136,8 +136,12 @@ rama_lobatos:
 rama_scouts:
   - 41  # Experimento diferentes medios y tecnologías.
   - 53  # Participo de manifestaciones artísticas.
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Inventá un Nuevo Uso!

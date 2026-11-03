@@ -156,11 +156,16 @@ rama_lobatos:
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
   - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
 
-rama_scouts: []  # No aplica (actividad nivel 1)
+rama_scouts:
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+  - 38 # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
 
-rama_caminantes: []  # No aplica (actividad nivel 1)
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 34 # Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.
 
-rama_rovers: []  # No aplica (actividad nivel 1)
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # Patrones de Corteza

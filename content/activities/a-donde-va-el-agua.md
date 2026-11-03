@@ -131,7 +131,11 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
 
 rama_scouts:
   - 26  # Observo lo que pasa a mi alrededor y trato de entender las razones.

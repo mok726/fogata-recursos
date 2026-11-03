@@ -163,7 +163,10 @@ rama_caminantes:
   - 10  # Me involucro en actividades físicas y deportivas.
   - 16  # Valoro mi historia e identidad y promuevo la herencia cultural.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
 ---
 
 # Aprender Jugando

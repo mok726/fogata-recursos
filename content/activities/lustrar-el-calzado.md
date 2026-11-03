@@ -143,9 +143,18 @@ rama_lobatos:
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
   - 2   # Mantengo una buena higiene personal para tener una vida saludable.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+  - 1  # Incorporo hábitos de higiene.
+rama_caminantes:
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+  - 1  # Adopto y promuevo hábitos de alimentación e higiene saludables.
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
 ---
 
 # ¡Lustrar el Calzado!

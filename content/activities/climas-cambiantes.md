@@ -129,8 +129,14 @@ scout_method:
   - Sistema de equipos
 
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 26 # Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan.
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 33 # Participó de iniciativas para construir una sociedad más respetuosa con el planeta.
+  - 34 # Comprendo las causas y consecuencias del impacto ambiental y realizo acciones para preservar y proteger el ambiente.
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable.
   - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental.

@@ -139,9 +139,16 @@ rama_lobatos:
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 43  # Organizo mis tiempos en las distintas actividades y responsabilidades, teniendo en cuenta mi tiempo libre y de juego.
   - 19  # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 50 # Organizo mi tiempo en forma adecuada diferenciando mis responsabilidades de mi tiempo libre.
+  - 24 # Identifico oportunidades para ayudar a alguien de manera individual y/o colectiva, sin esperar nada a cambio.
+rama_caminantes:
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 23 # Me involucro de forma empática y activa, en acciones solidarias en la comunidad.
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
 # ¡Hacerse Útil en Casa!

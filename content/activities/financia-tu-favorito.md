@@ -148,7 +148,9 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 19 # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
 rama_scouts:
   - 24
   - 33

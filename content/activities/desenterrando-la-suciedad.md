@@ -148,9 +148,15 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
 
-rama_lobatos: []  # No aplica (actividad nivel 3)
+rama_lobatos:
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
 
-rama_scouts: []  # No aplica (actividad nivel 3)
+rama_scouts:
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 47 # Busco información en diversas fuentes, y evalúo su veracidad y relevancia antes de aplicarla de manera crítica y creativa en diferentes situaciones y contextos.
 
 rama_caminantes:
   - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad.

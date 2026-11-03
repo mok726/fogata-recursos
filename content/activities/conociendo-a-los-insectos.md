@@ -141,8 +141,12 @@ rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.
   - 53  # Participo de manifestaciones artísticas.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Conociendo a los Insectos!

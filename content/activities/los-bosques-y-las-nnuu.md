@@ -148,7 +148,11 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 
 rama_scouts:
   - 40  # Exploro temas de mi interés con la intención de mejorar cada día.

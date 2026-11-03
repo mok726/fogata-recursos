@@ -138,8 +138,12 @@ rama_scouts:
   - 52  # Desarrollo habilidades para comunicarme claramente con otros.
   - 53  # Participo de manifestaciones artísticas.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Fábulas de Trabajo en Equipo!

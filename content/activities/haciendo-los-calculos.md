@@ -131,7 +131,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 42 # Sé usar el dinero y utilizar mis recursos de manera responsable.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 37 # Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 rama_scouts:
   - 49  # Administro mis recursos de forma responsable.

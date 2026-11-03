@@ -145,7 +145,10 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas.
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
 rama_scouts:
   - 40  # Exploro temas de mi interés para mejorar cada día
   - 41  # Experimento diferentes medios para resolver problemas

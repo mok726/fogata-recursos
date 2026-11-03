@@ -130,7 +130,10 @@ scout_method:
   - Vida en la Naturaleza y Aventura
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 12 # Me intereso por la cultura de mi comunidad y mi país.
+  - 14 # Conozco mi historia, la de mi familia y de mi país.
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
 rama_scouts:
   - 16  # Exploro y me identifico con la cultura de mi comunidad.
   - 17  # Valoro mi historia e identidad.

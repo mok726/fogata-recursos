@@ -163,7 +163,10 @@ rama_caminantes:
   - 25  # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales.
   - 44  # Planifico y administro responsablemente mis recursos.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 19 # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
 ---
 
 # Bolsas de Arroz

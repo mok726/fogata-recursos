@@ -129,7 +129,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 31 # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
 
 rama_scouts:
   - 39  # Uso programas y aplicaciones que me ayudan en mi vida cotidiana.

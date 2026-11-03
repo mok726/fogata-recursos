@@ -138,8 +138,12 @@ rama_lobatos:
 rama_scouts:
   - 40  # Exploro temas de mi interés.
   - 52  # Desarrollo habilidades para comunicarme.
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+rama_rovers:
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
 # ¡Tarjetas sobre Ahorro de Agua!
