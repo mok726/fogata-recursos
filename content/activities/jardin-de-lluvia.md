@@ -133,7 +133,7 @@ category:
   - Sostenibilidad
 skills:
   - Trabajo en equipo
-  - Planificación
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
@@ -143,7 +143,7 @@ scout_values:
   - Aventura
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
   - Participación comunitaria y Servicio
 
 # ========== COMPETENCIAS POR RAMA ==========

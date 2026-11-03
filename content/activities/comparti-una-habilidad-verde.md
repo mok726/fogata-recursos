@@ -131,14 +131,13 @@ category:
   - Habilidades
   - Comunidad
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Servicio
-  - Participación comunitaria
+  - Solidaridad
   - Hermandad
 scout_method:
   - Aprender haciendo

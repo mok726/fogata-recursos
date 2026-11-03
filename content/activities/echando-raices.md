@@ -123,7 +123,8 @@ category:
   - Jardinería
 
 skills:
-  - Jardinería
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Responsabilidad
   - Observación
 

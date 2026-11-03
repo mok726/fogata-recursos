@@ -124,7 +124,7 @@ category:
   - Ayuda humanitaria
 
 skills:
-  - Organización
+  - Planificación y organización
   - Trabajo en equipo
   - Comunicación
 

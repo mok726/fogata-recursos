@@ -135,8 +135,7 @@ category:
   - Sostenibilidad
   - Acción
 skills:
-  - Autogestión
-  - Planificación
+  - Planificación y organización
   - Responsabilidad
 
 # ========== VALORES SCOUT ==========

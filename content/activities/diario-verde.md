@@ -117,9 +117,9 @@ category:
   - Reflexión
 
 skills:
-  - Reflexión
-  - Escritura
-  - Autoconocimiento
+  - Pensamiento crítico
+  - Comunicación
+  - Autoconciencia
 
 scout_values:
   - Superación personal

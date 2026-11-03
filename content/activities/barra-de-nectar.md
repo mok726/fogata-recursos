@@ -135,9 +135,9 @@ category:
   - Polinizadores
   - Biodiversidad
 skills:
-  - Jardinería
-  - Observación
+  - Hábitos sostenibles
   - Conciencia ambiental
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

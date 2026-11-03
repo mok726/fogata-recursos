@@ -133,7 +133,6 @@ category:
   - Polinizadores
   - Educación
 skills:
-  - Comprensión lectora
   - Comunicación
   - Pensamiento crítico
 

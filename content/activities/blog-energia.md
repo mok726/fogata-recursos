@@ -125,14 +125,13 @@ category:
   - Energía
   - Comunicación
 skills:
-  - Escritura
   - Comunicación
   - Creatividad
   - Alfabetización digital
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Comunicación
+  - Hermandad
   - Responsabilidad
   - Curiosidad y Apertura al aprendizaje
 scout_method:

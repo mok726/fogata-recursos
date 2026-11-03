@@ -118,8 +118,7 @@ category:
   - Juegos scouts
   - Orientación
 skills:
-  - Orientación
-  - Lectura de mapas
+  - Técnicas scout
   - Liderazgo
 
 # ========== VALORES SCOUT ==========
@@ -127,7 +126,7 @@ scout_values:
   - Superación personal
   - Hermandad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

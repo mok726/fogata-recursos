@@ -119,8 +119,8 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Señales con banderas
-  - Comunicación a distancia
+  - Técnicas scout
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:

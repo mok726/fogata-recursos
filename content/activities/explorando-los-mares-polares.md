@@ -126,7 +126,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Comunicación escrita
+  - Comunicación
 
 scout_values:
   - Naturaleza

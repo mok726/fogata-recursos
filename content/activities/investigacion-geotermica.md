@@ -128,7 +128,6 @@ skills:
   - Investigación
   - Pensamiento crítico
   - Conciencia ambiental
-  - Análisis
 
 # ========== VALORES SCOUT ==========
 scout_values:

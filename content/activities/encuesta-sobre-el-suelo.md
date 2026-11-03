@@ -125,7 +125,7 @@ skills:
 
 scout_values:
   - Hermandad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 
 scout_method:

@@ -139,7 +139,7 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Conciencia de seguridad
+  - Resolución de problemas
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

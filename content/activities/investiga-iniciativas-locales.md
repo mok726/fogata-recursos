@@ -120,12 +120,12 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Participación
+  - Conciencia social
 
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Aprender haciendo

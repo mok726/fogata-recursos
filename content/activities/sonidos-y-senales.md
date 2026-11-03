@@ -134,7 +134,7 @@ category:
 
 skills:
   - Observación
-  - Escucha
+  - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

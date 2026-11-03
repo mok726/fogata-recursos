@@ -136,7 +136,6 @@ category:
   - Polinizadores
 skills:
   - Investigación
-  - Análisis
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

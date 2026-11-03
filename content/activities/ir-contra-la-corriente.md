@@ -128,7 +128,7 @@ category:
 skills:
   - Autoconciencia
   - Conciencia ambiental
-  - Reflexión
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

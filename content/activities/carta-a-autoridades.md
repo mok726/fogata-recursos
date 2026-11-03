@@ -135,13 +135,13 @@ category:
 skills:
   - Comunicación
   - Pensamiento crítico
-  - Participación social
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

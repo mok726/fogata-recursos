@@ -139,7 +139,6 @@ category:
   - Plásticos
 skills:
   - Creatividad
-  - Motricidad fina
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

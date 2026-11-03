@@ -118,8 +118,8 @@ category:
 
 skills:
   - Investigación
-  - Comunicación visual
-  - Conciencia del reciclaje
+  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
   - Naturaleza

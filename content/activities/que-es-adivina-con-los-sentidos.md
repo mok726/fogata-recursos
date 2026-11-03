@@ -125,8 +125,7 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Uso de los sentidos
-  - Memoria
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

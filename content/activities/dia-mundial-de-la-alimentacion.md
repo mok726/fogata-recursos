@@ -120,7 +120,7 @@ category:
   - Salud
 
 skills:
-  - Organización
+  - Planificación y organización
   - Creatividad
   - Trabajo en equipo
 

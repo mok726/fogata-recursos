@@ -134,7 +134,7 @@ category:
   - Comportamiento social
 skills:
   - Observación
-  - Análisis crítico
+  - Pensamiento crítico
   - Pensamiento sistémico
   - Conciencia ambiental
 

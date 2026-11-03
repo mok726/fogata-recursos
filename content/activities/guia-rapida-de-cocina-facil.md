@@ -136,7 +136,7 @@ category:
 skills:
   - Investigación
   - Planificación y organización
-  - Conciencia culinaria
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

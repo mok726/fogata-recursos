@@ -127,8 +127,7 @@ category:
   - Arte
   - Juegos scouts
 skills:
-  - Ritmo
-  - Expresión musical
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

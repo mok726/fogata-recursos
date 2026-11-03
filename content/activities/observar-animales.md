@@ -121,7 +121,6 @@ category:
   - Observación
 skills:
   - Observación
-  - Paciencia
   - Investigación
 
 # ========== VALORES SCOUT ==========

@@ -136,7 +136,6 @@ category:
   - Manualidades
   - Textiles
 skills:
-  - Motricidad fina
   - Creatividad
   - Conciencia ambiental
 

@@ -129,7 +129,7 @@ category:
   - Sostenibilidad
 skills:
   - Observación
-  - Análisis
+  - Pensamiento crítico
   - Responsabilidad
 
 # ========== VALORES SCOUT ==========

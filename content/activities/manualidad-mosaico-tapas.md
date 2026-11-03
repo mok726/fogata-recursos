@@ -137,7 +137,6 @@ skills:
   - Creatividad
   - Trabajo en equipo
   - Conciencia ambiental
-  - Habilidades manuales
 
 # ========== VALORES SCOUT ==========
 scout_values:

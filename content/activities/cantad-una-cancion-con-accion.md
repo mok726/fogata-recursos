@@ -134,7 +134,7 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia de salud
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
@@ -143,7 +143,7 @@ scout_values:
   - Salud
 
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Marco simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========

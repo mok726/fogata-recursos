@@ -132,7 +132,7 @@ category:
   - Salud
   - Impacto ambiental
 skills:
-  - Conciencia nutricional
+  - Salud y autocuidado
   - Pensamiento crítico
   - Conciencia ambiental
 

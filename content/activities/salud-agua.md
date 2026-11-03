@@ -120,7 +120,7 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Prevención
+  - Resolución de problemas
 
 scout_values:
   - Salud

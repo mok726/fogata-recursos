@@ -116,8 +116,8 @@ category:
   - Cálculo
 
 skills:
-  - Cálculo
-  - Análisis
+  - Pensamiento científico
+  - Pensamiento crítico
   - Comunicación
 
 scout_values:

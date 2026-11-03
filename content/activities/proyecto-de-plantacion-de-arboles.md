@@ -120,7 +120,8 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Jardinería
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Responsabilidad
 
 scout_values:

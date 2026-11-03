@@ -137,7 +137,7 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia cultural
+  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

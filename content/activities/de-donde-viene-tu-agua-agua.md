@@ -132,7 +132,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Naturaleza
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

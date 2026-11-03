@@ -131,9 +131,8 @@ category:
   - Productos
   - Comunidad
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
-  - Emprendimiento
 
 # ========== VALORES SCOUT ==========
 scout_values:

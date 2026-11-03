@@ -122,12 +122,12 @@ category:
 skills:
   - Comunicación
   - Creatividad
-  - Organización
+  - Planificación y organización
 
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

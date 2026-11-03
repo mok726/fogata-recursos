@@ -116,9 +116,9 @@ category:
   - Tradición
 
 skills:
-  - Conciencia energética
+  - Hábitos sostenibles
   - Investigación
-  - Adaptación
+  - Autoconciencia
 
 scout_values:
   - Sencillez y Austeridad

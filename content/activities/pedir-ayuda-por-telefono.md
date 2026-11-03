@@ -123,8 +123,8 @@ category:
   - Seguridad
   - Comunicación
 skills:
-  - Comunicación en emergencias
-  - Datos personales
+  - Comunicación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

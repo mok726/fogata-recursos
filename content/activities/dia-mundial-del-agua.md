@@ -123,7 +123,7 @@ category:
   - Agua
   - Ciudadanía
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========

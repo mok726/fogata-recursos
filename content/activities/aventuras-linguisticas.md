@@ -120,12 +120,12 @@ category:
   - Cultura
 
 skills:
-  - Curiosidad cultural
-  - Memoria
+  - Conciencia social
+  - Observación
   - Comunicación
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Hermandad
   - Optimismo y Alegría
 

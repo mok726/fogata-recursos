@@ -130,7 +130,7 @@ category:
   - Pobreza energética
   - Geografía
 skills:
-  - Conciencia global
+  - Conciencia social
   - Investigación
   - Pensamiento crítico
 
@@ -140,7 +140,7 @@ scout_values:
   - Solidaridad
   - Curiosidad y Apertura al aprendizaje
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -140,7 +140,7 @@ category:
 skills:
   - Investigación
   - Observación
-  - Conciencia de salud
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

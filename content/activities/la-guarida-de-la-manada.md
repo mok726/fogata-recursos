@@ -124,9 +124,8 @@ category:
   - Vida al aire libre
   - Manualidades
 skills:
-  - Construcción de refugios
-  - Nudos
-  - Decoración
+  - Técnicas scout
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

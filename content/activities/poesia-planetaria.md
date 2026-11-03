@@ -128,8 +128,8 @@ category:
   - Clima
 skills:
   - Creatividad
-  - Expresión
-  - Reflexión
+  - Comunicación
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -127,7 +127,7 @@ category:
   - Organización
 skills:
   - Creatividad
-  - Organización
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

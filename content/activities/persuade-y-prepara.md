@@ -120,7 +120,6 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Análisis
   - Comunicación
 
 scout_values:

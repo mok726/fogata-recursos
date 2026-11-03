@@ -119,8 +119,7 @@ category:
   - Juegos scouts
   - Primeros auxilios
 skills:
-  - Nudos
-  - Salvamento
+  - Técnicas scout
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

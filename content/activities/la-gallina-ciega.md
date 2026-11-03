@@ -117,13 +117,13 @@ category:
   - Salud
 
 skills:
-  - Conocimiento corporal
+  - Autoconciencia
   - Creatividad
   - Comunicación
 
 scout_values:
   - Salud
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Optimismo y Alegría
 
 scout_method:

@@ -127,8 +127,8 @@ category:
   - Juegos scouts
   - Naturaleza
 skills:
-  - Organización
-  - Vida en campamento
+  - Planificación y organización
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

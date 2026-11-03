@@ -131,13 +131,12 @@ category:
 skills:
   - Liderazgo
   - Comunicación
-  - Organización
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad
-  - Participación comunitaria
-  - Servicio
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

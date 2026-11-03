@@ -123,8 +123,7 @@ category:
   - Arte
   - Educación
 skills:
-  - Motricidad fina
-  - Tejido
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

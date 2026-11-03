@@ -118,9 +118,8 @@ category:
   - Alianzas
 
 skills:
-  - Participación digital
+  - Conciencia social
   - Comunicación
-  - Solidaridad
 
 scout_values:
   - Hermandad

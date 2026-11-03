@@ -138,7 +138,7 @@ category:
   - Macroinvertebrados
   - Ciencia
 skills:
-  - Análisis
+  - Pensamiento crítico
   - Trabajo en equipo
   - Conciencia ambiental
 

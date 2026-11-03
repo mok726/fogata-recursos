@@ -120,9 +120,9 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Memoria
-  - Comunicación oral
-  - Resistencia
+  - Observación
+  - Comunicación
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

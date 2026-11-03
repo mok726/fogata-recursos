@@ -129,7 +129,6 @@ category:
   - Política
   - Clima
 skills:
-  - Negociación
   - Comunicación
   - Pensamiento crítico
 

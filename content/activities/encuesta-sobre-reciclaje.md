@@ -132,7 +132,7 @@ skills:
   - Investigación
   - Comunicación
   - Conciencia social
-  - Análisis
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

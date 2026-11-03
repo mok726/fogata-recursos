@@ -135,7 +135,7 @@ skills:
   - Trabajo en equipo
   - Observación
   - Conciencia ambiental
-  - Análisis de datos
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:

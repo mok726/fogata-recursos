@@ -142,7 +142,6 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender jugando
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -138,7 +138,7 @@ category:
   - Clima
 skills:
   - Observación
-  - Planificación
+  - Planificación y organización
   - Responsabilidad
 
 # ========== VALORES SCOUT ==========

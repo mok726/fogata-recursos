@@ -122,7 +122,7 @@ category:
   - Ciudadanía
 skills:
   - Comunicación
-  - Uso de tecnología
+  - Alfabetización digital
 
 # ========== VALORES SCOUT ==========
 scout_values:

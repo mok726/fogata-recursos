@@ -134,8 +134,9 @@ category:
   - Naturaleza
   - Suelo
 skills:
-  - Huerta
-  - Paciencia
+  - Hábitos sostenibles
+  - Conciencia ambiental
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

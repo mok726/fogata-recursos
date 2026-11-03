@@ -115,11 +115,10 @@ category:
 skills:
   - Comunicación
   - Observación
-  - Enseñanza
 
 scout_values:
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Optimismo y Alegría
 
 scout_method:

@@ -116,8 +116,8 @@ category:
   - Reducción
 
 skills:
-  - Reducción de papel
-  - Organización
+  - Hábitos sostenibles
+  - Planificación y organización
   - Conciencia ambiental
 
 scout_values:

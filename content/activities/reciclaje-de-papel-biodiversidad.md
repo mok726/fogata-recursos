@@ -150,7 +150,6 @@ category:
   - Biodiversidad
 skills:
   - Creatividad
-  - Habilidades manuales
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

@@ -130,7 +130,6 @@ category:
 skills:
   - Pensamiento científico
   - Investigación
-  - Curiosidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

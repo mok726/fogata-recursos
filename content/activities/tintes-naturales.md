@@ -145,7 +145,6 @@ category:
   - Biodiversidad
 skills:
   - Creatividad
-  - Habilidades manuales
   - Observación
 
 # ========== VALORES SCOUT ==========

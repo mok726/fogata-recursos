@@ -121,7 +121,7 @@ category:
 skills:
   - Trabajo en equipo
   - Responsabilidad
-  - Organización
+  - Planificación y organización
 
 scout_values:
   - Naturaleza

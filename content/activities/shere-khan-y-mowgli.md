@@ -118,8 +118,8 @@ category:
   - Juegos scouts
   - Libro de la Selva
 skills:
-  - Agilidad
-  - Cooperación
+  - Destreza física
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:

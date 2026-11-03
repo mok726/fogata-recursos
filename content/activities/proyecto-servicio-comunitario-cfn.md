@@ -150,7 +150,7 @@ scout_values:
 scout_method:
   - Participación comunitaria y Servicio
   - Sistema de equipos
-  - Protagonismo juvenil
+  - Acompañamiento adulto / Protagonismo juvenil
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

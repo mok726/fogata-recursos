@@ -138,7 +138,7 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Conciencia nutricional
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
@@ -147,7 +147,7 @@ scout_values:
   - Hermandad
 
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

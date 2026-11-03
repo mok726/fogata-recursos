@@ -140,7 +140,7 @@ category:
   - Educación
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT ==========

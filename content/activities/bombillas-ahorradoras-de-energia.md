@@ -118,8 +118,8 @@ category:
   - Ahorro
 
 skills:
-  - Eficiencia energética
-  - Influencia social
+  - Hábitos sostenibles
+  - Comunicación
   - Responsabilidad
 
 scout_values:

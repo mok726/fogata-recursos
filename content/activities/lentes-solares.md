@@ -138,8 +138,7 @@ category:
   - Manualidades
 skills:
   - Creatividad
-  - Conciencia sobre salud
-  - Trabajo manual
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:

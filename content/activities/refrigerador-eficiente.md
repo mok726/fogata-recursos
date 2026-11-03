@@ -116,9 +116,8 @@ category:
   - Ahorro
 
 skills:
-  - Eficiencia energética
+  - Hábitos sostenibles
   - Responsabilidad
-  - Ayuda doméstica
 
 scout_values:
   - Sencillez y Austeridad

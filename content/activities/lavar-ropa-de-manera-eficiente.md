@@ -116,9 +116,9 @@ category:
   - Ropa
 
 skills:
-  - Eficiencia doméstica
+  - Hábitos sostenibles
   - Responsabilidad
-  - Ahorro
+  - Planificación y organización
 
 scout_values:
   - Sencillez y Austeridad

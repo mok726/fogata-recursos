@@ -135,7 +135,7 @@ category:
   - Suelo
   - Biodiversidad
 skills:
-  - Habilidades prácticas
+  - Resolución de problemas
   - Observación
   - Conciencia ambiental
 

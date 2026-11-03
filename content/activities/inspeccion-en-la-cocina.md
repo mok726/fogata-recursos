@@ -117,9 +117,8 @@ category:
   - Reemplazo
 
 skills:
-  - Organización
-  - Reducción de residuos
-  - Conciencia del consumo
+  - Planificación y organización
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

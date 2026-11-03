@@ -137,7 +137,7 @@ category:
   - Residuos
 skills:
   - Conciencia ambiental
-  - Planificación
+  - Planificación y organización
   - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========

@@ -117,14 +117,14 @@ category:
   - Sostenibilidad
 
 skills:
-  - Planificación
+  - Planificación y organización
   - Trabajo en equipo
-  - Acción comunitaria
+  - Conciencia social
 
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

@@ -135,8 +135,8 @@ category:
 
 skills:
   - Observación
-  - Análisis
-  - Conciencia nutricional
+  - Pensamiento crítico
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

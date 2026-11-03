@@ -133,7 +133,7 @@ category:
   - Energía
 skills:
   - Investigación
-  - Organización
+  - Planificación y organización
   - Conciencia social
   - Trabajo en equipo
 

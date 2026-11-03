@@ -120,9 +120,8 @@ category:
   - Arte
   - Reciclaje
 skills:
-  - Trabajo manual
   - Creatividad
-  - Organización
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

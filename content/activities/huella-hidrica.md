@@ -136,7 +136,7 @@ category:
   - Consumo
   - Clima
 skills:
-  - Análisis
+  - Pensamiento crítico
   - Observación
   - Conciencia ambiental
 

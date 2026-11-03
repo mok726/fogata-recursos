@@ -131,11 +131,10 @@ category:
 
 skills:
   - Creatividad
-  - Habilidades manuales
-  - Reciclaje
+  - Hábitos sostenibles
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Sencillez y Austeridad
   - Naturaleza
 

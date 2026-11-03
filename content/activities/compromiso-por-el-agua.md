@@ -123,8 +123,8 @@ category:
 
 skills:
   - Creatividad
-  - Persuasión
-  - Seguimiento
+  - Comunicación
+  - Observación
 
 scout_values:
   - Responsabilidad

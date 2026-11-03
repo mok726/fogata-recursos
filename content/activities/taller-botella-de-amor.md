@@ -122,7 +122,7 @@ category:
 skills:
   - Conciencia ambiental
   - Responsabilidad
-  - Trabajo manual
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
@@ -131,7 +131,7 @@ scout_values:
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

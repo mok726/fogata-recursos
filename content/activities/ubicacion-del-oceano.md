@@ -136,7 +136,7 @@ category:
 
 skills:
   - Observación
-  - Conocimiento geográfico
+  - Conciencia social
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

@@ -120,8 +120,8 @@ category:
 
 skills:
   - Investigación
-  - Análisis
-  - Comunicación visual
+  - Pensamiento crítico
+  - Comunicación
 
 scout_values:
   - Naturaleza

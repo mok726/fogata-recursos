@@ -143,7 +143,8 @@ category:
   - Alimentación
   - Sostenibilidad
 skills:
-  - Jardinería
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Trabajo en equipo
   - Responsabilidad
 

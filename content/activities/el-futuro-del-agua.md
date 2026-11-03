@@ -124,7 +124,7 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Superación personal
   - Responsabilidad
 

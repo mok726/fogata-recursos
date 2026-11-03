@@ -138,7 +138,7 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

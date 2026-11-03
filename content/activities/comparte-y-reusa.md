@@ -116,8 +116,8 @@ category:
   - Compartir
 
 skills:
-  - Compartir
-  - Organización
+  - Conciencia social
+  - Planificación y organización
   - Responsabilidad
 
 scout_values:

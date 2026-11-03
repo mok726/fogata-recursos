@@ -132,7 +132,7 @@ category:
 skills:
   - Pensamiento crítico
   - Autoconciencia
-  - Análisis de datos
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:

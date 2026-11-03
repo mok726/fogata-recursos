@@ -133,7 +133,7 @@ category:
   - Polinizadores
 skills:
   - Creatividad
-  - Reflexión
+  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

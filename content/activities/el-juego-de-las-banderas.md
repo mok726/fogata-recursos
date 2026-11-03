@@ -119,8 +119,8 @@ activity_type:
 category:
   - Juegos scouts
 skills:
-  - Memoria
-  - Conocimiento de símbolos patrios
+  - Observación
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

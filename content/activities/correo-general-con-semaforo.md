@@ -122,8 +122,8 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Lectura de semáforo
-  - Concentración
+  - Responsabilidad
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

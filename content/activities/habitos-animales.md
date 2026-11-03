@@ -119,12 +119,12 @@ category:
 
 skills:
   - Observación
-  - Documentación
+  - Planificación y organización
   - Comunicación
 
 scout_values:
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Aventura
 
 scout_method:

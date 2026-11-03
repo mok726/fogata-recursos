@@ -115,9 +115,9 @@ category:
   - Ahorro
 
 skills:
-  - Autodisciplina
-  - Influencia social
-  - Conciencia energética
+  - Planificación y organización
+  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

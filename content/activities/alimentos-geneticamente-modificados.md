@@ -133,7 +133,6 @@ category:
 skills:
   - Pensamiento crítico
   - Investigación
-  - Debate
 
 # ========== VALORES SCOUT ==========
 scout_values:

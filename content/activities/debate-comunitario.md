@@ -126,7 +126,6 @@ category:
   - Energía
   - Comunidad
 skills:
-  - Negociación
   - Comunicación
   - Pensamiento crítico
   - Conciencia social

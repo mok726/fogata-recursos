@@ -132,14 +132,14 @@ category:
   - Polinizadores
 skills:
   - Observación
-  - Evaluación
+  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

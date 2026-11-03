@@ -119,16 +119,14 @@ category:
   - Juegos scouts
   - Acecho
 skills:
-  - Acecho
-  - Camuflaje
-  - Desplazamiento silencioso
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

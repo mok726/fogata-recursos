@@ -144,7 +144,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
 
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

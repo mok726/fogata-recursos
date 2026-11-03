@@ -141,7 +141,7 @@ category:
 skills:
   - Alfabetización digital
   - Comunicación
-  - Participación social
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

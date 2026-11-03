@@ -138,7 +138,7 @@ category:
   - Conservación
   - Biodiversidad
 skills:
-  - Construcción
+  - Creatividad
   - Observación
   - Conciencia ambiental
 

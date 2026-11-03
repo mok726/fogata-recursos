@@ -116,7 +116,7 @@ category:
   - Ambiente
 
 skills:
-  - Organización
+  - Planificación y organización
   - Liderazgo
   - Trabajo en equipo
 

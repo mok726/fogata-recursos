@@ -120,7 +120,7 @@ category:
   - Caridad
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Trabajo en equipo
 

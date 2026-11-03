@@ -120,7 +120,7 @@ category:
   - Primeros auxilios
 skills:
   - Trabajo en equipo
-  - Coordinación
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

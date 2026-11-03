@@ -126,7 +126,7 @@ category:
   - Taller
 skills:
   - Conciencia ambiental
-  - Trabajo manual
+  - Creatividad
   - Responsabilidad
 
 # ========== VALORES SCOUT ==========
@@ -136,7 +136,7 @@ scout_values:
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

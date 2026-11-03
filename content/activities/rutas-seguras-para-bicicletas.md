@@ -116,9 +116,8 @@ category:
   - Campaña
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
-  - Promoción
 
 scout_values:
   - Salud

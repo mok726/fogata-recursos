@@ -135,7 +135,7 @@ category:
   - Consumo
 skills:
   - Observación
-  - Planificación
+  - Planificación y organización
   - Responsabilidad
 
 # ========== VALORES SCOUT ==========

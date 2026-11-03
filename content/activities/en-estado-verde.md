@@ -133,7 +133,7 @@ category:
   - Energía
   - Clima
 skills:
-  - Organización
+  - Planificación y organización
   - Creatividad
   - Comunicación
 

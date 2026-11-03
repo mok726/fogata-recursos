@@ -124,8 +124,8 @@ category:
   - Juegos scouts
   - Educación
 skills:
-  - Nudos
-  - Motricidad fina
+  - Técnicas scout
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:

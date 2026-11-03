@@ -143,7 +143,7 @@ skills:
 scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Naturaleza
-  - Paciencia
+  - Perseverancia
 
 scout_method:
   - Vida en la Naturaleza y Aventura

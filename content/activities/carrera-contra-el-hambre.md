@@ -140,7 +140,7 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Organización
+  - Planificación y organización
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

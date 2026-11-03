@@ -134,7 +134,7 @@ skills:
   - Investigación
   - Creatividad
   - Comunicación
-  - Conciencia cultural
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -131,14 +131,13 @@ category:
   - Biodiversidad
 skills:
   - Liderazgo
-  - Organización
+  - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Participación comunitaria
-  - Responsabilidad
   - Solidaridad
+  - Responsabilidad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

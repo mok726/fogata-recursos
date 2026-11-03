@@ -134,8 +134,8 @@ category:
   - Biodiversidad
 skills:
   - Creatividad
-  - Expresión
-  - Conciencia cultural
+  - Comunicación
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

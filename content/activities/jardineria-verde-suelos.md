@@ -123,8 +123,8 @@ category:
   - Jardinería
 
 skills:
-  - Jardinería
-  - Reciclaje
+  - Hábitos sostenibles
+  - Conciencia ambiental
   - Responsabilidad
 
 scout_values:

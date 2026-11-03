@@ -118,13 +118,12 @@ category:
   - Simbolismo
 
 skills:
-  - Comprensión lectora
-  - Reflexión
-  - Expresión escrita
+  - Comunicación
+  - Pensamiento crítico
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
-  - Creatividad e ingenio
+  - Curiosidad y Apertura al aprendizaje
+  - Creatividad e Ingenio
   - Superación personal
 
 scout_method:

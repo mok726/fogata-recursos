@@ -128,8 +128,8 @@ scout_values:
   - Responsabilidad
   - Sencillez y Austeridad
 scout_method:
-  - Aprender jugando
-  - Vida en la Naturaleza
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

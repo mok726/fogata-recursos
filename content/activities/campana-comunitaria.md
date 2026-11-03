@@ -129,7 +129,7 @@ category:
   - Energía
 skills:
   - Liderazgo
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Conciencia social
 

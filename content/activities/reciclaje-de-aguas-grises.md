@@ -131,9 +131,9 @@ category:
   - Reciclaje
   - Biodiversidad
 skills:
-  - Diseño
+  - Creatividad
   - Investigación
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

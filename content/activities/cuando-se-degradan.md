@@ -135,8 +135,7 @@ category:
   - Biodegradación
   - Residuos
 skills:
-  - Observación científica
-  - Análisis de datos
+  - Pensamiento científico
   - Pensamiento crítico
   - Conciencia ambiental
 

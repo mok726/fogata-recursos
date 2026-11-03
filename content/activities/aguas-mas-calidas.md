@@ -128,7 +128,7 @@ skills:
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Aprender haciendo

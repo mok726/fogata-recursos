@@ -114,12 +114,11 @@ category:
 
 skills:
   - Creatividad
-  - Expresión musical
   - Trabajo en equipo
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:

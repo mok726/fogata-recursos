@@ -120,9 +120,8 @@ category:
   - Sostenibilidad
 
 skills:
-  - Cocina
-  - Planificación
-  - Conciencia alimentaria
+  - Salud y autocuidado
+  - Planificación y organización
 
 scout_values:
   - Salud

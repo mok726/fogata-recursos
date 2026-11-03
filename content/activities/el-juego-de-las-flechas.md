@@ -116,8 +116,8 @@ activity_type:
 category:
   - Juegos scouts
 skills:
-  - Memoria
-  - Repaso de técnicas
+  - Observación
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

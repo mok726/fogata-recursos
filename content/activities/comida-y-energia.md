@@ -129,8 +129,8 @@ category:
 skills:
   - Investigación
   - Conciencia ambiental
-  - Planificación
-  - Habilidades prácticas
+  - Planificación y organización
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:

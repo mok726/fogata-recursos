@@ -126,8 +126,8 @@ category:
   - Ejercicio
   - Física
 skills:
-  - Conciencia corporal
-  - Comprensión de conceptos
+  - Autoconciencia
+  - Pensamiento científico
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

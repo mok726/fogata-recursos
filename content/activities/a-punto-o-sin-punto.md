@@ -134,7 +134,6 @@ category:
   - Educación
 skills:
   - Pensamiento crítico
-  - Clasificación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
@@ -143,7 +142,7 @@ scout_values:
   - Naturaleza
   - Curiosidad y Apertura al aprendizaje
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

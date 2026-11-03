@@ -132,7 +132,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Conciencia cultural
+  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

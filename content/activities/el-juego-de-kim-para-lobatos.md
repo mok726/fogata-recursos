@@ -120,7 +120,6 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Memoria
   - Observación
 
 # ========== VALORES SCOUT ==========

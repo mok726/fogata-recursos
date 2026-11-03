@@ -117,9 +117,8 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Atención
-  - Reacción
-  - Reconocimiento de materiales
+  - Observación
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

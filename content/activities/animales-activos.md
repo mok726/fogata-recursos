@@ -132,7 +132,7 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Conciencia corporal
+  - Autoconciencia
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
@@ -141,7 +141,7 @@ scout_values:
   - Creatividad e Ingenio
 
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========

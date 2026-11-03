@@ -123,7 +123,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Comunicación visual
+  - Comunicación
 
 scout_values:
   - Responsabilidad

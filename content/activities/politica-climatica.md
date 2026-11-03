@@ -131,13 +131,12 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Análisis
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad
   - Justicia
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

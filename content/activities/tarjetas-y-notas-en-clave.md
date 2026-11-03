@@ -122,9 +122,8 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Código Morse
-  - Semáforo
-  - Lectura de señales
+  - Técnicas scout
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

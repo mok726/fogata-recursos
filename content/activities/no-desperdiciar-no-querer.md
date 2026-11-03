@@ -131,7 +131,7 @@ category:
   - Energía
 skills:
   - Observación
-  - Planificación
+  - Planificación y organización
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

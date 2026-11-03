@@ -120,7 +120,7 @@ category:
 skills:
   - Pensamiento sistémico
   - Creatividad
-  - Análisis
+  - Pensamiento crítico
 
 scout_values:
   - Responsabilidad

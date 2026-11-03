@@ -117,9 +117,8 @@ category:
   - Reciclaje
 
 skills:
-  - Organización
-  - Reuso
-  - Conciencia del papel
+  - Planificación y organización
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

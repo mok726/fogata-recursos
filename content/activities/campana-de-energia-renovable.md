@@ -117,14 +117,13 @@ category:
   - Campaña
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
-  - Promoción
 
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Participación comunitaria
+  - Solidaridad
 
 scout_method:
   - Participación comunitaria y Servicio

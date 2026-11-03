@@ -117,13 +117,13 @@ category:
   - Campaña
 
 skills:
-  - Habilidades manuales
-  - Emprendimiento
+  - Creatividad
+  - Planificación y organización
   - Conciencia ambiental
 
 scout_values:
   - Salud
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:

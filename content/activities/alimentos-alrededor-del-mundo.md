@@ -133,7 +133,7 @@ category:
   - Alimentación
   - Biodiversidad
 skills:
-  - Cocina
+  - Salud y autocuidado
   - Investigación
   - Comunicación
 

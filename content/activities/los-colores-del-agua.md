@@ -119,12 +119,11 @@ category:
 skills:
   - Creatividad
   - Observación
-  - Técnica fotográfica
 
 scout_values:
   - Naturaleza
-  - Creatividad e ingenio
-  - Curiosidad y apertura al aprendizaje
+  - Creatividad e Ingenio
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Aprender haciendo

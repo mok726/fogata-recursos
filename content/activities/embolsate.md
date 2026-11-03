@@ -125,12 +125,11 @@ category:
 
 skills:
   - Creatividad
-  - Habilidades manuales
   - Conciencia ambiental
 
 scout_values:
   - Sencillez y Austeridad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:

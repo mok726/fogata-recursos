@@ -118,15 +118,14 @@ category:
   - Juegos scouts
   - Primeros auxilios
 skills:
-  - Primeros auxilios
-  - Toma de decisiones
+  - Técnicas scout
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad
   - Salud
 scout_method:
-  - Aprender jugando
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

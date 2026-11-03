@@ -146,7 +146,6 @@ scout_values:
 
 scout_method:
   - Aprender haciendo
-  - Aprender jugando
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

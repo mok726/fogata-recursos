@@ -133,7 +133,7 @@ category:
   - Sostenibilidad
   - Clima
 skills:
-  - Planificación
+  - Planificación y organización
   - Observación
   - Responsabilidad
 

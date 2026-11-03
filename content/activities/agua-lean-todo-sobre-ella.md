@@ -144,7 +144,7 @@ skills:
 scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
-  - Comunicación
+  - Hermandad
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

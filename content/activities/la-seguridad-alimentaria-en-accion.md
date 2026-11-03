@@ -137,8 +137,8 @@ category:
 
 skills:
   - Observación
-  - Documentación
-  - Conciencia de seguridad
+  - Planificación y organización
+  - Resolución de problemas
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

@@ -133,9 +133,8 @@ category:
   - Observación
   - Biodiversidad
 skills:
-  - Construcción
+  - Creatividad
   - Observación
-  - Paciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

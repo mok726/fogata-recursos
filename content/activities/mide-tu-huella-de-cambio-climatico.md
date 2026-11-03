@@ -122,9 +122,9 @@ category:
   - Impacto ambiental
 
 skills:
-  - Cálculo
-  - Análisis
-  - Planificación
+  - Pensamiento científico
+  - Pensamiento crítico
+  - Planificación y organización
 
 scout_values:
   - Responsabilidad

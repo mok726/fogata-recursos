@@ -124,7 +124,6 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Persuasión
 
 scout_values:
   - Naturaleza

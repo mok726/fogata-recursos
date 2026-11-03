@@ -139,7 +139,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

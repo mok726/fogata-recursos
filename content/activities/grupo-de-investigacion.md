@@ -118,11 +118,11 @@ category:
 
 skills:
   - Investigación
-  - Análisis
-  - Planificación
+  - Pensamiento crítico
+  - Planificación y organización
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Superación personal
   - Naturaleza
 

@@ -124,8 +124,8 @@ category:
   - Naturaleza
   - Biodiversidad
 skills:
-  - Cuidado de animales
-  - Constancia
+  - Responsabilidad
+  - Autoconciencia
 
 # ========== VALORES SCOUT ==========
 scout_values:

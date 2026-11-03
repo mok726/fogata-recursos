@@ -132,7 +132,6 @@ category:
   - Análisis
 skills:
   - Pensamiento crítico
-  - Análisis de problemas
   - Conciencia social
 
 # ========== VALORES SCOUT ==========

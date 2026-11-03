@@ -134,9 +134,9 @@ category:
   - Educación
 
 skills:
-  - Pensamiento rápido
+  - Resolución de problemas
   - Trabajo en equipo
-  - Conciencia nutricional
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
@@ -145,7 +145,7 @@ scout_values:
   - Superación personal
 
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

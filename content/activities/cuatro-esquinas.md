@@ -135,7 +135,7 @@ scout_values:
   - Hermandad
 scout_method:
   - Sistema de equipos
-  - Aprender jugando
+  - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

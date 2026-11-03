@@ -136,7 +136,6 @@ category:
 skills:
   - Comunicación
   - Investigación
-  - Escritura
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

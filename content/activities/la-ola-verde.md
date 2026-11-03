@@ -138,9 +138,9 @@ category:
   - Global
   - Biodiversidad
 skills:
-  - Jardinería
-  - Participación social
+  - Hábitos sostenibles
   - Conciencia ambiental
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

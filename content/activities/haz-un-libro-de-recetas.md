@@ -136,7 +136,7 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia nutricional
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

@@ -119,9 +119,8 @@ category:
   - Información
 
 skills:
-  - Comunicación digital
+  - Comunicación
   - Investigación
-  - Creación de contenido
 
 scout_values:
   - Hermandad

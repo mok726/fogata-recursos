@@ -117,13 +117,12 @@ category:
 
 skills:
   - Creatividad
-  - Diseño
   - Comunicación
 
 scout_values:
   - Sencillez y Austeridad
   - Naturaleza
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Marco simbólico

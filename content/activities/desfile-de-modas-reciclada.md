@@ -118,11 +118,9 @@ category:
 
 skills:
   - Creatividad
-  - Diseño
-  - Expresión artística
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Optimismo y Alegría
   - Naturaleza
 

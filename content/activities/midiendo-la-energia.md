@@ -128,9 +128,9 @@ category:
   - Economía
 skills:
   - Investigación
-  - Análisis
+  - Pensamiento crítico
   - Conciencia ambiental
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

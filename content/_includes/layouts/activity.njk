@@ -587,7 +587,24 @@ async function shareActivity() {
 
     <ul class="method-list">
       {% for item in scout_method %}
-        <li>{{ item }}</li>
+        {% set href = item | taxonomyHref(scoutMethod, "/metodoScout/") %}
+        <li>{% if href %}<a href="{{ href | url }}" title="Ver actividades con «{{ item }}»">{{ item }}</a>{% else %}{{ item }}{% endif %}</li>
+      {% endfor %}
+    </ul>
+   </div>
+{% endif %}
+
+{% if scout_values %}
+  <div class="info-card">
+    <h3>
+      <span class="material-symbols-outlined" aria-hidden="true">diversity_3</span>
+        Valores Scout
+    </h3>
+
+    <ul class="method-list">
+      {% for item in scout_values %}
+        {% set href = item | taxonomyHref(scoutValues, "/valoresScout/") %}
+        <li>{% if href %}<a href="{{ href | url }}" title="Ver actividades con «{{ item }}»">{{ item }}</a>{% else %}{{ item }}{% endif %}</li>
       {% endfor %}
     </ul>
    </div>
@@ -598,7 +615,8 @@ async function shareActivity() {
         <h3><span class="material-symbols-outlined" aria-hidden="true">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
           {% for skill in skills %}
-            <li>{{ skill }}</li>
+            {% set href = skill | taxonomyHref(allskills, "/competencias/") %}
+            <li>{% if href %}<a href="{{ href | url }}" title="Ver actividades con «{{ skill }}»">{{ skill }}</a>{% else %}{{ skill }}{% endif %}</li>
           {% endfor %}
         </ul>
       </div>

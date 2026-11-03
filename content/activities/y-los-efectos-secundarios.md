@@ -132,8 +132,7 @@ category:
   - Comunidad
 skills:
   - Comunicación
-  - Escucha activa
-  - Análisis
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

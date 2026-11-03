@@ -132,7 +132,7 @@ category:
 skills:
   - Conciencia ambiental
   - Pensamiento crítico
-  - Comprensión numérica
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:

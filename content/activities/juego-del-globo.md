@@ -125,7 +125,7 @@ category:
   - Comercio
   - Energía
 skills:
-  - Conciencia global
+  - Conciencia social
   - Trabajo en equipo
   - Comunicación
 
@@ -135,7 +135,7 @@ scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

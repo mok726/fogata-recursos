@@ -118,8 +118,7 @@ category:
   - Juegos scouts
   - Orientación
 skills:
-  - Puntos cardinales
-  - Orientación
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

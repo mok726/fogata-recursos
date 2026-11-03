@@ -133,7 +133,7 @@ category:
   - Concientización
   - Energía
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Conciencia ambiental
   - Liderazgo

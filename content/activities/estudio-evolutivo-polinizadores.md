@@ -134,7 +134,6 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Análisis
 
 # ========== VALORES SCOUT ==========
 scout_values:

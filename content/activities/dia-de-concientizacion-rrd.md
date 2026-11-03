@@ -125,14 +125,13 @@ category:
   - RRD
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Trabajo en equipo
 
 scout_values:
   - Responsabilidad
   - Solidaridad
-  - Participación comunitaria
 
 scout_method:
   - Participación comunitaria y Servicio

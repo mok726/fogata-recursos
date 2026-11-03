@@ -136,7 +136,7 @@ category:
   - Navegación
   - Naturaleza
 skills:
-  - Orientación
+  - Técnicas scout
   - Observación
   - Resolución de problemas
 

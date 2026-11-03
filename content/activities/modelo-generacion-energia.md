@@ -132,7 +132,7 @@ skills:
   - Investigación
   - Creatividad
   - Conciencia ambiental
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

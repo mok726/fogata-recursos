@@ -118,13 +118,12 @@ category:
 
 skills:
   - Creatividad
-  - Construcción
   - Resolución de problemas
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Aprender haciendo

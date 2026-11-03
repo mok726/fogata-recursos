@@ -133,7 +133,7 @@ category:
   - Nutrición
 
 skills:
-  - Organización
+  - Planificación y organización
   - Trabajo en equipo
   - Conciencia social
 

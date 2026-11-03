@@ -121,7 +121,7 @@ category:
   - Alimentos
 skills:
   - Empatía
-  - Compartir
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

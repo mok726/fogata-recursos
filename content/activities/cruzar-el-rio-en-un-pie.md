@@ -117,8 +117,7 @@ category:
   - Juegos scouts
   - Salud
 skills:
-  - Equilibrio
-  - Resistencia
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

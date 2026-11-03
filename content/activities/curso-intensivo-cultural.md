@@ -123,7 +123,7 @@ skills:
 
 scout_values:
   - Respeto al prójimo
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Hermandad
 
 scout_method:

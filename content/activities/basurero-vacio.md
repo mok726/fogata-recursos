@@ -117,8 +117,8 @@ category:
   - Desafío
 
 skills:
-  - Reducción de residuos
-  - Planificación
+  - Hábitos sostenibles
+  - Planificación y organización
   - Trabajo en equipo
 
 scout_values:

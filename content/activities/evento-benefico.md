@@ -118,8 +118,7 @@ category:
   - Ambiental
 
 skills:
-  - Organización
-  - Recaudación
+  - Planificación y organización
   - Trabajo en equipo
 
 scout_values:

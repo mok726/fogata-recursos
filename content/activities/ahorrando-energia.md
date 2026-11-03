@@ -129,7 +129,7 @@ category:
   - Energía
   - Ahorro
 skills:
-  - Planificación
+  - Planificación y organización
   - Conciencia ambiental
   - Hábitos sostenibles
 

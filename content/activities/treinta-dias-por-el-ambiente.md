@@ -123,7 +123,7 @@ category:
 skills:
   - Responsabilidad
   - Observación
-  - Autogestión
+  - Planificación y organización
 
 scout_values:
   - Naturaleza

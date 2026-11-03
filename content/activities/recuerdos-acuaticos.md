@@ -131,7 +131,6 @@ category:
   - Creatividad
 skills:
   - Creatividad
-  - Escritura
   - Comunicación
 
 # ========== VALORES SCOUT ==========

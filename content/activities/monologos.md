@@ -116,7 +116,6 @@ category:
   - Agricultura
 
 skills:
-  - Argumentación
   - Pensamiento crítico
   - Comunicación
 

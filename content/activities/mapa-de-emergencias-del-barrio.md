@@ -122,8 +122,8 @@ category:
   - Prevención
 skills:
   - Observación
-  - Lectura de mapas
-  - Conciencia de seguridad
+  - Técnicas scout
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:

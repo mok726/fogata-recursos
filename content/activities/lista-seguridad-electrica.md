@@ -129,7 +129,7 @@ category:
 skills:
   - Observación
   - Responsabilidad
-  - Conciencia de seguridad
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -120,13 +120,13 @@ category:
 
 skills:
   - Investigación
-  - Entrevista
-  - Análisis
+  - Comunicación
+  - Pensamiento crítico
 
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Aprender haciendo

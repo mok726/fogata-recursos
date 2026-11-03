@@ -139,7 +139,7 @@ scout_values:
   - Solidaridad
 scout_method:
   - Participación comunitaria y Servicio
-  - Protagonismo juvenil
+  - Acompañamiento adulto / Protagonismo juvenil
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -124,7 +124,7 @@ skills:
   - Comunicación
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
   - Naturaleza
 

@@ -120,15 +120,14 @@ category:
   - Observación
 skills:
   - Observación
-  - Memoria
-  - Expresión oral
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Apertura al aprendizaje
   - Responsabilidad
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

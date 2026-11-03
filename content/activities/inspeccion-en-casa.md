@@ -123,7 +123,7 @@ category:
 
 skills:
   - Observación
-  - Planificación
+  - Planificación y organización
   - Responsabilidad
 
 scout_values:

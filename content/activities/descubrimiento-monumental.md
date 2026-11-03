@@ -136,7 +136,7 @@ category:
 skills:
   - Observación
   - Investigación
-  - Conciencia cultural
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

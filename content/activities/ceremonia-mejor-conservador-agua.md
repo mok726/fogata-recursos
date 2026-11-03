@@ -143,7 +143,7 @@ scout_values:
   - Sencillez y Austeridad
 scout_method:
   - Marco simbólico
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

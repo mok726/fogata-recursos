@@ -131,7 +131,7 @@ category:
 skills:
   - Creatividad
   - Conciencia ambiental
-  - Síntesis de información
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -135,7 +135,7 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Servicio comunitario
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:

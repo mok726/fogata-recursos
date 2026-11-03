@@ -118,9 +118,9 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
   - Optimismo y Alegría
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Marco simbólico

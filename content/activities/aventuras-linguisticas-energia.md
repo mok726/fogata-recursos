@@ -133,7 +133,7 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia cultural
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
@@ -141,7 +141,7 @@ scout_values:
   - Hermandad
   - Creatividad e Ingenio
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

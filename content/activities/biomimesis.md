@@ -132,9 +132,9 @@ category:
   - Tecnología
   - Biodiversidad
 skills:
-  - Pensamiento creativo
+  - Creatividad
   - Investigación
-  - Conexión sistémica
+  - Pensamiento sistémico
 
 # ========== VALORES SCOUT ==========
 scout_values:

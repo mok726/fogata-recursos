@@ -135,7 +135,6 @@ category:
   - Sostenibilidad
 skills:
   - Creatividad
-  - Imaginación
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

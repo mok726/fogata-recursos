@@ -119,8 +119,8 @@ category:
   - Ceremonias
   - Libro de la Selva
 skills:
-  - Expresión corporal
-  - Atención a consignas
+  - Creatividad
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:

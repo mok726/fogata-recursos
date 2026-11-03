@@ -117,14 +117,14 @@ category:
   - Ahorro
 
 skills:
-  - Consumo responsable
-  - Organización
+  - Hábitos sostenibles
+  - Planificación y organización
   - Comunicación
 
 scout_values:
   - Sencillez y Austeridad
   - Responsabilidad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
 
 scout_method:
   - Aprender haciendo

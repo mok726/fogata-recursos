@@ -121,11 +121,11 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación visual
-  - Organización
+  - Comunicación
+  - Planificación y organización
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Responsabilidad
   - Naturaleza
 

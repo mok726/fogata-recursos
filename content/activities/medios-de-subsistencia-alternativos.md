@@ -146,7 +146,6 @@ scout_values:
   - Sencillez y Austeridad
 
 scout_method:
-  - Aprender jugando
   - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

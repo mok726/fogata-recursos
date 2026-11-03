@@ -120,8 +120,8 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Uso de los sentidos
-  - Orientación
+  - Observación
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

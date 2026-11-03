@@ -130,8 +130,8 @@ category:
   - Naturaleza
   - Conservación
 skills:
-  - Prevención
-  - Orientación por el viento
+  - Resolución de problemas
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:

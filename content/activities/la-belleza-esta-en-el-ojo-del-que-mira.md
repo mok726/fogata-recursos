@@ -136,7 +136,7 @@ category:
   - Cocina
   - Sostenibilidad
 skills:
-  - Cocina
+  - Salud y autocuidado
   - Creatividad
   - Comunicación
 

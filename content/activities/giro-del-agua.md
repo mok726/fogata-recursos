@@ -141,7 +141,7 @@ scout_values:
   - Naturaleza
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

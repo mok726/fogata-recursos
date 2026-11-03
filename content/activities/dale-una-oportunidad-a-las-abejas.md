@@ -145,9 +145,9 @@ category:
   - Hábitat
   - Polinizadores
 skills:
-  - Jardinería
-  - Observación
+  - Hábitos sostenibles
   - Conciencia ambiental
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:

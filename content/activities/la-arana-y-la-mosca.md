@@ -119,16 +119,16 @@ category:
   - Juegos scouts
   - Acecho
 skills:
-  - Acecho
+  - Técnicas scout
   - Comunicación
-  - Planificación
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Hermandad
   - Optimismo y Alegría
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
   - Vida en la Naturaleza y Aventura
 

@@ -117,12 +117,12 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Escucha activa
+  - Comunicación
 
 scout_values:
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Hermandad
-  - Curiosidad y apertura al aprendizaje
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Marco simbólico

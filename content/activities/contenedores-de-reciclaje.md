@@ -116,9 +116,9 @@ category:
   - Separación
 
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
-  - Reciclaje
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad

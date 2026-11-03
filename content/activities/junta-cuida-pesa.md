@@ -134,7 +134,7 @@ scout_values:
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza
+  - Vida en la Naturaleza y Aventura
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

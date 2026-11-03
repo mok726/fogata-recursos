@@ -135,12 +135,12 @@ category:
   - Ciudades
 skills:
   - Liderazgo
-  - Organización
+  - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Participación comunitaria
+  - Solidaridad
   - Hermandad
   - Optimismo y Alegría
 scout_method:

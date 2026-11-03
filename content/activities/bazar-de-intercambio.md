@@ -117,8 +117,8 @@ category:
   - Reciclaje
 
 skills:
-  - Organización
-  - Promoción
+  - Planificación y organización
+  - Comunicación
   - Trabajo en equipo
 
 scout_values:

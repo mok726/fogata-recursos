@@ -115,11 +115,11 @@ category:
 
 skills:
   - Empatía
-  - Equilibrio
-  - Reflexión
+  - Destreza física
+  - Pensamiento crítico
 
 scout_values:
-  - Igualdad de género
+  - Justicia
   - Solidaridad
   - Respeto al prójimo
 

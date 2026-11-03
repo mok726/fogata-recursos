@@ -121,12 +121,12 @@ category:
 skills:
   - Creatividad
   - Investigación
-  - Comunicación visual
+  - Comunicación
 
 scout_values:
   - Naturaleza
-  - Creatividad e ingenio
-  - Curiosidad y apertura al aprendizaje
+  - Creatividad e Ingenio
+  - Curiosidad y Apertura al aprendizaje
 
 scout_method:
   - Aprender haciendo

@@ -118,9 +118,9 @@ category:
   - Salud
 
 skills:
-  - Movilidad sostenible
+  - Hábitos sostenibles
   - Responsabilidad
-  - Autonomía
+  - Autoconciencia
 
 scout_values:
   - Salud

@@ -132,7 +132,7 @@ category:
   - Juego
   - Conocimiento
 skills:
-  - Memoria
+  - Observación
   - Trabajo en equipo
   - Conciencia ambiental
 
@@ -142,7 +142,7 @@ scout_values:
   - Hermandad
   - Creatividad e Ingenio
 scout_method:
-  - Aprender jugando
+  - Aprender haciendo
   - Sistema de equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

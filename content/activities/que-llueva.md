@@ -140,7 +140,7 @@ scout_values:
   - Hermandad
 scout_method:
   - Vida en la Naturaleza y Aventura
-  - Aprender jugando
+  - Aprender haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -129,9 +129,8 @@ category:
   - Consumo
   - Clima
 skills:
-  - Análisis
-  - Planificación
   - Pensamiento crítico
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -135,7 +135,6 @@ category:
   - Inspiración
   - Ciudades
 skills:
-  - Análisis
   - Pensamiento crítico
   - Comunicación
 

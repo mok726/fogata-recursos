@@ -139,7 +139,7 @@ skills:
 scout_values:
   - Responsabilidad
   - Naturaleza
-  - Participación comunitaria
+  - Solidaridad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

@@ -132,7 +132,7 @@ category:
   - Escasez
   - Datos
 skills:
-  - Análisis de datos
+  - Pensamiento científico
   - Pensamiento crítico
   - Conciencia social
 

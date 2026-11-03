@@ -116,13 +116,12 @@ category:
   - Comunicación
 
 skills:
-  - Comunicación digital
+  - Comunicación
   - Creatividad
-  - Persuasión
 
 scout_values:
   - Responsabilidad
-  - Creatividad e ingenio
+  - Creatividad e Ingenio
   - Naturaleza
 
 scout_method:
