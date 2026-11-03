@@ -1,9 +1,9 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprender Haciendo - Bolsa Reutilizable con Remera"
+title: "Bolsa Reutilizable con Remera"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
-permalink: "/activities/aprender-haciendo-bolsa-camiseta/"
+permalink: "/activities/bolsa-camiseta/"
 description: "Los jóvenes transforman una remera vieja en una bolsa de compras reutilizable, aprendiendo sobre la reutilización de materiales y reduciendo el uso de bolsas plásticas de un solo uso."
 summary: "Creá una bolsa reutilizable con una remera vieja."
 
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/aprender-haciendo-bolsa-camiseta.jpg"
+image: "/imagenes/actividades/bolsa-camiseta.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
