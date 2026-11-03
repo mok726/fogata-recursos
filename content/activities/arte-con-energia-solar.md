@@ -144,7 +144,11 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 39 # Uso programas y aplicaciones que me ayudan en mi vida cotidiana.
+  - 30 # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+  - 34 # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
 rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza
   - 46  # Exploro técnicas para resolver problemas y encontrar soluciones creativas

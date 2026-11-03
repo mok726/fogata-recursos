@@ -159,7 +159,9 @@ rama_caminantes:
   - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
   - 36  # Trabajo en mi superación personal, enfocándome en mis intereses personales.
 
-rama_rovers: []  # No aplica (actividad nivel 2)
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # En Movimiento

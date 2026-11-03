@@ -132,7 +132,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
+  - 30 # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
 
 rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.

@@ -140,7 +140,11 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 43 # Organizo mis tiempos en las distintas actividades y responsabilidades, teniendo en cuenta mi tiempo libre y de juego.
+  - 9  # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
+  - 37 # Me responsabilizo por distintas tareas en mi Manada y seisena.
 rama_scouts:
   - 13  # Identifico situaciones de riesgo y adopto prácticas seguras
   - 50  # Organizo mi tiempo adecuadamente

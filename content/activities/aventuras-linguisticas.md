@@ -143,8 +143,12 @@ rama_scouts:
   - 16  # Exploro y me identifico con la cultura de mi comunidad.
   - 17  # Valoro mi historia e identidad.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 16 # Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones).
+  - 21 # Cuestiono mis prejuicios y estereotipos culturales entendiendo cómo estos influyen en las interacciones con otras personas.
+rama_rovers:
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
 ---
 
 # ¡Aventuras Lingüísticas!

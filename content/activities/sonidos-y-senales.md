@@ -154,11 +154,17 @@ rama_lobatos:
   - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas.
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
 
-rama_scouts: []  # No aplica (actividad nivel 1)
+rama_scouts:
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
 
-rama_caminantes: []  # No aplica (actividad nivel 1)
+rama_caminantes:
+  - 25 # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
 
-rama_rovers: []  # No aplica (actividad nivel 1)
+rama_rovers:
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # Sonidos y Señales

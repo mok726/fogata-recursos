@@ -141,8 +141,14 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 15 # Conozco mis derechos como niña o niño e identifico cuando estos son vulnerados.
+rama_scouts:
+  - 19 # Ejercito y promuevo prácticas que fomenten la participación democrática en los diferentes contextos en donde me desenvuelvo.
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 18 # Valoro y respeto la importancia de los Derechos Humanos en la sociedad e identifico situaciones de vulneración de estos, buscando activamente ayuda en mi entorno.
 rama_caminantes:
   - 18
   - 25

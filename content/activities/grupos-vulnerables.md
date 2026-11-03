@@ -133,9 +133,13 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
 
-rama_scouts: []
+rama_scouts:
+  - 22 # Fomento el respeto a la diversidad en todas sus formas, cuestionando estereotipos y prejuicios en mis interacciones diarias.
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
 
 rama_caminantes:
   - 21  # Cuestiono mis prejuicios y estereotipos culturales.

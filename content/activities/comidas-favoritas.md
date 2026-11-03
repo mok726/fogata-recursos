@@ -161,7 +161,10 @@ rama_caminantes:
   - 1   # Adopto y promuevo hábitos de alimentación e higiene saludables.
   - 29  # Adopto un estilo de vida responsable y sostenible.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
 ---
 
 # Comidas Favoritas

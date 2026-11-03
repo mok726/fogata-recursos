@@ -154,8 +154,13 @@ rama_lobatos:
 rama_scouts:
   - 31
   - 35
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 30 # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+rama_rovers:
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
 ---
 
 # ¡Mínimo Impacto a la Naturaleza!

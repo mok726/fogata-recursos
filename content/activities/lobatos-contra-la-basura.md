@@ -145,9 +145,21 @@ rama_lobatos:
   - 25  # Colaboro con otras personas en acciones de cuidado del planeta.
   - 19  # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 33 # Participó de iniciativas para construir una sociedad más respetuosa con el planeta.
+  - 24 # Identifico oportunidades para ayudar a alguien de manera individual y/o colectiva, sin esperar nada a cambio.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 30 # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.
+  - 23 # Me involucro de forma empática y activa, en acciones solidarias en la comunidad.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 27 # Me involucro, planifico y desarrollo acciones comunitarias que sean sostenibles y tengan un impacto socioambiental positivo.
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡Lobatos contra la Basura!

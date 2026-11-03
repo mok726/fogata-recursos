@@ -147,7 +147,10 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 2  # Mantengo una buena higiene personal para tener una vida saludable.
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 1  # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
 
 rama_scouts:
   - 1   # Incorporo hábitos de higiene.

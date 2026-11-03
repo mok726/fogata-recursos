@@ -160,7 +160,10 @@ rama_caminantes:
   - 31  # Soy consciente sobre la conexión e interdependencia.
   - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # ¿Quién Se Come a Quién?

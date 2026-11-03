@@ -144,9 +144,18 @@ rama_lobatos:
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
   - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 13 # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+rama_caminantes:
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 12 # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad y bienestar, así como el de las personas que me rodean.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # ¡Preparar y Encender un Fuego!

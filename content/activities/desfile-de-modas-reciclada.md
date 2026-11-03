@@ -131,7 +131,11 @@ scout_method:
   - Aprender haciendo
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 47 # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 31 # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
 rama_scouts:
   - 53  # Participo de manifestaciones artísticas.
   - 41  # Experimento diferentes medios y tecnologías.

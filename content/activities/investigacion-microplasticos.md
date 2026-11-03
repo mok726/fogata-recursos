@@ -145,8 +145,14 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 4  # Cuestiono los modelos de cuerpos que veo en los medios de comunicación, en la publicidad, en el deporte y el espectáculo.
+  - 7  # Cuido mi privacidad e intimidad y respeto la de las demás personas.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
+rama_scouts:
+  - 4  # Soy crítica/o con las imágenes y mensajes que los medios de comunicación y las redes sociales nos presentan sobre los modelos corporales y las modas.
+  - 8  # Identifico y respeto mis emociones y sentimientos vinculados a la sexualidad y sus cambios.
+  - 47 # Busco información en diversas fuentes, y evalúo su veracidad y relevancia antes de aplicarla de manera crítica y creativa en diferentes situaciones y contextos.
 rama_caminantes:
   - 3   # Adopto una mirada crítica sobre imágenes y mensajes de los medios
   - 7   # Me informo y tomo decisiones responsables sobre mi salud

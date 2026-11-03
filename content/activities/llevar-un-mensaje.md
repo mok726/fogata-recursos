@@ -137,9 +137,18 @@ rama_lobatos:
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 46  # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+rama_caminantes:
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Llevar un Mensaje!

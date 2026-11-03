@@ -140,8 +140,15 @@ rama_scouts:
   - 31  # Reconozco mi impacto en el ambiente.
   - 49  # Administro mis recursos de forma responsable.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 39 # Me informo, exploro y experimento sobre las distintas opciones dentro del mundo del trabajo en función a mis intereses.
+  - 44 # Planifico y administro responsablemente mis recursos, de forma ética.
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 18 # Desarrollo habilidades para el mundo laboral.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 19 # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
 ---
 
 # ¡Camisetas Sucias!

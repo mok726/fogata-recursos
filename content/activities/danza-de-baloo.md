@@ -137,9 +137,18 @@ rama_lobatos:
   - 23  # Intento vivir la Ley de la Manada en mis acciones cotidianas.
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
   - 17  # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 29 # Adhiero a los valores expresados en la Ley y la Promesa Scout comprendiendo su importancia para mi vida.
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+  - 20 # Respeto los acuerdos de convivencia y las decisiones tomadas por los demás, expresando mis propias ideas y posturas de manera empática y respetuosa.
+rama_caminantes:
+  - 28 # Reconozco cómo mis creencias, prioridades y valores influyen en mis decisiones cotidianas para vivir de manera auténtica y coherente con lo que creo y valoro.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 19 # Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.
+rama_rovers:
+  - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
 ---
 
 # ¡La Danza de Baloo!

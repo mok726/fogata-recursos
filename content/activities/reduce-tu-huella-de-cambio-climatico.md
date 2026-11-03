@@ -132,8 +132,12 @@ scout_method:
   - Ley y Promesa
 
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 42 # Sé usar el dinero y utilizar mis recursos de manera responsable.
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 49 # Administro mis recursos y mi dinero de forma responsable.
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable y sostenible.
   - 44  # Planifico y administro responsablemente mis recursos.

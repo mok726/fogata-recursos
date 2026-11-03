@@ -130,7 +130,9 @@ scout_method:
   - Aprender haciendo
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
 rama_scouts:
   - 40  # Exploro temas de mi interés.
   - 52  # Desarrollo habilidades para comunicarme.

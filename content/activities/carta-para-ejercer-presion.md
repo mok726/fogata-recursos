@@ -150,7 +150,10 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 15 # Conozco mis derechos como niña o niño e identifico cuando estos son vulnerados.
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 
 rama_scouts:
   - 18  # Valoro y respeto la importancia de los Derechos Humanos.

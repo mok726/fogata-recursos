@@ -131,9 +131,13 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 42 # Sé usar el dinero y utilizar mis recursos de manera responsable.
+  - 37 # Me responsabilizo por distintas tareas en mi Manada y seisena.
 
-rama_scouts: []
+rama_scouts:
+  - 49 # Administro mis recursos y mi dinero de forma responsable.
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
 
 rama_caminantes:
   - 44  # Planifico y administro responsablemente mis recursos.

@@ -139,7 +139,9 @@ rama_scouts:
 rama_caminantes:
   - 23  # Me involucro en acciones solidarias.
   - 44  # Planifico y administro mis recursos.
-rama_rovers: []
+rama_rovers:
+  - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
+  - 19 # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
 ---
 
 # ¡Compartí y Reusá!

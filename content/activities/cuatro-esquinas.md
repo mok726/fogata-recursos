@@ -139,8 +139,14 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
+rama_scouts:
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 33 # Participó de iniciativas para construir una sociedad más respetuosa con el planeta.
+  - 19 # Ejercito y promuevo prácticas que fomenten la participación democrática en los diferentes contextos en donde me desenvuelvo.
 rama_caminantes:
   - 25
   - 30

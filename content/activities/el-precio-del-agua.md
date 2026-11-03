@@ -133,9 +133,11 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
 
-rama_scouts: []
+rama_scouts:
+  - 19 # Ejercito y promuevo prácticas que fomenten la participación democrática en los diferentes contextos en donde me desenvuelvo.
 
 rama_caminantes:
   - 18  # Ejercito mis derechos como ciudadano.

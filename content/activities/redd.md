@@ -148,9 +148,15 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
 
-rama_lobatos: []  # No aplica (actividad nivel 3)
+rama_lobatos:
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 40 # Busco información en diferentes fuentes (libros, revistas, sitios web, videos, etc.) y me aseguro de que sea útil y verdadera antes de usarla o compartirla.
+  - 26 # Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan.
 
-rama_scouts: []  # No aplica (actividad nivel 3)
+rama_scouts:
+  - 33 # Participó de iniciativas para construir una sociedad más respetuosa con el planeta.
+  - 47 # Busco información en diversas fuentes, y evalúo su veracidad y relevancia antes de aplicarla de manera crítica y creativa en diferentes situaciones y contextos.
+  - 34 # Comprendo las causas y consecuencias del impacto ambiental y realizo acciones para preservar y proteger el ambiente.
 
 rama_caminantes:
   - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.

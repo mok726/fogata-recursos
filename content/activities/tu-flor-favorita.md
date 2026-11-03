@@ -134,9 +134,15 @@ rama_lobatos:
   - 29  # Disfruto de descubrir la diversidad en la naturaleza.
   - 47  # Expreso mis emociones a través de medios artísticos.
 
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Tu Flor Favorita!

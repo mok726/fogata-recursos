@@ -142,9 +142,18 @@ rama_lobatos:
   - 42  # Sé usar el dinero y utilizar mis recursos de manera responsable.
   - 24  # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
   - 43  # Organizo mis tiempos en las distintas actividades y responsabilidades, teniendo en cuenta mi tiempo libre y de juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 49 # Administro mis recursos y mi dinero de forma responsable.
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 50 # Organizo mi tiempo en forma adecuada diferenciando mis responsabilidades de mi tiempo libre.
+rama_caminantes:
+  - 44 # Planifico y administro responsablemente mis recursos, de forma ética.
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 19 # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡El Ahorro de los Lobos!

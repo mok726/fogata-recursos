@@ -143,7 +143,10 @@ rama_scouts:
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable y sostenible.
   - 44  # Planifico y administro responsablemente mis recursos.
-rama_rovers: []
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 19 # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
 ---
 
 # ¡Cuidemos Nuestro Medio Ambiente!

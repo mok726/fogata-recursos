@@ -129,8 +129,14 @@ scout_method:
   - Progresión personal
 
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 27 # Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 35 # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+  - 36 # Entiendo que la Tierra es un lugar precioso y único en el universo, y que todos tenemos la responsabilidad de protegerla y mantenerla saludable.
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable.
   - 31  # Soy consciente sobre la conexión e interdependencia.

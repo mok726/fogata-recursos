@@ -146,8 +146,12 @@ rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.
   - 41  # Experimento diferentes medios y tecnologías.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # ¡Maravillas Agusanadas!

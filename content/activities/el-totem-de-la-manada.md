@@ -141,9 +141,18 @@ rama_lobatos:
   - 37  # Me responsabilizo por distintas tareas en mi Manada y seisena.
   - 36  # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 44 # Asumo un rol de manera responsable en los proyectos y/o actividades de mi Patrulla y/o Unidad.
+  - 43 # Comparto mis pasatiempos y especialidades con amigas y amigos, buscando intereses comunes que podamos desarrollar en conjunto.
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+rama_caminantes:
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
+  - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡El Tótem de la Manada!

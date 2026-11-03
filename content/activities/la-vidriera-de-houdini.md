@@ -134,9 +134,18 @@ rama_lobatos:
   - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
   - 32  # Me intereso por aprender cosas nuevas.
   - 12  # Me intereso por la cultura de mi comunidad y mi país.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 16 # Exploro y me identifico con la cultura de mi comunidad y de mi país proponiendo actividades y proyectos con esta temática.
+rama_caminantes:
+  - 25 # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 16 # Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones).
+rama_rovers:
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
 ---
 
 # ¡La Vidriera de Houdini!

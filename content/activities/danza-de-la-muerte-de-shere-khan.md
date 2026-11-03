@@ -137,9 +137,18 @@ rama_lobatos:
   - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 12  # Me intereso por la cultura de mi comunidad y mi país.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 16 # Exploro y me identifico con la cultura de mi comunidad y de mi país proponiendo actividades y proyectos con esta temática.
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 16 # Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones).
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
 ---
 
 # ¡La Danza de la Muerte de Shere Khan!

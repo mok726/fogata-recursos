@@ -143,7 +143,11 @@ scout_method:
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 18 # Participó e incluyo a todas las personas sin discriminarlas.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
+  - 19 # Realizo acciones solidarias para ayudar a las personas que lo necesitan y mejorar los lugares en donde vivo.
 rama_scouts:
   - 23  # Promuevo la participación e inclusión de todas las personas
   - 25  # Me comprometo y animo a otras personas a trabajar en conjunto

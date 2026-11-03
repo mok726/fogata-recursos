@@ -164,7 +164,9 @@ rama_caminantes:
   - 10  # Me involucro en actividades físicas y deportivas.
   - 11  # Comparto actividades recreativas, deportivas y lúdicas.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # Aventuras al Aire Libre

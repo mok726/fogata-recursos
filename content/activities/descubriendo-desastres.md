@@ -133,7 +133,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 26 # Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan.
+  - 25 # Colaboro con otras personas en acciones de cuidado del planeta.
 
 rama_scouts:
   - 26  # Observo lo que pasa a mi alrededor y trato de entender las razones.

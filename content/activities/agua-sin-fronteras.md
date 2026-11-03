@@ -130,9 +130,13 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
 
-rama_scouts: []
+rama_scouts:
+  - 19 # Ejercito y promuevo prácticas que fomenten la participación democrática en los diferentes contextos en donde me desenvuelvo.
+  - 22 # Fomento el respeto a la diversidad en todas sus formas, cuestionando estereotipos y prejuicios en mis interacciones diarias.
 
 rama_caminantes:
   - 19  # Fomento ámbitos de participación democráticos.

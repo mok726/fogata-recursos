@@ -143,9 +143,17 @@ rama_lobatos:
   - 24  # Cuido del planeta utilizando los recursos de forma responsable
   - 27  # Comprendo que en la naturaleza todo está relacionado
   - 28  # Entiendo que mis acciones tienen un impacto en el Planeta Tierra
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 35 # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+  - 31 # Reconozco mi impacto en el ambiente y en la sociedad, adoptando un estilo de vida responsable y sostenible.
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 
 # ========== AVISO DE TRADUCCIÓN ==========
 translation_notice:

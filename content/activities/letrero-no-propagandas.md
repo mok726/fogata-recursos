@@ -133,9 +133,15 @@ rama_castores: []
 rama_lobatos:
   - 24  # Cuido del planeta.
   - 47  # Expreso mis emociones a través de medios artísticos.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
 # ¡Letrero "No Propagandas"!

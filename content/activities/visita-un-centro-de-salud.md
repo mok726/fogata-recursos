@@ -146,7 +146,11 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 10 # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
+  - 45 # Pido ayuda y también ayudo a los demás para enfrentar algunas dificultades.
+  - 1  # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
 
 rama_scouts:
   - 5   # Busco información y tomo decisiones conscientes para cuidar mi salud.

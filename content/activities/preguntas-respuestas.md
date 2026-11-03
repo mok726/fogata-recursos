@@ -131,7 +131,9 @@ scout_method:
   - Sistema de equipos
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
 rama_scouts:
   - 26  # Observo lo que pasa a mi alrededor.
   - 52  # Desarrollo habilidades para comunicarme.

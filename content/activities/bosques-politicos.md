@@ -148,9 +148,15 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
 
-rama_lobatos: []  # No aplica (actividad nivel 3)
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 21 # Hablo con los demás sobre lo que creo y respeto lo que las otras personas creen.
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
 
-rama_scouts: []  # No aplica (actividad nivel 3)
+rama_scouts:
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+  - 28 # Dialogo con los demás sobre lo que creo y busco conocer lo que los otros creen, demostrando respeto e interés.
+  - 22 # Fomento el respeto a la diversidad en todas sus formas, cuestionando estereotipos y prejuicios en mis interacciones diarias.
 
 rama_caminantes:
   - 25  # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales.

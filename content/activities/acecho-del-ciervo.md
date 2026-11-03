@@ -136,9 +136,17 @@ rama_lobatos:
   - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 38 # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+rama_caminantes:
+  - 34 # Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡Acecho del Ciervo!

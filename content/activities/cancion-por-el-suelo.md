@@ -130,9 +130,15 @@ rama_castores: []
 rama_lobatos:
   - 47  # Expreso mis emociones a través de medios artísticos.
   - 46  # Expreso mis ideas de forma clara y amable.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 53 # Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+  - 52 # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
 # ¡Canción por el Suelo!

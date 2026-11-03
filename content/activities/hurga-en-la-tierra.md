@@ -142,8 +142,12 @@ rama_scouts:
   - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.
   - 41  # Experimento diferentes medios y tecnologías.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  - 42 # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
 # ¡Hurga en la Tierra!

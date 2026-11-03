@@ -139,9 +139,18 @@ rama_lobatos:
   - 2   # Mantengo una buena higiene personal para tener una vida saludable.
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 43  # Organizo mis tiempos en las distintas actividades y responsabilidades, teniendo en cuenta mi tiempo libre y de juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 1  # Incorporo hábitos de higiene.
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 50 # Organizo mi tiempo en forma adecuada diferenciando mis responsabilidades de mi tiempo libre.
+rama_caminantes:
+  - 1  # Adopto y promuevo hábitos de alimentación e higiene saludables.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 45 # Establezco prioridades en las tareas administrando el uso del tiempo y los recursos disponibles para lograr los objetivos.
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
 # ¡Uñas, Dientes y Pies!

@@ -161,7 +161,8 @@ rama_scouts:
 rama_caminantes:
   - 33
   - 34
-rama_rovers: []
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # ¡BioBlitz - Exploración del Área Natural!

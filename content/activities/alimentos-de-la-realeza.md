@@ -148,7 +148,11 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
 
-rama_lobatos: []  # No aplica (actividad nivel 2-3)
+rama_lobatos:
+  - 20 # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
+  - 32 # Me intereso por aprender cosas nuevas.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
 
 rama_scouts:
   - 26  # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades.

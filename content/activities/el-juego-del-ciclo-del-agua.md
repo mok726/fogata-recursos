@@ -147,8 +147,12 @@ rama_scouts:
   - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.
   - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # ¡El Juego del Ciclo del Agua!

@@ -132,7 +132,10 @@ scout_method:
   - Progresión personal
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+  - 34 # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
+  - 36 # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
 rama_scouts:
   - 41  # Experimento diferentes medios y tecnologías.
   - 42  # Aplico mi conocimiento y habilidades para resolver desafíos.

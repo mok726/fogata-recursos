@@ -167,7 +167,11 @@ rama_caminantes:
   - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
   - 35  # Reconozco a la naturaleza como una fuente de bienestar.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # Árbol de Deseos

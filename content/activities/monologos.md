@@ -130,7 +130,11 @@ scout_method:
   - Sistema de equipos
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 17 # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 16 # Participó de las decisiones que me involucran y respeto los acuerdos que realizamos.
+  - 11 # Ante una pelea o situación de conflicto recurro al diálogo para resolverla.
 rama_scouts:
   - 20  # Respeto los acuerdos y expreso mis ideas.
   - 52  # Desarrollo habilidades para comunicarme.

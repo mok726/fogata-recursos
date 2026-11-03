@@ -140,8 +140,14 @@ rama_scouts:
   - 3  # Reconozco y expreso mis emociones.
   - 7  # Reconozco los cambios de mi cuerpo.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 2  # Expreso mis emociones entendiendo cómo me afectan a mí e influyen en mi entorno.
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 4  # Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, entendiendo que es único y valioso.
+rama_rovers:
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 14 # Reconozco, acepto y valoro mi cuerpo y el de los demás en su integralidad.
 ---
 
 # ¡La Gallina Ciega!

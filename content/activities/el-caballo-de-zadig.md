@@ -137,9 +137,18 @@ rama_lobatos:
   - 34  # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
   - 32  # Me intereso por aprender cosas nuevas.
   - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+rama_caminantes:
+  - 38 # Afronto creativamente los desafíos y problemas que se me presentan y aporto soluciones innovadoras.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 25 # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno.
+rama_rovers:
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
 ---
 
 # ¡El Caballo de Zadig!

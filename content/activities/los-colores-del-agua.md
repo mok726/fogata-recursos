@@ -140,8 +140,12 @@ rama_scouts:
   - 37  # Exploro oportunidades para conectarme con la naturaleza.
   - 39  # Exploro y contemplo la naturaleza como un espacio de bienestar.
 
-rama_caminantes: []
-rama_rovers: []
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 35 # Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # ¡Los Colores del Agua!

@@ -154,11 +154,17 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos.
   - 18  # Participo e incluyo a todas las personas sin discriminarlas.
 
-rama_scouts: []  # No aplica (actividad nivel 1)
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 23 # Promuevo la participación e inclusión de todas las personas, sin discriminación alguna.
 
-rama_caminantes: []  # No aplica (actividad nivel 1)
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 22 # Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas en mis actividades.
 
-rama_rovers: []  # No aplica (actividad nivel 1)
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
 ---
 
 # Sillas Hambrientas

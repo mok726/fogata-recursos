@@ -132,7 +132,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 27 # Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 31 # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
 
 rama_scouts:
   - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.

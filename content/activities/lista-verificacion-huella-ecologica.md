@@ -160,7 +160,10 @@ rama_scouts:
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable y sostenible
   - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental
-rama_rovers: []
+rama_rovers:
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 27 # Me involucro, planifico y desarrollo acciones comunitarias que sean sostenibles y tengan un impacto socioambiental positivo.
 ---
 
 # ¡Lista de Verificación de la Huella Ecológica!

@@ -151,7 +151,10 @@ rama_scouts:
 rama_caminantes:
   - 2   # Expreso mis emociones entendiendo cómo me afectan
   - 36  # Trabajo en mi superación personal
-rama_rovers: []
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 translation_notice:
   en: "This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."

@@ -135,9 +135,17 @@ rama_lobatos:
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 5   # Valoro y cuido mi cuerpo tal como es para estar saludable y evito comparaciones con el cuerpo de las demás.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 6  # Acepto y valoro mi cuerpo y el de los demás, evitando comparaciones.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+rama_caminantes:
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 4  # Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, entendiendo que es único y valioso.
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 14 # Reconozco, acepto y valoro mi cuerpo y el de los demás en su integralidad.
 ---
 
 # ¡Caminar como Aguatero!

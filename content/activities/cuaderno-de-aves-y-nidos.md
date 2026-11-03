@@ -142,9 +142,18 @@ rama_lobatos:
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
   - 31  # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
   - 27  # Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+  - 39 # Exploro y contemplo la naturaleza como un espacio que me permite el bienestar para mí, ayudándome a conectar con lo trascendente.
+  - 35 # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+rama_caminantes:
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  - 35 # Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.
+  - 31 # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
 ---
 
 # ¡Cuaderno de Aves y Nidos!

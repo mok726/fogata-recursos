@@ -136,9 +136,16 @@ rama_lobatos:
   - 12  # Me intereso por la cultura de mi comunidad y mi país.
   - 14  # Conozco mi historia, la de mi familia y de mi país.
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 16 # Exploro y me identifico con la cultura de mi comunidad y de mi país proponiendo actividades y proyectos con esta temática.
+  - 17 # Valoro mi historia e identidad, la de mi País y respeto sus símbolos patrios.
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+rama_caminantes:
+  - 16 # Valoro mi historia e identidad y promuevo la herencia cultural de mi comunidad y país (costumbres, leyendas, danzas, mitos, artesanías, tradiciones).
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+rama_rovers:
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
 # ¡El Juego de las Banderas!

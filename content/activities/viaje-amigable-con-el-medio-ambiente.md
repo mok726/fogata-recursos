@@ -131,8 +131,14 @@ scout_method:
   - Vida en la Naturaleza y Aventura
 
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+  - 30 # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+  - 29 # Disfruto de descubrir la diversidad que existe en la naturaleza.
+rama_scouts:
+  - 32 # Utilizo los recursos naturales de forma consciente y busco alternativas que promuevan la conservación del ambiente.
+  - 38 # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
 rama_caminantes:
   - 29  # Adopto un estilo de vida responsable.
   - 34  # Aprovecho toda oportunidad para conectar con el mundo natural.

@@ -133,9 +133,18 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 32  # Me intereso por aprender cosas nuevas.
   - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas y sus causas.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 26 # Observo lo que pasa a mi alrededor y trato de entender las razones detrás de las desigualdades que veo, actuando de manera responsable en situaciones que afectan a la sociedad, contribuyendo a mejorar el bienestar de las personas.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 25 # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales, desarrollando una actitud crítica, actuando de manera coherente y responsable en mi entorno.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
 ---
 
 # ¡Tocá Hierro!

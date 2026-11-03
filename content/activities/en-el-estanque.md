@@ -134,9 +134,18 @@ rama_lobatos:
   - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
   - 17  # Comprendo y acepto las reglas y expreso mi opinión sobre ellas.
   - 44  # Me propongo tareas que ayudan a superar mis dificultades.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 20 # Respeto los acuerdos de convivencia y las decisiones tomadas por los demás, expresando mis propias ideas y posturas de manera empática y respetuosa.
+  - 51 # Enfrento y supero las dificultades que se me presentan y aprendo de la experiencia.
+rama_caminantes:
+  - 11 # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 19 # Fomento ámbitos de participación democráticos, respetando las decisiones tomadas sin renunciar a mi derecho a luchar por su cambio.
+  - 47 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
+  - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
 # ¡En el Estanque!

@@ -132,7 +132,10 @@ scout_method:
 
 rama_castores: []
 
-rama_lobatos: []
+rama_lobatos:
+  - 1  # Elijo alimentos que me ayudan a crecer, estar sano y fuerte.
+  - 28 # Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
 
 rama_scouts:
   - 2  # Entiendo la importancia de alimentarme de forma saludable.

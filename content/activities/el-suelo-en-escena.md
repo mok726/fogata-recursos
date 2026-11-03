@@ -130,7 +130,11 @@ scout_method:
   - Aprender haciendo
 
 rama_castores: []
-rama_lobatos: []
+rama_lobatos:
+  - 47 # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
+  - 46 # Expreso mis ideas de forma clara y amable, y escucho a los demás con atención y respeto.
+  - 31 # Descubro las maravillas de la naturaleza y me asombro por la grandeza y belleza que me rodea.
 rama_scouts:
   - 53  # Participo de manifestaciones artísticas.
   - 22  # Fomento el respeto a la diversidad.

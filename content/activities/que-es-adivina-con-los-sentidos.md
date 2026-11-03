@@ -140,9 +140,18 @@ rama_lobatos:
   - 10  # Conozco acerca de mi cuerpo (órganos y sistemas), sus funciones y entiendo que es importante cuidar de ellos para sentirme bien.
   - 32  # Me intereso por aprender cosas nuevas.
   - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 5  # Busco información y tomo decisiones conscientes para cuidar mi salud y sentirme bien conmigo misma/o.
+  - 40 # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 37 # Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+rama_caminantes:
+  - 10 # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 36 # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 33 # Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+rama_rovers:
+  - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
 # ¡¿Qué Es? Gusto, Olfato, Tacto y Oído!

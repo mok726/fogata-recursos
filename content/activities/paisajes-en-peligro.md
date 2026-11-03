@@ -162,7 +162,11 @@ rama_caminantes:
   - 29  # Adopto un estilo de vida responsable y sostenible.
   - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental.
 
-rama_rovers: []  # No aplica (actividad nivel 1-2)
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
+  - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+  - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+  - 30 # Consumo y produzco de manera sostenible y sustentable.
 ---
 
 # Paisajes en Peligro

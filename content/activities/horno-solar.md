@@ -132,8 +132,15 @@ scout_method:
   - Vida en la Naturaleza y Aventura
 
 rama_castores: []
-rama_lobatos: []
-rama_scouts: []
+rama_lobatos:
+  - 33 # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+  - 34 # Me enfrento a desafíos y problemas y encuentro soluciones creativas para resolverlos.
+  - 36 # Descubro mis intereses y habilidades realizando pasatiempos y especialidades.
+rama_scouts:
+  - 46 # Exploro y experimento con diferentes técnicas y tecnologías para resolver problemas, lograr mis objetivos y descubrir soluciones creativas.
+  - 42 # Aplico mi conocimiento y habilidades para resolver los desafíos y oportunidades que se me presentan.
+  - 43 # Comparto mis pasatiempos y especialidades con amigas y amigos, buscando intereses comunes que podamos desarrollar en conjunto.
+  - 41 # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
 rama_caminantes:
   - 37  # Investigo y desarrollo distintas habilidades.
   - 38  # Afronto creativamente los desafíos.

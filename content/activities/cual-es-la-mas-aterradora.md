@@ -132,9 +132,15 @@ rama_lobatos:
   - 11  # Ante una pelea o conflicto recurro al diálogo para resolverla.
   - 31  # Descubro las maravillas de la naturaleza y me asombro.
 
-rama_scouts: []
-rama_caminantes: []
-rama_rovers: []
+rama_scouts:
+  - 15 # Colaboro en la resolución de situaciones de conflicto a través del diálogo, evitando situaciones de violencia, en los espacios donde me desenvuelvo.
+  - 39 # Exploro y contemplo la naturaleza como un espacio que me permite el bienestar para mí, ayudándome a conectar con lo trascendente.
+rama_caminantes:
+  - 15 # Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia.
+  - 35 # Reconozco a la naturaleza como una fuente de bienestar para mí y de conexión con lo trascendente.
+rama_rovers:
+  - 10 # Contribuyo pacíficamente a la resolución de conflictos evitando toda forma de intolerancia y violencia, promoviendo la paz.
+  - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
 # ¿Cuál Es la Más Aterradora de Todas?

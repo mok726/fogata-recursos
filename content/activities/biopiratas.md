@@ -147,9 +147,15 @@ scout_method:
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
 
-rama_lobatos: []  # No aplica (actividad nivel 3)
+rama_lobatos:
+  - 13 # Respeto las diversas tradiciones y expresiones culturales de las colectividades que conforman mi comunidad.
+  - 18 # Participó e incluyo a todas las personas sin discriminarlas.
+  - 15 # Conozco mis derechos como niña o niño e identifico cuando estos son vulnerados.
 
-rama_scouts: []  # No aplica (actividad nivel 3)
+rama_scouts:
+  - 22 # Fomento el respeto a la diversidad en todas sus formas, cuestionando estereotipos y prejuicios en mis interacciones diarias.
+  - 23 # Promuevo la participación e inclusión de todas las personas, sin discriminación alguna.
+  - 18 # Valoro y respeto la importancia de los Derechos Humanos en la sociedad e identifico situaciones de vulneración de estos, buscando activamente ayuda en mi entorno.
 
 rama_caminantes:
   - 21  # Cuestiono mis prejuicios y estereotipos culturales.

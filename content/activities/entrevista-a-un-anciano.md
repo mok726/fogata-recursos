@@ -142,7 +142,9 @@ rama_scouts:
 rama_caminantes:
   - 16  # Valoro mi historia e identidad.
   - 36  # Trabajo en mi superación personal.
-rama_rovers: []
+rama_rovers:
+  - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
+  - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
 # ¡Entrevistá a un Anciano!
