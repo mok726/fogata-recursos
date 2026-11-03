@@ -1332,7 +1332,7 @@ else {
         return own.includes(slugify(String(badge.id)));
       });
 
-      return list.map(entry => {
+      const cards = list.map(entry => {
 
         let card;
         let matched;
@@ -1391,6 +1391,12 @@ else {
         };
 
       });
+
+      // Valores, método, competencias y tipos: orden alfabético (pedido de Mariano).
+      if (["value", "method", "skill", "type"].includes(kind)) {
+        cards.sort((x, y) => String(x.title).localeCompare(String(y.title), "es", { sensitivity: "base" }));
+      }
+      return cards;
 
     }
   );
