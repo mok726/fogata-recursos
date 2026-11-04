@@ -2185,7 +2185,7 @@ sections: {
   summary:
     "Esta no es una insignia oficial: es una colección hermana de «Homenaje a Baden-Powell», dedicada al libro que B-P escribió para los lobatos, The Wolf Cub's Handbook (1916). Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
-  hero_image: "/imagenes/insignias/badenpowell-hero.png",
+  hero_image: "/imagenes/insignias/badenpowellmanada-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, The Wolf Cub's Handbook, 9.ª ed. (1938)",
