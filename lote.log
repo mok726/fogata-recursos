@@ -1,0 +1,23 @@
+nohup: ignoring input
+2026-11-03 15:30:38 ▶  Nueva tanda: 506 pendientes, hasta 80 hoy.
+ERROR: faltan variables de entorno.
+  export MY_CF_TOKEN='tu_token_de_Cloudflare'
+  export MY_CF_ACCOUNT='tu_account_id'
+2026-11-03 15:30:39 ❌ Falló correo-general-con-semaforo (se reintenta en la próxima tanda).
+ERROR: faltan variables de entorno.
+  export MY_CF_TOKEN='tu_token_de_Cloudflare'
+  export MY_CF_ACCOUNT='tu_account_id'
+2026-11-03 15:30:49 ❌ Falló el-juego-del-chico-zulu (se reintenta en la próxima tanda).
+ERROR: faltan variables de entorno.
+  export MY_CF_TOKEN='tu_token_de_Cloudflare'
+  export MY_CF_ACCOUNT='tu_account_id'
+2026-11-03 15:30:59 ❌ Falló el-medico-de-la-expedicion (se reintenta en la próxima tanda).
+ERROR: faltan variables de entorno.
+  export MY_CF_TOKEN='tu_token_de_Cloudflare'
+  export MY_CF_ACCOUNT='tu_account_id'
+2026-11-03 15:31:09 ❌ Falló el-totem-de-la-manada (se reintenta en la próxima tanda).
+ERROR: faltan variables de entorno.
+  export MY_CF_TOKEN='tu_token_de_Cloudflare'
+  export MY_CF_ACCOUNT='tu_account_id'
+2026-11-03 15:31:19 ❌ Falló emboscadas (se reintenta en la próxima tanda).
+5 errores seguidos: revisá token/red. Corto.
