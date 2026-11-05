@@ -107,8 +107,11 @@ jobs:
           name: actividad-del-dia
       - run: node .github/scripts/anunciar.mjs actividad-del-dia.json
         env:
-          # A mano se puede elegir una sola red; el cron publica en todas.
-          REDES: ${{ inputs.anunciar || 'todas' }}
+          # A mano se elige la red. El cron usa la variable del repo
+          # REDES_CRON (Settings → Secrets and variables → Actions →
+          # Variables), p. ej. «todas» o «telegram,facebook». Sin la
+          # variable, publica solo en Telegram y Facebook.
+          REDES: ${{ inputs.anunciar || vars.REDES_CRON || 'telegram,facebook' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MASTODON_URL: ${{ secrets.MASTODON_URL }}
