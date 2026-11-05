@@ -14,7 +14,9 @@
     content="width=device-width, initial-scale=1.0">
 
   {% set pageTitle %}
-    {% if title %}
+    {% if seo_title %}
+      {{ seo_title }} - {{ site.name }}
+    {% elif title %}
       {{ title }} - {{ site.name }}
     {% else %}
       {{ site.name }}

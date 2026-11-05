@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Necesidades y Deseos"
+seo_title: "Necesidades y Deseos (Insignia Plástico)"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos-plastico/"

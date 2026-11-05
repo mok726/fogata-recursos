@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Estudio Evolutivo"
+seo_title: "Estudio Evolutivo (Insignia Cambio Climático)"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudio-evolutivo/"

@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Quién Se Come a Quién?"
+seo_title: "¿Quién Se Come a Quién? (Insignia Bosques)"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien/"

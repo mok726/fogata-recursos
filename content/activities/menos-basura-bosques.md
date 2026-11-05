@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¡Menos Basura!"
+seo_title: "¡Menos Basura! (Insignia Bosques)"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-basura-bosques/"

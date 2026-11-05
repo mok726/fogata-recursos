@@ -1,5 +1,6 @@
 ---
 title: "¡Menos Basura!"
+seo_title: "¡Menos Basura! (Insignia Suelos)"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-basura/"
