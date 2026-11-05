@@ -6,6 +6,9 @@
 
   <title>{{ activity.data.title }}</title>
 
+  {# Versión imprimible: los buscadores deben indexar la ficha normal. #}
+  <link rel="canonical" href="{{ site.url }}{{ activity.url | url }}">
+
 
 
 <!-- Google Fonts (text) – keep if you use it -->

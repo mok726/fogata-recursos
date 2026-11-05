@@ -1,3 +1,8 @@
+---
+layout: layouts/base.njk
+title: Listado de imágenes
+noindex: true
+---
 # Galería de Imágenes
 
 > Generado automáticamente el 2026-06-23 22:33:06

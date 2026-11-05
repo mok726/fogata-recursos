@@ -1,4 +1,5 @@
 ---
+description: "Estado del proyecto Fogata de Recursos, qué significa cada borrador y cómo colaborar con correcciones o actividades."
 layout: layouts/base.njk
 prose: true
 title: Estado del Proyecto y Colaboración

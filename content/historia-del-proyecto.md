@@ -1,4 +1,5 @@
 ---
+description: "Cómo nació Fogata de Recursos: de las actividades dispersas de una Manada scout a una biblioteca abierta y clasificada."
 layout: layouts/base.njk
 prose: true
 title: Historia del Proyecto

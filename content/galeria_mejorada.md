@@ -1,3 +1,8 @@
+---
+layout: layouts/base.njk
+title: Galería mejorada
+noindex: true
+---
 # 📸 Galería de Imágenes
 
 
