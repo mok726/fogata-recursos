@@ -1,0 +1,42 @@
+# Renueva el token de Threads, que vence a los 60 días si no se
+# refresca. Corre todos los lunes y guarda el token nuevo en el
+# secret THREADS_TOKEN.
+#
+# Requiere el secret GH_SECRETS_PAT: un token fine-grained de
+# GitHub con acceso solo a este repo y el permiso
+# «Secrets: Read and write». (El GITHUB_TOKEN de Actions no puede
+# escribir secrets.)
+
+name: Renovar tokens
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  threads:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Renovar THREADS_TOKEN
+        env:
+          TOKEN: ${{ secrets.THREADS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_SECRETS_PAT }}
+        run: |
+          if [ -z "$TOKEN" ] || [ -z "$GH_TOKEN" ]; then
+            echo "Faltan THREADS_TOKEN o GH_SECRETS_PAT: no se renueva."; exit 0
+          fi
+          resp=$(curl -sS --fail-with-body -G "https://graph.threads.net/refresh_access_token" \
+            --data-urlencode "grant_type=th_refresh_token" \
+            --data-urlencode "access_token=$TOKEN")
+          nuevo=$(echo "$resp" | jq -r '.access_token // empty')
+          dias=$(echo "$resp" | jq -r '(.expires_in // 0) / 86400 | floor')
+          if [ -z "$nuevo" ]; then
+            echo "Respuesta inesperada: $(echo "$resp" | jq -c 'del(.access_token)')"; exit 1
+          fi
+          echo "::add-mask::$nuevo"
+          gh secret set THREADS_TOKEN --repo "$GITHUB_REPOSITORY" --body "$nuevo"
+          echo "THREADS_TOKEN renovado: vence en $dias días."

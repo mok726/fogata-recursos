@@ -9,6 +9,7 @@
 //   Mastodon: MASTODON_URL (https://instancia), MASTODON_TOKEN
 //   Bluesky:  BSKY_HANDLE, BSKY_APP_PASSWORD
 //   Facebook: FB_PAGE_ID, FB_PAGE_TOKEN (token de Página)
+//   Threads:  THREADS_TOKEN (se renueva solo, ver renovar-tokens.yml)
 //   Instagram: IG_USER_ID + FB_PAGE_TOKEN (cuenta profesional
 //              vinculada a la Página; permisos instagram_basic e
 //              instagram_content_publish)
@@ -97,6 +98,26 @@ const redes = {
             facets: [{ index: { byteStart: ini, byteEnd: ini + Buffer.byteLength(act.url) },
               features: [{ $type: "app.bsky.richtext.facet#link", uri: act.url }] }] } }) },
         "Bluesky");
+    }
+  },
+
+  threads: {
+    // Imagen + texto con link (en Threads el link es clickeable).
+    activa: env.THREADS_TOKEN,
+    publicar: async () => {
+      const api = "https://graph.threads.net/v1.0/me";
+      const form = o => ({ method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams({ ...o, access_token: env.THREADS_TOKEN }) });
+      const cont = await pedir(`${api}/threads`,
+        form({ media_type: "IMAGE", image_url: act.image, text: texto(500) }), "Threads");
+      // Meta recomienda esperar a que el contenedor se procese.
+      for (let i = 0; ; i++) {
+        await new Promise(r => setTimeout(r, i ? 10000 : 5000));
+        try {
+          return await pedir(`${api}/threads_publish`, form({ creation_id: cont.id }), "Threads");
+        } catch (e) { if (i >= 5) throw e; }
+      }
     }
   },
 
