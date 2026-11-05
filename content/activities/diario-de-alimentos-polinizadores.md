@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diario de Alimentos"
+seo_title: "Diario de Alimentos (Insignia Polinizadores)"
 duration: "1 día + investigación"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-polinizadores/"

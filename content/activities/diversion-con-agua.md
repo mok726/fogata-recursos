@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diversión con Agua"
+seo_title: "Diversión con Agua: Juegos (Insignia Agua)"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua/"

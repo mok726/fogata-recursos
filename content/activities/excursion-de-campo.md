@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Excursión de Campo"
+seo_title: "Excursión de Campo (Insignia Ciudades Verdes)"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo/"

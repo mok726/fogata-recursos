@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diversión con Agua"
+seo_title: "Diversión con Agua: Planificar una Actividad (Insignia Agua)"
 duration: "1 hora (más tiempo para la tarea)"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua-agua/"

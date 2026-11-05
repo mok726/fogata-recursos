@@ -1,6 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Excursión de Campo"
+seo_title: "Excursión de Campo (Insignia Polinizadores)"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo-polinizadores/"
