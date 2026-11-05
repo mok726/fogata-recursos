@@ -9,6 +9,9 @@
 //   Mastodon: MASTODON_URL (https://instancia), MASTODON_TOKEN
 //   Bluesky:  BSKY_HANDLE, BSKY_APP_PASSWORD
 //   Facebook: FB_PAGE_ID, FB_PAGE_TOKEN (token de Página)
+//   Instagram: IG_USER_ID + FB_PAGE_TOKEN (cuenta profesional
+//              vinculada a la Página; permisos instagram_basic e
+//              instagram_content_publish)
 // DRY_RUN=1 sólo muestra lo que publicaría.
 // REDES=telegram,bluesky limita a esas redes (default: todas).
 
@@ -94,6 +97,34 @@ const redes = {
             facets: [{ index: { byteStart: ini, byteEnd: ini + Buffer.byteLength(act.url) },
               features: [{ $type: "app.bsky.richtext.facet#link", uri: act.url }] }] } }) },
         "Bluesky");
+    }
+  },
+
+  instagram: {
+    // Imagen + texto. En Instagram los links del texto no son
+    // clickeables: se deja la URL igual y se remite a la bio.
+    activa: env.IG_USER_ID && env.FB_PAGE_TOKEN,
+    publicar: async () => {
+      const api = `https://graph.facebook.com/v21.0/${env.IG_USER_ID}`;
+      const caption = `${titulo}\n\n${act.description || ""}\n\n` +
+        `Ficha completa: link en la bio o ${act.url}\n\n` +
+        "#scouts #actividadesscout #educacionnoformal #fogataderecursos";
+      const cont = await pedir(`${api}/media`,
+        { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
+          body: new URLSearchParams({ image_url: act.image, caption, access_token: env.FB_PAGE_TOKEN }) },
+        "Instagram");
+      // El contenedor puede tardar unos segundos en procesarse.
+      for (let i = 0; ; i++) {
+        try {
+          return await pedir(`${api}/media_publish`,
+            { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
+              body: new URLSearchParams({ creation_id: cont.id, access_token: env.FB_PAGE_TOKEN }) },
+            "Instagram");
+        } catch (e) {
+          if (i >= 5) throw e;
+          await new Promise(r => setTimeout(r, 5000));
+        }
+      }
     }
   },
 

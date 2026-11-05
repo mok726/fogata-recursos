@@ -20,7 +20,7 @@ on:
         description: "Anunciar la actividad del día en redes"
         type: choice
         default: ninguna
-        options: [ninguna, todas, telegram, mastodon, bluesky, facebook]
+        options: [ninguna, todas, telegram, mastodon, bluesky, facebook, instagram]
 
 permissions:
   contents: read
@@ -120,3 +120,4 @@ jobs:
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
