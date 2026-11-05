@@ -64,6 +64,13 @@
     rel="canonical"
     href="{{ canonicalUrl | trim }}">
 
+  <link rel="alternate" type="application/atom+xml"
+    title="{{ site.name }}: actividades nuevas"
+    href="{{ site.url }}{{ '/feed.xml' | url }}">
+  <link rel="alternate" type="application/atom+xml"
+    title="{{ site.name }}: actividad del día"
+    href="{{ site.url }}{{ '/actividad-del-dia.xml' | url }}">
+
   {# Páginas internas o de prueba: front matter `noindex: true`. #}
   {% if noindex %}
   <meta name="robots" content="noindex, follow">

@@ -1,5 +1,7 @@
 # Construye el sitio y lo publica en GitHub Pages en cada push a main.
 # En los pull requests sólo construye (sirve para ver que no se rompió).
+# Además corre todos los días a las 07:00 (hora argentina) para
+# cambiar la «Actividad del día» y anunciarla en redes (job anunciar).
 #
 # Requiere: Settings → Pages → Build and deployment → Source:
 # "GitHub Actions".
@@ -10,7 +12,14 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    - cron: "0 10 * * *"   # 07:00 en Argentina (UTC-3)
   workflow_dispatch:
+    inputs:
+      anunciar:
+        description: "Anunciar la actividad del día en redes"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -60,6 +69,13 @@ jobs:
         with:
           path: docs
 
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: actividad-del-dia
+          path: docs/actividad-del-dia.json
+          retention-days: 3
+
   deploy:
     if: github.event_name != 'pull_request'
     needs: build
@@ -70,3 +86,31 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Publica la actividad del día en las redes que tengan secrets
+  # cargados (ver .github/scripts/anunciar.mjs). Corre después del
+  # deploy, así el link ya funciona.
+  anunciar:
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.anunciar)
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/scripts
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v4
+        with:
+          name: actividad-del-dia
+      - run: node .github/scripts/anunciar.mjs actividad-del-dia.json
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MASTODON_URL: ${{ secrets.MASTODON_URL }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          BSKY_HANDLE: ${{ secrets.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}

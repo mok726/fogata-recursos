@@ -189,6 +189,67 @@ eleventyConfig.addCollection(
 
 
 
+// «Actividad del día» (lib/actividad-del-dia.js): sólo fichas
+// cuya imagen existe, en orden de rotación fijo.
+
+const actividadDelDia = require("./lib/actividad-del-dia");
+
+eleventyConfig.addCollection(
+  "activitiesDaily",
+  function(collectionApi) {
+
+    const conImagen = collectionApi
+      .getFilteredByGlob("content/activities/*.md")
+      .filter(item =>
+        item.data.image &&
+        fs.existsSync(path.join(__dirname, item.data.image))
+      )
+      .map(item => ({ key: item.fileSlug, item }));
+
+    return actividadDelDia.rotacion(conImagen).map(x => x.item);
+
+  }
+);
+
+// [{ fecha, item }] desde `desde` días respecto de hoy (hora
+// argentina, fecha del build) durante `dias` días.
+eleventyConfig.addFilter("actividadesDelDia", function(lista, dias = 1, desde = 0) {
+  const hoy = actividadDelDia.fechaLocal();
+  const out = [];
+  for (let i = desde; i < desde + dias; i++) {
+    const fecha = actividadDelDia.sumarDias(hoy, i);
+    out.push({ fecha, item: actividadDelDia.delDia(lista || [], fecha) });
+  }
+  return out;
+});
+
+// Landing, «Actividades destacadas»: las 3 últimas agregadas y
+// las actividades del día de ayer, anteayer y hace 3 días, sin
+// repetir (ni la de hoy, que ya tiene su bloque).
+eleventyConfig.addFilter("destacadas", function(recientes, diarias) {
+  const hoy = actividadDelDia.fechaLocal();
+  const dia = n => actividadDelDia.delDia(diarias || [], actividadDelDia.sumarDias(hoy, n));
+  const usadas = new Set([dia(0)].filter(Boolean).map(i => i.url));
+  const pasadas = [dia(-1), dia(-2), dia(-3)].filter(Boolean);
+  pasadas.forEach(i => usadas.add(i.url));
+  const nuevas = [];
+  for (const it of recientes || []) {
+    if (nuevas.length >= 3) break;
+    if (!usadas.has(it.url)) { nuevas.push(it); usadas.add(it.url); }
+  }
+  // Si dos días cayeron en la misma ficha, no se muestra dos veces.
+  const vistas = new Set();
+  return nuevas.concat(pasadas).filter(i => !vistas.has(i.url) && vistas.add(i.url));
+});
+
+// Fecha de alta (primer commit) de una ficha, para los feeds.
+eleventyConfig.addFilter("fechaAlta", function(inputPath) {
+  return activityAddedDates[(inputPath || "").replace(/^\.\//, "")] || "";
+});
+
+
+
+
 // Orden por activity_code.
 // Usada únicamente por badge-page.njk para que las
 // actividades aparezcan siguiendo el orden oficial

@@ -106,6 +106,54 @@ populares:
 </ul>
 
 
+{# Actividad del día: se renderiza la del día del build y el
+   script la cambia si en el navegador ya es otro día (por si el
+   build diario no corrió). Rotación en lib/actividad-del-dia.js. #}
+{% set diasHoy = collections.activitiesDaily | actividadesDelDia(15) %}
+{% set hoy = diasHoy[0].item %}
+{% if hoy %}
+<section class="home-section home-daily" id="actividad-del-dia">
+
+  <a class="home-daily-card" href="{{ hoy.url | url }}">
+    <img class="home-daily-img"
+      src="{{ hoy.data.image | thumb('card') | url }}"
+      width="800" height="343" loading="lazy" decoding="async" alt="">
+    <div class="home-daily-body">
+      <p class="home-daily-kicker">
+        <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
+        Actividad del día
+      </p>
+      <h2 class="home-daily-title">{{ hoy.data.title | smartTitle }}</h2>
+      <p class="home-daily-desc">{{ hoy.data.description or hoy.data.summary }}</p>
+      <span class="home-more">Ver la actividad →</span>
+    </div>
+  </a>
+
+  <script type="application/json" id="actividad-del-dia-datos">
+  {%- set dias = diasHoy %}{% set absoluto = false %}
+  {% include "components/actividad-del-dia-datos.njk" %}
+  </script>
+  <script>
+  (function () {
+    try {
+      var dias = JSON.parse(document.getElementById('actividad-del-dia-datos').textContent);
+      var hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Argentina/Buenos_Aires',
+        year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+      var d = dias.filter(function (x) { return x.fecha === hoy; })[0];
+      if (!d || d.fecha === dias[0].fecha) return;
+      var s = document.getElementById('actividad-del-dia');
+      s.querySelector('.home-daily-card').href = d.url;
+      s.querySelector('.home-daily-img').src = d.card;
+      s.querySelector('.home-daily-title').textContent = d.title;
+      s.querySelector('.home-daily-desc').textContent = d.description;
+    } catch (e) {}
+  })();
+  </script>
+
+</section>
+{% endif %}
+
+
 <section class="home-section">
 
   <h2>¿Por dónde empezás?</h2>
@@ -147,7 +195,7 @@ populares:
 
     <div>
       <h2>Actividades destacadas</h2>
-      <p>Algunas de las últimas actividades incorporadas.</p>
+      <p>Las últimas incorporadas y las actividades de los días anteriores.</p>
     </div>
 
     <a class="home-more" href="{{ '/activities/' | url }}">
@@ -158,12 +206,10 @@ populares:
 
   <div class="grid">
 
-    {% for activityItem in collections.activitiesRecent %}
-      {% if loop.index <= 6 %}
+    {% for activityItem in collections.activitiesRecent | destacadas(collections.activitiesDaily) %}
         {% set item = activityItem.data %}
         {% set activityUrl = activityItem.url %}
         {% include "components/activity-card.njk" %}
-      {% endif %}
     {% endfor %}
 
   </div>
