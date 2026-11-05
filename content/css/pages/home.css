@@ -455,52 +455,48 @@ body:has(.home) {
   .home-path:hover { transform: none; }
 }
 
-/* Actividad del día */
-.home-daily-card {
-  display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
-  background: var(--fogata-card);
-  border: 1px solid var(--fogata-paper-dark);
-  border-radius: 14px;
-  overflow: hidden;
-  color: var(--fogata-ink);
-  text-decoration: none;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, .06);
-}
-
-.home-daily-card:hover { box-shadow: 0 4px 16px rgba(0, 0, 0, .12); }
-.home-daily-card:hover .home-more { color: var(--home-fire-dark); }
-
-.home-daily-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.home-daily-body { padding: 1.4rem 1.6rem; align-self: center; }
-
-.home-daily-kicker {
+/* Actividad del día: la card estándar del sitio, en horizontal
+   (portada con su overlay a la izquierda; resumen, ODS e
+   insignias a la derecha). */
+.home-daily h2 {
   display: flex;
   align-items: center;
-  gap: .3rem;
-  margin: 0 0 .4rem;
-  font-weight: 700;
-  color: var(--fogata-fire-dark);
-  text-transform: uppercase;
-  letter-spacing: .04em;
-  font-size: .85rem;
+  gap: .4rem;
 }
 
-.home-daily-title {
-  font-family: var(--fogata-slab);
-  margin: 0 0 .6rem;
+.home-daily h2 .material-symbols-outlined { color: var(--fogata-fire); }
+
+.home-daily .activity-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  grid-template-rows: 1fr auto;
+  max-width: none;
 }
 
-.home-daily-desc { margin: 0 0 1rem; color: var(--fogata-muted); }
+.home-daily .activity-card-hero { grid-row: 1 / span 2; }
+
+.home-daily .activity-card-hero .activity-card-image { height: 300px; }
+
+.home-daily h2 .material-symbols-outlined { font-size: 1em; }
+
+.home-daily .activity-card-body {
+  align-self: center;
+  padding: 1.4rem 1.6rem .6rem;
+  font-size: 1.05rem;
+}
+
+.home-daily .activity-card-footer { padding: .6rem 1.6rem 1.2rem; }
 
 @media (max-width: 720px) {
-  .home-daily-card { grid-template-columns: 1fr; }
-  .home-daily-img { aspect-ratio: 800 / 343; height: auto; }
-  .home-daily-body { padding: 1rem 1.1rem 1.2rem; }
+  .home-daily .activity-card { display: flex; flex-direction: column; }
+  .home-daily .activity-card-hero .activity-card-image { height: 220px; }
+  .home-daily .activity-card-body { padding: 1rem 1.1rem .4rem; }
+  .home-daily .activity-card-footer { padding: .4rem 1.1rem 1rem; }
+}
+
+.home-daily .activity-summary {
+  -webkit-line-clamp: unset;
+  line-clamp: unset;
+  display: block;
+  overflow: visible;
 }
