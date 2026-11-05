@@ -130,7 +130,6 @@ competencies:
   - Pensamiento sistémico
 activity_type:
   - Juego
-  - Aprender jugando
   - Exploración
 category:
   - Zonas ribereñas

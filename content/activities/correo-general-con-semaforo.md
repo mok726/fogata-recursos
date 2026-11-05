@@ -119,7 +119,6 @@ competencies:
 activity_type:
   - Juego
   - Comunicación
-  - Aprender jugando
 category:
   - Juegos scouts
   - Comunicación

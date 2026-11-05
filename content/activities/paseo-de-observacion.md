@@ -51,6 +51,7 @@ activity_badges:
   - badenpowell
   - ciudadesverdes
   - biodiversidad
+  - tecnicascout
 activity_code: "badenpowell-B12"
 required: false
 required_for: []

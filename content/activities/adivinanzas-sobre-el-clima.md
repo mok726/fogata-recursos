@@ -109,7 +109,7 @@ complexity_execution: 1  # Muy simple
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender jugando"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children acting out climate-related words in a charades game dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively playing a guessing game with cards. Energetic educational game environment. No text, no letters, no words. Wide shot."
@@ -121,7 +121,6 @@ competencies:
   - Comunicación
 activity_type:
   - Juego
-  - Aprender jugando
   - Dinámica de grupos
 category:
   - Juego

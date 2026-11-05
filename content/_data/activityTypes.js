@@ -49,11 +49,6 @@ module.exports = [
     symbol: "forum"
   },
 
-  {
-    id: "aprender-jugando",
-    name: "Aprender jugando",
-    symbol: "extension"
-  },
 
   {
     id: "planificacion",

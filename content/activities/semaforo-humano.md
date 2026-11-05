@@ -102,7 +102,6 @@ competencies:
 activity_type:
   - Juego
   - Simulación
-  - Aprender jugando
 category:
   - Seguridad vial
 skills:

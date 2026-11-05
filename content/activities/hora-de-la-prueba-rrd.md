@@ -109,7 +109,6 @@ competencies:
 
 activity_type:
   - Juego
-  - Aprender jugando
   - Debate / Diálogo
 
 category:

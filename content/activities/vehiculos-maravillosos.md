@@ -122,7 +122,7 @@ competencies:
   - Conciencia energética
 activity_type:
   - Creatividad / Arte
-  - Aprender jugando
+  - Juego
   - Reflexión
 category:
   - Diseño

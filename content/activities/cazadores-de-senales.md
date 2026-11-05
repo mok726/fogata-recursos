@@ -104,7 +104,6 @@ competencies:
 activity_type:
   - Exploración
   - Juego
-  - Aprender jugando
 category:
   - Seguridad vial
 skills:

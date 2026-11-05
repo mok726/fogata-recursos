@@ -118,7 +118,7 @@ competencies:
   - Conciencia cultural
 activity_type:
   - Creatividad / Arte
-  - Aprender jugando
+  - Juego
 category:
   - Agua
   - Cultura

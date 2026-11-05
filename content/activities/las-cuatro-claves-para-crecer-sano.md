@@ -119,7 +119,7 @@ competencies:
 activity_type:
   - Reflexión
   - Salud
-  - Aprender jugando
+  - Juego
 category:
   - Salud
 skills:

@@ -122,7 +122,6 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
-  - Aprender jugando
   - Investigación
 category:
   - Alimentos

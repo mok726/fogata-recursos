@@ -48,6 +48,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-D08"
 required: false
 required_for: []
@@ -112,7 +113,6 @@ competencies:
   - Autocontrol
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Juegos scouts
   - Acecho

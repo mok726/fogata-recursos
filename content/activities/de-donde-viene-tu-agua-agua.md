@@ -118,7 +118,6 @@ competencies:
   - Resolución de problemas
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Fuentes de agua
   - Ciclo del agua

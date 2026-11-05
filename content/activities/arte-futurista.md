@@ -122,7 +122,7 @@ competencies:
   - Visión de futuro
 activity_type:
   - Creatividad / Arte
-  - Aprender jugando
+  - Juego
   - Reflexión
 category:
   - Arte

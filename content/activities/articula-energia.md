@@ -117,7 +117,6 @@ competencies:
   - Creatividad
 activity_type:
   - Juego
-  - Aprender jugando
   - Comunicación
 category:
   - Vocabulario

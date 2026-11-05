@@ -50,6 +50,7 @@ sdgs:
 activity_badges:
   - badenpowell
   - biodiversidad
+  - tecnicascout
 activity_code: "badenpowell-C11"
 required: false
 required_for: []

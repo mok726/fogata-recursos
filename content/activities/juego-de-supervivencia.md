@@ -117,7 +117,7 @@ complexity_execution: 2  # Simple
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender jugando"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a survival game representing predator-prey dynamics in a field dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively participating in an ecological simulation game. Outdoor education game environment. No text, no letters, no words. Wide shot."
@@ -129,7 +129,6 @@ competencies:
   - Empatía
 activity_type:
   - Juego
-  - Aprender jugando
   - Simulación
 category:
   - Ecosistemas

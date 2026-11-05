@@ -121,7 +121,6 @@ competencies:
   - Hábitos sostenibles
 activity_type:
   - Juego
-  - Aprender jugando
   - Sensibilización
 category:
   - Competencia

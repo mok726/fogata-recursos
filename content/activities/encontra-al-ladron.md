@@ -48,6 +48,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-B04"
 required: false
 required_for: []
@@ -113,7 +114,6 @@ competencies:
   - Deducción
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Juegos scouts
   - Rastreo

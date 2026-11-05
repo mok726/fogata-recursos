@@ -47,6 +47,7 @@ sdgs:
 activity_badges:
   - badenpowellmanada
   - biodiversidad
+  - tecnicascout
 activity_code: "badenpowellmanada-C02"
 required: false
 required_for: []

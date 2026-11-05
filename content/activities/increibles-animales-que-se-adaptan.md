@@ -124,7 +124,6 @@ competencies:
   - Conocimiento de la naturaleza
 activity_type:
   - Creatividad / Arte
-  - Aprender jugando
   - Juego
 category:
   - Arte

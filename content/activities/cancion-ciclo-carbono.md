@@ -119,7 +119,7 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
-  - Aprender jugando
+  - Juego
   - Reflexión
 category:
   - Ciclo del carbono

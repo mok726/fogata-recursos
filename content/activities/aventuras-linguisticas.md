@@ -111,7 +111,6 @@ competencies:
 
 activity_type:
   - Juego
-  - Aprender jugando
   - Investigación
 
 category:

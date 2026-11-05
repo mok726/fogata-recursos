@@ -45,6 +45,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowellmanada
+  - tecnicascout
 activity_code: "badenpowellmanada-C14"
 required: false
 required_for: []

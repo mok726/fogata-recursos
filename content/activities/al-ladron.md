@@ -112,7 +112,6 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Juegos scouts
   - Observación

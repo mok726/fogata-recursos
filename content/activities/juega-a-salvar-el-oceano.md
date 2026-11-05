@@ -123,7 +123,6 @@ competencies:
   - Capacidad de aprendizaje lúdico
 activity_type:
   - Juego
-  - Aprender jugando
   - Sensibilización
 category:
   - Contaminación plástica

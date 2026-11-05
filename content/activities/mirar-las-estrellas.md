@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-D01"
 required: false
 required_for: []

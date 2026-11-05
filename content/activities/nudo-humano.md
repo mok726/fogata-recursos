@@ -120,7 +120,6 @@ competencies:
 activity_type:
   - Dinámica de grupos
   - Juego
-  - Aprender jugando
 category:
   - Trabajo en equipo
   - Cooperación

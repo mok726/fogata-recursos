@@ -126,7 +126,6 @@ competencies:
   - Memoria
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Energía solar
   - Juego

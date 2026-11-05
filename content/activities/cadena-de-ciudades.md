@@ -109,7 +109,6 @@ competencies:
   - Conciencia global
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Juegos de salón
   - Integración

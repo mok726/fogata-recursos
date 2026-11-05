@@ -124,7 +124,6 @@ competencies:
   - Resolución de problemas
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Agua oculta
   - Consumo

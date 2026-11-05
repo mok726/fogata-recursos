@@ -132,7 +132,6 @@ competencies:
   - Creatividad
 activity_type:
   - Juego
-  - Aprender jugando
   - Creatividad / Arte
 category:
   - Agua
