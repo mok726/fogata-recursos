@@ -10,6 +10,7 @@
 //   Bluesky:  BSKY_HANDLE, BSKY_APP_PASSWORD
 //   Facebook: FB_PAGE_ID, FB_PAGE_TOKEN (token de Página)
 // DRY_RUN=1 sólo muestra lo que publicaría.
+// REDES=telegram,bluesky limita a esas redes (default: todas).
 
 import { readFileSync } from "node:fs";
 
@@ -38,7 +39,7 @@ const texto = (max) => {
 async function pedir(url, opts, quien) {
   const r = await fetch(url, opts);
   const cuerpo = await r.text();
-  if (!r.ok) throw new Error(`${quien}: HTTP ${r.status} ${cuerpo.slice(0, 300)}`);
+  if (!r.ok) throw new Error(`${quien}: HTTP ${r.status} ${cuerpo.slice(0, 800)}`);
   return cuerpo ? JSON.parse(cuerpo) : {};
 }
 
@@ -112,7 +113,11 @@ const redes = {
 console.log(`${hoy}: ${act.title} → ${act.url}`);
 let fallas = 0;
 
+const elegidas = (env.REDES || "todas").split(",").map(x => x.trim().toLowerCase());
+const todas = elegidas.includes("todas");
+
 for (const [nombre, red] of Object.entries(redes)) {
+  if (!todas && !elegidas.includes(nombre)) continue;
   if (!red.activa) { console.log(`- ${nombre}: sin secrets, se saltea`); continue; }
   if (env.DRY_RUN) { console.log(`- ${nombre}: (prueba) publicaría`); continue; }
   try { await red.publicar(); console.log(`- ${nombre}: publicado`); }

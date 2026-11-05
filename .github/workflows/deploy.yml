@@ -18,8 +18,9 @@ on:
     inputs:
       anunciar:
         description: "Anunciar la actividad del día en redes"
-        type: boolean
-        default: false
+        type: choice
+        default: ninguna
+        options: [ninguna, todas, telegram, mastodon, bluesky, facebook]
 
 permissions:
   contents: read
@@ -91,7 +92,7 @@ jobs:
   # cargados (ver .github/scripts/anunciar.mjs). Corre después del
   # deploy, así el link ya funciona.
   anunciar:
-    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.anunciar)
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.anunciar != 'ninguna')
     needs: deploy
     runs-on: ubuntu-latest
     steps:
@@ -106,6 +107,8 @@ jobs:
           name: actividad-del-dia
       - run: node .github/scripts/anunciar.mjs actividad-del-dia.json
         env:
+          # A mano se puede elegir una sola red; el cron publica en todas.
+          REDES: ${{ inputs.anunciar || 'todas' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MASTODON_URL: ${{ secrets.MASTODON_URL }}
