@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-D05"
 required: false
 required_for: []
@@ -114,7 +115,8 @@ competencies:
   - Comunicación
 activity_type:
   - Juego
-  - Aprender jugando
+  - Orientación
+  - Actividad física
 category:
   - Juegos scouts
   - Observación

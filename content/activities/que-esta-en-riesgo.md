@@ -127,7 +127,6 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Juego
-  - Aprender jugando
   - Simulación
 category:
   - Especies invasoras

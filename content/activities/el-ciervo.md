@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-C04"
 required: false
 required_for: []
@@ -114,7 +115,6 @@ competencies:
   - Concentración
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Juegos scouts
   - Acecho

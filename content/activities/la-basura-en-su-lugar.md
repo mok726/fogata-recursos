@@ -112,7 +112,6 @@ competencies:
   - Conciencia ambiental
 activity_type:
   - Juego
-  - Aprender jugando
   - Dinámica de grupos
 category:
   - Reciclaje

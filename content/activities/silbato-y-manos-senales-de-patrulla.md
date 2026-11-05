@@ -116,7 +116,6 @@ competencies:
   - Comunicación
 activity_type:
   - Juego
-  - Aprender jugando
   - Dinámica de grupos
 category:
   - Técnicas scout

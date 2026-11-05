@@ -123,7 +123,7 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender jugando"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a biodiversity card game they invented, showing different species and habitats dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing and learning through a biodiversity game. Educational game environment. No text, no letters, no words. Wide shot."
@@ -135,7 +135,6 @@ competencies:
   - Pensamiento sistémico
 activity_type:
   - Juego
-  - Aprender jugando
   - Creatividad / Arte
 category:
   - Juego

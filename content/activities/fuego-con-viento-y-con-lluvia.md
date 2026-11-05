@@ -116,9 +116,8 @@ competencies:
   - Técnicas scout
   - Resolución de problemas
 activity_type:
-  - Aprender jugando
-  - Aprender haciendo
   - Juego
+  - Aprender haciendo
 category:
   - Técnicas scout
   - Campamento

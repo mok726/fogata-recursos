@@ -45,6 +45,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowellmanada
+  - tecnicascout
 activity_code: "badenpowellmanada-C01"
 required: false
 required_for: []
@@ -114,6 +115,7 @@ image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in 
 competencies:
   - Observación
 activity_type:
+  - Aprender haciendo
   - Juego
 category:
   - Juegos scouts

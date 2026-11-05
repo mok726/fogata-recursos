@@ -112,7 +112,7 @@ competencies:
   - Destreza física
 activity_type:
   - Aprender haciendo
-  - Aprender jugando
+  - Juego
 category:
   - Técnicas scout
   - Nudos

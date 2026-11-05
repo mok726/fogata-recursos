@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cuadernos o papel y tabla sujetapapeles
-  - Bolígrafos o lápices
+  - Biromes o lápices
   - Una cámara (opcional)
 tools: []
 responsible:

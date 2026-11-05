@@ -114,7 +114,8 @@ competencies:
   - Planificación
 activity_type:
   - Juego
-  - Aprender jugando
+  - Actividad física
+  - Comunicación
 category:
   - Juegos scouts
   - Comunicación

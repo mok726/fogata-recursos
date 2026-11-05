@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Cuaderno
-  - Bolígrafos
+  - Biromes
 tools: []
 responsible:
   - Docente o Scouter

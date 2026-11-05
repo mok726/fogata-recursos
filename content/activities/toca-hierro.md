@@ -113,6 +113,7 @@ competencies:
   - Observación
 activity_type:
   - Juego
+  - Actividad física
 category:
   - Juegos scouts
   - Observación

@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Cuaderno
-  - Bolígrafos
+  - Biromes
   - Cámara
 tools: []
 responsible:

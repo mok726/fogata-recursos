@@ -47,6 +47,7 @@ sdgs:
 activity_badges:
   - badenpowellmanada
   - biodiversidad
+  - tecnicascout
 activity_code: "badenpowellmanada-C02"
 required: false
 required_for: []
@@ -119,7 +120,8 @@ competencies:
   - Conservación
   - Investigación
 activity_type:
-  - Juego
+  - Exploración
+  - Investigación
 category:
   - Naturaleza
   - Observación

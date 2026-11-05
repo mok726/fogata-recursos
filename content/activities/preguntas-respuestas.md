@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Papel
-  - Bolígrafos
+  - Biromes
   - Equipo de grabación (opcional)
 tools: []
 responsible:

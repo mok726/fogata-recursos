@@ -111,8 +111,8 @@ competencies:
   - Trabajo en equipo
   - Coordinación
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Actividad física
+  - Dinámica de grupos
 category:
   - Juegos scouts
   - Salud

@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-C10"
 required: false
 required_for: []
@@ -115,7 +116,8 @@ competencies:
   - Observación
 activity_type:
   - Juego
-  - Aprender jugando
+  - Actividad física
+  - Dinámica de grupos
 category:
   - Juegos scouts
   - Acecho

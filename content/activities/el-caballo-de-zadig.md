@@ -45,6 +45,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowellmanada
+  - tecnicascout
 activity_code: "badenpowellmanada-C05"
 required: false
 required_for: []
@@ -116,6 +117,7 @@ competencies:
   - Pensamiento crítico
   - Resolución de problemas
 activity_type:
+  - Investigación
   - Juego
 category:
   - Rastreo

@@ -113,7 +113,7 @@ competencies:
   - Integración
 activity_type:
   - Juego
-  - Aprender jugando
+  - Actividad física
 category:
   - Juegos scouts
   - Integración

@@ -120,7 +120,6 @@ competencies:
   - Conocimiento sobre el agua
 activity_type:
   - Juego
-  - Aprender jugando
 category:
   - Agua
   - Trivia

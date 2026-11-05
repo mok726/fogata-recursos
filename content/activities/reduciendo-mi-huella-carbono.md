@@ -119,7 +119,6 @@ competencies:
   - Memoria
 activity_type:
   - Juego
-  - Aprender jugando
   - Reflexión
 category:
   - Huella de carbono

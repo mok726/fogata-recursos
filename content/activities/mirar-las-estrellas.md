@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-D01"
 required: false
 required_for: []
@@ -112,8 +113,8 @@ competencies:
   - Observación
   - Orientación
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Exploración
+  - Orientación
 category:
   - Juegos scouts
   - Orientación

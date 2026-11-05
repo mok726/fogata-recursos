@@ -115,7 +115,7 @@ competencies:
   - Responsabilidad
 activity_type:
   - Juego
-  - Aprender jugando
+  - Aprender haciendo
 category:
   - Juegos scouts
   - Técnicas de campamento

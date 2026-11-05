@@ -48,6 +48,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowell
+  - tecnicascout
 activity_code: "badenpowell-D11"
 required: false
 required_for: []
@@ -112,8 +113,8 @@ competencies:
   - Liderazgo
   - Trabajo en equipo
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Orientación
+  - Exploración
 category:
   - Juegos scouts
   - Orientación

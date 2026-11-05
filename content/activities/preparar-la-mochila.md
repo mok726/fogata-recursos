@@ -122,7 +122,6 @@ competencies:
 activity_type:
   - Juego
   - Aprender haciendo
-  - Aprender jugando
 category:
   - Juegos scouts
   - Naturaleza

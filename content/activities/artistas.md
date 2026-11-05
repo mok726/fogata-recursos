@@ -111,7 +111,7 @@ competencies:
   - Expresión artística
 activity_type:
   - Juego
-  - Aprender jugando
+  - Creatividad / Arte
 category:
   - Juegos de salón
   - Integración

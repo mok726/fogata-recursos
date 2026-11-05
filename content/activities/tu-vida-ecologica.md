@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Actividad del banner de la casa sostenible (anexo)
-  - Rotuladores
+  - Fibras
   - Papel
   - Post-its
 tools: []

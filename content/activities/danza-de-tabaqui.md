@@ -115,7 +115,6 @@ competencies:
 activity_type:
   - Juego
   - Creatividad / Arte
-  - Aprender jugando
 category:
   - Danzas de la Selva
   - Libro de la Selva

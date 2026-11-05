@@ -45,6 +45,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - badenpowellmanada
+  - tecnicascout
 activity_code: "badenpowellmanada-C03"
 required: false
 required_for: []
@@ -115,7 +116,8 @@ competencies:
   - Observación
   - Autoconciencia
 activity_type:
-  - Juego
+  - Aprender haciendo
+  - Exploración
 category:
   - Juegos scouts
   - Observación

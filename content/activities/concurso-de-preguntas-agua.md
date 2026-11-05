@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Papel
-  - Bolígrafos
+  - Biromes
 tools: []
 responsible:
   - Docente o Scouter
@@ -107,7 +107,6 @@ competencies:
 
 activity_type:
   - Juego
-  - Aprender jugando
   - Debate / Diálogo
 
 category:

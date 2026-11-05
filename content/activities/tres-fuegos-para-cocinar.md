@@ -121,7 +121,7 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Aprender haciendo
-  - Aprender jugando
+  - Juego
 category:
   - Técnicas scout
   - Campamento

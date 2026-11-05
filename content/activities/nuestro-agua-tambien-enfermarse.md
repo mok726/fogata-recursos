@@ -128,7 +128,6 @@ competencies:
   - Empatía
 activity_type:
   - Juego
-  - Aprender jugando
   - Reflexión
 category:
   - Salud

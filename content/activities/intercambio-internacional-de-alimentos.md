@@ -124,7 +124,6 @@ competencies:
 activity_type:
   - Juego
   - Simulación
-  - Aprender jugando
 
 category:
   - Comercio

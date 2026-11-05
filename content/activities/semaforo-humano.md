@@ -101,7 +101,7 @@ competencies:
   - Autoconciencia
 activity_type:
   - Juego
-  - Aprender jugando
+  - Simulación
 category:
   - Seguridad vial
 skills:

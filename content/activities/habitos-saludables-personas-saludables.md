@@ -34,7 +34,7 @@ age_group:
 materials:
   - Espacio para jugar
   - Pizarra blanca y marcadores
-  - (Opcional) Pegatinas de colores
+  - (Opcional) Calcomanías de colores
 tools: []
 responsible:
   - Docente o Scouter
@@ -121,7 +121,6 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Juego
-  - Aprender jugando
   - Dinámica de grupos
 category:
   - Salud
@@ -210,7 +209,7 @@ Los gérmenes son agentes infecciosos que pueden enfermarte. Se pueden encontrar
 10. Explicá que si alguien es tocado por un participante que representa "ello" (un germen que causa enfermedades), debe salir del área de juego e ir al hospital.
 11. Si un participante toca a un voluntario de hábitos saludables antes de ser tocado por un "germen que causa enfermedades", tiene inmunidad por un toque. Si un participante ha tocado a los tres "hábitos saludables", tiene inmunidad contra los "gérmenes que causan enfermedades" por tres toques (el mismo nivel de inmunidad que los propios hábitos saludables).
 
-*Nota: Este juego se puede jugar con pegatinas de diferentes colores. "La enfermedad" lleva pegatinas rojas e infecta a los estudiantes colocándoles pegatinas rojas. Los "hábitos saludables" llevan pegatinas amarillas, azules y verdes y dan inmunidad a los estudiantes con sus pegatinas de hábitos saludables. Esto permite a los estudiantes y a las enfermedades llevar un registro del número de toques e inmunidades.*
+*Nota: Este juego se puede jugar con calcomanías de diferentes colores. "La enfermedad" lleva calcomanías rojas e infecta a los estudiantes colocándoles calcomanías rojas. Los "hábitos saludables" llevan calcomanías amarillas, azules y verdes y dan inmunidad a los estudiantes con sus calcomanías de hábitos saludables. Esto permite a los estudiantes y a las enfermedades llevar un registro del número de toques e inmunidades.*
 
 ### Paso 5: Reflexión
 12. Preguntá a los participantes que levanten la mano si no se enfermaron después de la primera vez que fueron tocados. Repetí la pregunta pidiendo a los estudiantes que levanten la mano si no se enfermaron después de la segunda y tercera vez que fueron tocados.

@@ -114,7 +114,7 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Juego
-  - Aprender jugando
+  - Creatividad / Arte
 category:
   - Agua
   - Cultura

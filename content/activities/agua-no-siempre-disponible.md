@@ -121,7 +121,6 @@ competencies:
   - Conciencia social
 activity_type:
   - Juego
-  - Aprender jugando
   - Dinámica de grupos
 category:
   - Escasez

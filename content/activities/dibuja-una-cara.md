@@ -113,6 +113,7 @@ competencies:
   - Observación
 activity_type:
   - Juego
+  - Creatividad / Arte
 category:
   - Juegos scouts
   - Observación

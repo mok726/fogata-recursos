@@ -121,7 +121,6 @@ competencies:
 
 activity_type:
   - Juego
-  - Aprender jugando
   - Actividad física
 
 category:

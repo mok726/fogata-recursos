@@ -123,7 +123,6 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Juego
-  - Aprender jugando
   - Aprender haciendo
 category:
   - Reciclaje

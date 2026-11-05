@@ -125,7 +125,7 @@ competencies:
 activity_type:
   - Exploración
   - Creatividad / Arte
-  - Aprender jugando
+  - Juego
 category:
   - Insectos
   - Naturaleza

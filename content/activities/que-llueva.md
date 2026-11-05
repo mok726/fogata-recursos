@@ -122,7 +122,6 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
-  - Aprender jugando
   - Creatividad / Arte
 category:
   - Lluvia

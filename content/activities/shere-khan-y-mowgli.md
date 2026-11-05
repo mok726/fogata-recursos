@@ -114,6 +114,7 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
+  - Actividad física
 category:
   - Juegos scouts
   - Libro de la Selva

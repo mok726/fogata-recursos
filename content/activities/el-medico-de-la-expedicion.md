@@ -113,7 +113,7 @@ competencies:
   - Empatía
 activity_type:
   - Simulación
-  - Aprender jugando
+  - Juego
 category:
   - Juegos scouts
   - Primeros auxilios

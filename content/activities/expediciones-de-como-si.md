@@ -118,6 +118,8 @@ competencies:
   - Comunicación
   - Trabajo en equipo
 activity_type:
+  - Simulación
+  - Exploración
   - Juego
 category:
   - Salidas

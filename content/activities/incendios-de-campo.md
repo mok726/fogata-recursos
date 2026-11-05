@@ -125,7 +125,6 @@ competencies:
 activity_type:
   - Juego
   - Aprender haciendo
-  - Aprender jugando
 category:
   - Naturaleza
   - Conservación

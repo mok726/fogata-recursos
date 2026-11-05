@@ -114,8 +114,8 @@ competencies:
   - Investigación
   - Conocimiento nutricional
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Exploración
+  - Investigación
 category:
   - Juegos scouts
   - Alimentos
