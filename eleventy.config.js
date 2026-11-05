@@ -130,6 +130,35 @@ const activityAddedDates = (() => {
 })();
 
 
+// Fecha del último commit que tocó cada actividad (lastmod
+// del sitemap). git log va del más nuevo al más viejo: la
+// primera fecha vista para un archivo es la última modificación.
+
+const activityModifiedDates = (() => {
+
+  const dates = {};
+
+  try {
+    const log = require("child_process").execSync(
+      'git log --name-only --format="@%cI" -- content/activities/',
+      { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 }
+    );
+
+    let current = "";
+
+    for (const line of log.split("\n")) {
+      if (line.startsWith("@")) current = line.slice(1);
+      else if (line.trim() && !dates[line.trim()]) dates[line.trim()] = current;
+    }
+  } catch (e) {
+    console.warn("[fogata] Sin historial git: sitemap sin lastmod.");
+  }
+
+  return dates;
+
+})();
+
+
 // Más recientes primero. Usada por la landing
 // ("Actividades destacadas").
 
@@ -241,17 +270,89 @@ eleventyConfig.addCollection(
           item.data.pagination?.hrefs || [item.url]
         );
 
+      // Fecha del último cambio de cada ficha (lastmod).
+      const lastmod = {};
+      for (const item of collectionApi.getFilteredByGlob(
+        "content/activities/*.md"
+      )) {
+        const d = activityModifiedDates[
+          item.inputPath.replace(/^\.\//, "")
+        ];
+        if (d) lastmod[item.url] = d;
+      }
+
       return [...new Set(urls)]
         .filter(url =>
           url &&
           !sitemapExcluded.some(re => re.test(url))
-        );
+        )
+        .map(url => ({ url, lastmod: lastmod[url] || "" }));
 
     }
   );
 
   eleventyConfig.addPassthroughCopy({
     "content/robots.txt": "robots.txt"
+  });
+
+  // Notas y copias viejas de plantillas dentro de css/:
+  // no se publican como páginas.
+  eleventyConfig.ignores.add("content/css/**/*.md");
+  eleventyConfig.ignores.add("content/css/**/*.njk");
+
+
+  // Datos estructurados (schema.org) en JSON-LD.
+  // Portada: WebSite con búsqueda. Fichas: LearningResource.
+  eleventyConfig.addFilter("jsonLd", function(page, d) {
+
+    const base = site.url + site.pathPrefix;
+    const abs = p => p ? base + p : undefined;
+    const list = v => (Array.isArray(v) ? v : [v])
+      .filter(x => typeof x === "string" && x.trim());
+
+    let data = null;
+
+    if (page.url === "/") {
+      data = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: site.name,
+        description: site.description,
+        url: base + "/",
+        inLanguage: site.language,
+        potentialAction: {
+          "@type": "SearchAction",
+          target: base + "/activities/?search={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      };
+    } else if (
+      /^\.?\/?content\/activities\/[^/]+\.md$/.test(page.inputPath)
+    ) {
+      const ages = String(d.age || "").match(/(\d+)\D+(\d+)/);
+      data = {
+        "@context": "https://schema.org",
+        "@type": "LearningResource",
+        name: d.title,
+        description: d.description || undefined,
+        url: base + page.url,
+        image: abs(d.image),
+        inLanguage: site.language,
+        isAccessibleForFree: true,
+        learningResourceType: "Actividad scout",
+        typicalAgeRange: ages ? ages[1] + "-" + ages[2] : undefined,
+        keywords: list(d.tags).join(", ") || undefined,
+        creator: list(d.author),
+        license: d.license && d.license.url || undefined,
+        isPartOf: { "@type": "WebSite", name: site.name, url: base + "/" }
+      };
+      if (!data.creator.length) delete data.creator;
+    }
+
+    return data
+      ? JSON.stringify(data).replace(/</g, "\\u003c")
+      : "";
+
   });
 
 

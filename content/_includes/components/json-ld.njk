@@ -1,0 +1,14 @@
+{# Datos estructurados (schema.org) para buscadores:
+   WebSite en la portada, LearningResource en cada ficha. #}
+{% set ld = page | jsonLd({
+  title: title,
+  description: pageDescription | trim,
+  image: ogImage if ogType == "article" else "",
+  author: author,
+  age: age,
+  license: license,
+  tags: tags
+}) %}
+{% if ld %}
+<script type="application/ld+json">{{ ld | safe }}</script>
+{% endif %}

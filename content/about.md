@@ -1,4 +1,5 @@
 ---
+description: "Qué es Fogata de Recursos: una biblioteca abierta de actividades scouts y recursos educativos, fácil de buscar y reutilizar."
 layout: layouts/base.njk
 prose: true
 title: Acerca de Fogata de Recursos

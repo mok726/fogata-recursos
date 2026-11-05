@@ -1,4 +1,5 @@
 ---
+description: "Licencias del contenido de Fogata de Recursos: material propio, actividades de terceros y permisos de uso."
 layout: layouts/base.njk
 prose: true
 title: Licencias

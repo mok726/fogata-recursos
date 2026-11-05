@@ -20,6 +20,13 @@ module.exports = {
   language:
     "es",
 
+  // Códigos de verificación (solo el valor de content="…"):
+  // Google Search Console y Bing Webmaster Tools.
+  verification: {
+    google: "",
+    bing: ""
+  },
+
   repository:
     "https://github.com/mok726/fogata-recursos"
 

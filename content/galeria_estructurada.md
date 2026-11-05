@@ -1,3 +1,8 @@
+---
+layout: layouts/base.njk
+title: Galería estructurada
+noindex: true
+---
 # Galería de Imágenes - Estructura Completa
 
 > Generado el 2026-06-23 23:18:03

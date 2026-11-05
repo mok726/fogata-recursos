@@ -62,6 +62,21 @@
     rel="canonical"
     href="{{ canonicalUrl | trim }}">
 
+  {# Páginas internas o de prueba: front matter `noindex: true`. #}
+  {% if noindex %}
+  <meta name="robots" content="noindex, follow">
+  {% endif %}
+
+  {# Verificación de buscadores: completar en _data/site.js. #}
+  {% if site.verification.google %}
+  <meta name="google-site-verification" content="{{ site.verification.google }}">
+  {% endif %}
+  {% if site.verification.bing %}
+  <meta name="msvalidate.01" content="{{ site.verification.bing }}">
+  {% endif %}
+
+  {% include "components/json-ld.njk" %}
+
 	<!-- Favicon -->
   <link
     rel="icon"
