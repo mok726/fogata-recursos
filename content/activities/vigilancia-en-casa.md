@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Papel
-  - Bolígrafos
+  - Biromes
 tools: []
 responsible:
   - Docente o Scouter

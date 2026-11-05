@@ -119,7 +119,8 @@ competencies:
   - Conservación
   - Investigación
 activity_type:
-  - Juego
+  - Exploración
+  - Investigación
 category:
   - Naturaleza
   - Observación

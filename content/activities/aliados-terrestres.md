@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Papel
-  - Bolígrafos
+  - Biromes
   - Lápices de colores
 tools: []
 responsible:

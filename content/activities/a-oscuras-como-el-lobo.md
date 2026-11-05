@@ -115,7 +115,8 @@ competencies:
   - Observación
   - Autoconciencia
 activity_type:
-  - Juego
+  - Aprender haciendo
+  - Exploración
 category:
   - Juegos scouts
   - Observación

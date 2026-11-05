@@ -118,7 +118,9 @@ competencies:
   - Responsabilidad
   - Resolución de problemas
 activity_type:
-  - Juego
+  - Simulación
+  - Salud
+  - Comunicación
 category:
   - Seguridad
   - Comunicación

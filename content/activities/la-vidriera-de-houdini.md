@@ -114,7 +114,8 @@ image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in 
 competencies:
   - Observación
 activity_type:
-  - Juego
+  - Aprender haciendo
+  - Aprender jugando
 category:
   - Juegos scouts
   - Observación

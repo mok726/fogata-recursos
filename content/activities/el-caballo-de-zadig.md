@@ -116,7 +116,8 @@ competencies:
   - Pensamiento crítico
   - Resolución de problemas
 activity_type:
-  - Juego
+  - Investigación
+  - Aprender jugando
 category:
   - Rastreo
   - Observación

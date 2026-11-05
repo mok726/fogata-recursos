@@ -196,7 +196,7 @@ Cuando una persona abre una canilla para beber un vaso de agua, puede estar obte
 1. Lago
 2. Río
 3. Pozo
-4. Grifo (agua de la ciudad)
+4. Canilla (agua de la ciudad)
 
 ## Cierre
 - ¿Cuál es la conexión entre el agua y el medio ambiente?

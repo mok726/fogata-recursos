@@ -113,6 +113,8 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
+  - Salud
+  - Aprender jugando
 category:
   - Juegos scouts
   - Salud

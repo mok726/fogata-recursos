@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "O'Grady Dice"
+title: "Simón Dice"
 duration: "10 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ogrady-dice/"
-description: "Juego de atención de Baden-Powell: solo se obedecen las órdenes que empiezan con \"O'Grady dice\" (el clásico \"Simón dice\")."
-summary: "Obedecer solo las órdenes que empiezan con \"O'Grady dice\"."
+description: "Juego de atención de Baden-Powell: solo se obedecen las órdenes que empiezan con \"Simón dice\" (en el original inglés, \"O'Grady says\")."
+summary: "Obedecer solo las órdenes que empiezan con \"Simón dice\"."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -146,21 +146,21 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡O'Grady Dice!
+# ¡Simón Dice!
 
 ## Resumen
-En ronda, Akela da órdenes ("¡Manos arriba!", "¡Saltá en un pie!"). Solo hay que obedecer las que empiezan con "O'Grady dice". Quien obedece una orden sin esa frase pierde una vida.
+En ronda, Akela da órdenes ("¡Manos arriba!", "¡Saltá en un pie!"). Solo hay que obedecer las que empiezan con "Simón dice". Quien obedece una orden sin esa frase pierde una vida.
 
 ## Desarrollo
 1. Todos en ronda; Akela adelante o en el centro.
-2. Akela da órdenes con gestos. Solo se cumplen las que empiezan con "O'Grady dice...".
+2. Akela da órdenes con gestos. Solo se cumplen las que empiezan con "Simón dice...".
 3. Si alguien cumple una orden que no empezó así, pierde una vida (cada uno tiene tres, por ejemplo).
 4. Akela va más rápido para hacerlo más difícil.
 
 ## Cierre
 - ¿Qué los hizo equivocar: escuchar mal o copiar lo que hacía Akela?
 
-> **Nota:** es el mismo juego que "Simón dice". Podés usar ese nombre o el original.
+> **Nota:** en el original de Baden-Powell el juego se llama "O'Grady says" («O'Grady dice»); es el mismo juego que conocemos como "Simón dice".
 
 ## Texto original completo de la actividad
 

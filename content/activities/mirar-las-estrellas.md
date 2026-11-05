@@ -112,8 +112,8 @@ competencies:
   - Observación
   - Orientación
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Exploración
+  - Orientación
 category:
   - Juegos scouts
   - Orientación

@@ -31,7 +31,7 @@ materials:
   - Baldes o bolsas para recolectar la basura
   - Guantes
   - Básculas
-  - Bolígrafos y papel
+  - Biromes y papel
   - Pegamento
   - Cámara (opcional)
 tools: []

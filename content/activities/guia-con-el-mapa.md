@@ -112,8 +112,8 @@ competencies:
   - Liderazgo
   - Trabajo en equipo
 activity_type:
-  - Juego
-  - Aprender jugando
+  - Orientación
+  - Exploración
 category:
   - Juegos scouts
   - Orientación

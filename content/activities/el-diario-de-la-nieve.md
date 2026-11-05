@@ -117,7 +117,9 @@ competencies:
   - Observación
   - Pensamiento crítico
 activity_type:
-  - Juego
+  - Exploración
+  - Investigación
+  - Aprender jugando
 category:
   - Rastreo
   - Observación

@@ -32,7 +32,7 @@ age_group:
 materials:
   - Tabla sujetapapeles
   - Papel
-  - Bolígrafos
+  - Biromes
   - Cámara (opcional)
   - Una guía para la playa
   - Acceso a internet o a libros de referencia

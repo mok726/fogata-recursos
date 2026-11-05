@@ -115,7 +115,8 @@ competencies:
   - Comunicación
   - Responsabilidad
 activity_type:
-  - Juego
+  - Comunicación
+  - Aprender haciendo
 category:
   - Juegos scouts
   - Comunicación

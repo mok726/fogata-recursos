@@ -117,7 +117,7 @@ competencies:
   - Resolución de problemas
 activity_type:
   - Juego
-  - Aprender jugando
+  - Actividad física
 category:
   - Juegos scouts
   - Rastreo

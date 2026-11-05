@@ -114,6 +114,7 @@ competencies:
   - Trabajo en equipo
 activity_type:
   - Juego
+  - Comunicación
 category:
   - Juegos scouts
   - Comunicación

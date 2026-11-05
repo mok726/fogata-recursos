@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Papel
-  - Bolígrafos
+  - Biromes
   - Acceso a internet
 tools: []
 responsible:

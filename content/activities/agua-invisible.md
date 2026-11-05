@@ -31,7 +31,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cartulina grande
-  - Adhesivos o pegatinas
+  - Adhesivos o calcomanías
   - Marcadores
   - Papel
   - Lápices

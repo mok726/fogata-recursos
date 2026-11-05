@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Camiseta vieja (cuanto más gruesa, más resistente será la bolsa)
+  - Remera vieja (cuanto más gruesa, más resistente será la bolsa)
   - Marcador lavable (opcional)
 tools:
   - Tijeras afiladas (preferiblemente de tela)

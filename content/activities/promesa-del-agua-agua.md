@@ -38,7 +38,7 @@ materials:
   - Lápices de colores
   - Acuarelas
   - Cinta adhesiva
-  - Materiales de manualidades (fieltro, pegatinas, purpurina, limpiapipas, papeles de colores, etc.)
+  - Materiales de manualidades (fieltro, calcomanías, purpurina, limpiapipas, papeles de colores, etc.)
   - Pizarra blanca y marcadores
 tools: []
 responsible:

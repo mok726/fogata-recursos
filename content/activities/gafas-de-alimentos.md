@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Caminando con Gafas de Alimentos Puestas!"
+title: "¡Caminando con Anteojos de Alimentos Puestos!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/gafas-de-alimentos/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible y sustentable.
 ---
 
-# ¡Caminando con Gafas de Alimentos Puestas!
+# ¡Caminando con Anteojos de Alimentos Puestos!
 
 ## Resumen
 Prestar atención a los objetos en tu vecindario asociados con el consumo y la producción de alimentos. Caminá con tus amigos por el barrio y buscá cosas relacionadas con la comida, su producción, consumo y almacenamiento.
@@ -178,7 +178,7 @@ Prestar atención a los objetos en tu vecindario asociados con el consumo y la p
 ## Desarrollo
 
 ### Parte I - Caminata
-¡Ponete tus "gafas de alimentos"! Esto significa que estamos caminando tratando de encontrar cosas relacionadas con los alimentos, la producción, el consumo, el almacenamiento de alimentos, etc. Caminá con tus amigos por el barrio, ¿qué ves que te hace pensar en comida?
+¡Ponete tus "anteojos de alimentos"! Esto significa que estamos caminando tratando de encontrar cosas relacionadas con los alimentos, la producción, el consumo, el almacenamiento de alimentos, etc. Caminá con tus amigos por el barrio, ¿qué ves que te hace pensar en comida?
 
 **Posibles hallazgos:**
 - Campos de maíz o trigo que se pueden usar para hacer pan

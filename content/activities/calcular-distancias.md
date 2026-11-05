@@ -114,6 +114,7 @@ competencies:
   - Pensamiento lógico
 activity_type:
   - Juego
+  - Orientación
   - Aprender jugando
 category:
   - Juegos scouts

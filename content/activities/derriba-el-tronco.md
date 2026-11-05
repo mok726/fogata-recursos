@@ -112,6 +112,7 @@ competencies:
   - Autoconciencia
 activity_type:
   - Juego
+  - Actividad física
 category:
   - Juegos scouts
 skills:

@@ -197,7 +197,7 @@ Todos los seres humanos tenemos necesidades básicas que deben ser cubiertas par
 
 | Necesidades | Deseos |
 |-------------|--------|
-| Agua | Teléfono móvil |
+| Agua | Celular |
 | Comida | Televisión |
 | Cama | Videojuegos |
 | Abrigo de invierno | Vacaciones |
