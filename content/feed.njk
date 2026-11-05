@@ -1,0 +1,27 @@
+---
+permalink: /feed.xml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+{#- Últimas 30 actividades incorporadas (fecha del primer commit). -#}
+{%- set base = site.url + site.pathPrefix -%}
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <title>{{ site.name }}: actividades nuevas</title>
+  <subtitle>{{ site.description }}</subtitle>
+  <link href="{{ base }}/feed.xml" rel="self"/>
+  <link href="{{ base }}/"/>
+  <id>{{ base }}/</id>
+  <author><name>{{ site.author }}</name></author>
+  <updated>{{ buildDate.toISOString() }}</updated>
+{%- for it in collections.activitiesRecent %}{% if loop.index <= 30 %}
+  {%- set alta = it.inputPath | fechaAlta %}
+  <entry>
+    <title>{{ it.data.title | smartTitle }}</title>
+    <link href="{{ site.url }}{{ it.url | url }}"/>
+    <id>{{ site.url }}{{ it.url | url }}</id>
+    <updated>{{ alta or buildDate.toISOString() }}</updated>
+    <summary>{{ it.data.description or it.data.summary }}</summary>
+  </entry>
+{%- endif %}{% endfor %}
+</feed>

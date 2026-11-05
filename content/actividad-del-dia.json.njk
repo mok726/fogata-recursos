@@ -1,0 +1,10 @@
+---
+permalink: /actividad-del-dia.json
+layout: null
+eleventyExcludeFromCollections: true
+---
+{#- Hoy y los próximos 14 días (hora argentina). Lo lee
+    .github/scripts/anunciar.mjs para publicar en redes. -#}
+{%- set dias = collections.activitiesDaily | actividadesDelDia(15) -%}
+{%- set absoluto = true -%}
+{ "dias": {% include "components/actividad-del-dia-datos.njk" %} }

@@ -1,0 +1,28 @@
+---
+permalink: /actividad-del-dia.xml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+{#- La actividad del día de hoy y los 6 anteriores. Sirve para
+    conectar servicios externos que publican desde un feed. -#}
+{%- set base = site.url + site.pathPrefix -%}
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <title>{{ site.name }}: actividad del día</title>
+  <link href="{{ base }}/actividad-del-dia.xml" rel="self"/>
+  <link href="{{ base }}/"/>
+  <id>{{ base }}/actividad-del-dia</id>
+  <author><name>{{ site.author }}</name></author>
+{%- set dias = collections.activitiesDaily | actividadesDelDia(7, -6) | reverse %}
+  <updated>{{ dias[0].fecha }}T07:00:00-03:00</updated>
+{%- for d in dias %}
+  <entry>
+    <title>{{ d.item.data.title | smartTitle }}</title>
+    <link href="{{ site.url }}{{ d.item.url | url }}"/>
+    <id>{{ base }}/actividad-del-dia/{{ d.fecha }}</id>
+    <updated>{{ d.fecha }}T07:00:00-03:00</updated>
+    <summary>{{ d.item.data.description or d.item.data.summary }}</summary>
+    <link rel="enclosure" type="image/jpeg" href="{{ site.url }}{{ d.item.data.image | thumb('og') | url }}"/>
+  </entry>
+{%- endfor %}
+</feed>
