@@ -126,6 +126,7 @@ category:
   - Juegos scouts
   - Observación
 skills:
+  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========

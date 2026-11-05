@@ -121,6 +121,7 @@ category:
   - Naturaleza
   - Observación
 skills:
+  - Técnicas scout
   - Observación
   - Investigación
 

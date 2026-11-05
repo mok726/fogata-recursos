@@ -126,6 +126,7 @@ category:
   - Clima
   - Ciencia
 skills:
+  - Técnicas scout
   - Pensamiento científico
   - Observación
 
