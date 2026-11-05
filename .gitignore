@@ -5,3 +5,6 @@ _site/
 docs/
 _enlaces/
 lote.log
+
+__pycache__/
+*.pyc
