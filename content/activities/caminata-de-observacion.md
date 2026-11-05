@@ -123,6 +123,7 @@ category:
   - Observación
   - Salidas
 skills:
+  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========

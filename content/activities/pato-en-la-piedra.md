@@ -118,6 +118,7 @@ category:
   - Juegos scouts
   - Juegos tradicionales
 skills:
+  - Técnicas scout
   - Destreza física
   - Trabajo en equipo
 

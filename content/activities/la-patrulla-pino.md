@@ -118,6 +118,7 @@ category:
   - Campamento
   - Vida de patrulla
 skills:
+  - Técnicas scout
   - Planificación y organización
   - Liderazgo
 

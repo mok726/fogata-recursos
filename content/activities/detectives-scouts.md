@@ -121,6 +121,7 @@ category:
   - Juegos scouts
   - Observación
 skills:
+  - Técnicas scout
   - Observación
   - Pensamiento crítico
 
