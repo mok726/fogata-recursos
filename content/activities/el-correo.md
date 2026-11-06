@@ -122,8 +122,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
-  - Hermandad
+  - Superación Personal y Perseverancia
+  - Hermandad y Fraternidad
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

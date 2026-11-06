@@ -120,9 +120,8 @@ skills:
   - Investigación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Creatividad e Ingenio
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Vida en la Naturaleza y Aventura

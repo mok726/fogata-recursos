@@ -122,8 +122,8 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Solidaridad
-  - Hermandad
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
 
 scout_method:
   - Aprender haciendo

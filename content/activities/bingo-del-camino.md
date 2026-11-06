@@ -127,7 +127,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

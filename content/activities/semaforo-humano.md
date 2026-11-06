@@ -110,8 +110,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Salud
+  - Responsabilidad y Compromiso
+  - Vida Sana y Bienestar
   - Optimismo y Alegría
 scout_method:
   - Aprender haciendo

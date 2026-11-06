@@ -120,8 +120,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
-  - Superación personal
+  - Vida Sana y Bienestar
+  - Superación Personal y Perseverancia
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

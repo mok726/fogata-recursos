@@ -122,8 +122,8 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Naturaleza
-  - Superación personal
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender haciendo

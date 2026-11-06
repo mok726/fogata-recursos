@@ -123,8 +123,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Hermandad
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

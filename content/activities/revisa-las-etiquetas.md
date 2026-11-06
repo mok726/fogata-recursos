@@ -128,9 +128,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Aprender haciendo

@@ -126,9 +126,9 @@ skills:
   - Liderazgo
 
 scout_values:
-  - Justicia
-  - Responsabilidad
-  - Solidaridad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
   - Participación comunitaria y Servicio

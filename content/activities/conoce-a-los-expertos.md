@@ -125,9 +125,9 @@ skills:
   - Empatía
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
-  - Respeto al prójimo
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
+  - Respeto y Valoración de la Diversidad
 
 scout_method:
   - Aprender haciendo

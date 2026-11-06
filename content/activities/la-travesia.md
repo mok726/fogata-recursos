@@ -125,8 +125,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Aventura
-  - Superación personal
+  - Espíritu Aventurero
+  - Superación Personal y Perseverancia
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Sistema de equipos

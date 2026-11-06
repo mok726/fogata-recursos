@@ -140,8 +140,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Solidaridad
-  - Creatividad e Ingenio
+  - Solidaridad y Servicio
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

@@ -125,9 +125,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Hermandad
-  - Justicia
-  - Responsabilidad
+  - Hermandad y Fraternidad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender haciendo

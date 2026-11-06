@@ -133,9 +133,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Justicia
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Justicia y Equidad
 
 scout_method:
   - Aprender haciendo

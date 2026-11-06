@@ -145,9 +145,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
+  - Compromiso con la Naturaleza
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender haciendo
   - Vida en la Naturaleza y Aventura

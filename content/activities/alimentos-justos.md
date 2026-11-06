@@ -142,8 +142,8 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Justicia
-  - Responsabilidad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
 
 scout_method:

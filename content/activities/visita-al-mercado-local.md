@@ -123,9 +123,9 @@ skills:
   - Investigación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Hermandad
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
+  - Hermandad y Fraternidad
 
 scout_method:
   - Aprender haciendo

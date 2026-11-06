@@ -3,7 +3,8 @@
    Espera heroKicker, heroTitle, heroText, cards (del filtro
    indexCards en eleventy.config.js) y symbol: el ícono de
    Material Symbols para las tarjetas que no tienen imagen ni
-   símbolo propio. #}
+   símbolo propio. Opcional: indexIntro, HTML que va entre el
+   hero y las tarjetas. #}
 <div class="acts acts-detail" data-pagefind-ignore="all">
 
 <section class="acts-hero">
@@ -13,6 +14,8 @@
     {% if heroText %}<p>{{ heroText }}</p>{% endif %}
   </div>
 </section>
+
+{% if indexIntro %}<section class="idx-intro">{{ indexIntro | safe }}</section>{% endif %}
 
 <ul class="idx-grid">
   {% for card in cards %}

@@ -130,7 +130,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Aventura
+  - Espíritu Aventurero
   - Optimismo y Alegría
 scout_method:
   - Marco simbólico

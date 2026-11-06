@@ -125,9 +125,9 @@ skills:
   - Responsabilidad
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Solidaridad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
   - Vida en la Naturaleza y Aventura

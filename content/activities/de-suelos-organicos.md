@@ -122,9 +122,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Justicia
+  - Justicia y Equidad
 
 scout_method:
   - Aprender haciendo

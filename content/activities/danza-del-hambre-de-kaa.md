@@ -125,7 +125,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Superación Personal y Perseverancia
 scout_method:
   - Marco simbólico
   - Aprender haciendo

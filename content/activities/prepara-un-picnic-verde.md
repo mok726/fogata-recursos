@@ -140,8 +140,8 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Salud
-  - Naturaleza
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
   - Optimismo y Alegría
 
 scout_method:

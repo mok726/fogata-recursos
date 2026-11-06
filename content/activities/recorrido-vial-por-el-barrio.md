@@ -113,9 +113,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Salud
-  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad y Compromiso
+  - Vida Sana y Bienestar
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender haciendo
   - Acompañamiento adulto / Protagonismo juvenil

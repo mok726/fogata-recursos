@@ -123,9 +123,9 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Solidaridad
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
   - Aprender haciendo

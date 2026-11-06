@@ -124,9 +124,9 @@ skills:
   - Creatividad
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Respeto al prójimo
-  - Superación personal
+  - Curiosidad y Deseo de Aprender
+  - Respeto y Valoración de la Diversidad
+  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender haciendo

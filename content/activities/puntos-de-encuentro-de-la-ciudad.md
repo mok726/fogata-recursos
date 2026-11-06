@@ -137,9 +137,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
-  - Solidaridad
-  - Respeto al prójimo
+  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
+  - Respeto y Valoración de la Diversidad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

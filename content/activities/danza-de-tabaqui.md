@@ -123,8 +123,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Lealtad y Sentido de Pertenencia
-  - Justicia
+  - Lealtad y Pertenencia
+  - Justicia y Equidad
 scout_method:
   - Marco simbólico
   - Aprender haciendo

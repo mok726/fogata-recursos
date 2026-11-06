@@ -141,9 +141,8 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Optimismo y Alegría
-  - Hermandad
+  - Hermandad y Fraternidad
 
 scout_method:
   - Aprender haciendo

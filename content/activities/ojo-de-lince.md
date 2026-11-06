@@ -125,7 +125,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Superación Personal y Perseverancia
   - Optimismo y Alegría
 scout_method:
   - Aprender haciendo

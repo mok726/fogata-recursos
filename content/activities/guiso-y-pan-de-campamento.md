@@ -130,7 +130,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
+  - Hermandad y Fraternidad
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo

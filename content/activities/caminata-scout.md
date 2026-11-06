@@ -129,8 +129,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Aventura
-  - Salud
+  - Espíritu Aventurero
+  - Vida Sana y Bienestar
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

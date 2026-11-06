@@ -128,8 +128,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
-  - Responsabilidad
+  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
 scout_method:
   - Marco simbólico
   - Aprender haciendo

@@ -134,9 +134,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Justicia
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Justicia y Equidad
 
 scout_method:
   - Acompañamiento adulto / Protagonismo juvenil

@@ -120,9 +120,8 @@ skills:
   - Comunicación
 
 scout_values:
-  - Creatividad e Ingenio
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Marco simbólico

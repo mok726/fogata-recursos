@@ -123,8 +123,7 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Compromiso con la Naturaleza
   - Optimismo y Alegría
 
 scout_method:

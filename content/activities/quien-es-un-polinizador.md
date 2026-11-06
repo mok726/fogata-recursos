@@ -139,8 +139,8 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

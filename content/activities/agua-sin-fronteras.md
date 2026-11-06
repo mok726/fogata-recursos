@@ -119,9 +119,9 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Justicia
-  - Hermandad
-  - Responsabilidad
+  - Justicia y Equidad
+  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Participación comunitaria y Servicio

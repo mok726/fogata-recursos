@@ -120,9 +120,9 @@ skills:
   - Investigación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Superación personal
-  - Responsabilidad
+  - Curiosidad y Deseo de Aprender
+  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender haciendo

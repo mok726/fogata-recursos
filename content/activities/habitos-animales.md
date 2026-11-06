@@ -123,9 +123,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
-  - Aventura
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Espíritu Aventurero
 
 scout_method:
   - Vida en la Naturaleza y Aventura

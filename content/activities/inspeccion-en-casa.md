@@ -127,9 +127,9 @@ skills:
   - Responsabilidad
 
 scout_values:
-  - Responsabilidad
-  - Superación personal
-  - Salud
+  - Responsabilidad y Compromiso
+  - Superación Personal y Perseverancia
+  - Vida Sana y Bienestar
 
 scout_method:
   - Aprender haciendo

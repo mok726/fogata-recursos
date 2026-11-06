@@ -129,8 +129,7 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

@@ -133,9 +133,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Solidaridad
-  - Naturaleza
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

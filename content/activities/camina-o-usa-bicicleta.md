@@ -123,9 +123,9 @@ skills:
   - Autoconciencia
 
 scout_values:
-  - Salud
-  - Naturaleza
-  - Superación personal
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
   - Vida en la Naturaleza y Aventura

@@ -121,9 +121,9 @@ skills:
   - Comunicación
 
 scout_values:
-  - Hermandad
-  - Solidaridad
-  - Superación personal
+  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
+  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender haciendo

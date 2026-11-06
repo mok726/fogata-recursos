@@ -123,8 +123,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo

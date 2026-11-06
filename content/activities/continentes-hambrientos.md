@@ -141,9 +141,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Hermandad
-  - Solidaridad
+  - Curiosidad y Deseo de Aprender
+  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
 
 scout_method:
   - Aprender haciendo

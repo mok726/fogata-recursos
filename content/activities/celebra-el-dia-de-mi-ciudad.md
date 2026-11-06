@@ -140,8 +140,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Hermandad
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
   - Optimismo y Alegría
 scout_method:
   - Aprender haciendo

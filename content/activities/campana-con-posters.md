@@ -125,9 +125,8 @@ skills:
   - Planificación y organización
 
 scout_values:
-  - Creatividad e Ingenio
-  - Responsabilidad
-  - Naturaleza
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

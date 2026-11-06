@@ -142,9 +142,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
-  - Salud
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
+  - Vida Sana y Bienestar
 
 scout_method:
   - Aprender haciendo

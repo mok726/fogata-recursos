@@ -128,7 +128,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo

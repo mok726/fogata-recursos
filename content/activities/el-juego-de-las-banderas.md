@@ -124,8 +124,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Lealtad y Sentido de Pertenencia
-  - Superación personal
+  - Lealtad y Pertenencia
+  - Superación Personal y Perseverancia
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

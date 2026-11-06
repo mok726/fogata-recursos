@@ -121,9 +121,9 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Responsabilidad
-  - Solidaridad
-  - Justicia
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
+  - Justicia y Equidad
 
 scout_method:
   - Participación comunitaria y Servicio

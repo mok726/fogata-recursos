@@ -124,9 +124,9 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender haciendo

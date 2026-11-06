@@ -131,9 +131,8 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Creatividad e Ingenio
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

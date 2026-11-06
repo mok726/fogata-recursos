@@ -12,4 +12,10 @@ fonts:
 {% set heroText = "Actividades para vivir los valores scouts." %}
 {% set cards = scoutValues | indexCards("value", collections.activitiesSorted, ageGroups, badges) %}
 {% set symbol = "favorite" %}
+{% set indexIntro %}
+<h2>¿Qué entendemos por valores scout?</h2>
+<p>Los valores scout son principios que orientan cómo vivimos, convivimos, aprendemos y nos relacionamos con el mundo. No son solo normas de conducta: también expresan cómo queremos crecer como personas, cómo nos vinculamos con los demás y qué compromiso asumimos con la comunidad y la naturaleza.</p>
+<p>En Fogata de Recursos los usamos como una clasificación editorial, para identificar qué valores se pueden trabajar con cada actividad. No es una lista oficial y no reemplaza la Ley y la Promesa Scout ni los principios de tu organización scout nacional. Es una herramienta para que educadoras y educadores reconozcan las oportunidades educativas de sus propuestas.</p>
+<p>Una actividad puede aportar a varios valores, pero solo se asocia a un valor cuando ese valor es un objetivo educativo explícito o una dimensión central de la experiencia, no por una relación indirecta. Por ejemplo, un juego por patrullas no trabaja Hermandad y Fraternidad solo porque se juega en grupo; la trabaja si la cooperación entre todos es parte del objetivo.</p>
+{% endset %}
 {% include "components/browse-index.njk" %}

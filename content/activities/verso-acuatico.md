@@ -128,8 +128,7 @@ skills:
   - Hábitos sostenibles
 
 scout_values:
-  - Creatividad e Ingenio
-  - Curiosidad y Apertura al aprendizaje
+  - Curiosidad y Deseo de Aprender
   - Optimismo y Alegría
 
 scout_method:

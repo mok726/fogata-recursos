@@ -124,9 +124,9 @@ skills:
   - Planificación y organización
 
 scout_values:
-  - Salud
+  - Vida Sana y Bienestar
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

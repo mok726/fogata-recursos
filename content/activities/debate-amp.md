@@ -128,9 +128,9 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Justicia
-  - Responsabilidad
-  - Solidaridad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
   - Acompañamiento adulto / Protagonismo juvenil

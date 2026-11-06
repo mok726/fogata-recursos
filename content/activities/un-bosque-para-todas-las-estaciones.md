@@ -141,9 +141,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Perseverancia
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
   - Vida en la Naturaleza y Aventura

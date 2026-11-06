@@ -123,9 +123,9 @@ skills:
   - Empatía
 
 scout_values:
-  - Justicia
-  - Respeto al prójimo
-  - Solidaridad
+  - Justicia y Equidad
+  - Respeto y Valoración de la Diversidad
+  - Solidaridad y Servicio
 
 scout_method:
   - Aprender haciendo

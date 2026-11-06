@@ -145,9 +145,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

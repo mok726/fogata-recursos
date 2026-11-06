@@ -138,9 +138,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Hermandad
-  - Aventura
-  - Solidaridad
+  - Hermandad y Fraternidad
+  - Espíritu Aventurero
+  - Solidaridad y Servicio
 
 scout_method:
   - Vida en la Naturaleza y Aventura

@@ -121,7 +121,6 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Creatividad e Ingenio
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

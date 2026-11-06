@@ -123,9 +123,9 @@ skills:
   - Investigación
 
 scout_values:
-  - Hermandad
-  - Solidaridad
-  - Responsabilidad
+  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Participación comunitaria y Servicio

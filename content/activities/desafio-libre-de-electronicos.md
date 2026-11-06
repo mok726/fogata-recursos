@@ -136,9 +136,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Superación Personal y Perseverancia
   - Sencillez y Austeridad
-  - Salud
+  - Vida Sana y Bienestar
 scout_method:
   - Aprender haciendo
   - Progresión personal

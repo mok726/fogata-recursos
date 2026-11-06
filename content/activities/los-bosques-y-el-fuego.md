@@ -143,9 +143,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Hermandad
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Hermandad y Fraternidad
 
 scout_method:
   - Vida en la Naturaleza y Aventura

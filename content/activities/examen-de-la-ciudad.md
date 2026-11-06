@@ -142,9 +142,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
-  - Solidaridad
+  - Responsabilidad y Compromiso
+  - Curiosidad y Deseo de Aprender
+  - Solidaridad y Servicio
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

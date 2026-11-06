@@ -130,9 +130,9 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Hermandad
+  - Hermandad y Fraternidad
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Participación comunitaria y Servicio

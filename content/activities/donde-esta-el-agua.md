@@ -120,9 +120,9 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Justicia
-  - Responsabilidad
-  - Naturaleza
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

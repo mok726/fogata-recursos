@@ -149,8 +149,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Compromiso con la Naturaleza
   - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo

@@ -139,7 +139,6 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Optimismo y Alegría
   - Sencillez y Austeridad
 scout_method:

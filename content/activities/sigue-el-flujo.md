@@ -123,9 +123,9 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Responsabilidad
-  - Justicia
-  - Solidaridad
+  - Responsabilidad y Compromiso
+  - Justicia y Equidad
+  - Solidaridad y Servicio
 
 scout_method:
   - Aprender haciendo

@@ -120,9 +120,8 @@ skills:
   - Creatividad
 
 scout_values:
-  - Creatividad e Ingenio
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Marco simbólico

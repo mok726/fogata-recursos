@@ -134,9 +134,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Honestidad
-  - Justicia
-  - Respeto al prójimo
+  - Honestidad e Integridad
+  - Justicia y Equidad
+  - Respeto y Valoración de la Diversidad
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

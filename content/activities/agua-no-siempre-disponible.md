@@ -133,9 +133,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Superación personal
-  - Aventura
+  - Solidaridad y Servicio
+  - Superación Personal y Perseverancia
+  - Espíritu Aventurero
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

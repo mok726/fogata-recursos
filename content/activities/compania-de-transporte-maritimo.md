@@ -128,9 +128,8 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Creatividad e Ingenio
-  - Superación personal
-  - Aventura
+  - Superación Personal y Perseverancia
+  - Espíritu Aventurero
 
 scout_method:
   - Aprender haciendo

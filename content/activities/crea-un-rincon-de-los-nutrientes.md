@@ -140,9 +140,9 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Hermandad
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Hermandad y Fraternidad
 
 scout_method:
   - Participación comunitaria y Servicio

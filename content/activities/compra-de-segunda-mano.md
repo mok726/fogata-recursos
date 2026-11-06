@@ -123,8 +123,7 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad
-  - Creatividad e Ingenio
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender haciendo

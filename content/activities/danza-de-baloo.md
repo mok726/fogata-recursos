@@ -124,7 +124,7 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
+  - Responsabilidad y Compromiso
 scout_method:
   - Marco simbólico
   - Ley y Promesa

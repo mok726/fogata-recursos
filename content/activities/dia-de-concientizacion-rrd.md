@@ -130,8 +130,8 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Responsabilidad
-  - Solidaridad
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
   - Participación comunitaria y Servicio

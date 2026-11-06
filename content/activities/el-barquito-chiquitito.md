@@ -123,8 +123,7 @@ skills:
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e Ingenio
-  - Hermandad
+  - Hermandad y Fraternidad
 
 scout_method:
   - Marco simbólico

@@ -142,9 +142,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Naturaleza
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio

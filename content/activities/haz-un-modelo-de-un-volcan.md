@@ -129,9 +129,8 @@ skills:
   - Observación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

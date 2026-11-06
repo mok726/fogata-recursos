@@ -141,9 +141,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Sencillez y Austeridad
-  - Responsabilidad
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

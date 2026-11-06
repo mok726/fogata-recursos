@@ -112,9 +112,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
-  - Superación personal
-  - Aventura
+  - Vida Sana y Bienestar
+  - Superación Personal y Perseverancia
+  - Espíritu Aventurero
 scout_method:
   - Aprender haciendo
   - Vida en la Naturaleza y Aventura

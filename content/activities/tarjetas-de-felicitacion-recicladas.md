@@ -128,9 +128,8 @@ skills:
   - Comunicación
 
 scout_values:
-  - Creatividad e Ingenio
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Marco simbólico

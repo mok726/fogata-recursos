@@ -136,9 +136,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Honestidad
-  - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
+  - Honestidad e Integridad
+  - Responsabilidad y Compromiso
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender haciendo
   - Progresión personal

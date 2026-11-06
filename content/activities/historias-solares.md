@@ -138,9 +138,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Espiritualidad / Búsqueda interior
-  - Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Espiritualidad y Búsqueda de Sentido
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

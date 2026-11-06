@@ -134,9 +134,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
+  - Vida Sana y Bienestar
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender haciendo
   - Marco simbólico

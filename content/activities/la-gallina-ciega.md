@@ -121,8 +121,8 @@ skills:
   - Comunicación
 
 scout_values:
-  - Salud
-  - Curiosidad y Apertura al aprendizaje
+  - Vida Sana y Bienestar
+  - Curiosidad y Deseo de Aprender
   - Optimismo y Alegría
 
 scout_method:

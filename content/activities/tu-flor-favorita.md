@@ -120,8 +120,7 @@ skills:
   - Observación
 
 scout_values:
-  - Naturaleza
-  - Creatividad e Ingenio
+  - Compromiso con la Naturaleza
   - Optimismo y Alegría
 
 scout_method:

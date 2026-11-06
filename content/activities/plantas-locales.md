@@ -126,9 +126,8 @@ skills:
   - Observación
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Creatividad e Ingenio
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Vida en la Naturaleza y Aventura

@@ -122,9 +122,8 @@ skills:
   - Conciencia ambiental
 
 scout_values:
-  - Salud
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender haciendo

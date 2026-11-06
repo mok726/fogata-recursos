@@ -141,9 +141,9 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
-  - Hermandad
-  - Responsabilidad
+  - Vida Sana y Bienestar
+  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender haciendo
   - Sistema de equipos

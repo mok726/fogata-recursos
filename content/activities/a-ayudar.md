@@ -122,9 +122,9 @@ skills:
   - Conciencia social
 
 scout_values:
-  - Solidaridad
-  - Hermandad
-  - Justicia
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
+  - Justicia y Equidad
 
 scout_method:
   - Aprender haciendo

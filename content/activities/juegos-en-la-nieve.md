@@ -128,8 +128,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
-  - Aventura
+  - Hermandad y Fraternidad
+  - Espíritu Aventurero
 scout_method:
   - Aprender haciendo
   - Sistema de equipos
