@@ -125,13 +125,12 @@ skills:
   - Observación
 
 scout_values:
-  - Naturaleza
-  - Creatividad e Ingenio
-  - Respeto al prójimo
+  - Compromiso con la Naturaleza
+  - Respeto y Valoración de la Diversidad
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 

@@ -140,13 +140,12 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

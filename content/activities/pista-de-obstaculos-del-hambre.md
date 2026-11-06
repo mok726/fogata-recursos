@@ -138,13 +138,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Responsabilidad
-  - Justicia
+  - Solidaridad y Servicio
+  - Responsabilidad y Compromiso
+  - Justicia y Equidad
 
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
+  - Sistema de Equipos
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

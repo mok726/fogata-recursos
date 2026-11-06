@@ -142,13 +142,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
-  - Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

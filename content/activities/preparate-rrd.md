@@ -121,13 +121,13 @@ skills:
   - Observación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 

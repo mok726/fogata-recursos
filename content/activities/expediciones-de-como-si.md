@@ -130,12 +130,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Aventura
+  - Espíritu Aventurero
   - Optimismo y Alegría
 scout_method:
-  - Marco simbólico
-  - Vida en la Naturaleza y Aventura
-  - Sistema de equipos
+  - Marco Simbólico
+  - Vida en la Naturaleza
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

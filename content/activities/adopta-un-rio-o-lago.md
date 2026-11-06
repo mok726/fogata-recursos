@@ -122,13 +122,13 @@ skills:
   - Observación
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Solidaridad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

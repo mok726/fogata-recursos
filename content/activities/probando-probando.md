@@ -121,13 +121,13 @@ skills:
   - Creatividad
 
 scout_values:
-  - Superación personal
-  - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
+  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

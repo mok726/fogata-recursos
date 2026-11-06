@@ -126,12 +126,12 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Solidaridad
-  - Responsabilidad
+  - Solidaridad y Servicio
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 

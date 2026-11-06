@@ -132,12 +132,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
+  - Sistema de Equipos
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -124,13 +124,13 @@ skills:
   - Planificación y organización
 
 scout_values:
-  - Salud
+  - Vida Sana y Bienestar
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

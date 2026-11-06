@@ -139,12 +139,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Justicia
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
+  - Justicia y Equidad
 scout_method:
-  - Sistema de equipos
-  - Progresión personal
+  - Sistema de Equipos
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

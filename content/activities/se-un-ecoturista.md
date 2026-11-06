@@ -124,13 +124,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Naturaleza
-  - Aventura
-  - Curiosidad y Apertura al aprendizaje
+  - Compromiso con la Naturaleza
+  - Espíritu Aventurero
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
+  - Vida en la Naturaleza
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

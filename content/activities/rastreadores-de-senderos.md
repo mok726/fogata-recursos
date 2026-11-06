@@ -138,13 +138,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Aventura
-  - Curiosidad y Apertura al aprendizaje
-  - Superación personal
+  - Espíritu Aventurero
+  - Curiosidad y Deseo de Aprender
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
+  - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

@@ -143,13 +143,12 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Aventura
-  - Creatividad e Ingenio
+  - Curiosidad y Deseo de Aprender
+  - Espíritu Aventurero
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 1-2)

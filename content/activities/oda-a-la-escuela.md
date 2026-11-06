@@ -119,13 +119,13 @@ skills:
   - Empatía
 
 scout_values:
-  - Superación personal
-  - Curiosidad y Apertura al aprendizaje
+  - Superación Personal y Perseverancia
+  - Curiosidad y Deseo de Aprender
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

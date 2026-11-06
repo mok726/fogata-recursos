@@ -132,14 +132,14 @@ skills:
   - Observación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Solidaridad
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 rama_castores: []
 

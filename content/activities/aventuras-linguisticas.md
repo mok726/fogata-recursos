@@ -124,13 +124,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Hermandad
+  - Curiosidad y Deseo de Aprender
+  - Hermandad y Fraternidad
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

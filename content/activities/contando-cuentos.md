@@ -135,12 +135,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Respeto al prójimo
-  - Creatividad e Ingenio
+  - Solidaridad y Servicio
+  - Respeto y Valoración de la Diversidad
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

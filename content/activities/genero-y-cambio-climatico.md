@@ -123,12 +123,12 @@ skills:
   - Comunicación
 
 scout_values:
-  - Justicia
-  - Respeto al prójimo
+  - Justicia y Equidad
+  - Respeto y Valoración de la Diversidad
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

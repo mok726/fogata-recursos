@@ -127,14 +127,13 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Creatividad e Ingenio
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Involucramiento Comunitario
 
 rama_castores: []
 

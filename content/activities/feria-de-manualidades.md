@@ -125,11 +125,10 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -134,12 +134,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
-  - Perseverancia
-  - Curiosidad y Apertura al aprendizaje
+  - Superación Personal y Perseverancia
+  - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

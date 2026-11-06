@@ -7,8 +7,11 @@ Si existe `<sección>-<id>.png` (o `.jpg`, `.webp`), la card del
 - `ods-13.png` → ODS 13 en /ods/
 - `edades-manada.png` → Manada en /edades/
 - `competencias-liderazgo.png` → /competencias/liderazgo/
-- `valoresScout-hermandad.png`, `metodoScout-marco-simbolico.png`,
-  `activityType-juego.png`
+- `valoresscout-hermandad-y-fraternidad.jpg`, `metodoscout-marco-simbolico.png`,
+  `activitytype-juego.png`
+
+El nombre va siempre en minúsculas (el build corre en Linux,
+que distingue mayúsculas).
 
 El `<id>` es el último tramo de la URL de la página de detalle.
 Las insignias usan `hero_image` de `content/_data/badges.js`.

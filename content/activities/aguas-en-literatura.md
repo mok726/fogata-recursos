@@ -122,13 +122,12 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Creatividad e Ingenio
-  - Superación personal
+  - Curiosidad y Deseo de Aprender
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

@@ -140,13 +140,13 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Aventura
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Espíritu Aventurero
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Vida en la Naturaleza
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

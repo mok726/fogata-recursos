@@ -128,13 +128,13 @@ skills:
   - Resolución de problemas
 
 scout_values:
-  - Justicia
-  - Responsabilidad
-  - Solidaridad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 rama_castores: []
 

@@ -128,13 +128,12 @@ skills:
   - Hábitos sostenibles
 
 scout_values:
-  - Creatividad e Ingenio
-  - Curiosidad y Apertura al aprendizaje
+  - Curiosidad y Deseo de Aprender
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

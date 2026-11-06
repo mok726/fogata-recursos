@@ -121,12 +121,12 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Naturaleza
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

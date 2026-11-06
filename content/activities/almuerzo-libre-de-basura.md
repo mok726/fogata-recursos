@@ -126,11 +126,11 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Naturaleza
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
   - Ley y Promesa
 
 rama_castores: []

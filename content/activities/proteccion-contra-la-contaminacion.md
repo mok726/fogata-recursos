@@ -124,13 +124,12 @@ skills:
   - Conciencia ambiental
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
-  - Creatividad e Ingenio
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

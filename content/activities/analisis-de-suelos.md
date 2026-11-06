@@ -127,13 +127,13 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Superación personal
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

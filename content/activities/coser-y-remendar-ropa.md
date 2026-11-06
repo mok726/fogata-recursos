@@ -123,12 +123,11 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Creatividad e Ingenio
-  - Superación personal
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

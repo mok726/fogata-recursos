@@ -120,13 +120,12 @@ skills:
   - Creatividad
 
 scout_values:
-  - Responsabilidad
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

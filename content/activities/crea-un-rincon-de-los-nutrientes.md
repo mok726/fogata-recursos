@@ -140,13 +140,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Hermandad
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

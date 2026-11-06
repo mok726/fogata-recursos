@@ -125,12 +125,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
+  - Hermandad y Fraternidad
   - Optimismo y Alegría
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
-  - Marco simbólico
+  - Sistema de Equipos
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -125,12 +125,12 @@ skills:
   - Creatividad
 
 scout_values:
-  - Justicia
-  - Respeto al prójimo
+  - Justicia y Equidad
+  - Respeto y Valoración de la Diversidad
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 rama_castores: []
 

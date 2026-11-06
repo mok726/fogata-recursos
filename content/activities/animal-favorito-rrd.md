@@ -120,13 +120,12 @@ skills:
   - Empatía
 
 scout_values:
-  - Creatividad e Ingenio
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 

@@ -128,10 +128,10 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

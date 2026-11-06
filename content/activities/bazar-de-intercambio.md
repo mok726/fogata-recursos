@@ -122,13 +122,13 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Solidaridad
+  - Solidaridad y Servicio
   - Sencillez y Austeridad
-  - Hermandad
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

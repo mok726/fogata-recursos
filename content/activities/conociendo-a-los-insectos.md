@@ -123,13 +123,12 @@ skills:
   - Comunicación
 
 scout_values:
-  - Naturaleza
-  - Curiosidad y Apertura al aprendizaje
-  - Creatividad e Ingenio
+  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

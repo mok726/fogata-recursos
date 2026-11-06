@@ -135,12 +135,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad
-  - Solidaridad
-  - Curiosidad y Apertura al aprendizaje
+  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
+  - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

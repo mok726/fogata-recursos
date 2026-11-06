@@ -133,13 +133,13 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Hermandad
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Hermandad y Fraternidad
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -136,12 +136,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Salud
-  - Aventura
-  - Curiosidad y Apertura al aprendizaje
+  - Vida Sana y Bienestar
+  - Espíritu Aventurero
+  - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

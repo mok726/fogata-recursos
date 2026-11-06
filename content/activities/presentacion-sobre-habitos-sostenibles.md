@@ -123,13 +123,13 @@ skills:
   - Investigación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Superación personal
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

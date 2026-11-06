@@ -136,12 +136,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Respeto al prójimo
-  - Solidaridad
+  - Compromiso con la Naturaleza
+  - Respeto y Valoración de la Diversidad
+  - Solidaridad y Servicio
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

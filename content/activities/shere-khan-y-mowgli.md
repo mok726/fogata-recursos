@@ -124,11 +124,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Lealtad y Sentido de Pertenencia
-  - Hermandad
+  - Lealtad y Pertenencia
+  - Hermandad y Fraternidad
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

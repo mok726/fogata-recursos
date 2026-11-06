@@ -121,11 +121,11 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Superación personal
-  - Salud
+  - Superación Personal y Perseverancia
+  - Vida Sana y Bienestar
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
   - Ley y Promesa
 
 rama_castores: []

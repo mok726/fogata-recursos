@@ -138,12 +138,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Naturaleza
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
 scout_method:
-  - Marco simbólico
-  - Vida en la Naturaleza y Aventura
+  - Marco Simbólico
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

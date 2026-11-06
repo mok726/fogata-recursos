@@ -130,14 +130,14 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Hermandad
+  - Hermandad y Fraternidad
   - Optimismo y Alegría
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
-  - Marco simbólico
+  - Involucramiento Comunitario
+  - Sistema de Equipos
+  - Marco Simbólico
 
 rama_castores: []
 

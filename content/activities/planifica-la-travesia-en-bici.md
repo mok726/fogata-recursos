@@ -114,13 +114,13 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Aventura
-  - Superación personal
+  - Responsabilidad y Compromiso
+  - Espíritu Aventurero
+  - Superación Personal y Perseverancia
 scout_method:
-  - Sistema de equipos
-  - Vida en la Naturaleza y Aventura
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Sistema de Equipos
+  - Vida en la Naturaleza
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

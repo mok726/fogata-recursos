@@ -122,13 +122,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Justicia
-  - Solidaridad
-  - Responsabilidad
+  - Justicia y Equidad
+  - Solidaridad y Servicio
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

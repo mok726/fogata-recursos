@@ -137,13 +137,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Responsabilidad
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Aprender haciendo
+  - Apoyo Adulto
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

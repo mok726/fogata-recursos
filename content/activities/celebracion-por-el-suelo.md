@@ -125,13 +125,13 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Naturaleza
-  - Responsabilidad
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
   - Optimismo y Alegría
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

@@ -124,11 +124,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
+  - Responsabilidad y Compromiso
 scout_method:
-  - Marco simbólico
+  - Marco Simbólico
   - Ley y Promesa
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

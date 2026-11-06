@@ -120,13 +120,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
-  - Superación personal
+  - Responsabilidad y Compromiso
+  - Curiosidad y Deseo de Aprender
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

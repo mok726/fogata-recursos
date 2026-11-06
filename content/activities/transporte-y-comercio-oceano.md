@@ -125,13 +125,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Responsabilidad
-  - Hermandad
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 

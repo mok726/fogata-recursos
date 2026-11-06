@@ -2,7 +2,9 @@
    con el mismo aspecto y los mismos filtros que /activities/.
    Espera heroTitle, heroKicker (opcional), heroText (opcional),
    heroImage (opcional), browserItems y fixed (ver
-   components/activity-browser.njk). #}
+   components/activity-browser.njk). Opcional: criteria, con
+   question, when (lista) y notWhen: el criterio para asignar
+   la categoría a una actividad. #}
 <div class="acts acts-detail" data-pagefind-ignore="all">
 
 <section class="acts-hero">
@@ -29,6 +31,18 @@
     </form>
   </div>
 </section>
+
+{% if criteria and criteria.when %}
+<details class="idx-criteria">
+  <summary>¿Cuándo se asigna a una actividad?</summary>
+  {% if criteria.question %}<p class="idx-criteria-q">{{ criteria.question }}</p>{% endif %}
+  <p>Corresponde cuando:</p>
+  <ul>
+    {% for w in criteria.when %}<li>{{ w }}</li>{% endfor %}
+  </ul>
+  {% if criteria.notWhen %}<p><strong>No corresponde:</strong> {{ criteria.notWhen }}</p>{% endif %}
+</details>
+{% endif %}
 
 {% include "components/activity-browser.njk" %}
 

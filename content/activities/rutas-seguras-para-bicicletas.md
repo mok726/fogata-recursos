@@ -120,13 +120,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Salud
-  - Naturaleza
-  - Responsabilidad
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

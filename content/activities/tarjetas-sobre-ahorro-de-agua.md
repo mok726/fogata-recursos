@@ -123,13 +123,12 @@ skills:
   - Observación
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Naturaleza
-  - Creatividad e Ingenio
+  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 rama_lobatos:

@@ -129,12 +129,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Aventura
-  - Salud
+  - Espíritu Aventurero
+  - Vida Sana y Bienestar
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

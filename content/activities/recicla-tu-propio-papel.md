@@ -147,11 +147,10 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Creatividad e Ingenio
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

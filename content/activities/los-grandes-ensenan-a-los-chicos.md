@@ -111,13 +111,13 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad
-  - Hermandad
-  - Responsabilidad
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Involucramiento Comunitario
+  - Sistema de Equipos
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

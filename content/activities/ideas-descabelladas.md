@@ -129,13 +129,12 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e Ingenio
-  - Superación personal
-  - Solidaridad
+  - Superación Personal y Perseverancia
+  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

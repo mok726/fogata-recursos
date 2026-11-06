@@ -110,11 +110,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Salud
+  - Responsabilidad y Compromiso
+  - Vida Sana y Bienestar
   - Optimismo y Alegría
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -124,14 +124,14 @@ skills:
   - Liderazgo
 
 scout_values:
-  - Responsabilidad
-  - Solidaridad
-  - Naturaleza
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

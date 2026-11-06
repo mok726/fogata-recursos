@@ -1474,7 +1474,7 @@ else {
 
       // "/ods/13/" -> "ods-13"; devuelve la miniatura si hay archivo.
       const heroFor = url => {
-        const base = url.split("/").filter(Boolean).join("-");
+        const base = url.split("/").filter(Boolean).join("-").toLowerCase();
         for (const ext of ["png", "jpg", "jpeg", "webp"]) {
           const src = "/imagenes/heroes/" + base + "." + ext;
           if (fs.existsSync(path.join(__dirname, src))) {
@@ -1537,7 +1537,7 @@ else {
             card = {
               url: paths[kind] + entry.id + "/",
               title: entry.name,
-              text: entry.description || "",
+              text: entry.summary || entry.description || "",
               symbol: entry.symbol
             };
           }

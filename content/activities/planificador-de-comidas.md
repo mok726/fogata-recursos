@@ -139,13 +139,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Salud
-  - Responsabilidad
-  - Superación personal
+  - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

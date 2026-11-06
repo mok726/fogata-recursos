@@ -130,11 +130,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia
-  - Respeto al prójimo
+  - Justicia y Equidad
+  - Respeto y Valoración de la Diversidad
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

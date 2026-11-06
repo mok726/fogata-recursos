@@ -122,13 +122,12 @@ skills:
   - Conciencia ambiental
 
 scout_values:
-  - Salud
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

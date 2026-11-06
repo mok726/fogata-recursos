@@ -125,13 +125,13 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Salud
+  - Vida Sana y Bienestar
   - Optimismo y Alegría
-  - Hermandad
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

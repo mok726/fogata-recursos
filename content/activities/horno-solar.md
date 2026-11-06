@@ -122,13 +122,12 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e Ingenio
-  - Naturaleza
-  - Superación personal
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 rama_castores: []
 rama_lobatos:

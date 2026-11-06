@@ -124,12 +124,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Hermandad
+  - Responsabilidad y Compromiso
+  - Hermandad y Fraternidad
 scout_method:
-  - Marco simbólico
+  - Marco Simbólico
   - Ley y Promesa
-  - Sistema de equipos
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

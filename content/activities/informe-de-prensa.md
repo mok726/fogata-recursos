@@ -138,13 +138,13 @@ skills:
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Respeto al prójimo
-  - Justicia
-  - Curiosidad y Apertura al aprendizaje
+  - Respeto y Valoración de la Diversidad
+  - Justicia y Equidad
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

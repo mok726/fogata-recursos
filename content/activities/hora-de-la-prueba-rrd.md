@@ -122,13 +122,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Superación personal
-  - Hermandad
-  - Curiosidad y Apertura al aprendizaje
+  - Superación Personal y Perseverancia
+  - Hermandad y Fraternidad
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
+  - Sistema de Equipos
+  - Aprender Haciendo
 
 rama_castores: []
 

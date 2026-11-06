@@ -132,12 +132,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia
-  - Responsabilidad
-  - Solidaridad
+  - Justicia y Equidad
+  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

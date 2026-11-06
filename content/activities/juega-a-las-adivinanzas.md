@@ -139,12 +139,12 @@ skills:
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Curiosidad y Apertura al aprendizaje
-  - Hermandad
+  - Curiosidad y Deseo de Aprender
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

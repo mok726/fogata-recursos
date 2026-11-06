@@ -126,13 +126,12 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Creatividad e Ingenio
   - Optimismo y Alegría
   - Sencillez y Austeridad
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

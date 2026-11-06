@@ -126,13 +126,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Justicia
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Justicia y Equidad
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 

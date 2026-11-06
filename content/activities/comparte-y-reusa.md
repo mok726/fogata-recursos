@@ -122,12 +122,12 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Solidaridad
-  - Hermandad
+  - Solidaridad y Servicio
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

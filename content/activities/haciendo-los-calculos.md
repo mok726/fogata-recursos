@@ -120,13 +120,13 @@ skills:
   - Comunicación
 
 scout_values:
-  - Responsabilidad
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

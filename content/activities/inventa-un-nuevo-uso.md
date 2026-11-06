@@ -121,13 +121,12 @@ skills:
   - Creatividad
 
 scout_values:
-  - Creatividad e Ingenio
   - Sencillez y Austeridad
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

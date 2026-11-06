@@ -122,13 +122,13 @@ skills:
   - Autoconciencia
 
 scout_values:
-  - Superación personal
-  - Responsabilidad
-  - Naturaleza
+  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

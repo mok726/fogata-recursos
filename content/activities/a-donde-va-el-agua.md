@@ -120,13 +120,13 @@ skills:
   - Pensamiento crítico
 
 scout_values:
-  - Responsabilidad
-  - Naturaleza
-  - Superación personal
+  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

@@ -137,12 +137,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Salud
-  - Naturaleza
+  - Responsabilidad y Compromiso
+  - Vida Sana y Bienestar
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

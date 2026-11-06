@@ -139,12 +139,12 @@ skills:
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Naturaleza
-  - Hermandad
+  - Compromiso con la Naturaleza
+  - Hermandad y Fraternidad
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

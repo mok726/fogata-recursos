@@ -121,13 +121,12 @@ skills:
   - Comunicación
 
 scout_values:
-  - Creatividad e Ingenio
-  - Responsabilidad
-  - Superación personal
+  - Responsabilidad y Compromiso
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 rama_castores: []
 

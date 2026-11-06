@@ -141,12 +141,11 @@ skills:
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e Ingenio
-  - Solidaridad
+  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

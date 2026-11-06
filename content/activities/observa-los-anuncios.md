@@ -136,11 +136,11 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Honestidad
+  - Curiosidad y Deseo de Aprender
+  - Honestidad e Integridad
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

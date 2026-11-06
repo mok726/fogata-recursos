@@ -118,12 +118,11 @@ skills:
 
 scout_values:
   - Optimismo y Alegría
-  - Creatividad e Ingenio
-  - Naturaleza
+  - Compromiso con la Naturaleza
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

@@ -119,13 +119,12 @@ skills:
   - Creatividad
 
 scout_values:
-  - Curiosidad y Apertura al aprendizaje
-  - Creatividad e Ingenio
-  - Responsabilidad
+  - Curiosidad y Deseo de Aprender
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 

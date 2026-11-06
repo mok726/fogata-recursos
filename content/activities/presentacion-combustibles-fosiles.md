@@ -136,12 +136,12 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad
-  - Curiosidad y Apertura al aprendizaje
-  - Justicia
+  - Responsabilidad y Compromiso
+  - Curiosidad y Deseo de Aprender
+  - Justicia y Equidad
 scout_method:
-  - Sistema de equipos
-  - Progresión personal
+  - Sistema de Equipos
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
