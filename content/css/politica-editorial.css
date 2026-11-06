@@ -1,0 +1,60 @@
+/* /politica-editorial/ — bloques de criterio por dimensión. */
+.pe-resumen {
+  background: #fdf6ec;
+  border-left: 5px solid #e8732c;
+  border-radius: 10px;
+  padding: 0.9rem 1.2rem;
+  margin: 1.5rem 0;
+}
+.pe-resumen p { margin: 0; }
+
+.pe-principios, .pe-pasos { padding-left: 1.4rem; }
+.pe-principios li, .pe-pasos li { margin-bottom: 0.7rem; }
+.pe-principios li::marker, .pe-pasos li::marker { color: #2e6b3d; font-weight: 700; }
+
+.pe-dimension {
+  background: #fff;
+  border: 1px solid #e3e9de;
+  border-radius: 14px;
+  padding: 0.4rem 1.4rem 1.1rem;
+  margin: 1.6rem 0;
+  box-shadow: 0 2px 8px rgba(35, 64, 42, 0.06);
+}
+.pe-dimension h3 {
+  color: #23402a;
+  border-bottom: 2px solid #e8732c;
+  padding-bottom: 0.3rem;
+}
+.pe-pregunta {
+  font-style: italic;
+  font-size: 1.08rem;
+  color: #23402a;
+}
+.pe-pregunta::before { content: "Pregunta editorial: "; font-style: normal; font-weight: 700; }
+
+.pe-criterios {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1rem 0;
+}
+.pe-si, .pe-no {
+  border-radius: 10px;
+  padding: 0.2rem 1rem 0.4rem;
+}
+.pe-si { background: #eef6ec; border-top: 4px solid #2e6b3d; }
+.pe-no { background: #fbefea; border-top: 4px solid #b5482a; }
+.pe-si ul, .pe-no ul { padding-left: 1.1rem; margin-top: 0.3rem; }
+.pe-si li, .pe-no li { margin-bottom: 0.35rem; }
+
+.pe-regla {
+  background: #f6f9f4;
+  border-radius: 8px;
+  padding: 0.6rem 0.9rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+  .pe-criterios { grid-template-columns: 1fr; }
+  .pe-dimension { padding: 0.2rem 1rem 0.9rem; }
+}
