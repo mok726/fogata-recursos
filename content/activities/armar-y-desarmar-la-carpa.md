@@ -105,14 +105,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Dinámica de grupos"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts pitching a dome tent on a grassy campsite, two raising the poles together while another adjusts a guy line, a folded ground sheet beside them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Dinámica de grupos
 category:
   - Técnicas scout

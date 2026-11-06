@@ -110,7 +110,7 @@ image_prompt: "Teenage scouts in a cozy scout hall debating in a circle, one sta
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Simulación
+  - Simulación / Juego de roles
   - Reflexión
 category:
   - Juegos scouts

@@ -94,16 +94,15 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms and reflective vests standing on a sidewalk corner of an Argentine neighborhood, one taking a photo of a broken sidewalk ramp, another marking a paper map, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Participación comunitaria
-  - Servicio a los demás
+  - Indagación
+  - Servicio
 category:
   - Seguridad vial
 skills:

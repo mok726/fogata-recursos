@@ -90,7 +90,7 @@ active_component: 2  # Contacto
 complexity_execution: 3  # Requiere contactar expertos
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people contacting climate change and environmental experts, asking questions and actively participating in their activities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, on a call or meeting. Professional networking and environmental education atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,9 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Expertos

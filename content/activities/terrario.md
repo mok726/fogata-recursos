@@ -119,16 +119,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A miniature ecosystem in a glass terrarium with plants, soil, moss, and moisture dominating the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building terrariums with collected seeds and plants. Miniature ecosystem creation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
-  - Experimentación
+  - Expresión artística
+  - Experimento
 category:
   - Ecosistemas
   - Plantas

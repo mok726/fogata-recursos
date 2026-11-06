@@ -113,16 +113,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A green building with sustainable design features like solar panels, green roofs, and energy-efficient systems being explored by young people dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, visiting and learning about a green building. Sustainable architecture exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 category:
   - Arquitectura
   - Energía

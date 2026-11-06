@@ -89,7 +89,7 @@ active_component: 1  # Actividad digital
 complexity_execution: 3  # Requiere habilidades digitales
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Comunicación"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children using social media to share soil facts and photos, creating an online conversation about soil conservation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, posting content. Digital advocacy and online community engagement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,9 @@ accessibility: []
 
 
 activity_type:
-  - Comunicación
-  - Servicio a los demás
-  - Creatividad / Arte
+  - Campaña
+  - Servicio
+  - Expresión artística
 
 category:
   - Suelo

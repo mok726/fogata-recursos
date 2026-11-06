@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Simulación
+  - Simulación / Juego de roles
 
 category:
   - Comercio

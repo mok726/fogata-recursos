@@ -123,8 +123,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Investigación
-  - Sensibilización
+  - Indagación
 
 category:
   - Hábitos alimenticios

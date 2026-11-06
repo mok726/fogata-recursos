@@ -120,7 +120,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Debate / Diálogo
   - Reflexión
-  - Sensibilización
 category:
   - Sostenibilidad
   - Valores

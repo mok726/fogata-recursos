@@ -94,7 +94,7 @@ active_component: 4  # Cavar, caminar, observar
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere permisos y planificación
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children digging in a garden or forest to examine soil layers, with a measuring tape and notebook dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, taking notes and photos. Hands-on soil exploration and scientific discovery atmosphere. No text, no letters, no words. Wide shot."
 
@@ -107,9 +107,8 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Investigación
+  - Salida / Exploración
+  - Indagación
 
 category:
   - Suelo

@@ -113,16 +113,16 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching energy access projects around the world, choosing one to support, organizing a fundraiser like an arts and crafts show with recycled materials or a raffle. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, fundraising for energy projects. Educational charitable engagement scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Planificación
-  - Investigación
+  - Servicio
+  - Proyecto
+  - Indagación
 category:
   - Fondos
   - Proyectos

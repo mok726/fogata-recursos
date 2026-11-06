@@ -28,6 +28,7 @@
 - Re-embeber completos los originales en inglés de agua (códigos ≥ 31), que hoy están resumidos. Baja prioridad: lo importante es que la actividad esté bien y la fuente se pueda encontrar (ya apunta al PDF).
 - Link-check (G17), edad 16 para jabón y ayuno, piloto B-P, permiso de WeatherWizKids, regeneración de imágenes, material auxiliar faltante.
 - Habilidades (2026-11-06): revisar cada actividad para definir sus habilidades con el criterio de `content/_data/allskills.js` (ver `auditoria/criterio-habilidades.md`). Hoy el uso está inflado: Comunicación está en el 38 % de las fichas, y Pensamiento crítico y Observación en el 30 %. Hay que asignar Toma de decisiones, Resolución de conflictos y Adaptabilidad, que todavía no tienen fichas. No es obligatorio que una ficha tenga habilidades.
+- Tipos de actividad (2026-11-06): revisar cada actividad con el criterio de `content/_data/activityTypes.js` (ver `auditoria/criterio-tipos.md`). Hay que asignar Taller / Construcción, Narración, Visita / Charla y Ceremonia, que todavía no tienen fichas. Hay que bajar Reflexión e Indagación, que están infladas. Hay 20 fichas sin tipo. No es obligatorio que una ficha tenga tipo.
 
 **Niveles en gris (2026-10-29)**: revisados por color de los círculos de nivel (pdfplumber) en Suelos (49), Hambre (49), Océano (53) y Nutrición (77). Solo había un error: océano B07 (delicias-del-mar), que es 1 2 3 y figuraba 2 3. Corregido.
 

@@ -107,7 +107,7 @@ image_prompt: "A large compass rose drawn in chalk on a schoolyard, scouts stand
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Orientación
+  - Salida / Exploración
   - Juego
 category:
   - Técnicas scout

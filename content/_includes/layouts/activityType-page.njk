@@ -8,6 +8,7 @@ fonts:
 {% set heroKicker = "Tipo de actividad" %}
 {% set heroTitle = activityType.name %}
 {% set heroText = activityType.description or "" %}
+{% set criteria = activityType %}
 {% set browserItems = collections.activitiesSorted | activitiesFor("type", activityType.name) %}
 {% set fixed = { filter: "tipo", text: activityType.name } %}
 {% include "components/browse-page.njk" %}

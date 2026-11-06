@@ -106,7 +106,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Investigación
+  - Indagación
   - Debate / Diálogo
 
 category:

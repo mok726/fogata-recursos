@@ -120,16 +120,14 @@ complexity_execution: 3  # Requiere disciplina y seguimiento
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth documenting their plastic waste in a journal, with a smartphone and camera nearby, educational environmental audit scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Sensibilización
-  - Aprender haciendo
+  - Indagación
 category:
   - Consumo responsable
   - Plásticos

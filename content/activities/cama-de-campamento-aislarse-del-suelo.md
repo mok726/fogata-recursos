@@ -103,15 +103,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts in a pine forest building a thick bed of dry pine needles and leaves on the ground, one lying on a foam sleeping pad beside it to compare. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
 category:
   - Técnicas scout
   - Campamento

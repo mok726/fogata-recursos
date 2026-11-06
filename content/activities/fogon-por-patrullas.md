@@ -102,14 +102,14 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts gathered around a campfire at night, one patrol performing a short skit while others laugh and clap, sparks rising into a starry sky."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Dinámica de grupos
 category:
   - Cultura

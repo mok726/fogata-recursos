@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere invitar a un profesional
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A doctor or nutritionist speaking to a group about health, diet, and exercise dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Health education and professional guidance atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
+  - Indagación
   - Debate / Diálogo
-  - Sensibilización
 
 category:
   - Salud

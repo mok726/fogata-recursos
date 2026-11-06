@@ -90,7 +90,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 3  # Requiere comprensión de conceptos
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Scientific diagram of a water molecule (H2O) and its unique properties - density, states of matter, solvent properties - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and taking notes. Scientific discovery and chemistry learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Aprender haciendo
 
 category:
   - Agua

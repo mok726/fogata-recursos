@@ -92,7 +92,7 @@ active_component: 2  # Entrevistas
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing friends from different countries about water habits, or representing countries in a UN-style discussion dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing and comparing findings. Global cultural exchange and water awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,7 +105,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Debate / Diálogo
 

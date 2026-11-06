@@ -110,15 +110,15 @@ complexity_execution: 2  # Escucha y preguntas
 complexity_organizer: 3  # Coordinación con experto
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth learning about watershed management and water protection from a local government expert, with maps and educational materials. Educational civic activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, listening to the expert. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Orientación
+  - Indagación
+  - Salida / Exploración
 category:
   - Cuencas
   - Gestión del agua

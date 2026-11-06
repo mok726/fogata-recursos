@@ -96,7 +96,7 @@ active_component: 2  # Manipulación de materiales
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Experimentación"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A solar desalination experiment with salt water, with a world map showing where desalination is used dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting the experiment. Global water solutions and technology learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,9 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 
 category:
   - Agua

@@ -105,8 +105,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Planificación
-  - Sensibilización
+  - Proyecto
 
 category:
   - Huella de carbono

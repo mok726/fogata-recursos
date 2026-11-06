@@ -110,16 +110,15 @@ complexity_execution: 2  # Experimento sencillo
 complexity_organizer: 2  # Requiere sol y materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a solar energy experiment, creating art using sunlight with shadows and paper, discovering the power of solar energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating solar art. Educational outdoor experiment scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Experimento
+  - Expresión artística
 category:
   - Energía solar
   - Arte

@@ -108,6 +108,7 @@ image_prompt: "A long line of cub scouts jogging in a spiral pattern on a field 
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Juego
   - Actividad física
   - Dinámica de grupos
 category:

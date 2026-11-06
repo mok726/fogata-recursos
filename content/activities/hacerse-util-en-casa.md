@@ -105,14 +105,13 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, helping at home in a bright Argentine kitchen and bedroom: one child neatly making a bed, another drying dishes, another sweeping, warm morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Comunidad
   - Educación

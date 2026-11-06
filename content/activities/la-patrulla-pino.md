@@ -101,14 +101,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Planificación"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts around a camp table looking at a hand-drawn chart of patrol roles with numbers, a pine tree emblem drawn on it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Planificación
+  - Proyecto
   - Dinámica de grupos
 category:
   - Técnicas scout

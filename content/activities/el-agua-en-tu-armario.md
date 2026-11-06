@@ -90,7 +90,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A closet with clothes, a computer, a phone, with water drops showing how much water was used to make each item dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and comparing findings. Hidden water footprint and conscious consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Agua

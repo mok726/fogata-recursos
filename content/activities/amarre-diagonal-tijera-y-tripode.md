@@ -105,15 +105,14 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts standing up a wooden tripod made of three poles joined at the top with a figure-eight lashing, a cooking pot hanging from it, and an A-frame of two poles beside it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Experimentación
+  - Experimento
 category:
   - Técnicas scout
   - Pionerismo

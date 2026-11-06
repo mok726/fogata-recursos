@@ -90,16 +90,14 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A teenage scout in Scout Association of Argentina uniform and helmet riding a bicycle on a closed court with the left arm fully extended to signal a turn, other scouts watching and practicing the same gesture on foot, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Juego
-  - Comunicación
 category:
   - Seguridad vial
 skills:

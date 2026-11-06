@@ -111,7 +111,6 @@ image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Comunicación
 category:
   - Juegos scouts
   - Comunicación

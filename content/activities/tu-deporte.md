@@ -119,7 +119,7 @@ accessibility:
 
 activity_type:
   - Juego
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Deporte

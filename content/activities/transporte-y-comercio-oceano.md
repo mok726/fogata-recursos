@@ -93,7 +93,7 @@ active_component: 3  # Desplazamiento y observación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere coordinar visita
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A busy commercial port with large cargo ships and containers dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and taking notes at the port. Global trade and maritime transport atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,9 +106,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 
 category:
   - Transporte

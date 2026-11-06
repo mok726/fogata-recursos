@@ -100,14 +100,13 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Close-up of young scouts' hands whipping the end of a natural fiber rope with waxed twine, on a wooden table outdoors. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Técnicas scout
   - Nudos

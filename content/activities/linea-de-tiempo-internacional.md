@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere organizar la línea de tiempo
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A visual timeline of international climate and forest conferences with dates and events dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating a timeline. Historical research and global awareness atmosphere. No text, no letters, no words. Wide shot."
@@ -117,7 +117,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Debate / Diálogo
 

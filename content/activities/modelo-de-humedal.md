@@ -129,15 +129,14 @@ complexity_execution: 3  # Requiere seguir pasos y construir
 complexity_organizer: 3  # Preparación de materiales varios
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a wetland model with clay, water, carpeting, and natural materials, learning about flood control, water purification, and wildlife habitat. Educational environment. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, constructing the wetland model. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
 category:
   - Humedales
   - Ecosistemas

@@ -116,14 +116,14 @@ complexity_execution: 2  # Lectura y dibujo
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children reading a detective story about water quality and drawing scenes from the story, learning about aquatic habitats and water monitoring. Educational reading activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, reading and drawing. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
 category:
   - Calidad del agua

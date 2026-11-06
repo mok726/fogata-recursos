@@ -97,7 +97,7 @@ active_component: 2  # Actividad manual
 complexity_execution: 3  # Requiere habilidades de costura
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Colorful handmade fabric shopping bags being sewn and displayed dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sewing and creating bags from recycled fabric. DIY and sustainable living atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,9 +110,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
-  - Servicio a los demás
+  - Expresión artística
+  - Servicio
 
 category:
   - Plástico

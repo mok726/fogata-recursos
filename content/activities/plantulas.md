@@ -105,7 +105,7 @@ complexity_execution: 3  # Requiere habilidades básicas
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young tree seedlings being planted in forest soil with gardening tools dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting seedlings and caring for them. Reforestation and nature care atmosphere. No text, no letters, no words. Wide shot."
@@ -123,9 +123,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Sensibilización
+  - Servicio
 
 category:
   - Reforestación

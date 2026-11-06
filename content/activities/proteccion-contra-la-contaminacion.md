@@ -92,7 +92,7 @@ active_component: 1  # Actividad de dibujo
 complexity_execution: 1  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the effects of pollution on soil, with messages about prevention and eco-friendly products dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating posters. Environmental art and pollution awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,9 +105,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
-  - Sensibilización
-  - Servicio a los demás
+  - Expresión artística
+  - Servicio
 
 category:
   - Suelo

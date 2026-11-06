@@ -112,15 +112,15 @@ complexity_execution: 2  # Investigación sencilla
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Ancient sun deities and cultural solar symbols from different civilizations, with museum-style exhibits, drawings, and educational displays. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting cultural solar exhibits. Educational cultural heritage scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Creatividad / Arte
+  - Indagación
+  - Expresión artística
   - Reflexión
 category:
   - Cultura

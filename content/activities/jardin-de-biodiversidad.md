@@ -121,16 +121,14 @@ complexity_execution: 4  # Requiere seguimiento
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse garden with vegetables, herbs, fruits, and flowers with pollinators visiting dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, tending to a biodiversity garden. Gardening education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Experimentación
-  - Sensibilización
+  - Experimento
 category:
   - Jardinería
   - Agricultura

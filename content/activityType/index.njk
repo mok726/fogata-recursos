@@ -12,4 +12,10 @@ fonts:
 {% set heroText = "Juegos, talleres, proyectos y más: elegí el formato que necesitás." %}
 {% set cards = activityTypes | indexCards("type", collections.activitiesSorted, ageGroups, badges) %}
 {% set symbol = "category" %}
+{% set indexIntro %}
+<h2>¿Qué entendemos por tipo de actividad?</h2>
+<p>El tipo de actividad es el formato: qué hacen los protagonistas durante la actividad. Una forma simple de reconocerlo es preguntarse «¿qué vamos a hacer hoy?». Un juego, un debate, una salida o un taller son respuestas posibles.</p>
+<p>No hay que confundirlo con lo que se aprende (eso son las habilidades), con por qué se hace (los valores scout) ni con el principio pedagógico (el método scout). Cada actividad tiene un tipo principal y, solo cuando combina formatos de verdad, uno o dos más.</p>
+<p>Cada tipo tiene su criterio en «¿Cuándo se asigna a una actividad?».</p>
+{% endset %}
 {% include "components/browse-index.njk" %}

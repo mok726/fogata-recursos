@@ -100,14 +100,13 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts shortening a tent guy rope with a sheepshank knot beside a pitched tent in a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Técnicas scout
   - Nudos

@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere acceso al dosel
 complexity_organizer: 4  # Requiere planificación de seguridad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A view from above the forest canopy with treetops and wildlife dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and drawing from the canopy. Aerial forest exploration and artistic inspiration atmosphere. No text, no letters, no words. Wide shot."
@@ -121,9 +121,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Exploración
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Salida / Exploración
+  - Expresión artística
 
 category:
   - Dosel

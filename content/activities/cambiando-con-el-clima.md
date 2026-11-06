@@ -121,8 +121,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Investigación
-  - Aprender haciendo
+  - Indagación
 
 category:
   - Cambio climático

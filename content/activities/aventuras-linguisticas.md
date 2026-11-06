@@ -107,7 +107,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Investigación
+  - Indagación
 
 category:
   - Agua

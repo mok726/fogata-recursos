@@ -112,15 +112,15 @@ complexity_execution: 2  # Diseño creativo
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth designing sustainable cities with drawings, models, and colorful materials, learning about urban sustainability and the SDGs. Creative educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, designing their cities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Planificación
+  - Expresión artística
+  - Proyecto
 category:
   - Urbanismo
   - Sostenibilidad

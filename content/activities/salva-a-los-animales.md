@@ -117,16 +117,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A polar bear on melting ice and other endangered animals affected by climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing animals and creating educational posters about species conservation. Wildlife conservation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Creatividad / Arte
-  - Sensibilización
+  - Indagación
+  - Expresión artística
 category:
   - Biodiversidad
   - Conservación

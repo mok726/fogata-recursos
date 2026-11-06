@@ -90,7 +90,7 @@ active_component: 3  # Caminar para fotografiar
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children taking photographs of water in different colors and textures - blue ocean, green lake, sparkling river, golden sunset on water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, photographing and exhibiting photos. Artistic exploration and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
-  - Exploración
-  - Aprender haciendo
+  - Expresión artística
+  - Salida / Exploración
 
 category:
   - Agua

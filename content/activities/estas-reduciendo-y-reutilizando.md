@@ -105,16 +105,14 @@ complexity_execution: 1  # Sencilla para niños pequeños
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young children learning about reducing and reusing plastics, with examples of reusable items like water bottles, bags, and containers. A family or group activity showing creative ways to reuse plastic items. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a reduce and reuse activity. Educational environmental scene for young children. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
-  - Sensibilización
+  - Expresión artística
 category:
   - Reducción
   - Reutilización

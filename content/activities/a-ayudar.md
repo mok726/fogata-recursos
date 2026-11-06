@@ -103,9 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Cooperación

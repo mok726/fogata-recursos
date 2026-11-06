@@ -106,14 +106,14 @@ complexity_execution: 4
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching national energy policies, reading policy texts, analyzing government initiatives for renewable energy and emissions reduction, and discussing improvements with the group. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching energy policy. Educational civic engagement scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Debate / Diálogo
 category:

@@ -110,8 +110,9 @@ image_prompt: "Scouts sitting in a meadow writing a list in notebooks, with wild
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
+  - Juego
+  - Salida / Exploración
+  - Indagación
 category:
   - Juegos scouts
   - Alimentos

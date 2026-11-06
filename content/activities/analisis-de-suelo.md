@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere cavar y observar
 complexity_organizer: 3  # Requiere herramientas
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A cross-section of forest soil with distinct layers and roots dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, digging and analyzing soil layers. Soil science and forest ecology atmosphere. No text, no letters, no words. Wide shot."
@@ -122,9 +122,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
-  - Experimentación
-  - Aprender haciendo
+  - Indagación
+  - Experimento
 
 category:
   - Suelo

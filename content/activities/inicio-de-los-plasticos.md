@@ -121,16 +121,15 @@ complexity_execution: 3  # Requiere entrevistas en casa
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing grandparents about their childhood, comparing old natural products with modern plastic items, showing a timeline of everyday objects. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Aprender haciendo
 category:
   - Plásticos
   - Consumo sostenible

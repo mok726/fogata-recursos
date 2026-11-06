@@ -122,8 +122,8 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Investigación
-  - Planificación
+  - Indagación
+  - Proyecto
 category:
   - Alimentación
   - Salud

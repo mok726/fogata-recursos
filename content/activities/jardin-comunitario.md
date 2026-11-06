@@ -93,7 +93,7 @@ active_component: 4  # Actividad física
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere planificación
 
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children starting a community garden at school or on a terrace, drawing and taking photos to monitor growth dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, gardening and documenting. Community gardening and sustainable food production atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,9 +106,8 @@ accessibility: []
 
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Jardín

@@ -114,16 +114,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse natural habitat with hives, burrows, nests, and wildflowers where pollinators live, with bees and butterflies actively moving between plants dominates the composition. Left side contains open negative space reserved for website interface elements. A person observing and taking notes in the background, seen from a distance, positioned on the right side. The scene has a rich, vibrant natural atmosphere with golden sunlight filtering through trees. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
+  - Salida / Exploración
   - Reflexión
-  - Aprender haciendo
 category:
   - Hábitats
   - Conservación

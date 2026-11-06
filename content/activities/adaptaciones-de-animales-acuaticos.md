@@ -113,16 +113,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Various marine animals showing different adaptations and movement styles like coral, jellyfish, fish, and seals dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and comparing marine animal adaptations. Marine biology education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 category:
   - Animales Marinos
   - Adaptación

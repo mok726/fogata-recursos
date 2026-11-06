@@ -91,7 +91,7 @@ active_component: 2  # Manipulación de materiales
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children using magnifying glasses and microscopes to observe tiny life in a water sample from a stream or pond dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining their samples and drawing what they see. Scientific discovery and curiosity atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Investigación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Indagación
 
 category:
   - Agua

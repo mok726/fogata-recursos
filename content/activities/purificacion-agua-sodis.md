@@ -119,15 +119,14 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth filling a clear PET bottle with natural water, placing it on a reflective surface in sunlight for SODIS water purification, learning about solar disinfection. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, purifying water with solar energy. Educational water safety scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
 category:
   - Agua
   - Purificación

@@ -122,7 +122,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Reflexión
   - Dinámica de grupos
-  - Simulación
+  - Simulación / Juego de roles
 category:
   - Derechos humanos
   - Desarrollo

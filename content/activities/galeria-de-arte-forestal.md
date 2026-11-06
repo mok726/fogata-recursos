@@ -103,7 +103,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere organizar la exhibición
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An art gallery featuring forest-inspired paintings, drawings, and sculptures dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting and explaining their art. Forest art exhibition and creative expression atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Reflexión
-  - Sensibilización
 
 category:
   - Arte

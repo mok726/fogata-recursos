@@ -108,7 +108,7 @@ image_prompt: "Kids sitting around a wooden table in a scout hall, each copying 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Creatividad / Arte
+  - Expresión artística
 category:
   - Juegos de salón
   - Integración

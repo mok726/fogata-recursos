@@ -113,16 +113,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere cámara
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Diverse urban green spaces - parks, green roofs, school gardens, and community gardens - photographed by young people dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, taking photos of urban nature and creating an exhibition. Nature photography environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Creatividad / Arte
-  - Sensibilización
+  - Salida / Exploración
+  - Expresión artística
 category:
   - Espacios Verdes
   - Fotografía

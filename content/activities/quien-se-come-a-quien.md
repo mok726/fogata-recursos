@@ -101,7 +101,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A forest food web with animals and plants connected by arrows dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating food web models. Ecological education and biodiversity learning atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Creatividad / Arte
-  - Investigación
-  - Aprender haciendo
+  - Expresión artística
+  - Indagación
 
 category:
   - Red alimentaria

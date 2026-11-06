@@ -106,15 +106,15 @@ complexity_execution: 2  # Investigación sencilla
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth investigating energy sources at home and school, researching renewable energy options available in their community, checking electricity bills and speaking with providers. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching renewable energy for their community. Educational community research scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Planificación
+  - Indagación
+  - Proyecto
   - Reflexión
 category:
   - Energía renovable

@@ -111,7 +111,6 @@ image_prompt: "Ultra-wide cinematic website hero banner. Scouts running along a 
 activity_type:
   - Juego
   - Actividad física
-  - Comunicación
 category:
   - Juegos scouts
   - Comunicación

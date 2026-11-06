@@ -118,8 +118,8 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Creatividad / Arte
-  - Investigación
+  - Expresión artística
+  - Indagación
 
 category:
   - Soberanía alimentaria

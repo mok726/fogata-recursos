@@ -90,7 +90,7 @@ active_component: 2  # Cocinar (opcional)
 complexity_execution: 3  # Requiere investigación y cálculo
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. International recipes being shared and compared, with water footprint calculations for each dish dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and calculating. Cultural exchange and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Aprender haciendo
+  - Indagación
   - Reflexión
 
 category:

@@ -111,16 +111,15 @@ complexity_execution: 4  # Requiere planificación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fundraising event for a biodiversity cause with people donating and participating in activities dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing and running a fundraising activity. Community fundraising environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Participación comunitaria
-  - Planificación
+  - Servicio
+  - Proyecto
 category:
   - Recaudación
   - Solidaridad

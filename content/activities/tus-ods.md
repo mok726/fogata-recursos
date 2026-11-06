@@ -120,7 +120,6 @@ accessibility: []
 activity_type:
   - Reflexión
   - Debate / Diálogo
-  - Sensibilización
 
 category:
   - ODS

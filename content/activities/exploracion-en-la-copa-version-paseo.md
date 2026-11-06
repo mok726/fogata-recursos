@@ -114,16 +114,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere binoculares
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of children walking through a neighborhood with binoculars looking at the canopy of trees and shrubs dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring trees and bushes with binoculars. Urban exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Investigación
+  - Salida / Exploración
+  - Indagación
 category:
   - Naturaleza
   - Biodiversidad

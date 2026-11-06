@@ -114,16 +114,15 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth using iNaturalist app on mobile devices to identify species in a natural area, contributing to citizen science and learning about biodiversity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, using iNaturalist for biodiversity research. Educational tech scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 category:
   - Biodiversidad
   - Ciencia ciudadana

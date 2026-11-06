@@ -107,14 +107,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in a first aid practice: one child holding a friend's forearm under a running tap, another gently covering a pretend burn with plastic wrap, a third wrapping a 'patient' in a blanket and talking calmly, adult leader nearby."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Salud
   - Educación

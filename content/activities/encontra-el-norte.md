@@ -110,7 +110,7 @@ image_prompt: "Ultra-wide cinematic website hero banner. Scouts spread out in a 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Orientación
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación

@@ -104,15 +104,14 @@ complexity_execution: 2  # Tejido básico
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth weaving baskets and coasters from recycled newspaper strips, learning about paper reuse and sustainable crafts. Educational workshop activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, weaving. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Expresión artística
 category:
   - Reciclaje
   - Papel

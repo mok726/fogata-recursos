@@ -107,16 +107,15 @@ complexity_execution: 3  # Requiere investigación y redacción
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching and writing newspaper articles about climate change impacts in their community, with laptops, notes, and news clippings. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing climate change articles. Educational journalism scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Comunicación
 category:
   - Periodismo
   - Cambio climático

@@ -91,7 +91,7 @@ active_component: 1  # Actividad en línea
 complexity_execution: 2  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children joining with youth around the world to create a world free from hunger and malnutrition through an online platform dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working on a computer. Global solidarity and youth action against hunger atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Comunicación
+  - Servicio
   - Reflexión
 
 category:

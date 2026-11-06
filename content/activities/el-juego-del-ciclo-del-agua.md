@@ -111,7 +111,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Experimentación
+  - Experimento
 
 category:
   - Agua

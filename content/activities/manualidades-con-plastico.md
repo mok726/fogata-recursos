@@ -108,15 +108,14 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere organizar materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A craft fair with youth creating art and useful objects from recycled plastic items like bottles, containers, and caps. Colorful and creative displays of plastic upcycling projects. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a plastic craft activity. Educational creativity scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Expresión artística
   - Juego
 category:
   - Manualidades

@@ -110,14 +110,13 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, cleaning up a neighborhood plaza with gloves and garbage bags, one picking up a plastic bottle, another holding a bag open, trees and benches, sunny afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Comunidad
   - Reciclaje

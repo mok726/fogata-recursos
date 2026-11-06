@@ -110,7 +110,7 @@ complexity_execution: 3  # Requiere visita
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group exploring a low-tide beach with rock pools and coastal wildlife dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and documenting marine life. Coastal exploration and nature education atmosphere. No text, no letters, no words. Wide shot."
@@ -128,9 +128,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Exploración
-  - Investigación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Indagación
 
 category:
   - Costa

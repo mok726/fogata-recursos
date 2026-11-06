@@ -115,16 +115,15 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful close-up of a favorite flower with a bee or butterfly visiting it in a garden setting dominates the composition. Left side contains open negative space reserved for website interface elements. A child's journal with drawings and notes about pollinators visiting the flower in the background, seen from a distance, positioned on the right side. The scene has a peaceful garden atmosphere with soft natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 category:
   - Flores
   - Polinizadores

@@ -110,8 +110,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Sensibilización
-  - Planificación
+  - Proyecto
 
 category:
   - Cambio climático

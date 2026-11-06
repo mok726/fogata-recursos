@@ -117,16 +117,15 @@ complexity_execution: 3  # Requiere precisión con tijeras
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children transforming old t-shirts into reusable shopping bags with scissors, colorful workshop, educational upcycling activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
-  - Servicio a los demás
+  - Expresión artística
+  - Servicio
 category:
   - Reutilización
   - Manualidades

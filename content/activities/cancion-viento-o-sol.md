@@ -108,14 +108,14 @@ complexity_execution: 2  # Requiere creatividad musical
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth singing and performing a song about wind or solar energy, inspired by famous melodies, with wind turbines or solar panels as visual elements. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing an energy song. Educational music scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Juego
   - Reflexión
 category:

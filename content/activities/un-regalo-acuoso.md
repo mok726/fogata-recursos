@@ -113,16 +113,14 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A shallow water source for pollinators with stones for insects to land on and a bee drinking water, set in a garden with flowers in the background dominates the composition. Left side contains open negative space reserved for website interface elements. A butterfly and other pollinators visiting the water source in the background, seen from a distance, positioned on the right side. The scene has a peaceful garden atmosphere with soft natural lighting and gentle reflections on the water. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
-  - Sensibilización
+  - Expresión artística
 category:
   - Agua
   - Hábitat

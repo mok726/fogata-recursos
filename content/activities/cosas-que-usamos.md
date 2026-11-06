@@ -115,16 +115,15 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 2  # Requiere recursos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A collection of plant-derived products including oils, seeds, nuts, fibers, and medicines with a pollinator visiting the source plant in the background dominates the composition. Left side contains open negative space reserved for website interface elements. A presentation screen showing the connection between each product and its pollinator in the background, seen from a distance, positioned on the right side. The scene has a clean, educational atmosphere with natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Aprender haciendo
 category:
   - Productos
   - Consumo

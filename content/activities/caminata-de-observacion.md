@@ -108,14 +108,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, walking along a tree-lined neighborhood street with an adult leader holding a clipboard, one child whispering in the leader's ear while pointing at a bird nest, autumn light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
+  - Salida / Exploración
   - Juego
 category:
   - Observación

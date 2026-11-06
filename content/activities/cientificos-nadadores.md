@@ -89,7 +89,7 @@ active_component: 5  # Natación y movimiento
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere supervisión y seguridad
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children swimming underwater with goggles, observing fish and aquatic life in a safe river or lake dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, swimming and observing. Aquatic exploration and adventure atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Aprender haciendo
+  - Salida / Exploración
 
 category:
   - Agua

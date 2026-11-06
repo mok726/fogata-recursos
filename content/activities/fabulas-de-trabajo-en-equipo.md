@@ -102,8 +102,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Expresión artística
 
 category:
   - Suelo

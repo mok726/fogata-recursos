@@ -120,8 +120,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Sensibilización
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Celebración

@@ -97,7 +97,7 @@ active_component: 2  # Manipulación de materiales
 complexity_execution: 2  # Experimento sencillo
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Experimentación"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Three glass jars with seawater and seashells dissolving in acidic liquids dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing the experiment with pH test strips. Marine chemistry and environmental science atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,8 +110,7 @@ accessibility: []
 
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
   - Reflexión
 
 category:

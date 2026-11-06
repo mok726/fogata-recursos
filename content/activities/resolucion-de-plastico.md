@@ -108,7 +108,7 @@ complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Compromiso"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of scouts holding up signs with commitments to reduce plastic, collective action, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
@@ -116,8 +116,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Sensibilización
-  - Aprender haciendo
 category:
   - Compromiso ambiental
   - Cambio de hábitos

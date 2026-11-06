@@ -114,16 +114,15 @@ complexity_execution: 3  # Requiere planificación y trabajo de campo
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a community survey on littering behavior, interviewing diverse people on the street, educational environmental research. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Aprender haciendo
-  - Servicio a los demás
+  - Indagación
+  - Servicio
 category:
   - Comportamiento social
   - Basura

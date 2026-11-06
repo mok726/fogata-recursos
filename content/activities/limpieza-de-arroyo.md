@@ -121,16 +121,14 @@ complexity_execution: 3  # Actividad práctica
 complexity_organizer: 4  # Coordinación logística
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a stream cleanup with gloves and bags, removing trash from the water and banks, learning about environmental stewardship. Active outdoor community service activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cleaning the stream. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
-  - Participación comunitaria
+  - Servicio
 category:
   - Limpieza
   - Agua

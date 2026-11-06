@@ -115,8 +115,8 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Simulación
-  - Planificación
+  - Simulación / Juego de roles
+  - Proyecto
 category:
   - Política
   - Energía

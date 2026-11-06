@@ -89,7 +89,7 @@ active_component: 5  # Actividades al aire libre
 complexity_execution: 4  # Requiere planificación avanzada
 complexity_organizer: 4  # Requiere organización avanzada
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group organizing a summer camp that is environmentally friendly, using local food, recycling waste, cleaning a lake or river dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, participating in activities. Sustainable camping and environmental education atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Campamento

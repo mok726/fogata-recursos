@@ -98,7 +98,7 @@ image_prompt: "Cub scouts in Scout Association of Argentina uniforms sitting on 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Creatividad / Arte
+  - Expresión artística
 category:
   - Seguridad vial
 skills:

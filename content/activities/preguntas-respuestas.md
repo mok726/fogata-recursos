@@ -104,8 +104,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Investigación
-  - Aprender haciendo
+  - Indagación
 
 category:
   - Suelo

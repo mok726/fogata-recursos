@@ -121,8 +121,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Simulación
-  - Aprender haciendo
+  - Simulación / Juego de roles
 category:
   - Legislación
   - Plásticos

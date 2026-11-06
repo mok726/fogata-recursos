@@ -115,15 +115,15 @@ complexity_execution: 2  # Investigación y collage simple
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating a mural about fisheries with images of fish, seafood, and different uses of fisheries - food, jobs, medicine, recreation. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on their mural. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Creatividad / Arte
+  - Indagación
+  - Expresión artística
 category:
   - Pesquerías
   - Océano

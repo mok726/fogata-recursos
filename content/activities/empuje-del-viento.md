@@ -112,16 +112,15 @@ complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Requiere espacio al aire libre
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children flying kites and making pinwheels on a windy day in an open field, observing birds and plants moving in the wind. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, flying kites and observing wind energy. Educational outdoor exploration scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
+  - Salida / Exploración
   - Juego
-  - Aprender haciendo
 category:
   - Viento
   - Energía eólica

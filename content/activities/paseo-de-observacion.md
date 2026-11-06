@@ -105,15 +105,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout leader walking with a small patrol along a rural road pointing out a distant church steeple and trees, children looking and taking notes, morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Aprender haciendo
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Observación

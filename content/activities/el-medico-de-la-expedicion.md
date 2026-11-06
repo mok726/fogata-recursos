@@ -101,14 +101,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Simulación"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout kneeling beside a pretend patient with a bandaged arm in a camp setting, a simple first aid kit open on the ground, two more pretend patients waiting, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Simulación
+  - Simulación / Juego de roles
   - Juego
 category:
   - Juegos scouts

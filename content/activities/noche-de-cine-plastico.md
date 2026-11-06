@@ -118,16 +118,15 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Preparación técnica básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Sensibilización"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children watching an environmental documentary on a large screen in a dark room, the screen shows ocean pollution with plastic waste, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Sensibilización
+  - Campaña
   - Reflexión
-  - Aprender haciendo
 category:
   - Contaminación plástica
   - Educación ambiental

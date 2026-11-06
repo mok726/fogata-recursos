@@ -89,7 +89,7 @@ active_component: 2  # Organización
 complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child sharing and reusing belongings, giving away books and toys to friends, fixing and donating items dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing donations. Sharing economy and circular consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
+  - Servicio
   - Reflexión
 
 category:

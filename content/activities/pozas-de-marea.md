@@ -119,16 +119,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children exploring rock pools with underwater viewers and observing marine life in tidal zones dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, using viewers to observe tide pool creatures. Marine exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Salida / Exploración
+  - Expresión artística
 category:
   - Vida Marina
   - Exploración

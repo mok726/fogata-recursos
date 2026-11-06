@@ -119,8 +119,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Investigación
-  - Aprender haciendo
+  - Indagación
 category:
   - Agua
   - Distribución

@@ -97,7 +97,7 @@ active_component: 2  # Construcción y manipulación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere materiales específicos
 
-main_type: "Aprender haciendo"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A homemade volcano model erupting with baking soda and vinegar lava dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building and observing the eruption. Hands-on science and creative learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,9 +110,8 @@ accessibility: []
 
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Experimento
+  - Expresión artística
 
 category:
   - Volcanes

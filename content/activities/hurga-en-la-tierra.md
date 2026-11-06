@@ -92,7 +92,7 @@ active_component: 3  # Manipulación de materiales
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Experimentación"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children conducting a soil erosion experiment with different soil types, water, and watering cans dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and recording results. Hands-on earth science atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,9 +105,8 @@ accessibility: []
 
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 
 category:
   - Agua

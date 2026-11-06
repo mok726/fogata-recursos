@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A storytelling event about food and nutrition with myths, legends, and tales dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, telling and listening to stories. Cultural heritage and food storytelling atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Creatividad / Arte
-  - Investigación
-  - Sensibilización
+  - Expresión artística
+  - Indagación
 
 category:
   - Narración

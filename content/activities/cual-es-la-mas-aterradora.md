@@ -101,7 +101,7 @@ accessibility: []
 activity_type:
   - Juego
   - Reflexión
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Amenazas

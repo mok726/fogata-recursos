@@ -111,7 +111,7 @@ image_prompt: "Ultra-wide cinematic website hero banner. A scout running across 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Orientación
+  - Salida / Exploración
   - Actividad física
 category:
   - Juegos scouts

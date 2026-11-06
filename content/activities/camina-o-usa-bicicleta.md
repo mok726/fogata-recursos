@@ -91,7 +91,7 @@ active_component: 5  # Actividad física intensa
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children walking or cycling to school or work, using sustainable transportation instead of cars dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, enjoying active transport. Sustainable mobility and healthy lifestyle atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Transporte

@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere preparación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person conducting a food habits survey in their community and analyzing results dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing and creating graphs. Community research and health data analysis atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Encuesta

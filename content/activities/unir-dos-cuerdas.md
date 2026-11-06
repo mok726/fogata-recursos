@@ -101,14 +101,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A young scout tying two ropes of different thickness together with a sheet bend, a heavy curtain hanging between two trees behind her, other scouts watching. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Juego
 category:
   - Técnicas scout

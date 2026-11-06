@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Baja complejidad organizativa
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Sensibilización"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Educational posters about invasive species with images of harmful insects and plants dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating posters and educational materials in a classroom or outdoor setting. Environmental education atmosphere. No text, no letters, no words. Wide shot."
@@ -119,9 +119,9 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Creatividad / Arte
-  - Sensibilización
-  - Investigación
+  - Expresión artística
+  - Campaña
+  - Indagación
 
 category:
   - Especies invasoras

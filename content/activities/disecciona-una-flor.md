@@ -114,16 +114,15 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A detailed macro photograph of a dissected flower showing stamens, pistil, petals, and other parts with scientific precision dominates the composition. Left side contains open negative space reserved for website interface elements. A magnifying glass and a botanical diagram in the background, seen from a distance, positioned on the right side. The scene has a clean, educational laboratory feel with natural lighting and scientific accuracy. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 category:
   - Botánica
   - Flores

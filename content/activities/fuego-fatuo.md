@@ -112,7 +112,7 @@ image_prompt: "Night scene in a field at a scout camp, a small flashlight glowin
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Orientación
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Juegos nocturnos

@@ -112,16 +112,14 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A guided tour of a local watershed with community members learning about natural and human impacts on water dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, leading a watershed tour and explaining environmental concepts. Community education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Participación comunitaria
-  - Sensibilización
+  - Servicio
 category:
   - Agua
   - Comunidad

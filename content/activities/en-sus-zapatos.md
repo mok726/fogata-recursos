@@ -120,8 +120,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Sensibilización
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Experiencia

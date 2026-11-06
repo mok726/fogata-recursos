@@ -121,7 +121,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Sensibilización
 
 category:
   - Concurso

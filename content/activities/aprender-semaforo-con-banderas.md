@@ -104,15 +104,13 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, practicing semaphore with small red-and-yellow flags in a grassy field, arms held straight at different angles, facing a partner who reads the letters, bright blue sky."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Comunicación
 category:
   - Juegos scouts
   - Comunicación

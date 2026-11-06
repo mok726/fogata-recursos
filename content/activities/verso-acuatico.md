@@ -96,7 +96,7 @@ active_component: 1  # Actividad de escritura
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child writing a humorous poem about water use on agriculture or at home, with creative illustrations dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and illustrating. Creative writing and playful learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,9 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Reflexión
-  - Aprender haciendo
 
 category:
   - Agua

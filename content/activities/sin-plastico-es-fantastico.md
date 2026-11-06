@@ -111,16 +111,14 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 5  # Evento complejo de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community event with youth raising awareness about plastic pollution, giving away reusable bags and bottles, featuring a speaker, and engaging attendees to sign up for a commitment. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing a community awareness event. Educational community engagement scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Participación comunitaria
+  - Servicio
 category:
   - Evento comunitario
   - Concientización

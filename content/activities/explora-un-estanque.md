@@ -118,16 +118,15 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 4  # Requiere organizar visita
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth exploring a pond ecosystem, using nets to catch small aquatic creatures, observing them in white trays with magnifying glasses, and recording findings in nature journals. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring a pond ecosystem. Educational outdoor biology scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Indagación
 category:
   - Estanque
   - Ecosistema

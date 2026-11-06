@@ -96,7 +96,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children checking food labels to find where their food comes from, discussing which foods travel the furthest dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reading labels and discussing. Food origin awareness and conscious consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,7 +109,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Debate / Diálogo
 

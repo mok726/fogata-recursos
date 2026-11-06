@@ -114,7 +114,6 @@ image_prompt: "A scout cupping hands around a lit match facing the wind on a rai
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Aprender haciendo
 category:
   - Técnicas scout
   - Campamento

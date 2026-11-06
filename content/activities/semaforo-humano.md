@@ -98,7 +98,7 @@ image_prompt: "Cub scouts in Scout Association of Argentina uniforms in a school
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación
+  - Simulación / Juego de roles
 category:
   - Seguridad vial
 skills:

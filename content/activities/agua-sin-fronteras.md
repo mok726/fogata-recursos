@@ -103,7 +103,6 @@ accessibility: []
 activity_type:
   - Debate / Diálogo
   - Reflexión
-  - Sensibilización
 
 category:
   - Agua

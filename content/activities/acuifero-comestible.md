@@ -121,15 +121,14 @@ complexity_execution: 2  # Pasos sencillos
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children building edible aquifers with cups, ice cream, soda, candy, and sprinkles, learning about groundwater and pollution. Colorful and fun educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, enjoying the activity. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
   - Juego
 category:
   - Agua subterránea

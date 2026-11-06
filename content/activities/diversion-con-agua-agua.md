@@ -119,7 +119,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Exploración
+  - Salida / Exploración
 category:
   - Recreación
   - Agua

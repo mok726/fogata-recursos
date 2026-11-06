@@ -94,7 +94,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An illustrated timeline showing an oil spill or pollution incident at sea, with dramatic visual effects, dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating educational posters. Environmental awareness and pollution impact atmosphere. No text, no letters, no words. Wide shot."
 
@@ -107,8 +107,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Sensibilización
+  - Indagación
   - Reflexión
 
 category:

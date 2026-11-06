@@ -117,16 +117,14 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Preparación básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating colorful posters about plastic pollution, with markers and paper on tables, educational creative activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Sensibilización
-  - Aprender haciendo
+  - Expresión artística
 category:
   - Plásticos
   - Concienciación

@@ -102,14 +102,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts on a grassy riverbank practicing throwing a rescue rope toward a cardboard target shaped like a swimmer's head and arms, an adult instructor watching, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Juego
 category:
   - Juegos scouts

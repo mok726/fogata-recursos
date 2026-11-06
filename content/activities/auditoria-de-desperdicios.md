@@ -120,16 +120,15 @@ complexity_execution: 3  # Requiere seguimiento
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A waste audit in progress with sorted recyclables and a plan to reduce waste production dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a waste audit and creating a waste reduction plan. Sustainability action environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Planificación
-  - Aprender haciendo
+  - Indagación
+  - Proyecto
 category:
   - Residuos
   - Reciclaje

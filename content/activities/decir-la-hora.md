@@ -109,15 +109,14 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, at a table making cardboard clocks from paper plates with colorful numbers and movable paper hands, one child proudly showing a clock reading twenty-five past three."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Expresión artística
 category:
   - Educación
   - Arte

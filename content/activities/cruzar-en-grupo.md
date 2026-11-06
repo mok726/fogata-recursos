@@ -89,14 +89,13 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Dinámica de grupos"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A group of cub scouts in Scout Association of Argentina uniforms crossing a street together on a zebra crossing, adult leaders in reflective vests at the front and back of the group, a car stopped waiting, Argentine neighborhood, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Dinámica de grupos
 category:
   - Seguridad vial

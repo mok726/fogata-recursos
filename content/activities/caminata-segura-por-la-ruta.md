@@ -98,16 +98,14 @@ complexity_execution: 3
 complexity_organizer: 4  # Elegir el tramo y coordinar adultos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A line of teenage scouts in Scout Association of Argentina uniforms with reflective vests and backpacks walking in single file on the gravel shoulder of a rural road in the Argentine countryside, the first and last scouts carrying bright orange flags, oncoming car in the distance, late afternoon light, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Planificación
-  - Salud
+  - Proyecto
 category:
   - Seguridad vial
 skills:

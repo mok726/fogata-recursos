@@ -111,7 +111,7 @@ image_prompt: "Scouts on a grassy field pulling teammates lying on blankets with
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación
+  - Simulación / Juego de roles
 category:
   - Juegos scouts
   - Primeros auxilios

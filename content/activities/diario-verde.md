@@ -104,8 +104,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Diario

@@ -113,15 +113,15 @@ complexity_execution: 2  # Creación de carteles
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Sensibilización"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating posters about protecting storm drains with the message 'Only Rain Down the Storm Drain', learning about water pollution prevention. Educational awareness activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating posters. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Sensibilización
+  - Expresión artística
+  - Campaña
 category:
   - Contaminación
   - Desagües pluviales
