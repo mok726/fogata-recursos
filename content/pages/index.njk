@@ -126,25 +126,34 @@ populares:
       {% set layout = "compact" %}
       {% include "components/activity-card.njk" %}
 
-      <div class="home-daily-body" style="--insignias: {{ (item.activity_badges.length if item.activity_badges else 0) if (item.activity_badges.length if item.activity_badges else 0) < 3 else 3 }}">
+      <div class="home-daily-body">
 
-        {% if item.activity_badges and item.activity_badges.length %}
-          <div class="home-daily-badges">
-            {% for rawBadge in item.activity_badges.slice(0, 3) %}
-              {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-              <a href="{{ (badgeId | badgeHref(badges)) | url }}">
-                <img class="badge-icon" loading="lazy" decoding="async"
-                  src="{{ (badgeId | badgeLogo(badges)) | url }}"
-                  alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
-
-        <a class="home-daily-kicker" href="{{ activityUrl | url }}" tabindex="-1">
-          <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
-          Actividad del día
-        </a>
+        {# Kicker e insignias en el mismo renglón. Hasta 2 insignias; si
+           hay más, la primera y un círculo «+N» (como en las cards). #}
+        <div class="home-daily-head">
+          <a class="home-daily-kicker" href="{{ activityUrl | url }}" tabindex="-1">
+            <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
+            Actividad del día
+          </a>
+          {% if item.activity_badges and item.activity_badges.length %}
+            {% set totalBadges = item.activity_badges.length %}
+            {% set shownBadges = totalBadges if totalBadges <= 2 else 1 %}
+            <div class="home-daily-badges">
+              {% for rawBadge in item.activity_badges.slice(0, shownBadges) %}
+                {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+                <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+                  <img class="badge-icon" loading="lazy" decoding="async"
+                    src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                    alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+                </a>
+              {% endfor %}
+              {% if totalBadges > shownBadges %}
+                <a class="home-daily-more" href="{{ activityUrl | url }}"
+                  title="{{ totalBadges - shownBadges }} insignias más">+{{ totalBadges - shownBadges }}</a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
 
         <h2 class="home-daily-title">
           <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
