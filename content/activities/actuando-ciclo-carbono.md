@@ -110,15 +110,14 @@ complexity_execution: 2  # Requiere creatividad y trabajo en equipo
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing a creative skit, cartoon, or video about the carbon cycle, with costumes and props representing plants, animals, CO2, and decomposition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, acting out the carbon cycle. Educational theater scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Expresión artística
   - Dinámica de grupos
 category:
   - Ciclo del carbono

@@ -111,8 +111,8 @@ image_prompt: "Scouts acting as detectives examining clues in a staged room: foo
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación
-  - Investigación
+  - Simulación / Juego de roles
+  - Indagación
 category:
   - Juegos scouts
   - Observación

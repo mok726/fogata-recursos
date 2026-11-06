@@ -123,8 +123,7 @@ accessibility:
 
 activity_type:
   - Juego
-  - Sensibilización
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Salud

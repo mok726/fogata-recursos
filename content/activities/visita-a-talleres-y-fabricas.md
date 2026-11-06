@@ -100,16 +100,15 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A group of scouts touring a small local carpentry workshop, an artisan showing them how a machine works while they take notes and sketch, natural light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
-  - Comunicación
+  - Salida / Exploración
+  - Indagación
 category:
   - Comunidad
   - Educación

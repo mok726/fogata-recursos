@@ -90,7 +90,7 @@ active_component: 1  # Planificación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Planificación"
+main_type: "Proyecto"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A young person planning an environmentally friendly tourist trip, researching sustainable destinations and sharing with others how this type of tourism can help prevent climate change dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planning on a map. Sustainable tourism and climate-conscious travel atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,9 @@ accessibility: []
 
 
 activity_type:
-  - Planificación
+  - Proyecto
   - Reflexión
-  - Investigación
+  - Indagación
 
 category:
   - Turismo

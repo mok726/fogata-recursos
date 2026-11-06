@@ -90,15 +90,15 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms running game stations for younger cub scouts in a schoolyard: a big cardboard traffic light, chalk-drawn street with zebra crossing, cones, children laughing, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Planificación
+  - Servicio
+  - Proyecto
   - Juego
 category:
   - Seguridad vial

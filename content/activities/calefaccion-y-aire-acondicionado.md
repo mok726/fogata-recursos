@@ -103,8 +103,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Aprender haciendo
-  - Investigación
+  - Indagación
 
 category:
   - Energía

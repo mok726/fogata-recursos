@@ -108,16 +108,15 @@ complexity_execution: 1  # Sencilla
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Three cardboard boxes of different sizes labeled REDUCE, REUSE, and RECYCLE, with youth learning the correct order and stacking them to show why reducing is most important. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about the 3Rs. Educational hands-on scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Reflexión
-  - Planificación
+  - Proyecto
 category:
   - 3R
   - Residuos

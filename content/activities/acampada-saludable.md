@@ -102,7 +102,7 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A healthy camping trip with nutritious food and outdoor physical activities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, hiking and cooking healthy meals. Outdoor wellness and active lifestyle atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Exploración
-  - Servicio a los demás
+  - Salida / Exploración
+  - Servicio
 
 category:
   - Acampada

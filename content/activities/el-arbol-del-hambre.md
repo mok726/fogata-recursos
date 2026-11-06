@@ -122,8 +122,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Creatividad / Arte
-  - Sensibilización
+  - Expresión artística
 
 category:
   - Causas y soluciones

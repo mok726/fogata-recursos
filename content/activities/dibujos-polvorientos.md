@@ -96,7 +96,7 @@ active_component: 2  # Creación artística
 complexity_execution: 1  # Sencilla
 complexity_organizer: 3  # Requiere materiales variados
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating paintings with soil-based pigments, exploring different colors and textures dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, painting with soil. Artistic creativity and natural materials atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,9 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
-  - Experimentación
+  - Expresión artística
+  - Experimento
 
 category:
   - Suelo

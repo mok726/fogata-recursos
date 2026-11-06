@@ -92,7 +92,7 @@ active_component: 4  # Caminata y exploración
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children designing and testing an ecotourism activity, hiking and exploring their local natural environment dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, exploring nature. Sustainable tourism and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,9 +105,8 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Servicio a los demás
+  - Salida / Exploración
+  - Servicio
 
 category:
   - Suelo

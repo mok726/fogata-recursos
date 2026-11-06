@@ -112,16 +112,15 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Water birds hunting for food in a marsh or wetland with varied beak shapes and leg sizes dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing and drawing water birds in their habitat. Wildlife observation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Salida / Exploración
+  - Expresión artística
 category:
   - Aves
   - Humedales

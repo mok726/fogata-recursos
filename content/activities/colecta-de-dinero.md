@@ -97,7 +97,7 @@ active_component: 3  # Organización y ejecución
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fundraising event - bake sale, raffle, talent show - to help children in disaster-affected areas dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and collecting donations. Community solidarity and humanitarian action atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,9 +110,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Aprender haciendo
+  - Servicio
 
 category:
   - Recaudación

@@ -109,7 +109,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 4  # Requiere organización de evento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An international potluck dinner with flags from different countries and diverse dishes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing food and celebrating diversity. Global unity and cultural exchange atmosphere. No text, no letters, no words. Wide shot."
@@ -126,9 +126,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Aprender haciendo
+  - Servicio
 
 category:
   - Comida internacional

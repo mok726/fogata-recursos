@@ -111,16 +111,15 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 2  # Requiere materiales específicos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a science experiment with baking soda and vinegar, watching bubbles of CO2 form and observing potential energy converting to kinetic energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a chemical energy experiment. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 category:
   - Química
   - Energía

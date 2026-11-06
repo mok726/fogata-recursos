@@ -110,16 +110,15 @@ complexity_execution: 3  # Requiere investigación y construcción
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a model of a renewable energy source (wind turbine, solar panels, hydro dam) using recycled materials, with a map showing energy sources in their country. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating renewable energy models. Educational hands-on scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Investigación
-  - Aprender haciendo
+  - Expresión artística
+  - Indagación
 category:
   - Energía renovable
   - Mapa

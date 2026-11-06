@@ -105,8 +105,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Sensibilización
-  - Aprender haciendo
 
 category:
   - Agua

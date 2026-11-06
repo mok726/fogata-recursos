@@ -107,7 +107,7 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 4  # Requiere logística
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community run or race raising awareness and funds to fight hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, running and participating in the event. Health and solidarity through sports atmosphere. No text, no letters, no words. Wide shot."
@@ -125,8 +125,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
+  - Servicio
   - Actividad física
 
 category:

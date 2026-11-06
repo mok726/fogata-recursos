@@ -107,8 +107,8 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Planificación
-  - Servicio a los demás
+  - Proyecto
+  - Servicio
 
 category:
   - Energía

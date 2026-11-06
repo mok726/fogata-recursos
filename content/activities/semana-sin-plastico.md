@@ -115,8 +115,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Autoconocimiento
-  - Sensibilización
 category:
   - Desafío
   - Cero plástico

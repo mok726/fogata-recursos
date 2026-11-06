@@ -105,8 +105,8 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Investigación
-  - Creatividad / Arte
+  - Indagación
+  - Expresión artística
 
 category:
   - Agua

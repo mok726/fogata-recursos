@@ -93,7 +93,7 @@ active_component: 1  # Actividad predominantemente de investigación
 complexity_execution: 3  # Requiere investigación y síntesis
 complexity_organizer: 3  # Requiere organizar presentaciones
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Modern aquaculture farm with floating fish cages, seaweed lines, and oyster nets dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning about the aquaculture operation. Sustainable seafood farming atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,9 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Sensibilización
-  - Aprender haciendo
+  - Indagación
 
 category:
   - Acuicultura

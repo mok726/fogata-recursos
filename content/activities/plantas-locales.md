@@ -93,7 +93,7 @@ active_component: 4  # Actividad física
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children planting local drought-resistant plants in a garden or window box, learning about water conservation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and watering. Sustainable gardening and local species conservation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,9 +106,8 @@ accessibility: []
 
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Plantas

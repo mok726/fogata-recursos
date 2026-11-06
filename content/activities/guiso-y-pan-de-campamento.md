@@ -108,15 +108,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts cooking a stew in a big pot and a golden pan bread in a covered skillet over a camp fire, one kneading dough on a board. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Planificación
+  - Proyecto
 category:
   - Técnicas scout
   - Campamento

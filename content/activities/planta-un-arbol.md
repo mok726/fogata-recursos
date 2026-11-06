@@ -113,7 +113,7 @@ complexity_execution: 3  # Requiere habilidades básicas de jardinería
 complexity_organizer: 4  # Requiere permisos, investigación y coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young tree being planted in rich soil with forest background dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, digging and planting a tree together, with shovels and watering cans nearby. Reforestation and community action atmosphere, sunny day. No text, no letters, no words. Wide shot."
@@ -131,9 +131,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Planificación
+  - Servicio
+  - Proyecto
 
 category:
   - Reforestación

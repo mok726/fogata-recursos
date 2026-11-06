@@ -103,7 +103,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Creatividad / Arte
+  - Expresión artística
   - Debate / Diálogo
 
 category:

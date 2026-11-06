@@ -114,16 +114,15 @@ complexity_execution: 3  # Requiere planificación y observación
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth observing litter in a park or street, taking notes in a notebook, educational environmental research scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 category:
   - Basura
   - Contaminación

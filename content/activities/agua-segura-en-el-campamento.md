@@ -108,16 +108,15 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts examining a clear mountain stream in the forest, one holding a glass jar of water up to the light, a camping stove with a boiling pot nearby. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Experimentación
-  - Aprender haciendo
+  - Indagación
+  - Experimento
 category:
   - Técnicas scout
   - Campamento

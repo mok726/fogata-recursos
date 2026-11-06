@@ -103,8 +103,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Planificación
-  - Sensibilización
+  - Proyecto
 
 category:
   - Comunidad

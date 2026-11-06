@@ -110,15 +110,15 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Sensibilización"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dark room lit only by candles, with youth participating in Earth Hour, turning off lights and electronics, engaging in activities without electricity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in Earth Hour. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Sensibilización
-  - Participación comunitaria
+  - Campaña
+  - Servicio
   - Reflexión
 category:
   - Evento global

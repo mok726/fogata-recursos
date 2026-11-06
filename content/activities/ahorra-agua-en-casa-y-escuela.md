@@ -89,7 +89,7 @@ active_component: 1  # Actividad de dibujo
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children thinking and drawing ways to save water at home and school, creating an exhibition of their ideas dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing and displaying. Water conservation creativity and education atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,9 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Reflexión
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Agua

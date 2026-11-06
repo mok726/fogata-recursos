@@ -112,7 +112,7 @@ image_prompt: "Ultra-wide cinematic website hero banner. Children running across
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Exploración
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Naturaleza

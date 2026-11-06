@@ -99,7 +99,7 @@ active_component: 3  # Construcción y prueba
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere materiales
 
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A handmade water mill being tested with flowing water, showing how water power works dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building and testing their water mills. Renewable energy and hands-on learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -112,9 +112,8 @@ accessibility: []
 
 
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
-  - Experimentación
+  - Expresión artística
+  - Experimento
 
 category:
   - Agua

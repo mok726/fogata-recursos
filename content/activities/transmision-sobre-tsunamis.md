@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person recording a radio broadcast about tsunamis and survival tips dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, recording and presenting. Emergency preparedness and public safety education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
-  - Creatividad / Arte
-  - Sensibilización
+  - Indagación
+  - Expresión artística
 
 category:
   - Tsunamis

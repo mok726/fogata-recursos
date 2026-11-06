@@ -89,7 +89,7 @@ active_component: 1  # Actividad de cálculo
 complexity_execution: 3  # Requiere cálculos
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Charts comparing water consumption of old vs efficient appliances, with calculation results dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, calculating and creating posters. Water efficiency and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Sensibilización
+  - Indagación
 
 category:
   - Agua

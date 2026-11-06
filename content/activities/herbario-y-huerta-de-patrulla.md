@@ -107,15 +107,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts tending a small vegetable garden plot next to their scout hall, one pressing leaves in a notebook herbarium on a table nearby, sunny spring day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Investigación
+  - Indagación
 category:
   - Naturaleza
   - Jardinería

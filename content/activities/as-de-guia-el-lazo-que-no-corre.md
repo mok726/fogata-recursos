@@ -99,14 +99,13 @@ complexity_execution: 3
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout showing a bowline knot loop around her own waist in a forest clearing while a patrol practices with ropes around a tree. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Juego
 category:
   - Técnicas scout

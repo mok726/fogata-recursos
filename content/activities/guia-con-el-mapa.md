@@ -109,8 +109,8 @@ image_prompt: "A scout patrol walking through an unfamiliar small town, the patr
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Orientación
-  - Exploración
+  - Juego
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación

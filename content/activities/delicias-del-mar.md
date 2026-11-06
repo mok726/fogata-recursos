@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere habilidades culinarias
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautifully prepared seafood dish with sustainable ocean ingredients dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and sharing. Sustainable seafood and culinary education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Sensibilización
+  - Servicio
 
 category:
   - Cocina

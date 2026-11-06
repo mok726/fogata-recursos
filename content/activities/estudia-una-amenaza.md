@@ -99,7 +99,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dramatic collage showing different natural hazards: earthquake damage, flooding, volcanic eruption, and tsunami wave dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and discussing with laptops and books. Natural disaster research and learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -112,8 +112,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Aprender haciendo
+  - Indagación
   - Reflexión
 
 category:

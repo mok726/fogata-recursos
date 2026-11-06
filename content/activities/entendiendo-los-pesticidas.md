@@ -116,16 +116,15 @@ complexity_execution: 4  # Requiere investigación
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A comparison image showing chemical pesticides on one side and natural, non-toxic alternatives on the other, with a bee healthily pollinating a flower on the natural side dominates the composition. Left side contains open negative space reserved for website interface elements. A presentation event with local gardeners in the background, seen from a distance, positioned on the right side. The scene has an educational, contrast-driven atmosphere with clear lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 category:
   - Pesticidas
   - Agricultura

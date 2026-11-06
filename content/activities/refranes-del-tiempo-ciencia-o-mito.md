@@ -108,16 +108,16 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts on a hilltop at sunset looking at a red sky and clouds, one writing in a weather notebook, a small homemade wind vane beside them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Debate / Diálogo
-  - Exploración
+  - Salida / Exploración
 category:
   - Técnicas scout
   - Clima

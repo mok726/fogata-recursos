@@ -116,16 +116,14 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of people walking and biking together in a city with green surroundings, wearing comfortable clothing and smiling dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, walking and biking together as a green club. Active community environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Participación comunitaria
-  - Sensibilización
+  - Servicio
 category:
   - Movilidad
   - Salud

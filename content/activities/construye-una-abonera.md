@@ -91,7 +91,7 @@ active_component: 4  # Trabajo físico
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere materiales
 
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child building a compost bin with old wood, using biodegradable waste to create fertilizer for vegetables and fruits dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building and composting. Sustainable gardening and organic recycling atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Compost

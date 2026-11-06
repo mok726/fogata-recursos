@@ -94,15 +94,14 @@ complexity_execution: 4
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Planificación"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms gathered around a table with a big paper map, marking a bicycle route with markers, helmets and a bike pump on the table, scout hall, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Planificación
-  - Aprender haciendo
+  - Proyecto
 category:
   - Seguridad vial
 skills:

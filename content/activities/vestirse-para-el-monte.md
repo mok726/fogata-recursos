@@ -106,15 +106,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts laying out layers of outdoor clothing on a tarp in a camp, wool sweater, base layer, windbreaker, comparing fabrics. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
+  - Experimento
 category:
   - Técnicas scout
   - Campamento

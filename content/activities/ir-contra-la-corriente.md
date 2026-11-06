@@ -107,16 +107,14 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Autoconocimiento"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth reflecting on their daily energy dependence, keeping a diary about a day without three energy-dependent activities, discussing what they missed most. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, reflecting on energy dependence. Educational self-reflection scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Autoconocimiento
   - Reflexión
-  - Aprender haciendo
 category:
   - Energía
   - Hábitos

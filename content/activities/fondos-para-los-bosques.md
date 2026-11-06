@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere organización y coordinación
 complexity_organizer: 4  # Requiere planificación, permisos y logística
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fundraising event with donation boxes and educational displays about forests dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing a community fair with information about forest conservation. Community action and fundraising atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio a los demás
-  - Planificación
-  - Sensibilización
+  - Servicio
+  - Proyecto
 
 category:
   - Recaudación de fondos

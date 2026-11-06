@@ -101,15 +101,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts helping an elderly woman carry groceries and two other scouts raking leaves in a neighbor's front yard in an Argentine town, warm afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Participación comunitaria
+  - Servicio
 category:
   - Comunidad
   - Servicio

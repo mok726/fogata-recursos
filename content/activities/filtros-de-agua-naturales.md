@@ -119,16 +119,15 @@ complexity_execution: 3  # Requiere seguir pasos
 complexity_organizer: 3  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Homemade water filters using natural materials like sand, charcoal, and gravel with filtered water flowing out dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building natural water filters and comparing results. Science experiment environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 category:
   - Agua
   - Filtración

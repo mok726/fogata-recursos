@@ -94,7 +94,7 @@ active_component: 2  # Moverse para entrevistar
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A video production scene with interviews about disaster causes, poverty, and environmental degradation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting interviews and filming. Social awareness and investigative journalism atmosphere. No text, no letters, no words. Wide shot."
 
@@ -107,9 +107,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Causas de desastres

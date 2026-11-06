@@ -121,7 +121,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Reflexión
   - Debate / Diálogo
-  - Servicio a los demás
+  - Servicio
 category:
   - Alimentación
   - Agua

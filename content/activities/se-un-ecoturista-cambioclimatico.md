@@ -115,16 +115,14 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People exploring nature in a sustainable way with a guide explaining environmental protection dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, leading an ecotourism activity and explaining conservation. Nature exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Exploración
-  - Sensibilización
+  - Salida / Exploración
 category:
   - Turismo
   - Naturaleza

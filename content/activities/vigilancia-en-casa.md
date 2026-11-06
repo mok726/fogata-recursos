@@ -105,8 +105,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Servicio a los demás
-  - Aprender haciendo
+  - Servicio
 
 category:
   - Suelo

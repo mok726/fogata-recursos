@@ -95,7 +95,7 @@ active_component: 2  # Investigación activa
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere acceso a información local
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community timeline poster showing local natural hazard events with photos and facts dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating a poster and researching local history. Community disaster research and local knowledge atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,9 +108,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Amenazas locales

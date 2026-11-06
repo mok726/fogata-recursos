@@ -113,7 +113,7 @@ complexity_execution: 2  # Simple de ejecutar
 complexity_organizer: 3  # Requiere seguimiento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A friendly competition with charts showing sustainable actions and progress dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, comparing their green achievements on a monthly challenge board. Friendly competition environment. No text, no letters, no words. Wide shot."
@@ -121,8 +121,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Aprender haciendo
-  - Planificación
+  - Proyecto
 category:
   - Desafío
   - Sostenibilidad

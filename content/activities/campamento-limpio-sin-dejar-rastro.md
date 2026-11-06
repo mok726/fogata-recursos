@@ -115,7 +115,6 @@ image_prompt: "Scouts cleaning up a forest campsite at the end of camp, carrying
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Aprender haciendo
   - Debate / Diálogo
 category:
   - Técnicas scout

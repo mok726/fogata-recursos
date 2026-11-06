@@ -119,16 +119,14 @@ complexity_execution: 4  # Requiere organización
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Participación comunitaria"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community climate action event with colorful posters, a promise wall, and people planting trees dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing an outdoor climate awareness event with posters and activities. Community action environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Participación comunitaria
+  - Servicio
 category:
   - Comunidad
   - Activismo

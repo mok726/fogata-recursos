@@ -103,7 +103,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A cloud forming inside a clear bottle with water and smoke dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating clouds in bottles. Weather science and water cycle education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Sensibilización
+  - Experimento
 
 category:
   - Nubes

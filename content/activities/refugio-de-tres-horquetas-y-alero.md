@@ -105,15 +105,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts building a lean-to shelter from dead poles with a crossbar on two forked uprights, next to a small tripod shelter of three forked sticks covered with dry reeds. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Experimentación
+  - Experimento
 category:
   - Técnicas scout
   - Campamento

@@ -113,16 +113,15 @@ complexity_execution: 1  # Muy simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children walking through tall grass with different textured pants collecting seeds, with magnified view of various seed types dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, walking through a field and examining seeds collected on their pants. Seed dispersal experiment environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Exploración
-  - Experimentación
+  - Salida / Exploración
+  - Experimento
 category:
   - Plantas
   - Semillas

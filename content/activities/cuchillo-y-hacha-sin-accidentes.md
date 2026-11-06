@@ -108,14 +108,13 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout leader supervising teenage scouts whittling sticks away from their bodies with pocket knives, a chopping block with a hatchet in a roped-off area of a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
 category:
   - Técnicas scout
   - Campamento

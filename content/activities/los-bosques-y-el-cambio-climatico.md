@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dramatic visualization of Earth's atmosphere showing greenhouse gases and forest interactions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining climate data and discussing atmospheric changes. Scientific research and environmental awareness atmosphere. No text, no letters, no words. Wide shot."
@@ -117,7 +117,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Debate / Diálogo
 

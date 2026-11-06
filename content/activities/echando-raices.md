@@ -96,7 +96,7 @@ active_component: 4  # Actividad física de jardinería
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere planificación
 
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children planting and caring for plants in a garden, preparing soil with compost and organic fertilizer dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and watering. Hands-on gardening and soil care atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,9 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Exploración
+  - Servicio
+  - Salida / Exploración
 
 category:
   - Suelo

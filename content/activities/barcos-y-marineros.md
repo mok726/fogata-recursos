@@ -119,8 +119,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Barcos

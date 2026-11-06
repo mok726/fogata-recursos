@@ -106,14 +106,13 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Dinámica de grupos"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts kneeling on the ground lashing a frame of poles over a thick layer of dry reeds to make a woven panel, while others stack tied bundles of twigs like bricks to build a low wall held by stakes. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Dinámica de grupos
 category:
   - Técnicas scout

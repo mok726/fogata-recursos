@@ -105,7 +105,7 @@ complexity_execution: 3  # Requiere estudio
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person studying macronutrients and micronutrients from educational materials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning about nutrition. Science-based nutrition education atmosphere. No text, no letters, no words. Wide shot."
@@ -122,8 +122,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
-  - Aprender haciendo
+  - Indagación
   - Reflexión
 
 category:

@@ -95,7 +95,7 @@ active_component: 4  # Caminata y exploración al aire libre
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere planificación de salida
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children exploring a wetland, forest or beach observing wildlife and taking notes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing animals using water. Nature exploration and learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,9 +108,7 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Sensibilización
+  - Salida / Exploración
 
 category:
   - Agua

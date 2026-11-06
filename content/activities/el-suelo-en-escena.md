@@ -89,7 +89,7 @@ active_component: 3  # Actuación
 complexity_execution: 3  # Requiere ensayo
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A theatre performance about a community facing soil damage from climate change or overgrazing, with characters finding solutions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing on stage. Creative storytelling and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,9 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Reflexión
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Suelo

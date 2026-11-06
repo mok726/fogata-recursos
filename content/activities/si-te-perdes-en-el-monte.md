@@ -108,16 +108,15 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Simulación"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A young scout sitting calmly against a tree in a forest, blowing a whistle, an orange bag tied to a branch, search party scouts visible in the distance. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Simulación
+  - Simulación / Juego de roles
   - Reflexión
-  - Aprender haciendo
 category:
   - Técnicas scout
   - Seguridad

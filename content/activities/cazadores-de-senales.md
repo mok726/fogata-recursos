@@ -92,14 +92,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A small patrol of scouts in Scout Association of Argentina uniforms with an adult leader photographing a stop sign on a sidewalk corner of an Argentine neighborhood, one scout holding a checklist, afternoon light, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
+  - Salida / Exploración
   - Juego
 category:
   - Seguridad vial

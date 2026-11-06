@@ -89,7 +89,7 @@ active_component: 1  # Investigación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child researching how climate change affects agriculture, forestry, livestock, and fisheries, sharing findings with friends dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and presenting. Agricultural resilience and food security atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Sensibilización
 
 category:
   - Agricultura

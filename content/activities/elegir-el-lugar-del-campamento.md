@@ -106,16 +106,15 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts walking across a grassy forest clearing with a checklist and a compass, pointing at a flat elevated spot near trees. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Planificación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Proyecto
 category:
   - Técnicas scout
   - Campamento

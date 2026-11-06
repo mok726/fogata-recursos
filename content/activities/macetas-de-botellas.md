@@ -115,15 +115,14 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Preparación básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating hanging planters from recycled plastic bottles, filling them with soil and planting seeds, educational upcycling activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Creatividad / Arte
+  - Expresión artística
 category:
   - Reutilización
   - Jardinería

@@ -96,7 +96,7 @@ active_component: 2  # Manipulación y observación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Experimentación"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A clear container with layered soil and sand, with earthworms moving through the layers, children observing and taking notes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing the wormery. Hands-on biology and soil ecosystem learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,9 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 
 category:
   - Suelo

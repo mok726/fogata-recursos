@@ -89,7 +89,7 @@ active_component: 2  # Desplazamiento
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar visita
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a museum to observe clay sculptures and pottery, asking questions about the materials and process dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, looking at artwork. Cultural appreciation and soil connection atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Exploración
+  - Indagación
+  - Salida / Exploración
   - Reflexión
 
 category:

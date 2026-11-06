@@ -88,7 +88,7 @@ active_component: 2  # Cambio de hábitos
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child turning off the TV and computer, spending less time in front of screens dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing outside instead. Reducing energy consumption and healthy habits atmosphere. No text, no letters, no words. Wide shot."
 
@@ -101,9 +101,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
+  - Servicio
   - Reflexión
-  - Aprender haciendo
 
 category:
   - Energía

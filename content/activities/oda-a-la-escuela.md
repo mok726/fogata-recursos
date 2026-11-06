@@ -101,8 +101,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Sensibilización
-  - Creatividad / Arte
+  - Expresión artística
 
 category:
   - Educación

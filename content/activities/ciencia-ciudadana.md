@@ -101,7 +101,7 @@ active_component: 2  # Actividad de observación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People observing marine life and recording data on clipboards at the beach dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting citizen science and taking notes. Scientific observation and community research atmosphere. No text, no letters, no words. Wide shot."
 
@@ -114,9 +114,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Aprender haciendo
-  - Exploración
+  - Indagación
+  - Salida / Exploración
 
 category:
   - Ciencia ciudadana

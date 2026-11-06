@@ -90,7 +90,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A pie chart showing water use by sector - agriculture, industry, domestic, energy - in a country dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and analyzing data. Water sector analysis and resource management atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,7 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
 
 category:

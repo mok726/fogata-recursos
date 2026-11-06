@@ -113,15 +113,14 @@ complexity_execution: 2  # Actividad práctica simple
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children acting as leak detectives with measuring cylinders and stopwatches, checking faucets for drips and calculating wasted water. Educational investigation activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, detecting leaks. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Aprender haciendo
+  - Indagación
 category:
   - Conservación
   - Agua

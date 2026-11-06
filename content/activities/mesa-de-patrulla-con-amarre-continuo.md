@@ -107,15 +107,14 @@ complexity_execution: 4
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts proudly testing a rustic camp table made of lashed wooden poles with a slatted top, two water jugs placed on it, in a forest campsite. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Planificación
+  - Proyecto
   - Dinámica de grupos
 category:
   - Técnicas scout

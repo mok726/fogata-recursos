@@ -102,7 +102,7 @@ complexity_execution: 4  # Requiere planificación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community education program about healthy diets with workshops, talks, and interactive sessions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, educating and sharing. Community health leadership and education atmosphere. No text, no letters, no words. Wide shot."
@@ -119,9 +119,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Aprender haciendo
+  - Servicio
 
 category:
   - Educación

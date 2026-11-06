@@ -109,15 +109,15 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting quietly behind tall grass in a park with binoculars and open notebooks, watching a rufous hornero bird on its round mud nest on a tree branch at a respectful distance, spring morning."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
+  - Salida / Exploración
+  - Indagación
 category:
   - Naturaleza
   - Observación

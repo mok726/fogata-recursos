@@ -114,16 +114,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere libro
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An open book about pollinators with beautiful illustrations of bees, butterflies, and bats and a person reading and taking notes dominates the composition. Left side contains open negative space reserved for website interface elements. A bookshelf with nature books in the background, seen from a distance, positioned on the right side. The scene has a cozy library atmosphere with warm, inviting lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Aprender haciendo
 category:
   - Lectura
   - Polinizadores

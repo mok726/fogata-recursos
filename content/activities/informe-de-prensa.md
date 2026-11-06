@@ -101,7 +101,7 @@ complexity_execution: 4  # Requiere contactar y entrevistar
 complexity_organizer: 4  # Requiere planificación y autorización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A journalist interviewing an indigenous person about forest challenges dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, recording an interview and taking notes. Indigenous rights and environmental justice atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
-  - Servicio a los demás
-  - Sensibilización
+  - Indagación
+  - Servicio
 
 category:
   - Pueblos indígenas

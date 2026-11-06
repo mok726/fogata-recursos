@@ -115,16 +115,16 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A visionary drawing of a green city with rooftop gardens, bike lanes, trees, and sustainable infrastructure dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and presenting their dream city ideas. Creative urban planning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Reflexión
-  - Planificación
+  - Proyecto
 category:
   - Urbanismo
   - Arte

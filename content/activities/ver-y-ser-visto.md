@@ -96,16 +96,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "At night in an open field, scouts in Scout Association of Argentina uniforms shining a flashlight toward three distant volunteers, one in dark clothes barely visible, one in white, one with a bright glowing reflective vest, starry sky, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Sensibilización
+  - Experimento
 category:
   - Seguridad vial
 skills:

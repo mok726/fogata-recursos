@@ -112,7 +112,7 @@ image_prompt: "Close-up of trail signs on a forest path made of a small stone st
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Exploración
+  - Salida / Exploración
 category:
   - Técnicas scout
   - Rastreo

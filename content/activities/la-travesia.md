@@ -102,15 +102,14 @@ complexity_execution: 4
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A single-file line of scouts with backpacks hiking through rugged countryside, one scout far ahead marking the path with stones, a simple log bridge over a creek, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Aprender haciendo
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación

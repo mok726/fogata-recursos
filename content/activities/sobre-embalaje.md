@@ -91,7 +91,7 @@ active_component: 1  # Actividad de observación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child identifying over-packaged products in the kitchen, finding alternatives with less packaging dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, comparing products. Waste reduction and conscious consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,9 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Embalaje

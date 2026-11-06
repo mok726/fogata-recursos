@@ -120,7 +120,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Comunicación
 
 category:
   - Juego

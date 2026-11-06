@@ -107,16 +107,16 @@ complexity_execution: 3  # Requiere coordinación y creatividad
 complexity_organizer: 4  # Requiere permisos y planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Sensibilización"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating and placing posters in a shopping area, engaging with shoppers, using social media to raise awareness about plastic pollution. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a persuasion campaign. Educational activism scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Sensibilización
-  - Servicio a los demás
-  - Creatividad / Arte
+  - Campaña
+  - Servicio
+  - Expresión artística
 category:
   - Campaña
   - Concientización

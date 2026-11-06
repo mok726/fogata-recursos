@@ -106,16 +106,14 @@ complexity_execution: 3  # Requiere compromiso
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Volunteers working in a conservation organization planting trees or cleaning a natural area dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively volunteering in environmental conservation work. Community service environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Participación comunitaria
-  - Aprender haciendo
+  - Servicio
 category:
   - Voluntariado
   - Conservación

@@ -92,7 +92,7 @@ active_component: 2  # Moverse para entrevistar
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing people about the role of soil in their lives, creating a creative exhibition with photos and quotes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting findings. Community engagement and soil awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,9 +105,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Comunicación
-  - Creatividad / Arte
+  - Indagación
+  - Expresión artística
 
 category:
   - Suelo

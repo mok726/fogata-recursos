@@ -101,15 +101,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts by a river bank pacing distances and planting a stick in line with a tree on the opposite bank, another group measuring a tall tree's height with a stick, sunny."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Experimentación
+  - Experimento
 category:
   - Juegos scouts
   - Orientación

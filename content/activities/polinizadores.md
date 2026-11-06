@@ -111,16 +111,14 @@ complexity_execution: 3  # Requiere coordinación
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Bees pollinating flowers with an apiary and beekeeper in the background dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, visiting a beekeeper and learning about pollinators. Agricultural education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Aprender haciendo
-  - Sensibilización
+  - Indagación
 category:
   - Polinizadores
   - Agricultura

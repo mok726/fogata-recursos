@@ -102,15 +102,14 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A cub scout tying a knot in the end of her scout neckerchief in the morning, then picking up litter from a sidewalk, warm and friendly scene."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio a los demás
-  - Participación comunitaria
+  - Servicio
 category:
   - Comunidad
   - Servicio

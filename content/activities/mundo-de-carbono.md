@@ -112,16 +112,15 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Requiere planificar salida
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth exploring a forest, nature reserve, beach, or park, observing plants, animals, soil, and water, with notebooks and cameras documenting carbon cycle connections. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring nature and learning about the carbon cycle. Educational outdoor exploration scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Indagación
 category:
   - Ciclo del carbono
   - Ecosistemas

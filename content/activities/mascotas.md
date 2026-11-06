@@ -107,14 +107,13 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, caring for pets in a backyard: one child filling a dog's water bowl, another gently holding a guinea pig, another cleaning a small cage, a notebook with a care chart on the grass, warm afternoon light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Reflexión
 category:
   - Naturaleza

@@ -111,7 +111,6 @@ image_prompt: "Two lines of scouts passing buckets of water hand to hand in a su
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Aprender haciendo
 category:
   - Juegos scouts
   - Primeros auxilios

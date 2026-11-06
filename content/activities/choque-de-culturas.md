@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People from different cultures sharing their food traditions and eating habits dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, comparing cultural food practices. Cultural diversity and food heritage atmosphere. No text, no letters, no words. Wide shot."
@@ -117,9 +117,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
+  - Indagación
   - Debate / Diálogo
-  - Sensibilización
 
 category:
   - Cultura

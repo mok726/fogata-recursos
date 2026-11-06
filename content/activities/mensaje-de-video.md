@@ -106,7 +106,7 @@ complexity_execution: 3  # Requiere equipo
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person recording a video message about ending hunger with a camera or phone dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and sharing their message. Digital storytelling and social media activism atmosphere. No text, no letters, no words. Wide shot."
@@ -123,9 +123,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Creatividad / Arte
-  - Comunicación
-  - Sensibilización
+  - Expresión artística
 
 category:
   - Video

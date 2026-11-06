@@ -95,16 +95,14 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms in a closed yard practicing a road accident simulation: one placing a warning triangle, one on the phone, one kneeling next to a volunteer lying on the ground beside a fallen bicycle, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Simulación
-  - Aprender haciendo
-  - Salud
+  - Simulación / Juego de roles
 category:
   - Seguridad vial
 skills:

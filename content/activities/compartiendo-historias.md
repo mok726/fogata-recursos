@@ -105,7 +105,6 @@ accessibility: []
 activity_type:
   - Reflexión
   - Dinámica de grupos
-  - Sensibilización
 
 category:
   - Experiencias

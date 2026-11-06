@@ -94,7 +94,7 @@ active_component: 4  # Organización activa
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 4  # Requiere organización
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community event raising awareness about water, with booths, activities, and enthusiastic participants dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and presenting. Community engagement and water advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -107,9 +107,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Sensibilización
-  - Aprender haciendo
+  - Servicio
 
 category:
   - Agua

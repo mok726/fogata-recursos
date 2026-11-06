@@ -90,7 +90,7 @@ active_component: 3  # Trabajo manual
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar taller
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children working in a pottery workshop, shaping clay into pots and sculptures, learning about the materials used dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating pottery. Creative craft and soil connection atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
-  - Exploración
+  - Expresión artística
+  - Salida / Exploración
 
 category:
   - Suelo

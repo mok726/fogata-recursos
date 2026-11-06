@@ -108,16 +108,15 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Requiere inspección
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating and using an electricity safety checklist at home and school, checking cords, outlets, and appliances with adult supervision. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting an electricity safety inspection. Educational safety scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
-  - Investigación
-  - Planificación
+  - Indagación
+  - Proyecto
 category:
   - Seguridad
   - Electricidad

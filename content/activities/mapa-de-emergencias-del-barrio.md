@@ -103,16 +103,16 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts walking through their neighborhood marking a printed street map with colored pencils, pointing at a fire hydrant and a pharmacy sign, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Exploración
-  - Participación comunitaria
+  - Indagación
+  - Salida / Exploración
+  - Servicio
 category:
   - Comunidad
   - Prevención

@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A sustainable picnic with reusable containers, local food, and people playing games outdoors dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, enjoying a green picnic. Healthy outdoor eating and sustainable lifestyle atmosphere. No text, no letters, no words. Wide shot."
@@ -120,8 +120,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
+  - Servicio
   - Juego
 
 category:

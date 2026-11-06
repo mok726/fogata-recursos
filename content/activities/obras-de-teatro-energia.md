@@ -107,16 +107,15 @@ complexity_execution: 2  # Requiere creatividad
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing a creative play about different forms of energy - kinetic, potential, mechanical, chemical - with each actor representing a different energy form. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing a play about energy forms. Educational theater scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Dinámica de grupos
-  - Aprender haciendo
 category:
   - Física
   - Energía

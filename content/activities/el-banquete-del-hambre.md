@@ -106,7 +106,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 4  # Requiere planificación de comida y roles
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Simulación"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People receiving different types of food based on income levels at a banquet table dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, participating in a hunger simulation activity. Social inequality and food injustice awareness atmosphere. No text, no letters, no words. Wide shot."
@@ -123,9 +123,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Simulación
+  - Simulación / Juego de roles
   - Reflexión
-  - Sensibilización
 
 category:
   - Desigualdad

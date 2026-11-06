@@ -89,7 +89,7 @@ active_component: 4  # Actividad práctica
 complexity_execution: 3  # Requiere compromiso
 complexity_organizer: 3  # Requiere coordinar con organizaciones
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Volunteers working at a marine conservation organization, cleaning, monitoring, or helping with research dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, actively participating in conservation work. Hands-on environmental action and service atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
-  - Sensibilización
+  - Servicio
 
 category:
   - Voluntariado

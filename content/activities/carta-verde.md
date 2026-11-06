@@ -113,16 +113,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Participación comunitaria"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing a polite letter to local authorities about environmental challenges with specific suggestions, with stamps and envelopes on the table dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing a green letter to local politicians. Civic engagement environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Participación comunitaria
+  - Servicio
   - Reflexión
-  - Aprender haciendo
 category:
   - Política
   - Comunicación

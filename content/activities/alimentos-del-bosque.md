@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere identificación segura de alimentos
 complexity_organizer: 4  # Requiere planificación y seguridad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Wild forest foods like mushrooms, berries, and herbs beautifully arranged dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, foraging and preparing food. Sustainable food and nature connection atmosphere. No text, no letters, no words. Wide shot."
@@ -121,9 +121,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Investigación
-  - Sensibilización
+  - Indagación
 
 category:
   - Alimentos silvestres

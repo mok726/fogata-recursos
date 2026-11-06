@@ -90,7 +90,7 @@ active_component: 3  # Creación y desfile
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children in a recycled fashion show wearing costumes made from recycled materials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, walking the runway. Creative recycling and sustainable fashion atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,9 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Juego
-  - Servicio a los demás
+  - Servicio
 
 category:
   - Moda

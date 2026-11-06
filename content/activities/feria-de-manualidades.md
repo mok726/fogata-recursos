@@ -102,16 +102,15 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout hall turned into a small fair with tables of handmade crafts made from recycled materials, families browsing, a scout auctioning a wooden toy, warm light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
-  - Participación comunitaria
+  - Expresión artística
+  - Servicio
 category:
   - Arte
   - Reciclaje

@@ -111,16 +111,15 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Requiere seguimiento de 1-2 semanas
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two small plants in pots: one thriving in sunlight and one weak in darkness, showing the importance of the sun for plant growth. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a plant growth experiment. Educational botany scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Aprender haciendo
-  - Investigación
+  - Experimento
+  - Indagación
 category:
   - Fotosíntesis
   - Plantas

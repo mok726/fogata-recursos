@@ -110,16 +110,15 @@ complexity_execution: 3  # Requiere preparación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Simulación"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A journalist interviewing a farmer about climate change impacts on crops dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, role-playing interviews between farmers and journalists. Interactive simulation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Simulación
-  - Investigación
-  - Aprender haciendo
+  - Simulación / Juego de roles
+  - Indagación
 category:
   - Agricultura
   - Comunicación

@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere preparación de folleto
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful ecotourism destination with forest activities and sustainable tourism dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating travel brochures and planning ecotours. Sustainable travel and forest conservation atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Investigación
-  - Sensibilización
-  - Creatividad / Arte
+  - Indagación
+  - Expresión artística
 
 category:
   - Ecoturismo

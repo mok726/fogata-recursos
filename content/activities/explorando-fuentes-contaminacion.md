@@ -113,16 +113,15 @@ complexity_execution: 2  # Observación y recolección
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children exploring their school grounds and neighborhood, collecting trash samples and identifying sources of water pollution. Outdoor educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring and collecting samples. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Investigación
-  - Aprender haciendo
+  - Salida / Exploración
+  - Indagación
 category:
   - Contaminación
   - Cuencas

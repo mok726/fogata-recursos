@@ -111,15 +111,15 @@ complexity_execution: 3  # Investigación y presentación
 complexity_organizer: 3  # Coordinación de equipos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching UN water projects in different countries and presenting their findings, learning about international cooperation. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting their research. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
-  - Orientación
+  - Indagación
+  - Salida / Exploración
 category:
   - Cooperación internacional
   - Proyectos

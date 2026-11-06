@@ -92,15 +92,14 @@ complexity_execution: 2
 complexity_organizer: 2  # Recorrer antes y cuidar al grupo en la calle
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A small group of young cub scouts in Scout Association of Argentina uniforms walking in a line on a sidewalk of a quiet Argentine neighborhood, two adult leaders pointing at a traffic light and a pedestrian crossing, trees and low houses, sunny afternoon, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Aprender haciendo
+  - Salida / Exploración
   - Debate / Diálogo
 category:
   - Seguridad vial

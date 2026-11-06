@@ -123,8 +123,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Investigación
-  - Sensibilización
+  - Indagación
 
 category:
   - Pesca

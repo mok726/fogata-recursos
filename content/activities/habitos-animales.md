@@ -91,7 +91,7 @@ active_component: 3  # Desplazamiento y observación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar visita
 
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children observing animals at a zoo or farm, documenting how they interact with soil - dust baths, digging, eating dirt - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and taking notes. Wildlife observation and animal behavior learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Investigación
+  - Salida / Exploración
+  - Indagación
 
 category:
   - Suelo

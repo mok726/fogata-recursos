@@ -100,7 +100,6 @@ image_prompt: "Scouts in Scout Association of Argentina uniforms wearing helmets
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salud
 category:
   - Seguridad vial
 skills:

@@ -115,16 +115,15 @@ complexity_execution: 1  # Muy simple
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two feathers side by side - one clean and one coated with oil showing the damaging effects of oil spills on birds dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a simple experiment with feathers and oil. Environmental education experiment environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
+  - Experimento
   - Reflexión
-  - Sensibilización
 category:
   - Contaminación
   - Aves

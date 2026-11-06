@@ -114,16 +114,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere seguimiento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person making daily commitments to help pollinators and the planet with a journal tracking actions and a calendar showing ongoing progress dominates the composition. Left side contains open negative space reserved for website interface elements. A global map showing people taking actions for the good of pollinators in the background, seen from a distance, positioned on the right side. The scene has an inspiring, hopeful atmosphere with warm natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Aprender haciendo
   - Reflexión
-  - Participación comunitaria
+  - Servicio
 category:
   - Acción
   - Compromiso

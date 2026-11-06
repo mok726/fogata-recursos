@@ -87,7 +87,7 @@ active_component: 5  # Movimiento y baile
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children dancing creatively, inspired by the movement of water - flowing, splashing, calm, and rapid dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing a water-inspired dance. Creative expression and movement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -100,9 +100,8 @@ accessibility: []
 
 
 activity_type:
-  - Creatividad / Arte
+  - Expresión artística
   - Juego
-  - Aprender haciendo
 
 category:
   - Agua

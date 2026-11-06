@@ -101,7 +101,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Sensibilización
   - Juego
 
 category:

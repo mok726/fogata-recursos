@@ -116,9 +116,9 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
-  - Planificación
+  - Proyecto
 category:
   - Conservación
   - Agua

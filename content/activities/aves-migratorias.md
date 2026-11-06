@@ -112,16 +112,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Migratory birds in a natural park with children observing them through binoculars dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching and listening to migratory birds. Bird watching environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Aprender haciendo
-  - Sensibilización
+  - Salida / Exploración
 category:
   - Aves
   - Naturaleza

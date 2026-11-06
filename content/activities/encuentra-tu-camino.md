@@ -120,8 +120,7 @@ accessibility:
 
 activity_type:
   - Juego
-  - Aprender haciendo
-  - Exploración
+  - Salida / Exploración
 
 category:
   - Orientación

@@ -115,7 +115,7 @@ image_prompt: "A patrol of scouts reading a clue card at a gate post with a comp
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Exploración
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación

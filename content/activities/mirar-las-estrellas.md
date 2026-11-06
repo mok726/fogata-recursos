@@ -110,8 +110,8 @@ image_prompt: "Ultra-wide cinematic website hero banner. Scouts lying on blanket
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Orientación
+  - Juego
+  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación

@@ -113,7 +113,7 @@ complexity_execution: 3  # Requiere cuidado y seguimiento
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Aprender haciendo"
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of young people planting vegetables in a garden or visiting a farm dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working in the soil and learning about food production. Hands-on learning and food system education atmosphere. No text, no letters, no words. Wide shot."
@@ -131,9 +131,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Aprender haciendo
-  - Servicio a los demás
-  - Experimentación
+  - Servicio
+  - Experimento
 
 category:
   - Agricultura

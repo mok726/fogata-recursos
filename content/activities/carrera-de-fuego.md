@@ -111,7 +111,6 @@ image_prompt: "Ultra-wide cinematic website hero banner. Scout patrols kneeling 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Aprender haciendo
 category:
   - Juegos scouts
   - Técnicas de campamento

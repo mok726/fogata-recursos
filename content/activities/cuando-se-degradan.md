@@ -116,16 +116,15 @@ complexity_execution: 3  # Requiere seguimiento a largo plazo
 complexity_organizer: 4  # Requiere planificación y seguimiento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimentación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children digging in a garden, burying various waste materials for a science experiment, educational environmental research scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimentación
-  - Investigación
-  - Aprender haciendo
+  - Experimento
+  - Indagación
 category:
   - Ciencia ambiental
   - Biodegradación

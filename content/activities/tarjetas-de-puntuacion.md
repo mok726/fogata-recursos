@@ -109,14 +109,14 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Requiere coordinación con el supermercado
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Investigación"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A supermarket aisle with youth examining product packaging, creating scorecards with colorful ratings for different types of packaging materials. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, evaluating packaging sustainability. Educational consumer awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Investigación
+  - Indagación
   - Reflexión
   - Juego
 category:

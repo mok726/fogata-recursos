@@ -105,7 +105,7 @@ accessibility: []
 activity_type:
   - Reflexión
   - Debate / Diálogo
-  - Investigación
+  - Indagación
 
 category:
   - Agua

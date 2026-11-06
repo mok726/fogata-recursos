@@ -91,7 +91,7 @@ active_component: 2  # Moverse para observar
 complexity_execution: 2  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Investigación"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children observing the effect of weather on soil in a garden or park, taking notes and discussing responses to changing conditions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and recording. Weather and soil interaction atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Investigación
-  - Exploración
-  - Aprender haciendo
+  - Indagación
+  - Salida / Exploración
 
 category:
   - Suelo

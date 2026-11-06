@@ -89,7 +89,7 @@ active_component: 2  # Colocación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio a los demás"
+main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child setting up separate containers for plastic, paper, cans, glass, and biodegradable materials at home and school, making signs for each container dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, labeling containers. Waste separation and recycling education atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio a los demás
-  - Aprender haciendo
+  - Servicio
   - Reflexión
 
 category:

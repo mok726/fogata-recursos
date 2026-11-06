@@ -113,15 +113,14 @@ complexity_execution: 4  # Requiere ensayo
 complexity_organizer: 4  # Requiere logística
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Creatividad / Arte"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A theatrical performance with children acting out a community affected by water scarcity dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing a play about climate change impacts on water. Creative theater environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Creatividad / Arte
-  - Aprender haciendo
+  - Expresión artística
   - Reflexión
 category:
   - Teatro

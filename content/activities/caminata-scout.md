@@ -107,16 +107,15 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Exploración"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts hiking in single file on the left side of a quiet rural road facing traffic, wearing reflective vests and backpacks, hills in the background. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Exploración
-  - Orientación
-  - Planificación
+  - Salida / Exploración
+  - Proyecto
 category:
   - Técnicas scout
   - Caminata
