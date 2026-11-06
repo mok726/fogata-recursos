@@ -142,7 +142,7 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

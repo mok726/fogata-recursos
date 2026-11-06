@@ -137,8 +137,8 @@ scout_values:
   - Optimismo y Alegría
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

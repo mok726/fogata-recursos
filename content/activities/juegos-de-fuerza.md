@@ -123,8 +123,8 @@ scout_values:
   - Vida Sana y Bienestar
   - Superación Personal y Perseverancia
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

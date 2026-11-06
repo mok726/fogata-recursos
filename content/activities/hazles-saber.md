@@ -125,8 +125,8 @@ scout_values:
   - Superación Personal y Perseverancia
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 rama_castores: []
 

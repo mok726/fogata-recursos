@@ -136,8 +136,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Superación Personal y Perseverancia
 scout_method:
-  - Progresión personal
-  - Aprender haciendo
+  - Progresión Personal
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

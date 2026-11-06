@@ -140,8 +140,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
-  - Sistema de equipos
-  - Progresión personal
+  - Sistema de Equipos
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

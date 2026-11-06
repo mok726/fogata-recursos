@@ -137,8 +137,8 @@ scout_values:
   - Hermandad y Fraternidad
   - Responsabilidad y Compromiso
 scout_method:
-  - Sistema de equipos
-  - Progresión personal
+  - Sistema de Equipos
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

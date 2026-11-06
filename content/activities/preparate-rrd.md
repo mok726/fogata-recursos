@@ -126,8 +126,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 

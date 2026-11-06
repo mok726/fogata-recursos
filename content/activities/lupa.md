@@ -128,8 +128,8 @@ scout_values:
   - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 rama_castores: []
 

@@ -147,8 +147,8 @@ scout_values:
   - Espíritu Aventurero
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 1-2)

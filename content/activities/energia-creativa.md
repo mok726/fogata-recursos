@@ -139,7 +139,7 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

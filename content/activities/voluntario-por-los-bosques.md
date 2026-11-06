@@ -142,9 +142,9 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Involucramiento Comunitario
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

@@ -141,8 +141,8 @@ scout_values:
   - Solidaridad y Servicio
   - Respeto y Valoración de la Diversidad
 scout_method:
-  - Participación comunitaria y Servicio
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Involucramiento Comunitario
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

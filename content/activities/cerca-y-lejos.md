@@ -127,9 +127,9 @@ scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

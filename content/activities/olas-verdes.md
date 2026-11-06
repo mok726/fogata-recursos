@@ -150,9 +150,9 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Vida en la Naturaleza
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

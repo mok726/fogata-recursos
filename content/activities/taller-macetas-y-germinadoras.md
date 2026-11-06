@@ -134,8 +134,8 @@ scout_values:
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

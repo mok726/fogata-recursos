@@ -132,7 +132,7 @@ scout_values:
   - Vida Sana y Bienestar
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
   - Ley y Promesa
 
 rama_castores: []

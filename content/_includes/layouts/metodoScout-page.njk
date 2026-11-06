@@ -8,6 +8,7 @@ fonts:
 {% set heroKicker = "Método scout" %}
 {% set heroTitle = metodoScout.name %}
 {% set heroText = metodoScout.description or "" %}
+{% set criteria = metodoScout %}
 {% set browserItems = collections.activitiesSorted | activitiesFor("method", metodoScout.name) %}
 {% set fixed = { filter: "metodo", text: metodoScout.name } %}
 {% include "components/browse-page.njk" %}

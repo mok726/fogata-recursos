@@ -131,8 +131,8 @@ scout_values:
   - Sencillez y Austeridad
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
+  - Vida en la Naturaleza
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

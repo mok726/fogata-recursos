@@ -145,7 +145,7 @@ scout_values:
   - Vida Sana y Bienestar
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

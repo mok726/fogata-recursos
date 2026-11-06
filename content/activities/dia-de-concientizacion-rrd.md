@@ -134,9 +134,9 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

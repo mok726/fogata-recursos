@@ -132,8 +132,8 @@ scout_values:
   - Espíritu Aventurero
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

@@ -138,8 +138,8 @@ scout_values:
   - Respeto y Valoración de la Diversidad
   - Responsabilidad y Compromiso
 scout_method:
-  - Progresión personal
-  - Aprender haciendo
+  - Progresión Personal
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

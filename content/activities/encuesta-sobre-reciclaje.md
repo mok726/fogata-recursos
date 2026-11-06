@@ -140,9 +140,9 @@ scout_values:
   - Hermandad y Fraternidad
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

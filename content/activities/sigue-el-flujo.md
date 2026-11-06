@@ -128,8 +128,8 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

@@ -142,8 +142,8 @@ scout_values:
   - Compromiso con la Naturaleza
   - Solidaridad y Servicio
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias

@@ -132,8 +132,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

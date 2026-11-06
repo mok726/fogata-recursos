@@ -126,8 +126,8 @@ scout_values:
   - Lealtad y Pertenencia
   - Justicia y Equidad
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

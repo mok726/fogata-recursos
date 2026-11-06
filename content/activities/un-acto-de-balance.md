@@ -124,8 +124,8 @@ scout_values:
   - Respeto y Valoración de la Diversidad
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

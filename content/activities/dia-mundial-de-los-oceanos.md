@@ -135,9 +135,9 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
-  - Marco simbólico
+  - Involucramiento Comunitario
+  - Sistema de Equipos
+  - Marco Simbólico
 
 rama_castores: []
 

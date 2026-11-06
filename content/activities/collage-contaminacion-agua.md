@@ -143,8 +143,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Solidaridad y Servicio
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

@@ -129,8 +129,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

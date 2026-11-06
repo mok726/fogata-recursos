@@ -130,8 +130,8 @@ scout_values:
   - Sencillez y Austeridad
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

@@ -144,8 +144,8 @@ scout_values:
   - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

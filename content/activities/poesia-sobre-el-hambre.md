@@ -147,8 +147,8 @@ scout_values:
   - Justicia y Equidad
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -138,7 +138,7 @@ scout_values:
   - Responsabilidad y Compromiso
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

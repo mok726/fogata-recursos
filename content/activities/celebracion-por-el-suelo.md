@@ -130,8 +130,8 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

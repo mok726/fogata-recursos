@@ -128,8 +128,8 @@ scout_values:
   - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

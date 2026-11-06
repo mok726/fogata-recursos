@@ -126,7 +126,7 @@ scout_values:
   - Solidaridad y Servicio
   - Vida Sana y Bienestar
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

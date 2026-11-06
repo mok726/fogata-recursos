@@ -145,7 +145,7 @@ scout_values:
   - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

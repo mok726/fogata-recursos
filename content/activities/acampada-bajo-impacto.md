@@ -136,8 +136,8 @@ scout_values:
   - Espíritu Aventurero
   - Responsabilidad y Compromiso
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
+  - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

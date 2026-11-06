@@ -138,8 +138,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

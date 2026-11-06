@@ -147,8 +147,8 @@ scout_values:
   - Compromiso con la Naturaleza
   - Optimismo y Alegría
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

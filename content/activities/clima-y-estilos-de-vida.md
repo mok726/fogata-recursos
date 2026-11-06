@@ -140,8 +140,8 @@ scout_values:
   - Espíritu Aventurero
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

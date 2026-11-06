@@ -126,8 +126,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

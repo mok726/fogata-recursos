@@ -140,8 +140,8 @@ scout_values:
   - Sencillez y Austeridad
   - Vida Sana y Bienestar
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

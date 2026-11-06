@@ -145,8 +145,8 @@ scout_values:
   - Solidaridad y Servicio
 scout_method:
   - Ley y Promesa
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

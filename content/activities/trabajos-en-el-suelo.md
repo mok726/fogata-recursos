@@ -127,8 +127,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
+  - Sistema de Equipos
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

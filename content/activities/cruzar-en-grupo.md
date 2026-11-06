@@ -112,9 +112,9 @@ scout_values:
   - Responsabilidad y Compromiso
   - Hermandad y Fraternidad
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -127,8 +127,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 rama_castores: []
 rama_lobatos:

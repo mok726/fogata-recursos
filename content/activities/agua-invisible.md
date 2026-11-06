@@ -139,7 +139,7 @@ scout_values:
   - Compromiso con la Naturaleza
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

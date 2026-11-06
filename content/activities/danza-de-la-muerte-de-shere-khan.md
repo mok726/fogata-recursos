@@ -125,8 +125,8 @@ skills:
 scout_values:
   - Hermandad y Fraternidad
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

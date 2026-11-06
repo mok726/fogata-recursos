@@ -138,8 +138,8 @@ scout_values:
   - Compromiso con la Naturaleza
   - Solidaridad y Servicio
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

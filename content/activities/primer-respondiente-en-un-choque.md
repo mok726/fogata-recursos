@@ -120,8 +120,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Vida Sana y Bienestar
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

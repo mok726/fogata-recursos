@@ -147,8 +147,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Responsabilidad y Compromiso
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Sistema de equipos
+  - Vida en la Naturaleza
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

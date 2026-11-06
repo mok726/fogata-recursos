@@ -124,8 +124,8 @@ scout_values:
   - Sencillez y Austeridad
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

@@ -130,8 +130,8 @@ skills:
 scout_values:
   - Superación Personal y Perseverancia
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

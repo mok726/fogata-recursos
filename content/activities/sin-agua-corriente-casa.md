@@ -138,8 +138,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

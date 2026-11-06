@@ -442,6 +442,32 @@ body:has(.acts) {
   margin: 0 0 .8rem;
 }
 
+.idx-criteria {
+  max-width: 860px;
+  margin: 1.4rem auto 0;
+  padding: .8rem 1.2rem;
+  border: 1px solid rgba(0, 0, 0, .12);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, .55);
+  line-height: 1.55;
+}
+
+.idx-criteria summary {
+  cursor: pointer;
+  font-family: var(--fogata-slab);
+  font-weight: 800;
+}
+
+.idx-criteria-q {
+  margin-top: .8rem;
+  font-style: italic;
+}
+
+.idx-criteria ul {
+  margin: .3rem 0 .8rem;
+  padding-left: 1.3rem;
+}
+
 .idx-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));

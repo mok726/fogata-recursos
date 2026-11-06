@@ -144,8 +144,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Progresión personal
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Progresión Personal
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

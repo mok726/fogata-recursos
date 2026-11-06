@@ -147,8 +147,8 @@ scout_values:
   - Responsabilidad y Compromiso
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

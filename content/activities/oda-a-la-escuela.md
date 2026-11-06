@@ -124,8 +124,8 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

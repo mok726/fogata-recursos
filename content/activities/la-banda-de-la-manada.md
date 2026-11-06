@@ -133,8 +133,8 @@ scout_values:
   - Optimismo y Alegría
   - Hermandad y Fraternidad
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

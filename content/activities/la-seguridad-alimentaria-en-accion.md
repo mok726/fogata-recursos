@@ -147,8 +147,8 @@ scout_values:
   - Vida Sana y Bienestar
 
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

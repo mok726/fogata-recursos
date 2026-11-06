@@ -126,8 +126,8 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 rama_castores: []
 

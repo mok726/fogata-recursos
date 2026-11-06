@@ -127,8 +127,8 @@ scout_values:
   - Respeto y Valoración de la Diversidad
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

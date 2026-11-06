@@ -127,8 +127,8 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

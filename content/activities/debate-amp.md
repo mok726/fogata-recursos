@@ -133,8 +133,8 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 rama_castores: []
 

@@ -138,8 +138,8 @@ scout_values:
   - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

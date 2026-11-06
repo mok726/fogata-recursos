@@ -129,8 +129,8 @@ scout_values:
   - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
+  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 

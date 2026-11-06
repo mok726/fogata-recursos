@@ -139,9 +139,9 @@ scout_values:
   - Solidaridad y Servicio
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Involucramiento Comunitario
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

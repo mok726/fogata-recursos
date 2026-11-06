@@ -36,3 +36,21 @@ Ejemplo: un juego por patrullas no trabaja Hermandad y Fraternidad solo porque s
 Sencillez y Austeridad y Optimismo y Alegría no cambian.
 
 Pendiente: revisar ficha por ficha que cada valor asignado cumpla la definición (el renombre fue mecánico) y asignar Familia y Vínculos de Cuidado.
+
+# Método scout (2026-11-06)
+
+Los 8 elementos siguen a la OMMS. Definición y criterio de asignación de cada uno (pregunta central, cuándo corresponde y cuándo no) en `content/_data/scoutMethod.js`; se muestran en la página de cada elemento.
+
+Misma regla editorial: un elemento se asocia solo cuando la actividad lo pone en práctica de forma central.
+
+| Antes | Ahora |
+|---|---|
+| Aprender haciendo | Aprender Haciendo (además exige un momento de reflexión) |
+| Sistema de equipos | Sistema de Equipos |
+| Marco simbólico | Marco Simbólico |
+| Progresión personal | Progresión Personal |
+| Vida en la Naturaleza y Aventura | Vida en la Naturaleza |
+| Acompañamiento adulto / Protagonismo juvenil | Apoyo Adulto |
+| Participación comunitaria y Servicio | Involucramiento Comunitario |
+
+Ley y Promesa no cambia. Pendiente: «Aprender Haciendo» está en el 95 % de las fichas; restringirlo en la revisión ficha por ficha.

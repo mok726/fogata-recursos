@@ -115,9 +115,9 @@ scout_values:
   - Responsabilidad y Compromiso
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Sistema de Equipos
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

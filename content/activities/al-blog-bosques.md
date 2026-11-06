@@ -142,8 +142,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Aprender haciendo
+  - Apoyo Adulto
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

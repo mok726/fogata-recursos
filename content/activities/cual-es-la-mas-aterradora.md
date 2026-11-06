@@ -122,8 +122,8 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Marco simbólico
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Marco Simbólico
+  - Apoyo Adulto
 
 rama_castores: []
 

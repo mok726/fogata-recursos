@@ -143,8 +143,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Justicia y Equidad
 scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
+  - Sistema de Equipos
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

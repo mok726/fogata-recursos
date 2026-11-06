@@ -136,8 +136,8 @@ scout_values:
   - Hermandad y Fraternidad
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

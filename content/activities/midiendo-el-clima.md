@@ -147,8 +147,8 @@ scout_values:
   - Superación Personal y Perseverancia
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No tiene competencias definidas

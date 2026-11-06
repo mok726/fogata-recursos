@@ -127,8 +127,8 @@ scout_values:
   - Hermandad y Fraternidad
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

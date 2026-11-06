@@ -139,8 +139,8 @@ scout_values:
   - Hermandad y Fraternidad
   - Responsabilidad y Compromiso
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

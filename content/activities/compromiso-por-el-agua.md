@@ -132,7 +132,7 @@ scout_values:
   - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
   - Ley y Promesa
 
 rama_castores: []

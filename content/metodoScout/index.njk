@@ -12,4 +12,9 @@ fonts:
 {% set heroText = "Actividades según los elementos del método scout que ponen en práctica." %}
 {% set cards = scoutMethod | indexCards("method", collections.activitiesSorted, ageGroups, badges) %}
 {% set symbol = "explore" %}
+{% set indexIntro %}
+<h2>¿Qué es el método scout?</h2>
+<p>El método scout es la forma en que el escultismo educa: un sistema de ocho elementos que funcionan juntos. La lista sigue los elementos que define la Organización Mundial del Movimiento Scout; cada organización scout nacional puede nombrarlos con sus propias palabras.</p>
+<p>En Fogata de Recursos, un elemento se asocia a una actividad solo cuando la actividad lo pone en práctica de forma central, no por una relación indirecta. Por ejemplo, una actividad no es «Vida en la Naturaleza» solo por hacerse al aire libre. En la página de cada elemento está el criterio para asignarlo.</p>
+{% endset %}
 {% include "components/browse-index.njk" %}

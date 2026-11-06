@@ -142,8 +142,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Progresión personal
-  - Aprender haciendo
+  - Progresión Personal
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

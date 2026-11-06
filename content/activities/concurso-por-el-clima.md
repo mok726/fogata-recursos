@@ -141,8 +141,8 @@ scout_values:
   - Responsabilidad y Compromiso
   - Optimismo y Alegría
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

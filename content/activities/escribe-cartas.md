@@ -143,8 +143,8 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Involucramiento Comunitario
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

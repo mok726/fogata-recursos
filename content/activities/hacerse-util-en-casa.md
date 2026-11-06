@@ -130,8 +130,8 @@ scout_values:
   - Solidaridad y Servicio
   - Sencillez y Austeridad
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

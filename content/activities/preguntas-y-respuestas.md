@@ -139,8 +139,8 @@ scout_values:
   - Solidaridad y Servicio
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

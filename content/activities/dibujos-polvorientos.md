@@ -131,8 +131,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 

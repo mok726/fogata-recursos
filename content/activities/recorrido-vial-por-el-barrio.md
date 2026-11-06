@@ -117,8 +117,8 @@ scout_values:
   - Vida Sana y Bienestar
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -131,9 +131,9 @@ scout_values:
   - Hermandad y Fraternidad
   - Responsabilidad y Compromiso
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
-  - Sistema de equipos
+  - Marco Simbólico
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

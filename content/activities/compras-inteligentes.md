@@ -141,7 +141,7 @@ scout_values:
   - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender haciendo
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

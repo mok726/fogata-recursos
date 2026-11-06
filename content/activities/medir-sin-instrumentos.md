@@ -127,8 +127,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
   - Superación Personal y Perseverancia
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
+  - Aprender Haciendo
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

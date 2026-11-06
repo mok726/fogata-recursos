@@ -134,8 +134,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

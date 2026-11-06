@@ -129,8 +129,8 @@ scout_values:
   - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

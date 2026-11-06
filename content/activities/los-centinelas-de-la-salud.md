@@ -143,8 +143,8 @@ scout_values:
   - Vida Sana y Bienestar
 
 scout_method:
-  - Progresión personal
-  - Aprender haciendo
+  - Progresión Personal
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

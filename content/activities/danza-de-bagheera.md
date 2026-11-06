@@ -127,8 +127,8 @@ skills:
 scout_values:
   - Superación Personal y Perseverancia
 scout_method:
-  - Marco simbólico
-  - Aprender haciendo
+  - Marco Simbólico
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

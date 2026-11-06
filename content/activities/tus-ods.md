@@ -143,8 +143,8 @@ scout_values:
   - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Acompañamiento adulto / Protagonismo juvenil
-  - Participación comunitaria y Servicio
+  - Apoyo Adulto
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

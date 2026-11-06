@@ -130,8 +130,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 

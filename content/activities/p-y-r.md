@@ -129,8 +129,8 @@ scout_values:
   - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 rama_castores: []
 

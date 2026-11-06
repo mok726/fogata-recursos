@@ -127,8 +127,8 @@ scout_values:
   - Justicia y Equidad
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
+  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

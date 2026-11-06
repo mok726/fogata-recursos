@@ -133,8 +133,8 @@ scout_values:
   - Solidaridad y Servicio
 
 scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 rama_castores: []
 

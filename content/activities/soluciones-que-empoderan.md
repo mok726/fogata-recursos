@@ -147,8 +147,8 @@ scout_values:
   - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender haciendo
-  - Acompañamiento adulto / Protagonismo juvenil
+  - Aprender Haciendo
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

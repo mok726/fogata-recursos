@@ -127,8 +127,8 @@ scout_values:
   - Optimismo y Alegría
 
 scout_method:
-  - Participación comunitaria y Servicio
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

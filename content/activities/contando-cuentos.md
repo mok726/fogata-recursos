@@ -138,8 +138,8 @@ scout_values:
   - Solidaridad y Servicio
   - Respeto y Valoración de la Diversidad
 scout_method:
-  - Aprender haciendo
-  - Marco simbólico
+  - Aprender Haciendo
+  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

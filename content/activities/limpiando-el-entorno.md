@@ -142,9 +142,9 @@ scout_values:
   - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
-  - Participación comunitaria y Servicio
-  - Aprender haciendo
-  - Sistema de equipos
+  - Involucramiento Comunitario
+  - Aprender Haciendo
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

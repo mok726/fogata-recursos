@@ -144,9 +144,9 @@ scout_values:
   - Superación Personal y Perseverancia
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
-  - Sistema de equipos
+  - Aprender Haciendo
+  - Vida en la Naturaleza
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

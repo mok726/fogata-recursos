@@ -127,8 +127,8 @@ scout_values:
   - Justicia y Equidad
 
 scout_method:
-  - Aprender haciendo
-  - Progresión personal
+  - Aprender Haciendo
+  - Progresión Personal
 
 rama_castores: []
 
