@@ -126,16 +126,19 @@ populares:
       {% set layout = "compact" %}
       {% include "components/activity-card.njk" %}
 
-      <div class="home-daily-body">
+      <div class="home-daily-body" style="--insignias: {{ (item.activity_badges.length if item.activity_badges else 0) if (item.activity_badges.length if item.activity_badges else 0) < 3 else 3 }}">
 
         {% if item.activity_badges and item.activity_badges.length %}
-          {% set rawBadge = item.activity_badges[0] %}
-          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-          <a class="home-daily-badge" href="{{ (badgeId | badgeHref(badges)) | url }}">
-            <img class="badge-icon" loading="lazy" decoding="async"
-              src="{{ (badgeId | badgeLogo(badges)) | url }}"
-              alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
-          </a>
+          <div class="home-daily-badges">
+            {% for rawBadge in item.activity_badges.slice(0, 3) %}
+              {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+              <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+                <img class="badge-icon" loading="lazy" decoding="async"
+                  src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                  alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+              </a>
+            {% endfor %}
+          </div>
         {% endif %}
 
         <p class="home-daily-kicker">
