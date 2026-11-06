@@ -203,7 +203,7 @@ Estos ejemplos muestran por qué conviene evaluar cada dimensión de forma indep
 | Aprender a hacer un nudo | Ninguno necesariamente | Ninguno necesariamente | Técnicas scout | Taller / Construcción |
 | Juego cooperativo con un desafío compartido | Solidaridad y Servicio, si está presente en la experiencia | Sistema de Equipos, si se organiza en equipos scout | Trabajo en equipo | Juego |
 | Experimento sobre germinación | Ninguno necesariamente | Aprender Haciendo, si incluye un momento de reflexión sobre lo realizado | Experimentación, Pensamiento científico | Experimento |
-| Relato de una historia de la selva | Ninguno necesariamente | Ninguno necesariamente | Ninguna necesariamente | Narración |
+| Relato de una historia de la selva | Ninguno necesariamente | Marco Simbólico, en la Manada, si el relato forma parte de su ambientación | Ninguna necesariamente | Narración |
 | Jornada de limpieza de un espacio comunitario | Compromiso con la Naturaleza, si se trabaja explícitamente | Involucramiento Comunitario, si la actividad responde a una necesidad real de la comunidad | Otras, solo si se ejercitan | Servicio |
 | Asamblea para decidir un proyecto | Ninguno necesariamente | Sistema de Equipos, si la decisión la toman los equipos | Comunicación, Toma de decisiones | Debate / Diálogo |
 
