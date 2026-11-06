@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Conciencia social
 
 activity_type:
   - Investigación

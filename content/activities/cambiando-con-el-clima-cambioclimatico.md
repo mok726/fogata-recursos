@@ -121,10 +121,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Three different forest types - mangrove, mountain, and boreal - showing climate impacts dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating educational card games about forests and climate. Forest research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Investigación
-  - Conciencia ambiental
 activity_type:
   - Investigación
   - Creatividad / Arte

@@ -105,10 +105,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Experimentación
-  - Pensamiento crítico
-  - Conciencia climática
 
 activity_type:
   - Experimentación

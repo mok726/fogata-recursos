@@ -104,9 +104,6 @@ main_type: "Juego"
 image_prompt: "Two groups of scouts facing each other in a circle, leaders whispering with their teams, a referee holding a stopwatch in the middle, indoor evening."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia global
 activity_type:
   - Juego
 category:

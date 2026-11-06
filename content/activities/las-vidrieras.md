@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "A patrol of scouts walking along a small-town Argentine street looking carefully at shop windows, one holding a notebook, morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Memoria
 activity_type:
   - Juego
 category:

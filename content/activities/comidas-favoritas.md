@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento nutricional
-  - Creatividad
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

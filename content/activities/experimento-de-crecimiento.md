@@ -117,10 +117,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two small plants in pots: one thriving in sunlight and one weak in darkness, showing the importance of the sun for plant growth. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a plant growth experiment. Educational botany scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación experimental
-  - Conciencia ecológica
 activity_type:
   - Experimentación
   - Aprender haciendo
@@ -133,7 +129,6 @@ skills:
   - Experimentación
   - Observación
   - Pensamiento científico
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

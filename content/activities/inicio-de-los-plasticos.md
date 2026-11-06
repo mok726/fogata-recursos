@@ -127,10 +127,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing grandparents about their childhood, comparing old natural products with modern plastic items, showing a timeline of everyday objects. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión histórica del consumo de plástico
-  - Capacidad de investigación y entrevista
-  - Pensamiento crítico sobre hábitos de consumo
 activity_type:
   - Investigación
   - Reflexión

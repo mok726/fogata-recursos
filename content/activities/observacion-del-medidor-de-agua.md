@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Monitoreo
-  - Conciencia del agua
-  - Planificación
 
 activity_type:
   - Investigación

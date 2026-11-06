@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia climática
-  - Educación
 
 activity_type:
   - Investigación

@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Análisis matemático
-  - Pensamiento crítico
-  - Conciencia del consumo
 
 activity_type:
   - Investigación

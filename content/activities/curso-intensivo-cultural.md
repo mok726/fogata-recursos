@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia cultural
-  - Respeto por la diversidad
 
 activity_type:
   - Investigación

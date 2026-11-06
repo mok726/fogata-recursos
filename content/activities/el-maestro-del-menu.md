@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación
-  - Conocimiento nutricional
-  - Creatividad
 
 activity_type:
   - Aprender haciendo

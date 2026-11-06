@@ -113,10 +113,6 @@ main_type: "Reflexión"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, decorating glass jars as piggy banks with colorful paper, coins and a small goal chart on the table; in a picture book beside them, wolves hiding food under snow among rocks."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Planificación y organización
-  - Hábitos sostenibles
 activity_type:
   - Reflexión
   - Aprender haciendo

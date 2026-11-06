@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conocimiento geológico
-  - Trabajo en equipo
 
 activity_type:
   - Creatividad / Arte

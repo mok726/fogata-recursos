@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth connecting with friends from other countries via video call or messaging, sharing and comparing energy habits, learning what is 'greener' in each lifestyle. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, having an international energy exchange. Educational global connection scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cultural
-  - Comparación internacional
-  - Adaptabilidad
 activity_type:
   - Investigación
   - Reflexión

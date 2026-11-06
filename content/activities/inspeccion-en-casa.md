@@ -106,10 +106,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Planificación
-  - Responsabilidad familiar
 
 activity_type:
   - Servicio a los demás
@@ -124,7 +120,6 @@ category:
 skills:
   - Observación
   - Planificación y organización
-  - Responsabilidad
 
 scout_values:
   - Responsabilidad y Compromiso

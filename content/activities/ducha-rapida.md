@@ -99,10 +99,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Conciencia del agua
-  - Autodisciplina
-  - Influencia social
 
 activity_type:
   - Servicio a los demás

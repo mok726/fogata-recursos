@@ -116,10 +116,6 @@ accessibility:
   - -Motora  # Puede requerir actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Trabajo en equipo
-  - Conciencia social
 
 activity_type:
   - Servicio a los demás
@@ -133,7 +129,6 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

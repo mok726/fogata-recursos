@@ -105,10 +105,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Análisis
-  - Conciencia alimentaria
 
 activity_type:
   - Investigación

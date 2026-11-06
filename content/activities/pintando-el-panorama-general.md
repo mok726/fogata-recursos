@@ -119,10 +119,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two paintings side by side - one showing a vibrant, lush world with pollinators and another showing a barren, grey world without them - dominates the composition. Left side contains open negative space reserved for website interface elements. An easel with brushes and paints in the background, seen from a distance, positioned on the right side. The scene has a stark contrast between the two worlds with dramatic lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Reflexión
-  - Conciencia ambiental
 activity_type:
   - Creatividad / Arte
   - Reflexión

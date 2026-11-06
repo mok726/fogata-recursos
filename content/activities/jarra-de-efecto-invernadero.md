@@ -118,10 +118,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A glass jar with a thermometer inside and a heat lamp warming it dominates the composition, demonstrating the greenhouse effect. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing temperature changes and recording data. Scientific experiment environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Experimentación
-  - Observación
 activity_type:
   - Experimentación
   - Aprender haciendo

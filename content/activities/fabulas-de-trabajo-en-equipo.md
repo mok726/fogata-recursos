@@ -99,10 +99,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comprensión de la formación del suelo
 
 activity_type:
   - Juego

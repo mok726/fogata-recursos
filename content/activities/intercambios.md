@@ -116,10 +116,6 @@ accessibility:
   - -Motora  # Requiere actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Comunicación intercultural
-  - Conciencia global
 
 activity_type:
   - Servicio a los demás

@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Reflexión crítica
-  - Autoconciencia
 
 activity_type:
   - Reflexión
@@ -136,7 +132,7 @@ category:
   - Conciencia
 
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Pensamiento crítico
   - Conciencia social
 

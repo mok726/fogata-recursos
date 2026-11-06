@@ -103,10 +103,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Trabajo en equipo
-  - Responsabilidad
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás
@@ -122,7 +118,6 @@ skills:
   - Trabajo en equipo
   - Hábitos sostenibles
   - Conciencia ambiental
-  - Responsabilidad
 
 scout_values:
   - Compromiso con la Naturaleza

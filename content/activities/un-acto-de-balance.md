@@ -98,10 +98,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Empatía
-  - Conciencia social
-  - Comprensión de género
 
 activity_type:
   - Reflexión

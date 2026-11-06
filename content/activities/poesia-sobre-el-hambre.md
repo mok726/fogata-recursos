@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Expresión escrita
-  - Conciencia social
 
 activity_type:
   - Creatividad / Arte

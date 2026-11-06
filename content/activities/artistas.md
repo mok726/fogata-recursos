@@ -106,9 +106,6 @@ main_type: "Juego"
 image_prompt: "Kids sitting around a wooden table in a scout hall, each copying a drawing stroke by stroke from the neighbor's paper, laughing at the strange results."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Expresión artística
 activity_type:
   - Juego
   - Creatividad / Arte

@@ -123,10 +123,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth working in teams around a sustainable house poster, brainstorming eco-friendly practices for each room, writing on post-its and sticking them on the poster. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, discussing sustainable habits. Educational sustainability scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
-  - Pensamiento crítico
 activity_type:
   - Reflexión
   - Aprender haciendo

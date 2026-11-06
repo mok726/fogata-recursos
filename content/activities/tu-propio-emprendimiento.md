@@ -115,10 +115,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating their own micro-enterprises with logos, slogans, and products, presenting their projects in a business fair. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting their businesses. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Emprendimiento
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Dinámica de grupos

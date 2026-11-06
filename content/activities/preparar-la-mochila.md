@@ -116,9 +116,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in a scout hall, camping gear laid out on a table like a little shop: blankets, enamel mugs, flashlight, raincoat, while a child packs a backpack with the raincoat on top, teammates checking a list."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación y organización
-  - Responsabilidad
 activity_type:
   - Juego
   - Aprender haciendo

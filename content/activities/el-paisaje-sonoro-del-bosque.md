@@ -116,10 +116,6 @@ accessibility:
   - -Auditiva  # Actividad centrada en sonidos
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Creatividad
-  - Conciencia ambiental
 
 activity_type:
   - Exploración

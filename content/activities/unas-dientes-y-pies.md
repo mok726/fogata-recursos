@@ -113,9 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, gathered around an outdoor sink washing hands and scrubbing nails with a brush, one child brushing teeth, another drying feet and changing socks on a bench, camp setting."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Salud

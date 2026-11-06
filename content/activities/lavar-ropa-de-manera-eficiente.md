@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Eficiencia doméstica
-  - Responsabilidad
-  - Ahorro
 
 activity_type:
   - Servicio a los demás
@@ -117,7 +113,6 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Responsabilidad
   - Planificación y organización
 
 scout_values:

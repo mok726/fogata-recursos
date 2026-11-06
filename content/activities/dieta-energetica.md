@@ -120,10 +120,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family tracking their energy savings at home with charts and energy-efficient actions dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, monitoring energy consumption and implementing energy-saving measures. Energy conservation challenge environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia energética
-  - Planificación
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Reflexión
@@ -135,7 +131,6 @@ category:
 skills:
   - Planificación y organización
   - Observación
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

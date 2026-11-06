@@ -107,10 +107,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A scout holding a compass and reading a paper slip in an open field, another pair of scouts crouching behind a hedge, a church tower in the distance, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Orientación
-  - Autonomía
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Juego

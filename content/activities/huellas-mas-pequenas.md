@@ -107,10 +107,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Conciencia climática
-  - Responsabilidad personal
 
 activity_type:
   - Reflexión
@@ -124,7 +120,6 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Responsabilidad
   - Planificación y organización
 
 scout_values:

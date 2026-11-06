@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth learning about water treatment from a local expert or visiting a water treatment plant, understanding how water is cleaned before and after use. Educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about water treatment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión de sistemas
-  - Conciencia ciudadana
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Orientación

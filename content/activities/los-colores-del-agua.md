@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Observación
-  - Técnica fotográfica
 
 activity_type:
   - Creatividad / Arte

@@ -117,10 +117,6 @@ accessibility:
   - -Motora  # Requiere movimiento rápido
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Reflexión sobre escasez
-  - Conciencia social
 
 activity_type:
   - Juego

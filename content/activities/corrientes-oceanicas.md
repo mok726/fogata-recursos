@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Pensamiento científico
-  - Conciencia climática
 
 activity_type:
   - Investigación

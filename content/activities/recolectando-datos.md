@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia alimentaria
-  - Conexión suelo-alimentos
 
 activity_type:
   - Investigación

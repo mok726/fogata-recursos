@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia sobre servicios públicos
-  - Comprensión de infraestructura
 
 activity_type:
   - Investigación

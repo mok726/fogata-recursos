@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Conciencia ambiental
-  - Reflexión crítica
 
 activity_type:
   - Investigación
@@ -131,7 +127,7 @@ category:
   - Hábitos
 
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Conciencia ambiental
   - Hábitos sostenibles
 

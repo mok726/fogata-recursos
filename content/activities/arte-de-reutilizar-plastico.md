@@ -125,10 +125,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating art sculptures from recycled plastic waste, colorful and creative workshop, educational environmental activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad y reutilización
-  - Conciencia sobre residuos plásticos
-  - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

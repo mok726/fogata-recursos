@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, marching slowly in a circle in a scout hall, bellies pushed out, elbows out and chins up, imitating a proud old bear, laughing, warm indoor light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Autoconciencia
 activity_type:
   - Juego
   - Creatividad / Arte

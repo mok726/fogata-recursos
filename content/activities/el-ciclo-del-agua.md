@@ -120,10 +120,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A clear bowl with water, plastic wrap, and a stone creating a mini water cycle model in sunlight, with condensation and 'rain' forming inside. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing the water cycle experiment. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
-  - Comprensión de sistemas naturales
 activity_type:
   - Experimentación
   - Aprender haciendo

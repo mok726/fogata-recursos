@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Comunicación
-  - Trabajo en equipo
 
 activity_type:
   - Creatividad / Arte

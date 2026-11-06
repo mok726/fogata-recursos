@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Creatividad
-  - Expresión oral
 
 activity_type:
   - Reflexión

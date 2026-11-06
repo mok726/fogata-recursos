@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Investigación
-  - Promoción
 
 activity_type:
   - Servicio a los demás

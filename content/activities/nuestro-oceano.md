@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Trabajo en equipo
-  - Conciencia marina
 
 activity_type:
   - Investigación

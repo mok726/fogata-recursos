@@ -107,9 +107,6 @@ main_type: "Juego"
 image_prompt: "Young cub scouts searching a cozy wooden room for a small hidden thimble, one child sitting quietly smiling because she found it, warm indoor light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Paciencia
 activity_type:
   - Juego
 category:

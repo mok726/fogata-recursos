@@ -114,10 +114,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth hosting an energy-efficient party in the community with reusable plates and cups, locally-sourced food, energy-efficient lighting, and educational cards explaining each sustainable element. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing an energy-efficient celebration. Educational community event scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Organización
-  - Conciencia sostenible
-  - Trabajo en equipo
 activity_type:
   - Servicio a los demás
   - Sensibilización

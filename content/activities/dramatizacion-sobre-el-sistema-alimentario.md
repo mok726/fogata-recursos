@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Empatía
-  - Trabajo en equipo
-  - Pensamiento sistémico
 
 activity_type:
   - Simulación

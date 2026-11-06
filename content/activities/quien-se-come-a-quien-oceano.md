@@ -122,10 +122,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento ecológico
-  - Creatividad
-  - Trabajo en equipo
 
 activity_type:
   - Creatividad / Arte

@@ -111,10 +111,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children collecting trash in a campsite with bags and scales, learning about waste management and environmental care. Outdoor educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, collecting waste. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Conciencia ambiental
-  - Trabajo en equipo
 activity_type:
   - Servicio a los demás
   - Aprender haciendo
@@ -124,7 +120,6 @@ category:
   - Residuos
 skills:
   - Conciencia ambiental
-  - Responsabilidad
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

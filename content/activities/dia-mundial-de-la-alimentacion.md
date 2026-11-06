@@ -104,10 +104,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Creatividad
-  - Conciencia alimentaria
 
 activity_type:
   - Servicio a los demás

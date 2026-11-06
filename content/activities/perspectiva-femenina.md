@@ -104,10 +104,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia de género
-  - Comunicación
 
 activity_type:
   - Investigación

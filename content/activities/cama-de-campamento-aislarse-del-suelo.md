@@ -109,10 +109,6 @@ main_type: "Experimentación"
 image_prompt: "Scouts in a pine forest building a thick bed of dry pine needles and leaves on the ground, one lying on a foam sleeping pad beside it to compare. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Experimentación
-  - Salud y autocuidado
 activity_type:
   - Experimentación
   - Aprender haciendo

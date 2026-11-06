@@ -97,10 +97,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Comunicación
-  - Observación
-  - Conexión con la naturaleza
 
 activity_type:
   - Exploración

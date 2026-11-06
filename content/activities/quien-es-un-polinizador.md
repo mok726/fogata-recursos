@@ -120,10 +120,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of diverse animal species including bees, butterflies, birds, bats, and non-pollinators like spiders and snakes in a learning environment dominates the composition. Left side contains open negative space reserved for website interface elements. A quiz board with pollinator vs non-pollinator categories in the background, seen from a distance, positioned on the right side. The scene has an educational game-show atmosphere with bright, engaging lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Pensamiento crítico
-  - Conocimiento de especies
 activity_type:
   - Juego
   - Dinámica de grupos

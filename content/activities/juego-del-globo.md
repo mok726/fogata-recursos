@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth standing in a circle throwing an inflatable globe, pointing to countries and sharing connections to products they use daily - food, clothing, energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing the globe game. Educational global awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia global
-  - Conexiones internacionales
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Reflexión

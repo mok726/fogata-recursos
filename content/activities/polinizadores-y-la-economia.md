@@ -122,10 +122,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An economic graph showing agriculture's dependence on pollinators with icons of crops and dollar signs dominates the composition. Left side contains open negative space reserved for website interface elements. A meeting with agricultural and wildlife experts discussing pollinator economics in the background, seen from a distance, positioned on the right side. The scene has a professional, analytical atmosphere with clean lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis económico
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

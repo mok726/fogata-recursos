@@ -117,10 +117,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A world globe with oceans visible, measuring cups and water demonstrating the percentage of freshwater on Earth, youth observing and learning about water distribution. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about freshwater distribution. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre el agua
-  - Pensamiento crítico
-  - Comprensión de datos
 activity_type:
   - Reflexión
   - Investigación

@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Reuso
-  - Innovación
 
 activity_type:
   - Creatividad / Arte

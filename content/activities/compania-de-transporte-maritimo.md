@@ -107,10 +107,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Experimentación
-  - Trabajo en equipo
 
 activity_type:
   - Aprender haciendo

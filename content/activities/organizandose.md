@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Planificación
-  - Trabajo en equipo
 
 activity_type:
   - Investigación

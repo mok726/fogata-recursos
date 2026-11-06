@@ -107,9 +107,6 @@ main_type: "Juego"
 image_prompt: "Two rows of children sitting on benches facing each other in a scout hall, batting a colorful balloon in the air between them, joyful."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Coordinación
 activity_type:
   - Juego
 category:

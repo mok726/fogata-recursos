@@ -114,10 +114,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A scout leader supervising teenage scouts whittling sticks away from their bodies with pocket knives, a chopping block with a hatchet in a roped-off area of a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Salud y autocuidado
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
 category:
@@ -127,7 +123,6 @@ category:
 skills:
   - Técnicas scout
   - Salud y autocuidado
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

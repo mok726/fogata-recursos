@@ -114,10 +114,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching climate change and extreme droughts, analyzing impacts on ecosystems and communities. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching and discussing. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis crítico
-  - Conciencia climática
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

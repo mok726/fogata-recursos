@@ -116,10 +116,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A toy car at the top of a ramp demonstrating potential energy, and rolling down the ramp converting to kinetic energy with gravity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a gravity and energy experiment. Educational physics demonstration. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación experimental
-  - Comprensión de conceptos físicos
 activity_type:
   - Experimentación
   - Aprender haciendo

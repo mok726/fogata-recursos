@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia comunitaria
-  - Participación
 
 activity_type:
   - Investigación

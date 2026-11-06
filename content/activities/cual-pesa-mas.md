@@ -105,9 +105,6 @@ main_type: "Juego"
 image_prompt: "Scouts at a table lifting and comparing very different objects like a wooden bucket, a metal pan and a small lead weight, puzzled faces, indoor light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Pensamiento crítico
 activity_type:
   - Juego
 category:

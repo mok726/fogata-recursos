@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento nutricional
-  - Trabajo en equipo
-  - Pensamiento rápido
 
 activity_type:
   - Juego

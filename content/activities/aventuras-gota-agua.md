@@ -117,10 +117,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating imaginative stories about a water droplet's journey through the water cycle, with drawings of evaporation, condensation, precipitation, and collection. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing and drawing their stories. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Comprensión del ciclo del agua
-  - Expresión escrita
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

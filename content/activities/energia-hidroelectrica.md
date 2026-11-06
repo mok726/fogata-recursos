@@ -110,10 +110,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Comprensión de energía
-  - Resolución de problemas
 
 activity_type:
   - Aprender haciendo

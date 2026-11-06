@@ -123,10 +123,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth calculating their carbon footprint using online tools or printed worksheets, discussing results in small groups, and learning about greenhouse gas emissions. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, calculating their ecological footprint. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Reflexión sobre hábitos personales
 activity_type:
   - Reflexión
   - Investigación
@@ -138,7 +134,7 @@ category:
 skills:
   - Conciencia ambiental
   - Pensamiento crítico
-  - Autoconciencia
+  - Autoconocimiento
 
 # ========== VALORES SCOUT ==========
 scout_values:

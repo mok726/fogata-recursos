@@ -122,10 +122,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person tracking their green habit for 21 days - biking to school, buying fewer packaged goods, and monitoring progress on a chart dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, committing to and tracking a sustainable habit. Habit-building environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autogestión
-  - Responsabilidad
-  - Conciencia ambiental
 activity_type:
   - Aprender haciendo
   - Reflexión
@@ -136,7 +132,6 @@ category:
   - Acción
 skills:
   - Planificación y organización
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

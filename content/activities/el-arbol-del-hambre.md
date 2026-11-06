@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Conciencia social
-  - Trabajo en equipo
 
 activity_type:
   - Reflexión

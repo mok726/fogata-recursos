@@ -107,9 +107,6 @@ main_type: "Juego"
 image_prompt: "A scout camp in the woods with tents, a red cloth tied to a pole, and a scout sneaking away with it while others look up from their tasks, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

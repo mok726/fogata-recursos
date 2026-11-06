@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conciencia acuática
-  - Seguridad
 
 activity_type:
   - Exploración

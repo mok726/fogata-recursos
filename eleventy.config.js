@@ -1458,7 +1458,7 @@ else {
 
 
   // Tarjetas de los índices (/badges/, /ods/, /edades/,
-  // /competencias/, /valoresScout/, /metodoScout/, /activityType/)
+  // /habilidades/, /valoresScout/, /metodoScout/, /activityType/)
   // para components/browse-index.njk: url, título, texto, ícono,
   // cantidad de actividades (con el mismo criterio que la página
   // de detalle) y una imagen de portada tomada de una de ellas,
@@ -1477,7 +1477,9 @@ else {
         const base = url.split("/").filter(Boolean).join("-").toLowerCase();
         for (const ext of ["png", "jpg", "jpeg", "webp"]) {
           const src = "/imagenes/heroes/" + base + "." + ext;
-          if (fs.existsSync(path.join(__dirname, src))) {
+          const file = path.join(__dirname, src);
+          // Un archivo vacío (marcador sin imagen todavía) cuenta como inexistente.
+          if (fs.existsSync(file) && fs.statSync(file).size > 0) {
             return thumb(src, "indexHero");
           }
         }
@@ -1507,7 +1509,7 @@ else {
               title: entry.name,
               text: entry.description,
               icon: entry.logo && !entry.generic ? entry.logo : "",
-              cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) ? thumb(entry.hero_image, "badgeHero") : ""
+              cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) && fs.statSync(path.join(__dirname, entry.hero_image)).size > 0 ? thumb(entry.hero_image, "badgeHero") : ""
             };
             break;
           case "sdg":
@@ -1532,13 +1534,14 @@ else {
             };
             break;
           default: {
-            const paths = { skill: "/competencias/", value: "/valoresScout/", method: "/metodoScout/", type: "/activityType/" };
+            const paths = { skill: "/habilidades/", value: "/valoresScout/", method: "/metodoScout/", type: "/activityType/" };
             matched = activitiesFor(activities, kind, entry.name);
             card = {
               url: paths[kind] + entry.id + "/",
               title: entry.name,
               text: entry.summary || entry.description || "",
-              symbol: entry.symbol
+              symbol: entry.symbol,
+              group: entry.group || ""
             };
           }
         }
@@ -1554,7 +1557,7 @@ else {
 
       });
 
-      // Valores, método, competencias y tipos: orden alfabético (pedido de Mariano).
+      // Valores, método, habilidades y tipos: orden alfabético (pedido de Mariano).
       if (["value", "method", "skill", "type"].includes(kind)) {
         cards.sort((x, y) => String(x.title).localeCompare(String(y.title), "es", { sensitivity: "base" }));
       }

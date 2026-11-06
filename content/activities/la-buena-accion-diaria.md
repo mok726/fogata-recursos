@@ -108,10 +108,6 @@ main_type: "Servicio a los demás"
 image_prompt: "A cub scout tying a knot in the end of her scout neckerchief in the morning, then picking up litter from a sidewalk, warm and friendly scene."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Empatía
-  - Servicio comunitario
 activity_type:
   - Servicio a los demás
   - Participación comunitaria

@@ -101,10 +101,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Limpieza
-  - Monitoreo
 
 activity_type:
   - Servicio a los demás

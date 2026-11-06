@@ -116,10 +116,6 @@ accessibility:
   - -Motora  # Puede requerir actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Empatía
-  - Trabajo en equipo
 
 activity_type:
   - Servicio a los demás

@@ -114,10 +114,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación histórica
-  - Pensamiento científico
-  - Conciencia evolutiva
 
 activity_type:
   - Investigación

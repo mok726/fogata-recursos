@@ -112,10 +112,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts kneeling on the ground lashing a frame of poles over a thick layer of dry reeds to make a woven panel, while others stack tied bundles of twigs like bricks to build a low wall held by stakes. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
-  - Planificación y organización
 activity_type:
   - Aprender haciendo
   - Dinámica de grupos

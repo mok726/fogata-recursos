@@ -123,10 +123,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful collage showing the three components of biodiversity - genes, species, and ecosystems - with examples and connections between them dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating a biodiversity collage from magazine cutouts and drawings. Creative educational environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Pensamiento sistémico
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia ecológica
-  - Comparación
 
 activity_type:
   - Investigación

@@ -118,10 +118,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth watching a documentary about ocean acidification, taking notes and discussing causes and consequences. Educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching the documentary. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia climática
-  - Análisis de impacto
 activity_type:
   - Reflexión
   - Debate / Diálogo

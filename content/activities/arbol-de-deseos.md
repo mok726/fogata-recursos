@@ -122,10 +122,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Expresión personal
-  - Conciencia ambiental
 
 activity_type:
   - Creatividad / Arte

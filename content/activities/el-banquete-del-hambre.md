@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Empatía
-  - Pensamiento crítico
 
 activity_type:
   - Simulación

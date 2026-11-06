@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia del consumo
-  - Análisis económico
 
 activity_type:
   - Investigación

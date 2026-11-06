@@ -111,9 +111,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. An adult holding up a large cardboard grid with black dots in a schoolyard while children at different distances squint and mark small cards with pencils. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Concentración
 activity_type:
   - Juego
 category:

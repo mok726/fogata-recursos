@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación científica
-  - Paciencia
-  - Responsabilidad
 
 activity_type:
   - Experimentación

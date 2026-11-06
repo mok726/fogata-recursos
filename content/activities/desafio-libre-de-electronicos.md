@@ -117,10 +117,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person reading a book and playing outside while electronic devices are turned off dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, engaging in electronics-free activities during a challenge. Digital detox environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autogestión
-  - Conciencia energética
-  - Creatividad
 activity_type:
   - Aprender haciendo
   - Reflexión
@@ -132,10 +128,10 @@ category:
 skills:
   - Planificación y organización
   - Creatividad
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Responsabilidad y Compromiso
   - Superación Personal y Perseverancia
   - Sencillez y Austeridad
   - Vida Sana y Bienestar

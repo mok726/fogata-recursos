@@ -120,10 +120,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Hand-painted signs installed near a stream encouraging people to protect the waterway dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, painting and installing conservation signs near a river. Community service environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Servicio comunitario
-  - Comunicación
 activity_type:
   - Servicio a los demás
   - Creatividad / Arte

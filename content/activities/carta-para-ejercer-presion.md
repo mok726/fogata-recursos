@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Escritura
-  - Conciencia cívica
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

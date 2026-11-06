@@ -105,10 +105,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Comunicación
-  - Liderazgo
 
 activity_type:
   - Servicio a los demás

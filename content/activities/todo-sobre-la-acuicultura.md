@@ -104,10 +104,6 @@ participants: "8-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Análisis de sostenibilidad
 
 activity_type:
   - Investigación

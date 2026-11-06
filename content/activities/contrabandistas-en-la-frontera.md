@@ -108,10 +108,6 @@ main_type: "Juego"
 image_prompt: "Scouts patrolling a sandy dirt road watching the ground for footprints while another group crosses in the distance toward a flag, late afternoon golden light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Observación
-  - Estrategia
 activity_type:
   - Juego
 category:

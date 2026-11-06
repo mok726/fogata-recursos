@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth planning an energy-conscious camping trip, using sustainable transport, local food, proper waste disposal, and low-impact activities, minimizing their carbon footprint in nature. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, going on a low-impact camping trip. Educational outdoor sustainability scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación
-  - Conciencia ambiental
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Exploración

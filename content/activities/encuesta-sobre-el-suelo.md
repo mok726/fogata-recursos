@@ -103,10 +103,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Comunicación
-  - Investigación
-  - Creatividad
 
 activity_type:
   - Investigación

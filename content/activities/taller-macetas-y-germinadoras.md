@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children transforming plastic cups and containers into seedling pots with soil, seeds, and stones, learning about recycling and gardening. Educational workshop activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making seedling pots. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
-  - Conciencia ambiental
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte
@@ -127,7 +123,6 @@ category:
 skills:
   - Conciencia ambiental
   - Creatividad
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

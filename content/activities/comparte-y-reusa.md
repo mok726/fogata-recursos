@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Compartir
-  - Reuso
-  - Organización
 
 activity_type:
   - Servicio a los demás
@@ -118,9 +114,9 @@ category:
 skills:
   - Conciencia social
   - Planificación y organización
-  - Responsabilidad
 
 scout_values:
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Solidaridad y Servicio
   - Hermandad y Fraternidad

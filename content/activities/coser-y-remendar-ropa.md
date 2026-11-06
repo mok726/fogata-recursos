@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Costura
-  - Reuso
-  - Habilidades prácticas
 
 activity_type:
   - Aprender haciendo

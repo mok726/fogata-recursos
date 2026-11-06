@@ -113,10 +113,6 @@ main_type: "Autoconocimiento"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth reflecting on their daily energy dependence, keeping a diary about a day without three energy-dependent activities, discussing what they missed most. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, reflecting on energy dependence. Educational self-reflection scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconocimiento
-  - Conciencia energética
-  - Reflexión
 activity_type:
   - Autoconocimiento
   - Reflexión
@@ -126,7 +122,7 @@ category:
   - Hábitos
   - Dependencia
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Conciencia ambiental
   - Pensamiento crítico
 

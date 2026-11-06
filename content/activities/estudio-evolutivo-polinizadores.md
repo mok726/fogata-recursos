@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A scientific illustration showing the co-evolution of a pollinator and a native plant with specialized adaptations like a long tongue and tubular flower dominates the composition. Left side contains open negative space reserved for website interface elements. Diagrams of evolutionary relationships in the background, seen from a distance, positioned on the right side. The scene has a scientific research aesthetic with natural history museum lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación científica
-  - Pensamiento evolutivo
-  - Análisis
 activity_type:
   - Investigación
   - Reflexión

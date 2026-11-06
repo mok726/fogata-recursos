@@ -114,10 +114,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth learning about recycling codes and sorting plastics into different categories, creating labeled recycling bins for home and school. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a mission recycling activity. Educational environmental scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre reciclaje
-  - Pensamiento sistémico
-  - Liderazgo comunitario
 activity_type:
   - Investigación
   - Planificación

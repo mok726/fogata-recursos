@@ -120,10 +120,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A party scene with reusable tableware, energy-efficient lighting, and labels explaining sustainable choices dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, hosting an energy-efficient celebration with educational cards. Green celebration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Organización
-  - Creatividad
-  - Conciencia energética
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

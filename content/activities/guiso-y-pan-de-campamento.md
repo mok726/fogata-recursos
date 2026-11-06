@@ -114,9 +114,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts cooking a stew in a big pot and a golden pan bread in a covered skillet over a camp fire, one kneading dough on a board. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Planificación

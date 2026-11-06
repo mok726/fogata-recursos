@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Expresión escrita
-  - Empatía animal
 
 activity_type:
   - Creatividad / Arte

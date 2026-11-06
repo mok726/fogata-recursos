@@ -105,10 +105,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Investigación
-  - Conciencia ecológica
 
 activity_type:
   - Exploración

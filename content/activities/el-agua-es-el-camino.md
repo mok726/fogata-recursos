@@ -113,9 +113,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth playing a scavenger hunt game outdoors, finding hidden papers with water facts, reading and discussing why water is vital for life. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about water importance. Educational outdoor game scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre el agua
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

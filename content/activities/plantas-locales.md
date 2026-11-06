@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Jardinería
-  - Conciencia del agua
-  - Responsabilidad
 
 activity_type:
   - Aprender haciendo
@@ -122,7 +118,6 @@ category:
 skills:
   - Hábitos sostenibles
   - Conciencia ambiental
-  - Responsabilidad
   - Observación
 
 scout_values:

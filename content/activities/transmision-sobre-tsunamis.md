@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Comunicación
-  - Conciencia de seguridad
 
 activity_type:
   - Investigación

@@ -123,10 +123,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. 'Ugly' fruits and vegetables being transformed into delicious dishes with before and after photos showing their beauty after cooking dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cooking with imperfect produce and sharing meals. Food waste awareness cooking environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad culinaria
-  - Conciencia alimentaria
-  - Comunicación
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

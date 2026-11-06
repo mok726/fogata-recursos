@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación digital
-  - Creatividad
-  - Conciencia social
 
 activity_type:
   - Creatividad / Arte

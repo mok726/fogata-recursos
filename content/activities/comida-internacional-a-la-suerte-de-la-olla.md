@@ -124,10 +124,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia cultural
-  - Comunicación
 
 activity_type:
   - Servicio a los demás

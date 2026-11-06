@@ -113,10 +113,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Investigación
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

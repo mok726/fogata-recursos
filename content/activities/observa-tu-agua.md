@@ -113,10 +113,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Planificación
-  - Responsabilidad
 
 activity_type:
   - Investigación

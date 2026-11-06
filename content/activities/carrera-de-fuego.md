@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Scout patrols kneeling around stone fire rings in a campsite, building small fires with twigs, a bucket of water and an adult supervising nearby. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Resolución de problemas
-  - Responsabilidad
 activity_type:
   - Juego
   - Aprender haciendo

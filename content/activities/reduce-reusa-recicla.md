@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Observación
 
 activity_type:
   - Investigación
@@ -136,7 +132,6 @@ category:
 skills:
   - Conciencia ambiental
   - Observación
-  - Responsabilidad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

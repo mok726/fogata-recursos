@@ -122,10 +122,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of people walking and biking together in a city with green surroundings, wearing comfortable clothing and smiling dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, walking and biking together as a green club. Active community environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Liderazgo
-  - Trabajo en equipo
-  - Conciencia ambiental
 activity_type:
   - Aprender haciendo
   - Participación comunitaria

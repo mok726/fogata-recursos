@@ -119,10 +119,6 @@ accessibility:
   - -Motora  # Requiere caminar por el bosque y agacharse
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación científica
-  - Trabajo en equipo
-  - Análisis de datos
 
 activity_type:
   - Investigación

@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Planificación
-  - Conciencia turística
-  - Investigación
 
 activity_type:
   - Planificación

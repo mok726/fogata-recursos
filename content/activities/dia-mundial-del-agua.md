@@ -112,10 +112,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A festive school courtyard decorated with blue banners and water drop shapes for a water celebration dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing activities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Liderazgo
-  - Comunicación
-  - Trabajo en equipo
 activity_type:
   - Participación comunitaria
 category:

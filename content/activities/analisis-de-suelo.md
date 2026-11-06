@@ -120,10 +120,6 @@ accessibility:
   - -Motora  # Requiere cavar y manipular herramientas
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación científica
-  - Investigación
-  - Conciencia ambiental
 
 activity_type:
   - Investigación

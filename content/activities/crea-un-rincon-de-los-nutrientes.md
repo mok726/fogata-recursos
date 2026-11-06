@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Trabajo en equipo
-  - Conocimiento nutricional
 
 activity_type:
   - Servicio a los demás

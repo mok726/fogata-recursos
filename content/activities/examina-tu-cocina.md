@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia de seguridad
-  - Responsabilidad
 
 activity_type:
   - Investigación
@@ -135,7 +131,6 @@ category:
 skills:
   - Observación
   - Resolución de problemas
-  - Responsabilidad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

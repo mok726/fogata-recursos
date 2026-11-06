@@ -116,10 +116,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A school classroom and cafeteria environment with students examining single-use plastic items, sorting them into different categories, and filling out an audit sheet. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a school plastic audit. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis ambiental
-  - Ciudadanía responsable
-  - Pensamiento sistémico
 activity_type:
   - Investigación
   - Planificación

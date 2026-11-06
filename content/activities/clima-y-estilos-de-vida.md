@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Diverse lifestyle scenes showing people enjoying travel, recreation, and daily life in different climates dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating posters and discussing how climate affects lifestyle. Research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis crítico
-  - Conciencia social
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

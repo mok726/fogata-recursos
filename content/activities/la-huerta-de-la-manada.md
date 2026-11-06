@@ -121,11 +121,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, planting a small community vegetable garden in wooden crates: one child sowing sunflower seeds, another watering with a can, a jar with a sprouting bulb and a plate of cress seedlings on a nearby table, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Observación
-  - Experimentación
 activity_type:
   - Aprender haciendo
   - Exploración

@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Scouts sitting in a meadow writing a list in notebooks, with wild berries, nuts and a fishing line laid out on a cloth in front of them, warm afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Conocimiento nutricional
 activity_type:
   - Exploración
   - Investigación

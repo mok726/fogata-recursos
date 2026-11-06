@@ -105,10 +105,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Responsabilidad
-  - Constancia
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás
@@ -121,7 +117,6 @@ category:
   - Acción diaria
 
 skills:
-  - Responsabilidad
   - Observación
   - Planificación y organización
 

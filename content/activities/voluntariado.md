@@ -112,10 +112,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Volunteers working in a conservation organization planting trees or cleaning a natural area dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively volunteering in environmental conservation work. Community service environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Trabajo en equipo
-  - Responsabilidad
 activity_type:
   - Servicio a los demás
   - Participación comunitaria
@@ -126,11 +122,11 @@ category:
   - Clima
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Responsabilidad y Compromiso
   - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 scout_method:

@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento sistémico
-  - Conciencia social
-  - Creatividad
 
 activity_type:
   - Reflexión

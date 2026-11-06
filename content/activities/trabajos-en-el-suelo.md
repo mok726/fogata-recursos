@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conocimiento de profesiones
-  - Creatividad
-  - Trabajo en equipo
 
 activity_type:
   - Juego

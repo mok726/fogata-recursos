@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Solidaridad global
-  - Compromiso
-  - Participación
 
 activity_type:
   - Servicio a los demás

@@ -116,9 +116,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts cooking over a small teepee fire with a pot hanging from a slanted stick held by a forked stake, a frying pan resting on two logs over embers, a water bucket nearby. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Juego

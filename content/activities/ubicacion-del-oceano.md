@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Geografía
-  - Observación
-  - Conciencia marina
 
 activity_type:
   - Investigación

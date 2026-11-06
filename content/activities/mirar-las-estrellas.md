@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Scouts lying on blankets in a dark campsite pointing at a starry sky with the Milky Way and the Southern Cross clearly visible. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Orientación
 activity_type:
   - Exploración
   - Orientación

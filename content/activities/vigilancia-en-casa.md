@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Planificación
-  - Responsabilidad
 
 activity_type:
   - Reflexión

@@ -104,10 +104,6 @@ participants: "8-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Observación
-  - Comprensión económica
 
 activity_type:
   - Investigación

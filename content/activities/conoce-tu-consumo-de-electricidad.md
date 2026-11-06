@@ -116,10 +116,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Charts and graphs showing electricity consumption from highest to lowest dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, analyzing electricity usage and creating energy-saving plans. Energy analysis environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis de datos
-  - Conciencia energética
-  - Planificación
 activity_type:
   - Investigación
   - Reflexión

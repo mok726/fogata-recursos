@@ -124,10 +124,6 @@ main_type: "Sensibilización"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children watching an environmental documentary on a large screen in a dark room, the screen shows ocean pollution with plastic waste, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre la contaminación plástica
-  - Reflexión crítica sobre hábitos de consumo
-  - Capacidad de análisis audiovisual
 activity_type:
   - Sensibilización
   - Reflexión

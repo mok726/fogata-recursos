@@ -122,10 +122,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A comparison image showing chemical pesticides on one side and natural, non-toxic alternatives on the other, with a bee healthily pollinating a flower on the natural side dominates the composition. Left side contains open negative space reserved for website interface elements. A presentation event with local gardeners in the background, seen from a distance, positioned on the right side. The scene has an educational, contrast-driven atmosphere with clear lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Comunicación
 activity_type:
   - Investigación
   - Reflexión

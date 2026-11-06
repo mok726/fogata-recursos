@@ -113,10 +113,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia de salud
-  - Debate
 
 activity_type:
   - Debate / Diálogo

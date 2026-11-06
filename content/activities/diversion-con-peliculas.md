@@ -121,10 +121,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A cinematic scene showing a documentary about climate change being projected on a large screen dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching attentively and taking notes during the screening. Film viewing environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Análisis de medios
-  - Comunicación
 activity_type:
   - Reflexión
   - Debate / Diálogo

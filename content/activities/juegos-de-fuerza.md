@@ -105,9 +105,6 @@ main_type: "Juego"
 image_prompt: "Two scouts in a grassy field locking fingers with arms outstretched and pushing chest to chest, laughing, other scouts cheering around them, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de salud
-  - Autocontrol
 activity_type:
   - Juego
   - Actividad física

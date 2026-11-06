@@ -112,9 +112,6 @@ main_type: "Juego"
 image_prompt: "A scout cupping hands around a lit match facing the wind on a rainy day, sheltered under a large fallen log, other scouts splitting dry wood. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Resolución de problemas
 activity_type:
   - Juego
   - Aprender haciendo

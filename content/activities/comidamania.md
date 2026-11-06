@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación
-  - Conciencia ambiental
-  - Trabajo en equipo
 
 activity_type:
   - Aprender haciendo

@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Análisis
-  - Planificación
 
 activity_type:
   - Investigación

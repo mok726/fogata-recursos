@@ -122,10 +122,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Observación científica
 
 activity_type:
   - Aprender haciendo

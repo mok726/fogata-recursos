@@ -117,10 +117,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth writing and drawing about memorable water experiences - swimming, watering plants, visiting waterfalls, beach days, or rain. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, sharing watery memories. Educational creative expression scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Expresión escrita
-  - Reflexión personal
 activity_type:
   - Creatividad / Arte
   - Reflexión

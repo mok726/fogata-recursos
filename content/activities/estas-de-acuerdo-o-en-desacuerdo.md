@@ -118,10 +118,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a debate about water vulnerability, moving to agree or disagree positions on statements about gender, climate change, and social justice. Educational discussion activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, debating. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Comunicación
-  - Conciencia social
 activity_type:
   - Debate / Diálogo
   - Reflexión

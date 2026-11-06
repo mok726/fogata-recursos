@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Reflexión
-  - Planificación
-  - Conciencia ambiental
 
 activity_type:
   - Reflexión

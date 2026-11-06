@@ -122,10 +122,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A garden or backyard with youth digging holes and burying different objects like foam plates, plastic bags, cardboard, leaves, foil, and apple cores. Labelled markers show what was buried where. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a biodegradability experiment. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación experimental
-  - Conciencia ambiental
 activity_type:
   - Experimentación
   - Investigación

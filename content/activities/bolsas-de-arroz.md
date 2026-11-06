@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Medición
-  - Reflexión crítica
 
 activity_type:
   - Aprender haciendo

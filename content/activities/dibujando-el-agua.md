@@ -108,10 +108,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Vocabulario
 
 activity_type:
   - Juego

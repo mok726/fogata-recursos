@@ -119,10 +119,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a mock parliament debate on plastic regulations, with speakers at a podium and audience, educational civic engagement scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión del proceso legislativo
-  - Habilidades de debate y negociación
-  - Participación ciudadana
 activity_type:
   - Debate / Diálogo
   - Simulación

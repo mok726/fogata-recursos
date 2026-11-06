@@ -123,10 +123,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children transforming old t-shirts into reusable shopping bags with scissors, colorful workshop, educational upcycling activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades manuales y creatividad
-  - Conciencia sobre reutilización de materiales
-  - Reducción de residuos
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

@@ -118,10 +118,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community event where people share and learn green skills with booths, workshops, and interactive activities dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, hosting a 'Share a green skill' day with participants of all ages. Community learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Liderazgo
-  - Organización
-  - Comunicación
 activity_type:
   - Participación comunitaria
   - Aprender haciendo

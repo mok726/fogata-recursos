@@ -107,10 +107,6 @@ main_type: "Simulación"
 image_prompt: "A scout kneeling beside a pretend patient with a bandaged arm in a camp setting, a simple first aid kit open on the ground, two more pretend patients waiting, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de salud
-  - Resolución de problemas
-  - Empatía
 activity_type:
   - Simulación
   - Juego

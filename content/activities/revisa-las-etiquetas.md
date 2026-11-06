@@ -107,10 +107,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia alimentaria
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

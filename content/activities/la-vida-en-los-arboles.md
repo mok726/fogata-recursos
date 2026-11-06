@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia cultural
-  - Habilidades manuales
 
 activity_type:
   - Creatividad / Arte

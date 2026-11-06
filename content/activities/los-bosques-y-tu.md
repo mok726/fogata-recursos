@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Comunicación
-  - Conciencia ambiental
 
 activity_type:
   - Reflexión
@@ -134,7 +130,7 @@ category:
 
 skills:
   - Comunicación
-  - Autoconciencia
+  - Autoconocimiento
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

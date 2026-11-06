@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Reducción de residuos
-  - Organización
-  - Responsabilidad
 
 activity_type:
   - Servicio a los demás
@@ -122,7 +118,6 @@ category:
 skills:
   - Hábitos sostenibles
   - Planificación y organización
-  - Responsabilidad
 
 scout_values:
   - Sencillez y Austeridad

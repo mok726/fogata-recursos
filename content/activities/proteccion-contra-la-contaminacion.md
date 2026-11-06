@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Comunicación
 
 activity_type:
   - Creatividad / Arte

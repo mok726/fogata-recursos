@@ -108,10 +108,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Teenage scouts in a cozy scout hall debating in a circle, one standing and speaking while others listen and take notes, evening warm light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Pensamiento crítico
-  - Trabajo en equipo
 activity_type:
   - Debate / Diálogo
   - Simulación

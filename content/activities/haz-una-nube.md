@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia del ciclo del agua
-  - Trabajo en equipo
 
 activity_type:
   - Experimentación

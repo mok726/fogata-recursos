@@ -119,10 +119,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth sorting waste into three colored recycling bins (blue, green, red/black) in a classroom, educational environmental activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento sobre separación de residuos
-  - Conciencia sobre reciclaje
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Juego

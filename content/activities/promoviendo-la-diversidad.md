@@ -121,10 +121,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse city map showing different ethnic communities and integration spaces like parks and libraries where cultures come together dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching diversity and creating a community integration map. Social inclusion research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación social
-  - Empatía
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

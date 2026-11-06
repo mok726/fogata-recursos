@@ -106,9 +106,6 @@ main_type: "Juego"
 image_prompt: "Two scout patrols in a field throwing tennis balls at rows of plastic bottles set up in a line, some bottles falling, players cheering, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Coordinación
 activity_type:
   - Juego
 category:

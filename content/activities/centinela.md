@@ -114,10 +114,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in a park, one child walking back and forth wearing a large cardboard sign with a star drawn on it hung around the neck, while other children with red and blue wool tied on their arms crouch behind bushes taking notes."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
-  - Responsabilidad
 activity_type:
   - Juego
 category:

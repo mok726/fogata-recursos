@@ -106,10 +106,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Comunicación
-  - Campaña
 
 activity_type:
   - Servicio a los demás

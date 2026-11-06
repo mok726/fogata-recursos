@@ -121,10 +121,6 @@ accessibility:
   - -Motora  # Requiere caminata
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Creatividad
-  - Trabajo en equipo
 
 activity_type:
   - Exploración

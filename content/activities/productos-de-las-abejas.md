@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A display of bee products including honey, beeswax, royal jelly, bee pollen, and propolis with a jar of golden honey in the foreground dominates the composition. Left side contains open negative space reserved for website interface elements. A beekeeper working with a hive in the background, seen from a distance, positioned on the right side. The scene has a warm, golden atmosphere with rich honey tones. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conocimiento apícola
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

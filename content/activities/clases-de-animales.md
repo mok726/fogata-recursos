@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento animal
-  - Trabajo en equipo
-  - Pensamiento lógico
 
 activity_type:
   - Juego

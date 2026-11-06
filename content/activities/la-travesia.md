@@ -108,10 +108,6 @@ main_type: "Exploración"
 image_prompt: "A single-file line of scouts with backpacks hiking through rugged countryside, one scout far ahead marking the path with stones, a simple log bridge over a creek, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Resolución de problemas
-  - Orientación
 activity_type:
   - Exploración
   - Aprender haciendo

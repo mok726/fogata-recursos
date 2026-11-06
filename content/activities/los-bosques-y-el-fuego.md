@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia ambiental
-  - Seguridad
 
 activity_type:
   - Aprender haciendo
@@ -139,7 +135,6 @@ category:
 skills:
   - Trabajo en equipo
   - Conciencia ambiental
-  - Responsabilidad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

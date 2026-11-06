@@ -107,10 +107,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Scouts helping an elderly woman carry groceries and two other scouts raking leaves in a neighbor's front yard in an Argentine town, warm afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Empatía
-  - Responsabilidad
 activity_type:
   - Servicio a los demás
   - Participación comunitaria

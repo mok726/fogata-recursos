@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting in pairs in a scout hall role-playing an emergency phone call with toy phones, one child speaking clearly while the partner takes notes, a poster with emergency numbers on the wall."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Responsabilidad
-  - Resolución de problemas
 activity_type:
   - Simulación
   - Salud

@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia global
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Análisis de datos
-  - Pensamiento crítico
-  - Comprensión matemática
 
 activity_type:
   - Investigación

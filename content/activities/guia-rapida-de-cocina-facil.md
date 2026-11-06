@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Planificación
-  - Habilidades culinarias
 
 activity_type:
   - Investigación

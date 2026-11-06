@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts proudly testing a rustic camp table made of lashed wooden poles with a slatted top, two water jugs placed on it, in a forest campsite. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
-  - Planificación y organización
 activity_type:
   - Aprender haciendo
   - Planificación

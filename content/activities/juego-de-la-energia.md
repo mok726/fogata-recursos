@@ -113,10 +113,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth playing an active energy game, performing different movements for each energy source (wind, solar, coal, hydro, nuclear, geothermal, biofuel) in an open space. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing an educational energy game. Educational active learning scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Memoria
-  - Conciencia energética
 activity_type:
   - Juego
   - Dinámica de grupos

@@ -114,10 +114,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Análisis de datos
-  - Conciencia de salud
 
 activity_type:
   - Investigación

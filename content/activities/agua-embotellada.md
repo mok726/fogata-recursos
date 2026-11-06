@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conciencia del agua
-  - Pensamiento crítico
-  - Investigación
 
 activity_type:
   - Reflexión

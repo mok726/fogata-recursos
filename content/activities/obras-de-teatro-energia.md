@@ -113,10 +113,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing a creative play about different forms of energy - kinetic, potential, mechanical, chemical - with each actor representing a different energy form. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing a play about energy forms. Educational theater scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Comprensión de conceptos físicos
-  - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
   - Dinámica de grupos

@@ -115,10 +115,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two teams competing to reduce plastic waste, with mountains of collected plastic items, tally sheets, and students cheering. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a plastic reduction competition. Educational gamification scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia ambiental
-  - Hábitos sostenibles
 activity_type:
   - Juego
   - Sensibilización
@@ -128,7 +124,6 @@ category:
   - Plásticos
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========

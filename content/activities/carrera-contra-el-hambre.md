@@ -123,10 +123,6 @@ accessibility:
   - -Motora  # Requiere actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia social
-  - Salud
 
 activity_type:
   - Servicio a los demás

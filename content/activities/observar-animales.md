@@ -110,10 +110,6 @@ main_type: "Investigación"
 image_prompt: "Two scouts lying quietly in the grass at the edge of a forest watching a woodpecker on a tree trunk through binoculars, notebook in hand, early morning."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Paciencia
 activity_type:
   - Investigación
   - Exploración

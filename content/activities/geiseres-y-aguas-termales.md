@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A famous geyser like Old Faithful erupting, or hot springs with steam rising, showing geothermal energy in action. Youth observing and documenting geothermal features. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring geothermal energy. Educational nature scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Conciencia geotérmica
 activity_type:
   - Investigación
   - Exploración

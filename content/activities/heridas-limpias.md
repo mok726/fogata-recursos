@@ -115,10 +115,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, at a table with a scout first aid kit, washing hands with soap, one child gently cleaning a pretend scrape on a friend's arm and applying an adhesive bandage, an adult leader watching."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Resolución de problemas
-  - Empatía
 activity_type:
   - Aprender haciendo
 category:

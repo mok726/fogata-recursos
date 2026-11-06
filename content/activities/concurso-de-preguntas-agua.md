@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Conocimiento
-  - Trabajo en equipo
-  - Pensamiento rápido
 
 activity_type:
   - Juego

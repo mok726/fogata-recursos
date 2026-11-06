@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+title: Habilidades
+description: "Habilidades que se ponen en juego en cada actividad: pensamiento, desarrollo personal, convivencia, técnicas y ambiente."
+styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
+---
+{% set heroKicker = "Explorar por" %}
+{% set heroTitle = "Habilidades" %}
+{% set heroText = "Habilidades que se ponen en juego en cada actividad." %}
+{% set cards = allskills | indexCards("skill", collections.activitiesSorted, ageGroups, badges) %}
+{% set groups = skillGroups %}
+{% set symbol = "psychology" %}
+{% set indexIntro %}
+<h2>¿Qué entendemos por habilidades?</h2>
+<p>Las habilidades son capacidades que se aprenden y se mejoran con la práctica: observar, investigar, comunicar, trabajar en equipo, tomar decisiones, cuidar la salud o el ambiente. Las agrupamos en cinco bloques.</p>
+<p>No son lo mismo que las competencias de cada rama del programa scout, que aparecen en cada ficha en el bloque «Programa Scout». Tampoco son lo mismo que los valores scout: la habilidad es el saber hacer, y el valor es el porqué.</p>
+<p>Una actividad solo se asocia a una habilidad cuando la ejercita de forma deliberada, como objetivo educativo o como dimensión central de la experiencia, y no cuando aparece de pasada. Cada habilidad tiene su criterio en «¿Cuándo se asigna a una actividad?».</p>
+{% endset %}
+{% include "components/browse-index.njk" %}

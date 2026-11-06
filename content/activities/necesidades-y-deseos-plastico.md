@@ -118,10 +118,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth analyzing their consumption habits, writing on worksheets, educational environmental activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia sobre hábitos de consumo
-  - Pensamiento crítico sobre necesidades reales
-  - Capacidad de reflexión y acción
 activity_type:
   - Reflexión
   - Aprender haciendo
@@ -132,7 +128,7 @@ category:
   - Hábitos sostenibles
 skills:
   - Pensamiento crítico
-  - Autoconciencia
+  - Autoconocimiento
   - Pensamiento científico
 
 # ========== VALORES SCOUT ==========

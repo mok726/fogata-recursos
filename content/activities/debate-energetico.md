@@ -113,10 +113,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth engaged in a formal debate about sustainable energy provision, presenting arguments, counterarguments, and solutions for energy access and sustainability. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, debating energy policy. Educational civic discourse scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Argumentación
-  - Política energética
 activity_type:
   - Debate / Diálogo
   - Investigación

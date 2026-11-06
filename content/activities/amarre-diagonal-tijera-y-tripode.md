@@ -111,10 +111,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts standing up a wooden tripod made of three poles joined at the top with a figure-eight lashing, a cooking pot hanging from it, and an A-frame of two poles beside it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
-  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Experimentación

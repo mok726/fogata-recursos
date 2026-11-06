@@ -118,10 +118,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community event with local beekeepers showcasing and selling honey, beeswax, pollen, propolis, and royal jelly with educational signs explaining each product dominates the composition. Left side contains open negative space reserved for website interface elements. People interacting with beekeepers and buying products in the background, seen from a distance, positioned on the right side. The scene has a warm, community market atmosphere with golden honey tones and bright lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Organización
-  - Emprendimiento
-  - Conciencia ambiental
 activity_type:
   - Servicio a los demás
   - Participación comunitaria

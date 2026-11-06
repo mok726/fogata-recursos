@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Reducción de residuos
-  - Comunicación
 
 activity_type:
   - Creatividad / Arte

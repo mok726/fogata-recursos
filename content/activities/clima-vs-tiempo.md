@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children running to different sides of a room holding cards with weather and climate phrases dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively participating in a game with cards. Educational game environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Aprendizaje lúdico
-  - Observación
 activity_type:
   - Juego
   - Dinámica de grupos

@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Experimentación
-  - Conciencia del suelo
 
 activity_type:
   - Creatividad / Arte

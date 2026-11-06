@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Comunicación formal
-  - Ciudadanía activa
 
 activity_type:
   - Servicio a los demás

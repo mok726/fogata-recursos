@@ -113,10 +113,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth standing in a circle playing a game, passing a ball while music plays, sharing ideas to reduce their carbon footprint like turning off lights, unplugging electronics, and boiling only needed water. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing an educational game about carbon reduction. Educational active learning scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
-  - Memoria
 activity_type:
   - Juego
   - Reflexión

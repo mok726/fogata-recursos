@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Expresión artística
 
 activity_type:
   - Creatividad / Arte

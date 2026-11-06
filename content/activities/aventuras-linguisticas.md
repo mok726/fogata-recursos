@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Curiosidad cultural
-  - Investigación
-  - Memoria
 
 activity_type:
   - Juego

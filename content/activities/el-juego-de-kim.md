@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A group of children kneeling around a tray with small everyday objects (buttons, pencils, stones, corks) half covered by a cloth, concentrating and trying to remember them, indoor scout hall. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Concentración
-  - Memoria
 activity_type:
   - Juego
 category:

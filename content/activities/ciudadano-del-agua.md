@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Ciudadanía
-  - Argumentación
-  - Comunicación formal
 
 activity_type:
   - Servicio a los demás

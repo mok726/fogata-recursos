@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Escritura creativa
-  - Conciencia histórica
 
 activity_type:
   - Investigación

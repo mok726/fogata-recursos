@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Investigación
-  - Comunicación
 
 activity_type:
   - Debate / Diálogo

@@ -114,10 +114,6 @@ accessibility:
   - -Motora  # Requiere movimiento físico
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Actividad física
 
 activity_type:
   - Juego
@@ -131,7 +127,7 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Autoconciencia
+  - Autoconocimiento
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

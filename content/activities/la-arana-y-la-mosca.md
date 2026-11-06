@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A scout patrol with red neckerchiefs hiding among bushes and rocks while another patrol with blue neckerchiefs searches the woods, adventurous afternoon light. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Estrategia
-  - Observación
 activity_type:
   - Juego
 category:

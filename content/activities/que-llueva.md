@@ -116,10 +116,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing joyfully in the rain, jumping in puddles, listening to raindrops, and making art with wet dirt and watercolors. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing and learning in the rain. Educational outdoor fun scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre el agua
-  - Creatividad
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Creatividad / Arte

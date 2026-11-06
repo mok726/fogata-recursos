@@ -121,10 +121,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating hanging planters from recycled plastic bottles, filling them with soil and planting seeds, educational upcycling activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad y habilidades manuales
-  - Conciencia sobre reutilización de residuos
-  - Conocimiento sobre cultivo de plantas
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte
@@ -135,7 +131,6 @@ category:
 skills:
   - Creatividad
   - Conciencia ambiental
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -121,10 +121,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A collection of plant-derived products including oils, seeds, nuts, fibers, and medicines with a pollinator visiting the source plant in the background dominates the composition. Left side contains open negative space reserved for website interface elements. A presentation screen showing the connection between each product and its pollinator in the background, seen from a distance, positioned on the right side. The scene has a clean, educational atmosphere with natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de consumo
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

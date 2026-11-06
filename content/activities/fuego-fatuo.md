@@ -110,9 +110,6 @@ main_type: "Juego"
 image_prompt: "Night scene in a field at a scout camp, a small flashlight glowing in the distance, silhouettes of a patrol of scouts stalking towards it under a starry sky. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Orientación

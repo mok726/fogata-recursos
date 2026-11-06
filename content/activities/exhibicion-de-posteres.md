@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Comunicación
-  - Conciencia de salud
 
 activity_type:
   - Creatividad / Arte

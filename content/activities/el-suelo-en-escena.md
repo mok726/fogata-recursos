@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Expresión dramática
 
 activity_type:
   - Creatividad / Arte

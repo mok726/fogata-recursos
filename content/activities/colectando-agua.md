@@ -126,10 +126,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth constructing a solar water collector in the ground, using plastic sheeting, stones, and vegetation, observing condensation and water collection. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a solar water collector. Educational outdoor survival scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Resolución de problemas
-  - Pensamiento científico
-  - Habilidades prácticas
 activity_type:
   - Experimentación
   - Aprender haciendo

@@ -103,10 +103,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia cultural
-  - Comunicación
 
 activity_type:
   - Investigación

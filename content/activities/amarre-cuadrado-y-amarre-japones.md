@@ -111,10 +111,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Close-up of scouts' hands tying a tight square lashing joining two wooden poles at a right angle, with neat parallel wraps and frapping turns, other scouts practicing in the background. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Destreza física
-  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Experimentación

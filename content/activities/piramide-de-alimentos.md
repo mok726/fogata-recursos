@@ -120,9 +120,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth analyzing their weekly food consumption, comparing with the food pyramid, and discussing the environmental impact of different foods. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, analyzing their food choices. Educational nutritional awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Pensamiento crítico
 activity_type:
   - Reflexión
   - Investigación

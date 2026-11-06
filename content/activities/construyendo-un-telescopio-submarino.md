@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia marina
-  - Trabajo en equipo
 
 activity_type:
   - Aprender haciendo

@@ -118,10 +118,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children baking bread or pancakes, watching dough rise with carbon dioxide bubbles, learning about the science behind baking. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, baking with yeast. Educational cooking science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades culinarias
-  - Pensamiento científico
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Experimentación

@@ -107,10 +107,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts by a river bank pacing distances and planting a stick in line with a tree on the opposite bank, another group measuring a tall tree's height with a stick, sunny."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
-  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Experimentación

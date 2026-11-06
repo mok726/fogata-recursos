@@ -112,10 +112,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Consumo responsable
 
 activity_type:
   - Investigación

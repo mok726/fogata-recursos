@@ -123,10 +123,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family walking and biking instead of driving on Emission-free Monday with a carbon footprint tracker app on a phone dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, starting an emission-free Monday tradition with their family. Sustainable transport campaign environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Liderazgo
-  - Planificación
 activity_type:
   - Aprender haciendo
   - Participación comunitaria
@@ -138,7 +134,6 @@ category:
 skills:
   - Planificación y organización
   - Comunicación
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Expresión escrita
-  - Conexión con la naturaleza
 
 activity_type:
   - Creatividad / Arte

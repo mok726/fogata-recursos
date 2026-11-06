@@ -130,10 +130,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Nature-based solutions in action - trees capturing rainwater, green roofs, and urban vegetation solving city challenges dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching and presenting nature-based solutions in their city. Environmental research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento sistémico
 activity_type:
   - Investigación
   - Reflexión

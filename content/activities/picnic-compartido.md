@@ -109,9 +109,6 @@ main_type: "Dinámica de grupos"
 image_prompt: "Scouts of different ages sharing a picnic on a blanket in a park, a mix of simple homemade food laid out in the middle, everyone smiling, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Empatía
-  - Conciencia social
 activity_type:
   - Dinámica de grupos
   - Reflexión

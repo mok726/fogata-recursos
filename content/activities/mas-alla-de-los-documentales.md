@@ -120,10 +120,6 @@ accessibility:
   - -Auditiva  # Puede requerir subtítulos si el documental no tiene audio claro
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia ambiental
-  - Trabajo en equipo
 
 activity_type:
   - Reflexión

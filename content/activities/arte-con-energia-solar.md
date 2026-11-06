@@ -116,10 +116,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a solar energy experiment, creating art using sunlight with shadows and paper, discovering the power of solar energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating solar art. Educational outdoor experiment scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Experimentación
-  - Conciencia solar
 activity_type:
   - Experimentación
   - Creatividad / Arte

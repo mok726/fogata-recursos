@@ -114,9 +114,6 @@ main_type: "Investigación"
 image_prompt: "Scouts examining a clear mountain stream in the forest, one holding a glass jar of water up to the light, a camping stove with a boiling pot nearby. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Pensamiento científico
 activity_type:
   - Investigación
   - Experimentación

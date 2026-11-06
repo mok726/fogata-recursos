@@ -105,9 +105,6 @@ main_type: "Juego"
 image_prompt: "Scouts on a low grassy mound defending it while another patrol tries to climb up and pull them down, soft mats around, laughing, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Autocontrol
 activity_type:
   - Juego
   - Actividad física

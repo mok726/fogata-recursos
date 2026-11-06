@@ -113,9 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting on a grassy field braiding colorful strips into bracelets and weaving a small basket from reeds, one child knitting with thick needles, focused and smiling."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

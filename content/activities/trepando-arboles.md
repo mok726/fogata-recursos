@@ -119,10 +119,6 @@ accessibility:
   - -Motora  # Requiere habilidad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia de seguridad
-  - Habilidades físicas
 
 activity_type:
   - Investigación
@@ -137,7 +133,6 @@ category:
 skills:
   - Investigación
   - Observación
-  - Responsabilidad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

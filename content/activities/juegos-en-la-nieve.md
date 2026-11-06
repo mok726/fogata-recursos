@@ -111,10 +111,6 @@ main_type: "Juego"
 image_prompt: "Scouts in a snowy Patagonian forest pulling a wooden sled loaded with cooking pots, others building a low snow fort, winter daylight, adventurous mood."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Observación
-  - Resolución de problemas
 activity_type:
   - Juego
   - Actividad física

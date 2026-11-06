@@ -99,10 +99,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Comunicación digital
-  - Creatividad
-  - Redacción
 
 activity_type:
   - Comunicación

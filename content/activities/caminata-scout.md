@@ -113,9 +113,6 @@ main_type: "Exploración"
 image_prompt: "A patrol of scouts hiking in single file on the left side of a quiet rural road facing traffic, wearing reflective vests and backpacks, hills in the background. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Planificación y organización
 activity_type:
   - Exploración
   - Orientación

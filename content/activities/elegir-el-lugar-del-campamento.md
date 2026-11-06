@@ -112,9 +112,6 @@ main_type: "Exploración"
 image_prompt: "A patrol of scouts walking across a grassy forest clearing with a checklist and a compass, pointing at a flat elevated spot near trees. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Planificación y organización
 activity_type:
   - Exploración
   - Planificación

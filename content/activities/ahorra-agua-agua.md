@@ -125,10 +125,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children participating in a relay race with buckets and water, learning about water conservation through active play. Outdoor educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, running the relay. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Responsabilidad
-  - Pensamiento crítico
 activity_type:
   - Juego
   - Dinámica de grupos
@@ -139,7 +135,6 @@ category:
 skills:
   - Trabajo en equipo
   - Planificación y organización
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

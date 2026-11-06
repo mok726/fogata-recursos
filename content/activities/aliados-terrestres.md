@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia ecológica
-  - Pensamiento sistémico
 
 activity_type:
   - Investigación

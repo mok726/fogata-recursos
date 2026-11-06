@@ -117,10 +117,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing an educational game about ocean pollution on a computer in a bright room, the screen shows a colorful game with sea creatures, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre la contaminación oceánica
-  - Pensamiento crítico sobre hábitos de consumo
-  - Capacidad de aprendizaje lúdico
 activity_type:
   - Juego
   - Sensibilización

@@ -132,10 +132,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful pollinator-friendly garden with native flowering plants, a water source, and a bee hotel, with bees and butterflies visiting the flowers dominates the composition. Left side contains open negative space reserved for website interface elements. A group of people gardening in the background, seen from a distance, positioned on the right side. The scene has a vibrant, colorful garden atmosphere with warm sunlight and rich greens. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Jardinería
-  - Conciencia ambiental
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Servicio a los demás

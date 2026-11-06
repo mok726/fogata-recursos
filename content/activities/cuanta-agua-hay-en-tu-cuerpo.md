@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth weighing themselves and calculating how much water is in their bodies using a simple formula, learning that humans are mostly water. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, calculating body water content. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre el cuerpo
-  - Conciencia sobre el agua
-  - Cálculo numérico
 activity_type:
   - Investigación
   - Reflexión

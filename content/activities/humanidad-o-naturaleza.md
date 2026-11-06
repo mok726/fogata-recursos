@@ -117,10 +117,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth listening to an environmental expert speaking about the balance between human needs and nature protection, with images of nature and development. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, listening to the expert. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia ambiental
-  - Diálogo
 activity_type:
   - Reflexión
   - Debate / Diálogo

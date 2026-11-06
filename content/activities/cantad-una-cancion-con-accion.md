@@ -116,10 +116,6 @@ accessibility:
   - -Motora  # Requiere movimiento
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Actividad física
 
 activity_type:
   - Creatividad / Arte

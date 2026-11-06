@@ -101,9 +101,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms in a closed yard practicing a road accident simulation: one placing a warning triangle, one on the phone, one kneeling next to a volunteer lying on the ground beside a fallen bicycle, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Trabajo en equipo
 activity_type:
   - Simulación
   - Aprender haciendo
@@ -111,7 +108,6 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

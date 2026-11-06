@@ -123,10 +123,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating colorful posters about plastic pollution, with markers and paper on tables, educational creative activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad y expresión artística
-  - Concienciación sobre el plástico
-  - Habilidades de comunicación
 activity_type:
   - Creatividad / Arte
   - Sensibilización

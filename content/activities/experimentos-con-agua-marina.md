@@ -128,10 +128,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación científica
-  - Experimentación
-  - Conciencia marina
 
 activity_type:
   - Experimentación

@@ -112,9 +112,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts washing dishes at camp in a line of basins, scraping plates, washing and rinsing, laughing, steam rising from hot water. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Juego

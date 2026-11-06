@@ -125,10 +125,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia del agua
-  - Investigación
 
 activity_type:
   - Experimentación

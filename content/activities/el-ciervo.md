@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. An adult standing still in a forest clearing while scouts crawl slowly through tall grass and behind trees toward him, trying not to be seen. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Autocontrol
-  - Concentración
 activity_type:
   - Juego
 category:

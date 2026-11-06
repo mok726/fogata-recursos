@@ -116,10 +116,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A contemplative scene with a person writing and thinking about climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing poetry and sharing thoughts in small groups. Reflective educational environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Expresión emocional
-  - Pensamiento crítico
 activity_type:
   - Reflexión
   - Autoconocimiento
@@ -129,7 +125,7 @@ category:
   - Arte
   - Clima
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Creatividad
   - Comunicación
 

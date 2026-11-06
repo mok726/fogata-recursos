@@ -96,9 +96,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms running game stations for younger cub scouts in a schoolyard: a big cardboard traffic light, chalk-drawn street with zebra crossing, cones, children laughing, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Liderazgo
 activity_type:
   - Servicio a los demás
   - Planificación
@@ -106,7 +103,6 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

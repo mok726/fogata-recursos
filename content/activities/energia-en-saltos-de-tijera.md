@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing jumping jacks, demonstrating potential energy in the starting position and kinetic energy during movement. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, doing jumping jacks to learn about energy. Educational active learning scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia corporal
-  - Comprensión de energía
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Juego
@@ -126,7 +122,7 @@ category:
   - Ejercicio
   - Física
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Pensamiento científico
   - Trabajo en equipo
 

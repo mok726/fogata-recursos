@@ -126,10 +126,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth documenting their plastic waste in a journal, with a smartphone and camera nearby, educational environmental audit scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia sobre consumo de plásticos
-  - Capacidad de investigación y seguimiento
-  - Habilidades de comunicación y liderazgo
 activity_type:
   - Investigación
   - Sensibilización
@@ -139,7 +135,7 @@ category:
   - Plásticos
   - Auditoría ambiental
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Planificación y organización
   - Comunicación
   - Liderazgo

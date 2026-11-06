@@ -111,8 +111,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, standing on eight chalk-marked points of a large compass rose drawn on a schoolyard, an arrow pointing north, two children dashing across to swap places while another rushes from the center."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
 activity_type:
   - Juego
   - Orientación

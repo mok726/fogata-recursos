@@ -104,10 +104,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Cocina
-  - Planificación
-  - Conciencia alimentaria
 
 activity_type:
   - Aprender haciendo

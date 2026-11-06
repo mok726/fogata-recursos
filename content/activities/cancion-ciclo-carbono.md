@@ -113,10 +113,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth singing and performing a song about the carbon cycle, with visual elements showing carbon moving through air, water, plants, and animals. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing a carbon cycle song. Educational music scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad musical
-  - Síntesis de información
-  - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
   - Juego

@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Comunicación
 
 activity_type:
   - Debate / Diálogo

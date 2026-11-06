@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Indigenous communities using biodiversity for survival and cultural practices in different continents dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning from an Indigenous guest speaker about traditional knowledge. Cultural exchange environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Respeto intercultural
-  - Investigación
-  - Conciencia cultural
 activity_type:
   - Investigación
   - Reflexión

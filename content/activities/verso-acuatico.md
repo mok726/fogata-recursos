@@ -107,10 +107,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Expresión escrita
-  - Comprensión del uso del agua
 
 activity_type:
   - Creatividad / Arte

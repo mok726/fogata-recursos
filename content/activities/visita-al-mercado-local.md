@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conciencia alimentaria
-  - Comunicación
 
 activity_type:
   - Exploración

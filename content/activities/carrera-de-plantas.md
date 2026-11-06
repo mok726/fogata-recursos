@@ -110,10 +110,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Children running across a green park holding single leaves, comparing them with picture cards of plants, trees of different species in the background. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia ambiental
-  - Investigación
 activity_type:
   - Juego
   - Exploración

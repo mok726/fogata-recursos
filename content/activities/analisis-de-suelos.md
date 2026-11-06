@@ -106,10 +106,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia global
-  - Comunicación
 
 activity_type:
   - Investigación

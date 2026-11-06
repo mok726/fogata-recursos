@@ -5,9 +5,10 @@ styles:
 fonts:
   - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-{% set heroKicker = "Competencia" %}
+{% set heroKicker = "Habilidad" %}
 {% set heroTitle = skill.name %}
 {% set heroText = skill.description or "" %}
 {% set browserItems = collections.activitiesSorted | activitiesFor("skill", skill.name) %}
-{% set fixed = { filter: "competencia", text: skill.name } %}
+{% set criteria = skill %}
+{% set fixed = { filter: "habilidad", text: skill.name } %}
 {% include "components/browse-page.njk" %}

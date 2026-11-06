@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Ancient sun deities and cultural solar symbols from different civilizations, with museum-style exhibits, drawings, and educational displays. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting cultural solar exhibits. Educational cultural heritage scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cultural
-  - Investigación histórica
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Creatividad / Arte

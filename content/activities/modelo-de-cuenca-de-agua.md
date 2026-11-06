@@ -126,10 +126,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A detailed model of a water catchment area showing land, trees, water bodies, and human-made elements dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a watershed model with natural and recycled materials. Hands-on learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Hidrología
-  - Creatividad
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

@@ -98,10 +98,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Expresión corporal
-  - Observación
 
 activity_type:
   - Creatividad / Arte

@@ -108,10 +108,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Scouts running along a trail in a park passing a folded paper message from hand to hand, patrol members waiting at different points along the path. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Comunicación
-  - Planificación
 activity_type:
   - Juego
   - Actividad física

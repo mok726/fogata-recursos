@@ -115,10 +115,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting personal water audits with worksheets, calculating their daily water consumption and learning about conservation. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, completing their water audits. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Cálculo matemático
-  - Responsabilidad
 activity_type:
   - Investigación
   - Reflexión
@@ -130,7 +126,6 @@ category:
 skills:
   - Pensamiento crítico
   - Planificación y organización
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

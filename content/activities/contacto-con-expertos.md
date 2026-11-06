@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Comunicación
-  - Participación
 
 activity_type:
   - Investigación

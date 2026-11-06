@@ -111,10 +111,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts sitting on the grass drawing a hand-made map of their campsite with a compass on the paper, tents and trees visible around them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Comunicación
-  - Observación
 activity_type:
   - Aprender haciendo
   - Exploración

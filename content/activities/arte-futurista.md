@@ -116,10 +116,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A futuristic city or town with innovative solutions to climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and imagining future cities with creative adaptations. Artistic visionary environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Imaginación
-  - Visión de futuro
 activity_type:
   - Creatividad / Arte
   - Juego

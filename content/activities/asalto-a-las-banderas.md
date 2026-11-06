@@ -110,10 +110,6 @@ main_type: "Juego"
 image_prompt: "Scouts creeping through tall grass toward three small flags planted near a hidden outpost of other scouts, dusk light, adventurous atmosphere."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Estrategia
-  - Observación
 activity_type:
   - Juego
   - Actividad física

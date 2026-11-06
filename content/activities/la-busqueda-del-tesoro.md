@@ -113,10 +113,6 @@ main_type: "Juego"
 image_prompt: "A patrol of scouts reading a clue card at a gate post with a compass, colored ribbons tied to bushes along a trail leading into the woods. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Resolución de problemas
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Exploración

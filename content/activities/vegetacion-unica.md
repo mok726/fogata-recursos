@@ -120,10 +120,6 @@ accessibility:
   - -Motora  # Requiere caminata
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Creatividad
-  - Identificación de plantas
 
 activity_type:
   - Creatividad / Arte

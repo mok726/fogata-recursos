@@ -111,9 +111,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, running a relay race in a scout hall, a child placing a hand-drawn flag card inside a chalk square on the floor while teammates wait in line cheering, colorful flag drawings."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

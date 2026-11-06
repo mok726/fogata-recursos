@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Observación
-  - Conciencia de salud
 
 activity_type:
   - Investigación
@@ -136,7 +132,7 @@ category:
 
 skills:
   - Observación
-  - Autoconciencia
+  - Autoconocimiento
   - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

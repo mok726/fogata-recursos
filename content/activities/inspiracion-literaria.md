@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión lectora
-  - Expresión escrita
-  - Creatividad
 
 activity_type:
   - Reflexión

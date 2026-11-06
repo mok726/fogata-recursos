@@ -20,7 +20,7 @@
     badges: "Insignias",
     edades: "Edades",
     ods: "ODS",
-    competencias: "Competencias",
+    habilidades: "Habilidades",
     valoresScout: "Valores Scout",
     metodoScout: "Método Scout",
     activityType: "Tipo de Actividad"
