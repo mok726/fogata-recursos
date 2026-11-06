@@ -127,16 +127,14 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

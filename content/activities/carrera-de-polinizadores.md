@@ -106,20 +106,19 @@ image_prompt: "Argentine scout children aged 8 to 11 wearing beige shirts and co
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
+  - Actividad física
 category:
   - Polinización
 skills:
-  - Trabajo en equipo
   - Destreza física
+  - Trabajo en equipo
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Optimismo y Alegría
-  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -107,29 +107,27 @@ complexity_execution: 2  # Armado de maceta
 complexity_organizer: 3  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children transforming plastic cups and containers into seedling pots with soil, seeds, and stones, learning about recycling and gardening. Educational workshop activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making seedling pots. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Reciclaje
   - Germinación
   - Jardinería
 skills:
-  - Conciencia ambiental
-  - Creatividad
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

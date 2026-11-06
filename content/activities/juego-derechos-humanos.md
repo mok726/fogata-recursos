@@ -119,25 +119,20 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Reflexión
-  - Juego
 category:
   - Derechos humanos
   - Sociedad
   - Valores
 skills:
   - Pensamiento crítico
-  - Comunicación
   - Conciencia social
+  - Toma de decisiones
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

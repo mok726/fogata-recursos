@@ -102,30 +102,30 @@ complexity_execution: 2  # Llenado de botella
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth filling plastic bottles with clean single-use plastics to create 'love bottles' for recycling, learning about plastic waste management. Educational workshop activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making love bottles. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Taller / Construcción
+  - Campaña
 category:
   - Reciclaje
   - Plásticos
   - Taller
 skills:
-  - Conciencia ambiental
-  - Creatividad
+  - Hábitos sostenibles
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,
