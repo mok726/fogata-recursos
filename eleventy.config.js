@@ -1477,7 +1477,9 @@ else {
         const base = url.split("/").filter(Boolean).join("-").toLowerCase();
         for (const ext of ["png", "jpg", "jpeg", "webp"]) {
           const src = "/imagenes/heroes/" + base + "." + ext;
-          if (fs.existsSync(path.join(__dirname, src))) {
+          const file = path.join(__dirname, src);
+          // Un archivo vacío (marcador sin imagen todavía) cuenta como inexistente.
+          if (fs.existsSync(file) && fs.statSync(file).size > 0) {
             return thumb(src, "indexHero");
           }
         }
@@ -1507,7 +1509,7 @@ else {
               title: entry.name,
               text: entry.description,
               icon: entry.logo && !entry.generic ? entry.logo : "",
-              cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) ? thumb(entry.hero_image, "badgeHero") : ""
+              cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) && fs.statSync(path.join(__dirname, entry.hero_image)).size > 0 ? thumb(entry.hero_image, "badgeHero") : ""
             };
             break;
           case "sdg":
