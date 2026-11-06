@@ -511,6 +511,7 @@ body:has(.home) {
 .home-daily-badges .badge-icon { width: 52px; height: 52px; }
 
 .home-daily-kicker {
+  text-decoration: none;
   display: flex;
   align-items: center;
   gap: .3rem;
@@ -535,7 +536,9 @@ body:has(.home) {
 
 .home-daily-title a { color: var(--fogata-forest); }
 
-.home-daily-desc { margin: 0 0 1.1rem; color: var(--fogata-muted); line-height: 1.55; }
+.home-daily-desc { display: block; margin: 0 0 1.1rem; color: var(--fogata-muted); line-height: 1.55; text-decoration: none; }
+
+.home-daily-desc:hover { color: var(--fogata-ink); }
 
 .home-daily-foot {
   display: flex;

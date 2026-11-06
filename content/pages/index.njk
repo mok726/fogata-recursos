@@ -141,16 +141,16 @@ populares:
           </div>
         {% endif %}
 
-        <p class="home-daily-kicker">
+        <a class="home-daily-kicker" href="{{ activityUrl | url }}" tabindex="-1">
           <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
           Actividad del día
-        </p>
+        </a>
 
         <h2 class="home-daily-title">
           <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
         </h2>
 
-        <p class="home-daily-desc">{{ item.description or item.summary }}</p>
+        <a class="home-daily-desc" href="{{ activityUrl | url }}" tabindex="-1">{{ item.description or item.summary }}</a>
 
         <div class="home-daily-foot">
           <a class="home-more" href="{{ activityUrl | url }}">Ver la actividad →</a>
