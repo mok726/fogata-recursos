@@ -109,43 +109,88 @@ populares:
 {# Actividad del día: se renderiza la del día del build y el
    script la cambia si en el navegador ya es otro día (por si el
    build diario no corrió). Rotación en lib/actividad-del-dia.js. #}
-{% set diasHoy = collections.activitiesDaily | actividadesDelDia(15) %}
-{% set hoy = diasHoy[0].item %}
-{% if hoy %}
+{% set diasHoy = collections.activitiesDaily | actividadesDelDia(3) %}
+{% if diasHoy[0].item %}
 <section class="home-section home-daily" id="actividad-del-dia">
 
-  <a class="home-daily-card" href="{{ hoy.url | url }}">
-    <img class="home-daily-img"
-      src="{{ hoy.data.image | thumb('card') | url }}"
-      width="800" height="343" loading="lazy" decoding="async" alt="">
-    <div class="home-daily-body">
-      <p class="home-daily-kicker">
-        <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
-        Actividad del día
-      </p>
-      <h2 class="home-daily-title">{{ hoy.data.title | smartTitle }}</h2>
-      <p class="home-daily-desc">{{ hoy.data.description or hoy.data.summary }}</p>
-      <span class="home-more">Ver la actividad →</span>
-    </div>
-  </a>
+  {# Se renderizan hoy y los 2 días siguientes; el script muestra la
+     que corresponde a la fecha del navegador (por si el build diario
+     no corrió). Sin JS queda visible la del día del build.
+     Izquierda: la portada de la card del sitio (tipo, duración,
+     edades, ramas). Derecha: título, descripción, ODS e insignia. #}
+  {% for d in diasHoy %}
+    {% set item = d.item.data %}
+    {% set activityUrl = d.item.url %}
+    <div class="home-daily-dia" data-fecha="{{ d.fecha }}" {% if not loop.first %}hidden{% endif %}>
 
-  <script type="application/json" id="actividad-del-dia-datos">
-  {%- set dias = diasHoy %}{% set absoluto = false %}
-  {% include "components/actividad-del-dia-datos.njk" %}
-  </script>
+      {% set layout = "compact" %}
+      {% include "components/activity-card.njk" %}
+
+      <div class="home-daily-body">
+
+        {# Kicker e insignias en el mismo renglón. Hasta 2 insignias; si
+           hay más, la primera y un círculo «+N» (como en las cards). #}
+        <div class="home-daily-head">
+          <a class="home-daily-kicker" href="{{ activityUrl | url }}" tabindex="-1">
+            <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
+            Actividad del día
+          </a>
+          {% if item.activity_badges and item.activity_badges.length %}
+            {% set totalBadges = item.activity_badges.length %}
+            {% set shownBadges = totalBadges if totalBadges <= 2 else 1 %}
+            <div class="home-daily-badges">
+              {% for rawBadge in item.activity_badges.slice(0, shownBadges) %}
+                {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+                <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+                  <img class="badge-icon" loading="lazy" decoding="async"
+                    src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                    alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+                </a>
+              {% endfor %}
+              {% if totalBadges > shownBadges %}
+                <a class="home-daily-more" href="{{ activityUrl | url }}"
+                  title="{{ totalBadges - shownBadges }} insignias más">+{{ totalBadges - shownBadges }}</a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+
+        <h2 class="home-daily-title">
+          <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
+        </h2>
+
+        <a class="home-daily-desc" href="{{ activityUrl | url }}" tabindex="-1">{{ item.description or item.summary }}</a>
+
+        <div class="home-daily-foot">
+          <a class="home-more" href="{{ activityUrl | url }}">Ver la actividad →</a>
+          {% if item.sdgs and item.sdgs.length %}
+            <div class="home-daily-sdgs">
+              {% for sdg in item.sdgs.slice(0, 4) %}
+                <a href="{{ ('/ods/' + sdg + '/') | url }}">
+                  <img class="sdg-icon" loading="lazy" decoding="async"
+                    src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                    alt="ODS {{ sdg }}" title="ODS {{ sdg }}">
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+
+      </div>
+    </div>
+  {% endfor %}
+  {% set layout = "" %}
+
   <script>
   (function () {
     try {
-      var dias = JSON.parse(document.getElementById('actividad-del-dia-datos').textContent);
       var hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Argentina/Buenos_Aires',
         year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
-      var d = dias.filter(function (x) { return x.fecha === hoy; })[0];
-      if (!d || d.fecha === dias[0].fecha) return;
-      var s = document.getElementById('actividad-del-dia');
-      s.querySelector('.home-daily-card').href = d.url;
-      s.querySelector('.home-daily-img').src = d.card;
-      s.querySelector('.home-daily-title').textContent = d.title;
-      s.querySelector('.home-daily-desc').textContent = d.description;
+      var dias = document.querySelectorAll('#actividad-del-dia .home-daily-dia');
+      var elegido = null;
+      dias.forEach(function (el) { if (el.getAttribute('data-fecha') === hoy) elegido = el; });
+      if (!elegido) return;
+      dias.forEach(function (el) { el.hidden = el !== elegido; });
     } catch (e) {}
   })();
   </script>

@@ -455,36 +455,91 @@ body:has(.home) {
   .home-path:hover { transform: none; }
 }
 
-/* Actividad del día */
-.home-daily-card {
+/* Actividad del día: portada de la card del sitio a la izquierda
+   (tipo, duración, edades, ramas); a la derecha título, descripción,
+   ODS e insignia, con el estilo de la landing. */
+.home-daily-dia {
   display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr);
   background: var(--fogata-card);
   border: 1px solid var(--fogata-paper-dark);
   border-radius: 14px;
   overflow: hidden;
-  color: var(--fogata-ink);
-  text-decoration: none;
   box-shadow: 0 2px 10px rgba(0, 0, 0, .06);
 }
 
-.home-daily-card:hover { box-shadow: 0 4px 16px rgba(0, 0, 0, .12); }
-.home-daily-card:hover .home-more { color: var(--home-fire-dark); }
+.home-daily-dia[hidden] { display: none; }
 
-.home-daily-img {
-  width: 100%;
+.home-daily .activity-card {
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: none;
   height: 100%;
-  object-fit: cover;
-  display: block;
 }
 
-.home-daily-body { padding: 1.4rem 1.6rem; align-self: center; }
+.home-daily .activity-card-hero,
+.home-daily .activity-card-main-link { height: 100%; }
 
-.home-daily-kicker {
+.home-daily .activity-card-image {
+  height: 100%;
+  min-height: 280px;
+}
+
+/* El título va a la derecha, más grande: no se repite en la portada. */
+.home-daily .activity-card-overlay-middle { visibility: hidden; }
+
+.home-daily-body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.6rem 1.8rem 1.4rem;
+}
+
+.home-daily-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: .8rem;
+  margin-bottom: .5rem;
+}
+
+.home-daily-badges {
   display: flex;
   align-items: center;
   gap: .3rem;
-  margin: 0 0 .4rem;
+  flex-shrink: 0;
+}
+
+.home-daily-badges .badge-icon { width: 52px; height: 52px; }
+
+.home-daily-more {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  /* Mismo estilo que .activity-more de las cards. */
+  background: white;
+  border: 2px solid #355b38;
+  color: #355b38;
+  font-weight: 700;
+  font-size: .9rem;
+  text-decoration: none;
+}
+
+.home-daily-more:hover { border-color: var(--fogata-fire); }
+
+.home-daily-kicker {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: .3rem;
+  margin: 0;
+  text-decoration: none;
   font-weight: 700;
   color: var(--fogata-fire-dark);
   text-transform: uppercase;
@@ -492,15 +547,40 @@ body:has(.home) {
   font-size: .85rem;
 }
 
+.home-daily-kicker .material-symbols-outlined { font-size: 1.15rem; }
+
 .home-daily-title {
   font-family: var(--fogata-slab);
-  margin: 0 0 .6rem;
+  font-size: clamp(1.4rem, 2.4vw, 1.9rem);
+  line-height: 1.2;
+  margin: 0 0 .7rem;
 }
 
-.home-daily-desc { margin: 0 0 1rem; color: var(--fogata-muted); }
+.home-daily-title a { color: var(--fogata-forest); }
+
+.home-daily-desc { display: block; margin: 0 0 1.1rem; color: var(--fogata-muted); line-height: 1.55; text-decoration: none; }
+
+.home-daily-desc:hover { color: var(--fogata-ink); }
+
+.home-daily-foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.home-daily-sdgs { display: flex; gap: .35rem; }
+
+.home-daily-sdgs .sdg-icon { width: 44px; height: 44px; }
 
 @media (max-width: 720px) {
-  .home-daily-card { grid-template-columns: 1fr; }
-  .home-daily-img { aspect-ratio: 800 / 343; height: auto; }
-  .home-daily-body { padding: 1rem 1.1rem 1.2rem; }
+  .home-daily-dia { grid-template-columns: 1fr; }
+  .home-daily .activity-card-image { min-height: 0; height: 200px; }
+  .home-daily-body { padding: 1.1rem 1.1rem 1.2rem; }
+  .home-daily-badges .badge-icon,
+  .home-daily-more { width: 44px; height: 44px; }
+  .home-daily-sdgs .sdg-icon { width: 38px; height: 38px; }
 }
+
+.home-daily .activity-age { white-space: nowrap; }
