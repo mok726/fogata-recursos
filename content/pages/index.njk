@@ -113,28 +113,61 @@ populares:
 {% if diasHoy[0].item %}
 <section class="home-section home-daily" id="actividad-del-dia">
 
-  <div class="home-section-header">
-    <div>
-      <h2>
-        <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
-        Actividad del día
-      </h2>
-    </div>
-  </div>
-
   {# Se renderizan hoy y los 2 días siguientes; el script muestra la
      que corresponde a la fecha del navegador (por si el build diario
-     no corrió). Sin JS queda visible la del día del build. #}
+     no corrió). Sin JS queda visible la del día del build.
+     Izquierda: la portada de la card del sitio (tipo, duración,
+     edades, ramas). Derecha: título, descripción, ODS e insignia. #}
   {% for d in diasHoy %}
+    {% set item = d.item.data %}
+    {% set activityUrl = d.item.url %}
     <div class="home-daily-dia" data-fecha="{{ d.fecha }}" {% if not loop.first %}hidden{% endif %}>
-      {% set item = d.item.data %}
-      {% set activityUrl = d.item.url %}
-      {% set layout = "full" %}
-      {% set cardSummary = item.description or item.summary %}
+
+      {% set layout = "compact" %}
       {% include "components/activity-card.njk" %}
+
+      <div class="home-daily-body">
+
+        {% if item.activity_badges and item.activity_badges.length %}
+          {% set rawBadge = item.activity_badges[0] %}
+          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+          <a class="home-daily-badge" href="{{ (badgeId | badgeHref(badges)) | url }}">
+            <img class="badge-icon" loading="lazy" decoding="async"
+              src="{{ (badgeId | badgeLogo(badges)) | url }}"
+              alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+          </a>
+        {% endif %}
+
+        <p class="home-daily-kicker">
+          <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
+          Actividad del día
+        </p>
+
+        <h2 class="home-daily-title">
+          <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
+        </h2>
+
+        <p class="home-daily-desc">{{ item.description or item.summary }}</p>
+
+        <div class="home-daily-foot">
+          <a class="home-more" href="{{ activityUrl | url }}">Ver la actividad →</a>
+          {% if item.sdgs and item.sdgs.length %}
+            <div class="home-daily-sdgs">
+              {% for sdg in item.sdgs.slice(0, 4) %}
+                <a href="{{ ('/ods/' + sdg + '/') | url }}">
+                  <img class="sdg-icon" loading="lazy" decoding="async"
+                    src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                    alt="ODS {{ sdg }}" title="ODS {{ sdg }}">
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+
+      </div>
     </div>
   {% endfor %}
-  {% set cardSummary = "" %}
+  {% set layout = "" %}
 
   <script>
   (function () {

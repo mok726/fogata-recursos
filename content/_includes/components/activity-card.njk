@@ -105,10 +105,9 @@
        <div class="activity-card-body">
 
 
-         {# cardSummary: texto alternativo (la landing usa la descripción). #}
-         {% if cardSummary or item.summary %}
+         {% if item.summary %}
             <p class="activity-summary">
-              {{ cardSummary or item.summary }}
+              {{ item.summary }}
             </p>
          {% endif %}
 
