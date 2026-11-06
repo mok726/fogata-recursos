@@ -114,10 +114,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Reciclaje
-  - Habilidades manuales
 
 activity_type:
   - Creatividad / Arte

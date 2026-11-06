@@ -114,9 +114,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A homemade water filter made from a cut plastic bottle with layers of sand and gravel, next to jars of murky pond water and a magnifying glass, dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing samples. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Pensamiento científico
 activity_type:
   - Experimentación
   - Aprender haciendo

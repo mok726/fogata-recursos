@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Organización
-  - Trabajo en equipo
-  - Conciencia de salud
 
 activity_type:
   - Servicio a los demás

@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching population and water data, analyzing graphs and participating in a simulation about water consumption. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, analyzing data. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis de datos
-  - Pensamiento crítico
-  - Conciencia social
 activity_type:
   - Investigación
   - Reflexión

@@ -121,9 +121,6 @@ main_type: "Sensibilización"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth watching Our Planet documentary, discussing the challenges facing our planet and how to save it, creating a future where nature and people thrive. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching an environmental documentary. Educational media scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Reflexión sobre normas y valores
 activity_type:
   - Sensibilización
   - Reflexión

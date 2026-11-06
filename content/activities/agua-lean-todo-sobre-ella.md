@@ -123,10 +123,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating a newspaper about water, researching and writing articles, with editors and photographers. Educational media activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on their newspaper. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Escritura periodística
-  - Investigación
-  - Trabajo en equipo
 activity_type:
   - Investigación
   - Creatividad / Arte

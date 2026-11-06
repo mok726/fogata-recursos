@@ -121,10 +121,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant community event celebrating a city with people of all ages, booths, posters, and activities promoting green living dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing and leading a My City Day celebration. Community celebration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Liderazgo
-  - Organización
-  - Comunicación
 activity_type:
   - Participación comunitaria
   - Sensibilización

@@ -104,16 +104,13 @@ main_type: "Juego"
 image_prompt: "Argentine scout children aged 8 to 11 wearing beige shirts and colorful neckerchiefs on an obstacle course in a park, one crawling under a rope with ping pong balls stuck to packing tape on her forearms, another walking carefully with a ball on a spoon held in his mouth, colorful baskets as flowers at the finish, laughing, wide shot"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Observación
 activity_type:
   - Juego
 category:
   - Polinización
 skills:
   - Trabajo en equipo
-  - Coordinación
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:

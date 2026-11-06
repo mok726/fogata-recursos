@@ -106,9 +106,6 @@ main_type: "Juego"
 image_prompt: "Children with large number cards pinned on their chests running around a hall to form groups, adding numbers, a leader calling out a total, energetic."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento lógico
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

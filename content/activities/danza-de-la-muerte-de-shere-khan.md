@@ -108,9 +108,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, kneeling in a circle around a small ring of stones, arms raised high above their heads, bowing forward together in a dramatic jungle dance, an adult leader kneeling in the center, golden hour light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Creatividad / Arte

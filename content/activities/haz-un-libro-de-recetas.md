@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conocimiento nutricional
-  - Planificación
 
 activity_type:
   - Creatividad / Arte

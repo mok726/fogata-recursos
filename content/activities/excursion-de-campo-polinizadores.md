@@ -126,10 +126,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A sustainable farm with diverse crops, flowering plants, and beehives with people learning from a farmer about pollinator-friendly agriculture dominates the composition. Left side contains open negative space reserved for website interface elements. A video camera recording the visit in the background, seen from a distance, positioned on the right side. The scene has a vibrant, educational farm atmosphere with warm natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento agrícola
-  - Observación
-  - Conciencia ambiental
 activity_type:
   - Investigación
   - Exploración

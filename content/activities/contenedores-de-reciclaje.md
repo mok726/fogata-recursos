@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Reciclaje
-  - Comunicación
 
 activity_type:
   - Servicio a los demás

@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Tecnología
-  - Aprendizaje lúdico
-  - Conocimiento forestal
 
 activity_type:
   - Juego

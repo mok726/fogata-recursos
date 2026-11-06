@@ -425,7 +425,7 @@ body:has(.acts) {
 }
 
 
-/* ---------- ÍNDICES (insignias, ODS, ramas, competencias…) ---------- */
+/* ---------- ÍNDICES (insignias, ODS, ramas, habilidades…) ---------- */
 
 .idx-intro {
   max-width: 860px;
@@ -466,6 +466,20 @@ body:has(.acts) {
 .idx-criteria ul {
   margin: .3rem 0 .8rem;
   padding-left: 1.3rem;
+}
+
+.idx-group {
+  margin-top: 2rem;
+}
+
+.idx-group .idx-grid {
+  margin-top: .8rem;
+}
+
+.idx-group-title {
+  margin: 0;
+  font-family: var(--fogata-slab);
+  font-size: 1.4rem;
 }
 
 .idx-grid {

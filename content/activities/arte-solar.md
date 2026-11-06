@@ -125,10 +125,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth focusing sunlight with magnifying glasses on wooden boards to create art, wearing dark sunglasses for eye protection, with a bucket of water nearby for safety. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating solar art. Educational outdoor creativity scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia sobre energía solar
-  - Observación
 activity_type:
   - Creatividad / Arte
   - Experimentación

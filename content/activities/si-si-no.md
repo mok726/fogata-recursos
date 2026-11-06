@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis crítico
-  - Conciencia global
-  - Pensamiento sistémico
 
 activity_type:
   - Reflexión

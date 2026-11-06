@@ -105,10 +105,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing an ecological awareness game, moving between different sections of the playing area with signs. Educational outdoor activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing the game. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Pensamiento crítico
-  - Conciencia ambiental
 activity_type:
   - Juego
   - Reflexión
@@ -118,7 +114,7 @@ category:
   - Medio ambiente
 skills:
   - Pensamiento crítico
-  - Autoconciencia
+  - Autoconocimiento
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

@@ -115,10 +115,6 @@ main_type: "Hábitos sostenibles"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful display of fresh fruits like apples, bananas, oranges, and berries, with reusable containers for carrying snacks. Youth enjoying fresh fruit instead of packaged snacks. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, choosing fresh fruit for snacks. Healthy sustainable lifestyle scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Hábitos saludables
-  - Consumo responsable
-  - Planificación
 activity_type:
   - Hábitos sostenibles
   - Autoconocimiento
@@ -130,7 +126,7 @@ category:
 skills:
   - Hábitos sostenibles
   - Planificación y organización
-  - Autoconciencia
+  - Autoconocimiento
 
 # ========== VALORES SCOUT ==========
 scout_values:

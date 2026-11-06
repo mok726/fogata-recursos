@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Scouts on a grassy field pulling teammates lying on blankets with ropes, coats folded under their heads, an adult timing with a stopwatch, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia de seguridad
 activity_type:
   - Juego
   - Simulación

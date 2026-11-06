@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia ecológica
-  - Observación
 
 activity_type:
   - Investigación

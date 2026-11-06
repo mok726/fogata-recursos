@@ -119,10 +119,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Volunteers cleaning a park or green space, collecting litter with gloves and bags, and transforming the area into a clean space dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a community park cleanup. Community service environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Trabajo en equipo
-  - Conciencia ambiental
 activity_type:
   - Servicio a los demás
   - Participación comunitaria

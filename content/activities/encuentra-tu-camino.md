@@ -117,10 +117,6 @@ accessibility:
   - -Motora  # Requiere caminar por el bosque
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Orientación
-  - Trabajo en equipo
-  - Resolución de problemas
 
 activity_type:
   - Juego

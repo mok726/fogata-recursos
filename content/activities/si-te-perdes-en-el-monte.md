@@ -114,10 +114,6 @@ main_type: "Simulación"
 image_prompt: "A young scout sitting calmly against a tree in a forest, blowing a whistle, an orange bag tied to a branch, search party scouts visible in the distance. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Salud y autocuidado
-  - Resolución de problemas
 activity_type:
   - Simulación
   - Reflexión

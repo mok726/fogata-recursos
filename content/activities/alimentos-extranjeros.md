@@ -122,10 +122,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades culinarias
-  - Conciencia cultural
-  - Observación
 
 activity_type:
   - Aprender haciendo

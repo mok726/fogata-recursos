@@ -117,10 +117,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Different groups - men, women, urban, and rural - using and conserving biodiversity in various ways dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching and comparing biodiversity use across different groups. Societal research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Pensamiento crítico
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

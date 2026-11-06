@@ -108,10 +108,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Reflexión crítica
-  - Conciencia climática
 
 activity_type:
   - Reflexión

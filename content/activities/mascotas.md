@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, caring for pets in a backyard: one child filling a dog's water bowl, another gently holding a guinea pig, another cleaning a small cage, a notebook with a care chart on the grass, warm afternoon light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Empatía
-  - Observación
 activity_type:
   - Aprender haciendo
   - Reflexión
@@ -124,8 +120,7 @@ category:
   - Naturaleza
   - Biodiversidad
 skills:
-  - Responsabilidad
-  - Autoconciencia
+  - Autoconocimiento
 
 # ========== VALORES SCOUT ==========
 scout_values:

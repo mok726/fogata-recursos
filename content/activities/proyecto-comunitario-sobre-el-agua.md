@@ -101,10 +101,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Planificación
-  - Acción comunitaria
-  - Sostenibilidad
 
 activity_type:
   - Servicio a los demás

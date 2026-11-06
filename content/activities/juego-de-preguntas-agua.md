@@ -115,9 +115,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth playing a matching game with water trivia questions and answers, learning interesting facts about water. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a water trivia game. Educational gamification scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Memoria
-  - Conocimiento sobre el agua
 activity_type:
   - Juego
 category:

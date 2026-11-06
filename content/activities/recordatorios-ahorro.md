@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating colorful reminder notes for saving energy - turn off lights, unplug electronics, turn off water - and posting them around home, school, and meeting places. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, posting energy reminders. Educational organizational scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Organización
-  - Conciencia energética
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

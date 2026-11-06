@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Comunicación
-  - Conciencia de salud
 
 activity_type:
   - Investigación

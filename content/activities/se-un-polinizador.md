@@ -120,10 +120,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A close-up of a hand using a paintbrush to transfer pollen between flowers with a focus on the pollen grains and flower parts dominates the composition. Left side contains open negative space reserved for website interface elements. A variety of colorful flowers in a garden in the background, seen from a distance, positioned on the right side. The scene shows the delicate process of manual pollination with soft natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Experimentación
-  - Pensamiento científico
 activity_type:
   - Experimentación
   - Aprender haciendo

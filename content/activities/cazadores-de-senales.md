@@ -98,16 +98,12 @@ main_type: "Exploración"
 image_prompt: "A small patrol of scouts in Scout Association of Argentina uniforms with an adult leader photographing a stop sign on a sidewalk corner of an Argentine neighborhood, one scout holding a checklist, afternoon light, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Exploración
   - Juego
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

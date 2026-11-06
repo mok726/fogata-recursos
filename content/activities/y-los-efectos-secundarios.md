@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People from diverse backgrounds - farmers, workers, teachers, urban planners - sharing their views on urbanization's negative effects dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, interviewing community members about urban challenges. Community research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación social
-  - Empatía
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

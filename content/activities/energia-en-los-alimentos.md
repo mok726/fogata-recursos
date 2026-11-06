@@ -116,10 +116,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating and playing a card game matching food items with the energy used in their production, from fishing boats to fertilizer manufacturing. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing an energy food game. Educational learning game scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia alimentaria
-  - Pensamiento crítico
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Investigación

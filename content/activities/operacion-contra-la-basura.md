@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a community survey on littering behavior, interviewing diverse people on the street, educational environmental research. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Capacidad de investigación social
-  - Habilidades de entrevista
-  - Análisis de datos y comportamiento
 activity_type:
   - Investigación
   - Aprender haciendo

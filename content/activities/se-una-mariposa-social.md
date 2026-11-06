@@ -118,10 +118,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A social media campaign on a smartphone screen showing posts about pollinators with hashtags, photos of bees, and calls to action dominates the composition. Left side contains open negative space reserved for website interface elements. A person creating content on a laptop in the background, seen from a distance, positioned on the right side. The scene has a modern, digital atmosphere with bright screen lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Alfabetización digital
-  - Comunicación
-  - Liderazgo
 activity_type:
   - Participación comunitaria
   - Sensibilización

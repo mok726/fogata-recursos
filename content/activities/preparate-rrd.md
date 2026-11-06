@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Conciencia comunitaria
-  - Planificación
 
 activity_type:
   - Reflexión

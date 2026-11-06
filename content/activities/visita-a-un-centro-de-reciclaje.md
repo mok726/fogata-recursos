@@ -103,10 +103,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conciencia del reciclaje
-  - Comprensión energética
 
 activity_type:
   - Exploración

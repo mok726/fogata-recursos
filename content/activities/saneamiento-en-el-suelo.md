@@ -104,10 +104,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Experimentación
-  - Observación
-  - Comprensión de filtración
 
 activity_type:
   - Experimentación

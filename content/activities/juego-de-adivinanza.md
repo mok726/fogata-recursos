@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conocimiento del suelo
-  - Trabajo en equipo
-  - Pensamiento crítico
 
 activity_type:
   - Juego

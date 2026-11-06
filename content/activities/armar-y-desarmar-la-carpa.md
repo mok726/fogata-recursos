@@ -111,10 +111,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts pitching a dome tent on a grassy campsite, two raising the poles together while another adjusts a guy line, a folded ground sheet beside them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Dinámica de grupos
@@ -124,7 +120,6 @@ category:
 skills:
   - Técnicas scout
   - Trabajo en equipo
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

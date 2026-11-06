@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de seguridad
-  - Investigación
-  - Responsabilidad
 
 activity_type:
   - Investigación
@@ -132,7 +128,6 @@ category:
   - Prevención
 
 skills:
-  - Responsabilidad
   - Investigación
   - Observación
 

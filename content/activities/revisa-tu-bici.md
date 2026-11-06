@@ -102,16 +102,12 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts in Scout Association of Argentina uniforms in a schoolyard checking their bicycles, one pumping a tire, another squeezing the brakes, another adjusting a friend's helmet, tools on the ground, sunny day, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Aprender haciendo
   - Salud
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Técnicas scout
 
 # ========== VALORES SCOUT ==========

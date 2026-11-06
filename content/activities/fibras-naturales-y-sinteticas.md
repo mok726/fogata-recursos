@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Clothing labels showing natural and synthetic fibers with samples of cotton, wool, silk, polyester, and nylon dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, examining clothing labels and comparing fiber types. Sustainable fashion research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Consumo responsable
-  - Conciencia ambiental
 activity_type:
   - Investigación
   - Reflexión

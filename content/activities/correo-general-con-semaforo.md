@@ -113,9 +113,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, standing in a wide semicircle on a field with big letter cards pinned on their chests, two children sprinting across to swap places while an adult leader holds semaphore flags up, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Observación
 activity_type:
   - Juego
   - Comunicación
@@ -123,11 +120,11 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Responsabilidad y Compromiso
   - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo

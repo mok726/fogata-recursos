@@ -100,16 +100,12 @@ main_type: "Planificación"
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms gathered around a table with a big paper map, marking a bicycle route with markers, helmets and a bike pump on the table, scout hall, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Planificación
   - Aprender haciendo
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

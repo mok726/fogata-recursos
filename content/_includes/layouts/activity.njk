@@ -295,7 +295,7 @@ async function shareActivity() {
   </div>
   {% endif %}
 
-  {# 3. COMPETENCIAS (skills) #}
+  {# 3. HABILIDADES (skills) #}
 
   {# 4. ODS RELACIONADOS #}
   {% if (sdgs | default([])) | length %}
@@ -612,10 +612,10 @@ async function shareActivity() {
 
       {% if skills %}
       <div class="info-card">
-        <h3><span class="material-symbols-outlined" aria-hidden="true">check_circle</span> Competencias desarrolladas</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">check_circle</span> Habilidades desarrolladas</h3>
         <ul class="competence-list">
           {% for skill in skills %}
-            {% set href = skill | taxonomyHref(allskills, "/competencias/") %}
+            {% set href = skill | taxonomyHref(allskills, "/habilidades/") %}
             <li>{% if href %}<a href="{{ href | url }}" title="Ver actividades con «{{ skill }}»">{{ skill }}</a>{% else %}{{ skill }}{% endif %}</li>
           {% endfor %}
         </ul>

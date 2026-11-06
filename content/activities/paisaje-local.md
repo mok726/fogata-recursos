@@ -123,10 +123,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse local landscape showing forests, mountains, deserts, or urban parks with native pollinators in their habitats dominates the composition. Left side contains open negative space reserved for website interface elements. A map of the local ecosystem with pollinator species marked in the background, seen from a distance, positioned on the right side. The scene has a natural, educational atmosphere with warm outdoor lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento local
-  - Conciencia ambiental
-  - Investigación
 activity_type:
   - Investigación
   - Exploración

@@ -114,10 +114,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating a short film or skit about saving energy, using costumes and props, filming with cameras, and presenting their educational message to the community. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making a film about energy conservation. Educational media production scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Comunicación
-  - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
   - Sensibilización

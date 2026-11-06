@@ -105,10 +105,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Resolución de problemas
-  - Pensamiento crítico
 
 activity_type:
   - Simulación

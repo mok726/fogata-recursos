@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación científica
-  - Conciencia ambiental
-  - Comunicación
 
 activity_type:
   - Investigación

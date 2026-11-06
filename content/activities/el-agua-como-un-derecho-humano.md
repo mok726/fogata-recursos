@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conciencia de derechos
-  - Pensamiento crítico
-  - Debate
 
 activity_type:
   - Reflexión

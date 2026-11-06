@@ -107,10 +107,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Experimentación
-  - Conciencia global
-  - Innovación
 
 activity_type:
   - Experimentación

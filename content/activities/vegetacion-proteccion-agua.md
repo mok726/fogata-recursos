@@ -124,10 +124,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting an experiment with soil, grass, and water to learn how vegetation prevents erosion and protects water quality. Educational science activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting the experiment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
-  - Conciencia ambiental
 activity_type:
   - Experimentación
   - Aprender haciendo

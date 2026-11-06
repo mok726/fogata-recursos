@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Pensamiento estratégico
-  - Conciencia global
 
 activity_type:
   - Juego

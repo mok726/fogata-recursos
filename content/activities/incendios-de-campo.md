@@ -118,10 +118,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in an open grassy field watching colorful ribbons on a stick blow in the wind, an adult leader pointing to show wind direction, a properly extinguished stone fire ring with a water bucket in the foreground."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Observación
 activity_type:
   - Juego
   - Aprender haciendo

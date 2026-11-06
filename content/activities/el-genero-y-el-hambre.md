@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia de género
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

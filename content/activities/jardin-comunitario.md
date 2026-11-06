@@ -104,10 +104,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Jardinería
-  - Trabajo en equipo
-  - Responsabilidad
 
 activity_type:
   - Aprender haciendo
@@ -123,7 +119,6 @@ skills:
   - Hábitos sostenibles
   - Conciencia ambiental
   - Trabajo en equipo
-  - Responsabilidad
 
 scout_values:
   - Compromiso con la Naturaleza

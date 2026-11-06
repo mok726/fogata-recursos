@@ -118,10 +118,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth writing letters about sanitation and water rights to local authorities, learning about human rights and advocacy. Educational civic activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing letters. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cívica
-  - Escritura persuasiva
-  - Defensa de derechos
 activity_type:
   - Reflexión
   - Servicio a los demás

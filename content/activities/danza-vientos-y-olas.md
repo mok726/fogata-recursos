@@ -112,10 +112,6 @@ main_type: "Dinámica de grupos"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing a creative dance about winds, waves, and the carbon cycle, with flowing movements representing air, water, and energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing an educational dance about natural energy. Educational performance scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad artística
-  - Trabajo en equipo
-  - Conciencia ambiental
 activity_type:
   - Dinámica de grupos
   - Creatividad / Arte

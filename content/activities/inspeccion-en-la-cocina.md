@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Reducción de residuos
-  - Conciencia del consumo
 
 activity_type:
   - Servicio a los demás

@@ -117,10 +117,6 @@ accessibility:
   - -Auditiva  # Actividad centrada en sonidos
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Escucha activa
-  - Identificación de rastros
 
 activity_type:
   - Exploración

@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A scout patrol walking along a tree-lined path, children pointing at a bird on a branch and at tracks on the ground, an adult with a clipboard. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Atención
-  - Conciencia ambiental
 activity_type:
   - Juego
 category:

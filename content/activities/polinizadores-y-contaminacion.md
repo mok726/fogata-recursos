@@ -119,10 +119,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Air pollution and electromagnetic waves affecting pollinators, with a split composition showing clean and polluted environments dominates the composition. Left side contains open negative space reserved for website interface elements. An expert speaking with a group about pollution sources in the background, seen from a distance, positioned on the right side. The scene has a serious, educational atmosphere with contrast between clean and polluted areas. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

@@ -105,9 +105,6 @@ main_type: "Juego"
 image_prompt: "A scout running through a meadow dropping corn kernels behind him, a group of scouts starting to follow the trail in the distance, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

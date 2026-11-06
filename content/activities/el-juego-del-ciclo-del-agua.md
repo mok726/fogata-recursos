@@ -108,10 +108,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Comprensión científica
-  - Creatividad
-  - Trabajo en equipo
 
 activity_type:
   - Juego

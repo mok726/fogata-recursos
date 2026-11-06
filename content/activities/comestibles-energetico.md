@@ -119,10 +119,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A kitchen scene with people cooking a vegetarian meal using local ingredients dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, preparing food together in a kitchen. Cooking and learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia alimentaria
-  - Habilidades culinarias
-  - Pensamiento crítico
 activity_type:
   - Aprender haciendo
   - Experimentación

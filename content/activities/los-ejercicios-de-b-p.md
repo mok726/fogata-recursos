@@ -108,8 +108,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in a row on a grassy field at morning camp, slowly bending forward to touch their toes with straight knees, an adult leader demonstrating, fresh morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
 activity_type:
   - Aprender haciendo
   - Salud

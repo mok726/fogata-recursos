@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Consumo responsable
-  - Ahorro
-  - Reuso
 
 activity_type:
   - Servicio a los demás

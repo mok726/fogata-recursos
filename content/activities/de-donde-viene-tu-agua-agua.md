@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children solving a maze puzzle about where water comes from, showing the path from home to different water sources like rivers, lakes, and aquifers. Educational and fun activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, solving the maze. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento espacial
-  - Comprensión de fuentes de agua
-  - Resolución de problemas
 activity_type:
   - Juego
 category:

@@ -114,10 +114,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth making recycled paper from newspapers, cardboard, and dried leaves, learning about paper recycling and sustainability. Educational workshop activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making paper. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
-  - Conciencia ambiental
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

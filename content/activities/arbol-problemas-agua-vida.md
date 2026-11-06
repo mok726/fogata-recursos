@@ -119,10 +119,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating a problem tree about water issues, with roots showing causes and branches showing consequences, learning about systemic thinking. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on the problem tree. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Análisis de causas
-  - Conciencia social
 activity_type:
   - Reflexión
   - Debate / Diálogo

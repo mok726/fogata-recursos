@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Traditional buildings and cooling methods from the past using natural ventilation and design dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, interviewing elders and researching traditional climate solutions. Heritage research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia histórica
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

@@ -118,10 +118,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating colorful signs for beach conservation, with messages about protecting marine life and keeping beaches clean. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating signs. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Sensibilización

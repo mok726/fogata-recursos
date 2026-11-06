@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Autodisciplina
-  - Conciencia energética
-  - Influencia social
 
 activity_type:
   - Servicio a los demás

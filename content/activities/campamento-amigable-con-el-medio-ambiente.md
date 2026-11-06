@@ -100,10 +100,6 @@ participants: "10-50"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Liderazgo
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás

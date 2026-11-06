@@ -118,10 +118,6 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth exploring nature outdoors, collecting leaves, seeds, and observing the environment, learning about human impact on nature. Educational outdoor activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring the environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia ambiental
-  - Pensamiento crítico
 activity_type:
   - Exploración
   - Aprender haciendo

@@ -102,10 +102,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Recaudación
-  - Trabajo en equipo
 
 activity_type:
   - Servicio a los demás

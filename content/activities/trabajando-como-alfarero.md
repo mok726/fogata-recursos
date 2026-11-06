@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Habilidades manuales
-  - Conexión con materiales naturales
 
 activity_type:
   - Creatividad / Arte

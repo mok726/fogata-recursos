@@ -98,9 +98,6 @@ main_type: "Exploración"
 image_prompt: "A small group of young cub scouts in Scout Association of Argentina uniforms walking in a line on a sidewalk of a quiet Argentine neighborhood, two adult leaders pointing at a traffic light and a pedestrian crossing, trees and low houses, sunny afternoon, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Exploración
   - Aprender haciendo
@@ -109,7 +106,6 @@ category:
   - Seguridad vial
 skills:
   - Observación
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

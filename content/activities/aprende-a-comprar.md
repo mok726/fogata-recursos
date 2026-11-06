@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conocimiento de alimentos
-  - Conciencia ambiental
-  - Planificación
 
 activity_type:
   - Aprender haciendo

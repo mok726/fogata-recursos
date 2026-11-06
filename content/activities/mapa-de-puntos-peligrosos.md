@@ -100,9 +100,6 @@ main_type: "Investigación"
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms and reflective vests standing on a sidewalk corner of an Argentine neighborhood, one taking a photo of a broken sidewalk ramp, another marking a paper map, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia social
 activity_type:
   - Investigación
   - Participación comunitaria
@@ -110,7 +107,6 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

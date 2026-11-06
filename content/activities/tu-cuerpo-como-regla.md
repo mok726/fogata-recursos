@@ -109,9 +109,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts measuring their arm span and hand span with a tape measure on a grassy field, others pacing along a rope laid on the ground. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Pensamiento científico
 activity_type:
   - Aprender haciendo
   - Investigación

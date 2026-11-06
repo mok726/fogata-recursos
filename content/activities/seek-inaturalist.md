@@ -120,9 +120,6 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth using mobile phones with the Seek app to identify plants and wildlife in a natural area, learning about biodiversity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, identifying species with technology. Educational outdoor tech scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Pensamiento crítico
 activity_type:
   - Exploración
   - Investigación

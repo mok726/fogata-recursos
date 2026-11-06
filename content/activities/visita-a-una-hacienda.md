@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conciencia agrícola
-  - Comparación
 
 activity_type:
   - Exploración

@@ -110,8 +110,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, skipping rope in a sunny schoolyard, two children turning a long rope while a third jumps in on tiptoes, others practicing with their own ropes, joyful motion."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
 activity_type:
   - Actividad física
   - Aprender haciendo

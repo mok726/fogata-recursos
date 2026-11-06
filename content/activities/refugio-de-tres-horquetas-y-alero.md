@@ -111,10 +111,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts building a lean-to shelter from dead poles with a crossbar on two forked uprights, next to a small tripod shelter of three forked sticks covered with dry reeds. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
-  - Resolución de problemas
 activity_type:
   - Aprender haciendo
   - Experimentación

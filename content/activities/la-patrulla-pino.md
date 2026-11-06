@@ -107,9 +107,6 @@ main_type: "Planificación"
 image_prompt: "A patrol of scouts around a camp table looking at a hand-drawn chart of patrol roles with numbers, a pine tree emblem drawn on it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación y organización
-  - Liderazgo
 activity_type:
   - Planificación
   - Dinámica de grupos

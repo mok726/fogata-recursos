@@ -6,7 +6,7 @@ Si existe `<sección>-<id>.png` (o `.jpg`, `.webp`), la card del
 
 - `ods-13.png` → ODS 13 en /ods/
 - `edades-manada.png` → Manada en /edades/
-- `competencias-liderazgo.png` → /competencias/liderazgo/
+- `habilidades-liderazgo.png` → /habilidades/liderazgo/
 - `valoresscout-hermandad-y-fraternidad.jpg`, `metodoscout-marco-simbolico.png`,
   `activitytype-juego.png`
 

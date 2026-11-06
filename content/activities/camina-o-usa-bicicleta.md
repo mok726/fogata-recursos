@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Movilidad sostenible
-  - Responsabilidad
-  - Salud
 
 activity_type:
   - Servicio a los demás
@@ -119,10 +115,10 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Responsabilidad
-  - Autoconciencia
+  - Autoconocimiento
 
 scout_values:
+  - Responsabilidad y Compromiso
   - Vida Sana y Bienestar
   - Compromiso con la Naturaleza
   - Superación Personal y Perseverancia

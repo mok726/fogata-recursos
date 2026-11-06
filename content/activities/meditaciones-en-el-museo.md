@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Apreciación artística
-  - Investigación
-  - Conciencia cultural
 
 activity_type:
   - Investigación

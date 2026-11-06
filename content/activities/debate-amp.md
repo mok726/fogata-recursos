@@ -107,10 +107,6 @@ participants: "8-25"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Argumentación
-  - Negociación
 
 activity_type:
   - Debate / Diálogo

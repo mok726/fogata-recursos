@@ -108,9 +108,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Close-up of teenage scouts splicing three-strand rope with a wooden fid, an eye splice finished on the table. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Destreza física
 activity_type:
   - Aprender haciendo
   - Juego

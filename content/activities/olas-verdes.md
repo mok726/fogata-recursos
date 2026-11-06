@@ -123,10 +123,6 @@ accessibility:
   - -Motora  # Requiere actividad física de plantación
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia ambiental
-  - Responsabilidad
 
 activity_type:
   - Aprender haciendo
@@ -141,7 +137,7 @@ category:
 skills:
   - Trabajo en equipo
   - Conciencia ambiental
-  - Conservación
+  - Protección ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:

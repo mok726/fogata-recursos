@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
 
 activity_type:
   - Creatividad / Arte

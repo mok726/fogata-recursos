@@ -118,10 +118,6 @@ accessibility:
   - -Motora  # Requiere habilidades manuales finas
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Resiliencia
 
 activity_type:
   - Creatividad / Arte

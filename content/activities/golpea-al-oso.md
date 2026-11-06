@@ -108,9 +108,6 @@ main_type: "Juego"
 image_prompt: "Scouts in an open field playfully chasing a bigger scout who has a balloon tied to his back, everyone holding soft foam pool noodles, laughing, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Integración
 activity_type:
   - Juego
   - Actividad física

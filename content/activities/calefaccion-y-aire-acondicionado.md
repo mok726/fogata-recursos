@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conciencia energética
-  - Aprendizaje histórico
-  - Adaptación
 
 activity_type:
   - Reflexión
@@ -118,7 +114,7 @@ category:
 skills:
   - Hábitos sostenibles
   - Investigación
-  - Autoconciencia
+  - Autoconocimiento
 
 scout_values:
   - Sencillez y Austeridad

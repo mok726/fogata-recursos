@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Análisis climático
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

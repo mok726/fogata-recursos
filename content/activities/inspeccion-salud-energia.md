@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching health and pollution facts, preparing a quiz, and inviting an expert to speak about air and water pollution and how to stay safe. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a health inspection research. Educational health awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de salud
-  - Investigación
-  - Comunicación
 activity_type:
   - Investigación
   - Sensibilización

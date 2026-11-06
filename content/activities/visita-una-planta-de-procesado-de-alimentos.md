@@ -122,10 +122,6 @@ accessibility:
   - -Motora  # Puede requerir caminar
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conocimiento alimentario
-  - Documentación
 
 activity_type:
   - Investigación

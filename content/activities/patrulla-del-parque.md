@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A park evaluation scene with people assessing native plants, water sources, nesting spots, and pesticide use, with a scoring system visible dominates the composition. Left side contains open negative space reserved for website interface elements. A letter being written to park authorities with improvement suggestions in the background, seen from a distance, positioned on the right side. The scene has a civic engagement atmosphere with natural park lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Evaluación
-  - Comunicación
-  - Conciencia ambiental
 activity_type:
   - Investigación
   - Reflexión

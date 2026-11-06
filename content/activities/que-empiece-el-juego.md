@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconocimiento
-  - Planificación
-  - Trabajo en equipo
 
 activity_type:
   - Investigación

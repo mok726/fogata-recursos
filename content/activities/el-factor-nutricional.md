@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A nutritional chart showing vitamins and minerals that would be lost without pollinators, with fruits and vegetables rich in these nutrients dominates the composition. Left side contains open negative space reserved for website interface elements. A presentation screen with data on global malnutrition in the background, seen from a distance, positioned on the right side. The scene has a clean, educational atmosphere with clear lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia nutricional
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

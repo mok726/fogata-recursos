@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Comunicación digital
-  - Creatividad
-  - Conciencia ambiental
 
 activity_type:
   - Comunicación

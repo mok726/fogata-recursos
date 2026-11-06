@@ -113,10 +113,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts tending a small vegetable garden plot next to their scout hall, one pressing leaves in a notebook herbarium on a table nearby, sunny spring day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Responsabilidad
-  - Investigación
 activity_type:
   - Aprender haciendo
   - Investigación
@@ -127,7 +123,6 @@ skills:
   - Hábitos sostenibles
   - Conciencia ambiental
   - Observación
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

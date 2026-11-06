@@ -116,10 +116,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An environmental workshop with families and friends participating in activities about biodiversity dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, leading a workshop on an environmental topic. Community education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Liderazgo
-  - Comunicación
-  - Organización
 activity_type:
   - Aprender haciendo
   - Participación comunitaria

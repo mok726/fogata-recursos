@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia de género
-  - Empatía
 
 activity_type:
   - Investigación

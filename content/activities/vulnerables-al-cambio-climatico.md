@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Empatía
-  - Conciencia social
 
 activity_type:
   - Investigación

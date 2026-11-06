@@ -108,9 +108,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Scouts spread out in a field at sunset, each laying a wooden staff on the grass pointing in slightly different directions, an adult checking with a compass. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Orientación
-  - Observación
 activity_type:
   - Juego
   - Orientación

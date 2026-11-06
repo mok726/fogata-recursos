@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia del consumidor
-  - Investigación
-  - Comunicación
 
 activity_type:
   - Investigación

@@ -103,10 +103,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Comunicación digital
-  - Conciencia comunitaria
-  - Creación de contenido
 
 activity_type:
   - Servicio a los demás

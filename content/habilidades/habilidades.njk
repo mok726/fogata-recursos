@@ -1,0 +1,16 @@
+---
+pagination:
+  data: allskills
+  size: 1
+  alias: skill
+
+permalink: "/habilidades/{{ skill.id }}/"
+
+eleventyComputed:
+  title: "Habilidad: {{ skill.name }}"
+  description: "Actividades scouts para desarrollar la habilidad «{{ skill.name }}»: juegos, talleres y proyectos para todas las ramas, con fichas listas para usar."
+
+layout: layouts/skill-page.njk
+---
+
+

@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Empatía
-  - Reflexión
-  - Conciencia social
 
 activity_type:
   - Reflexión

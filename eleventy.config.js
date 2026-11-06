@@ -1458,7 +1458,7 @@ else {
 
 
   // Tarjetas de los índices (/badges/, /ods/, /edades/,
-  // /competencias/, /valoresScout/, /metodoScout/, /activityType/)
+  // /habilidades/, /valoresScout/, /metodoScout/, /activityType/)
   // para components/browse-index.njk: url, título, texto, ícono,
   // cantidad de actividades (con el mismo criterio que la página
   // de detalle) y una imagen de portada tomada de una de ellas,
@@ -1532,13 +1532,14 @@ else {
             };
             break;
           default: {
-            const paths = { skill: "/competencias/", value: "/valoresScout/", method: "/metodoScout/", type: "/activityType/" };
+            const paths = { skill: "/habilidades/", value: "/valoresScout/", method: "/metodoScout/", type: "/activityType/" };
             matched = activitiesFor(activities, kind, entry.name);
             card = {
               url: paths[kind] + entry.id + "/",
               title: entry.name,
               text: entry.summary || entry.description || "",
-              symbol: entry.symbol
+              symbol: entry.symbol,
+              group: entry.group || ""
             };
           }
         }
@@ -1554,7 +1555,7 @@ else {
 
       });
 
-      // Valores, método, competencias y tipos: orden alfabético (pedido de Mariano).
+      // Valores, método, habilidades y tipos: orden alfabético (pedido de Mariano).
       if (["value", "method", "skill", "type"].includes(kind)) {
         cards.sort((x, y) => String(x.title).localeCompare(String(y.title), "es", { sensitivity: "base" }));
       }

@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Reflexión
-  - Registro
-  - Autoconocimiento
 
 activity_type:
   - Reflexión
@@ -119,7 +115,7 @@ category:
 skills:
   - Pensamiento crítico
   - Comunicación
-  - Autoconciencia
+  - Autoconocimiento
 
 scout_values:
   - Superación Personal y Perseverancia

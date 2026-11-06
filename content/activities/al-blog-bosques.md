@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación digital
-  - Conciencia ambiental
-  - Trabajo en equipo
 
 activity_type:
   - Investigación

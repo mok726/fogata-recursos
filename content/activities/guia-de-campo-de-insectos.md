@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Close-up of a magnifying glass over a beetle on a leaf next to a field notebook with insect sketches dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, using a sweep net in a grassy meadow. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Trabajo en equipo
 activity_type:
   - Investigación
   - Aprender haciendo

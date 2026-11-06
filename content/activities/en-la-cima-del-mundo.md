@@ -119,10 +119,6 @@ accessibility:
   - -Motora  # Requiere caminata y acceso al dosel
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Creatividad
-  - Conciencia ambiental
 
 activity_type:
   - Exploración

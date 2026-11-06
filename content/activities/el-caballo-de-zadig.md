@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, examining clues along a forest path with magnifying glasses: a tuft of grey wool caught on a low branch, hoof-like prints in the dirt, children writing notes, curious detective mood."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Pensamiento crítico
-  - Resolución de problemas
 activity_type:
   - Investigación
   - Juego

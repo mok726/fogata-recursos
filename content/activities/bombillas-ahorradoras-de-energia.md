@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Eficiencia energética
-  - Influencia social
-  - Responsabilidad
 
 activity_type:
   - Servicio a los demás
@@ -120,7 +116,6 @@ category:
 skills:
   - Hábitos sostenibles
   - Comunicación
-  - Responsabilidad
 
 scout_values:
   - Sencillez y Austeridad

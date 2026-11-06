@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Consumo responsable
-  - Reducción de plásticos
-  - Influencia social
 
 activity_type:
   - Servicio a los demás

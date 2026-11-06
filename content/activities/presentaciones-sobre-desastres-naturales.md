@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Trabajo en equipo
-  - Conciencia social
 
 activity_type:
   - Investigación

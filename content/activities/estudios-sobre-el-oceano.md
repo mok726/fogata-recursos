@@ -104,10 +104,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Planificación
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

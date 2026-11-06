@@ -120,10 +120,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A week-long menu showing limited food options without pollinator-dependent foods - mostly grains and wind-pollinated crops - with a stark, simple presentation dominates the composition. Left side contains open negative space reserved for website interface elements. A contrast menu with colorful, pollinator-dependent foods in the background, seen from a distance, positioned on the right side. The scene has a reflective, thoughtful atmosphere with clean lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia alimentaria
-  - Reflexión
-  - Pensamiento crítico
 activity_type:
   - Reflexión
   - Aprender haciendo

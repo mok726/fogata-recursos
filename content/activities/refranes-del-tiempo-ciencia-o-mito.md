@@ -114,9 +114,6 @@ main_type: "Investigación"
 image_prompt: "Scouts on a hilltop at sunset looking at a red sky and clouds, one writing in a weather notebook, a small homemade wind vane beside them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
 activity_type:
   - Investigación
   - Debate / Diálogo

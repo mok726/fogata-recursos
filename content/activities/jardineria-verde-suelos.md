@@ -107,10 +107,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Reciclaje
-  - Jardinería
-  - Paciencia
 
 activity_type:
   - Aprender haciendo
@@ -125,7 +121,6 @@ category:
 skills:
   - Hábitos sostenibles
   - Conciencia ambiental
-  - Responsabilidad
 
 scout_values:
   - Compromiso con la Naturaleza

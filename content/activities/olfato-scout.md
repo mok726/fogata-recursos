@@ -110,10 +110,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A row of identical paper bags on a table and children sniffing them one by one with curious, funny expressions, indoor scout hall. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Concentración
-  - Memoria
 activity_type:
   - Juego
 category:

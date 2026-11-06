@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Conciencia de seguridad
 
 activity_type:
   - Investigación

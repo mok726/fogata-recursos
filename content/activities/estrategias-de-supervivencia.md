@@ -119,10 +119,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Diverse animals showing different survival strategies like thick fur, feathers, and camouflage dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a game about animal survival strategies. Interactive learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
-  - Conciencia ambiental
 activity_type:
   - Juego
   - Investigación

@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Análisis político
-  - Pensamiento estratégico
-  - Comunicación persuasiva
 
 activity_type:
   - Investigación

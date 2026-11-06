@@ -110,9 +110,6 @@ main_type: "Juego"
 image_prompt: "Two scouts kneeling face to face over chalk-drawn 5 by 5 grids, one covering a pattern of walnuts and pebbles with a cloth, the other trying to reproduce it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Técnicas scout
 activity_type:
   - Juego
 category:

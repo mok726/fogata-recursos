@@ -114,10 +114,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Pensamiento crítico
-  - Investigación
 
 activity_type:
   - Investigación

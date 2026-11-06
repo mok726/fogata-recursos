@@ -118,9 +118,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, kneeling in front of a brick fireplace in a cozy home, carefully laying loose paper balls, dry twigs and small pieces of coal, one child striking a single match while an adult kneels beside them, a bucket of sand nearby."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación y organización
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
 category:

@@ -114,10 +114,6 @@ main_type: "Sensibilización"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth writing a thoughtful letter to local politicians or environmental authorities, researching community plastic issues, and sharing their advocacy on social media. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing advocacy letters. Educational civic engagement scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Ciudadanía activa
-  - Comunicación escrita
-  - Análisis comunitario
 activity_type:
   - Sensibilización
   - Servicio a los demás

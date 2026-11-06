@@ -112,10 +112,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, practicing a safety drill on a grassy field: one child rolling on the ground with hands covering the face while a teammate gently drapes a blanket from the shoulders down, another running to call an adult leader."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Resolución de problemas
-  - Empatía
 activity_type:
   - Juego
   - Aprender haciendo

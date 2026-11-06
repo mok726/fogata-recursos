@@ -114,10 +114,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching energy measurement units like joules, kilowatt-hours, and calories, examining electricity and gas bills to understand energy consumption. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching energy measurement. Educational financial literacy scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Alfabetización energética
-  - Análisis numérico
-  - Conciencia de consumo
 activity_type:
   - Investigación
   - Reflexión

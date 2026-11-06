@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Conocimiento sobre preparación
-  - Creatividad
 
 activity_type:
   - Juego

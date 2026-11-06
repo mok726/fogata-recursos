@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Reciclaje de agua
-  - Responsabilidad
-  - Sostenibilidad
 
 activity_type:
   - Servicio a los demás
@@ -118,7 +114,6 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Responsabilidad
 
 scout_values:
   - Sencillez y Austeridad

@@ -140,10 +140,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative kitchen scene with leftover ingredients being transformed into delicious new dishes dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cooking creatively with leftovers and wearing chef hats. Creative cooking environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad culinaria
-  - Conciencia alimentaria
-  - Reducción de desperdicios
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte
@@ -155,10 +151,10 @@ category:
 skills:
   - Salud y autocuidado
   - Creatividad
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Vida Sana y Bienestar
 scout_method:

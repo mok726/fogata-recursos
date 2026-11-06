@@ -117,10 +117,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Families and children having fun with water activities - swimming, playing in the pool, fishing, splashing water, enjoying outdoor recreation with water. Joyful and active scene. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, enjoying water activities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Planificación
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Exploración

@@ -107,9 +107,6 @@ main_type: "Juego"
 image_prompt: "Scouts sitting on a log with the soles of their boots raised while other scouts study them closely, then footprints in soft sand nearby, outdoor afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Memoria
 activity_type:
   - Juego
 category:

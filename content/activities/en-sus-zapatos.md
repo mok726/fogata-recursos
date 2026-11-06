@@ -117,10 +117,6 @@ accessibility: []
 # Nota: Esta actividad requiere consideración médica para personas con condiciones de salud
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Empatía
-  - Reflexión
-  - Conciencia social
 
 activity_type:
   - Reflexión

@@ -125,10 +125,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth crafting their own sunglasses with UV protective film, cutting and assembling paper frames with dark plastic lenses. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making sunglasses. Educational craft scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia sobre salud ocular
-  - Manualidades
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

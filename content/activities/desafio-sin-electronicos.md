@@ -112,10 +112,6 @@ main_type: "Autoconocimiento"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth spending time without electronic devices, engaging in alternative activities like reading, sports, board games, walking, dancing, and helping others. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in an electronics-free challenge. Educational lifestyle change scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconocimiento
-  - Hábitos saludables
-  - Disciplina personal
 activity_type:
   - Autoconocimiento
   - Aprender haciendo
@@ -125,7 +121,7 @@ category:
   - Hábitos
   - Energía
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Planificación y organización
   - Hábitos sostenibles
 

@@ -117,10 +117,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth debating and defining human rights for a new society, with the Universal Declaration of Human Rights as a reference. Educational discussion activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, discussing and writing. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Conciencia de derechos
-  - Debate
 activity_type:
   - Debate / Diálogo
   - Reflexión

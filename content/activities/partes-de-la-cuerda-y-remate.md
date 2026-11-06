@@ -106,9 +106,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Close-up of young scouts' hands whipping the end of a natural fiber rope with waxed twine, on a wooden table outdoors. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Destreza física
 activity_type:
   - Aprender haciendo
 category:

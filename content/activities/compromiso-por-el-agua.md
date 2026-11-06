@@ -106,10 +106,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Persuasión
-  - Seguimiento
 
 activity_type:
   - Servicio a los demás

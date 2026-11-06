@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conocimiento corporal
-  - Creatividad
-  - Escucha
 
 activity_type:
   - Juego
@@ -116,7 +112,7 @@ category:
   - Salud
 
 skills:
-  - Autoconciencia
+  - Autoconocimiento
   - Creatividad
   - Comunicación
 

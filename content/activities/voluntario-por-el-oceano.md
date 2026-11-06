@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Servicio comunitario
-  - Trabajo en equipo
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás
@@ -117,7 +113,6 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Comunicación
 
 scout_values:

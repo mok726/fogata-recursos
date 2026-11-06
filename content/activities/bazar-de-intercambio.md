@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Promoción
-  - Trabajo en equipo
 
 activity_type:
   - Servicio a los demás

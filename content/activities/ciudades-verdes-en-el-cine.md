@@ -122,10 +122,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A screening room with young people watching a documentary about green cities on a big screen with city imagery dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching and discussing a film about green cities. Film viewing and discussion environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Análisis
-  - Comunicación
 activity_type:
   - Reflexión
   - Debate / Diálogo

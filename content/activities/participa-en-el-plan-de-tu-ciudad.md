@@ -119,10 +119,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people participating in a city planning meeting, speaking at a youth council, or engaging with local government officials dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in city planning and advocating for green solutions. Civic participation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Participación ciudadana
-  - Comunicación
-  - Liderazgo
 activity_type:
   - Participación comunitaria
   - Reflexión

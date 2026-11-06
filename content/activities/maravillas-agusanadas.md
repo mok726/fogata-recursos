@@ -107,10 +107,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Experimentación
-  - Conciencia ecológica
 
 activity_type:
   - Experimentación

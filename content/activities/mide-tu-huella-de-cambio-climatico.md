@@ -106,10 +106,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Cálculo
-  - Análisis
-  - Planificación
 
 activity_type:
   - Investigación

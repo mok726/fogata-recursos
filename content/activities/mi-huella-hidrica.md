@@ -119,10 +119,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth calculating their water footprint using an online calculator, learning about direct and indirect water consumption. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, using computers. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Análisis de datos
-  - Responsabilidad
 activity_type:
   - Investigación
   - Reflexión
@@ -133,7 +129,6 @@ category:
 skills:
   - Pensamiento crítico
   - Alfabetización digital
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

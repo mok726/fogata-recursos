@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Identificación de especies
-  - Conciencia ambiental
-  - Habilidades culinarias
 
 activity_type:
   - Aprender haciendo

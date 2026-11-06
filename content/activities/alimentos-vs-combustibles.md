@@ -114,10 +114,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching and debating the biofuel vs food security issue, presenting arguments with research materials, showing both sides of the controversial topic. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, debating food vs fuel. Educational debate scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Investigación
-  - Argumentación
 activity_type:
   - Debate / Diálogo
   - Investigación

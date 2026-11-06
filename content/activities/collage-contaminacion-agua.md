@@ -121,10 +121,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating a collage about water pollution with magazine cutouts showing factories, sewage, oil spills, trash, and polluted water, learning about sources of water contamination. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on their collages. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Creatividad
-  - Pensamiento crítico
 activity_type:
   - Creatividad / Arte
   - Reflexión

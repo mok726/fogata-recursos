@@ -108,10 +108,6 @@ main_type: "Juego"
 image_prompt: "A scout patrol walking through an unfamiliar small town, the patrol member in front holding a paper map and pointing the way, others following, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Orientación
-  - Liderazgo
-  - Trabajo en equipo
 activity_type:
   - Orientación
   - Exploración

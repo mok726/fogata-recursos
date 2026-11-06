@@ -121,10 +121,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de derechos
-  - Investigación
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

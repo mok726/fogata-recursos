@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Investigación
 
 activity_type:
   - Investigación
@@ -132,7 +128,6 @@ category:
 
 skills:
   - Conciencia ambiental
-  - Responsabilidad
   - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

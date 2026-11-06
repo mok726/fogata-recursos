@@ -126,10 +126,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large world map with different ecosystems labeled with climate change impacts dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and labeling a map with climate impacts. Educational mapping environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia geográfica
-  - Investigación
-  - Pensamiento sistémico
 activity_type:
   - Investigación
   - Creatividad / Arte

@@ -103,10 +103,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia global
-  - Mapas
 
 activity_type:
   - Investigación

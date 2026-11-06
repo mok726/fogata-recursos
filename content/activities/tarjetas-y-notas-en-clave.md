@@ -112,8 +112,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting at a table in a scout hall flipping hand-drawn semaphore cards and writing notes in dots and dashes, colored pencils scattered, focused and smiling."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
 activity_type:
   - Juego
   - Comunicación

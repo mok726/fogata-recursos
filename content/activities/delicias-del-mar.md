@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades culinarias
-  - Conciencia de sostenibilidad
-  - Trabajo en equipo
 
 activity_type:
   - Aprender haciendo

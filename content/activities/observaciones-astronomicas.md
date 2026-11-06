@@ -118,10 +118,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A model of Earth orbiting the Sun with adjustable orbital tilt dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a model of Earth's orbit and discussing astronomical influences on climate. Astronomy research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Investigación astronómica
-  - Modelización
 activity_type:
   - Investigación
   - Experimentación

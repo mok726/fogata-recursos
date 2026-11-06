@@ -104,10 +104,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Comunicación
-  - Creatividad
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás

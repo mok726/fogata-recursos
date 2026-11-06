@@ -113,10 +113,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Reflexión
-  - Creatividad
-  - Conciencia ambiental
 
 activity_type:
   - Reflexión

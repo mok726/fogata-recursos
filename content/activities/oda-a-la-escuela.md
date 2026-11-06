@@ -98,10 +98,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Reflexión
-  - Expresión escrita
-  - Conciencia de la importancia educativa
 
 activity_type:
   - Reflexión

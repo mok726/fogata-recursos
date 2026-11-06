@@ -106,10 +106,6 @@ main_type: "Exploración"
 image_prompt: "A group of scouts touring a small local carpentry workshop, an artisan showing them how a machine works while they take notes and sketch, natural light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Comunicación
-  - Investigación
 activity_type:
   - Exploración
   - Investigación

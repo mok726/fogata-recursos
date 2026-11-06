@@ -113,10 +113,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Creatividad
-  - Conocimiento ecológico
 
 activity_type:
   - Creatividad / Arte

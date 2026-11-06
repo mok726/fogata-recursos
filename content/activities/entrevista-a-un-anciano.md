@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Comunicación
-  - Reflexión histórica
-  - Comparación
 
 activity_type:
   - Investigación

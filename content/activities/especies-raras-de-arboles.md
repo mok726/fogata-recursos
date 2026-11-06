@@ -123,10 +123,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A rare native tree being planted with research about its importance to local wildlife dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, planting a rare native tree species and learning about its ecological role. Conservation action environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conservación
-  - Investigación
-  - Responsabilidad
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
@@ -138,7 +134,6 @@ category:
 skills:
   - Investigación
   - Conciencia ambiental
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

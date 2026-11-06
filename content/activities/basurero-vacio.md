@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Reducción de residuos
-  - Planificación
-  - Trabajo en equipo
 
 activity_type:
   - Servicio a los demás

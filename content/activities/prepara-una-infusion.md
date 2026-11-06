@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conocimiento de plantas
-  - Habilidades culinarias
 
 activity_type:
   - Aprender haciendo

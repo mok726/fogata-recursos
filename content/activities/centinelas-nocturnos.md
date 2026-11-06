@@ -108,9 +108,6 @@ main_type: "Juego"
 image_prompt: "Night scene in a forest clearing: a scout sentry standing still listening with a whistle, while other scouts crawl silently through the grass under moonlight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Autocontrol
 activity_type:
   - Juego
 category:

@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Aprendizaje práctico
-  - Conciencia ambiental
-  - Emprendimiento
 
 activity_type:
   - Aprender haciendo

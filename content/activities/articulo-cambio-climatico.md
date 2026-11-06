@@ -113,10 +113,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching and writing newspaper articles about climate change impacts in their community, with laptops, notes, and news clippings. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing climate change articles. Educational journalism scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Comunicación escrita
-  - Conciencia climática
 activity_type:
   - Investigación
   - Reflexión

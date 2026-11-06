@@ -121,10 +121,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a waste sorting system with cardboard boxes, paint cans, and recycled materials, learning about recycling and sustainability. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building the recycling system. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

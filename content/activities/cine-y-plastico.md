@@ -122,10 +122,6 @@ main_type: "Sensibilización"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of youth watching an environmental documentary on a screen, with thoughtful expressions, discussing and taking notes. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching a film about plastic pollution. Educational awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Comunicación
 activity_type:
   - Reflexión
   - Debate / Diálogo

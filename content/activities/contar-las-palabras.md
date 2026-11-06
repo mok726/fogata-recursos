@@ -105,9 +105,6 @@ main_type: "Juego"
 image_prompt: "A scout leader reading aloud from a book in a cozy scout hall while children sit listening intently, some counting on their fingers, warm light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Concentración
-  - Escucha activa
 activity_type:
   - Juego
 category:

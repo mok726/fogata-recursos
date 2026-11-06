@@ -109,10 +109,6 @@ main_type: "Investigación"
 image_prompt: "Scouts walking through their neighborhood marking a printed street map with colored pencils, pointing at a fire hydrant and a pharmacy sign, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de seguridad
-  - Observación
-  - Orientación
 activity_type:
   - Investigación
   - Exploración

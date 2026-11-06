@@ -119,10 +119,6 @@ accessibility:
   - -Motora  # Requiere caminata en terreno costero
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Conciencia ecológica
-  - Observación
 
 activity_type:
   - Investigación

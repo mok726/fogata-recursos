@@ -110,10 +110,6 @@ main_type: "Juego"
 image_prompt: "Close-up of trail signs on a forest path made of a small stone stacked on a larger stone, a knotted grass tuft and a broken twig pointing, scouts' boots approaching. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Observación
-  - Comunicación
 activity_type:
   - Juego
   - Exploración

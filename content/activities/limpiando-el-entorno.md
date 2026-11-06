@@ -118,10 +118,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of youth cleaning up a park, beach, riverbank or field, wearing protective gloves and using biodegradable bags to collect trash. Documenting their findings with cameras and notebooks. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a community cleanup. Environmental service scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Servicio comunitario
-  - Conciencia ambiental
-  - Trabajo en equipo
 activity_type:
   - Servicio a los demás
   - Aprender haciendo
@@ -132,7 +128,6 @@ category:
   - Plásticos
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Conciencia ambiental
   - Liderazgo
 

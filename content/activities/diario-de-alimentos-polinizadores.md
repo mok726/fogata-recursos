@@ -122,10 +122,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A food diary layout showing a day's meals with notes about how each item was produced and its connection to pollinators dominates the composition. Left side contains open negative space reserved for website interface elements. A person researching food production on a laptop in the background, seen from a distance, positioned on the right side. The scene has a clean, organized study atmosphere with natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia alimentaria
-  - Investigación
-  - Pensamiento crítico
 activity_type:
   - Investigación
   - Reflexión

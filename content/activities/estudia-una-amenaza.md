@@ -110,10 +110,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Análisis de datos
 
 activity_type:
   - Investigación

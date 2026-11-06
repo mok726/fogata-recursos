@@ -108,9 +108,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A wooden knot board hanging on a scout den wall, with neatly tied rope knots and handwritten labels, a patrol proudly standing beside it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Planificación

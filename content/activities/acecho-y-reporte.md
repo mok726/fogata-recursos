@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. An adult standing in an open meadow holding binoculars and a flag, while scouts crawl and hide behind bushes and tall grass around him, watching closely. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Comunicación
-  - Autocontrol
 activity_type:
   - Juego
 category:

@@ -118,10 +118,6 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A forest exploration scene with people looking up, down, listening, and touching nature dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, walking through a forest using all their senses to observe nature. Forest exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia sensorial
-  - Conciencia ambiental
 activity_type:
   - Exploración
   - Aprender haciendo

@@ -108,10 +108,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Scouts gathered around a campfire at night, one patrol performing a short skit while others laugh and clap, sparks rising into a starry sky."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Expresión artística
-  - Trabajo en equipo
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Dinámica de grupos

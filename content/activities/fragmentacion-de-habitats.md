@@ -118,10 +118,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fragmented landscape showing habitat patches with different stakeholders debating environmental impacts dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, role-playing stakeholders in a habitat fragmentation debate. Environmental policy debate environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Debate
-  - Pensamiento crítico
-  - Empatía
 activity_type:
   - Debate / Diálogo
   - Simulación

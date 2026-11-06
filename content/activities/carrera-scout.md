@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A scout running across a field with a compass and clipboard, three small groups of people far away in different poses near trees and a fence. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Orientación
-  - Comunicación
 activity_type:
   - Juego
   - Orientación

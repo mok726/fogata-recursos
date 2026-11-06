@@ -108,9 +108,6 @@ main_type: "Juego"
 image_prompt: "Scouts gathered around a table looking at printed photos of neighborhood details like a weathervane, a carved door and a tree, guessing the places, indoor scout hall."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia social
 activity_type:
   - Juego
 category:

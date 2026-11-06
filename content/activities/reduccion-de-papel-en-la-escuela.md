@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Reducción de papel
-  - Organización
-  - Conciencia ambiental
 
 activity_type:
   - Servicio a los demás

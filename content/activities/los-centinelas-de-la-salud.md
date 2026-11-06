@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Responsabilidad
-  - Planificación
 
 activity_type:
   - Reflexión
@@ -133,7 +129,7 @@ category:
 
 skills:
   - Planificación y organización
-  - Autoconciencia
+  - Autoconocimiento
   - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

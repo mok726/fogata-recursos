@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Conciencia global
-  - Investigación
-  - Análisis geográfico
 
 activity_type:
   - Investigación

@@ -97,10 +97,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación no verbal
 
 activity_type:
   - Juego

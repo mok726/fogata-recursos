@@ -116,10 +116,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A home environment with youth examining everyday products like tennis balls, tea bags, wet wipes, glitter, face wash, and laundry tablets, looking for microplastics. Using the Beat the Microbead app to check products. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a microplastic investigation. Educational consumer awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre salud
-  - Consumo crítico
-  - Investigación científica
 activity_type:
   - Investigación
   - Reflexión

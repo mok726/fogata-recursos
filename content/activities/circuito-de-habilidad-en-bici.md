@@ -98,20 +98,17 @@ main_type: "Juego"
 image_prompt: "Scouts in Scout Association of Argentina uniforms wearing helmets riding bicycles through a slalom of orange cones on a closed sports court, other scouts cheering from the side, sunny day, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Juego
   - Salud
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Responsabilidad y Compromiso
   - Vida Sana y Bienestar
   - Superación Personal y Perseverancia
   - Espíritu Aventurero

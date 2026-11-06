@@ -107,10 +107,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. A scout carefully sneaking along a hedge holding an envelope, while other scouts watch the paths from behind trees near a small hut that is the goal. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Estrategia
-  - Trabajo en equipo
-  - Observación
 activity_type:
   - Juego
 category:

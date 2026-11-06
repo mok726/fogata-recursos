@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Comprensión lectora
-  - Reflexión
-  - Expresión escrita
 
 activity_type:
   - Reflexión

@@ -108,9 +108,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A patrol of scouts holding a rope line together, each with a loop around the hand, tied between trees in a camp, one scout tying a clove hitch on a tree. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Trabajo en equipo
 activity_type:
   - Aprender haciendo
   - Dinámica de grupos

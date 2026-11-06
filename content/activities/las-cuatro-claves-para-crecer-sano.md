@@ -113,9 +113,6 @@ main_type: "Reflexión"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sorting picture cards of fruit, vegetables, sweets and outdoor play under four hand-drawn posters on a scout hall wall, others outside taking deep breaths with arms raised, bright and cheerful."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Responsabilidad
 activity_type:
   - Reflexión
   - Salud

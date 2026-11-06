@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Monitoreo
-  - Conciencia energética
-  - Análisis
 
 activity_type:
   - Investigación
@@ -120,7 +116,6 @@ category:
 skills:
   - Observación
   - Pensamiento crítico
-  - Responsabilidad
 
 scout_values:
   - Responsabilidad y Compromiso

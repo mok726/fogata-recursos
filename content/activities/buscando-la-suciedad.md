@@ -101,10 +101,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Comunicación
 
 activity_type:
   - Investigación

@@ -120,10 +120,6 @@ accessibility:
   - -Motora  # Requiere actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia de salud
-  - Organización
 
 activity_type:
   - Juego

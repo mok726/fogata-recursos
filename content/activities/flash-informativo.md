@@ -117,10 +117,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Redacción
-  - Diseño
-  - Conciencia social
 
 activity_type:
   - Investigación

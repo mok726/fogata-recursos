@@ -127,10 +127,6 @@ accessibility:
   - -Motora  # Requiere caminata
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Cartografía
-  - Conciencia del paisaje
 
 activity_type:
   - Investigación

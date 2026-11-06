@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Experimentación
-  - Observación
-  - Comprensión de erosión
 
 activity_type:
   - Experimentación

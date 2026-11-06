@@ -119,10 +119,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of young people sitting in a circle discussing plastic waste, holding reusable water bottles and shopping bags, a whiteboard with the 3R symbols. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia sobre el consumo de plástico
-  - Pensamiento crítico sobre hábitos cotidianos
-  - Capacidad de autoevaluación
 activity_type:
   - Reflexión
   - Sensibilización
@@ -134,7 +130,7 @@ category:
 skills:
   - Conciencia ambiental
   - Pensamiento crítico
-  - Autoconciencia
+  - Autoconocimiento
   - Comunicación
 
 # ========== VALORES SCOUT ==========

@@ -117,10 +117,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a homemade battery using a potato, a nail, a coin, and metal wires, learning about electricity and circuits with adult supervision. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, constructing a potato battery. Educational science experiment scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Experimentación
-  - Comprensión de circuitos
 activity_type:
   - Experimentación
   - Aprender haciendo

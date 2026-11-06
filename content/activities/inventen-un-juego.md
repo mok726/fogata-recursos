@@ -120,10 +120,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Conocimiento nutricional
 
 activity_type:
   - Juego

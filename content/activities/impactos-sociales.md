@@ -113,10 +113,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching the social impacts of power plants, interviewing community members, reading articles, and presenting findings about positive and negative effects. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching social impacts of energy. Educational social research scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis social
-  - Pensamiento crítico
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

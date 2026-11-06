@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Investigación
-  - Escritura
 
 activity_type:
   - Investigación

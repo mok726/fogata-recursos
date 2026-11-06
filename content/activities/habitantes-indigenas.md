@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cultural
-  - Creatividad
-  - Trabajo en equipo
 
 activity_type:
   - Creatividad / Arte

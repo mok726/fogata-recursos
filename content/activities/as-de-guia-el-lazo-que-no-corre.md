@@ -105,9 +105,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A scout showing a bowline knot loop around her own waist in a forest clearing while a patrol practices with ropes around a tree. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Destreza física
 activity_type:
   - Aprender haciendo
   - Juego

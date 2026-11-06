@@ -117,10 +117,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth brainstorming alternatives to plastic products in a classroom, writing ideas on a chalkboard, educational environmental scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico sobre consumo
-  - Identificación de alternativas sostenibles
-  - Trabajo en equipo
 activity_type:
   - Reflexión
   - Sensibilización

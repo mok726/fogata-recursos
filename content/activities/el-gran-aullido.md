@@ -110,9 +110,6 @@ main_type: "Dinámica de grupos"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, crouching in a big circle on grass with two fingers raised beside their heads like wolf ears, howling joyfully toward an adult leader standing in the center next to a small circle of stones and a wooden totem pole topped with a carved wolf head, warm afternoon light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Comunicación
 activity_type:
   - Dinámica de grupos
 category:

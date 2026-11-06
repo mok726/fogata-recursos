@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Diseño de actividades
-  - Conciencia ecológica
-  - Apreciación de la naturaleza
 
 activity_type:
   - Exploración

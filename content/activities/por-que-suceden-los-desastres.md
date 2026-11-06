@@ -105,10 +105,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Comunicación
 
 activity_type:
   - Investigación

@@ -119,10 +119,6 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A rural farm or village with young people exploring and talking to local farmers about their relationship with the city dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, visiting a rural area and learning about urban-rural connections. Field trip exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Conciencia rural-urbana
-  - Investigación
 activity_type:
   - Exploración
   - Aprender haciendo

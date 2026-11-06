@@ -1,9 +1,9 @@
-{# Página de detalle (ODS, rama, competencia, valor, método, tipo)
+{# Página de detalle (ODS, rama, habilidad, valor, método, tipo)
    con el mismo aspecto y los mismos filtros que /activities/.
    Espera heroTitle, heroKicker (opcional), heroText (opcional),
    heroImage (opcional), browserItems y fixed (ver
    components/activity-browser.njk). Opcional: criteria, con
-   question, when (lista) y notWhen: el criterio para asignar
+   question, when (lista), notWhen (texto o lista) y frontier: el criterio para asignar
    la categoría a una actividad. #}
 <div class="acts acts-detail" data-pagefind-ignore="all">
 
@@ -40,7 +40,13 @@
   <ul>
     {% for w in criteria.when %}<li>{{ w }}</li>{% endfor %}
   </ul>
-  {% if criteria.notWhen %}<p><strong>No corresponde:</strong> {{ criteria.notWhen }}</p>{% endif %}
+  {% if criteria.notWhen and (criteria.notWhen is not string) %}
+  <p>No corresponde cuando:</p>
+  <ul>
+    {% for w in criteria.notWhen %}<li>{{ w }}</li>{% endfor %}
+  </ul>
+  {% elif criteria.notWhen %}<p><strong>No corresponde:</strong> {{ criteria.notWhen }}</p>{% endif %}
+  {% if criteria.frontier %}<p><strong>Frontera:</strong> {{ criteria.frontier }}</p>{% endif %}
 </details>
 {% endif %}
 

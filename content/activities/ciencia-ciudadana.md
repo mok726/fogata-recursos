@@ -112,10 +112,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Investigación
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

@@ -112,10 +112,6 @@ main_type: "Exploración"
 image_prompt: "Scouts examining a rocky overhang at the edge of a forest, one pouring water from a bottle over a few dead branches leaned against the rock with their tips pointing down. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Resolución de problemas
-  - Observación
 activity_type:
   - Exploración
   - Planificación

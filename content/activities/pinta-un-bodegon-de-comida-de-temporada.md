@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conocimiento de alimentos
-  - Observación
 
 activity_type:
   - Creatividad / Arte

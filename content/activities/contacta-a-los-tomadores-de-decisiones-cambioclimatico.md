@@ -120,10 +120,6 @@ main_type: "Participación comunitaria"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A letter being written to government officials about climate policy with stamps and envelopes dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing and sending letters to decision-makers. Civic engagement environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Participación ciudadana
-  - Comunicación
-  - Liderazgo
 activity_type:
   - Participación comunitaria
   - Servicio a los demás

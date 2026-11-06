@@ -124,10 +124,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Autoconciencia
-  - Análisis nutricional
-  - Planificación
 
 activity_type:
   - Investigación
@@ -141,7 +137,7 @@ category:
 
 skills:
   - Observación
-  - Autoconciencia
+  - Autoconocimiento
   - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

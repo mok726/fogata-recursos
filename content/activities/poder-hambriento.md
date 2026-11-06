@@ -117,10 +117,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth playing a game with a world map, closing eyes and pointing to countries, learning about energy access and energy poverty around the world. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a game about global energy access. Educational geography game scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia global
-  - Geografía energética
-  - Pensamiento crítico
 activity_type:
   - Juego
   - Investigación

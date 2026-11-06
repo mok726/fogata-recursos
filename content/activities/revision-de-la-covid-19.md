@@ -119,10 +119,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A reflection scene with people discussing the impact of COVID-19 on city life and how cities can better respond to pandemics dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, reading and discussing pandemic lessons. Reflective learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Resiliencia
-  - Conciencia social
 activity_type:
   - Reflexión
   - Debate / Diálogo

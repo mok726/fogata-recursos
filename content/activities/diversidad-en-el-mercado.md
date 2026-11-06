@@ -119,10 +119,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful market with diverse fruits, vegetables, and grains showing species and genetic diversity dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring the market and recording different varieties of foods. Market research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Conciencia alimentaria
 activity_type:
   - Investigación
   - Exploración

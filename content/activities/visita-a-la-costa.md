@@ -126,10 +126,6 @@ accessibility:
   - -Motora  # Requiere caminata en terreno irregular
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Identificación de especies
-  - Conciencia marina
 
 activity_type:
   - Exploración

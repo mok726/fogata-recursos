@@ -117,10 +117,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a watershed model with rocks, aluminum foil, and water, observing how water flows through the landscape and collects at the bottom. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a watershed model. Educational hands-on science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
-  - Comprensión de sistemas
 activity_type:
   - Experimentación
   - Aprender haciendo

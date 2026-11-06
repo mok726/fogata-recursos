@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cultural
-  - Investigación
-  - Comparación
 
 activity_type:
   - Investigación

@@ -101,10 +101,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Reciclaje
-  - Expresión artística
 
 activity_type:
   - Creatividad / Arte

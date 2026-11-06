@@ -118,10 +118,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A shopping scene with reusable bags and products with minimal packaging dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing shopping habits and taking notes. Smart shopping education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Consumo responsable
-  - Observación
-  - Comunicación
 activity_type:
   - Aprender haciendo
   - Investigación
@@ -133,7 +129,6 @@ category:
 skills:
   - Observación
   - Comunicación
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

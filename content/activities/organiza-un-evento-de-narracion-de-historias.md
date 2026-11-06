@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Creatividad
-  - Comunicación
 
 activity_type:
   - Creatividad / Arte

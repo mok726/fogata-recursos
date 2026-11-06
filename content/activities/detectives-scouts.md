@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Scouts acting as detectives examining clues in a staged room: footprints, a spent match and scattered papers, one with a magnifying glass, warm lamp light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Pensamiento crítico
-  - Resolución de problemas
 activity_type:
   - Juego
   - Simulación

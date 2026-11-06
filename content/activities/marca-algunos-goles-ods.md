@@ -129,10 +129,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large poster with the 17 Sustainable Development Goals, with youth adding connections between each goal and plastic pollution. Creative brainstorming session with colorful markers and images. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on an SDG poster. Educational global awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia global
-  - Pensamiento sistémico
-  - Creatividad
 activity_type:
   - Reflexión
   - Creatividad / Arte

@@ -118,10 +118,6 @@ accessibility:
   - -Motora  # Requiere actividad física
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación
-  - Trabajo en equipo
-  - Conciencia ambiental
 
 activity_type:
   - Aprender haciendo

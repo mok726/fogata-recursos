@@ -120,10 +120,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Informative and colorful signs about local pollinators displayed in a park, showing which species live in the area and how to help them dominates the composition. Left side contains open negative space reserved for website interface elements. People reading the signs and observing pollinators in the park in the background, seen from a distance, positioned on the right side. The scene has a community education atmosphere with bright outdoor lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Comunicación
-  - Conciencia ambiental
 activity_type:
   - Creatividad / Arte
   - Sensibilización

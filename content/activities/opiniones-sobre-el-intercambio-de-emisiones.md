@@ -117,10 +117,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A carbon trading market with graphs showing emissions credits being exchanged dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting their research and debating emissions trading. Economic policy research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Investigación
-  - Argumentación
 activity_type:
   - Debate / Diálogo
   - Investigación

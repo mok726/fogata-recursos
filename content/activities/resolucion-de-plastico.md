@@ -114,10 +114,6 @@ main_type: "Compromiso"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of scouts holding up signs with commitments to reduce plastic, collective action, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Capacidad de compromiso con el cambio
-  - Conciencia sobre el consumo responsable
-  - Trabajo en equipo
 activity_type:
   - Reflexión
   - Sensibilización
@@ -127,8 +123,7 @@ category:
   - Cambio de hábitos
   - Plásticos
 skills:
-  - Autoconciencia
-  - Responsabilidad
+  - Autoconocimiento
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

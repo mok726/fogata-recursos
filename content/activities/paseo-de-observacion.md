@@ -111,9 +111,6 @@ main_type: "Exploración"
 image_prompt: "A scout leader walking with a small patrol along a rural road pointing out a distant church steeple and trees, children looking and taking notes, morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Memoria
 activity_type:
   - Exploración
   - Aprender haciendo

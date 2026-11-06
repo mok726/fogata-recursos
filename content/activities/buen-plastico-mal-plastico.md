@@ -118,10 +118,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A split composition showing different plastic items: on one side safe reusable plastics like helmets and eyeglasses, on the other side harmful single-use plastics like straws and bags scattered in a polluted environment. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, examining and comparing plastic items. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Consumo responsable
 activity_type:
   - Reflexión
   - Debate / Diálogo

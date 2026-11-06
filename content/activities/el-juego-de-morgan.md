@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Children in a park looking carefully at a colorful poster board with many drawings for one minute while an adult holds a stopwatch. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Comunicación
-  - Memoria
 activity_type:
   - Juego
 category:

@@ -102,10 +102,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conciencia de residuos
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

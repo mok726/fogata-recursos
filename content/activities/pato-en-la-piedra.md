@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Children scouts throwing small sandbags at a plastic bottle balanced on a tree stump while a guardian scout stands beside it, a chalk line on the ground. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Destreza física
-  - Trabajo en equipo
 activity_type:
   - Juego
 category:

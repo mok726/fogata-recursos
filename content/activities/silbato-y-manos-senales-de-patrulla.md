@@ -111,9 +111,6 @@ main_type: "Juego"
 image_prompt: "A scout leader on a field raising one arm straight up with a whistle in mouth, patrols of scouts in the distance stopping and raising their hands. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Comunicación
 activity_type:
   - Juego
   - Dinámica de grupos

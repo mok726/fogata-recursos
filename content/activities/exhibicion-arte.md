@@ -114,10 +114,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating art projects about energy using recycled materials, displaying artwork in a community space like a school or library with information about why energy is important. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting an energy art exhibition. Educational creative scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia energética
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Sensibilización

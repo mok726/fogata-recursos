@@ -116,10 +116,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth holding up green and red voting cards, expressing agreement or disagreement with statements about sustainable living, while the facilitator leads the discussion. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, voting on sustainability topics. Educational debate scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
-  - Pensamiento sistémico
 activity_type:
   - Debate / Diálogo
   - Juego

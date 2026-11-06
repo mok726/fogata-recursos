@@ -129,10 +129,6 @@ accessibility:
   - -Motora  # Requiere trabajo físico
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Conciencia alimentaria
-  - Responsabilidad
 
 activity_type:
   - Aprender haciendo
@@ -146,7 +142,6 @@ category:
 
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

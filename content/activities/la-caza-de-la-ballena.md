@@ -108,10 +108,6 @@ main_type: "Juego"
 image_prompt: "Two rowing boats full of scouts in life jackets racing on a calm lake toward a floating log carved like a whale, splashing oars, bright day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Disciplina
-  - Comunicación
 activity_type:
   - Juego
   - Actividad física

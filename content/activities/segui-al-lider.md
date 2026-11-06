@@ -107,9 +107,6 @@ main_type: "Juego"
 image_prompt: "A long line of cub scouts jogging in a spiral pattern on a field at dusk, each holding a small paper lantern on a stick, joyful atmosphere."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Coordinación
 activity_type:
   - Actividad física
   - Dinámica de grupos

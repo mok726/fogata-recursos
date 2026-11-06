@@ -117,10 +117,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Three pans with dark soil, light sand, and water under a lamp or sunlight, with thermometers measuring temperature differences. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting an experiment on heat absorption. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación experimental
-  - Conciencia climática
 activity_type:
   - Experimentación
   - Investigación

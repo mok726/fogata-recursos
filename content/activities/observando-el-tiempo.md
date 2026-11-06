@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Conexión clima-suelo
-  - Paciencia
 
 activity_type:
   - Investigación

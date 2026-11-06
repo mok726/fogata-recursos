@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Consumo responsable
-  - Conciencia del papel
-  - Reciclaje
 
 activity_type:
   - Servicio a los demás

@@ -122,10 +122,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children digging in a garden, burying various waste materials for a science experiment, educational environmental research scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión de procesos de degradación
-  - Habilidades de investigación científica
-  - Pensamiento crítico sobre residuos
 activity_type:
   - Experimentación
   - Investigación

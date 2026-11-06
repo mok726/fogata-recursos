@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Comprensión lectora
-  - Reflexión
-  - Análisis literario
 
 activity_type:
   - Reflexión

@@ -114,8 +114,6 @@ main_type: "Exploración"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, walking along a tree-lined neighborhood street with an adult leader holding a clipboard, one child whispering in the leader's ear while pointing at a bird nest, autumn light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
 activity_type:
   - Exploración
   - Juego

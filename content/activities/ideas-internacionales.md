@@ -117,10 +117,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A cultural exchange scene with people from different countries sharing sustainable practices dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, discussing and comparing green habits from different countries. Cultural exchange environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia cultural
-  - Comunicación intercultural
-  - Aprendizaje colaborativo
 activity_type:
   - Investigación
   - Reflexión

@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Pensamiento crítico
-  - Argumentación
-  - Conciencia económica
 
 activity_type:
   - Debate / Diálogo

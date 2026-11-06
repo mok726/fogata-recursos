@@ -125,10 +125,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A bat house installed on a tree or building with bats flying nearby dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building and installing a bat house. Conservation construction environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades manuales
-  - Conciencia ambiental
-  - Observación
 activity_type:
   - Aprender haciendo
   - Creatividad / Arte

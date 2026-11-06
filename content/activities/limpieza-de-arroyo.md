@@ -127,10 +127,6 @@ main_type: "Servicio a los demás"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a stream cleanup with gloves and bags, removing trash from the water and banks, learning about environmental stewardship. Active outdoor community service activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cleaning the stream. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Responsabilidad
-  - Servicio comunitario
 activity_type:
   - Servicio a los demás
   - Aprender haciendo
@@ -141,7 +137,6 @@ category:
   - Comunidad
 skills:
   - Trabajo en equipo
-  - Responsabilidad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========

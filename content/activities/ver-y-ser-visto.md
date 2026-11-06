@@ -102,9 +102,6 @@ main_type: "Experimentación"
 image_prompt: "At night in an open field, scouts in Scout Association of Argentina uniforms shining a flashlight toward three distant volunteers, one in dark clothes barely visible, one in white, one with a bright glowing reflective vest, starry sky, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Experimentación
   - Aprender haciendo
@@ -112,7 +109,6 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

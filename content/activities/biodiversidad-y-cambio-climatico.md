@@ -121,10 +121,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Trees capturing carbon dioxide from the air with a diagram showing how biodiversity helps reduce climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating a video or poster about biodiversity and climate. Environmental education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Conciencia climática
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Sensibilización

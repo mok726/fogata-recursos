@@ -106,9 +106,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts shortening a tent guy rope with a sheepshank knot beside a pitched tent in a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Destreza física
 activity_type:
   - Aprender haciendo
 category:

@@ -99,10 +99,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Negociación
-  - Pensamiento crítico
-  - Conciencia global
 
 activity_type:
   - Debate / Diálogo

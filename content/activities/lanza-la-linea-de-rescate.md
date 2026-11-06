@@ -108,9 +108,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Scouts on a grassy riverbank practicing throwing a rescue rope toward a cardboard target shaped like a swimmer's head and arms, an adult instructor watching, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia de seguridad
-  - Habilidades prácticas
 activity_type:
   - Aprender haciendo
   - Juego

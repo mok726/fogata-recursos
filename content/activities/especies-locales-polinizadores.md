@@ -120,10 +120,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A stunning macro photograph of a local pollinator species like a native bee or butterfly on a flower in its natural habitat dominates the composition. Left side contains open negative space reserved for website interface elements. A collage of other local pollinator species in the background, seen from a distance, positioned on the right side. The scene shows rich biodiversity with vibrant colors and natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Fotografía
-  - Conciencia ambiental
 activity_type:
   - Investigación
   - Exploración

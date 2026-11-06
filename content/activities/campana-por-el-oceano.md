@@ -103,10 +103,6 @@ participants: "4-25"
 
 accessibility: []
 
-competencies:
-  - Comunicación
-  - Organización
-  - Acción comunitaria
 
 activity_type:
   - Servicio a los demás

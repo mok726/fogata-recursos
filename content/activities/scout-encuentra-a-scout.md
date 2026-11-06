@@ -108,10 +108,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner. Two scout patrols in a wide field with tall grass and trees, one patrol leader raising a small flag after spotting the other team hidden behind bushes. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Trabajo en equipo
-  - Estrategia
 activity_type:
   - Juego
 category:

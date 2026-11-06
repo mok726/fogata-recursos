@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Planificación financiera
-  - Conciencia social
-  - Pensamiento crítico
 
 activity_type:
   - Investigación

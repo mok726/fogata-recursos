@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, acting out a jungle play in a scout hall: a child playing a proud tiger in the center of a ring of children bowing like jackals, while a calm child playing Mowgli approaches slowly pointing a finger, playful theatrical mood."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Pensamiento crítico
 activity_type:
   - Juego
   - Creatividad / Arte

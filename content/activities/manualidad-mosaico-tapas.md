@@ -121,10 +121,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating colorful mosaic art using plastic bottle caps on cardboard, the caps are sorted by color, creative crafting scene with bright colors. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad y expresión artística
-  - Conciencia sobre reutilización y reciclaje
-  - Trabajo en equipo
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

@@ -115,10 +115,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Vocabulario
-  - Creatividad
-  - Comunicación
 
 activity_type:
   - Juego

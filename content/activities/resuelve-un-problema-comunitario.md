@@ -100,10 +100,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Liderazgo
-  - Organización
-  - Resolución de problemas
 
 activity_type:
   - Servicio a los demás

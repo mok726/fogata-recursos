@@ -97,10 +97,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Expresión musical
-  - Trabajo en equipo
 
 activity_type:
   - Creatividad / Arte

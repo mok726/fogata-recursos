@@ -120,10 +120,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A camouflaged hide near a lake or stream where children observe wildlife unnoticed dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a hide and observing animals near the water. Wildlife observation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades manuales
-  - Observación
-  - Paciencia
 activity_type:
   - Aprender haciendo
   - Exploración

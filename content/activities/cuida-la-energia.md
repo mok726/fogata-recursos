@@ -117,10 +117,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A household energy audit with charts showing energy savings and tips dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, tracking energy usage and implementing energy-saving habits at home. Energy conservation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia energética
-  - Observación
-  - Planificación
 activity_type:
   - Investigación
   - Reflexión
@@ -132,7 +128,6 @@ category:
 skills:
   - Observación
   - Planificación y organización
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

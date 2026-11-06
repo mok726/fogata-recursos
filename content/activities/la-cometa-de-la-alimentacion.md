@@ -120,10 +120,6 @@ accessibility:
   - -Motora  # Requiere actividad manual
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
 
 activity_type:
   - Creatividad / Arte

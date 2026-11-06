@@ -109,9 +109,6 @@ main_type: "Juego"
 image_prompt: "Two lines of scouts passing buckets of water hand to hand in a sunny schoolyard, filling a large barrel, splashing and laughing."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Coordinación
 activity_type:
   - Juego
   - Aprender haciendo

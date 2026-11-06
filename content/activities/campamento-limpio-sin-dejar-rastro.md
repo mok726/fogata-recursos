@@ -113,9 +113,6 @@ main_type: "Reflexión"
 image_prompt: "Scouts cleaning up a forest campsite at the end of camp, carrying sorted trash bags, the ground left clean, a cold fire ring. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Conciencia ambiental
 activity_type:
   - Reflexión
   - Aprender haciendo

@@ -123,10 +123,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the connection between pollinators and multiple SDGs with icons and illustrations dominates the composition. Left side contains open negative space reserved for website interface elements. The 17 SDG icons linked to pollinators through a network of lines in the background, seen from a distance, positioned on the right side. The scene has an educational, inspiring atmosphere with bright colors and a sense of global connection. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia global
-  - Pensamiento crítico
-  - Creatividad
 activity_type:
   - Reflexión
   - Creatividad / Arte

@@ -117,10 +117,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A radio script about biodiversity being written and recorded with microphones and headphones dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing and recording a radio script about local biodiversity. Media production environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comunicación
-  - Creatividad
-  - Conciencia ambiental
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

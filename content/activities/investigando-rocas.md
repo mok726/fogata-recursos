@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Observación
-  - Conocimiento geológico
 
 activity_type:
   - Investigación

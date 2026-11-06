@@ -116,10 +116,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Investigación
-  - Diseño gráfico
-  - Comunicación
 
 activity_type:
   - Investigación

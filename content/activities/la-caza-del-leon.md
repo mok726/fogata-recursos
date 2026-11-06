@@ -109,10 +109,6 @@ main_type: "Juego"
 image_prompt: "A scout patrol following a trail of corn kernels through a forest, each holding a tennis ball, one scout hiding behind a tree ahead, dappled sunlight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
-  - Observación
-  - Estrategia
 activity_type:
   - Juego
 category:

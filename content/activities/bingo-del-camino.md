@@ -112,8 +112,6 @@ main_type: "Juego"
 image_prompt: "Scouts looking out of a bus window at the countryside, pointing excitedly at horses and a hawk in the sky, one keeping score on a notepad. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
 activity_type:
   - Juego
   - Exploración

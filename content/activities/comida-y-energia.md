@@ -114,10 +114,6 @@ main_type: "Aprender haciendo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching and cooking a low-energy meal with local, seasonal, vegetarian ingredients, comparing energy consumption of different foods. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, preparing an energy-efficient meal. Educational cooking scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Habilidades culinarias
-  - Conciencia energética
-  - Planificación
 activity_type:
   - Aprender haciendo
   - Investigación

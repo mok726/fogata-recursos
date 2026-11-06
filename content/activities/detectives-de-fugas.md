@@ -119,10 +119,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children acting as leak detectives with measuring cylinders and stopwatches, checking faucets for drips and calculating wasted water. Educational investigation activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, detecting leaks. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Cálculo matemático
-  - Responsabilidad
 activity_type:
   - Investigación
   - Aprender haciendo
@@ -133,7 +129,6 @@ category:
 skills:
   - Observación
   - Resolución de problemas
-  - Responsabilidad
 
 # ========== VALORES SCOUT ==========
 scout_values:

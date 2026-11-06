@@ -114,10 +114,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth simulating grocery shopping with limited budget, using supermarket flyers and calculators, learning about poverty and food insecurity. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, planning their shopping list. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Pensamiento crítico
-  - Empatía
 activity_type:
   - Reflexión
   - Simulación

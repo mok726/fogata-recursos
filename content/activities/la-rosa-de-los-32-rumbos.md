@@ -106,9 +106,6 @@ main_type: "Juego"
 image_prompt: "A large compass rose drawn in chalk on a schoolyard, scouts standing on different points while one calls out directions. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Observación
 activity_type:
   - Orientación
   - Juego

@@ -102,10 +102,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Investigación
-  - Organización
-  - Solidaridad
 
 activity_type:
   - Servicio a los demás

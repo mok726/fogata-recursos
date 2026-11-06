@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Creatividad
-  - Conciencia energética
-  - Responsabilidad
 
 activity_type:
   - Servicio a los demás

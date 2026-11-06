@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Construcción
-  - Reciclaje
-  - Jardinería
 
 activity_type:
   - Aprender haciendo

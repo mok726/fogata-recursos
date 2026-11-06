@@ -117,10 +117,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a vocabulary game about water, with red paper droplets and a basket, learning key terms about water scarcity and sanitation. Educational game activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing the game. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Comprensión de conceptos
-  - Comunicación
-  - Pensamiento crítico
 activity_type:
   - Juego
   - Dinámica de grupos

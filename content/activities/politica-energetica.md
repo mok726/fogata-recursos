@@ -112,10 +112,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching national energy policies, reading policy texts, analyzing government initiatives for renewable energy and emissions reduction, and discussing improvements with the group. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching energy policy. Educational civic engagement scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis político
-  - Pensamiento crítico
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

@@ -111,10 +111,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth playing a word guessing game about energy terms, taking turns drawing cards and explaining or acting out words like 'renewable', 'clean', and 'sustainable'. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing an energy vocabulary game. Educational word game scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Vocabulario energético
-  - Comunicación
-  - Creatividad
 activity_type:
   - Juego
   - Comunicación

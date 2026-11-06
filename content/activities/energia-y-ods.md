@@ -122,10 +122,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching the Sustainable Development Goals, connecting each goal to energy access and sustainability, brainstorming and recording ideas on posters. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching SDG connections to energy. Educational global awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia global
-  - Pensamiento sistémico
-  - Investigación
 activity_type:
   - Investigación
   - Reflexión

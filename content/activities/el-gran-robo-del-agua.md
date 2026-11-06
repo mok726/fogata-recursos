@@ -122,10 +122,6 @@ main_type: "Simulación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a water rights simulation with buckets and bowls, learning about water conflicts and allocation. Educational simulation activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in the simulation. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Negociación
-  - Pensamiento crítico
-  - Conciencia social
 activity_type:
   - Simulación
   - Debate / Diálogo

@@ -112,9 +112,6 @@ main_type: "Experimentación"
 image_prompt: "Scouts laying out layers of outdoor clothing on a tarp in a camp, wool sweater, base layer, windbreaker, comparing fabrics. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Técnicas scout
-  - Pensamiento científico
 activity_type:
   - Experimentación
   - Aprender haciendo

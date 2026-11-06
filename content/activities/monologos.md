@@ -100,10 +100,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Argumentación
-  - Pensamiento crítico
-  - Trabajo en equipo
 
 activity_type:
   - Debate / Diálogo

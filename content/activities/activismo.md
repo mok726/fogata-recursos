@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Activismo digital
-  - Comunicación
-  - Conciencia social
 
 activity_type:
   - Sensibilización

@@ -122,10 +122,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating posters about plastic pollution in the ocean, drawing marine life affected by plastic, educational environmental art activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad y expresión artística
-  - Conciencia sobre contaminación marina
-  - Habilidades de comunicación
 activity_type:
   - Creatividad / Arte
   - Sensibilización

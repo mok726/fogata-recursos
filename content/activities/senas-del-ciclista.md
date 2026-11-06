@@ -96,9 +96,6 @@ main_type: "Aprender haciendo"
 image_prompt: "A teenage scout in Scout Association of Argentina uniform and helmet riding a bicycle on a closed court with the left arm fully extended to signal a turn, other scouts watching and practicing the same gesture on foot, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Aprender haciendo
   - Juego
@@ -106,7 +103,6 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========

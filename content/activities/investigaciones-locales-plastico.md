@@ -115,10 +115,6 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A neighborhood or town with youth walking through streets, parks, and rivers observing and documenting plastic litter, taking photos and notes. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a local plastic investigation. Community environmental survey scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación comunitaria
-  - Análisis ambiental
-  - Ciudadanía activa
 activity_type:
   - Investigación
   - Exploración

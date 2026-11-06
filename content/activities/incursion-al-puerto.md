@@ -111,9 +111,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, two blindfolded children standing on each side of an open wooden door of a scout hall, a third child tiptoeing through between them, others watching and stifling laughter."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Autoconciencia
 activity_type:
   - Juego
 category:

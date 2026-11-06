@@ -118,10 +118,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A biodiversity blog or journal with posts and tips on a computer screen, showing youth sharing advice dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating a blog about biodiversity actions. Digital content creation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Alfabetización digital
-  - Creatividad
-  - Comunicación
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

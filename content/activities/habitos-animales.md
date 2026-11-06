@@ -102,10 +102,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Investigación
-  - Documentación
 
 activity_type:
   - Exploración

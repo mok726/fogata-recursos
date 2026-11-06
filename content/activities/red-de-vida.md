@@ -116,9 +116,6 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth sitting in a circle holding a web of string, each representing a different plant or animal, showing the interconnectedness of the ecosystem. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a web of life activity. Educational ecosystem scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento sistémico
-  - Anticipación
 activity_type:
   - Juego
   - Reflexión

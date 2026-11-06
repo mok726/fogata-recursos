@@ -103,10 +103,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Comprensión técnica
-  - Comunicación digital
 
 activity_type:
   - Investigación

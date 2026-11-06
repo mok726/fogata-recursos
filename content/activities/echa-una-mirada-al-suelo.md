@@ -104,10 +104,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Observación
-  - Experimentación
-  - Pensamiento científico
 
 activity_type:
   - Experimentación

@@ -114,10 +114,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth engaged in a thoughtful debate about climate change, carbon cycle, and fossil fuel consumption, with research materials and notes. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, debating climate change issues. Educational critical thinking scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Investigación
-  - Comunicación
 activity_type:
   - Debate / Diálogo
   - Investigación

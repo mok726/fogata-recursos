@@ -118,10 +118,6 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Diverse public spaces where people gather - parks, squares, community centers, with people socializing and enjoying the city together dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, discussing community spaces and sharing ideas. Community dialogue environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Conciencia social
-  - Pensamiento crítico
-  - Comunicación
 activity_type:
   - Debate / Diálogo
   - Reflexión

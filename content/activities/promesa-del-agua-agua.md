@@ -121,10 +121,6 @@ main_type: "Reflexión"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating a colorful pledge banner with handprints and water conservation promises, learning about water conservation and responsibility. Creative educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making their pledge banner. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Responsabilidad
-  - Compromiso cívico
-  - Creatividad
 activity_type:
   - Reflexión
   - Creatividad / Arte
@@ -135,7 +131,6 @@ category:
   - Compromiso
 skills:
   - Creatividad
-  - Responsabilidad
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========

@@ -109,8 +109,6 @@ main_type: "Juego"
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, playing a circle chasing game on a sunny lawn: children holding hands in a ring, lowering their arms to block one child while letting another child pass through, big smiles."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Trabajo en equipo
 activity_type:
   - Juego
   - Salud

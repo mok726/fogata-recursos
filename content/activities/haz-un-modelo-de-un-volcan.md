@@ -108,10 +108,6 @@ participants: "4-15"
 
 accessibility: []
 
-competencies:
-  - Experimentación
-  - Creatividad
-  - Comprensión científica
 
 activity_type:
   - Experimentación

@@ -119,10 +119,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Observación
-  - Identificación de árboles
 
 activity_type:
   - Creatividad / Arte

@@ -123,10 +123,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A biodiversity fashion show with clothing and jewelry inspired by nature using natural fibers and materials dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting a biodiversity-inspired fashion show. Creative design environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Diseño
-  - Conciencia ambiental
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

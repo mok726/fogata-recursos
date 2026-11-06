@@ -106,10 +106,6 @@ participants: "4-20"
 
 accessibility: []
 
-competencies:
-  - Conciencia de derechos
-  - Empatía
-  - Comprensión social
 
 activity_type:
   - Reflexión

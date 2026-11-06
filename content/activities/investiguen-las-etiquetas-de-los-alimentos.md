@@ -118,10 +118,6 @@ participants: ""
 accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Análisis
-  - Conocimiento nutricional
-  - Observación
 
 activity_type:
   - Investigación

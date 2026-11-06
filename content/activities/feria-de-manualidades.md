@@ -108,10 +108,6 @@ main_type: "Creatividad / Arte"
 image_prompt: "A scout hall turned into a small fair with tables of handmade crafts made from recycled materials, families browsing, a scout auctioning a wooden toy, warm light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Creatividad
-  - Habilidades manuales
-  - Organización
 activity_type:
   - Creatividad / Arte
   - Aprender haciendo

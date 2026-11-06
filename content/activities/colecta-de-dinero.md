@@ -108,10 +108,6 @@ participants: "4-30"
 
 accessibility: []
 
-competencies:
-  - Organización
-  - Solidaridad
-  - Acción comunitaria
 
 activity_type:
   - Servicio a los demás

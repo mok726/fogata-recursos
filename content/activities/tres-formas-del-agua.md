@@ -115,9 +115,6 @@ main_type: "Experimentación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a science experiment observing water change from solid ice to liquid water to steam vapor, using a pot on a stove. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing water's three forms. Educational science experiment scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento científico
-  - Observación
 activity_type:
   - Experimentación
   - Aprender haciendo

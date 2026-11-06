@@ -121,10 +121,6 @@ main_type: "Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Animal tracks, droppings, nests, and other signs in a natural area with children examining them carefully dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, searching for and recording animal signs with magnifying glasses. Wildlife tracking environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Observación
-  - Investigación
-  - Paciencia
 activity_type:
   - Exploración
   - Investigación

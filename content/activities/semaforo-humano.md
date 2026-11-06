@@ -96,16 +96,12 @@ main_type: "Juego"
 image_prompt: "Cub scouts in Scout Association of Argentina uniforms in a schoolyard freezing mid-step while an adult leader holds up a big red card like a traffic light, chalk lines on the ground marking a pretend street, sunny day, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-competencies:
-  - Pensamiento crítico
-  - Autoconciencia
 activity_type:
   - Juego
   - Simulación
 category:
   - Seguridad vial
 skills:
-  - Responsabilidad
   - Observación
 
 # ========== VALORES SCOUT ==========
