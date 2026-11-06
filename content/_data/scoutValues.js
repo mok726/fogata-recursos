@@ -89,8 +89,8 @@ module.exports = [
     id: "optimismo-y-alegria",
     name: "Optimismo y Alegría",
     symbol: "sentiment_very_satisfied",
-    summary: "Enfrentar las dificultades con buen ánimo.",
-    description: "Enfrentar las dificultades con buen ánimo, disfrutar de lo que hacemos y contagiar alegría a los demás."
+    summary: "Actitud positiva, buen ánimo y alegría compartida.",
+    description: "Mantener una actitud positiva y esperanzada ante la vida, disfrutar de las experiencias y compartir la alegría con quienes nos rodean. Afrontar las dificultades con buen ánimo, humor y perseverancia, sin dejarse vencer por el desaliento, procurando transmitir entusiasmo y confianza incluso en los momentos adversos."
   },
   {
     id: "vida-sana-y-bienestar",
