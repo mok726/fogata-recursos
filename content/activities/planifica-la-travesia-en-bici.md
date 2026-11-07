@@ -105,16 +105,16 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Planificación y organización
+  - Toma de decisiones
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
   - Espíritu Aventurero
-  - Superación Personal y Perseverancia
 scout_method:
   - Sistema de Equipos
-  - Vida en la Naturaleza
   - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========

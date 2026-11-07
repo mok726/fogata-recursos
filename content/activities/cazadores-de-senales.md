@@ -105,15 +105,13 @@ category:
   - Seguridad vial
 skills:
   - Observación
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -96,25 +96,24 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts in Scout Association of Argentina uniforms in a schoolyard checking their bicycles, one pumping a tire, another squeezing the brakes, another adjusting a friend's helmet, tools on the ground, sunny day, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
 category:
   - Seguridad vial
 skills:
-  - Técnicas scout
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

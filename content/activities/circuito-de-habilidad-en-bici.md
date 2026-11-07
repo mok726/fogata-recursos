@@ -92,28 +92,26 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Actividad física"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts in Scout Association of Argentina uniforms wearing helmets riding bicycles through a slalom of orange cones on a closed sports court, other scouts cheering from the side, sunny day, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Actividad física
   - Juego
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Destreza física
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
   - Superación Personal y Perseverancia
-  - Espíritu Aventurero
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

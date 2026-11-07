@@ -100,20 +100,17 @@ image_prompt: "A small group of young cub scouts in Scout Association of Argenti
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Debate / Diálogo
 category:
   - Seguridad vial
 skills:
   - Observación
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
   - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
