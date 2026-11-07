@@ -134,22 +134,22 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Servicio
+  - Taller / Construcción
 category:
   - Jardinería
   - Hábitat
   - Polinizadores
 skills:
-  - Hábitos sostenibles
+  - Protección ambiental
   - Conciencia ambiental
-  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

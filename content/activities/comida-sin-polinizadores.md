@@ -122,23 +122,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Proyecto
 category:
   - Alimentación
   - Polinizadores
   - Nutrición
 skills:
+  - Pensamiento sistémico
   - Planificación y organización
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

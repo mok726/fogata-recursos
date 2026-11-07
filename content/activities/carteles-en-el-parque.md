@@ -114,30 +114,26 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere permisos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Informative and colorful signs about local pollinators displayed in a park, showing which species live in the area and how to help them dominates the composition. Left side contains open negative space reserved for website interface elements. People reading the signs and observing pollinators in the park in the background, seen from a distance, positioned on the right side. The scene has a community education atmosphere with bright outdoor lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Campaña
 category:
   - Carteles
   - Educación
   - Polinizadores
 skills:
-  - Creatividad
   - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

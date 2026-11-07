@@ -119,13 +119,14 @@ complexity_execution: 4  # Requiere organización
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant community World Bee Day event with people building bee hotels, planting native flowers, setting up water stations, and learning about pollinators dominates the composition. Left side contains open negative space reserved for website interface elements. Colorful posters and demonstrations in the background, seen from a distance, positioned on the right side. The scene has a festive, community-focused atmosphere with bright outdoor lighting and golden tones. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Campaña
   - Servicio
 category:
   - Evento
@@ -133,16 +134,14 @@ category:
   - Polinizadores
 skills:
   - Planificación y organización
-  - Liderazgo
   - Comunicación
+  - Protección ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Compromiso con la Naturaleza
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

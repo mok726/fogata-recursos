@@ -117,32 +117,26 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beekeeper in protective gear working with a hive surrounded by bees in an apiary with golden sunlight and lush greenery dominates the composition. Left side contains open negative space reserved for website interface elements. Honeycomb frames with bees and honey in the background, seen from a distance, positioned on the right side. The scene shows the intimate relationship between beekeepers and bees with warm natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Salida / Exploración
+  - Visita / Charla
 category:
   - Apicultura
   - Abejas
   - Polinizadores
 skills:
-  - Observación
   - Investigación
-  - Comunicación
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Espíritu Aventurero
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

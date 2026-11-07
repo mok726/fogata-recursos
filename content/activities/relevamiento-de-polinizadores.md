@@ -121,32 +121,30 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A close-up macro photograph of a bee collecting pollen from a vibrant flower with detailed focus on the pollen grains on its legs dominates the composition. Left side contains open negative space reserved for website interface elements. A butterfly and a hummingbird in the background, seen from a distance, positioned on the right side, visiting flowers. The scene shows rich biodiversity in a garden setting with soft natural lighting and warm golden tones. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Salida / Exploración
+  - Indagación
 category:
   - Polinizadores
   - Biodiversidad
   - Naturaleza
 skills:
   - Observación
-  - Investigación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

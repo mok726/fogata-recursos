@@ -112,14 +112,14 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A social media campaign on a smartphone screen showing posts about pollinators with hashtags, photos of bees, and calls to action dominates the composition. Left side contains open negative space reserved for website interface elements. A person creating content on a laptop in the background, seen from a distance, positioned on the right side. The scene has a modern, digital atmosphere with bright screen lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Campaña
 category:
   - Redes Sociales
   - Campaña
@@ -127,14 +127,11 @@ category:
 skills:
   - Alfabetización digital
   - Comunicación
-  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
