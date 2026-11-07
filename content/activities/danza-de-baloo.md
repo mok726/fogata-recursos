@@ -103,29 +103,24 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, marching slowly in a circle in a scout hall, bellies pushed out, elbows out and chins up, imitating a proud old bear, laughing, warm indoor light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
-  - Expresión artística
+  - Simulación / Juego de roles
 category:
   - Danzas de la Selva
   - Libro de la Selva
-skills:
-  - Creatividad
-  - Observación
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
+scout_values: []
 scout_method:
   - Marco Simbólico
   - Ley y Promesa
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

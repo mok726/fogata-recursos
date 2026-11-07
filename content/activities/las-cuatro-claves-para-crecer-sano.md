@@ -107,14 +107,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Juego"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sorting picture cards of fruit, vegetables, sweets and outdoor play under four hand-drawn posters on a scout hall wall, others outside taking deep breaths with arms raised, bright and cheerful."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Juego
 category:
   - Salud
@@ -124,9 +123,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Superación Personal y Perseverancia
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========

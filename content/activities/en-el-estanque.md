@@ -115,15 +115,11 @@ activity_type:
 category:
   - Juegos scouts
   - Observación
-skills:
-  - Observación
-  - Destreza física
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

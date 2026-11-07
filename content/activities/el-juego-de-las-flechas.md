@@ -113,16 +113,11 @@ activity_type:
   - Juego
 category:
   - Juegos scouts
-skills:
-  - Observación
-  - Técnicas scout
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

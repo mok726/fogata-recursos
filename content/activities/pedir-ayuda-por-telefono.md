@@ -120,15 +120,11 @@ category:
   - Comunicación
 skills:
   - Comunicación
-  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

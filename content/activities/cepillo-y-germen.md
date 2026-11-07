@@ -114,15 +114,12 @@ activity_type:
 category:
   - Juegos scouts
   - Salud
-skills:
-  - Destreza física
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
+  - Vida Sana y Bienestar
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -119,14 +119,11 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

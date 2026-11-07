@@ -115,32 +115,29 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Salida / Exploración"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, planting a small community vegetable garden in wooden crates: one child sowing sunflower seeds, another watering with a can, a jar with a sprouting bulb and a plate of cress seedlings on a nearby table, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Salida / Exploración
+  - Taller / Construcción
 category:
   - Agricultura
   - Naturaleza
   - Suelo
 skills:
-  - Hábitos sostenibles
-  - Conciencia ambiental
   - Observación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
-  - Sistema de Equipos
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

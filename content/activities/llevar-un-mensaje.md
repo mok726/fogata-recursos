@@ -117,16 +117,11 @@ category:
   - Juegos scouts
   - Comunicación
 skills:
-  - Observación
   - Comunicación
-  - Destreza física
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

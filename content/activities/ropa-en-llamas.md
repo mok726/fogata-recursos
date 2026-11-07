@@ -106,29 +106,26 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, practicing a safety drill on a grassy field: one child rolling on the ground with hands covering the face while a teammate gently drapes a blanket from the shoulders down, another running to call an adult leader."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
+  - Simulación / Juego de roles
 category:
   - Salud
   - Educación
 skills:
+  - Salud y autocuidado
   - Técnicas scout
-  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

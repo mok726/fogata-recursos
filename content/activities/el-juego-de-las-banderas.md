@@ -117,15 +117,11 @@ category:
   - Juegos scouts
 skills:
   - Observación
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Lealtad y Pertenencia
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

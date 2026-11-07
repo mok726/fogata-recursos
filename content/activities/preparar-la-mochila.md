@@ -122,16 +122,13 @@ category:
   - Juegos scouts
   - Naturaleza
 skills:
-  - Planificación y organización
   - Técnicas scout
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Espíritu Aventurero
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -105,26 +105,24 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, helping at home in a bright Argentine kitchen and bedroom: one child neatly making a bed, another drying dishes, another sweeping, warm morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Servicio
 category:
   - Comunidad
   - Educación
-skills:
-  - Autoconocimiento
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Familia y Vínculos de Cuidado
   - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-  - Sencillez y Austeridad
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========

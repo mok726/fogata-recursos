@@ -107,27 +107,25 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting in a circle on the grass practicing knots with short ropes, one blindfolded child tying a reef knot, an older cub showing a bowline, ropes tied around a wooden pole."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Juego
+activity_type: []
 category:
   - Juegos scouts
   - Educación
 skills:
   - Técnicas scout
-  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación Personal y Perseverancia
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
