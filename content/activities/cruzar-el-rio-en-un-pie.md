@@ -103,15 +103,15 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Actividad física"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, hopping on one foot across a chalk-drawn river with chalk stepping stones in a schoolyard, others cheering from the banks, playful energy."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Actividad física
+  - Juego
 category:
   - Juegos scouts
   - Salud
@@ -119,12 +119,8 @@ skills:
   - Destreza física
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Vida Sana y Bienestar
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

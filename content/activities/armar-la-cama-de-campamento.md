@@ -108,27 +108,24 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, inside a large canvas tent, kneeling on groundsheets and foam pads, folding and interlocking two woolen blankets into a sleeping bed and pinning the bottom, lantern light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
 category:
   - Juegos scouts
   - Naturaleza
 skills:
   - Técnicas scout
-  - Autoconocimiento
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Espíritu Aventurero
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

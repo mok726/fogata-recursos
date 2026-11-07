@@ -124,15 +124,13 @@ category:
   - Naturaleza
   - Conservación
 skills:
-  - Resolución de problemas
   - Técnicas scout
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

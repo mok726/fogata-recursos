@@ -121,15 +121,12 @@ category:
   - Observación
   - Salidas
 skills:
-  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -102,25 +102,26 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Actividad física"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, in a row on a grassy field at morning camp, slowly bending forward to touch their toes with straight knees, an adult leader demonstrating, fresh morning light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Actividad física
 category:
   - Juegos scouts
   - Salud
 skills:
   - Destreza física
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
   - Superación Personal y Perseverancia
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========

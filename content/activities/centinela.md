@@ -125,11 +125,8 @@ skills:
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Lealtad y Pertenencia
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Responsabilidad y Compromiso
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -125,9 +125,7 @@ skills:
 scout_values:
   - Sencillez y Austeridad
   - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========

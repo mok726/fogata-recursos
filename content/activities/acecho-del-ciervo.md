@@ -121,10 +121,8 @@ skills:
   - Técnicas scout
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
-  - Vida en la Naturaleza
   - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

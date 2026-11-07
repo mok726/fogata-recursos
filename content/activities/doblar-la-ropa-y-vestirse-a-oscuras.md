@@ -119,16 +119,12 @@ category:
   - Comunidad
   - Educación
 skills:
-  - Planificación y organización
-  - Destreza física
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -114,19 +114,16 @@ image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
+  - Taller / Construcción
 category:
   - Juegos scouts
   - Comunicación
 skills:
   - Técnicas scout
-  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

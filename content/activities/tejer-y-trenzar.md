@@ -107,27 +107,25 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, sitting on a grassy field braiding colorful strips into bracelets and weaving a small basket from reeds, one child knitting with thick needles, focused and smiling."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Arte
   - Educación
 skills:
-  - Creatividad
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
   - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

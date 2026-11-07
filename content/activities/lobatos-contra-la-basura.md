@@ -110,28 +110,28 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Servicio"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine Wolf Cubs (lobatos and lobeznas, 8 to 10 years old) in Scouts de Argentina uniforms with yellow-and-green neckerchiefs, cleaning up a neighborhood plaza with gloves and garbage bags, one picking up a plastic bottle, another holding a bag open, trees and benches, sunny afternoon."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Servicio
 category:
   - Comunidad
   - Reciclaje
 skills:
-  - Planificación y organización
-  - Conciencia social
+  - Protección ambiental
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

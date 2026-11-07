@@ -117,15 +117,13 @@ category:
   - Juegos scouts
   - Libro de la Selva
 skills:
-  - Destreza física
   - Trabajo en equipo
+  - Destreza física
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Lealtad y Pertenencia
   - Hermandad y Fraternidad
 scout_method:
-  - Aprender Haciendo
   - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========

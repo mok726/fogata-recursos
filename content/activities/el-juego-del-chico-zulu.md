@@ -120,15 +120,11 @@ category:
 skills:
   - Técnicas scout
   - Observación
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+  - Espíritu Aventurero
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
