@@ -122,16 +122,11 @@ category:
 skills:
   - Técnicas scout
   - Resolución de problemas
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

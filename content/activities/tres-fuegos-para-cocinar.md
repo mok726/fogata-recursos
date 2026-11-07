@@ -110,29 +110,27 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts cooking over a small teepee fire with a pot hanging from a slanted stick held by a forked stake, a frying pan resting on two logs over embers, a water bucket nearby. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
   - Cocina
 skills:
   - Técnicas scout
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -102,29 +102,29 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Proyecto"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A wooden knot board hanging on a scout den wall, with neatly tied rope knots and handwritten labels, a patrol proudly standing beside it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
   - Proyecto
 category:
   - Técnicas scout
   - Nudos
 skills:
   - Técnicas scout
+  - Comunicación
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

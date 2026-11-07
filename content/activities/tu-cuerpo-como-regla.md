@@ -103,30 +103,26 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts measuring their arm span and hand span with a tape measure on a grassy field, others pacing along a rope laid on the ground. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Experimento
   - Juego
 category:
   - Técnicas scout
   - Orientación
 skills:
   - Técnicas scout
-  - Pensamiento científico
+  - Experimentación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

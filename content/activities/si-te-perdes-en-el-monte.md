@@ -116,22 +116,18 @@ image_prompt: "A young scout sitting calmly against a tree in a forest, blowing 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Reflexión
 category:
   - Técnicas scout
   - Seguridad
 skills:
-  - Técnicas scout
   - Salud y autocuidado
-  - Resolución de problemas
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Optimismo y Alegría
+  - Vida Sana y Bienestar
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

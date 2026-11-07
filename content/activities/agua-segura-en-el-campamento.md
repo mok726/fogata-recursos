@@ -108,30 +108,30 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts examining a clear mountain stream in the forest, one holding a glass jar of water up to the light, a camping stove with a boiling pot nearby. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Experimento
+  - Indagación
 category:
   - Técnicas scout
   - Campamento
   - Agua
 skills:
   - Técnicas scout
+  - Salud y autocuidado
   - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Vida Sana y Bienestar
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

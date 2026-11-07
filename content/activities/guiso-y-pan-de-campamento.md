@@ -108,30 +108,28 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Proyecto"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts cooking a stew in a big pot and a golden pan bread in a covered skillet over a camp fire, one kneading dough on a board. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Proyecto
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
   - Cocina
 skills:
   - Técnicas scout
+  - Planificación y organización
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
-  - Sencillez y Austeridad
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

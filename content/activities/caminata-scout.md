@@ -115,7 +115,6 @@ image_prompt: "A patrol of scouts hiking in single file on the left side of a qu
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Proyecto
 category:
   - Técnicas scout
   - Caminata
@@ -126,9 +125,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Vida Sana y Bienestar
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
   - Vida en la Naturaleza
 

@@ -114,23 +114,21 @@ image_prompt: "Scouts examining a rocky overhang at the edge of a forest, one po
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Proyecto
+  - Experimento
 category:
   - Técnicas scout
   - Campamento
 skills:
   - Técnicas scout
-  - Resolución de problemas
   - Observación
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

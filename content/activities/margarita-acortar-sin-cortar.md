@@ -100,27 +100,24 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts shortening a tent guy rope with a sheepshank knot beside a pitched tent in a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Nudos
 skills:
   - Técnicas scout
-  - Destreza física
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Sencillez y Austeridad
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -106,30 +106,30 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts washing dishes at camp in a line of basins, scraping plates, washing and rinsing, laughing, steam rising from hot water. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
   - Cocina
 skills:
   - Técnicas scout
-  - Trabajo en equipo
+  - Hábitos sostenibles
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
+  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
   - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

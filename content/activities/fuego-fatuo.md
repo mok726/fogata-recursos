@@ -112,22 +112,16 @@ image_prompt: "Night scene in a field at a scout camp, a small flashlight glowin
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salida / Exploración
 category:
   - Juegos scouts
   - Juegos nocturnos
 skills:
-  - Técnicas scout
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

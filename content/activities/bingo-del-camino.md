@@ -114,12 +114,10 @@ image_prompt: "Scouts looking out of a bus window at the countryside, pointing e
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salida / Exploración
 category:
   - Juegos scouts
   - Observación
 skills:
-  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========
@@ -127,8 +125,6 @@ scout_values:
   - Optimismo y Alegría
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

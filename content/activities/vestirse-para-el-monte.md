@@ -119,16 +119,14 @@ category:
   - Campamento
 skills:
   - Técnicas scout
-  - Pensamiento científico
+  - Experimentación
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
+  - Vida Sana y Bienestar
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

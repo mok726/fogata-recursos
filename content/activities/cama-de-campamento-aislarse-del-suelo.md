@@ -111,21 +111,20 @@ image_prompt: "Scouts in a pine forest building a thick bed of dry pine needles 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
 skills:
   - Técnicas scout
   - Experimentación
-  - Salud y autocuidado
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
   - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

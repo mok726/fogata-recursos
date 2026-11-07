@@ -102,30 +102,26 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Dinámica de grupos"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts holding a rope line together, each with a loop around the hand, tied between trees in a camp, one scout tying a clove hitch on a tree. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Dinámica de grupos
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Nudos
   - Campamento
 skills:
   - Técnicas scout
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

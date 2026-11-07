@@ -108,13 +108,14 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout leader supervising teenage scouts whittling sticks away from their bodies with pocket knives, a chopping block with a hatchet in a roped-off area of a forest camp. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
@@ -126,11 +127,8 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -105,30 +105,27 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts standing up a wooden tripod made of three poles joined at the top with a figure-eight lashing, a cooking pot hanging from it, and an A-frame of two poles beside it. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
   - Experimento
 category:
   - Técnicas scout
   - Pionerismo
 skills:
   - Técnicas scout
-  - Trabajo en equipo
-  - Resolución de problemas
+  - Experimentación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

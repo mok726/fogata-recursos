@@ -116,24 +116,22 @@ image_prompt: "Scouts on a hilltop at sunset looking at a red sky and clouds, on
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Debate / Diálogo
-  - Salida / Exploración
+  - Experimento
 category:
   - Técnicas scout
   - Clima
   - Ciencia
 skills:
-  - Técnicas scout
   - Pensamiento científico
   - Observación
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

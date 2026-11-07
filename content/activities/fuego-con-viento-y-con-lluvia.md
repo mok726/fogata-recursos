@@ -114,6 +114,7 @@ image_prompt: "A scout cupping hands around a lit match facing the wind on a rai
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
@@ -126,7 +127,6 @@ scout_values:
   - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
