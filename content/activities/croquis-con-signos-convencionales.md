@@ -113,24 +113,20 @@ image_prompt: "Scouts sitting on the grass drawing a hand-made map of their camp
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Expresión artística
 category:
   - Técnicas scout
   - Orientación
   - Mapas
 skills:
   - Técnicas scout
-  - Comunicación
   - Observación
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Solidaridad y Servicio
+scout_values: []
 scout_method:
   - Aprender Haciendo
   - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

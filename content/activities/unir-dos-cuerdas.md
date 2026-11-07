@@ -101,29 +101,27 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A young scout tying two ropes of different thickness together with a sheet bend, a heavy curtain hanging between two trees behind her, other scouts watching. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Taller / Construcción
   - Juego
 category:
   - Técnicas scout
   - Nudos
 skills:
   - Técnicas scout
-  - Destreza física
+  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

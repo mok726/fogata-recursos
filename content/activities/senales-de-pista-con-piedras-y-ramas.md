@@ -119,15 +119,11 @@ category:
 skills:
   - Técnicas scout
   - Observación
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Espíritu Aventurero
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

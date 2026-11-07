@@ -109,24 +109,20 @@ image_prompt: "A patrol of scouts around a camp table looking at a hand-drawn ch
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Proyecto
-  - Dinámica de grupos
 category:
   - Técnicas scout
   - Campamento
   - Vida de patrulla
 skills:
-  - Técnicas scout
   - Planificación y organización
-  - Liderazgo
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
-  - Vida en la Naturaleza
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

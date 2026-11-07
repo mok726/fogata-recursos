@@ -107,22 +107,16 @@ image_prompt: "A large compass rose drawn in chalk on a schoolyard, scouts stand
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Salida / Exploración
   - Juego
 category:
   - Técnicas scout
   - Orientación
 skills:
   - Técnicas scout
-  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

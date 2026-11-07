@@ -105,30 +105,25 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Close-up of scouts' hands tying a tight square lashing joining two wooden poles at a right angle, with neat parallel wraps and frapping turns, other scouts practicing in the background. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Pionerismo
 skills:
   - Técnicas scout
-  - Destreza física
-  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

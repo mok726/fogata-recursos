@@ -114,18 +114,16 @@ image_prompt: "A patrol of scouts walking across a grassy forest clearing with a
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Proyecto
 category:
   - Técnicas scout
   - Campamento
 skills:
   - Técnicas scout
-  - Planificación y organización
+  - Toma de decisiones
+  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 scout_method:
   - Aprender Haciendo
   - Sistema de Equipos

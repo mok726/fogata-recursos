@@ -111,22 +111,17 @@ image_prompt: "Children scouts throwing small sandbags at a plastic bottle balan
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
+  - Actividad física
 category:
   - Juegos scouts
   - Juegos tradicionales
 skills:
-  - Técnicas scout
   - Destreza física
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

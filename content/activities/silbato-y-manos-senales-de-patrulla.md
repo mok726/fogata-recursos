@@ -113,7 +113,6 @@ image_prompt: "A scout leader on a field raising one arm straight up with a whis
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Dinámica de grupos
 category:
   - Técnicas scout
   - Señales
@@ -122,13 +121,8 @@ skills:
   - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

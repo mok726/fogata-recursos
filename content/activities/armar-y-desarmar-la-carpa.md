@@ -105,14 +105,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Dinámica de grupos"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of scouts pitching a dome tent on a grassy campsite, two raising the poles together while another adjusts a guy line, a folded ground sheet beside them. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Dinámica de grupos
+  - Taller / Construcción
 category:
   - Técnicas scout
   - Campamento
@@ -123,7 +123,6 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
 scout_method:
   - Aprender Haciendo
   - Sistema de Equipos

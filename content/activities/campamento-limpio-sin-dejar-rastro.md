@@ -107,14 +107,13 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts cleaning up a forest campsite at the end of camp, carrying sorted trash bags, the ground left clean, a cold fire ring. Argentine scouts wearing authentic Scout Association of Argentina uniforms. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
 category:
   - Técnicas scout
@@ -122,15 +121,14 @@ category:
   - Residuos
 skills:
   - Técnicas scout
-  - Conciencia ambiental
+  - Hábitos sostenibles
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
