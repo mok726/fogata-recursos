@@ -102,30 +102,28 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout patrol walking through an unfamiliar small town, the patrol member in front holding a paper map and pointing the way, others following, daylight."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Salida / Exploración
+  - Juego
 category:
   - Juegos scouts
   - Orientación
 skills:
   - Técnicas scout
-  - Liderazgo
+  - Toma de decisiones
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
+  - Responsabilidad y Compromiso
+  - Espíritu Aventurero
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

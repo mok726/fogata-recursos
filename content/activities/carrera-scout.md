@@ -111,24 +111,17 @@ image_prompt: "Ultra-wide cinematic website hero banner. A scout running across 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salida / Exploración
   - Actividad física
 category:
   - Juegos scouts
   - Observación
 skills:
   - Técnicas scout
-  - Comunicación
-  - Pensamiento científico
+  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

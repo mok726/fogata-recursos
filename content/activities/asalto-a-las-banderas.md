@@ -112,22 +112,18 @@ image_prompt: "Scouts creeping through tall grass toward three small flags plant
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Actividad física
-  - Dinámica de grupos
 category:
   - Juegos scouts
   - Acecho
 skills:
   - Técnicas scout
   - Planificación y organización
-  - Comunicación
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
   - Espíritu Aventurero
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
   - Vida en la Naturaleza
 

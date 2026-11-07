@@ -111,21 +111,16 @@ image_prompt: "Scouts on a grassy field pulling teammates lying on blankets with
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación / Juego de roles
 category:
   - Juegos scouts
   - Primeros auxilios
 skills:
   - Técnicas scout
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

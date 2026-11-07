@@ -112,22 +112,17 @@ image_prompt: "Scouts walking through their neighborhood marking a printed stree
 activity_type:
   - Indagación
   - Salida / Exploración
-  - Servicio
 category:
   - Comunidad
   - Prevención
 skills:
   - Observación
-  - Técnicas scout
-  - Resolución de problemas
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

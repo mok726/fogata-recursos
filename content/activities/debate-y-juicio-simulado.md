@@ -111,7 +111,6 @@ image_prompt: "Teenage scouts in a cozy scout hall debating in a circle, one sta
 activity_type:
   - Debate / Diálogo
   - Simulación / Juego de roles
-  - Reflexión
 category:
   - Juegos scouts
   - Comunicación
@@ -122,10 +121,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-scout_method:
-  - Aprender Haciendo
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

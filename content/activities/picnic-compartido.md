@@ -111,21 +111,17 @@ image_prompt: "Scouts of different ages sharing a picnic on a blanket in a park,
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Dinámica de grupos
-  - Reflexión
 category:
   - Comunidad
   - Alimentos
 skills:
   - Empatía
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Hermandad y Fraternidad
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

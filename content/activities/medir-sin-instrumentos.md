@@ -114,13 +114,9 @@ category:
   - Orientación
 skills:
   - Técnicas scout
-  - Pensamiento científico
-  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
+scout_values: []
 scout_method:
   - Aprender Haciendo
   - Vida en la Naturaleza

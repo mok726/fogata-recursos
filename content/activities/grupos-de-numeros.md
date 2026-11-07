@@ -111,17 +111,11 @@ activity_type:
 category:
   - Juegos de salón
   - Integración
-skills:
-  - Pensamiento científico
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

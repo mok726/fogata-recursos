@@ -111,22 +111,16 @@ image_prompt: "Scouts sitting in a meadow writing a list in notebooks, with wild
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salida / Exploración
-  - Indagación
 category:
   - Juegos scouts
   - Alimentos
 skills:
-  - Técnicas scout
-  - Investigación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

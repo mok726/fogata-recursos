@@ -111,23 +111,18 @@ image_prompt: "Scouts acting as detectives examining clues in a staged room: foo
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación / Juego de roles
-  - Indagación
 category:
   - Juegos scouts
   - Observación
 skills:
-  - Técnicas scout
   - Observación
   - Pensamiento crítico
+  - Técnicas scout
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

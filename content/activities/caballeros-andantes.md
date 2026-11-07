@@ -119,7 +119,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
+  - Honestidad e Integridad
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
