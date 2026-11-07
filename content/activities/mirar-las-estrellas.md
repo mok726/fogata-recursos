@@ -103,29 +103,24 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner. Scouts lying on blankets in a dark campsite pointing at a starry sky with the Milky Way and the Southern Cross clearly visible. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación
 skills:
-  - Observación
   - Técnicas scout
+  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

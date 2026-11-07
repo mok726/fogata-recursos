@@ -109,20 +109,16 @@ image_prompt: "A scout kneeling beside a pretend patient with a bandaged arm in 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Juego
 category:
   - Juegos scouts
   - Primeros auxilios
 skills:
-  - Técnicas scout
-  - Pensamiento crítico
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Vida Sana y Bienestar
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

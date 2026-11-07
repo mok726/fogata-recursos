@@ -115,17 +115,11 @@ category:
   - Rastreo
 skills:
   - Técnicas scout
-  - Comunicación
-  - Planificación y organización
+  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Espíritu Aventurero
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

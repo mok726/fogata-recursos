@@ -110,23 +110,19 @@ image_prompt: "Scouts gathered around a campfire at night, one patrol performing
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Dinámica de grupos
 category:
   - Cultura
   - Arte
 skills:
-  - Creatividad
-  - Comunicación
+  - Planificación y organización
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
   - Optimismo y Alegría
+  - Hermandad y Fraternidad
 scout_method:
   - Sistema de Equipos
-  - Aprender Haciendo
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

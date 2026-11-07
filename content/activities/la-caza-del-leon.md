@@ -116,15 +116,10 @@ category:
   - Rastreo
 skills:
   - Técnicas scout
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Espíritu Aventurero
+scout_values: []
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -110,21 +110,14 @@ image_prompt: "A long line of cub scouts jogging in a spiral pattern on a field 
 activity_type:
   - Juego
   - Actividad física
-  - Dinámica de grupos
 category:
   - Juegos scouts
   - Salud
-skills:
-  - Destreza física
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

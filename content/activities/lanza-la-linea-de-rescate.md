@@ -118,12 +118,8 @@ skills:
   - Destreza física
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -99,29 +99,25 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Actividad física"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Two scouts in a grassy field locking fingers with arms outstretched and pushing chest to chest, laughing, other scouts cheering around them, sunny day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Actividad física
+  - Juego
 category:
   - Juegos scouts
   - Salud
 skills:
   - Destreza física
-  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
   - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -110,7 +110,6 @@ image_prompt: "Ultra-wide cinematic website hero banner. Scouts spread out in a 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Salida / Exploración
 category:
   - Juegos scouts
   - Orientación
@@ -118,12 +117,8 @@ skills:
   - Técnicas scout
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

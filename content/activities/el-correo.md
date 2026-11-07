@@ -112,18 +112,11 @@ activity_type:
 category:
   - Juegos scouts
   - Acecho
-skills:
-  - Técnicas scout
-  - Planificación y organización
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

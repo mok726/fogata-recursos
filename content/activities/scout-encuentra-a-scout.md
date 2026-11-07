@@ -115,16 +115,11 @@ category:
   - Acecho
 skills:
   - Técnicas scout
-  - Comunicación
+  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+scout_values: []
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

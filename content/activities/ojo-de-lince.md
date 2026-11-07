@@ -117,17 +117,11 @@ category:
   - Juegos scouts
   - Observación
 skills:
-  - Técnicas scout
   - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Optimismo y Alegría
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

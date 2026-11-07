@@ -116,16 +116,10 @@ category:
 skills:
   - Técnicas scout
   - Observación
-  - Creatividad
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Justicia y Equidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

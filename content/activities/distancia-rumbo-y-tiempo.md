@@ -114,15 +114,11 @@ category:
   - Orientación
 skills:
   - Técnicas scout
-  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

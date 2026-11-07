@@ -113,17 +113,15 @@ activity_type:
 category:
   - Comunidad
   - Servicio
-skills:
-  - Hábitos sostenibles
-  - Empatía
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
   - Responsabilidad y Compromiso
 scout_method:
+  - Ley y Promesa
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

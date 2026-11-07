@@ -102,15 +102,15 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A scout hall turned into a small fair with tables of handmade crafts made from recycled materials, families browsing, a scout auctioning a wooden toy, warm light."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Proyecto
+  - Taller / Construcción
 category:
   - Arte
   - Reciclaje
@@ -121,9 +121,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

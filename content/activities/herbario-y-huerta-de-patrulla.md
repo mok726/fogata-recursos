@@ -107,30 +107,28 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts tending a small vegetable garden plot next to their scout hall, one pressing leaves in a notebook herbarium on a table nearby, sunny spring day."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Proyecto
 category:
   - Naturaleza
   - Jardinería
 skills:
-  - Hábitos sostenibles
-  - Conciencia ambiental
   - Observación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
   - Vida en la Naturaleza
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

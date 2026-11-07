@@ -114,15 +114,10 @@ category:
   - Observación
 skills:
   - Observación
-  - Destreza física
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

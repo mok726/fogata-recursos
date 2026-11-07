@@ -115,13 +115,12 @@ category:
   - Orientación
 skills:
   - Técnicas scout
-  - Creatividad
+  - Resolución de problemas
   - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Superación Personal y Perseverancia
 scout_method:
   - Vida en la Naturaleza
   - Sistema de Equipos

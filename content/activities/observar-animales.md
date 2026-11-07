@@ -117,17 +117,16 @@ category:
   - Naturaleza
   - Observación
 skills:
-  - Técnicas scout
   - Observación
   - Investigación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
