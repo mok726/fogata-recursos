@@ -117,31 +117,26 @@ complexity_execution: 3  # Requiere contacto
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A meeting between young people and local environmental authorities discussing pollinator protection policies, with documents and suggestions on the table dominates the composition. Left side contains open negative space reserved for website interface elements. A campaign plan for pollinator protection in the background, seen from a distance, positioned on the right side. The scene has a civic engagement atmosphere with professional, respectful lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
-  - Reflexión
+  - Indagación
 category:
   - Política
   - Conservación
   - Polinizadores
 skills:
+  - Investigación
   - Comunicación
-  - Pensamiento crítico
-  - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

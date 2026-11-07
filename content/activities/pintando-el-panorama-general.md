@@ -121,23 +121,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Reflexión
 category:
   - Arte
   - Impacto
   - Polinizadores
 skills:
   - Creatividad
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - Pensamiento sistémico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

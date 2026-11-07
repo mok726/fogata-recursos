@@ -117,33 +117,27 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the connection between pollinators and multiple SDGs with icons and illustrations dominates the composition. Left side contains open negative space reserved for website interface elements. The 17 SDG icons linked to pollinators through a network of lines in the background, seen from a distance, positioned on the right side. The scene has an educational, inspiring atmosphere with bright colors and a sense of global connection. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
-  - Expresión artística
+  - Campaña
   - Debate / Diálogo
 category:
   - ODS
   - Polinizadores
   - Desarrollo Sostenible
 skills:
-  - Pensamiento crítico
-  - Creatividad
+  - Pensamiento sistémico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -122,7 +122,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Reflexión
 category:
   - Hábitats
   - Conservación
@@ -130,16 +129,13 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

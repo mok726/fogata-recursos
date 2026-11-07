@@ -122,22 +122,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Servicio
 category:
   - Acción
   - Compromiso
   - Polinizadores
 skills:
-  - Planificación y organización
-  - Conciencia social
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
   - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Superación Personal y Perseverancia
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========

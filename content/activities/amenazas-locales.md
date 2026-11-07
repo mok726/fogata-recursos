@@ -126,7 +126,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
   - Proyecto
 category:
   - Amenazas
@@ -134,17 +133,15 @@ category:
   - Polinizadores
 skills:
   - Investigación
-  - Pensamiento crítico
+  - Pensamiento sistémico
   - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

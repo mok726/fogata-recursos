@@ -112,16 +112,15 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A park evaluation scene with people assessing native plants, water sources, nesting spots, and pesticide use, with a scoring system visible dominates the composition. Left side contains open negative space reserved for website interface elements. A letter being written to park authorities with improvement suggestions in the background, seen from a distance, positioned on the right side. The scene has a civic engagement atmosphere with natural park lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Salida / Exploración
   - Indagación
-  - Reflexión
-  - Servicio
 category:
   - Parques
   - Evaluación
@@ -134,10 +133,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

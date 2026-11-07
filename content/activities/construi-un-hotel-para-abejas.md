@@ -130,26 +130,25 @@ complexity_execution: 3  # Requiere construcción
 complexity_organizer: 3  # Requiere materiales y herramientas
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautifully crafted bee hotel made from wood, bamboo, and natural materials hanging on a fence in a garden with a bee entering one of the tunnels dominates the composition. Left side contains open negative space reserved for website interface elements. A close-up of solitary bees nesting in the bamboo tubes in the background, seen from a distance, positioned on the right side. The scene shows a sunny garden with blooming flowers and soft natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Polinizadores
   - Hábitat
   - Conservación
 skills:
-  - Creatividad
-  - Conciencia ambiental
+  - Protección ambiental
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
   - Vida en la Naturaleza

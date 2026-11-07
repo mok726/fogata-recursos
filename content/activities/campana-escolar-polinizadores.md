@@ -113,14 +113,14 @@ complexity_execution: 4  # Requiere planificación
 complexity_organizer: 4  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A school campaign with posters in hallways, students working with gardeners, kitchen staff serving local pollinator-dependent foods, and a roundtable discussion with farmers, beekeepers, and policymakers dominates the composition. Left side contains open negative space reserved for website interface elements. Students presenting and participating in the background, seen from a distance, positioned on the right side. The scene has an energetic, educational school atmosphere with bright indoor lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Campaña
   - Proyecto
 category:
   - Escuela
@@ -128,15 +128,14 @@ category:
   - Polinizadores
 skills:
   - Planificación y organización
-  - Liderazgo
   - Comunicación
+  - Protección ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
   - Apoyo Adulto
 

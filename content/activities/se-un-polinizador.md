@@ -122,22 +122,21 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Juego
 category:
   - Polinización
   - Ciencia
   - Jardinería
 skills:
-  - Observación
   - Experimentación
+  - Observación
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

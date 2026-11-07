@@ -120,32 +120,30 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A sustainable farm with diverse crops, flowering plants, and beehives with people learning from a farmer about pollinator-friendly agriculture dominates the composition. Left side contains open negative space reserved for website interface elements. A video camera recording the visit in the background, seen from a distance, positioned on the right side. The scene has a vibrant, educational farm atmosphere with warm natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Visita / Charla
   - Salida / Exploración
 category:
   - Agricultura
   - Sostenibilidad
   - Polinizadores
 skills:
-  - Observación
-  - Investigación
+  - Conciencia ambiental
+  - Pensamiento sistémico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
