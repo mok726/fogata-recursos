@@ -115,31 +115,30 @@ complexity_execution: 3  # Construcción del sistema
 complexity_organizer: 3  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth building a waste sorting system with cardboard boxes, paint cans, and recycled materials, learning about recycling and sustainability. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building the recycling system. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Taller / Construcción
+  - Indagación
 category:
   - Reciclaje
   - Residuos
   - Sostenibilidad
 skills:
+  - Hábitos sostenibles
+  - Investigación
   - Creatividad
-  - Conciencia ambiental
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

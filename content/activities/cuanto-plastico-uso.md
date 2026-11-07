@@ -99,32 +99,31 @@ complexity_execution: 1  # Dinámica simple
 complexity_organizer: 2  # Preparación de carteles
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a game about plastic consumption, moving between different sections of the playing area with signs. Educational outdoor activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing the game. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Reflexión
+  - Juego
 category:
   - Plásticos
   - Autoevaluación
   - Reciclaje
 skills:
-  - Pensamiento crítico
   - Autoconocimiento
+  - Hábitos sostenibles
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

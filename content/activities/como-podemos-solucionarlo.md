@@ -129,25 +129,22 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
   - Debate / Diálogo
 category:
   - ODS
   - Problemáticas sociales
   - Proyectos
 skills:
-  - Pensamiento crítico
+  - Conciencia social
+  - Resolución de problemas
   - Investigación
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Solidaridad y Servicio
-  - Justicia y Equidad
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

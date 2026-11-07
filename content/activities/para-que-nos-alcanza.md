@@ -108,33 +108,30 @@ complexity_execution: 2  # Investigación de precios
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth simulating grocery shopping with limited budget, using supermarket flyers and calculators, learning about poverty and food insecurity. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, planning their shopping list. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Simulación / Juego de roles
   - Debate / Diálogo
+  - Indagación
 category:
   - Pobreza
   - Alimentación
   - Economía
 skills:
-  - Pensamiento crítico
-  - Empatía
   - Conciencia social
+  - Empatía
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
   - Justicia y Equidad
-  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

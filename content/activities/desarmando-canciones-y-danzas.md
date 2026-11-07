@@ -106,7 +106,7 @@ complexity_execution: 2  # Creación de nuevas letras
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth rewriting song lyrics and dances to remove discriminatory messages, promoting gender equality and inclusion. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing their new songs. No text, no letters, no words. Wide shot."
@@ -122,14 +122,12 @@ category:
 skills:
   - Pensamiento crítico
   - Creatividad
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
+  - Justicia y Equidad
 scout_method:
-  - Aprender Haciendo
   - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========

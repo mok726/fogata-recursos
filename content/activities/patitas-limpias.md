@@ -108,6 +108,16 @@ attributions:
     role: "Concepto original y adaptación a competencia por inspección"
     year: 2026
 
+activity_type:
+  - Juego
+skills:
+  - Trabajo en equipo
+  - Observación
+scout_values:
+  - Responsabilidad y Compromiso
+scout_method:
+  - Sistema de Equipos
+main_type: "Juego"
 ---
 
 # 🐾 ¡PATITAS LIMPIAS!

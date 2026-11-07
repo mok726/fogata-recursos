@@ -108,24 +108,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Dinámica de grupos
 category:
   - Reciclaje
   - Residuos
   - Clasificación
 skills:
-  - Pensamiento crítico
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

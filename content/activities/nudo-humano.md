@@ -122,17 +122,14 @@ category:
   - Liderazgo
 skills:
   - Trabajo en equipo
-  - Comunicación
   - Resolución de problemas
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

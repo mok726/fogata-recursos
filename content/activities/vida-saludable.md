@@ -109,30 +109,31 @@ complexity_execution: 3  # Planificación y ejecución mensual
 complexity_organizer: 3  # Coordinación a largo plazo
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Dinámica de grupos"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth exercising outdoors with a planned routine, learning about healthy living and well-being. Active educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exercising together. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Dinámica de grupos
+  - Proyecto
+  - Actividad física
 category:
   - Salud
   - Ejercicio
   - Bienestar
 skills:
   - Planificación y organización
-  - Trabajo en equipo
   - Salud y autocuidado
+  - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 scout_method:
+  - Apoyo Adulto
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

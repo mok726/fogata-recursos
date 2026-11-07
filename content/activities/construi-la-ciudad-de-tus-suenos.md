@@ -112,31 +112,29 @@ complexity_execution: 2  # Diseño creativo
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth designing sustainable cities with drawings, models, and colorful materials, learning about urban sustainability and the SDGs. Creative educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, designing their cities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Proyecto
+  - Taller / Construcción
+  - Debate / Diálogo
 category:
   - Urbanismo
   - Sostenibilidad
   - Ciudades
 skills:
   - Creatividad
-  - Pensamiento crítico
-  - Trabajo en equipo
+  - Pensamiento sistémico
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,
