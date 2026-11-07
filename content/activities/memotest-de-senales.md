@@ -98,18 +98,14 @@ image_prompt: "Cub scouts in Scout Association of Argentina uniforms sitting on 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Seguridad vial
-skills:
-  - Observación
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

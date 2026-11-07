@@ -101,12 +101,11 @@ activity_type:
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Salud y autocuidado
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Respeto y Valoración de la Diversidad
+scout_values: []
 scout_method:
   - Aprender Haciendo
 

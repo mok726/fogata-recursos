@@ -99,19 +99,18 @@ image_prompt: "Teenage scouts in Scout Association of Argentina uniforms running
 activity_type:
   - Servicio
   - Proyecto
-  - Juego
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Planificación y organización
+  - Liderazgo
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
   - Responsabilidad y Compromiso
 scout_method:
-  - Involucramiento Comunitario
   - Sistema de Equipos
   - Apoyo Adulto
 

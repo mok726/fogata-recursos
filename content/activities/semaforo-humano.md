@@ -98,19 +98,14 @@ image_prompt: "Cub scouts in Scout Association of Argentina uniforms in a school
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Simulación / Juego de roles
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
-  - Optimismo y Alegría
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

@@ -106,20 +106,20 @@ image_prompt: "A line of teenage scouts in Scout Association of Argentina unifor
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Proyecto
+  - Salida / Exploración
 category:
   - Seguridad vial
 skills:
-  - Observación
+  - Planificación y organización
+  - Resolución de problemas
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
-  - Espíritu Aventurero
 scout_method:
   - Sistema de Equipos
-  - Vida en la Naturaleza
-  - Apoyo Adulto
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

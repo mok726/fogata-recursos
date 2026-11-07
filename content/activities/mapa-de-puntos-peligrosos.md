@@ -102,21 +102,21 @@ image_prompt: "Teenage scouts in Scout Association of Argentina uniforms and ref
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Servicio
+  - Campaña
 category:
   - Seguridad vial
 skills:
+  - Investigación
   - Observación
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
   - Justicia y Equidad
+  - Solidaridad y Servicio
 scout_method:
-  - Sistema de Equipos
   - Involucramiento Comunitario
-  - Apoyo Adulto
+  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas
