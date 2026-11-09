@@ -109,8 +109,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Expresión artística
 
 category:
   - Cultura
@@ -119,17 +117,11 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
-  - Observación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Respeto y Valoración de la Diversidad
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

@@ -108,7 +108,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Ecosistemas
@@ -116,16 +115,13 @@ category:
   - Arte
 
 skills:
+  - Conciencia ambiental
   - Creatividad
-  - Observación
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

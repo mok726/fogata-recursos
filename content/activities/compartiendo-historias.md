@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Dinámica de grupos
 
 category:
   - Experiencias
@@ -113,16 +112,12 @@ category:
 
 skills:
   - Empatía
-  - Comunicación
+  - Autoconocimiento
 
 scout_values:
   - Hermandad y Fraternidad
-  - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Apoyo Adulto
+scout_method: []
 
 rama_castores: []
 

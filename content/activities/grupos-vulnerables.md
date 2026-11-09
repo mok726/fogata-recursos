@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Vulnerabilidad
@@ -114,17 +113,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Empatía
+  - Conciencia social
 
 scout_values:
   - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
-  - Solidaridad y Servicio
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

@@ -107,8 +107,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Expresión artística
 
 category:
   - Género
@@ -116,17 +114,14 @@ category:
   - Inclusión
 
 skills:
-  - Comunicación
-  - Empatía
-  - Creatividad
+  - Investigación
+  - Conciencia social
 
 scout_values:
   - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

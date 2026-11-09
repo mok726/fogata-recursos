@@ -108,6 +108,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
+  - Campaña
 
 category:
   - Paisaje
@@ -116,13 +117,10 @@ category:
 
 skills:
   - Observación
-  - Investigación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Vida en la Naturaleza

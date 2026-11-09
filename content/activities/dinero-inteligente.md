@@ -112,16 +112,11 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Comunicación
+  - Creatividad
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

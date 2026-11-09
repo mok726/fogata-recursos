@@ -105,26 +105,17 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Debate / Diálogo
 
 category:
   - Concurso
   - Preguntas
   - Equipos
 
-skills:
-  - Trabajo en equipo
-  - Resolución de problemas
-  - Comunicación
+skills: []
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

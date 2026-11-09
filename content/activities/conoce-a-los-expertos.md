@@ -93,7 +93,7 @@ active_component: 2  # Desplazamiento y entrevista
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere coordinar visita
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group interviewing emergency responders - firefighters, paramedics, police - in their workplace dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and taking notes. Emergency services and professional respect atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
-  - Reflexión
+  - Visita / Charla
 
 category:
   - Respuesta a emergencias
@@ -115,18 +114,13 @@ category:
   - Seguridad
 
 skills:
-  - Comunicación
   - Investigación
-  - Empatía
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Respeto y Valoración de la Diversidad
 
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 rama_castores: []
 

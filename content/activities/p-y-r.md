@@ -92,7 +92,7 @@ active_component: 1  # Actividad de discusión
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere contactar experto
 
-main_type: "Reflexión"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A question and answer session with a hazard expert, with children asking questions and filming dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing and recording. Educational discussion and expert knowledge atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,28 +105,19 @@ accessibility: []
 
 
 activity_type:
-  - Reflexión
-  - Indagación
-  - Debate / Diálogo
+  - Visita / Charla
 
 category:
   - Preguntas
   - Expertos
   - Aprendizaje
 
-skills:
-  - Pensamiento crítico
-  - Comunicación
-  - Investigación
+skills: []
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Apoyo Adulto
+scout_method: []
 
 rama_castores: []
 

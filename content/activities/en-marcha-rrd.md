@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Desplazamiento
@@ -113,17 +112,12 @@ category:
 
 skills:
   - Investigación
-  - Empatía
-  - Comunicación
+  - Conciencia social
 
 scout_values:
-  - Solidaridad y Servicio
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

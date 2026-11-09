@@ -95,7 +95,7 @@ active_component: 2  # Construcción manual
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere materiales variados
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative model of a super-building with disaster-resilient features like reinforced walls, flood barriers, and early warning systems dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, constructing their models with craft materials. Creative engineering and innovation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,8 +108,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Proyecto
+  - Taller / Construcción
 
 category:
   - Construcción
@@ -119,15 +118,11 @@ category:
 skills:
   - Creatividad
   - Resolución de problemas
-  - Trabajo en equipo
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 

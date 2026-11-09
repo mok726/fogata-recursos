@@ -90,7 +90,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Reflexión"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. International aid and cooperation for disaster recovery in developing countries dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and writing reports. Global solidarity and international cooperation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Cooperación
@@ -113,17 +112,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Conciencia social
 
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
   - Justicia y Equidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

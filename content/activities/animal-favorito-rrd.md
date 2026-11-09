@@ -102,8 +102,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
-  - Juego
 
 category:
   - Animales
@@ -112,16 +110,10 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Empatía
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

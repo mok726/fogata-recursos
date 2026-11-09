@@ -113,16 +113,11 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Pensamiento crítico
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

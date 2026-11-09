@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Reflexión
 
 category:
   - Preparación
@@ -112,18 +111,11 @@ category:
   - Familia
 
 skills:
-  - Pensamiento crítico
   - Comunicación
-  - Creatividad
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

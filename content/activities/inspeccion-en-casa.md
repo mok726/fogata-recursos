@@ -95,7 +95,7 @@ active_component: 3  # Moverse por la casa para inspeccionar
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family doing a home disaster preparedness inspection with checklists and emergency supplies dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, checking smoke detectors and emergency kits. Home safety and family preparedness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,8 +108,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Indagación
 
 category:
   - Hogar
@@ -119,15 +118,13 @@ category:
 skills:
   - Observación
   - Planificación y organización
+  - Salud y autocuidado
 
 scout_values:
+  - Familia y Vínculos de Cuidado
   - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
-  - Vida Sana y Bienestar
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 
