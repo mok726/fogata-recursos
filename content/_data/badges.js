@@ -600,9 +600,9 @@ sections: {
       hero_image: "/imagenes/insignias/gosolar-hero.png",
       sources: [],
   license: {
-    type: "© Solafrica – Sin licencia publicada",
+    type: "© Solafrica – Publicación autorizada por Solafrica",
     url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",
-    note: "Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026."
+    note: "Titular: Solafrica (manual Scouts Go Solar, 2015), que autorizó la publicación el 09/11/2026. Pendiente: Scouts de Argentina (solicitada el 26/10/2026) y la OMMS."
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",

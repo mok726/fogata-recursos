@@ -5,7 +5,7 @@ N4=("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 FAO_ARR=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/")
 WOSM=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org")
 SAAC=("© Scouts de Argentina A.C. – Todos los derechos reservados","https://www.scouts.org.ar")
-SOLA=("© Solafrica – Sin licencia publicada","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/")
+SOLA=("© Solafrica – Publicación autorizada por Solafrica","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/")
 UNK=("© FAO – Licencia sin confirmar","https://www.fao.org/yunga/resources/yunga-publications/en")
 notes={'arr':"Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026.",
  'cc3':"Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO.",
@@ -13,7 +13,7 @@ notes={'arr':"Autorizado: uso no comercial del original citando a la FAO. Pendie
  'mix':"Las actividades de la FAO usan CC BY-NC-SA 4.0. Las del kit Tide Turners (© World Scout Bureau) esperan autorización, solicitada a la OMMS el 26/10/2026. Ver la licencia de cada actividad.",
  'wosm':"Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026.",
  'saac':"Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026.",
- 'sol':"Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026.",
+ 'sol':"Titular: Solafrica (manual Scouts Go Solar, 2015), que autorizó la publicación el 09/11/2026. Pendiente: Scouts de Argentina (solicitada el 26/10/2026) y la OMMS.",
  'pend':"Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026.",
  'unk':"Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."}
 M={'agricultura':(UNK,'unk'),'genero':(UNK,'unk'),'gobernanza':(UNK,'unk'),
