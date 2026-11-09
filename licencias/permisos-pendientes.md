@@ -20,7 +20,7 @@ Cuando llegue un permiso, se cambia la clase en `licencias/scripts/aplicar_licen
 | `fao_sinverificar` (Polinizadores, RRD, Ciudades Verdes) | © FAO, licencia sin confirmar | 113 |
 | `wosm` (Tide Turners, Champions for Nature) | © World Scout Bureau Inc. | 40 |
 | `saac` (Mundo Mejor) | © Scouts de Argentina | 10 |
-| `solafrica` (Go Solar) | © Solafrica, sin licencia publicada | 13 |
+| `solafrica` (Go Solar) | © Solafrica, publicación autorizada por Solafrica; faltan Scouts de Argentina y la OMMS | 13 |
 
 Emails a la FAO, la OMMS, Solafrica y Scouts de Argentina enviados el 26/10/2026. Atribuciones, enlaces y avisos de traducción ajustados a lo declarado en los emails con `licencias/scripts/corregir_atribuciones.py`.
 
@@ -54,7 +54,15 @@ Además, en el mismo email:
 - **Contacto:** worldbureau@scout.org. Alternativa: pedirlo a través de Scouts de Argentina, que es organización miembro.
 - **Motivo:** *Tide Turners Plastic Challenge* (2020, 20 actividades) y *Champions for Nature* (2020, con WWF, 20 actividades). Ambos dicen: "© World Scout Bureau Inc. Reproduction is authorised for NSOs and NSAs, which are members of the World Organization of the Scout Movement". Formato de crédito que piden: "© 2020. World Organization of the Scout Movement. Reprinted with permission."
 
-## 3. Solafrica: 13 actividades (Go Solar). Email enviado el 26/10/2026
+## 3. Solafrica: 13 actividades (Go Solar). Email enviado el 26/10/2026. **AUTORIZADO el 09/11/2026**
+
+> "Regarding publication, it's perfectly fine from our side (from Solafrica). Our idea is to have the contents available online, freely accessible for everyone. So your website definitely contributes to that." (Solafrica)
+
+Esto cubre a Solafrica. Siguen pendientes:
+- **Scouts de Argentina**, por el desafío Go Solar (ver punto 4).
+- **La OMMS**, coautora del programa. El email del 26/10 no mencionaba Go Solar, así que hay que pedírselo aparte.
+- La adaptación al español es de Abelardo Castillo Rosas (Scouts de México). Si el texto publicado sale de esa traducción, también conviene su OK (centros.scouts@scouts.org.mx).
+
 
 - **Contacto:** scoutsgosolar@solafrica.ch (figura en el manual). Para la versión en español: centros.scouts@scouts.org.mx.
 - **Motivo:** las actividades de Go Solar salen del manual *Scouts Go Solar – Manual de Energía Solar* (Solafrica, junio de 2015; adaptación al español de Abelardo Castillo Rosas). Lo desarrollaron con YUNGA y la OMMS. El manual no trae aviso de copyright ni licencia; solo dice que "la OMMS respalda el uso de este manual […] por Guías y Scouts […], quienes lo pueden adaptar en lo necesario para sus necesidades y requerimientos locales". Eso es un respaldo de la OMMS para usarlo en el programa, no una licencia del autor para republicarlo en la web.
