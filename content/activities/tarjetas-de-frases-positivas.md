@@ -78,12 +78,12 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "© World Scout Bureau Inc. – Todos los derechos reservados"
-  url: "https://www.scout.org"
+  name: "© World Scout Bureau Inc. – CC BY-NC-SA 2.5 (términos de scout.org)"
+  url: "https://www.scout.org/terms-and-conditions"
   image: ""
   note: "Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.). Desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA)."
-  allowed: "Uso en la plataforma Scouts for SDGs de la OMMS."
-  pending: "Traducir y publicar esta adaptación en este sitio: autorización a solicitar a la OMMS."
+  allowed: "Según los términos de scout.org, el material del sitio se ofrece bajo licencia CC BY-NC-SA 2.5: se puede copiar, distribuir y adaptar con fines no comerciales, citando a la OMMS y compartiendo las adaptaciones bajo la misma licencia o una versión posterior. Los términos no aclaran si esto incluye sdgs.scout.org."
+  pending: "Confirmación expresa de la OMMS para este sitio (los mismos términos piden que quienes no son organizaciones miembro soliciten permiso): solicitada el 09/11/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
