@@ -122,7 +122,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Indagación
 category:
   - Biodiversidad
   - Tecnología
@@ -130,13 +129,11 @@ category:
 skills:
   - Observación
   - Alfabetización digital
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Vida en la Naturaleza
   - Aprender Haciendo

@@ -114,33 +114,28 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth walking through a neighborhood, wearing imaginary 'food glasses', spotting items related to food production and consumption, taking notes and discussing. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing food chains in the neighborhood. Educational outdoor research scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Salida / Exploración
-  - Reflexión
 category:
   - Alimentos
   - Consumo
   - Sostenibilidad
 skills:
   - Observación
-  - Pensamiento crítico
+  - Pensamiento sistémico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

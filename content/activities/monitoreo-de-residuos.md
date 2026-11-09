@@ -118,24 +118,21 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
-  - Proyecto
+  - Visita / Charla
 category:
   - Residuos
   - Reciclaje
   - Gestión
 skills:
-  - Observación
-  - Pensamiento crítico
+  - Investigación
+  - Hábitos sostenibles
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
-  - Progresión Personal
   - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

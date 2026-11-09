@@ -118,24 +118,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Juego
-  - Reflexión
 category:
   - Sostenibilidad
   - Hábitos
   - Educación ambiental
 skills:
   - Pensamiento crítico
-  - Comunicación
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Compromiso con la Naturaleza
+  - Vida Sana y Bienestar
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

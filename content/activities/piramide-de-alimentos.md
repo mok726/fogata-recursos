@@ -122,25 +122,20 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Indagación
-  - Proyecto
 category:
   - Alimentación
   - Salud
   - Impacto ambiental
 skills:
   - Salud y autocuidado
-  - Pensamiento crítico
+  - Hábitos sostenibles
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-scout_method:
-  - Progresión Personal
-  - Aprender Haciendo
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
