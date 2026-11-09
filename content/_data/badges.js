@@ -234,6 +234,10 @@ sections: {
         {
           name: "OMMS: Tide Turners Plastic Challenge – Implementation Manual (2020), actividades P",
           url: "https://learn.scout.org/node/8523"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
         }
       ],
   license: {
@@ -598,7 +602,24 @@ sections: {
         "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética.  \n ¿Qué es el Desafío Scouts Go Solar?\nEl Desafío Scouts Go Solar es una iniciativa global desarrollada por *SOLAFRICA* y adoptada por la Organización Mundial del Movimiento Scout\ncomo componente integral de Tribu Tierra.\n Este Desafío, enmarcado en el eje de Energías Limpias, nos ayudará a entender los diversos usos y aplicaciones de las energías renovables para poder desarrollar proyectos de impacto socio ambiental vinculados con ellas. ",
       logo: "/imagenes/insignias/gosolar.png",
       hero_image: "/imagenes/insignias/gosolar-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Solafrica: Scouts go Solar – descargas (manual, cuaderno de trabajo y manuales de construcción en español)",
+          url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
+        },
+        {
+          name: "Solafrica: Cuaderno de Trabajo Solar, 2.ª ed. 2022 (PDF)",
+          url: "https://solafrica.ch/wp-content/uploads/2025/11/Cuaderno-de-Trabajo-Version-2.pdf"
+        },
+        {
+          name: "OMMS: Scouts Go Solar – guía para educadores (Scouts for SDGs, inglés)",
+          url: "https://sdgs.scout.org/challenges/scouts-go-solar/leader"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
+        }
+      ],
   license: {
     type: "© Solafrica – Publicación autorizada por Solafrica",
     url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",
@@ -902,6 +923,10 @@ sections: {
         {
           name: "Champions for Nature Challenge – Action Kit (OMMS, 2020)",
           url: "https://scouts.mt/wp-content/uploads/2025/08/CFN-ActionKit.pdf"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
         }
       ],
   license: {
