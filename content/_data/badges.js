@@ -601,7 +601,7 @@ sections: {
       sources: [],
   license: {
     type: "© Solafrica – Sin licencia publicada",
-    url: "https://www.solafrica.ch/scout-badge",
+    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",
     note: "Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026."
   },
   attribution: {

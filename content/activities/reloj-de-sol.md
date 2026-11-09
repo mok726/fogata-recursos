@@ -87,12 +87,12 @@ references:
     author: "Solafrica, YUNGA, OMMS"
     year: 2015
     series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"
-    url: "https://www.solafrica.ch/scout-badge"
+    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
 
 # ========== LICENCIA ==========
 license:
   name: "© Solafrica – Sin licencia publicada"
-  url: "https://www.solafrica.ch/scout-badge"
+  url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
   image: ""
   note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
   allowed: "Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
@@ -127,31 +127,28 @@ complexity_execution: 2  # Sencilla de construir
 complexity_organizer: 3  # Requiere materiales específicos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth constructing a sundial using cardboard, with the template and tools displayed, then placing it in sunlight to tell time. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building a sundial. Educational craft scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Salida / Exploración
+  - Taller / Construcción
+  - Indagación
 category:
   - Astronomía
   - Energía solar
   - Manualidades
 skills:
-  - Creatividad
-  - Observación
-  - Conciencia ambiental
+  - Investigación
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

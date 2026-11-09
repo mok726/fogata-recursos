@@ -14,7 +14,7 @@ L={
     allowed="Reproducción por las organizaciones scouts nacionales miembro de la OMMS.",pending=f"Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el {SOL}, en espera de respuesta."),
  'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Titular de los derechos: Scouts de Argentina Asociación Civil.",status="permiso-pendiente",
     allowed="Nada publicado.",pending=f"Publicar esta adaptación: autorización solicitada a Scouts de Argentina el {SOL}, en espera de respuesta."),
- 'solafrica':dict(lic=("© Solafrica – Sin licencia publicada","https://www.solafrica.ch/scout-badge",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-pendiente",
+ 'solafrica':dict(lic=("© Solafrica – Sin licencia publicada","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-pendiente",
     allowed="Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales.",pending=f"Publicar esta adaptación en un sitio web: autorización solicitada a Solafrica y a Scouts de Argentina el {SOL}, en espera de respuesta."),
 }
 RANK=['propio','fao_cc','fao_sinverificar','fao_arr','solafrica','saac','wosm']

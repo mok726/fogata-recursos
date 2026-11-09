@@ -79,12 +79,12 @@ references:
     author: "Solafrica, YUNGA, OMMS"
     year: 2015
     series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"
-    url: "https://www.solafrica.ch/scout-badge"
+    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
 
 # ========== LICENCIA ==========
 license:
   name: "© Solafrica – Sin licencia publicada"
-  url: "https://www.solafrica.ch/scout-badge"
+  url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
   image: ""
   note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
   allowed: "Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
@@ -119,26 +119,24 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth crafting their own sunglasses with UV protective film, cutting and assembling paper frames with dark plastic lenses. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making sunglasses. Educational craft scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Salud
   - Protección solar
   - Manualidades
 skills:
-  - Creatividad
   - Salud y autocuidado
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
 

@@ -46,7 +46,7 @@ for f in sorted(glob.glob('content/activities/*.md')):
         fm=sub_block(fm,'author',['author:','  - Solafrica','  - YUNGA','  - Organización Mundial del Movimiento Scout'],nl)
         fm=sub_block(fm,'source',['source:','  - Solafrica - Scouts Go Solar, Manual de Energía Solar (2015)','  - Scouts de Argentina - Desafío Scouts Go Solar'],nl)
         fm=re.sub(r'(?m)^Origin: .*$','Origin: '+q('Scouts Go Solar - Manual de Energía Solar - Solafrica'),fm)
-        fm=sub_block(fm,'references',['references:','  - title: "Scouts Go Solar - Manual de Energía Solar"','    author: "Solafrica, YUNGA, OMMS"','    year: 2015','    series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"','    url: "https://www.solafrica.ch/scout-badge"'],nl)
+        fm=sub_block(fm,'references',['references:','  - title: "Scouts Go Solar - Manual de Energía Solar"','    author: "Solafrica, YUNGA, OMMS"','    year: 2015','    series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"','    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"'],nl)
         att=[x for x in (d.get('attributions') or []) if 'Scouts de Argentina' not in str(x.get('entity')) and 'Solafrica' not in str(x.get('entity')) and 'Castillo' not in str(x.get('entity')) and 'Desafío' not in str(x.get('role'))]
         new=[dict(entity='© Solafrica 2015',role='fuente y titular de los derechos de autor',year=2015),
              dict(entity='Abelardo Castillo Rosas',role='traducción y adaptación al español del manual',year=2015),
