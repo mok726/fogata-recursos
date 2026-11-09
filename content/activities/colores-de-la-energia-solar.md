@@ -127,20 +127,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Indagación
 category:
   - Energía solar
   - Colores
   - Calor
 skills:
+  - Experimentación
   - Observación
   - Pensamiento científico
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
 

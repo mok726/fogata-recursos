@@ -128,21 +128,16 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Salida / Exploración
 category:
   - Agua
   - Condensación
   - Supervivencia
 skills:
+  - Técnicas scout
   - Observación
-  - Resolución de problemas
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
   - Vida en la Naturaleza
   - Aprender Haciendo

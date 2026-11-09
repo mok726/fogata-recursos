@@ -119,32 +119,26 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth cooking a meal using a solar oven in a camp or outdoor setting, preparing food with sustainable energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cooking with solar energy. Educational outdoor cooking scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Cocina
   - Energía solar
   - Sostenibilidad
 skills:
-  - Salud y autocuidado
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

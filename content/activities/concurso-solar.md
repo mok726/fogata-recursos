@@ -126,18 +126,11 @@ category:
   - Energía solar
   - Juego
   - Conocimiento
-skills:
-  - Observación
-  - Trabajo en equipo
-  - Conciencia ambiental
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
