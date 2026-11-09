@@ -84,13 +84,13 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "© World Scout Bureau Inc. – Todos los derechos reservados"
-  url: "https://www.scout.org"
+  name: "© World Scout Bureau Inc. – CC BY-NC-SA 2.5 (términos de scout.org)"
+  url: "https://www.scout.org/terms-and-conditions"
   image: ""
   note: "Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)."
-  allowed: "Reproducción por las organizaciones scouts nacionales miembro de la OMMS."
-  pending: "Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el 26/10/2026, en espera de respuesta."
-  status: "permiso-pendiente"
+  allowed: "Según los términos de scout.org, el material del sitio se ofrece bajo licencia CC BY-NC-SA 2.5: se puede copiar, distribuir y adaptar con fines no comerciales, citando a la OMMS y compartiendo las adaptaciones bajo la misma licencia o una versión posterior. Los kits también autorizan la reproducción por las organizaciones scouts nacionales miembro de la OMMS."
+  pending: "Confirmación expresa de la OMMS para este sitio (los mismos términos piden que quienes no son organizaciones miembro soliciten permiso): solicitada el 26/10/2026 y el 09/11/2026, en espera de respuesta."
+  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:

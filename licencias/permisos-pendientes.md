@@ -18,9 +18,9 @@ Cuando llegue un permiso, se cambia la clase en `licencias/scripts/aplicar_licen
 | `fao_cc` (Energía 2019, Plásticos FAO 2024) | CC BY-NC-SA 4.0 + nota "origen CC BY-NC-SA 3.0 IGO" | 96 |
 | `fao_arr` (ediciones FAO anteriores a CC) | © FAO, todos los derechos reservados | 757 |
 | `fao_sinverificar` (Polinizadores, RRD, Ciudades Verdes) | © FAO, licencia sin confirmar | 113 |
-| `wosm` (Tide Turners, Champions for Nature) | © World Scout Bureau Inc. | 40 |
+| `wosm` (Tide Turners, Champions for Nature) | © World Scout Bureau Inc.; los términos de scout.org lo ofrecen bajo CC BY-NC-SA 2.5; falta la confirmación expresa | 40 |
 | `saac` (Mundo Mejor) | © Scouts de Argentina | 10 |
-| `solafrica` (Go Solar) | © Solafrica, publicación autorizada por Solafrica; faltan Scouts de Argentina y la OMMS | 13 |
+| `solafrica` (Go Solar) | © Solafrica, publicación autorizada por Solafrica; faltan Scouts de Argentina y la confirmación expresa de la OMMS | 13 |
 
 Emails a la FAO, la OMMS, Solafrica y Scouts de Argentina enviados el 26/10/2026. Atribuciones, enlaces y avisos de traducción ajustados a lo declarado en los emails con `licencias/scripts/corregir_atribuciones.py`.
 
@@ -53,6 +53,8 @@ Además, en el mismo email:
 
 - **Contacto:** worldbureau@scout.org. Alternativa: pedirlo a través de Scouts de Argentina, que es organización miembro.
 - **Motivo:** *Tide Turners Plastic Challenge* (2020, 20 actividades) y *Champions for Nature* (2020, con WWF, 20 actividades). Ambos dicen: "© World Scout Bureau Inc. Reproduction is authorised for NSOs and NSAs, which are members of the World Organization of the Scout Movement". Formato de crédito que piden: "© 2020. World Organization of the Scout Movement. Reprinted with permission."
+- **Términos de scout.org** (https://www.scout.org/terms-and-conditions, V2.0, 25/05/2018): el material del sitio se ofrece bajo CC BY-NC-SA 2.5, que permite publicar las adaptaciones con CC BY-NC-SA 4.0. Pero los mismos términos hablan solo de uso personal, sin obras derivadas, y piden que quienes no son organizaciones miembro soliciten permiso a digital@scout.org. Tampoco dicen si cubren sdgs.scout.org ni los PDFs. Las marcas y los logos requieren permiso expreso. Por eso las fichas quedan como `permiso-parcial` mientras se espera la confirmación.
+- **Seguimiento:** el 09/11/2026 se envió un seguimiento a worldbureau@scout.org que suma los desafíos de Scouts for SDGs, y otro email a digital@scout.org.
 
 ## 3. Solafrica: 13 actividades (Go Solar). Email enviado el 26/10/2026. **AUTORIZADO el 09/11/2026**
 
@@ -60,7 +62,7 @@ Además, en el mismo email:
 
 Esto cubre a Solafrica. Siguen pendientes:
 - **Scouts de Argentina**, por el desafío Go Solar (ver punto 4).
-- **La OMMS**, coautora del programa. El email del 26/10 no mencionaba Go Solar, así que hay que pedírselo aparte.
+- **La OMMS**, coautora del programa. El email del 26/10 incluía Go Solar. Los términos de scout.org (CC BY-NC-SA 2.5) lo permitirían; falta la confirmación expresa.
 - La adaptación al español es de Abelardo Castillo Rosas (Scouts de México). Si el texto publicado sale de esa traducción, también conviene su OK (centros.scouts@scouts.org.mx).
 
 

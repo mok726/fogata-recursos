@@ -101,7 +101,7 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
   allowed: "Solafrica (09/11/2026)."
-  pending: "Scouts de Argentina (desafío Go Solar): autorización solicitada el 26/10/2026, en espera. OMMS (coautora del programa): autorización pendiente."
+  pending: "Scouts de Argentina (desafío Go Solar): autorización solicitada el 26/10/2026, en espera. OMMS (coautora del programa): los términos de scout.org ofrecen su material bajo CC BY-NC-SA 2.5, lo que lo permitiría; confirmación expresa solicitada el 26/10/2026 y el 09/11/2026."
   status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
