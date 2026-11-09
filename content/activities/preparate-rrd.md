@@ -103,26 +103,17 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Proyecto
 
 category:
   - Comunidad
   - Preparación
   - Protección
 
-skills:
-  - Pensamiento crítico
-  - Planificación y organización
-  - Observación
+skills: []
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

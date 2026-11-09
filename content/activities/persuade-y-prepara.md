@@ -113,17 +113,12 @@ category:
   - Planificación
 
 skills:
+  - Investigación
   - Pensamiento crítico
-  - Comunicación
 
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

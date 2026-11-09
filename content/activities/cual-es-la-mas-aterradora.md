@@ -86,7 +86,7 @@ active_component: 1  # Actividad de conversación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Juego"
+main_type: "Debate / Diálogo"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child superhero with a cape and special powers standing confidently against dramatic storm clouds and natural hazard symbols dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing ideas and playing. Creative imagination and childhood fantasy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -99,9 +99,7 @@ accessibility: []
 
 
 activity_type:
-  - Juego
-  - Reflexión
-  - Expresión artística
+  - Debate / Diálogo
 
 category:
   - Amenazas
@@ -110,16 +108,10 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Pensamiento crítico
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Apoyo Adulto
+scout_method: []
 
 rama_castores: []
 

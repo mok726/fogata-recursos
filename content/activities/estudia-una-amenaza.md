@@ -113,7 +113,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Amenazas naturales
@@ -122,17 +121,12 @@ category:
 
 skills:
   - Investigación
-  - Trabajo en equipo
-  - Pensamiento crítico
+  - Comunicación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

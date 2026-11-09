@@ -120,17 +120,14 @@ category:
 skills:
   - Planificación y organización
   - Trabajo en equipo
-  - Comunicación
 
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
   - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 

@@ -104,8 +104,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Juego
-  - Reflexión
 
 category:
   - Superhéroes
@@ -114,16 +112,10 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Empatía
 
-scout_values:
-  - Optimismo y Alegría
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

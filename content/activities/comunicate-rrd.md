@@ -90,7 +90,7 @@ active_component: 2  # Desplazamiento para entregar la carta
 complexity_execution: 3  # Requiere investigación y redacción formal
 complexity_organizer: 3  # Requiere coordinación con autoridades
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A formal proposal for DRR improvements being presented to local authorities, with a letter and documentation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting their proposal. Youth advocacy and civic engagement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,7 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
+  - Campaña
   - Indagación
 
 category:
@@ -114,16 +114,12 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Pensamiento crítico
 
 scout_values:
-  - Justicia y Equidad
   - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
 scout_method:
   - Involucramiento Comunitario
-  - Apoyo Adulto
 
 rama_castores: []
 

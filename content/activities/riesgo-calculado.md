@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Riesgo
@@ -112,17 +111,12 @@ category:
   - Análisis
 
 skills:
-  - Pensamiento crítico
   - Investigación
+  - Pensamiento sistémico
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

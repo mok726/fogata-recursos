@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Desastres
@@ -114,17 +113,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

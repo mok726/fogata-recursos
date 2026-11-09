@@ -109,18 +109,11 @@ category:
   - Valoración
 
 skills:
-  - Pensamiento crítico
-  - Comunicación
-  - Empatía
+  - Autoconocimiento
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

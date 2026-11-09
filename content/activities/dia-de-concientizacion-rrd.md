@@ -98,7 +98,7 @@ active_component: 4  # Organización y ejecución del evento
 complexity_execution: 4  # Requiere planificación avanzada
 complexity_organizer: 4  # Requiere coordinación comunitaria
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community awareness event about disaster risk reduction with posters, booths, and people learning dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the event and talking to community members. Community action and public awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -111,6 +111,7 @@ accessibility: []
 
 
 activity_type:
+  - Campaña
   - Servicio
 
 category:
@@ -120,8 +121,8 @@ category:
 
 skills:
   - Planificación y organización
-  - Comunicación
   - Trabajo en equipo
+  - Comunicación
 
 scout_values:
   - Responsabilidad y Compromiso
@@ -130,7 +131,6 @@ scout_values:
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 
