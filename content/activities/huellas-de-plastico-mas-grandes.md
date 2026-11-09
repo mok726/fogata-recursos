@@ -70,6 +70,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Biggest plastic footprints?"
+    url: "https://sdgs.scout.org/activity-type/biggest-plastic-footprints"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

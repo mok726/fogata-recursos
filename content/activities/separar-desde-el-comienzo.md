@@ -70,6 +70,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Segregation at Source"
+    url: "https://sdgs.scout.org/activity-type/segregation-source"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

@@ -74,6 +74,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Your eco-friendly life"
+    url: "https://sdgs.scout.org/activity-type/your-eco-friendly-life"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

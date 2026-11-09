@@ -68,6 +68,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Recycling and reducing"
+    url: "https://sdgs.scout.org/activity-type/recycling-and-reducing"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

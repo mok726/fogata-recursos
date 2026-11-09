@@ -75,6 +75,11 @@ link:
     icon: "pdf"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Solar Compass"
+    url: "https://sdgs.scout.org/activity-type/solar-compass"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

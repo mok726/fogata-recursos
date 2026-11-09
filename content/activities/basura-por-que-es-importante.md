@@ -71,6 +71,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Litter... Why does it Matter?"
+    url: "https://sdgs.scout.org/activity-type/litter-why-does-it-matter"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

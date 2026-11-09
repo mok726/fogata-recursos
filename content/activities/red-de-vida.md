@@ -67,6 +67,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Web of Life"
+    url: "https://sdgs.scout.org/activity-type/web-life"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

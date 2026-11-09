@@ -80,6 +80,11 @@ link:
     icon: "pdf"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Solar Still"
+    url: "https://sdgs.scout.org/activity-type/solar-still"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

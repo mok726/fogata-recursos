@@ -73,6 +73,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Making a Poster on Marine Pollution"
+    url: "https://sdgs.scout.org/activity-type/making-poster-marine-pollution"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

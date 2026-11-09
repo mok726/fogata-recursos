@@ -68,6 +68,11 @@ tags:
 link:
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Play to Kill the Ocean"
+    url: "https://sdgs.scout.org/activity-type/play-kill-ocean"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

@@ -73,6 +73,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "What is at risk"
+    url: "https://sdgs.scout.org/activity-type/what-risk"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

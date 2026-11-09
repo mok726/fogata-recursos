@@ -93,6 +93,11 @@ link:
     icon: "pdf"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Sundial - The Sun as a Timekeeper"
+    url: "https://sdgs.scout.org/activity-type/sundial-sun-timekeeper"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

@@ -74,6 +74,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Footprint checklist"
+    url: "https://sdgs.scout.org/activity-type/footprint-checklist"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

@@ -79,6 +79,11 @@ link:
     icon: "pdf"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "SODIS - Harnessing the Sun's Power to Purify Water!"
+    url: "https://sdgs.scout.org/activity-type/sodis-harnessing-suns-power-purify-water"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

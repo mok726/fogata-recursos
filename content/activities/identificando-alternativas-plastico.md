@@ -68,6 +68,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Identifying alternatives to plastics"
+    url: "https://sdgs.scout.org/activity-type/identifying-alternatives-plastics"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

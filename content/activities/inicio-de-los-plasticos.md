@@ -71,6 +71,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Plastics beginnings (Plastics - Then & Now)"
+    url: "https://sdgs.scout.org/activity-type/plastics-beginnings-plastics-then-now"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

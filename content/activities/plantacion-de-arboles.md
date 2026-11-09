@@ -64,6 +64,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Learning about Tree Planting"
+    url: "https://sdgs.scout.org/activity-type/learning-about-tree-planting"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

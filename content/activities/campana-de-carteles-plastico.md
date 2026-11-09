@@ -74,6 +74,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Poster campaign"
+    url: "https://sdgs.scout.org/activity-type/poster-campaign"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

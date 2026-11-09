@@ -71,6 +71,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Walking with your food glasses on!"
+    url: "https://sdgs.scout.org/activity-type/walking-your-food-glasses"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"
