@@ -74,12 +74,12 @@ references:
     author: "Solafrica, YUNGA, OMMS"
     year: 2015
     series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"
-    url: "https://www.solafrica.ch/scout-badge"
+    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
 
 # ========== LICENCIA ==========
 license:
   name: "© Solafrica – Sin licencia publicada"
-  url: "https://www.solafrica.ch/scout-badge"
+  url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
   image: ""
   note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
   allowed: "Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
