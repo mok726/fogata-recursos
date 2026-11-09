@@ -73,6 +73,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Audit your Plastic Habit"
+    url: "https://sdgs.scout.org/activity-type/audit-your-plastic-habit"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

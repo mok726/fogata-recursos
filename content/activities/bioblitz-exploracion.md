@@ -76,6 +76,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "BioBlitz - Natural area exploration"
+    url: "https://sdgs.scout.org/activity-type/bioblitz-natural-area-exploration"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

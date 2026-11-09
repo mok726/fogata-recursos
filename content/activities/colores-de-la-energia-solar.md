@@ -73,6 +73,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "The Colors of Solar Energy"
+    url: "https://sdgs.scout.org/activity-type/colors-solar-energy"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

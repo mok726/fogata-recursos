@@ -72,6 +72,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Bottle cap mosaic Art & Craft"
+    url: "https://sdgs.scout.org/activity-type/bottle-cap-mosaic-art-craft"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

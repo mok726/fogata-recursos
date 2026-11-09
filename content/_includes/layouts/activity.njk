@@ -650,6 +650,20 @@ async function shareActivity() {
       </div>
       {% endif %}
 
+      {% if (sister | default([])) | length %}
+      <div class="info-card sister-card">
+        <h3><span class="material-symbols-outlined" aria-hidden="true">diversity_1</span> Actividad hermana</h3>
+        <p>Scouts for SDGs, de la Organización Mundial del Movimiento Scout, publica una actividad similar a esta, porque las dos se basan en el mismo material original:</p>
+        <div class="download-list">
+          {% for s in sister %}
+            <a href="{{ s.url }}" class="download-item" target="_blank" rel="noopener" lang="en">
+              🔗 {{ s.title }} <small>(sdgs.scout.org, en inglés)</small>
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
       {% if tags %}
 
       <div class="info-card">

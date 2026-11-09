@@ -70,6 +70,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Regulating the Use of Plastics"
+    url: "https://sdgs.scout.org/activity-type/regulating-use-plastics"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Tide Turners Plastic Challenge - Kit de Acción"

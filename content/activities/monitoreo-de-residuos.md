@@ -67,6 +67,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "My Waste Monitoring"
+    url: "https://sdgs.scout.org/activity-type/my-waste-monitoring"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

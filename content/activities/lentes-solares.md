@@ -73,6 +73,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "DIY Sunglasses"
+    url: "https://sdgs.scout.org/activity-type/diy-sunglasses"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"

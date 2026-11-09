@@ -69,6 +69,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Storytelling - the Pixar Pitch"
+    url: "https://sdgs.scout.org/activity-type/storytelling-pixar-pitch"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

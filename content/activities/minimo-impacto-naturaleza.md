@@ -72,6 +72,11 @@ link:
     icon: "pdf"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Minimum Impact on Nature"
+    url: "https://sdgs.scout.org/activity-type/minimum-impact-nature"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

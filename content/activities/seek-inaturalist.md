@@ -71,6 +71,11 @@ link:
     icon: "link"
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Discovering Nature with Seek App by iNaturalist"
+    url: "https://sdgs.scout.org/activity-type/discovering-nature-seek-app-inaturalist"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Desafío Champions for Nature - Kit de Acción"

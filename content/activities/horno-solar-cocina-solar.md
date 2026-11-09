@@ -77,6 +77,11 @@ tags:
 link: []
 files: []
 
+# ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
+sister:
+  - title: "Solar Chef - Building Your Panel Solar Cooker!"
+    url: "https://sdgs.scout.org/activity-type/solar-chef-building-your-panel-solar-cooker"
+
 # ========== REFERENCIAS ==========
 references:
   - title: "Scouts Go Solar - Manual de Energía Solar"
