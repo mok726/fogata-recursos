@@ -127,16 +127,14 @@ category:
   - Comunidad
   - Sostenibilidad
 skills:
+  - Hábitos sostenibles
   - Planificación y organización
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

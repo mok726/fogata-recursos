@@ -113,30 +113,26 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing a polite letter to local authorities about environmental challenges with specific suggestions, with stamps and envelopes on the table dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing a green letter to local politicians. Civic engagement environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
-  - Reflexión
+  - Campaña
 category:
   - Política
   - Comunicación
   - Ciudades
 skills:
   - Comunicación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

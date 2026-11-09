@@ -122,22 +122,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Dinámica de grupos
 category:
   - Urbanismo
   - Cartografía
   - Comunidad
 skills:
-  - Creatividad
   - Trabajo en equipo
-  - Observación
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
+scout_values: []
 scout_method:
-  - Aprender Haciendo
   - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========

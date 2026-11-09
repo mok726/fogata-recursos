@@ -116,31 +116,25 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Urban planning concepts with traffic design, green spaces, and sustainable building illustrated with children learning and discussing city planning dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about urban planning and designing green cities. Urban planning education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Reflexión
+  - Campaña
 category:
   - Urbanismo
   - Diseño
   - Sostenibilidad
 skills:
-  - Investigación
-  - Pensamiento crítico
+  - Pensamiento sistémico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

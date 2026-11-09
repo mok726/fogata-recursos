@@ -115,32 +115,26 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An urban farm with diverse vegetables, people harvesting produce, and learning about urban agriculture dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, visiting an urban farm and interviewing farmers. Urban agriculture exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Visita / Charla
   - Salida / Exploración
-  - Indagación
 category:
   - Agricultura
   - Alimentos
   - Ciudades
 skills:
-  - Observación
-  - Investigación
-  - Comunicación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

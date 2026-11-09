@@ -120,23 +120,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Urbanización
   - Sociedad
   - Comunidad
 skills:
-  - Comunicación
-  - Pensamiento crítico
+  - Investigación
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Respeto y Valoración de la Diversidad
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

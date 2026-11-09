@@ -117,33 +117,28 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere planificación de la ruta
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse cityscape with parks, public transport stops, residential neighborhoods, and urban centers being explored by youth with notebooks and cameras dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a city check-up and recording observations. Urban exploration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Reflexión
   - Salida / Exploración
+  - Indagación
 category:
   - Urbanismo
   - Sostenibilidad
   - Comunidad
 skills:
   - Observación
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Curiosidad y Deseo de Aprender
-  - Solidaridad y Servicio
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

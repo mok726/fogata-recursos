@@ -113,33 +113,27 @@ complexity_execution: 3  # Requiere coordinación
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people participating in a city planning meeting, speaking at a youth council, or engaging with local government officials dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in city planning and advocating for green solutions. Civic participation environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
-  - Reflexión
+  - Campaña
 category:
   - Política
   - Participación
   - Ciudades
 skills:
+  - Conciencia social
   - Comunicación
-  - Liderazgo
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

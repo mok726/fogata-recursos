@@ -127,16 +127,13 @@ category:
   - Fotografía
   - Biodiversidad
 skills:
-  - Creatividad
   - Observación
-  - Conciencia ambiental
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

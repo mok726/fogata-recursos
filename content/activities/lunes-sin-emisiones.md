@@ -117,30 +117,24 @@ complexity_execution: 3  # Requiere seguimiento
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family walking and biking instead of driving on Emission-free Monday with a carbon footprint tracker app on a phone dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, starting an emission-free Monday tradition with their family. Sustainable transport campaign environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Servicio
+activity_type: []
 category:
   - Transporte
   - Huella de Carbono
   - Sostenibilidad
 skills:
-  - Planificación y organización
-  - Comunicación
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -134,31 +134,26 @@ complexity_execution: 3  # Requiere cocinar
 complexity_organizer: 3  # Requiere supervisión
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative kitchen scene with leftover ingredients being transformed into delicious new dishes dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, cooking creatively with leftovers and wearing chef hats. Creative cooking environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Experimento
+  - Taller / Construcción
 category:
   - Alimentación
   - Cocina
   - Sostenibilidad
 skills:
-  - Salud y autocuidado
+  - Hábitos sostenibles
   - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Vida Sana y Bienestar
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -123,24 +123,22 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
   - Proyecto
 category:
   - Hogar
   - Sostenibilidad
   - Consumo
 skills:
+  - Hábitos sostenibles
   - Observación
   - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

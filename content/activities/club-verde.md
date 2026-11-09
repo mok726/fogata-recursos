@@ -116,31 +116,28 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of people walking and biking together in a city with green surroundings, wearing comfortable clothing and smiling dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, walking and biking together as a green club. Active community environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Proyecto
+  - Actividad física
 category:
   - Movilidad
   - Salud
   - Sostenibilidad
 skills:
+  - Hábitos sostenibles
   - Planificación y organización
-  - Liderazgo
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
+  - Compromiso con la Naturaleza
   - Vida Sana y Bienestar
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

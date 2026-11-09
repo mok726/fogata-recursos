@@ -122,31 +122,27 @@ complexity_execution: 3  # Requiere seguimiento
 complexity_organizer: 3  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant urban garden with children planting seeds and harvesting fresh vegetables in pots and garden beds dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, planting and caring for their own vegetables. Urban gardening environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Taller / Construcción
 category:
   - Agricultura
   - Alimentación
   - Sostenibilidad
 skills:
   - Hábitos sostenibles
-  - Conciencia ambiental
-  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
