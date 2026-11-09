@@ -2381,6 +2381,56 @@ sections: {
   }
 },
 {
+  id: "mindbuilders",
+  name: "Mind Builders",
+  description:
+    "Salud mental y bienestar: conocerse, cuidar los vínculos y disfrutar de lo que hacemos.",
+  summary:
+    "Desafío Mind Builders de la Organización Mundial del Movimiento Scout, parte de la iniciativa HealthAllies (Salud y Bienestar), desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org). No reemplazan la atención profesional en salud mental.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Mind Builders – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/mind-builders"
+    },
+    {
+      name: "Mind Builders Challenge – Implementation Manual (OMMS, 2025)",
+      url: "https://learn.scout.org/node/9861"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de la FAO) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement), con apoyo de FAO/YUNGA",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal",
+      "Ante señales de malestar persistente, seguí el protocolo de cuidado de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Conocerme",
+      description: "Fortalezas, autoestima y propósito personal."
+    },
+    B: {
+      title: "Vínculos",
+      description: "Amabilidad, gratitud y escucha para cuidar las relaciones."
+    },
+    C: {
+      title: "Disfrutar Juntos",
+      description: "Actividades para vivir la concentración y el disfrute en equipo."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
