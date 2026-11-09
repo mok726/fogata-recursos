@@ -2381,6 +2381,55 @@ sections: {
   }
 },
 {
+  id: "eqaccion",
+  name: "EQ in Action",
+  description:
+    "Inteligencia emocional en acción: reconocer emociones, convivir con otros y ponerse metas.",
+  summary:
+    "Desafío EQ in Action de la Organización Mundial del Movimiento Scout, parte de la iniciativa LifeLeaders (Habilidades para la Vida).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "EQ in Action – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/eq-action"
+    },
+    {
+      name: "EQ in Action Challenge (OMMS)",
+      url: "https://learn.scout.org/node/9809"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Reconocer Emociones",
+      description: "Juegos para ponerle nombre a lo que sentimos y reconocerlo en otros."
+    },
+    B: {
+      title: "Convivir",
+      description: "Entender y respetar otras formas de hacer las cosas."
+    },
+    C: {
+      title: "Metas",
+      description: "Aprender de lo vivido y ponerse metas personales."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
