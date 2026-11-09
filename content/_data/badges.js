@@ -701,12 +701,25 @@ sections: {
       id: "mundomejor",
       name: "Mundo Mejor",
       description:
-        "Energía solar y sostenibilidad.",
+        "Scouts por los ODS: cambio positivo en la comunidad.",
       summary:
-        "El Programa Marco Mundo Mejor es una iniciativa global del Movimiento Scout que busca educar y concientizar a los jóvenes para construir un cambio positivo en la humanidad y contribuir a los Objetivos de Desarrollo Sostenible (ODS) de la ONU",
+        "El Programa Marco Mundo Mejor es una iniciativa global del Movimiento Scout que busca educar y concientizar a los jóvenes para construir un cambio positivo en la humanidad y contribuir a los Objetivos de Desarrollo Sostenible (ODS) de la ONU.\n\nDentro de Mundo Mejor, la iniciativa ambiental es la Tribu de la Tierra (Earth Tribe). Propone cuatro rutas de aprendizaje con el lema «Sé consciente, coopera, actúa»: Mejores Decisiones (consumo sostenible, ODS 11, 12 y 13), Naturaleza y Biodiversidad (ODS 2, 13, 14 y 15), Energía Limpia (ODS 7 y 13) y Planeta Sano (contaminación y ecosistemas, ODS 6, 13, 14 y 15).\n\nCada ruta tiene desafíos con su propia insignia. En este sitio están Go Solar (Energía Limpia), Plastic Tide Turners (Planeta Sano) y Campeones de la Naturaleza (Naturaleza y Biodiversidad). Al completar un desafío, el protagonista recibe el pin de la Tribu de la Tierra en una ceremonia sencilla y puede seguir con otro desafío de la Tribu o de Mundo Mejor.",
       logo: "/imagenes/insignias/mundomejor.png",
       hero_image: "/imagenes/insignias/mundomejor-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Scouts de Argentina: Scouts por los ODS – Mundo Mejor (PDF)",
+          url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
+        },
+        {
+          name: "OMMS: Earth Tribe – Scouts for SDGs (inglés)",
+          url: "https://sdgs.scout.org/initiatives/earth-tribe"
+        }
+      ],
   license: {
     type: "© Scouts de Argentina A.C. – Todos los derechos reservados",
     url: "https://www.scouts.org.ar",
