@@ -79,6 +79,18 @@ link:
   - url: "https://www.sundialzone.com/es/relojdesol"
     caption: "Generador de relojes de sol - SundialZone"
     icon: "link"
+  - url: "https://solafrica.ch/wp-content/uploads/2026/01/SgS-sundial-5-espanol-1.pdf"
+    caption: "Plantilla del reloj solar Scouts go Solar, versión internacional (PDF)"
+    icon: "pdf"
+  - url: "https://solafrica.ch/wp-content/uploads/2026/01/Anexo-Cuaderno-de-Trabajo-revisado-1.pdf"
+    caption: "Anexo al Cuaderno de Trabajo Solar - Solafrica (PDF)"
+    icon: "pdf"
+  - url: "https://solafrica.ch/wp-content/uploads/2025/11/Cuaderno-de-Trabajo-Version-2.pdf"
+    caption: "Cuaderno de Trabajo Solar, 2.ª ed. 2022 - Solafrica (PDF)"
+    icon: "pdf"
+  - url: "https://solafrica.ch/wp-content/uploads/2025/11/Manual-de-la-energia-solar-ESPANOL-revisado.pdf"
+    caption: "Manual de la Energía Solar, 2.ª ed. 2022 - Solafrica (PDF)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -87,6 +99,11 @@ references:
     author: "Solafrica, YUNGA, OMMS"
     year: 2015
     series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"
+    url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
+  - title: "Manual de la Energía Solar y Cuaderno de Trabajo Solar (2.ª edición revisada)"
+    author: "Stefanie Luginbühl Alassane y Michael Götz (Solafrica)"
+    year: 2022
+    series: "Traducción: Martin Wanner y Abelardo Castillo Rosas. Se permite utilizar y adaptar para usos no comerciales"
     url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
 
 # ========== LICENCIA ==========

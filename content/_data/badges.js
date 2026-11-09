@@ -234,6 +234,10 @@ sections: {
         {
           name: "OMMS: Tide Turners Plastic Challenge – Implementation Manual (2020), actividades P",
           url: "https://learn.scout.org/node/8523"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
         }
       ],
   license: {
@@ -598,7 +602,24 @@ sections: {
         "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética.  \n ¿Qué es el Desafío Scouts Go Solar?\nEl Desafío Scouts Go Solar es una iniciativa global desarrollada por *SOLAFRICA* y adoptada por la Organización Mundial del Movimiento Scout\ncomo componente integral de Tribu Tierra.\n Este Desafío, enmarcado en el eje de Energías Limpias, nos ayudará a entender los diversos usos y aplicaciones de las energías renovables para poder desarrollar proyectos de impacto socio ambiental vinculados con ellas. ",
       logo: "/imagenes/insignias/gosolar.png",
       hero_image: "/imagenes/insignias/gosolar-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Solafrica: Scouts go Solar – descargas (manual, cuaderno de trabajo y manuales de construcción en español)",
+          url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
+        },
+        {
+          name: "Solafrica: Cuaderno de Trabajo Solar, 2.ª ed. 2022 (PDF)",
+          url: "https://solafrica.ch/wp-content/uploads/2025/11/Cuaderno-de-Trabajo-Version-2.pdf"
+        },
+        {
+          name: "OMMS: Scouts Go Solar – guía para educadores (Scouts for SDGs, inglés)",
+          url: "https://sdgs.scout.org/challenges/scouts-go-solar/leader"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
+        }
+      ],
   license: {
     type: "© Solafrica – Publicación autorizada por Solafrica",
     url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",
@@ -680,12 +701,25 @@ sections: {
       id: "mundomejor",
       name: "Mundo Mejor",
       description:
-        "Energía solar y sostenibilidad.",
+        "Scouts por los ODS: cambio positivo en la comunidad.",
       summary:
-        "El Programa Marco Mundo Mejor es una iniciativa global del Movimiento Scout que busca educar y concientizar a los jóvenes para construir un cambio positivo en la humanidad y contribuir a los Objetivos de Desarrollo Sostenible (ODS) de la ONU",
+        "El Programa Marco Mundo Mejor es una iniciativa global del Movimiento Scout que busca educar y concientizar a los jóvenes para construir un cambio positivo en la humanidad y contribuir a los Objetivos de Desarrollo Sostenible (ODS) de la ONU.\n\nDentro de Mundo Mejor, la iniciativa ambiental es la Tribu de la Tierra (Earth Tribe). Propone cuatro rutas de aprendizaje con el lema «Sé consciente, coopera, actúa»: Mejores Decisiones (consumo sostenible, ODS 11, 12 y 13), Naturaleza y Biodiversidad (ODS 2, 13, 14 y 15), Energía Limpia (ODS 7 y 13) y Planeta Sano (contaminación y ecosistemas, ODS 6, 13, 14 y 15).\n\nCada ruta tiene desafíos con su propia insignia. En este sitio están Go Solar (Energía Limpia), Plastic Tide Turners (Planeta Sano) y Campeones de la Naturaleza (Naturaleza y Biodiversidad). Al completar un desafío, el protagonista recibe el pin de la Tribu de la Tierra en una ceremonia sencilla y puede seguir con otro desafío de la Tribu o de Mundo Mejor.",
       logo: "/imagenes/insignias/mundomejor.png",
       hero_image: "/imagenes/insignias/mundomejor-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Scouts de Argentina: Scouts por los ODS – Mundo Mejor (PDF)",
+          url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
+        },
+        {
+          name: "OMMS: Earth Tribe – Scouts for SDGs (inglés)",
+          url: "https://sdgs.scout.org/initiatives/earth-tribe"
+        }
+      ],
   license: {
     type: "© Scouts de Argentina A.C. – Todos los derechos reservados",
     url: "https://www.scouts.org.ar",
@@ -693,45 +727,26 @@ sections: {
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",
-    year: "2020"
+    year: "2021"
   },
       
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+    "El cuadernillo «Scouts por los ODS – Mundo Mejor» (Scouts de Argentina, 2021) no fija requisitos ni entrega una insignia. Es material de apoyo para educadores. Tiene un capítulo por cada uno de los 17 ODS, con sus metas y ejemplos de proyectos scouts, y 10 actividades «Tomá acción» para elegir según el ODS que se quiera trabajar. El reconocimiento de Mundo Mejor llega por los desafíos de cada iniciativa (por ejemplo, Go Solar, Plastic Tide Turners o Campeones de la Naturaleza).",
 
   rules: [
-    "Completar una actividad obligatoria de cada sección",
-    "Completar una actividad adicional de cada sección",
-    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
-  A: {
-    title: "Sección A",
-    description: ""
-  },
-  B: {
-    title: "Sección B",
-    description: ""
-  },
-  C: {
-    title: "Sección C",
-    description: ""
-  },
-  D: {
-    title: "Sección D",
-    description: ""
-  },
   E: {
-    title: "TOMA ACCIÓN",
-    description: ""
+    title: "TOMÁ ACCIÓN",
+    description: "Actividades del cuadernillo para pasar de conocer un ODS a actuar sobre él."
   }
 },
       documents: [
         {
-          title: "Scouts-Go-Solar-Tribu-Tierra",
-          title_es: "Desafío Scouts Go-Solar Tribu Tierra",
+          title: "Scouts por los ODS – Mundo Mejor",
+          title_es: "Scouts por los ODS – Mundo Mejor (Scouts de Argentina, 2021)",
           url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf",
           type: "pdf",
           image: "/imagenes/varios/Scouts-Go-Solar-Tribu-Tierra.jpg"
@@ -902,6 +917,10 @@ sections: {
         {
           name: "Champions for Nature Challenge – Action Kit (OMMS, 2020)",
           url: "https://scouts.mt/wp-content/uploads/2025/08/CFN-ActionKit.pdf"
+        },
+        {
+          name: "OMMS: Tribu de la Tierra – Manual de Implementación (2020, español; requiere cuenta en scout.org)",
+          url: "https://learn.scout.org/resource/earth-tribe-implementation-manual"
         }
       ],
   license: {
