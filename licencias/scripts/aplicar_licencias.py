@@ -15,7 +15,7 @@ L={
  'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Titular de los derechos: Scouts de Argentina Asociación Civil.",status="permiso-pendiente",
     allowed="Nada publicado.",pending=f"Publicar esta adaptación: autorización solicitada a Scouts de Argentina el {SOL}, en espera de respuesta."),
  'solafrica':dict(lic=("© Solafrica – Publicación autorizada por Solafrica","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-parcial",
-    allowed="Solafrica, titular del manual, autorizó por email la publicación libre y gratuita en este sitio (Martin Wanner, recibido el 09/11/2026). La OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales.",pending=f"Scouts de Argentina (desafío Go Solar): autorización solicitada el {SOL}, en espera. OMMS (coautora del programa): autorización pendiente."),
+    allowed="Solafrica (09/11/2026).",pending=f"Scouts de Argentina (desafío Go Solar): autorización solicitada el {SOL}, en espera. OMMS (coautora del programa): autorización pendiente."),
 }
 RANK=['propio','fao_cc','fao_sinverificar','fao_arr','solafrica','saac','wosm']
 def classify_ref(r):

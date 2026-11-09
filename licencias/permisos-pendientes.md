@@ -56,7 +56,7 @@ Además, en el mismo email:
 
 ## 3. Solafrica: 13 actividades (Go Solar). Email enviado el 26/10/2026. **AUTORIZADO el 09/11/2026**
 
-> "Regarding publication, it's perfectly fine from our side (from Solafrica). Our idea is to have the contents available online, freely accessible for everyone. So your website definitely contributes to that." (Martin Wanner, Solafrica)
+> "Regarding publication, it's perfectly fine from our side (from Solafrica). Our idea is to have the contents available online, freely accessible for everyone. So your website definitely contributes to that." (Solafrica)
 
 Esto cubre a Solafrica. Siguen pendientes:
 - **Scouts de Argentina**, por el desafío Go Solar (ver punto 4).

@@ -82,7 +82,7 @@ license:
   url: "https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/"
   image: ""
   note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
-  allowed: "Solafrica, titular del manual, autorizó por email la publicación libre y gratuita en este sitio (Martin Wanner, recibido el 09/11/2026). La OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
+  allowed: "Solafrica (09/11/2026)."
   pending: "Scouts de Argentina (desafío Go Solar): autorización solicitada el 26/10/2026, en espera. OMMS (coautora del programa): autorización pendiente."
   status: "permiso-parcial"
 
