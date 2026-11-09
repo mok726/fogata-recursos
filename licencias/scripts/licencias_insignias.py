@@ -5,7 +5,7 @@ N4=("CC BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 FAO_ARR=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/")
 WOSM=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org")
 SAAC=("© Scouts de Argentina A.C. – Todos los derechos reservados","https://www.scouts.org.ar")
-SOLA=("© Solafrica – Sin licencia publicada","https://www.solafrica.ch/scout-badge")
+SOLA=("© Solafrica – Sin licencia publicada","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/")
 UNK=("© FAO – Licencia sin confirmar","https://www.fao.org/yunga/resources/yunga-publications/en")
 notes={'arr':"Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026.",
  'cc3':"Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO.",
