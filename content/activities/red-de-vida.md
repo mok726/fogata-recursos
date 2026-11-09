@@ -118,24 +118,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Reflexión
 category:
   - Ecosistemas
   - Conexiones
   - Biodiversidad
 skills:
   - Pensamiento sistémico
-  - Trabajo en equipo
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

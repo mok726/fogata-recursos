@@ -119,15 +119,15 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a BioBlitz in a natural area, using hula hoops, magnifying glasses, and cameras to find and identify as many species as possible. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a biodiversity inventory. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Salida / Exploración
+  - Indagación
 category:
   - Biodiversidad
   - Ciencia ciudadana
@@ -135,16 +135,15 @@ category:
 skills:
   - Observación
   - Investigación
-  - Trabajo en equipo
+  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Vida en la Naturaleza
-  - Sistema de Equipos
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

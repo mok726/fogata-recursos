@@ -124,18 +124,13 @@ category:
   - Residuos
   - Consumo responsable
 skills:
-  - Conciencia ambiental
-  - Trabajo en equipo
-  - Pensamiento crítico
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Sencillez y Austeridad
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

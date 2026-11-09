@@ -107,30 +107,25 @@ complexity_execution: 2
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth visiting a tree nursery or greenhouse, learning about tree cultivation and planting, and discussing reforestation and revegetation. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about tree planting. Educational forestry scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Salida / Exploración
-  - Indagación
+  - Visita / Charla
 category:
   - Árboles
   - Reforestación
   - Naturaleza
 skills:
-  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Espíritu Aventurero
 scout_method:
-  - Vida en la Naturaleza
   - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -109,15 +109,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth in groups rolling colored dice and creating stories about ecosystem functions, society, environment, and economy connections. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a sustainability storytelling game. Educational interactive scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
-  - Reflexión
+  - Expresión artística
 category:
   - Sociedad
   - Medio ambiente
@@ -125,16 +124,12 @@ category:
 skills:
   - Pensamiento sistémico
   - Creatividad
-  - Conciencia social
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

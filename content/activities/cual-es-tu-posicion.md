@@ -119,7 +119,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Reflexión
 category:
   - Sostenibilidad
   - Valores
@@ -127,16 +126,13 @@ category:
 skills:
   - Pensamiento crítico
   - Comunicación
-  - Conciencia social
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
+  - Respeto y Valoración de la Diversidad
   - Compromiso con la Naturaleza
-scout_method:
-  - Sistema de Equipos
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

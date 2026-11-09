@@ -132,19 +132,16 @@ category:
   - Comunidad
   - Acción
 skills:
-  - Liderazgo
   - Planificación y organización
-  - Trabajo en equipo
   - Conciencia social
+  - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
   - Solidaridad y Servicio
   - Responsabilidad y Compromiso
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
   - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
