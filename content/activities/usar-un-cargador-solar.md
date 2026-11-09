@@ -66,6 +66,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
+  - url: "https://sdgs.scout.org/activity-type/get-know-components-photovoltaic-solar-system"
+    caption: "Get to know the components of a PV Solar System - Scouts for SDGs, OMMS (inglés)"
+    icon: "pdf"
   - url: "https://solafrica.ch/wp-content/uploads/2026/01/Instrucciones-conocer-los-componentes-de-un-sistema-solar-final.pdf"
     caption: "Instrucciones: conocer los componentes de un sistema solar - Solafrica (PDF)"
     icon: "pdf"

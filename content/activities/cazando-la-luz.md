@@ -68,6 +68,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
+  - url: "https://sdgs.scout.org/activity-type/chasing-light"
+    caption: "Chasing Light - Scouts for SDGs, OMMS (inglés)"
+    icon: "pdf"
   - url: "https://solafrica.ch/wp-content/uploads/2025/11/Cuaderno-de-Trabajo-Version-2.pdf"
     caption: "Cuaderno de Trabajo Solar, 2.ª ed. 2022 - Solafrica (PDF)"
     icon: "pdf"

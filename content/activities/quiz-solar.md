@@ -64,6 +64,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
+  - url: "https://sdgs.scout.org/activity-type/solar-quiz"
+    caption: "Solar Quiz - Scouts for SDGs, OMMS (inglés)"
+    icon: "pdf"
   - url: "https://solafrica.ch/wp-content/uploads/2025/11/Quiz-de-energias-Espanol.pdf"
     caption: "Quiz de energías - Solafrica (PDF)"
     icon: "pdf"
