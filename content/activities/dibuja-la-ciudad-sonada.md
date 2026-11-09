@@ -123,23 +123,16 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Reflexión
-  - Proyecto
 category:
   - Urbanismo
   - Arte
   - Sostenibilidad
 skills:
   - Creatividad
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

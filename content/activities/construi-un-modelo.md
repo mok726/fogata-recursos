@@ -118,31 +118,25 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful neighborhood model with roads, houses, gardens, and parks made from crayons, clay, and building blocks dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, building their neighborhood models creatively. Hands-on creative environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Dinámica de grupos
+  - Taller / Construcción
 category:
   - Urbanismo
   - Arte
   - Comunidad
 skills:
-  - Creatividad
-  - Trabajo en equipo
   - Observación
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

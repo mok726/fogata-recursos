@@ -129,16 +129,12 @@ category:
 skills:
   - Observación
   - Investigación
-  - Comunicación
+  - Pensamiento sistémico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

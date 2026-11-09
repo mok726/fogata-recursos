@@ -116,30 +116,25 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 2  # Requiere equipo
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A screening room with young people watching a documentary about green cities on a big screen with city imagery dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching and discussing a film about green cities. Film viewing and discussion environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
 category:
   - Cine
   - Inspiración
   - Ciudades
 skills:
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

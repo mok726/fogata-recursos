@@ -126,18 +126,16 @@ category:
   - Limpieza
   - Comunidad
 skills:
+  - Protección ambiental
   - Trabajo en equipo
-  - Planificación y organización
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

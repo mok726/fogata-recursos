@@ -115,31 +115,29 @@ complexity_execution: 4  # Requiere organización
 complexity_organizer: 4  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant community event celebrating a city with people of all ages, booths, posters, and activities promoting green living dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing and leading a My City Day celebration. Community celebration environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Proyecto
+  - Campaña
 category:
   - Evento
   - Comunidad
   - Ciudades
 skills:
-  - Liderazgo
   - Planificación y organización
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

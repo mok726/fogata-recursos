@@ -120,24 +120,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Reflexión
-  - Dinámica de grupos
 category:
   - Debate
   - Urbanización
   - Sostenibilidad
 skills:
   - Pensamiento crítico
-  - Trabajo en equipo
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Honestidad e Integridad
-  - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
