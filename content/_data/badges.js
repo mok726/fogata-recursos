@@ -2381,6 +2381,52 @@ sections: {
   }
 },
 {
+  id: "impactinnovators",
+  name: "Impact Innovators",
+  description:
+    "Innovación social: detectar problemas de la comunidad, generar ideas, prototipar y probar soluciones.",
+  summary:
+    "Desafío Impact Innovators de la Organización Mundial del Movimiento Scout, desarrollado con Accenture y World's Largest Lesson. Propone el pensamiento de diseño (design thinking) para que los protagonistas encuentren problemas de su comunidad y diseñen soluciones.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Impact Innovators – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/impact-innovators"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2024"
+  },
+  requirements: {
+    summary: "Recorrer las tres etapas: explorar el problema, generar ideas y prototipar y probar.",
+    rules: [
+      "Hacer al menos una actividad de cada sección",
+      "Las salidas a la comunidad se hacen con la cantidad de adultos que pida tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Explorar el Problema",
+      description: "Conocer la comunidad e identificar los problemas que se pueden resolver."
+    },
+    B: {
+      title: "Generar Ideas",
+      description: "Técnicas lúdicas para inventar soluciones creativas."
+    },
+    C: {
+      title: "Prototipar y Probar",
+      description: "Construir, probar y mejorar las soluciones con la comunidad."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
