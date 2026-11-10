@@ -112,32 +112,27 @@ complexity_execution: 1  # Sencilla de ejecutar para los participantes
 complexity_organizer: 2  # Requiere preparar ejemplos de plásticos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A split composition showing different plastic items: on one side safe reusable plastics like helmets and eyeglasses, on the other side harmful single-use plastics like straws and bags scattered in a polluted environment. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, examining and comparing plastic items. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
+  - Reflexión
 category:
   - Plásticos
   - Reciclaje
   - Consumo sostenible
 skills:
-  - Conciencia ambiental
   - Pensamiento crítico
-  - Observación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

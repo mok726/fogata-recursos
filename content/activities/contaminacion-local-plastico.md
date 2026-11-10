@@ -124,19 +124,15 @@ category:
   - Ecosistemas
   - Plásticos
 skills:
-  - Observación
   - Investigación
+  - Observación
   - Conciencia ambiental
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

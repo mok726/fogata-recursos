@@ -121,17 +121,15 @@ category:
   - Plásticos
   - Organización
 skills:
-  - Planificación y organización
   - Hábitos sostenibles
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
   - Sencillez y Austeridad
-  - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

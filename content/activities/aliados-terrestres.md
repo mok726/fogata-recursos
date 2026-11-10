@@ -106,8 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Expresión artística
 
 category:
   - Suelo
@@ -116,17 +114,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Pensamiento sistémico
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

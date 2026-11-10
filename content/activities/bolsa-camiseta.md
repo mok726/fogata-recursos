@@ -117,30 +117,26 @@ complexity_execution: 3  # Requiere precisión con tijeras
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children transforming old t-shirts into reusable shopping bags with scissors, colorful workshop, educational upcycling activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Taller / Construcción
 category:
   - Reutilización
   - Manualidades
   - Textiles
 skills:
-  - Creatividad
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores:

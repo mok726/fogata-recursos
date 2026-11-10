@@ -107,7 +107,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Indagación
 
 category:
   - Suelo
@@ -117,16 +116,12 @@ category:
 skills:
   - Experimentación
   - Observación
-  - Pensamiento crítico
 
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 

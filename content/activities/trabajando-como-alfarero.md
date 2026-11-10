@@ -104,7 +104,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Salida / Exploración
+  - Visita / Charla
 
 category:
   - Suelo
@@ -114,13 +114,9 @@ category:
 skills:
   - Creatividad
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Sencillez y Austeridad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

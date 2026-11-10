@@ -138,15 +138,14 @@ category:
   - Plásticos
 skills:
   - Creatividad
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores:

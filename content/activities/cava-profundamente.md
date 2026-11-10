@@ -108,7 +108,6 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Indagación
 
 category:
   - Suelo
@@ -117,13 +116,11 @@ category:
 
 skills:
   - Observación
-  - Investigación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Espíritu Aventurero
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Vida en la Naturaleza

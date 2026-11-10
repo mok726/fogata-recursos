@@ -118,25 +118,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Microplásticos
   - Salud
   - Consumo responsable
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Conciencia ambiental
-  - Alfabetización digital
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

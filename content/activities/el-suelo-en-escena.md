@@ -103,8 +103,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
-  - Servicio
 
 category:
   - Suelo
@@ -113,16 +111,13 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
   - Trabajo en equipo
+  - Conciencia ambiental
 
 scout_values:
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

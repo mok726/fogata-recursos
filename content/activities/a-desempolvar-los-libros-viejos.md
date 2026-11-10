@@ -92,7 +92,7 @@ active_component: 1  # Actividad de lectura
 complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: "Narración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child reading a book where soil plays an important role, with illustrations of soil and nature from the story dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing a reflection. Literary exploration and soil connection atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,8 +105,8 @@ accessibility: []
 
 
 activity_type:
+  - Narración
   - Reflexión
-  - Indagación
 
 category:
   - Suelo
@@ -114,17 +114,12 @@ category:
   - Reflexión
 
 skills:
-  - Comunicación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

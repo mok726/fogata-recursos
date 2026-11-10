@@ -93,7 +93,7 @@ active_component: 2  # Manipulación de muestras
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Experimento"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children examining soil samples under a microscope, discovering particles and tiny organisms dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and drawing. Scientific discovery and soil investigation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,7 +106,6 @@ accessibility: []
 
 
 activity_type:
-  - Experimento
   - Indagación
 
 category:
@@ -116,17 +115,13 @@ category:
 
 skills:
   - Observación
-  - Experimentación
-  - Pensamiento crítico
+  - Pensamiento científico
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 

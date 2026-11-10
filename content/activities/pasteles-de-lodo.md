@@ -89,7 +89,7 @@ active_component: 4  # Manipulación de barro
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children making mud pies and bricks with soil and water, experimenting with different amounts of water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building with mud. Creative play and learning about soil uses atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Juego
+  - Taller / Construcción
 
 category:
   - Suelo
@@ -111,16 +110,12 @@ category:
   - Construcción
 
 skills:
-  - Creatividad
   - Experimentación
 
-scout_values:
-  - Optimismo y Alegría
-  - Compromiso con la Naturaleza
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 rama_castores: []
 

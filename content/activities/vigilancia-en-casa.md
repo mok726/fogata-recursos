@@ -91,7 +91,7 @@ active_component: 2  # Moverse por la casa
 complexity_execution: 2  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child monitoring home activities - lights, appliances, water - and creating a checklist with reminders for the family dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, checking and recording. Home environmental awareness and sustainable habits atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Reflexión
-  - Servicio
+  - Indagación
+  - Campaña
 
 category:
   - Suelo
@@ -114,17 +114,13 @@ category:
 
 skills:
   - Observación
-  - Pensamiento crítico
-  - Planificación y organización
+  - Hábitos sostenibles
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
+  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

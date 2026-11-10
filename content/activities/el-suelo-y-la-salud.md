@@ -107,7 +107,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
 
 category:
   - Suelo
@@ -116,17 +115,11 @@ category:
 
 skills:
   - Investigación
-  - Creatividad
   - Comunicación
 
-scout_values:
-  - Vida Sana y Bienestar
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

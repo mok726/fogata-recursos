@@ -88,7 +88,7 @@ active_component: 1  # Actividad de conversación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Juego"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children sitting in a circle telling a collaborative story about how soil is formed, with each child adding a sentence dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and participating. Creative storytelling and collaborative learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -101,7 +101,6 @@ accessibility: []
 
 
 activity_type:
-  - Juego
   - Expresión artística
 
 category:
@@ -111,16 +110,10 @@ category:
 
 skills:
   - Creatividad
-  - Trabajo en equipo
-  - Comunicación
 
-scout_values:
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

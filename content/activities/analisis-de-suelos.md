@@ -118,16 +118,11 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Trabajo en equipo
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

@@ -126,25 +126,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Reflexión
 category:
   - Consumo responsable
   - Plásticos
   - Competencia educativa
 skills:
-  - Trabajo en equipo
-  - Observación
-  - Conciencia ambiental
-  - Pensamiento científico
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias

@@ -103,7 +103,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
 
 category:
   - Suelo
@@ -113,16 +112,12 @@ category:
 skills:
   - Investigación
   - Planificación y organización
-  - Trabajo en equipo
 
 scout_values:
-  - Solidaridad y Servicio
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

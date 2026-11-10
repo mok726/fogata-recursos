@@ -122,30 +122,26 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Preparación básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating colorful posters about plastic pollution, with markers and paper on tables, educational creative activity. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Campaña
 category:
   - Plásticos
   - Concienciación
   - Comunicación
 skills:
-  - Creatividad
   - Comunicación
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

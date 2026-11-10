@@ -120,32 +120,31 @@ complexity_execution: 3  # Requiere disciplina y seguimiento
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Proyecto"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth documenting their plastic waste in a journal, with a smartphone and camera nearby, educational environmental audit scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Proyecto
   - Indagación
+  - Campaña
 category:
   - Consumo responsable
   - Plásticos
   - Auditoría ambiental
 skills:
-  - Autoconocimiento
+  - Hábitos sostenibles
   - Planificación y organización
   - Comunicación
-  - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias
