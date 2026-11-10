@@ -2126,6 +2126,58 @@ sections: {
 
 
 {
+  id: "asdeaprendiendo",
+  name: "Aprendiendo a Ser (Scouts de España)",
+  description:
+    "Actividades de desarrollo espiritual sobre la libertad, la autoestima, el sentido de la vida y el respeto a los demás, de la publicación «Aprendiendo a ser II» de ASDE - Scouts de España (2011).",
+  summary:
+    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Aprendiendo a ser II. Recursos teóricos y prácticos para trabajar el desarrollo espiritual en los Grupos Scouts», que el Equipo de Desarrollo Espiritual de ASDE - Scouts de España publicó en 2011. La publicación entiende el desarrollo espiritual como una búsqueda personal en torno a grandes preguntas, entendidas o no como respuestas religiosas: ¿quiénes somos?, ¿de dónde venimos?, ¿a dónde vamos?, ¿qué estamos dispuestos a hacer por los demás?\n\nLas secciones siguen los cuatro temas de la publicación. Muchas actividades son cine-debates o canciones-debate: las fichas citan la película o la canción, pero no la incluyen; cada Grupo la consigue por su cuenta. Cada ficha trae el texto original de ASDE y una adaptación al lenguaje y las costumbres de Argentina.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Aprendiendo a ser II (2011) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/19353/Aprendiendo-a-Ser-II_.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC 3.0). Esa licencia cubre solo lo que es de ASDE: las actividades basadas en material de otras organizaciones o autores se publican únicamente con su permiso. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2011"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Las actividades no son confesionales: respetá las creencias de cada protagonista y las orientaciones de tu organización scout nacional",
+      "Antes de un cine-debate, mirá la película y revisá su calificación por edad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "La Libertad",
+      description: "Elegir, decidir y descubrir los límites de la libertad; ponerse en el lugar de quien la perdió."
+    },
+    B: {
+      title: "Fidelidad a Uno Mismo",
+      description: "Autoestima y autoconcepto: conocerse, aceptarse y quererse."
+    },
+    C: {
+      title: "El Sentido de la Vida",
+      description: "Las grandes preguntas: quién soy, qué me hace feliz, la muerte y la trascendencia."
+    },
+    D: {
+      title: "Respeto a los Demás",
+      description: "Justicia, solidaridad y prejuicios: compartir, ponerse en el lugar del otro y cuidar la casa común."
+    }
+  }
+},
+{
   id: "badenpowell",
   name: "Homenaje a Baden-Powell",
   description:
