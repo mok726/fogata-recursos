@@ -122,18 +122,15 @@ category:
   - Voluntariado
   - Biodiversidad
 skills:
-  - Conciencia social
-  - Empatía
-  - Conciencia ambiental
+  - Protección ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
   - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

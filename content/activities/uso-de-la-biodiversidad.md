@@ -119,25 +119,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 category:
   - Sociedad
   - Género
   - Biodiversidad
 skills:
-  - Pensamiento crítico
   - Investigación
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
   - Respeto y Valoración de la Diversidad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

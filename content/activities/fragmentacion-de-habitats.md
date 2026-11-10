@@ -121,7 +121,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Debate / Diálogo
   - Simulación / Juego de roles
-  - Reflexión
 category:
   - Hábitats
   - Conservación
@@ -129,15 +128,12 @@ category:
 skills:
   - Pensamiento crítico
   - Empatía
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

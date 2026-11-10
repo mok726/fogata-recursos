@@ -127,24 +127,22 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Vida Marina
   - Exploración
   - Biodiversidad
 skills:
   - Observación
-  - Creatividad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Espíritu Aventurero
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -116,29 +116,26 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful flower garden with bees, wasps, and flies feeding on nectar dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, planting flowers and creating a nectar garden. Gardening for pollinators environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Taller / Construcción
 category:
   - Jardinería
   - Polinizadores
   - Biodiversidad
 skills:
-  - Hábitos sostenibles
-  - Conciencia ambiental
+  - Protección ambiental
   - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

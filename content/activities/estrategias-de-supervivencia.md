@@ -127,17 +127,12 @@ category:
   - Adaptación
   - Biodiversidad
 skills:
-  - Observación
-  - Trabajo en equipo
+  - Investigación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

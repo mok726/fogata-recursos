@@ -129,16 +129,12 @@ category:
   - Biodiversidad
 skills:
   - Observación
-  - Investigación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Espíritu Aventurero
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -119,31 +119,25 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A global wave of tree planting celebrations on Biodiversity Day with children planting trees at 10am local time dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in the Green Wave campaign planting trees. Global conservation action environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
+  - Campaña
 category:
   - Plantación
   - Global
   - Biodiversidad
 skills:
-  - Hábitos sostenibles
-  - Conciencia ambiental
-  - Conciencia social
+  - Protección ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

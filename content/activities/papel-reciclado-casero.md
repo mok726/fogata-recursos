@@ -103,7 +103,7 @@ active_component: 3  # Trabajo manual
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere materiales
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children making recycled paper at home with adult help, blending old paper and drying it dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating paper. Craftsmanship and creative recycling atmosphere. No text, no letters, no words. Wide shot."
 
@@ -116,8 +116,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Papel
@@ -125,16 +124,14 @@ category:
   - Manualidades
 
 skills:
-  - Creatividad
   - Hábitos sostenibles
 
 scout_values:
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
+  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 rama_castores: []
 rama_lobatos:

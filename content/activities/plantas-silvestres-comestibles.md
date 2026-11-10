@@ -113,31 +113,26 @@ complexity_execution: 2  # Simple
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Indigenous elders teaching children about edible wild plants and herbs in a natural setting dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning to identify wild edible plants. Traditional knowledge environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Visita / Charla
   - Salida / Exploración
-  - Reflexión
 category:
   - Plantas
   - Conocimiento Tradicional
   - Biodiversidad
 skills:
   - Observación
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

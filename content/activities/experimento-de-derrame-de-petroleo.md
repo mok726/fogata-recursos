@@ -123,24 +123,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Reflexión
 category:
   - Contaminación
   - Aves
   - Biodiversidad
 skills:
   - Experimentación
-  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Respeto y Valoración de la Diversidad
+  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
