@@ -2353,6 +2353,58 @@ sections: {
   }
 },
 {
+  id: "asdesaludtic",
+  name: "Salud y TIC (Scouts de España)",
+  description:
+    "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
+  summary:
+    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Salud y TIC», que ASDE - Scouts de España publicó en 2017. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\nLas secciones siguen la clasificación por rama de la publicación. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2017"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Si sacás fotos de los protagonistas, seguí las normas de tu organización scout nacional y contá con la autorización de las familias"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Castores",
+      description: "Conocer el cuerpo, comer rico y sano, y jugar con los hábitos de higiene."
+    },
+    B: {
+      title: "Manada",
+      description: "Prepararse para la acampada: qué llevar y cómo ordenarlo."
+    },
+    C: {
+      title: "Todo el Grupo",
+      description: "Actividades para hacer con varias ramas juntas: autoestima, belleza y riesgos de las tecnologías."
+    },
+    D: {
+      title: "Scouts, Caminantes y Rovers",
+      description: "Darse cuenta de cuánto tiempo se pasa frente a las pantallas y buscar otras formas de ocio."
+    }
+  }
+},
+{
   id: "vial",
   name: "Seguridad Vial",
   description:

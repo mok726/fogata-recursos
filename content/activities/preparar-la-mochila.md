@@ -66,7 +66,13 @@ tags:
   - orden
 
 # ========== ENLACES Y ARCHIVOS ==========
-link: []
+link:
+  - url: "https://mok726.github.io/fogata-recursos/activities/que-llevar-en-el-neceser/"
+    caption: "Actividad relacionada: Qué Llevar en el Neceser"
+    icon: "link"
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
+    caption: "Actividad similar: «Taller de Mochila», en Fichas de actividades. Concurso de Salud y TIC (ASDE - Scouts de España, 2017)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========
