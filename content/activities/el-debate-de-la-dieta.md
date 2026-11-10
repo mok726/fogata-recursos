@@ -116,7 +116,6 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
 
 category:
   - Imagen corporal
@@ -125,18 +124,12 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Comunicación
-  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Respeto y Valoración de la Diversidad
-  - Justicia y Equidad
 
-scout_method:
-  - Apoyo Adulto
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -126,20 +126,12 @@ category:
   - Juego
   - Nutrición
 
-skills:
-  - Observación
-  - Trabajo en equipo
-  - Salud y autocuidado
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

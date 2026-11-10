@@ -111,34 +111,25 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful educational diagram showing a food chain and food web with local plants and animals, connecting to the carbon cycle. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing food chain diagrams. Educational natural science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
   - Indagación
-  - Reflexión
 category:
   - Ecosistemas
   - Cadena alimentaria
   - Ciclo del carbono
 skills:
-  - Conciencia ambiental
-  - Creatividad
+  - Investigación
   - Pensamiento sistémico
-  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

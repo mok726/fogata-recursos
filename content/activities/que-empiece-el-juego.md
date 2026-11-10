@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person tracking their daily physical activity in a notebook with sports equipment nearby dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planning sports activities. Physical activity awareness and sports planning atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Indagación
-  - Reflexión
+activity_type: []
 
 category:
   - Actividad física
@@ -128,18 +126,14 @@ category:
   - Autoconocimiento
 
 skills:
-  - Observación
+  - Salud y autocuidado
   - Planificación y organización
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
   - Vida Sana y Bienestar
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

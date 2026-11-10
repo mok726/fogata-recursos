@@ -117,7 +117,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
+  - Campaña
 
 category:
   - Etiquetas
@@ -127,17 +127,11 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-  - Justicia y Equidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

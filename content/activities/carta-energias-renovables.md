@@ -115,26 +115,20 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Servicio
-  - Proyecto
+  - Indagación
 category:
   - Advocacy
   - Energía renovable
   - Política
 skills:
-  - Comunicación
   - Investigación
-  - Pensamiento crítico
-  - Conciencia social
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
   - Involucramiento Comunitario
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

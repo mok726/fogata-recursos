@@ -107,31 +107,23 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing jumping jacks, demonstrating potential energy in the starting position and kinetic energy during movement. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, doing jumping jacks to learn about energy. Educational active learning scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Juego
-  - Dinámica de grupos
+activity_type: []
 category:
   - Energía
   - Ejercicio
   - Física
 skills:
-  - Autoconocimiento
   - Pensamiento científico
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Vida Sana y Bienestar
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

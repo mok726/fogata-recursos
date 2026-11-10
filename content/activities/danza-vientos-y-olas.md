@@ -106,14 +106,13 @@ complexity_execution: 2  # Requiere coordinación
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Dinámica de grupos"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth performing a creative dance about winds, waves, and the carbon cycle, with flowing movements representing air, water, and energy. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, performing an educational dance about natural energy. Educational performance scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Dinámica de grupos
   - Expresión artística
 category:
   - Danza
@@ -121,16 +120,10 @@ category:
   - Expresión artística
 skills:
   - Creatividad
-  - Trabajo en equipo
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

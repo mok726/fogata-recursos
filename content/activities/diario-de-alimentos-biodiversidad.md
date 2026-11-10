@@ -119,32 +119,26 @@ complexity_execution: 2  # Requiere seguimiento
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A food diary with diverse foods and a colorful meal representing biodiversity dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, recording their daily food intake and preparing a biodiverse meal. Food awareness environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Reflexión
+  - Taller / Construcción
 category:
   - Alimentación
   - Nutrición
   - Biodiversidad
 skills:
   - Observación
-  - Pensamiento crítico
-  - Salud y autocuidado
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -108,14 +108,13 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth brainstorming about the link between poverty and energy access, drawing connections on a board showing how electricity can help communities escape poverty. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, discussing energy and poverty connections. Educational social awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
 category:
   - Pobreza
@@ -124,17 +123,11 @@ category:
 skills:
   - Pensamiento sistémico
   - Conciencia social
-  - Empatía
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Sistema de Equipos
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

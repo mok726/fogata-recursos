@@ -107,32 +107,24 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth standing in a circle playing a game, passing a ball while music plays, sharing ideas to reduce their carbon footprint like turning off lights, unplugging electronics, and boiling only needed water. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing an educational game about carbon reduction. Educational active learning scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
-  - Reflexión
+  - Debate / Diálogo
 category:
   - Huella de carbono
   - Energía
   - Hábitos sostenibles
-skills:
-  - Conciencia ambiental
-  - Comunicación
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

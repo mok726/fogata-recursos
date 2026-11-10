@@ -115,21 +115,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
+  - Proyecto
 category:
   - Acampada
   - Energía
   - Naturaleza
 skills:
   - Planificación y organización
-  - Conciencia ambiental
-  - Trabajo en equipo
-  - Resolución de problemas
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 scout_method:
   - Vida en la Naturaleza
   - Aprender Haciendo

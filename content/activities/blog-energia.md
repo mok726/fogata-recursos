@@ -115,24 +115,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Campaña
   - Expresión artística
-  - Reflexión
 category:
   - Blog
   - Energía
   - Comunicación
 skills:
   - Comunicación
-  - Creatividad
   - Alfabetización digital
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

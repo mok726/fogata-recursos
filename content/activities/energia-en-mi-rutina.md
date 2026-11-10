@@ -107,32 +107,23 @@ complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth reflecting on their daily routine, identifying forms of energy used in everyday activities like eating, walking, studying, watching TV, and cooking. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, analyzing their daily energy use. Educational self-reflection scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Reflexión
-  - Indagación
+activity_type: []
 category:
   - Energía
   - Vida cotidiana
   - Hábitos
 skills:
-  - Autoconocimiento
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
-scout_method:
-  - Progresión Personal
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

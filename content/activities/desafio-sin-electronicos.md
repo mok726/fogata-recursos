@@ -112,21 +112,18 @@ main_type: ""
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth spending time without electronic devices, engaging in alternative activities like reading, sports, board games, walking, dancing, and helping others. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in an electronics-free challenge. Educational lifestyle change scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
+activity_type: []
 category:
   - Electrónicos
   - Hábitos
   - Energía
 skills:
-  - Autoconocimiento
-  - Planificación y organización
   - Hábitos sostenibles
+  - Autoconocimiento
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Superación Personal y Perseverancia
-  - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
 scout_method:
   - Progresión Personal
   - Aprender Haciendo

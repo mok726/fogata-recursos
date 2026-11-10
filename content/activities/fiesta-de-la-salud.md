@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 4  # Requiere planificación de evento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful community health fair with children participating in mini Olympic games and health activities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, running and playing games. Health celebration and community wellness atmosphere. No text, no letters, no words. Wide shot."
@@ -122,8 +122,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Juego
-  - Servicio
+  - Campaña
+  - Actividad física
 
 category:
   - Salud
@@ -131,19 +131,14 @@ category:
   - Actividad física
 
 skills:
-  - Trabajo en equipo
-  - Comunicación
-  - Salud y autocuidado
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
 
 scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

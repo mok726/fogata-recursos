@@ -118,7 +118,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
+  - Campaña
 
 category:
   - Entrevista
@@ -126,18 +126,13 @@ category:
   - Comunidad
 
 skills:
-  - Comunicación
   - Investigación
-  - Conciencia social
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
+scout_values: []
 
 scout_method:
-  - Apoyo Adulto
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

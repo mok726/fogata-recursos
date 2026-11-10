@@ -122,6 +122,7 @@ accessibility: []
 
 activity_type:
   - Indagación
+  - Taller / Construcción
 
 category:
   - Biodiversidad
@@ -129,19 +130,13 @@ category:
   - Dieta
 
 skills:
-  - Investigación
   - Observación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Vida Sana y Bienestar
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

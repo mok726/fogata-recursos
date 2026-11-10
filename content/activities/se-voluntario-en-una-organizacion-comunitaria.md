@@ -126,14 +126,11 @@ category:
   - Comunidad
 
 skills:
-  - Trabajo en equipo
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
 
 scout_method:
   - Involucramiento Comunitario

@@ -109,32 +109,24 @@ complexity_execution: 3  # Requiere visita y modelo
 complexity_organizer: 3  # Requiere coordinar visita
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth visiting an energy-efficient building with solar panels and sustainable design, then creating labeled models or drawings showing energy-saving features. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring an energy-efficient building. Educational architecture scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Expresión artística
-  - Salida / Exploración
+  - Visita / Charla
 category:
   - Arquitectura
   - Eficiencia energética
   - Sostenibilidad
 skills:
   - Observación
-  - Creatividad
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

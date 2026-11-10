@@ -120,7 +120,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Indagación
 category:
   - Ciclo del carbono
   - Ecosistemas
@@ -128,14 +127,10 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Pensamiento sistémico
-  - Investigación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Vida en la Naturaleza
   - Aprender Haciendo

@@ -119,7 +119,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Indagación
 
 category:
   - Frutas
@@ -128,17 +127,11 @@ category:
 
 skills:
   - Creatividad
-  - Observación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Vida Sana y Bienestar
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -128,19 +128,12 @@ category:
   - Educación
 
 skills:
-  - Resolución de problemas
-  - Trabajo en equipo
-  - Salud y autocuidado
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
-  - Superación Personal y Perseverancia
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -120,7 +120,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Sostenibilidad
@@ -129,18 +128,13 @@ category:
 
 skills:
   - Observación
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

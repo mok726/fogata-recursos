@@ -120,7 +120,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Juego
 category:
   - Viento
   - Energía eólica
@@ -128,16 +127,11 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

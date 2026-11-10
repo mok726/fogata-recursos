@@ -108,34 +108,22 @@ complexity_execution: 3  # Requiere investigación y análisis
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching energy measurement units like joules, kilowatt-hours, and calories, examining electricity and gas bills to understand energy consumption. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching energy measurement. Educational financial literacy scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Indagación
-  - Reflexión
-  - Proyecto
+activity_type: []
 category:
   - Mediciones
   - Energía
   - Economía
-skills:
-  - Investigación
-  - Pensamiento crítico
-  - Conciencia ambiental
-  - Planificación y organización
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Progresión Personal
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

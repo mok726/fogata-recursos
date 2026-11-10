@@ -121,7 +121,7 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Acampada
@@ -129,15 +129,12 @@ category:
   - Actividad física
 
 skills:
-  - Trabajo en equipo
-  - Planificación y organización
   - Salud y autocuidado
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Espíritu Aventurero
-  - Superación Personal y Perseverancia
 
 scout_method:
   - Vida en la Naturaleza
