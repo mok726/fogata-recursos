@@ -122,24 +122,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
+  - Visita / Charla
 category:
   - Pueblos Indígenas
   - Cultura
   - Biodiversidad
 skills:
   - Investigación
-  - Empatía
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

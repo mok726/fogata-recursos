@@ -124,23 +124,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Juego
   - Expresión artística
-  - Dinámica de grupos
 category:
   - Animales Marinos
   - Juego
   - Biodiversidad
 skills:
   - Creatividad
-  - Trabajo en equipo
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

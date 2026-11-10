@@ -119,24 +119,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Indagación
   - Expresión artística
-  - Reflexión
 category:
   - Especies
   - Conservación
   - Biodiversidad
 skills:
   - Investigación
-  - Empatía
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

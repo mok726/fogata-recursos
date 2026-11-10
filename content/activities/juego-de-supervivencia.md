@@ -131,19 +131,12 @@ category:
   - Juego
   - Biodiversidad
 skills:
-  - Trabajo en equipo
   - Pensamiento sistémico
-  - Observación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

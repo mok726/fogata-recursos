@@ -121,23 +121,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Indagación
   - Debate / Diálogo
-  - Reflexión
 category:
   - Biotecnología
   - Alimentación
   - Biodiversidad
 skills:
-  - Pensamiento crítico
   - Investigación
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Honestidad e Integridad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

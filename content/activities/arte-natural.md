@@ -126,16 +126,11 @@ category:
   - Biodiversidad
 skills:
   - Creatividad
-  - Comunicación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Sencillez y Austeridad
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

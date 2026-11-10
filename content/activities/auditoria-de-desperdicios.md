@@ -134,18 +134,16 @@ category:
   - Reciclaje
   - Biodiversidad
 skills:
-  - Observación
+  - Hábitos sostenibles
   - Planificación y organización
-  - Conciencia ambiental
+  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
   - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
