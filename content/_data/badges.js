@@ -2411,7 +2411,7 @@ sections: {
   sources: [
     {
       name: "ASDE - Scouts de España, Recopilación de experiencias de la campaña 2012 Jugando juntos/as (2013) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/"
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/18087/coeducacion_2013_cmp.pdf"
     }
   ],
   license: {

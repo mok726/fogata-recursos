@@ -65,9 +65,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://biblioteca.scout.es/"
-    caption: "Biblioteca Scout de ASDE - Scouts de España"
-    icon: "link"
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/18087/coeducacion_2013_cmp.pdf"
+    caption: "Recopilación de experiencias de la campaña Jugando juntos/as - ASDE Scouts de España (PDF)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -75,7 +75,7 @@ references:
   - title: "Recopilación de experiencias de la campaña 2012 Jugando juntos/as"
     author: "ASDE - Scouts de España"
     year: 2013
-    url: "https://biblioteca.scout.es/"
+    url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/18087/coeducacion_2013_cmp.pdf"
 
 # ========== LICENCIA ==========
 license:
