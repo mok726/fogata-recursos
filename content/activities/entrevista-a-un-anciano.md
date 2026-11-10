@@ -106,8 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Expresión artística
 
 category:
   - Historia
@@ -115,18 +113,12 @@ category:
   - Comparación
 
 skills:
-  - Comunicación
-  - Pensamiento crítico
-  - Creatividad
+  - Investigación
 
 scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Respeto y Valoración de la Diversidad
-  - Superación Personal y Perseverancia
+  - Familia y Vínculos de Cuidado
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

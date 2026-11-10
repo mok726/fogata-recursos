@@ -90,7 +90,7 @@ active_component: 3  # Organización
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of young people learning about renewable energy and starting a campaign to promote its use in their area dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and campaigning. Renewable energy advocacy and community engagement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,7 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
+  - Campaña
+  - Indagación
 
 category:
   - Energía
@@ -111,17 +112,14 @@ category:
   - Campaña
 
 skills:
-  - Planificación y organización
   - Comunicación
+  - Investigación
+  - Planificación y organización
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

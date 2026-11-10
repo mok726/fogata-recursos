@@ -88,7 +88,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child comparing tap water and bottled water, learning about the energy used to make bottles dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching. Plastic waste and water consumption awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -101,7 +101,6 @@ accessibility: []
 
 
 activity_type:
-  - Reflexión
   - Indagación
 
 category:
@@ -111,17 +110,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

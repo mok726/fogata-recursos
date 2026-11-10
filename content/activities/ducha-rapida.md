@@ -88,7 +88,7 @@ active_component: 1  # Cambio de hábito
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child taking a quick shower, turning off the water while soaping, collecting cold water to reuse dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, encouraging family and friends. Water conservation and conscious consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -101,8 +101,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Cambio de hábitos
 
 category:
   - Agua
@@ -111,17 +110,12 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Planificación y organización
-  - Comunicación
 
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

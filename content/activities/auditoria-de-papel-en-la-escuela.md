@@ -103,8 +103,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
-  - Reflexión
 
 category:
   - Papel
@@ -113,17 +111,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Planificación y organización
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

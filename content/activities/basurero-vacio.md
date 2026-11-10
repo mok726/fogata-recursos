@@ -90,7 +90,7 @@ active_component: 2  # Organización
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family trying to reduce, reuse, and recycle everything to empty their trash bin for a week dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sorting waste. Zero waste challenge and sustainable living atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Cambio de hábitos
 
 category:
   - Residuos
@@ -113,17 +112,13 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Planificación y organización
-  - Trabajo en equipo
 
 scout_values:
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

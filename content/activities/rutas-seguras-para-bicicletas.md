@@ -89,7 +89,7 @@ active_component: 3  # Organización y promoción
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children starting a campaign for safe bicycle routes in their neighborhood, advocating for bike lanes and sustainable transport dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the campaign. Sustainable mobility and community advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,7 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
+  - Campaña
 
 category:
   - Bicicleta
@@ -110,17 +110,14 @@ category:
   - Campaña
 
 skills:
-  - Planificación y organización
   - Comunicación
+  - Planificación y organización
 
 scout_values:
-  - Vida Sana y Bienestar
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

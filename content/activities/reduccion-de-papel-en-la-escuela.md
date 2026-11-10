@@ -89,7 +89,7 @@ active_component: 1  # Actividad de organización
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children reducing paper use at school, printing double-sided and using email dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working on computers. Paper conservation and digital communication atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Cambio de hábitos
 
 category:
   - Papel
@@ -112,17 +111,11 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Planificación y organización
-  - Conciencia ambiental
 
 scout_values:
   - Sencillez y Austeridad
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -104,7 +104,7 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Salida / Exploración
+  - Proyecto
 
 category:
   - Río
@@ -112,14 +112,11 @@ category:
   - Recuperación
 
 skills:
-  - Planificación y organización
-  - Hábitos sostenibles
+  - Protección ambiental
   - Observación
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
 scout_method:
   - Vida en la Naturaleza

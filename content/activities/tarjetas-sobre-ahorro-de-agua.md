@@ -91,7 +91,7 @@ active_component: 1  # Actividad de creación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating flashcards with water saving facts, preparing a quiz for their school dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, making cards. Educational awareness and water conservation learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,8 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Juego
+  - Taller / Construcción
+  - Campaña
 
 category:
   - Agua
@@ -113,17 +113,12 @@ category:
   - Educación
 
 skills:
-  - Creatividad
   - Comunicación
-  - Observación
 
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

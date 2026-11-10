@@ -89,7 +89,7 @@ active_component: 2  # Colocación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child setting up separate containers for plastic, paper, cans, glass, and biodegradable materials at home and school, making signs for each container dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, labeling containers. Waste separation and recycling education atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,8 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Taller / Construcción
 
 category:
   - Reciclaje
@@ -111,18 +110,13 @@ category:
   - Separación
 
 skills:
-  - Planificación y organización
-  - Comunicación
   - Hábitos sostenibles
 
 scout_values:
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

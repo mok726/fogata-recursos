@@ -109,8 +109,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
-  - Servicio
+  - Campaña
 
 category:
   - Residuos
@@ -120,15 +119,11 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia ambiental
 
 scout_values:
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

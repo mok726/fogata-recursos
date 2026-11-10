@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Juego
 
 category:
   - Recaudación
@@ -118,12 +117,9 @@ skills:
 
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
 
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

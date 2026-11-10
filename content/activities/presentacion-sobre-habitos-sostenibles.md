@@ -106,8 +106,7 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Reflexión
-  - Servicio
+  - Indagación
 
 category:
   - Hábitos
@@ -119,13 +118,9 @@ skills:
   - Investigación
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

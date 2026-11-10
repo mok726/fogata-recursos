@@ -91,7 +91,7 @@ active_component: 2  # Habilidad manual
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child learning to sew, mend, and adapt clothes, giving them a second life dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sewing. Sustainable fashion and textile reuse atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Taller / Construcción
 
 category:
   - Ropa
@@ -113,16 +112,13 @@ category:
   - Reuso
 
 skills:
-  - Creatividad
   - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad
-  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

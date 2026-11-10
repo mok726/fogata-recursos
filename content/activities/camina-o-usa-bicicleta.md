@@ -91,7 +91,7 @@ active_component: 5  # Actividad física intensa
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children walking or cycling to school or work, using sustainable transportation instead of cars dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, enjoying active transport. Sustainable mobility and healthy lifestyle atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Salida / Exploración
+  - Cambio de hábitos
 
 category:
   - Transporte
@@ -114,17 +113,12 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Autoconocimiento
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
-scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

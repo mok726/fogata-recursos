@@ -107,7 +107,6 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Reflexión
 
 category:
   - Colecta
@@ -116,17 +115,13 @@ category:
 
 skills:
   - Planificación y organización
-  - Comunicación
   - Trabajo en equipo
 
 scout_values:
   - Solidaridad y Servicio
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

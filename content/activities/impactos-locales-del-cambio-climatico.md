@@ -106,8 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 
 category:
   - Cambio climático
@@ -116,17 +114,11 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

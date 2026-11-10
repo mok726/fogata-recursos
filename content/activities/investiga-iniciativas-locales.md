@@ -105,8 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Iniciativas
@@ -115,16 +113,10 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
-  - Conciencia social
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
+scout_values: []
 
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 rama_castores: []

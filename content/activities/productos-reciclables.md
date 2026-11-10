@@ -104,8 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
-  - Reflexión
 
 category:
   - Reciclaje
@@ -114,17 +112,12 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
   - Hábitos sostenibles
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -91,7 +91,7 @@ active_component: 3  # Desplazamiento
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a local market with a leader to learn about local and imported natural fiber products and textiles dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning. Local commerce and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Salida / Exploración
-  - Indagación
+  - Visita / Charla
 
 category:
   - Mercado
@@ -114,17 +113,10 @@ category:
 
 skills:
   - Observación
-  - Comunicación
-  - Investigación
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -91,7 +91,7 @@ active_component: 2  # Creación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child inventing a new use for household waste - creating art or toys from plastic bottles, containers, and cans dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating crafts. Creative recycling and circular innovation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,8 @@ accessibility: []
 
 
 activity_type:
+  - Taller / Construcción
   - Expresión artística
-  - Servicio
 
 category:
   - Residuos
@@ -117,11 +117,8 @@ skills:
 
 scout_values:
   - Sencillez y Austeridad
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

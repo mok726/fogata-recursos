@@ -89,7 +89,7 @@ active_component: 2  # Organización
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Servicio"
+main_type: "Proyecto"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people organizing the installation of solar panels or other green energy systems, researching donations and government initiatives dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planning and implementing. Renewable energy advocacy and sustainable infrastructure atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,7 +102,6 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
   - Proyecto
 
 category:
@@ -113,16 +112,11 @@ category:
 skills:
   - Planificación y organización
   - Investigación
-  - Comunicación
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

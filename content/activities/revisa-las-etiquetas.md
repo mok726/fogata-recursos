@@ -110,8 +110,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 
 category:
   - Alimentos
@@ -120,17 +118,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -105,8 +105,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Servicio
-  - Reflexión
+  - Campaña
 
 category:
   - Teatro
@@ -119,12 +118,9 @@ skills:
   - Trabajo en equipo
 
 scout_values:
-  - Optimismo y Alegría
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -104,8 +104,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
+  - Visita / Charla
 
 category:
   - Expertos
@@ -118,12 +117,8 @@ skills:
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:
