@@ -90,7 +90,7 @@ active_component: 2  # Implementación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: ""
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child recycling water from cooking, bathing, and cleaning, collecting rainwater for plants dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, watering plants. Water recycling and sustainable living atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,7 +102,8 @@ participants: "4-20"
 accessibility: []
 
 
-activity_type: []
+activity_type:
+  - Cambio de hábitos
 
 category:
   - Agua
