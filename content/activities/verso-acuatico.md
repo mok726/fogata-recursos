@@ -110,7 +110,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Agua
@@ -119,16 +118,10 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Hábitos sostenibles
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

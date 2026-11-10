@@ -128,18 +128,14 @@ category:
   - Plantas
   - Contaminación
 skills:
-  - Observación
-  - Pensamiento científico
+  - Experimentación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

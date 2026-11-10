@@ -110,32 +110,24 @@ complexity_execution: 2  # Dibujo secuencial
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children drawing a series of pictures showing how population growth affects a lake ecosystem, from clean water to increased human activity. Educational creative activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Expresión artística
-  - Reflexión
+activity_type: []
 category:
   - Población
   - Agua
   - Ecosistemas
 skills:
-  - Creatividad
-  - Pensamiento crítico
+  - Pensamiento sistémico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

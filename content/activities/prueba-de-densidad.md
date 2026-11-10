@@ -129,17 +129,14 @@ category:
   - Salinidad
   - Ciencia
 skills:
-  - Observación
+  - Experimentación
   - Pensamiento científico
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -111,33 +111,25 @@ complexity_execution: 2  # Participación en charla
 complexity_organizer: 3  # Coordinación con experto
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth listening to an environmental expert speaking about the balance between human needs and nature protection, with images of nature and development. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, listening to the expert. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
-  - Debate / Diálogo
-  - Salida / Exploración
+  - Visita / Charla
 category:
   - Naturaleza
   - Desarrollo
   - Ética
 skills:
-  - Pensamiento crítico
-  - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Respeto y Valoración de la Diversidad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

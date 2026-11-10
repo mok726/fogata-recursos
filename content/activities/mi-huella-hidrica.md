@@ -121,23 +121,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Huella hídrica
   - Consumo
   - Sostenibilidad
 skills:
-  - Pensamiento crítico
-  - Alfabetización digital
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+  - Sencillez y Austeridad
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

@@ -112,6 +112,7 @@ accessibility: []
 activity_type:
   - Servicio
   - Expresión artística
+  - Campaña
 
 category:
   - Agua
@@ -119,17 +120,16 @@ category:
   - Reciclaje
 
 skills:
-  - Trabajo en equipo
+  - Protección ambiental
   - Creatividad
+  - Comunicación
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
 scout_method:
+  - Vida en la Naturaleza
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 rama_castores: []
 

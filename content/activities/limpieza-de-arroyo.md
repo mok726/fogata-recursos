@@ -134,17 +134,15 @@ category:
   - Agua
   - Comunidad
 skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Protección ambiental
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

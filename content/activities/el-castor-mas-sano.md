@@ -126,8 +126,7 @@ skills:
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

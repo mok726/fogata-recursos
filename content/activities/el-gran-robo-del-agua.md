@@ -124,25 +124,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Debate / Diálogo
-  - Reflexión
 category:
   - Derechos de agua
   - Conflictos
   - Recursos compartidos
 skills:
-  - Comunicación
-  - Pensamiento crítico
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

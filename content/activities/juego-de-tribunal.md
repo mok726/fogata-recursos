@@ -136,14 +136,10 @@ category:
 skills:
   - Pensamiento crítico
   - Comunicación
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

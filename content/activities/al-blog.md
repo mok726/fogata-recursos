@@ -111,15 +111,12 @@ category:
 
 skills:
   - Comunicación
+  - Alfabetización digital
   - Creatividad
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

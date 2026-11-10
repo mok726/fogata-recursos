@@ -113,33 +113,25 @@ complexity_execution: 2  # Actividad simple
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth forming a web with yarn, connecting water, development and human rights concepts, learning about interdependence. Educational outdoor activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in the web activity. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Reflexión
-  - Dinámica de grupos
-  - Simulación / Juego de roles
+activity_type: []
 category:
   - Derechos humanos
   - Desarrollo
   - Agua
 skills:
-  - Pensamiento crítico
-  - Comunicación
+  - Pensamiento sistémico
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

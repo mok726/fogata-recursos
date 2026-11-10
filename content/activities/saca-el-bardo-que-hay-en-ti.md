@@ -103,7 +103,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Agua
@@ -112,16 +111,11 @@ category:
 
 skills:
   - Creatividad
-  - Trabajo en equipo
-  - Comunicación
+  - Conciencia social
 
-scout_values:
-  - Solidaridad y Servicio
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

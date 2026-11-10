@@ -117,30 +117,27 @@ complexity_execution: 2  # Experimentos guiados
 complexity_organizer: 3  # Requiere materiales específicos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting pH tests with various substances like vinegar, orange juice, and baking soda using litmus paper or pH test kits. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, testing pH levels. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Indagación
 category:
   - pH
   - Química
   - Agua
 skills:
   - Observación
-  - Pensamiento científico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

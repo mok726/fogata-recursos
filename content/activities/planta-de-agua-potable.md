@@ -91,7 +91,7 @@ active_component: 3  # Desplazamiento
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere coordinar visita
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A water treatment plant with pipes, tanks, and purification systems, with children learning about the process dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and taking notes. Water infrastructure and public service learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,27 +104,19 @@ accessibility: []
 
 
 activity_type:
+  - Visita / Charla
   - Indagación
-  - Salida / Exploración
 
 category:
   - Agua
   - Infraestructura
   - Servicios
 
-skills:
-  - Investigación
-  - Observación
-  - Comunicación
+skills: []
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

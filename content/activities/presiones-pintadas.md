@@ -107,7 +107,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
+  - Campaña
 
 category:
   - Agua
@@ -116,15 +116,11 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
+  - Conciencia ambiental
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

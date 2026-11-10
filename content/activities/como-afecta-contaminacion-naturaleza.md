@@ -127,17 +127,14 @@ category:
   - Plantas
   - Ciencia
 skills:
-  - Observación
+  - Experimentación
   - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

@@ -108,28 +108,25 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A homemade water filter made from a cut plastic bottle with layers of sand and gravel, next to jars of murky pond water and a magnifying glass, dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing samples. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Indagación
+  - Taller / Construcción
 category:
   - Agua
   - Ciencia
 skills:
   - Observación
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Curiosidad y Deseo de Aprender
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

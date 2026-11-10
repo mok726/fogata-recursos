@@ -121,25 +121,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Juego
-  - Reflexión
+  - Simulación / Juego de roles
 category:
   - Escasez
   - Distribución
   - Desigualdad
 skills:
   - Investigación
-  - Pensamiento crítico
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
   - Justicia y Equidad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

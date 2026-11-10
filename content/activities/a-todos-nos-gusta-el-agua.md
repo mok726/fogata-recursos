@@ -117,13 +117,11 @@ category:
 
 skills:
   - Observación
-  - Investigación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Vida en la Naturaleza

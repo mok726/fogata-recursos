@@ -110,13 +110,14 @@ complexity_execution: 3  # Creación de anuncios
 complexity_organizer: 3  # Coordinación de equipos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating video advertisements about water and sanitation, with cameras and creative props, learning about health and environmental messaging. Educational media activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, filming their ads. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Campaña
   - Expresión artística
 category:
   - Publicidad
@@ -125,15 +126,10 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Alfabetización digital
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

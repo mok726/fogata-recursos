@@ -125,32 +125,24 @@ complexity_execution: 2  # Simulación simple
 complexity_organizer: 3  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a storm drain simulation with an aquarium and box, adding different types of pollution and observing how they affect water. Educational science activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting the experiment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Experimento
-  - Simulación / Juego de roles
+activity_type: []
 category:
   - Contaminación
   - Desagües pluviales
   - Escorrentía
 skills:
-  - Observación
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

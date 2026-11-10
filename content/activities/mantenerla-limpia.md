@@ -91,7 +91,7 @@ active_component: 3  # Desplazamiento
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere coordinar visita
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A factory or farm visit where children learn about wastewater treatment and water efficiency dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, asking questions and taking notes. Industrial water management and environmental responsibility atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,7 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Visita / Charla
 
 category:
   - Agua
@@ -112,18 +112,11 @@ category:
   - Tratamiento
 
 skills:
-  - Investigación
-  - Observación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

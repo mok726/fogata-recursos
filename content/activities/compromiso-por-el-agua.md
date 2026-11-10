@@ -95,7 +95,7 @@ active_component: 2  # Moverse para compartir
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating water commitment certificates for family and friends, with personalized pledges to save water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, making certificates and reviewing progress. Personal commitment and family engagement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,7 +108,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
+  - Campaña
+  - Cambio de hábitos
 
 category:
   - Agua
@@ -116,18 +117,13 @@ category:
   - Compromiso
 
 skills:
-  - Creatividad
   - Comunicación
-  - Observación
+  - Hábitos sostenibles
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-  - Superación Personal y Perseverancia
+  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 

@@ -106,8 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 
 category:
   - Agua
@@ -116,16 +114,11 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
 
 scout_values:
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
-  - Respeto y Valoración de la Diversidad
+  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

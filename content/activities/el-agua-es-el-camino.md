@@ -119,18 +119,11 @@ category:
   - Agua
   - Vida
   - Juego
-skills:
-  - Conciencia ambiental
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Vida Sana y Bienestar
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -105,8 +105,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Juego
-  - Reflexión
+  - Campaña
 
 category:
   - Agua
@@ -115,15 +114,11 @@ category:
 
 skills:
   - Creatividad
-  - Trabajo en equipo
+  - Comunicación
 
-scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

@@ -111,32 +111,23 @@ complexity_execution: 1  # Sencilla de ejecutar
 complexity_organizer: 2  # Requiere preparar materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A world globe with oceans visible, measuring cups and water demonstrating the percentage of freshwater on Earth, youth observing and learning about water distribution. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, learning about freshwater distribution. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Reflexión
-  - Indagación
+activity_type: []
 category:
   - Agua
   - Distribución
   - Recursos naturales
 skills:
   - Conciencia ambiental
-  - Pensamiento crítico
-  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

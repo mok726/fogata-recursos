@@ -120,25 +120,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
   - Campaña
 category:
   - Contaminación
   - Desagües pluviales
   - Agua
 skills:
-  - Creatividad
   - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

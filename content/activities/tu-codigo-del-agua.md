@@ -106,29 +106,25 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large colorful handmade poster with a water drop and a pledge being written by many hands dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, hanging the poster. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
-  - Servicio
+  - Campaña
 category:
   - Agua
   - Conservación
 skills:
-  - Trabajo en equipo
-  - Creatividad
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

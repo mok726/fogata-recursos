@@ -103,6 +103,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
+  - Actividad física
 
 category:
   - Agua
@@ -111,17 +112,13 @@ category:
 
 skills:
   - Observación
-  - Destreza física
-  - Investigación
 
 scout_values:
   - Espíritu Aventurero
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 rama_castores: []
 

@@ -111,22 +111,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Campaña
+  - Expresión artística
 category:
   - Agua
   - Ciudadanía
 skills:
   - Comunicación
-  - Alfabetización digital
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -131,18 +131,15 @@ category:
   - Vegetación
   - Suelo
 skills:
-  - Observación
+  - Experimentación
   - Pensamiento científico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

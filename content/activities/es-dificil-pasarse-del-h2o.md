@@ -91,7 +91,7 @@ active_component: 1  # Actividad de observación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child going through a day without using water, realizing how difficult it is, with a diary documenting the experience dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing in their diary. Empathy and awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,6 +104,7 @@ accessibility: []
 
 
 activity_type:
+  - Cambio de hábitos
   - Reflexión
 
 category:
@@ -113,17 +114,13 @@ category:
 
 skills:
   - Empatía
-  - Pensamiento crítico
-  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
-  - Solidaridad y Servicio
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 rama_castores: []
 

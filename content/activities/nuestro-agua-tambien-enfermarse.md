@@ -124,24 +124,15 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Reflexión
 category:
   - Salud
   - Enfermedades
   - Agua
-skills:
-  - Pensamiento crítico
-  - Conciencia social
-  - Empatía
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Vida Sana y Bienestar
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

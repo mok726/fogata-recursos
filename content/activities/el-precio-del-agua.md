@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
 
 category:
   - Agua
@@ -118,12 +117,8 @@ skills:
 
 scout_values:
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

@@ -113,32 +113,26 @@ complexity_execution: 2  # Ceremonia simple
 complexity_organizer: 3  # Coordinación del evento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Ceremonia"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth holding a symbolic ceremony outdoors, placing an award ribbon on a tree to honor nature as the best water conserver. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in the ceremony. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
-  - Expresión artística
+  - Ceremonia
+  - Campaña
 category:
   - Conservación
   - Naturaleza
   - Ceremonia
 skills:
-  - Creatividad
   - Comunicación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
-scout_method:
-  - Marco Simbólico
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

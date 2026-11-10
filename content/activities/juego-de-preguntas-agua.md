@@ -121,18 +121,11 @@ category:
   - Agua
   - Trivia
   - Juego
-skills:
-  - Observación
-  - Conciencia ambiental
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -100,25 +100,17 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Expresión artística
 
 category:
   - Agua
   - Juego
   - Comunicación
 
-skills:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
+skills: []
 
-scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

@@ -104,28 +104,22 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A computer screen showing a melting glacier, a coral reef and a storm, as stops of a virtual expedition, dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, presenting to the group. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Indagación
+activity_type: []
 category:
   - Agua
   - Cambio climático
 skills:
-  - Investigación
-  - Comunicación
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

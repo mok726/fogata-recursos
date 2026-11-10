@@ -116,32 +116,27 @@ complexity_execution: 3  # Requiere esfuerzo físico
 complexity_organizer: 3  # Preparación de la carrera
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Actividad física"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children participating in an obstacle course with buckets, tires, ladders, and sacks, simulating the struggle to collect water. Active outdoor educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, running the obstacle course. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Actividad física
   - Juego
-  - Dinámica de grupos
 category:
   - Escasez de agua
   - Empatía
   - Educación física
 skills:
-  - Trabajo en equipo
   - Empatía
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
-  - Espíritu Aventurero
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+  - Justicia y Equidad
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

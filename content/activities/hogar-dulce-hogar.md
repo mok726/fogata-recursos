@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
 
 category:
   - Agua
@@ -113,17 +112,10 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

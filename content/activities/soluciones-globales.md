@@ -119,17 +119,12 @@ category:
 
 skills:
   - Experimentación
-  - Observación
-  - Pensamiento crítico
+  - Investigación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

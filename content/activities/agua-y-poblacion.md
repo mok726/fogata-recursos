@@ -122,24 +122,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Población
   - Escasez
   - Datos
 skills:
-  - Pensamiento científico
-  - Pensamiento crítico
-  - Conciencia social
+  - Investigación
+  - Pensamiento sistémico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

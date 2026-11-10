@@ -118,31 +118,27 @@ complexity_execution: 3  # Juegos con reglas
 complexity_organizer: 4  # Coordinación de visita y materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children learning about riparian zones through outdoor games with cones and flags, simulating how vegetation protects streams from pollution. Active outdoor educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing the game. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Juego
   - Salida / Exploración
+  - Juego
 category:
   - Zonas ribereñas
   - Ecosistemas
   - Conservación
 skills:
   - Observación
-  - Trabajo en equipo
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Espíritu Aventurero
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
