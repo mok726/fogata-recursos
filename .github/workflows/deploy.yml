@@ -7,6 +7,10 @@
 # "GitHub Actions".
 
 name: Publicar sitio
+# Las corridas del anuncio diario (cron de GitHub o disparo externo con
+# anunciar=cron) se llaman «Anuncio diario»; así se detecta si ya se
+# publicó hoy. Las demás usan el nombre por defecto.
+run-name: ${{ (github.event_name == 'schedule' || inputs.anunciar == 'cron') && 'Anuncio diario' || '' }}
 
 on:
   push:
@@ -24,7 +28,9 @@ on:
         description: "Anunciar la actividad del día en redes"
         type: choice
         default: ninguna
-        options: [ninguna, todas, telegram, mastodon, bluesky, facebook, instagram, threads]
+        # «cron»: lo usa el disparo externo diario (cron-job.org); publica
+        # en las redes de REDES_CRON y solo si hoy no se publicó todavía.
+        options: [ninguna, cron, todas, telegram, mastodon, bluesky, facebook, instagram, threads]
 
 permissions:
   contents: read
@@ -34,7 +40,7 @@ permissions:
 # Si llegan dos pushes seguidos, se publica sólo el último.
 concurrency:
   # El cron va en su propio grupo: un push no cancela el anuncio diario.
-  group: pages-${{ github.ref }}-${{ github.event_name == 'schedule' && 'cron' || 'push' }}
+  group: pages-${{ github.ref }}-${{ (github.event_name == 'schedule' || inputs.anunciar == 'cron') && 'cron' || 'push' }}
   cancel-in-progress: true
 
 jobs:
@@ -104,21 +110,22 @@ jobs:
       actions: read
       contents: read
     steps:
-      # Si ya hubo hoy (hora argentina) una corrida programada exitosa,
-      # el cron de respaldo no vuelve a publicar.
+      # Si ya hubo hoy (hora argentina) un «Anuncio diario» exitoso
+      # (cron de GitHub o disparo externo), no se vuelve a publicar.
       - id: ya
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || inputs.anunciar == 'cron'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           hoy=$(TZ=America/Argentina/Buenos_Aires date +%F)
           desde=$(date -u -d "$hoy 03:00" +%Y-%m-%dT%H:%M:%SZ)
           n=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow deploy.yml \
-                --event schedule --status success -L 20 --json databaseId,createdAt \
+                --status success -L 50 --json databaseId,createdAt,event,displayTitle \
               | jq --arg d "$desde" --argjson yo "$GITHUB_RUN_ID" \
-                  '[.[] | select(.createdAt >= $d and .databaseId != $yo)] | length')
+                  '[.[] | select(.createdAt >= $d and .databaseId != $yo
+                     and (.event == "schedule" or .displayTitle == "Anuncio diario"))] | length')
           echo "anunciado=$([ "$n" -gt 0 ] && echo si || echo no)" >> "$GITHUB_OUTPUT"
-          echo "Corridas programadas exitosas hoy: $n"
+          echo "Anuncios diarios exitosos hoy: $n"
 
       - if: steps.ya.outputs.anunciado != 'si'
         uses: actions/checkout@v4
@@ -135,11 +142,11 @@ jobs:
       - if: steps.ya.outputs.anunciado != 'si'
         run: node .github/scripts/anunciar.mjs actividad-del-dia.json
         env:
-          # A mano se elige la red. El cron usa la variable del repo
+          # A mano se elige la red. El cron (o anunciar=cron) usa la variable del repo
           # REDES_CRON (Settings → Secrets and variables → Actions →
           # Variables), p. ej. «todas» o «telegram,facebook». Sin la
           # variable, publica solo en Telegram y Facebook.
-          REDES: ${{ inputs.anunciar || vars.REDES_CRON || 'telegram,facebook' }}
+          REDES: ${{ (inputs.anunciar != 'cron' && inputs.anunciar) || vars.REDES_CRON || 'telegram,facebook' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MASTODON_URL: ${{ secrets.MASTODON_URL }}
