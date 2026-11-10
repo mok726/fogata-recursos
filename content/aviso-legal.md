@@ -46,4 +46,6 @@ Fogata de Recursos no está afiliada a ninguna de las organizaciones citadas, y 
 
 ## Contacto
 
-Para avisar de un error o de un riesgo en una actividad, o para pedir una corrección, escribí a través de [GitHub](https://github.com/mok726/fogata-recursos/issues).
+Para hacer comentarios o reclamos, avisar de un error o de un riesgo en una actividad, o pedir una corrección, usá el [formulario de comentarios](../feedback/). Está disponible en todo el sitio con el botón de comentarios de la barra superior, y desde una actividad envía también a qué página te referís.
+
+Como alternativa, podés abrir un [issue en GitHub](https://github.com/mok726/fogata-recursos/issues). Para eso necesitás una cuenta de GitHub.
