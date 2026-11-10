@@ -91,7 +91,7 @@ active_component: 3  # Desplazamiento
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar visita
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a local farm, talking to farmers about soil fertility and sustainable agriculture dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, taking notes and asking questions. Agricultural learning and sustainable farming atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,8 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
-  - Salida / Exploración
+  - Visita / Charla
 
 category:
   - Suelo
@@ -113,18 +112,12 @@ category:
   - Fertilidad
 
 skills:
-  - Investigación
-  - Comunicación
-  - Observación
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

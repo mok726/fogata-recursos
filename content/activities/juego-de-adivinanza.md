@@ -103,7 +103,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Reflexión
 
 category:
   - Suelo
@@ -111,18 +110,11 @@ category:
   - Juego
 
 skills:
-  - Pensamiento crítico
-  - Trabajo en equipo
-  - Comunicación
+  - Conciencia ambiental
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

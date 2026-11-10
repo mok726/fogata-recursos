@@ -100,7 +100,6 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Juego
 
 category:
   - Suelo
@@ -111,14 +110,10 @@ skills:
   - Comunicación
   - Observación
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

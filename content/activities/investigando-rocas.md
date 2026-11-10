@@ -106,7 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Salida / Exploración
 
 category:
   - Rocas
@@ -114,18 +113,13 @@ category:
   - Suelo
 
 skills:
-  - Investigación
   - Observación
-  - Pensamiento crítico
+  - Investigación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 rama_castores: []
 

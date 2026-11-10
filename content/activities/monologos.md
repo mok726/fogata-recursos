@@ -103,8 +103,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
-  - Indagación
+  - Simulación / Juego de roles
 
 category:
   - Suelo
@@ -115,14 +114,9 @@ skills:
   - Pensamiento crítico
   - Comunicación
 
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -116,31 +116,26 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Preparación básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth brainstorming alternatives to plastic products in a classroom, writing ideas on a chalkboard, educational environmental scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
+  - Debate / Diálogo
 category:
   - Plásticos
   - Consumo responsable
   - Alternativas sostenibles
 skills:
+  - Hábitos sostenibles
   - Pensamiento crítico
-  - Comunicación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # OBLIGATORIO: siempre incluir TODAS las ramas, con valores o []

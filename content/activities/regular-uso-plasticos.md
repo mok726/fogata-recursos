@@ -118,32 +118,28 @@ complexity_execution: 3  # Requiere habilidades de debate
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Debate / Diálogo"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a mock parliament debate on plastic regulations, with speakers at a podium and audience, educational civic engagement scene. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Debate / Diálogo
   - Simulación / Juego de roles
+  - Debate / Diálogo
 category:
   - Legislación
   - Plásticos
   - Participación ciudadana
 skills:
   - Pensamiento crítico
-  - Trabajo en equipo
+  - Toma de decisiones
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+  - Compromiso con la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias

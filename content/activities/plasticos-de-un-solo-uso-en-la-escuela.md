@@ -118,7 +118,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Proyecto
 category:
   - Escuela sostenible
   - Plásticos
@@ -126,18 +125,11 @@ category:
 skills:
   - Observación
   - Conciencia ambiental
-  - Planificación y organización
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

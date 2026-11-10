@@ -102,8 +102,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
-  - Juego
 
 category:
   - Suelo
@@ -112,16 +110,10 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Observación
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

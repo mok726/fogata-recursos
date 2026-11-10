@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Debate / Diálogo
 
 category:
   - Suelo
@@ -113,18 +112,12 @@ category:
   - Preguntas
 
 skills:
-  - Trabajo en equipo
-  - Resolución de problemas
-  - Pensamiento científico
+  - Conciencia ambiental
 
 scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
   - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

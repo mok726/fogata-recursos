@@ -100,7 +100,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Juego
 
 category:
   - Suelo
@@ -109,15 +108,10 @@ category:
 
 skills:
   - Creatividad
-  - Trabajo en equipo
 
-scout_values:
-  - Optimismo y Alegría
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

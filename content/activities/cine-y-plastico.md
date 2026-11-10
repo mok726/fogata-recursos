@@ -116,33 +116,25 @@ complexity_execution: 1  # Sencilla de ejecutar
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Campaña"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of youth watching an environmental documentary on a screen, with thoughtful expressions, discussing and taking notes. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, watching a film about plastic pollution. Educational awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
-  - Campaña
 category:
   - Educación ambiental
   - Cine
   - Plásticos
 skills:
-  - Pensamiento crítico
-  - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

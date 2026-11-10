@@ -115,8 +115,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Servicio
-  - Expresión artística
 category:
   - Campaña
   - Concientización
@@ -124,17 +122,12 @@ category:
 skills:
   - Comunicación
   - Creatividad
-  - Liderazgo
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
+  - Compromiso con la Naturaleza
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

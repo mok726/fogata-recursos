@@ -113,30 +113,28 @@ complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of scouts holding up signs with commitments to reduce plastic, collective action, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
+  - Debate / Diálogo
 category:
   - Compromiso ambiental
   - Cambio de hábitos
   - Plásticos
 skills:
-  - Autoconocimiento
-  - Trabajo en equipo
+  - Hábitos sostenibles
+  - Toma de decisiones
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores:

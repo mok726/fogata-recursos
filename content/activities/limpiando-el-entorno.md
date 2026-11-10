@@ -120,24 +120,22 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Servicio
+  - Proyecto
 category:
   - Servicio comunitario
   - Limpieza
   - Plásticos
 skills:
+  - Protección ambiental
+  - Planificación y organización
   - Trabajo en equipo
-  - Conciencia ambiental
-  - Liderazgo
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

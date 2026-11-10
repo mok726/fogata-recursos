@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Suelo
@@ -113,17 +112,12 @@ category:
 
 skills:
   - Investigación
-  - Observación
-  - Hábitos sostenibles
+  - Conciencia ambiental
 
 scout_values:
-  - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

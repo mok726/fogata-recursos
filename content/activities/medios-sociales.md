@@ -103,8 +103,6 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Servicio
-  - Expresión artística
 
 category:
   - Suelo
@@ -113,15 +111,12 @@ category:
 
 skills:
   - Comunicación
-  - Creatividad
+  - Alfabetización digital
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

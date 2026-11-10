@@ -131,18 +131,12 @@ category:
   - Gestión de residuos
   - Plásticos
 skills:
-  - Pensamiento crítico
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias

@@ -129,19 +129,12 @@ category:
   - Educación ambiental
   - Océanos
 skills:
-  - Pensamiento crítico
-  - Empatía
   - Conciencia ambiental
-  - Resolución de problemas
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores:

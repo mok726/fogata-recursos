@@ -123,32 +123,25 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Preparación técnica básica
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Campaña"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children watching an environmental documentary on a large screen in a dark room, the screen shows ocean pollution with plastic waste, educational moment. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Campaña
-  - Reflexión
+  - Debate / Diálogo
 category:
   - Contaminación plástica
   - Educación ambiental
   - Océanos
 skills:
-  - Pensamiento crítico
-  - Empatía
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores:

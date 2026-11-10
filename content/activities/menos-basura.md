@@ -114,13 +114,11 @@ category:
   - Reciclaje
 
 skills:
-  - Trabajo en equipo
+  - Protección ambiental
   - Planificación y organización
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
 scout_method:
   - Involucramiento Comunitario

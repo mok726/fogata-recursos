@@ -110,7 +110,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Experimento
 
 category:
   - Suelo
@@ -119,15 +118,11 @@ category:
 
 skills:
   - Creatividad
-  - Experimentación
+  - Observación
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

@@ -127,25 +127,21 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
+  - Salida / Exploración
 category:
   - Basura
   - Contaminación
   - Comportamiento social
 skills:
   - Observación
-  - Pensamiento crítico
   - Pensamiento sistémico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # SIEMPRE vacío, NO tiene competencias

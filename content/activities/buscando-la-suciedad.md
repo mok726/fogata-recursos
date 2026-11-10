@@ -112,17 +112,13 @@ category:
 
 skills:
   - Investigación
-  - Observación
   - Comunicación
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

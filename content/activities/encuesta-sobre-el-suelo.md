@@ -106,7 +106,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
+  - Campaña
 
 category:
   - Suelo
@@ -114,18 +114,12 @@ category:
   - Comunidad
 
 skills:
-  - Comunicación
   - Investigación
-  - Creatividad
+  - Comunicación
 
-scout_values:
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

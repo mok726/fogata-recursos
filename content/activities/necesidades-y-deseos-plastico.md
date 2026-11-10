@@ -130,18 +130,14 @@ category:
   - Plásticos
   - Hábitos sostenibles
 skills:
+  - Hábitos sostenibles
   - Pensamiento crítico
-  - Autoconocimiento
-  - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # OBLIGATORIO: siempre incluir TODAS las ramas, con valores o []

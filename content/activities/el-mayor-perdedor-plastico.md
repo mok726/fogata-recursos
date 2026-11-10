@@ -122,16 +122,12 @@ category:
   - Reducción
   - Plásticos
 skills:
-  - Trabajo en equipo
   - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
+  - Compromiso con la Naturaleza
 scout_method:
-  - Sistema de Equipos
   - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========

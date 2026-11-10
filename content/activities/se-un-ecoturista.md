@@ -106,7 +106,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Servicio
+  - Indagación
 
 category:
   - Suelo
@@ -115,17 +115,13 @@ category:
 
 skills:
   - Planificación y organización
-  - Observación
-  - Comunicación
+  - Creatividad
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

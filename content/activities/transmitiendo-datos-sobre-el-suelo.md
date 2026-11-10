@@ -93,7 +93,7 @@ active_component: 2  # Montaje y organización
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere permisos
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A public exhibition about soil with posters, maps showing degradation, and checklists for soil-friendly actions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, setting up the exhibition. Public education and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Campaña
 
 category:
   - Suelo
@@ -116,17 +115,13 @@ category:
 
 skills:
   - Comunicación
-  - Creatividad
   - Planificación y organización
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

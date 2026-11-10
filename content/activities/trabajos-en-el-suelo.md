@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Reflexión
 
 category:
   - Suelo
@@ -113,18 +112,11 @@ category:
   - Profesiones
 
 skills:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
+  - Pensamiento sistémico
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:
