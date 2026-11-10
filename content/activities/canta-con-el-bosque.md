@@ -121,7 +121,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Juego
 
 category:
   - Música
@@ -130,17 +129,11 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

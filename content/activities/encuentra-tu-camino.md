@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere habilidades de orientación
 complexity_organizer: 4  # Requiere planificación del evento
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group navigating through a forest using a map and compass dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, orienteering and reading maps. Navigation and adventure atmosphere. No text, no letters, no words. Wide shot."
@@ -119,7 +119,6 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Juego
   - Salida / Exploración
 
 category:
@@ -128,15 +127,11 @@ category:
   - Navegación
 
 skills:
-  - Observación
-  - Trabajo en equipo
-  - Resolución de problemas
+  - Técnicas scout
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Superación Personal y Perseverancia
-  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Vida en la Naturaleza

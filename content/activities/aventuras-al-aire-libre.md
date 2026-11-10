@@ -122,7 +122,6 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Juego
 
 category:
   - Aventura
@@ -131,18 +130,13 @@ category:
 
 skills:
   - Planificación y organización
-  - Creatividad
-  - Observación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Superación Personal y Perseverancia
-  - Vida Sana y Bienestar
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

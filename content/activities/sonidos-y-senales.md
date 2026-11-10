@@ -120,8 +120,6 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Indagación
-  - Juego
 
 category:
   - Animales
@@ -130,18 +128,13 @@ category:
 
 skills:
   - Observación
-  - Comunicación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

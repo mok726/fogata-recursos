@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere invitar a un experto
 complexity_organizer: 3  # Requiere coordinación con el invitado
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A professional logger explaining sustainable forestry practices dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Environmental education and sustainable industry atmosphere. No text, no letters, no words. Wide shot."
@@ -117,8 +117,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Debate / Diálogo
+  - Visita / Charla
 
 category:
   - Tala
@@ -127,18 +126,11 @@ category:
 
 skills:
   - Conciencia ambiental
-  - Comunicación
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

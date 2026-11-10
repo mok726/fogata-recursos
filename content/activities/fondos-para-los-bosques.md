@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Proyecto
+  - Campaña
 
 category:
   - Recaudación de fondos
@@ -127,19 +127,15 @@ category:
   - Acción comunitaria
 
 skills:
-  - Trabajo en equipo
   - Planificación y organización
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

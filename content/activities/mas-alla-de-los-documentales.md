@@ -104,7 +104,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere seleccionar el documental y organizar la proyección
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group watching a nature documentary with forest imagery on a large screen dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sitting attentively watching and taking notes. Educational and reflective atmosphere. No text, no letters, no words. Wide shot."
@@ -122,9 +122,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
   - Debate / Diálogo
-  - Indagación
 
 category:
   - Educación ambiental
@@ -133,18 +131,12 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Comunicación
-  - Conciencia ambiental
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

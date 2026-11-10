@@ -120,27 +120,19 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Dinámica de grupos
+  - Indagación
 
 category:
   - Animales
   - Clasificación
   - Juego
 
-skills:
-  - Observación
-  - Trabajo en equipo
-  - Pensamiento crítico
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere identificación segura de alimentos
 complexity_organizer: 4  # Requiere planificación y seguridad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Wild forest foods like mushrooms, berries, and herbs beautifully arranged dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, foraging and preparing food. Sustainable food and nature connection atmosphere. No text, no letters, no words. Wide shot."
@@ -121,7 +121,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Salida / Exploración
+  - Taller / Construcción
 
 category:
   - Alimentos silvestres
@@ -129,19 +130,16 @@ category:
   - Cocina
 
 skills:
-  - Conciencia ambiental
   - Observación
-  - Hábitos sostenibles
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Vida Sana y Bienestar
-  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -131,17 +131,13 @@ category:
 
 skills:
   - Observación
-  - Creatividad
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Espíritu Aventurero
-  - Compromiso con la Naturaleza
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

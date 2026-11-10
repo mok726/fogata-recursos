@@ -126,18 +126,12 @@ category:
   - Tecnología
   - Educación
 
-skills:
-  - Alfabetización digital
-  - Trabajo en equipo
-  - Conciencia ambiental
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

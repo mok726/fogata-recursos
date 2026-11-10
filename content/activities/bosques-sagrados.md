@@ -120,8 +120,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 
 category:
   - Espiritualidad
@@ -130,18 +128,12 @@ category:
 
 skills:
   - Investigación
-  - Conciencia social
-  - Empatía
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Espiritualidad y Búsqueda de Sentido
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

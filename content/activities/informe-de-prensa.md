@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
+  - Expresión artística
 
 category:
   - Pueblos indígenas
@@ -127,19 +127,15 @@ category:
   - Derechos humanos
 
 skills:
-  - Comunicación
   - Investigación
   - Conciencia social
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

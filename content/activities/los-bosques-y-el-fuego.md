@@ -106,7 +106,7 @@ complexity_execution: 3  # Requiere supervisión y precaución
 complexity_organizer: 4  # Requiere planificación de seguridad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A safe campfire in a forest with people gathered around cooking and singing dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sitting around a fire with safety equipment nearby. Campfire safety and cultural connection atmosphere. No text, no letters, no words. Wide shot."
@@ -123,7 +123,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
+  - Taller / Construcción
 
 category:
   - Fuego
@@ -131,14 +131,10 @@ category:
   - Cultura
 
 skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Técnicas scout
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
+scout_values: []
 
 scout_method:
   - Vida en la Naturaleza

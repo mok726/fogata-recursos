@@ -120,7 +120,6 @@ accessibility:
 activity_type:
   - Salida / Exploración
   - Expresión artística
-  - Indagación
 
 category:
   - Sonidos
@@ -130,16 +129,12 @@ category:
 skills:
   - Observación
   - Creatividad
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
+scout_values: []
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

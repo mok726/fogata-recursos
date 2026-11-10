@@ -120,8 +120,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Expresión artística
-  - Debate / Diálogo
 
 category:
   - Conexión personal
@@ -129,19 +127,13 @@ category:
   - Escritura
 
 skills:
-  - Comunicación
   - Autoconocimiento
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Progresión Personal
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

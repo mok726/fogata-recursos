@@ -117,7 +117,6 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
 
 category:
   - Ética
@@ -126,18 +125,13 @@ category:
 
 skills:
   - Pensamiento crítico
-  - Comunicación
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-  - Honestidad e Integridad
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

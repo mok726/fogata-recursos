@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere habilidades digitales
 complexity_organizer: 3  # Requiere coordinación para el blog
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A laptop or computer screen showing a blog about forest conservation with photos and content dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working on computers and taking photos in the forest. Digital communication and environmental education atmosphere. No text, no letters, no words. Wide shot."
@@ -118,8 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Expresión artística
+  - Campaña
+  - Salida / Exploración
 
 category:
   - Comunicación
@@ -129,16 +129,12 @@ category:
 skills:
   - Comunicación
   - Alfabetización digital
-  - Creatividad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Apoyo Adulto
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

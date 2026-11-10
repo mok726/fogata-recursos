@@ -118,7 +118,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Naciones Unidas
@@ -127,18 +126,11 @@ category:
 
 skills:
   - Investigación
-  - Conciencia social
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

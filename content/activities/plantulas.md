@@ -105,7 +105,7 @@ complexity_execution: 3  # Requiere habilidades básicas
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young tree seedlings being planted in forest soil with gardening tools dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting seedlings and caring for them. Reforestation and nature care atmosphere. No text, no letters, no words. Wide shot."
@@ -123,7 +123,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Reforestación
@@ -131,18 +131,16 @@ category:
   - Cuidado ambiental
 
 skills:
-  - Trabajo en equipo
   - Protección ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

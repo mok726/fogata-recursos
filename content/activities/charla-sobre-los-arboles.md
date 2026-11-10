@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere invitar a un experto
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An arborist or tree specialist talking about different tree species dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Expert learning and tree education atmosphere. No text, no letters, no words. Wide shot."
@@ -117,28 +117,20 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Debate / Diálogo
+  - Visita / Charla
 
 category:
   - Árboles
   - Botánica
   - Educación
 
-skills:
-  - Comunicación
-  - Investigación
-  - Conciencia ambiental
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Apoyo Adulto
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

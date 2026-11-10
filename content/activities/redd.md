@@ -118,7 +118,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
+  - Expresión artística
 
 category:
   - Política climática
@@ -128,17 +128,11 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)
