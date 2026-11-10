@@ -174,7 +174,7 @@ Cada casilla tiene tres partes, y el papel del dirigente es clave:
 2. **Contrato** (el acuerdo entre jugador y club). No todo se negocia: muchas veces negociamos con la amistad («si vos me das, yo te doy»). *Prueba:* escribí en un papel un lema como «Dar sin esperar nada a cambio» y ponelo donde todos lo vean.
 3. **Pase** (cuando un jugador se incorpora a un equipo). Todos los días hay personas nuevas que quieren entrar en nuestra vida: ¿qué actitud tomamos? *Prueba:* en 20 segundos, nombrá a las personas que conociste en la última semana (que algún compañero lo confirme). Avanzás una casilla por cada una.
 4. **Equipo.** Trabajar en equipo es hermoso, pero a veces cuesta: si falla uno, pierden todos. *Prueba:* inventá un grito de guerra y que todos lo repitan juntos, bien fuerte.
-5. **Rival.** Todos conocemos a alguien que no nos cae bien. El odio es un arma de doble filo: el daño que creemos hacerle al otro es mucho menor que el que nos hacemos a nosotros. *Prueba:* decile a cada compañero algo bueno que veas en él o en ella.
+5. **Rival.** Todos conocemos a alguien que no nos cae bien. El odio es un arma de doble filo: el daño que creemos hacerle al otro es mucho menor que el que nos hacemos a nosotros. *Prueba:* dale un abrazo a cada uno de tus compañeros.
 6. **DT** (quien dirige al equipo). Qué bueno es tener a alguien que con su experiencia nos ayude a crecer. *Prueba:* escribí el nombre de 4 personas que fueron clave en tu vida (no hace falta que sean de tu familia) y dejá el papel en la mesa: el próximo que caiga acá sigue la lista.
 7. **Debut** (el primer partido en un club nuevo). ¿Se acuerdan del primer día en la escuela o en el campamento? Impone no conocer a nadie, pero seguro alguien más antiguo te dio una mano. *Prueba:* empezá una carta para un compañero que esté pasando por algo así. Dejala en la mesa: los que caigan acá siguen dándole consejos.
 8. **Banco de suplentes.** No siempre hay que llevar la voz cantante, y no por eso hay que enojarse. *Prueba:* te quedás un turno sin tirar y mirás lo que hacen los demás.
@@ -209,7 +209,7 @@ Cada casilla tiene tres partes, y el papel del dirigente es clave:
 ## Cierre
 Al ganador se le puede dar un premio simbólico (una bolsa de caramelos, un diploma, una figura). A todos se les puede dar una postal con el lema «Hacé un hat-trick en tu vida» y la firma de todos los que jugaron.
 
-> **Nota para el educador:** cambiamos algunas pruebas respecto del original. En la casilla 5, la publicación propone darle un abrazo a cada compañero; en Fogata de Recursos no usamos pruebas con contacto físico, así que la cambiamos por decir algo bueno de cada uno. En la casilla 21, en vez de un alfiler, usen cinta adhesiva. Las referencias a otras realidades españolas se pasaron a ejemplos cercanos.
+> **Nota para el educador:** cambiamos algunos detalles respecto del original. En la casilla 21, en vez de un alfiler, usen cinta adhesiva. Las referencias a otras realidades españolas se pasaron a ejemplos cercanos.
 >
 > El juego está pensado para todo el Grupo (de 6 a 21 años). Adapten las reflexiones a la edad: con castores y lobatos dejen de lado los temas de cigarrillo, salidas o apuestas, y en la casilla 30 cambien el mensaje del celular por una carta o un dibujo. Si hay alguien que la está pasando mal, cuiden las casillas que piden contar situaciones personales (10, 14, 23, 24, 31): siempre se puede pasar.
 
