@@ -2400,6 +2400,88 @@ sections: {
   }
 },
 {
+  id: "dialogopaz",
+  name: "Diálogo para la Paz",
+  description:
+    "Escuchar, reconocer y responder: habilidades de diálogo para prevenir y transformar conflictos.",
+  summary:
+    "Desafío Dialogue for Peace de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. El recorrido tiene tres etapas: Escuchar, Reconocer y Responder, y termina con un Café del Diálogo.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Dialogue for Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/dialogue-peace"
+    },
+    {
+      name: "Dialogue for Peace Trainer Manual (OMMS – KAICIID)",
+      url: "https://learn.scout.org/resource/dialogue-peace-trainer-manual"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary:
+      "Recorrer las etapas Escuchar, Reconocer y Responder y cerrar con un Café del Diálogo.",
+    rules: [
+      "Hacer actividades de las etapas Escuchar y Reconocer",
+      "Hacer al menos una actividad de la etapa Responder",
+      "Cerrar con un Café del Diálogo"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Escuchar",
+      description: "Principios del diálogo, identidad y percepciones: escuchar a los demás y a uno mismo."
+    },
+    B: {
+      title: "Reconocer",
+      description: "Reconocer las causas de los conflictos, la exclusión y el propio estilo ante un desacuerdo."
+    },
+    C: {
+      title: "Responder",
+      description: "Poner en práctica el diálogo en una ronda facilitada."
+    }
+  }
+},
+{
+  id: "interreligioso",
+  name: "Diálogo Interreligioso",
+  description:
+    "Diálogo entre personas de distintas creencias y culturas, con respeto por la identidad de cada uno.",
+  summary:
+    "Desafío Interreligious Dialogue de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. Comparte sus actividades con Diálogo para la Paz: por eso aparecen acá como complementarias.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Interreligious Dialogue – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/interreligious-dialogue"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID)."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary: "Hacer las actividades de Diálogo para la Paz marcadas también para este desafío.",
+    rules: []
+  },
+  sections: {}
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
