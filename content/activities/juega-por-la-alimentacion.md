@@ -129,19 +129,13 @@ category:
   - Beneficencia
   - Tecnología
 
-skills:
-  - Alfabetización digital
-  - Conciencia social
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Optimismo y Alegría
   - Solidaridad y Servicio
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

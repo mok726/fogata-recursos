@@ -110,7 +110,7 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Proyecto
+  - Debate / Diálogo
 
 category:
   - Cambio climático
@@ -118,17 +118,13 @@ category:
   - Acción personal
 
 skills:
-  - Pensamiento crítico
-  - Planificación y organización
+  - Hábitos sostenibles
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
   - Progresión Personal
 
 rama_castores: []

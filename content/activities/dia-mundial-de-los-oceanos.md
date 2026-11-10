@@ -98,7 +98,7 @@ active_component: 4  # Actividades variadas
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 4  # Requiere organización avanzada
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant ocean celebration with activities, decorations, and people celebrating World Oceans Day dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and participating in festive activities. Community celebration and ocean appreciation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -111,8 +111,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Juego
+  - Campaña
 
 category:
   - Celebración
@@ -121,18 +120,13 @@ category:
 
 skills:
   - Planificación y organización
-  - Comunicación
-  - Trabajo en equipo
 
 scout_values:
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
   - Compromiso con la Naturaleza
 
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
-  - Marco Simbólico
+  - Aprender Haciendo
 
 rama_castores: []
 

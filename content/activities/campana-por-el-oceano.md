@@ -92,7 +92,7 @@ active_component: 3  # Acción comunitaria activa
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 4  # Requiere organización avanzada
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A public awareness campaign with posters, banners, and people holding signs about ocean conservation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing a community event and talking to people. Community activism and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,8 +105,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Debate / Diálogo
+  - Campaña
 
 category:
   - Activismo
@@ -116,17 +115,13 @@ category:
 skills:
   - Comunicación
   - Planificación y organización
-  - Liderazgo
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
 
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 

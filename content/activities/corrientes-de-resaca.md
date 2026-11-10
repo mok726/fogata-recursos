@@ -124,7 +124,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
 
 category:
   - Corrientes de resaca
@@ -133,18 +132,14 @@ category:
 
 skills:
   - Investigación
+  - Salud y autocuidado
   - Comunicación
-  - Resolución de problemas
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-  - Curiosidad y Deseo de Aprender
+  - Vida Sana y Bienestar
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

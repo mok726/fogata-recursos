@@ -120,7 +120,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Servicio
 
 category:
   - Experiencia
@@ -129,18 +128,14 @@ category:
 
 skills:
   - Empatía
-  - Pensamiento crítico
-  - Conciencia social
+  - Autoconocimiento
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
-  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

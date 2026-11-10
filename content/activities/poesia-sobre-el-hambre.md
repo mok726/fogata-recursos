@@ -124,7 +124,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Poesía
@@ -133,17 +132,11 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Justicia y Equidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

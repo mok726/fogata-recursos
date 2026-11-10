@@ -125,7 +125,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Indagación
 
 category:
   - Sal
@@ -134,17 +133,14 @@ category:
 
 skills:
   - Observación
-  - Conciencia ambiental
   - Pensamiento científico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

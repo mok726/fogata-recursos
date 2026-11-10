@@ -122,7 +122,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Trampa del hambre
@@ -131,17 +130,12 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Pensamiento crítico
+  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Solidaridad y Servicio
-  - Justicia y Equidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

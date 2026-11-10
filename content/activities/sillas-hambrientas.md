@@ -127,19 +127,13 @@ category:
   - Conciencia
 
 skills:
-  - Trabajo en equipo
-  - Observación
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
-  - Solidaridad y Servicio
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

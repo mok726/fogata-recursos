@@ -108,7 +108,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Reflexión
 
 category:
   - Cambio climático
@@ -117,17 +116,13 @@ category:
 
 skills:
   - Experimentación
-  - Observación
-  - Pensamiento crítico
+  - Pensamiento científico
 
 scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
   - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 

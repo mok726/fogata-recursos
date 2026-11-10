@@ -107,7 +107,7 @@ complexity_execution: 3  # Requiere organización
 complexity_organizer: 4  # Requiere logística
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community run or race raising awareness and funds to fight hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, running and participating in the event. Health and solidarity through sports atmosphere. No text, no letters, no words. Wide shot."
@@ -125,7 +125,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
+  - Campaña
   - Actividad física
 
 category:
@@ -134,18 +134,13 @@ category:
   - Conciencia
 
 skills:
-  - Trabajo en equipo
   - Planificación y organización
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
   - Solidaridad y Servicio
-  - Optimismo y Alegría
 
 scout_method:
-  - Vida en la Naturaleza
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

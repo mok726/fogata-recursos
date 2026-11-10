@@ -129,7 +129,6 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Indagación
 
 category:
   - Costa
@@ -138,14 +137,12 @@ category:
 
 skills:
   - Observación
-  - Trabajo en equipo
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
   - Curiosidad y Deseo de Aprender
-  - Espíritu Aventurero
 
 scout_method:
   - Vida en la Naturaleza

@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere habilidades culinarias
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautifully prepared seafood dish with sustainable ocean ingredients dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and sharing. Sustainable seafood and culinary education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,7 +120,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Cocina
@@ -128,19 +128,14 @@ category:
   - Sostenibilidad
 
 skills:
-  - Creatividad
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
   - Compromiso con la Naturaleza
-  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # Castores no tienen competencias definidas

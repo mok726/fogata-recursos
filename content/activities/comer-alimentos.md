@@ -123,7 +123,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Indagación
 
 category:
   - Hábitos alimenticios
@@ -132,18 +131,14 @@ category:
 
 skills:
   - Autoconocimiento
-  - Pensamiento crítico
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
+  - Justicia y Equidad
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

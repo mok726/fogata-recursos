@@ -105,7 +105,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere contactar radio
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A young person DJing at a radio station with a microphone and music playlist dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, broadcasting about hunger. Radio communication and youth empowerment atmosphere. No text, no letters, no words. Wide shot."
@@ -122,8 +122,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Expresión artística
+  - Campaña
 
 category:
   - Radio
@@ -132,17 +131,13 @@ category:
 
 skills:
   - Comunicación
-  - Trabajo en equipo
-  - Alfabetización digital
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Optimismo y Alegría
-  - Responsabilidad y Compromiso
+  - Solidaridad y Servicio
 
 scout_method:
-  - Apoyo Adulto
-  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

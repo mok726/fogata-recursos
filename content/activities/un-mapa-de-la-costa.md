@@ -111,7 +111,7 @@ complexity_execution: 3  # Requiere precisión
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A detailed coastal map with physical features, vegetation, and human developments dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating maps and surveying the coast. Coastal geography and cartography education atmosphere. No text, no letters, no words. Wide shot."
@@ -129,9 +129,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Expresión artística
   - Salida / Exploración
+  - Indagación
 
 category:
   - Mapa
@@ -140,16 +139,13 @@ category:
 
 skills:
   - Observación
-  - Creatividad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

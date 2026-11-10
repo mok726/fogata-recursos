@@ -97,7 +97,7 @@ active_component: 1  # Actividad de escritura
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Reflexión"
+main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A majestic Arctic landscape with icebergs, sea ice, and polar animals dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, exploring the frozen ocean and observing wildlife. Polar expedition atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,7 +110,7 @@ accessibility: []
 
 
 activity_type:
-  - Reflexión
+  - Expresión artística
   - Indagación
 
 category:
@@ -120,17 +120,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Espíritu Aventurero
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 rama_castores: []
 

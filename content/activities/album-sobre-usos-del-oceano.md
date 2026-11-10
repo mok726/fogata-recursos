@@ -100,7 +100,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative album showing various uses of the ocean and products derived from it dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating and presenting albums. Ocean resource awareness and creative learning atmosphere. No text, no letters, no words. Wide shot."
@@ -117,8 +117,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Expresión artística
   - Indagación
+  - Taller / Construcción
 
 category:
   - Usos del océano
@@ -126,18 +126,13 @@ category:
   - Creatividad
 
 skills:
-  - Creatividad
   - Investigación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere preparación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A loud and creative event like a concert or street theater raising awareness about hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing and engaging the audience. Creative activism and social engagement atmosphere. No text, no letters, no words. Wide shot."
@@ -121,8 +121,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
+  - Campaña
   - Expresión artística
-  - Servicio
 
 category:
   - Evento
@@ -130,17 +130,15 @@ category:
   - Activismo
 
 skills:
-  - Creatividad
   - Comunicación
-  - Trabajo en equipo
+  - Creatividad
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Optimismo y Alegría
   - Solidaridad y Servicio
 
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

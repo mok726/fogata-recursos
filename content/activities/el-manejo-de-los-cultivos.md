@@ -124,7 +124,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Indagación
 
 category:
   - Cultivos
@@ -132,18 +131,15 @@ category:
   - Ciencia
 
 skills:
+  - Experimentación
   - Observación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

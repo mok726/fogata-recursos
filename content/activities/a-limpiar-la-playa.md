@@ -114,6 +114,7 @@ accessibility: []
 
 activity_type:
   - Servicio
+  - Salida / Exploración
 
 category:
   - Limpieza
@@ -121,18 +122,15 @@ category:
   - Voluntariado
 
 skills:
-  - Trabajo en equipo
+  - Protección ambiental
   - Observación
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender Haciendo
+  - Vida en la Naturaleza
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 rama_castores: []
 

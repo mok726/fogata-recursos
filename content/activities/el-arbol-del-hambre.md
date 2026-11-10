@@ -104,7 +104,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A tree diagram with roots labeled as causes of hunger, trunk as effects, and leaves as solutions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating and discussing the tree. Conceptual learning and hunger solutions atmosphere. No text, no letters, no words. Wide shot."
@@ -121,8 +121,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
-  - Expresión artística
+  - Debate / Diálogo
 
 category:
   - Causas y soluciones
@@ -130,19 +129,13 @@ category:
   - Conciencia
 
 skills:
-  - Pensamiento crítico
-  - Trabajo en equipo
+  - Pensamiento sistémico
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

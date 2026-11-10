@@ -111,7 +111,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Reflexión
 
 category:
   - Acidificación
@@ -120,17 +119,14 @@ category:
 
 skills:
   - Experimentación
-  - Observación
   - Pensamiento científico
+  - Conciencia ambiental
 
 scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
   - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 

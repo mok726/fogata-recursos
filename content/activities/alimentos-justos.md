@@ -123,7 +123,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
 
 category:
   - Comercio Justo
@@ -132,18 +131,14 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
   - Conciencia social
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

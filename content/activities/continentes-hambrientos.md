@@ -122,7 +122,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
 
 category:
   - Geografía
@@ -131,18 +130,13 @@ category:
 
 skills:
   - Investigación
-  - Trabajo en equipo
   - Conciencia social
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

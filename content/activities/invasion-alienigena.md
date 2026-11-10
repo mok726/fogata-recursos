@@ -114,17 +114,14 @@ category:
   - Ecosistemas
 
 skills:
-  - Creatividad
   - Investigación
-  - Comunicación
+  - Creatividad
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

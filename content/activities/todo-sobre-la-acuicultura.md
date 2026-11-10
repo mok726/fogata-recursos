@@ -115,17 +115,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
+  - Pensamiento crítico
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

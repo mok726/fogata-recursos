@@ -124,7 +124,6 @@ accessibility: []
 
 activity_type:
   - Simulación / Juego de roles
-  - Reflexión
 
 category:
   - Desigualdad
@@ -133,18 +132,14 @@ category:
 
 skills:
   - Empatía
-  - Pensamiento crítico
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
 
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

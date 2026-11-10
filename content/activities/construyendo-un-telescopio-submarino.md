@@ -120,6 +120,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
+  - Taller / Construcción
 
 category:
   - Observación
@@ -128,16 +129,12 @@ category:
 
 skills:
   - Observación
-  - Creatividad
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========

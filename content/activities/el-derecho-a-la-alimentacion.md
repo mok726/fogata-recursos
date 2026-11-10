@@ -106,7 +106,7 @@ complexity_execution: 3  # Requiere investigación y organización
 complexity_organizer: 3  # Requiere invitar a un experto
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A human rights expert speaking to a group about the right to food dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Human rights education and food justice atmosphere. No text, no letters, no words. Wide shot."
@@ -123,8 +123,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
+  - Visita / Charla
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Derechos humanos
@@ -132,19 +132,14 @@ category:
   - Alimentación
 
 skills:
-  - Investigación
-  - Comunicación
   - Conciencia social
+  - Investigación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -104,7 +104,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A world map highlighting the five oceans and seas dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, labeling a map. Geography and ocean education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Indagación
-  - Expresión artística
+activity_type: []
 
 category:
   - Geografía
@@ -131,18 +129,11 @@ category:
 
 skills:
   - Observación
-  - Conciencia social
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

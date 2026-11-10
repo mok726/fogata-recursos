@@ -107,7 +107,7 @@ complexity_execution: 3  # Requiere habilidades culinarias
 complexity_organizer: 3  # Requiere preparación de ingredientes
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. International dishes from different cultures displayed on a table dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and tasting diverse foods. Cultural diversity and global cuisine atmosphere. No text, no letters, no words. Wide shot."
@@ -124,8 +124,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
+  - Taller / Construcción
   - Indagación
-  - Expresión artística
 
 category:
   - Cocina
@@ -133,19 +133,15 @@ category:
   - Nutrición
 
 skills:
-  - Creatividad
-  - Observación
-  - Conciencia social
+  - Investigación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
+  - Respeto y Valoración de la Diversidad
   - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-  - Vida Sana y Bienestar
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

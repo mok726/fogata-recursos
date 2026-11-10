@@ -105,7 +105,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A brainstorm session with ideas for empowering people to overcome hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing and presenting creative solutions. Empowerment and creative problem-solving atmosphere. No text, no letters, no words. Wide shot."
@@ -122,7 +122,6 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
   - Debate / Diálogo
 
 category:
@@ -131,19 +130,13 @@ category:
   - Conciencia
 
 skills:
-  - Pensamiento crítico
   - Creatividad
-  - Comunicación
+  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Solidaridad y Servicio
-  - Justicia y Equidad
-  - Superación Personal y Perseverancia
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores
