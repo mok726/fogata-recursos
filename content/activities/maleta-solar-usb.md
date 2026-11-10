@@ -202,7 +202,7 @@ Una maleta con panel solar, baterías y salidas USB, para llevar al campamento. 
 
 > **Nota de seguridad:** la maleta tiene baterías y piezas con tensión. Un descuido puede hacer chispas y, en casos extremos, las baterías de litio pueden prenderse fuego. Todo el trabajo lo hace o lo supervisa de cerca una persona con experiencia en electrónica y en baterías de litio. Una batería de litio en llamas no se apaga con agua: hace falta un matafuego especial o arena seca. Si conectan baterías en serie, hace falta un sistema de gestión de baterías (BMS); en paralelo, no.
 
-> **Nota para el educador:** consejos del manual: el panel tiene que estar a pleno sol y la maleta, a la sombra. Con un panel de 500 mA, una batería se carga en un día de sol. Una batería llena carga un celular una vez o mantiene la lámpara prendida unas dos horas. En el manual original, la nota sobre el tamaño de la batería 18650 dice «longitud: 650 mm»; en realidad mide 65 mm.
+> **Nota para el educador:** consejos del manual: el panel tiene que estar a pleno sol y la maleta, a la sombra. Con un panel de 500 mA, una batería se carga en un día de sol. Una batería llena carga un celular una vez o mantiene la lámpara prendida unas dos horas. En el texto original se corrigió el largo de la batería 18650: el manual dice «650 mm» y en realidad mide 65 mm.
 
 ## Texto original completo de la actividad
 
@@ -238,7 +238,7 @@ Opcional:
 - Cable alargador USB
 - Conectores eléctricos (clemas, borneras)
 
-(1) 18650 es el tamaño típico de las baterías recargables que se usan, por ejemplo, en ordenadores portátiles o bicicletas eléctricas. Diámetro: 18 mm; longitud:650 mm
+(1) 18650 es el tamaño típico de las baterías recargables que se usan, por ejemplo, en ordenadores portátiles o bicicletas eléctricas. Diámetro: 18 mm; longitud:65 mm
 
 **Herramientas**
 Para la construcción necesitas las siguientes herramientas
