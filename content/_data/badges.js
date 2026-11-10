@@ -2556,6 +2556,54 @@ sections: {
   }
 },
 {
+  id: "asdecoeducacion",
+  name: "Coeducación: Jugando Juntos y Juntas (Scouts de España)",
+  description:
+    "Actividades para trabajar la igualdad de género: lenguaje, roles, mujeres en la historia y prevención de la violencia, de la campaña «Jugando juntas/os» de ASDE - Scouts de España.",
+  summary:
+    "Esta no es una insignia oficial: es una colección de actividades tomadas de la «Recopilación de experiencias de la campaña 2012 Jugando juntos/as», que la Red de Igualdad de Género y Coeducación de ASDE - Scouts de España publicó en 2013. Reúne las actividades que los grupos scouts de toda España hicieron en esa campaña.\n\nLas secciones siguen los tres bloques de la publicación. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Recopilación de experiencias de la campaña 2012 Jugando juntos/as (2013) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/18087/coeducacion_2013_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2013"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Guiá los debates hacia el respeto por todas las personas y por las opiniones de cada uno",
+      "Si aparece una situación de violencia real, seguí los protocolos de cuidado de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Lenguaje Inclusivo y Medios",
+      description: "Mirar con otros ojos lo que decimos todos los días: refranes, frases y palabras."
+    },
+    B: {
+      title: "Roles de Género y Responsabilidades",
+      description: "Los roles que transmiten los cuentos y los aportes de las mujeres a lo largo de la historia."
+    },
+    C: {
+      title: "Prevención de la Violencia de Género",
+      description: "Acciones de sensibilización hacia la comunidad."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
