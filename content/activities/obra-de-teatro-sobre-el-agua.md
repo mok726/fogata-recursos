@@ -121,7 +121,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Reflexión
 category:
   - Teatro
   - Agua
@@ -129,16 +128,10 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

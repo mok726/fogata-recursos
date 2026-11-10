@@ -122,7 +122,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
   - Debate / Diálogo
 category:
   - Agricultura
@@ -130,17 +129,11 @@ category:
   - Clima
 skills:
   - Investigación
-  - Pensamiento crítico
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

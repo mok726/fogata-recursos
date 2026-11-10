@@ -126,15 +126,10 @@ category:
 skills:
   - Autoconocimiento
   - Creatividad
-  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Superación Personal y Perseverancia
-scout_method:
-  - Progresión Personal
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

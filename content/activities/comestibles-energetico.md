@@ -113,32 +113,28 @@ complexity_execution: 3  # Requiere cocinar
 complexity_organizer: 4  # Requiere logística de cocina
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A kitchen scene with people cooking a vegetarian meal using local ingredients dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, preparing food together in a kitchen. Cooking and learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
-  - Reflexión
+  - Indagación
+  - Taller / Construcción
 category:
   - Alimentación
   - Energía
   - Clima
 skills:
-  - Planificación y organización
-  - Trabajo en equipo
   - Investigación
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
