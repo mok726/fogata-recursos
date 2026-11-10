@@ -106,8 +106,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Basura
@@ -116,17 +114,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

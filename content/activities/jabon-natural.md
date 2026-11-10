@@ -90,7 +90,7 @@ active_component: 3  # Trabajo manual
 complexity_execution: 3  # Requiere ayuda de artesano
 complexity_organizer: 3  # Requiere materiales
 
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child learning to make natural soap with the help of a craftsman, selling it during a campaign against river or lagoon pollution dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, making and selling soap. Natural products and environmental action atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,26 +103,19 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Taller / Construcción
 
 category:
   - Jabón
   - Natural
   - Campaña
 
-skills:
-  - Creatividad
-  - Planificación y organización
-  - Conciencia ambiental
+skills: []
 
-scout_values:
-  - Vida Sana y Bienestar
-  - Compromiso con la Naturaleza
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

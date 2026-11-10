@@ -93,7 +93,7 @@ active_component: 4  # Desplazamiento
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar visita
 
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a traditional and an organic farm, learning about crops and animals with their school or youth group dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning from farmers. Agricultural education and sustainable farming atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Salida / Exploración
-  - Indagación
+  - Visita / Charla
 
 category:
   - Agricultura
@@ -116,17 +115,11 @@ category:
 
 skills:
   - Observación
-  - Pensamiento crítico
-  - Comunicación
+  - Conciencia ambiental
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Reflexión
-  - Expresión artística
 
 category:
   - Diario
@@ -112,17 +111,13 @@ category:
   - Reflexión
 
 skills:
-  - Pensamiento crítico
-  - Comunicación
-  - Autoconocimiento
+  - Hábitos sostenibles
 
 scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
+  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender Haciendo
   - Progresión Personal
 
 rama_castores: []

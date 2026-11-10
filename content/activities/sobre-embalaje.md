@@ -105,8 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Embalaje
@@ -115,17 +113,13 @@ category:
 
 skills:
   - Observación
-  - Pensamiento crítico
-  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

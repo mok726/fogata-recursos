@@ -90,7 +90,7 @@ active_component: 2  # Visita a tiendas
 complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio"
+main_type: ""
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children buying second-hand books, clothes, and other goods, donating items they no longer need dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, shopping sustainably. Conscious consumption and circular economy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,7 @@ participants: "4-20"
 accessibility: []
 
 
-activity_type:
-  - Servicio
-  - Reflexión
+activity_type: []
 
 category:
   - Consumo
@@ -113,16 +111,12 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Planificación y organización
-  - Comunicación
 
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

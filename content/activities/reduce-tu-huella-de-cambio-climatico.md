@@ -91,7 +91,7 @@ active_component: 1  # Actividad de planificación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Reflexión"
+main_type: ""
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people reflecting on their carbon footprint and making a plan to reduce their environmental impact dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, calculating their footprint. Environmental responsibility and sustainable lifestyle atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,7 @@ participants: "4-15"
 accessibility: []
 
 
-activity_type:
-  - Reflexión
-  - Proyecto
+activity_type: []
 
 category:
   - Huella de carbono
@@ -113,17 +111,15 @@ category:
   - Agua
 
 skills:
+  - Hábitos sostenibles
   - Planificación y organización
-  - Pensamiento crítico
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+  - Progresión Personal
 
 rama_castores: []
 rama_lobatos:

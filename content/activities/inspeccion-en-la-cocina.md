@@ -90,7 +90,7 @@ active_component: 2  # Reorganización
 complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child inspecting the kitchen and replacing unnecessary items like plastic wrap with reusable containers and paper towels with cloth towels dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reorganizing. Waste reduction and sustainable kitchen habits atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Indagación
 
 category:
   - Cocina
@@ -112,17 +111,15 @@ category:
   - Reemplazo
 
 skills:
-  - Planificación y organización
+  - Observación
   - Hábitos sostenibles
 
 scout_values:
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

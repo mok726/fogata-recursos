@@ -93,7 +93,7 @@ active_component: 3  # Cocina práctica
 complexity_execution: 3  # Requiere cocinar
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child cooking a healthy and sustainable meal for family, using local fresh ingredients with minimal packaging dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking. Healthy cooking and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Taller / Construcción
 
 category:
   - Cocina
@@ -116,16 +115,14 @@ category:
 
 skills:
   - Salud y autocuidado
+  - Hábitos sostenibles
   - Planificación y organización
 
 scout_values:
   - Vida Sana y Bienestar
-  - Sencillez y Austeridad
-  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

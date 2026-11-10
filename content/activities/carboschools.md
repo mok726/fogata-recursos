@@ -103,8 +103,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Carboschools
@@ -113,17 +111,11 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

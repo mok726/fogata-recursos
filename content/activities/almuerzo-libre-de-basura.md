@@ -93,7 +93,7 @@ active_component: 1  # Preparación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Servicio"
+main_type: ""
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child with a waste-free lunch at school, using reusable containers and avoiding disposable items dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, enjoying lunch. Zero waste lifestyle and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
 
@@ -105,9 +105,7 @@ participants: "4-20"
 accessibility: []
 
 
-activity_type:
-  - Servicio
-  - Reflexión
+activity_type: []
 
 category:
   - Residuos
@@ -116,16 +114,13 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Planificación y organización
 
 scout_values:
-  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

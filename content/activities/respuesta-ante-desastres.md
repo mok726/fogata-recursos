@@ -103,7 +103,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
   - Debate / Diálogo
 
 category:
@@ -113,17 +112,11 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Salud y autocuidado
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

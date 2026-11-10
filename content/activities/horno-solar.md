@@ -91,7 +91,7 @@ active_component: 3  # Construcción
 complexity_execution: 3  # Requiere seguir instrucciones
 complexity_organizer: 3  # Requiere materiales
 
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child building a solar oven, learning to cook with renewable energy dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, constructing the oven. Renewable energy and sustainable cooking atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,25 +104,19 @@ accessibility: []
 
 
 activity_type:
-  - Experimento
-  - Expresión artística
+  - Taller / Construcción
 
 category:
   - Energía
   - Solar
   - Cocina
 
-skills:
-  - Creatividad
-  - Trabajo en equipo
+skills: []
 
-scout_values:
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 rama_castores: []
 rama_lobatos:

@@ -104,8 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Energía
@@ -114,17 +112,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
+  - Toma de decisiones
   - Comunicación
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Superación Personal y Perseverancia
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

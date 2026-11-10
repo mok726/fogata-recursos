@@ -95,7 +95,7 @@ active_component: 3  # Creación y prueba
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child inventing a game or toy with natural or recycled materials, testing it with friends dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing the invented game. Creative recycling and sustainable play atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,8 +108,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Juego
+  - Taller / Construcción
 
 category:
   - Juego
@@ -118,14 +117,11 @@ category:
 
 skills:
   - Creatividad
-  - Trabajo en equipo
 
 scout_values:
-  - Optimismo y Alegría
   - Sencillez y Austeridad
 
 scout_method:
-  - Marco Simbólico
   - Aprender Haciendo
 
 rama_castores: []

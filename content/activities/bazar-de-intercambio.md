@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Proyecto
 
 category:
   - Bazar
@@ -113,17 +112,14 @@ category:
 
 skills:
   - Planificación y organización
-  - Comunicación
   - Trabajo en equipo
 
 scout_values:
-  - Solidaridad y Servicio
   - Sencillez y Austeridad
-  - Hermandad y Fraternidad
+  - Solidaridad y Servicio
 
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 rama_castores: []
 rama_lobatos:

@@ -109,8 +109,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Proyecto
 
 category:
   - Huella de carbono
@@ -118,18 +116,14 @@ category:
   - Impacto ambiental
 
 skills:
-  - Pensamiento científico
-  - Pensamiento crítico
+  - Hábitos sostenibles
   - Planificación y organización
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

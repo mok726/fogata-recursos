@@ -93,7 +93,7 @@ active_component: 4  # Actividad física
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere planificación
 
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children starting a community garden at school or on a terrace, drawing and taking photos to monitor growth dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, gardening and documenting. Community gardening and sustainable food production atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Salida / Exploración
+  - Taller / Construcción
 
 category:
   - Jardín
@@ -116,17 +115,13 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Observación
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 rama_castores: []
 rama_lobatos:

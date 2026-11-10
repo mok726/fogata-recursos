@@ -106,7 +106,6 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Salida / Exploración
 
 category:
   - Árboles
@@ -114,18 +113,14 @@ category:
   - Reforestación
 
 skills:
-  - Trabajo en equipo
-  - Hábitos sostenibles
-  - Conciencia ambiental
+  - Protección ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
+  - Involucramiento Comunitario
 
 rama_castores: []
 rama_lobatos:

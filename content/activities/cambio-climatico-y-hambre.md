@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Hambre
@@ -113,17 +112,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Pensamiento sistémico
+  - Conciencia social
 
-scout_values:
-  - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

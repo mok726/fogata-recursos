@@ -93,7 +93,7 @@ active_component: 2  # Colocación de pósters
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A campaign with posters encouraging small daily changes like turning off lights, walking instead of driving, and recycling, displayed at school and in the neighborhood dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, putting up posters. Environmental advocacy and community engagement atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,8 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Campaña
 
 category:
   - Campaña
@@ -115,17 +114,13 @@ category:
   - Concienciación
 
 skills:
-  - Creatividad
   - Comunicación
-  - Planificación y organización
+  - Creatividad
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

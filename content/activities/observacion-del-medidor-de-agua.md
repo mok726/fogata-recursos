@@ -103,8 +103,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Servicio
 
 category:
   - Agua
@@ -113,17 +111,15 @@ category:
 
 skills:
   - Observación
-  - Pensamiento crítico
+  - Hábitos sostenibles
   - Planificación y organización
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Ley y Promesa
 
 rama_castores: []
 rama_lobatos:

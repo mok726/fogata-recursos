@@ -113,17 +113,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
+  - Pensamiento científico
   - Planificación y organización
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

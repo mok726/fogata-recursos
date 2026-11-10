@@ -89,7 +89,7 @@ active_component: 1  # Actividad de dibujo
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child designing a 'No Ads' sign for their mailbox to reduce unwanted paper dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, decorating the sign. Paper waste reduction and creative expression atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,9 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Servicio
-  - Reflexión
+  - Taller / Construcción
 
 category:
   - Papel
@@ -112,16 +110,12 @@ category:
   - Residuos
 
 skills:
-  - Creatividad
-  - Comunicación
+  - Hábitos sostenibles
 
 scout_values:
   - Sencillez y Austeridad
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

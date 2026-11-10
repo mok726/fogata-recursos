@@ -91,7 +91,7 @@ active_component: 2  # Reemplazo de bombillas
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: ""
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children replacing old light bulbs with energy-efficient ones, using natural light during the day dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, convincing others to switch. Energy efficiency and sustainable lighting atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,7 @@ participants: "4-20"
 accessibility: []
 
 
-activity_type:
-  - Servicio
+activity_type: []
 
 category:
   - Energía
@@ -113,16 +112,12 @@ category:
 
 skills:
   - Hábitos sostenibles
-  - Comunicación
 
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Ley y Promesa
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

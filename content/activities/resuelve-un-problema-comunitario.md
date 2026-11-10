@@ -103,7 +103,7 @@ accessibility: []
 
 activity_type:
   - Servicio
-  - Reflexión
+  - Proyecto
 
 category:
   - Problema
@@ -111,14 +111,12 @@ category:
   - Acción
 
 skills:
-  - Liderazgo
-  - Planificación y organización
   - Resolución de problemas
+  - Planificación y organización
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Solidaridad y Servicio
-  - Justicia y Equidad
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario

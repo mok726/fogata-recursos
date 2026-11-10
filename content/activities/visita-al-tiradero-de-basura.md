@@ -91,7 +91,7 @@ active_component: 2  # Desplazamiento
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere organizar visita
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group visiting the local landfill, analyzing its sustainability and discussing solutions with municipal authorities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and discussing. Waste management and sustainability investigation atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,9 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
-  - Reflexión
-  - Servicio
+  - Visita / Charla
 
 category:
   - Basura
@@ -114,18 +112,13 @@ category:
   - Visita
 
 skills:
-  - Investigación
-  - Pensamiento crítico
-  - Comunicación
+  - Observación
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

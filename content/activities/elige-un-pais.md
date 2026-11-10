@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Alimentos
@@ -118,12 +117,9 @@ skills:
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
   - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

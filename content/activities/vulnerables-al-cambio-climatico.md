@@ -107,7 +107,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Cambio climático
@@ -116,17 +115,12 @@ category:
 
 skills:
   - Investigación
-  - Empatía
-  - Pensamiento crítico
+  - Conciencia social
 
 scout_values:
-  - Solidaridad y Servicio
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 rama_lobatos:

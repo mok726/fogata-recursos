@@ -104,8 +104,6 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Juego
-  - Servicio
 
 category:
   - Moda
@@ -116,12 +114,9 @@ skills:
   - Creatividad
 
 scout_values:
-  - Optimismo y Alegría
-  - Compromiso con la Naturaleza
+  - Sencillez y Austeridad
 
-scout_method:
-  - Marco Simbólico
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 rama_lobatos:
