@@ -66,7 +66,10 @@ tags:
   - limpieza
 
 # ========== ENLACES Y ARCHIVOS ==========
-link: []
+link:
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
+    caption: "Actividad similar: «Lobatos en Orgegia», en Fichas de actividades. Concurso de Medio Ambiente y Espiritualidad (ASDE - Scouts de España, 2018)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========

@@ -2269,6 +2269,54 @@ sections: {
   }
 },
 {
+  id: "asdeambiente",
+  name: "Medio Ambiente y Espiritualidad (Scouts de España)",
+  description:
+    "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
+  summary:
+    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad», que ASDE - Scouts de España publicó en 2018. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\nLas secciones siguen los dos temas de la publicación, más el anexo del «Ecocargo», la comisión ambiental del Grupo Scout Chan 292. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2018"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Las actividades de espiritualidad no son confesionales: adaptalas a las creencias de cada protagonista y a las orientaciones de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Medio Ambiente",
+      description: "El agua en el campamento, los residuos, la reforestación y el contacto con la naturaleza."
+    },
+    B: {
+      title: "Espiritualidad",
+      description: "La buena acción, los sueños y la fe, y las frases de Baden-Powell para pensar los valores scouts."
+    },
+    C: {
+      title: "Ecocargo",
+      description: "Una comisión del Grupo que se ocupa todo el año de reducir su impacto ambiental."
+    }
+  }
+},
+{
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
