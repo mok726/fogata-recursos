@@ -2280,7 +2280,7 @@ sections: {
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/"
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
     }
   ],
   license: {

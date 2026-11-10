@@ -68,9 +68,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://biblioteca.scout.es/"
-    caption: "Biblioteca Scout de ASDE - Scouts de España"
-    icon: "link"
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
+    caption: "Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad - ASDE Scouts de España (PDF)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -78,7 +78,7 @@ references:
   - title: "Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad"
     author: "ASDE - Scouts de España"
     year: 2018
-    url: "https://biblioteca.scout.es/"
+    url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
 
 # ========== LICENCIA ==========
 license:
