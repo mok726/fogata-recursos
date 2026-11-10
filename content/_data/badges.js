@@ -2297,12 +2297,16 @@ sections: {
     {
       name: "Pathfinder Wiki, especialidades JA de Amarres y de Campamento I (CC BY-SA 3.0)",
       url: "https://wiki.pathfindersonline.org/w/AY_Honors/Lashing/Answer_Key/es"
+    },
+    {
+      name: "ASDE - Scouts de España, Manual básico de Orientación (CC BY-NC)",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17495/Manual-basico-de-Orientacion_2020.pdf"
     }
   ],
   license: {
-    type: "Dominio público y CC BY-SA 4.0",
+    type: "Dominio público, CC BY-SA 4.0 y CC BY-NC-SA 4.0",
     url: "",
-    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
+    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las fichas de orientación de ASDE - Scouts de España (CC BY-NC) se publican con CC BY-NC-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
   },
   attribution: {
     organization: "Fogata de Recursos",
