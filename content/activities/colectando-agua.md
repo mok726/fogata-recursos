@@ -78,6 +78,9 @@ link:
   - url: "https://solafrica.ch/wp-content/uploads/2025/11/Manual-de-la-energia-solar-ESPANOL-revisado.pdf"
     caption: "Manual de la Energía Solar, 2.ª ed. 2022 - Solafrica (PDF)"
     icon: "pdf"
+  - url: "https://biblioteca.scout.es/"
+    caption: "Actividad similar: «Trampa de Condensación», en Fichas de actividades. Concurso de Medio Ambiente y Espiritualidad (ASDE - Scouts de España, 2018)"
+    icon: "link"
 files: []
 
 # ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========

@@ -66,7 +66,10 @@ tags:
   - limpieza
 
 # ========== ENLACES Y ARCHIVOS ==========
-link: []
+link:
+  - url: "https://biblioteca.scout.es/"
+    caption: "Actividad similar: «Lobatos en Orgegia», en Fichas de actividades. Concurso de Medio Ambiente y Espiritualidad (ASDE - Scouts de España, 2018)"
+    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========

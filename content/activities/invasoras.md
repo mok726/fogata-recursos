@@ -58,7 +58,11 @@ tags:
   - investigacion
   - seccion-d
 
-# ========== ARCHIVOS ADJUNTOS ==========
+# ========== ENLACES Y ARCHIVOS ==========
+link:
+  - url: "https://biblioteca.scout.es/"
+    caption: "Actividad similar: «Especie Invasora», en Fichas de actividades. Concurso de Medio Ambiente y Espiritualidad (ASDE - Scouts de España, 2018)"
+    icon: "link"
 files: []
 
 # ========== REFERENCIAS BIBLIOGRÁFICAS ==========
