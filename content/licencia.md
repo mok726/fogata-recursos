@@ -32,7 +32,9 @@ Fogata de Recursos no está afiliada a la FAO, la Organización Mundial del Movi
 
 ## Contacto
 
-Si sos titular de derechos de algún material publicado aquí y querés que se corrija la atribución o se retire, escribí a través de [GitHub](https://github.com/mok726/fogata-recursos/issues).
+Si sos titular de derechos de algún material publicado aquí y querés que se corrija la atribución o se retire, o si tenés otro comentario o reclamo, usá el [formulario de comentarios](../feedback/). Está disponible en todo el sitio con el botón de comentarios de la barra superior.
+
+Como alternativa, podés abrir un [issue en GitHub](https://github.com/mok726/fogata-recursos/issues). Para eso necesitás una cuenta de GitHub.
 
 ## Estado de las autorizaciones
 

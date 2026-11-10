@@ -25,6 +25,6 @@ El sitio publica automáticamente la «Actividad del día» en sus cuentas de re
 
 ## Contacto y eliminación de datos
 
-Para consultas, o para pedir que se borre algo que enviaste por el formulario, escribinos por el mismo [formulario de comentarios](../feedback/) o abrí un [issue en GitHub](https://github.com/mok726/fogata-recursos/issues).
+Para consultas, o para pedir que se borre algo que enviaste por el formulario, escribinos por el mismo [formulario de comentarios](../feedback/) o, como alternativa, abrí un [issue en GitHub](https://github.com/mok726/fogata-recursos/issues) (requiere una cuenta de GitHub).
 
 Responsable: Mariano S. Cosentino.
