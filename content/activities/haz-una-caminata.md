@@ -133,14 +133,12 @@ category:
 
 skills:
   - Observación
-  - Creatividad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
+  - Curiosidad y Deseo de Aprender
 
 scout_method:
   - Vida en la Naturaleza

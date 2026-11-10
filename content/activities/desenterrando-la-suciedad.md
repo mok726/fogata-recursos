@@ -118,7 +118,8 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Servicio
+  - Salida / Exploración
+  - Campaña
 
 category:
   - Contaminación
@@ -127,18 +128,14 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
   - Conciencia ambiental
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
+  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

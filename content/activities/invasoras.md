@@ -123,7 +123,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Especies invasoras
@@ -132,18 +131,12 @@ category:
 
 skills:
   - Investigación
-  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

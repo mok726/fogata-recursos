@@ -121,7 +121,6 @@ accessibility:
 
 activity_type:
   - Expresión artística
-  - Reflexión
 
 category:
   - Desastres naturales
@@ -130,17 +129,11 @@ category:
 
 skills:
   - Creatividad
-  - Conciencia ambiental
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

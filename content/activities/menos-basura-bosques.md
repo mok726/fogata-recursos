@@ -125,6 +125,7 @@ accessibility:
 
 activity_type:
   - Servicio
+  - Salida / Exploración
 
 category:
   - Residuos
@@ -132,17 +133,15 @@ category:
   - Acción comunitaria
 
 skills:
+  - Protección ambiental
   - Conciencia ambiental
-  - Observación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender Haciendo
+  - Vida en la Naturaleza
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

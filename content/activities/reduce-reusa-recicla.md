@@ -121,7 +121,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
+  - Campaña
 
 category:
   - Consumo responsable
@@ -129,18 +129,14 @@ category:
   - Hogar
 
 skills:
-  - Conciencia ambiental
-  - Observación
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

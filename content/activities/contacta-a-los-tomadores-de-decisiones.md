@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere investigación y redacción
 complexity_organizer: 3  # Requiere identificar a los tomadores de decisiones
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing a letter or preparing a presentation for government officials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, holding documents and speaking with community leaders. Civic engagement and advocacy atmosphere. No text, no letters, no words. Wide shot."
@@ -120,8 +120,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
+  - Campaña
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Política forestal
@@ -129,20 +129,13 @@ category:
   - Incidencia
 
 skills:
-  - Pensamiento crítico
   - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
 scout_method:
   - Involucramiento Comunitario
-  - Apoyo Adulto
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

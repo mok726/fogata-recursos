@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere investigación y diseño
 complexity_organizer: 3  # Requiere preparación del juego
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Different types of forests affected by climate change with matching cards dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing and creating card games about climate impacts. Environmental education and gaming atmosphere. No text, no letters, no words. Wide shot."
@@ -120,8 +120,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Juego
   - Indagación
+  - Juego
 
 category:
   - Cambio climático
@@ -130,16 +130,12 @@ category:
 
 skills:
   - Investigación
-  - Creatividad
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

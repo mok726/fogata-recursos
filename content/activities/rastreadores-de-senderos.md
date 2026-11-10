@@ -100,7 +100,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere planificación del sendero
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Trail markers and symbols in a forest path dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating trail markers and navigating through the forest. Navigation and adventure atmosphere. No text, no letters, no words. Wide shot."
@@ -118,8 +118,8 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Juego
   - Salida / Exploración
+  - Juego
 
 category:
   - Orientación
@@ -127,19 +127,14 @@ category:
   - Navegación
 
 skills:
-  - Observación
+  - Técnicas scout
   - Trabajo en equipo
-  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Espíritu Aventurero
-  - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
+scout_values: []
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

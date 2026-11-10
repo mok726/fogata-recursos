@@ -119,7 +119,6 @@ accessibility: []
 activity_type:
   - Indagación
   - Expresión artística
-  - Debate / Diálogo
 
 category:
   - Movimientos sociales
@@ -128,18 +127,14 @@ category:
 
 skills:
   - Investigación
-  - Creatividad
   - Conciencia social
+  - Creatividad
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

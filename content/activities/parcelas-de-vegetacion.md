@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere precisión científica
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Scientists investigating a 1m² vegetation plot in a forest with measuring tools dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, measuring and documenting plant species. Scientific research and ecological study atmosphere. No text, no letters, no words. Wide shot."
@@ -121,8 +121,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Experimento
+  - Salida / Exploración
 
 category:
   - Ecología
@@ -131,18 +130,15 @@ category:
 
 skills:
   - Observación
-  - Trabajo en equipo
   - Pensamiento científico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

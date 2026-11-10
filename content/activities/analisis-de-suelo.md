@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere cavar y observar
 complexity_organizer: 3  # Requiere herramientas
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Salida / Exploración"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A cross-section of forest soil with distinct layers and roots dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, digging and analyzing soil layers. Soil science and forest ecology atmosphere. No text, no letters, no words. Wide shot."
@@ -122,8 +122,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Experimento
+  - Salida / Exploración
 
 category:
   - Suelo
@@ -132,18 +131,14 @@ category:
 
 skills:
   - Observación
-  - Investigación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

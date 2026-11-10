@@ -102,7 +102,7 @@ complexity_execution: 2  # Fácil de ejecutar para los participantes
 complexity_organizer: 3  # Requiere organización de evento e invitaciones
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Lush green forest with diverse trees and wildlife dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, celebrating around a large tree with colorful decorations, playing games and dancing. Joyful forest celebration atmosphere, sunlight filtering through canopy. No text, no letters, no words. Wide shot."
@@ -119,27 +119,20 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Juego
-  - Expresión artística
+  - Campaña
 
 category:
   - Celebración
   - Educación ambiental
 
 skills:
-  - Trabajo en equipo
-  - Creatividad
-  - Conciencia ambiental
+  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

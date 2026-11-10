@@ -120,7 +120,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Conservación
@@ -128,19 +127,12 @@ category:
   - Entrevista
 
 skills:
-  - Comunicación
   - Investigación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

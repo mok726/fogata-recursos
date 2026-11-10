@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere invitar a un geólogo
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Rocks in a forest with moss and lichens growing on them dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining rocks and creating a rock exhibition. Geology and forest ecosystems atmosphere. No text, no letters, no words. Wide shot."
@@ -118,8 +118,8 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
+  - Visita / Charla
   - Indagación
-  - Expresión artística
 
 category:
   - Geología
@@ -127,18 +127,12 @@ category:
   - Substrato
 
 skills:
-  - Investigación
-  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

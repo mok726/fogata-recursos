@@ -128,20 +128,14 @@ category:
   - Cultura
   - Aprendizaje
 
-skills:
-  - Trabajo en equipo
-  - Comunicación
-  - Conciencia social
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
-  - Curiosidad y Deseo de Aprender
+  - Respeto y Valoración de la Diversidad
 
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

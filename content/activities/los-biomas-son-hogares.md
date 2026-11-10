@@ -121,7 +121,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Juego
 
 category:
   - Biomas
@@ -130,17 +129,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

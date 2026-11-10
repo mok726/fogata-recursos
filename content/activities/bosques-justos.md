@@ -116,7 +116,6 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
 
 category:
   - Justicia social
@@ -124,19 +123,14 @@ category:
   - Gobernanza
 
 skills:
-  - Pensamiento crítico
-  - Comunicación
   - Conciencia social
+  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Involucramiento Comunitario
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

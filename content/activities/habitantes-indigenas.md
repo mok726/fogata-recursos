@@ -122,7 +122,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Indagación
+  - Narración
 
 category:
   - Pueblos indígenas
@@ -131,18 +131,12 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

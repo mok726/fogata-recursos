@@ -125,19 +125,16 @@ category:
   - Acción comunitaria
 
 skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Protección ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

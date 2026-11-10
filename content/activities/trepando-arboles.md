@@ -122,7 +122,6 @@ accessibility:
 
 activity_type:
   - Indagación
-  - Salida / Exploración
 
 category:
   - Trabajo forestal
@@ -131,17 +130,11 @@ category:
 
 skills:
   - Investigación
-  - Observación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Superación Personal y Perseverancia
-  - Espíritu Aventurero
-  - Responsabilidad y Compromiso
+scout_values: []
 
-scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

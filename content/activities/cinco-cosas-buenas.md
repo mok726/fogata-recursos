@@ -98,7 +98,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Muy baja complejidad
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child drawing five reasons why forests are important dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing and reflecting. Creative environmental education atmosphere. No text, no letters, no words. Wide shot."
@@ -115,7 +115,6 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
   - Expresión artística
 
 category:
@@ -124,18 +123,12 @@ category:
   - Dibujo
 
 skills:
-  - Creatividad
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

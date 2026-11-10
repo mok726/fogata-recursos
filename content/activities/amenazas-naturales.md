@@ -117,7 +117,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
+  - Expresión artística
 
 category:
   - Desastres naturales
@@ -126,18 +126,12 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
-  - Pensamiento crítico
+  - Pensamiento sistémico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

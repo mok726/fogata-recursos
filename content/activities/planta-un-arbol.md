@@ -132,7 +132,7 @@ accessibility:
 
 activity_type:
   - Servicio
-  - Proyecto
+  - Ceremonia
 
 category:
   - Reforestación
@@ -140,19 +140,16 @@ category:
   - Educación ambiental
 
 skills:
-  - Trabajo en equipo
   - Protección ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
+  - Responsabilidad y Compromiso
 
 scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
   - Involucramiento Comunitario
+  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

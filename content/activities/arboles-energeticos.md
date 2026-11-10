@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Expresión artística
+  - Taller / Construcción
 
 category:
   - Energía
@@ -127,18 +127,13 @@ category:
   - Bosques
 
 skills:
+  - Investigación
   - Creatividad
-  - Conciencia ambiental
-  - Planificación y organización
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
