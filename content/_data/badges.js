@@ -2400,6 +2400,41 @@ sections: {
   }
 },
 {
+  id: "mensajerospaz",
+  name: "Mensajeros de la Paz",
+  description:
+    "Construir paz en la comunidad: diálogo, servicio y preparación ante desastres.",
+  summary:
+    "Mensajeros de la Paz (Messengers of Peace) es la iniciativa de la Organización Mundial del Movimiento Scout para que los jóvenes construyan paz en sus comunidades. En Scouts for SDGs funciona también como desafío.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
+  logo: "/imagenes/insignias/general-logo.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [
+    {
+      name: "Messengers of Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/initiatives/messengers-peace"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2022"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí las que se adapten a la edad del grupo.",
+    rules: []
+  },
+  sections: {
+    A: {
+      title: "Actividades",
+      description: "Actividades del desafío publicadas en Scouts for SDGs."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
