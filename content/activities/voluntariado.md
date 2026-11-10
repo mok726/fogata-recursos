@@ -119,17 +119,15 @@ category:
   - Conservación
   - Clima
 skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Protección ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -113,34 +113,25 @@ complexity_execution: 4  # Requiere coordinación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A meeting between youth and government officials discussing climate policy dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, meeting with an environmental official and asking questions. Policy engagement environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
+  - Visita / Charla
   - Indagación
-  - Reflexión
-  - Servicio
 category:
   - Política
   - Clima
   - Juventud
 skills:
-  - Comunicación
   - Investigación
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
-  - Apoyo Adulto
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

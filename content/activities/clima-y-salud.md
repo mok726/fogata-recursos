@@ -124,24 +124,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Salud
   - Clima
   - Epidemiología
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Conciencia social
+  - Salud y autocuidado
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No tiene competencias definidas

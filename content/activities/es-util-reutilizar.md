@@ -121,29 +121,26 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Creative upcycled items made from discarded objects like bottles, cans, and cardboard dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, transforming trash into useful objects with paint and glue. Creative recycling environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
+  - Taller / Construcción
 category:
   - Reciclaje
   - Arte
   - Clima
 skills:
   - Creatividad
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

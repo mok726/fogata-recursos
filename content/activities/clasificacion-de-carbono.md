@@ -123,23 +123,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Expresión artística
 category:
   - Datos
   - Clima
   - Geografía
 skills:
   - Investigación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

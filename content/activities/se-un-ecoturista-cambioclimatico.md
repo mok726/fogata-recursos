@@ -123,24 +123,20 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
+  - Indagación
 category:
   - Turismo
   - Naturaleza
   - Clima
 skills:
-  - Liderazgo
-  - Comunicación
   - Conciencia ambiental
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Responsabilidad y Compromiso
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
-  - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

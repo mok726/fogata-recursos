@@ -113,33 +113,27 @@ complexity_execution: 3  # Requiere preparación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Debate / Diálogo"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Medical and health professionals discussing climate-related diseases like malaria and dengue dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in a panel discussion about health and climate. Health education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Debate / Diálogo
   - Indagación
-  - Reflexión
+  - Campaña
 category:
   - Salud
   - Epidemiología
   - Clima
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

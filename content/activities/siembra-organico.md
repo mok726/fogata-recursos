@@ -126,17 +126,11 @@ category:
   - Clima
 skills:
   - Investigación
-  - Observación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
-  - Sencillez y Austeridad
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

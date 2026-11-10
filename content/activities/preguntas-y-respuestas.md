@@ -124,18 +124,12 @@ category:
   - Comunicación
   - Clima
 skills:
-  - Comunicación
   - Investigación
-  - Empatía
+  - Comunicación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Respeto y Valoración de la Diversidad
-  - Solidaridad y Servicio
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

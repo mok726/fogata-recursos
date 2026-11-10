@@ -116,24 +116,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Dinámica de grupos
+  - Actividad física
 category:
   - Juego
   - Biodiversidad
   - Clima
 skills:
-  - Trabajo en equipo
-  - Observación
-  - Empatía
+  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Optimismo y Alegría
-  - Hermandad y Fraternidad
-  - Compromiso con la Naturaleza
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

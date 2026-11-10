@@ -118,23 +118,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Energía
   - Consumo
   - Clima
 skills:
-  - Pensamiento crítico
-  - Planificación y organización
+  - Hábitos sostenibles
+  - Investigación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

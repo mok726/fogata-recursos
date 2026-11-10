@@ -121,23 +121,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Proyecto
 category:
   - Desafío
   - Sostenibilidad
   - Clima
 skills:
-  - Planificación y organización
-  - Trabajo en equipo
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Superación Personal y Perseverancia
-  - Responsabilidad y Compromiso
-  - Optimismo y Alegría
+  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -120,7 +120,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Experimento
+  - Taller / Construcción
 category:
   - Astronomía
   - Clima
@@ -128,16 +128,10 @@ category:
 skills:
   - Investigación
   - Pensamiento científico
-  - Creatividad
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -120,23 +120,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
-  - Debate / Diálogo
 category:
   - Medios
   - Consumo
   - Educación
 skills:
   - Pensamiento crítico
-  - Observación
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Honestidad e Integridad
   - Sencillez y Austeridad
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

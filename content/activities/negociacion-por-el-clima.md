@@ -124,18 +124,14 @@ category:
   - Política
   - Clima
 skills:
-  - Comunicación
-  - Pensamiento crítico
+  - Resolución de conflictos
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Respeto y Valoración de la Diversidad
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
-  - Involucramiento Comunitario
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

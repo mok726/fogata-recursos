@@ -114,32 +114,26 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children looking into decorated boxes with underwater scenes and marine life dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating decorated boxes and looking inside with curiosity. Creative environmental education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
-  - Juego
-  - Reflexión
+  - Taller / Construcción
 category:
   - Arte
   - Océano
   - Clima
 skills:
-  - Creatividad
-  - Observación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
