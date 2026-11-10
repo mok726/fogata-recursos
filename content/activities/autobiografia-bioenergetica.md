@@ -118,23 +118,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Expresión artística
   - Indagación
-  - Reflexión
 category:
   - Bioenergía
   - Agricultura
   - Escritura creativa
 skills:
-  - Creatividad
   - Investigación
-  - Comunicación
-  - Conciencia ambiental
+  - Creatividad
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

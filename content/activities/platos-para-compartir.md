@@ -105,7 +105,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A potluck dinner with various dishes and people learning about nutrients dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing food and discussing nutrition. Community learning and healthy eating atmosphere. No text, no letters, no words. Wide shot."
@@ -122,27 +122,19 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Nutrición
   - Alimentos
   - Educación
 
-skills:
-  - Trabajo en equipo
-  - Comunicación
-  - Salud y autocuidado
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Vida Sana y Bienestar
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
+  - Campaña
 
 category:
   - Encuesta
@@ -128,17 +128,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+scout_values: []
 
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

@@ -102,7 +102,7 @@ complexity_execution: 3  # Requiere coordinación
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A youth network collaborating online and in person to fight malnutrition and exchange ideas dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, connecting and planning. Global youth collaboration and nutrition action atmosphere. No text, no letters, no words. Wide shot."
@@ -118,8 +118,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Servicio
+activity_type: []
 
 category:
   - Redes
@@ -128,18 +127,12 @@ category:
 
 skills:
   - Comunicación
-  - Trabajo en equipo
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Hermandad y Fraternidad
-  - Solidaridad y Servicio
-  - Justicia y Equidad
 
-scout_method:
-  - Involucramiento Comunitario
-  - Apoyo Adulto
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

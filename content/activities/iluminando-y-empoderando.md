@@ -122,26 +122,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Servicio
-  - Proyecto
 category:
   - Evento
   - Concientización
   - Energía
 skills:
-  - Planificación y organización
   - Comunicación
-  - Conciencia ambiental
-  - Liderazgo
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 scout_method:
   - Involucramiento Comunitario
-  - Sistema de Equipos
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

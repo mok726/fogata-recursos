@@ -103,7 +103,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful nutrition corner in a school with posters, books, and informational displays dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, setting up and learning. Nutrition education and community service atmosphere. No text, no letters, no words. Wide shot."
@@ -120,8 +120,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
-  - Expresión artística
+  - Campaña
 
 category:
   - Educación
@@ -130,18 +129,13 @@ category:
 
 skills:
   - Comunicación
-  - Trabajo en equipo
-  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
 
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

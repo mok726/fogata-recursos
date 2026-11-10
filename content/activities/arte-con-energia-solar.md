@@ -124,17 +124,13 @@ category:
   - Arte
   - Ciencia
 skills:
+  - Observación
   - Creatividad
-  - Experimentación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

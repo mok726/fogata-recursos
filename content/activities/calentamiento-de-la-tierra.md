@@ -119,23 +119,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Indagación
-  - Reflexión
 category:
   - Calentamiento global
   - Ciencia
   - Energía térmica
 skills:
   - Experimentación
-  - Observación
   - Pensamiento científico
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 scout_method:
   - Aprender Haciendo
 

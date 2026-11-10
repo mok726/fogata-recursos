@@ -108,32 +108,27 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth hosting an energy-efficient party in the community with reusable plates and cups, locally-sourced food, energy-efficient lighting, and educational cards explaining each sustainable element. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, organizing an energy-efficient celebration. Educational community event scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Servicio
-  - Proyecto
+  - Campaña
 category:
   - Evento
   - Energía
   - Sostenibilidad
 skills:
   - Planificación y organización
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Hermandad y Fraternidad
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-scout_method:
-  - Involucramiento Comunitario
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

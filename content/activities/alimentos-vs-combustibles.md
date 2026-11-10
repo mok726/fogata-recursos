@@ -117,7 +117,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Debate / Diálogo
   - Indagación
-  - Reflexión
 category:
   - Biocombustibles
   - Seguridad alimentaria
@@ -125,17 +124,12 @@ category:
 skills:
   - Pensamiento crítico
   - Investigación
-  - Comunicación
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Sistema de Equipos
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

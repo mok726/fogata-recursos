@@ -126,18 +126,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
 
-scout_method:
-  - Apoyo Adulto
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

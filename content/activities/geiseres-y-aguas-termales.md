@@ -117,25 +117,16 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Salida / Exploración
-  - Reflexión
 category:
   - Energía geotérmica
   - Naturaleza
   - Geología
 skills:
-  - Observación
   - Investigación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-scout_method:
-  - Vida en la Naturaleza
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -115,7 +115,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
 category:
   - Periodismo
   - Cambio climático
@@ -123,17 +122,11 @@ category:
 skills:
   - Investigación
   - Comunicación
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Progresión Personal
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

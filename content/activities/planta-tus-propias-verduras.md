@@ -110,7 +110,7 @@ complexity_execution: 3  # Requiere cuidado continuo
 complexity_organizer: 3  # Requiere preparación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Servicio"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person planting and caring for vegetables and herbs in a garden or balcony dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, gardening and learning. Home gardening and sustainable food production atmosphere. No text, no letters, no words. Wide shot."
@@ -128,7 +128,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Servicio
+  - Taller / Construcción
 
 category:
   - Jardinería
@@ -136,18 +136,15 @@ category:
   - Sostenibilidad
 
 skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender Haciendo
   - Vida en la Naturaleza
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

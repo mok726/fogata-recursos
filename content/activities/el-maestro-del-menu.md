@@ -102,7 +102,7 @@ complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative weekly menu plan with diverse cuisines and healthy recipes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planning meals. Menu planning and culinary creativity atmosphere. No text, no letters, no words. Wide shot."
@@ -118,9 +118,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Expresión artística
-  - Proyecto
+activity_type: []
 
 category:
   - Menú
@@ -129,17 +127,13 @@ category:
 
 skills:
   - Planificación y organización
-  - Creatividad
   - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

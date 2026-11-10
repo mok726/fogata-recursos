@@ -105,7 +105,7 @@ complexity_execution: 3  # Requiere visita
 complexity_organizer: 4  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group visiting a food establishment and learning about food safety practices dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and documenting. Food safety education and industry learning atmosphere. No text, no letters, no words. Wide shot."
@@ -122,7 +122,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Visita / Charla
 
 category:
   - Seguridad alimentaria
@@ -131,18 +131,11 @@ category:
 
 skills:
   - Observación
-  - Planificación y organización
-  - Resolución de problemas
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Vida Sana y Bienestar
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

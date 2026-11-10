@@ -124,18 +124,11 @@ category:
   - Energía
   - Juego
 skills:
-  - Creatividad
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Investigación
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Sencillez y Austeridad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

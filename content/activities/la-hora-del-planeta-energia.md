@@ -110,32 +110,24 @@ complexity_execution: 1  # Muy sencillo
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Campaña"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dark room lit only by candles, with youth participating in Earth Hour, turning off lights and electronics, engaging in activities without electricity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in Earth Hour. Educational environmental awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Campaña
-  - Servicio
-  - Reflexión
+activity_type: []
 category:
   - Evento global
   - Energía
   - Cambio climático
-skills:
-  - Conciencia ambiental
-  - Conciencia social
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
 scout_method:
-  - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

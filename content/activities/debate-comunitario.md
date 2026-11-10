@@ -107,33 +107,26 @@ complexity_execution: 4
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Debate / Diálogo"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth participating in a community energy debate, representing different groups (business, government, community, youth), negotiating solutions to reduce the community's environmental impact. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, engaging in a community debate. Educational civic dialogue scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Debate / Diálogo
   - Simulación / Juego de roles
-  - Proyecto
+  - Debate / Diálogo
 category:
   - Política
   - Energía
   - Comunidad
 skills:
-  - Comunicación
-  - Pensamiento crítico
+  - Resolución de conflictos
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Involucramiento Comunitario
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

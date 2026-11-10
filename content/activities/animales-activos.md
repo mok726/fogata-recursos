@@ -124,19 +124,14 @@ category:
   - Animales
   - Movimiento
 
-skills:
-  - Creatividad
-  - Trabajo en equipo
-  - Autoconocimiento
+skills: []
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
+  - Vida Sana y Bienestar
   - Optimismo y Alegría
-  - Espíritu Aventurero
 
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

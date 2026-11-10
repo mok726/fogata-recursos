@@ -122,7 +122,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
+  - Campaña
 
 category:
   - Marketing
@@ -132,17 +132,12 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
   - Vida Sana y Bienestar
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

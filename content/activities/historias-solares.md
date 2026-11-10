@@ -120,26 +120,16 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Expresión artística
-  - Reflexión
 category:
   - Cultura
   - Energía solar
   - Historia
 skills:
   - Investigación
-  - Creatividad
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Espiritualidad y Búsqueda de Sentido
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

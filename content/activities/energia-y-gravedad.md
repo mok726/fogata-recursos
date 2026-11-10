@@ -118,20 +118,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Salida / Exploración
 category:
   - Física
   - Energía
   - Gravedad
 skills:
   - Experimentación
-  - Observación
   - Pensamiento científico
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
 

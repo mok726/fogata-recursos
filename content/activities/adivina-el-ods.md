@@ -122,24 +122,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Expresión artística
   - Juego
-  - Reflexión
 category:
   - ODS
   - Teatro
   - Energía
 skills:
   - Creatividad
-  - Comunicación
   - Trabajo en equipo
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Hermandad y Fraternidad
-  - Justicia y Equidad
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -119,7 +119,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Local vs importado
@@ -128,18 +127,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

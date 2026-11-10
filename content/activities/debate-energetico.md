@@ -116,7 +116,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Debate / Diálogo
   - Indagación
-  - Reflexión
 category:
   - Política
   - Energía
@@ -124,17 +123,10 @@ category:
 skills:
   - Pensamiento crítico
   - Investigación
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
-scout_method:
-  - Progresión Personal
-  - Involucramiento Comunitario
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

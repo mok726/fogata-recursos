@@ -120,7 +120,7 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
+  - Campaña
 
 category:
   - Seguridad alimentaria
@@ -129,17 +129,13 @@ category:
 
 skills:
   - Observación
-  - Resolución de problemas
+  - Salud y autocuidado
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

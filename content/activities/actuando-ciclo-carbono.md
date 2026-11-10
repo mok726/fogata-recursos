@@ -118,7 +118,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Dinámica de grupos
 category:
   - Ciclo del carbono
   - Teatro
@@ -126,16 +125,10 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Trabajo en equipo
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

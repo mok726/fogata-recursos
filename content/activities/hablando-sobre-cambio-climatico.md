@@ -117,7 +117,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Debate / Diálogo
   - Indagación
-  - Reflexión
 category:
   - Cambio climático
   - Ciclo del carbono
@@ -125,17 +124,11 @@ category:
 skills:
   - Pensamiento crítico
   - Investigación
-  - Comunicación
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Sistema de Equipos
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

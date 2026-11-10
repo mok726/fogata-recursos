@@ -103,7 +103,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person choosing fresh seasonal fruits and vegetables at a market with minimal packaging dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, shopping and learning. Sustainable shopping and healthy food choices atmosphere. No text, no letters, no words. Wide shot."
@@ -119,8 +119,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Indagación
+activity_type: []
 
 category:
   - Compra
@@ -128,19 +127,15 @@ category:
   - Sostenibilidad
 
 skills:
-  - Planificación y organización
-  - Observación
-  - Conciencia ambiental
+  - Hábitos sostenibles
+  - Toma de decisiones
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
+  - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -116,7 +116,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Debate / Diálogo
 
 category:
   - Salud pública
@@ -125,18 +124,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
+  - Vida Sana y Bienestar
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 3)

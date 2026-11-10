@@ -110,33 +110,24 @@ complexity_execution: 2  # Visita guiada
 complexity_organizer: 4  # Requiere coordinación con la planta
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth visiting a wind farm, hydroelectric dam, or solar power plant, observing energy production, taking notes and photos, talking to staff. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, touring an energy facility. Educational field trip scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
-  - Salida / Exploración
+  - Visita / Charla
 category:
   - Energía
   - Visita educativa
   - Periodismo
 skills:
   - Observación
-  - Investigación
-  - Comunicación
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []
