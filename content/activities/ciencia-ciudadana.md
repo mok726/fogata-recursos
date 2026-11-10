@@ -124,17 +124,13 @@ category:
 
 skills:
   - Observación
-  - Investigación
-  - Planificación y organización
 
 scout_values:
   - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 
 scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+  - Vida en la Naturaleza
 
 rama_castores: []
 

@@ -100,7 +100,7 @@ complexity_execution: 3  # Requiere reflexión
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing a story about food sovereignty with symbols of self-sufficient food systems dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing their stories and dramas. Food sovereignty and empowerment atmosphere. No text, no letters, no words. Wide shot."
@@ -117,7 +117,6 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
   - Expresión artística
   - Indagación
 
@@ -128,18 +127,14 @@ category:
 
 skills:
   - Pensamiento crítico
+  - Conciencia social
   - Creatividad
-  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

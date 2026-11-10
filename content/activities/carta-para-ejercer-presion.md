@@ -102,7 +102,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing a letter to government leaders advocating for action against hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and discussing letters. Advocacy and civic engagement atmosphere. No text, no letters, no words. Wide shot."
@@ -119,9 +119,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
-  - Reflexión
-  - Servicio
+  - Campaña
 
 category:
   - Activismo
@@ -130,18 +128,13 @@ category:
 
 skills:
   - Comunicación
-  - Pensamiento crítico
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Justicia y Equidad
-  - Solidaridad y Servicio
 
 scout_method:
   - Involucramiento Comunitario
-  - Apoyo Adulto
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

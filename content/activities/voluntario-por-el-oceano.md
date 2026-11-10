@@ -110,18 +110,15 @@ category:
   - Comunidad
 
 skills:
-  - Trabajo en equipo
-  - Comunicación
+  - Protección ambiental
 
 scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
+  - Responsabilidad y Compromiso
 
 scout_method:
   - Involucramiento Comunitario
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 

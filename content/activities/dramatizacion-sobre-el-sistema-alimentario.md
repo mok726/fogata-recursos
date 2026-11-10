@@ -119,7 +119,6 @@ accessibility: []
 
 activity_type:
   - Simulación / Juego de roles
-  - Debate / Diálogo
 
 category:
   - Sistema alimentario
@@ -128,18 +127,13 @@ category:
 
 skills:
   - Empatía
-  - Comunicación
-  - Pensamiento crítico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Solidaridad y Servicio
-  - Justicia y Equidad
 
 scout_method:
   - Aprender Haciendo
-  - Marco Simbólico
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

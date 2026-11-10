@@ -116,7 +116,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Hábitats
@@ -125,18 +124,14 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
   - Conciencia ambiental
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Curiosidad y Deseo de Aprender
   - Compromiso con la Naturaleza
-  - Hermandad y Fraternidad
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

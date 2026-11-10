@@ -132,18 +132,14 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
   - Pensamiento crítico
+  - Comunicación
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

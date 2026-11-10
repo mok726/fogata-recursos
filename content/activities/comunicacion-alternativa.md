@@ -107,7 +107,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Creative communication strategies like flash mobs and posters spreading the message to end hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, preparing banners and street art. Creative activism and social communication atmosphere. No text, no letters, no words. Wide shot."
@@ -124,8 +124,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Expresión artística
-  - Servicio
+  - Campaña
 
 category:
   - Comunicación
@@ -135,15 +134,12 @@ category:
 skills:
   - Creatividad
   - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Optimismo y Alegría
+  - Solidaridad y Servicio
 
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
 
 # ========== COMPETENCIAS POR RAMA ==========

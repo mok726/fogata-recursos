@@ -121,7 +121,6 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Servicio
 
 category:
   - Activismo
@@ -130,18 +129,12 @@ category:
 
 skills:
   - Comunicación
-  - Alfabetización digital
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
   - Solidaridad y Servicio
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

@@ -115,6 +115,7 @@ accessibility: []
 
 activity_type:
   - Indagación
+  - Campaña
 
 category:
   - Pesca sostenible
@@ -123,17 +124,13 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
+  - Hábitos sostenibles
   - Comunicación
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Justicia y Equidad
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

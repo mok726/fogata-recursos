@@ -110,7 +110,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Reflexión
+  - Simulación / Juego de roles
 
 category:
   - Áreas Marinas Protegidas
@@ -120,16 +120,11 @@ category:
 skills:
   - Pensamiento crítico
   - Comunicación
-  - Resolución de problemas
 
 scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+  - Compromiso con la Naturaleza
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

@@ -119,7 +119,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Juego
 
 category:
   - Olas
@@ -127,19 +126,15 @@ category:
   - Agua
 
 skills:
+  - Experimentación
   - Observación
-  - Trabajo en equipo
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Optimismo y Alegría
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No hay competencias para castores

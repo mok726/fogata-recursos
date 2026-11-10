@@ -118,7 +118,6 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Indagación
 
 category:
   - Vocabulario
@@ -127,16 +126,11 @@ category:
 
 skills:
   - Creatividad
-  - Comunicación
-  - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

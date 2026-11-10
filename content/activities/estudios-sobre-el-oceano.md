@@ -107,8 +107,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Proyecto
-  - Reflexión
 
 category:
   - Investigación
@@ -118,16 +116,11 @@ category:
 skills:
   - Investigación
   - Planificación y organización
-  - Pensamiento crítico
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Superación Personal y Perseverancia
-  - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

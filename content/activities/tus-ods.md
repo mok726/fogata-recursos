@@ -101,7 +101,7 @@ complexity_execution: 3  # Requiere pensamiento crítico
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People brainstorming and proposing new Sustainable Development Goals to end hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing ideas. Visionary thinking and global goal-setting atmosphere. No text, no letters, no words. Wide shot."
@@ -118,7 +118,6 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Reflexión
   - Debate / Diálogo
 
 category:
@@ -127,19 +126,13 @@ category:
   - Acción
 
 skills:
-  - Pensamiento crítico
   - Creatividad
   - Conciencia social
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Curiosidad y Deseo de Aprender
+scout_values: []
 
-scout_method:
-  - Apoyo Adulto
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)

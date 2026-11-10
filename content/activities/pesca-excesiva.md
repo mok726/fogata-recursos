@@ -105,7 +105,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Pesca
@@ -114,17 +113,12 @@ category:
 
 skills:
   - Investigación
-  - Comunicación
-  - Pensamiento crítico
+  - Conciencia ambiental
 
 scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
   - Compromiso con la Naturaleza
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

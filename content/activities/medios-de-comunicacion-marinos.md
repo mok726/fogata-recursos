@@ -95,7 +95,7 @@ active_component: 2  # Producción activa
 complexity_execution: 3  # Requiere planificación y ejecución
 complexity_organizer: 3  # Requiere organización de materiales
 
-main_type: "Expresión artística"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A film production scene with cameras, microphones, and storyboards, focused on ocean conservation themes, dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming a documentary about the ocean. Media production and environmental awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,6 +108,7 @@ accessibility: []
 
 
 activity_type:
+  - Campaña
   - Expresión artística
 
 category:
@@ -116,18 +117,14 @@ category:
   - Acción comunitaria
 
 skills:
-  - Creatividad
   - Comunicación
-  - Pensamiento crítico
+  - Creatividad
+  - Conciencia ambiental
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

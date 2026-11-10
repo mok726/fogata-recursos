@@ -104,7 +104,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Sencilla de organizar
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Simulación / Juego de roles"
+main_type: ""
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A simulation of tides using balls representing the Sun, Moon, and Earth dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, acting out tidal movements. Astronomy and ocean science education atmosphere. No text, no letters, no words. Wide shot."
@@ -120,9 +120,7 @@ accessibility: []
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 
-activity_type:
-  - Simulación / Juego de roles
-  - Juego
+activity_type: []
 
 category:
   - Mareas
@@ -130,18 +128,12 @@ category:
   - Astronomía
 
 skills:
-  - Observación
-  - Trabajo en equipo
   - Pensamiento científico
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []  # No aplica (actividad nivel 2-3)
