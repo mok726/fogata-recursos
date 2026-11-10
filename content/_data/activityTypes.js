@@ -204,5 +204,17 @@ module.exports = [
       "Marca un momento significativo para una persona o para el grupo."
     ],
     "notWhen": "Solo porque la actividad termine con un aplauso o una entrega informal."
+  },
+  {
+    "id": "cambio-de-habitos",
+    "name": "Cambio de hábitos",
+    "symbol": "event_repeat",
+    "summary": "Adoptar o dejar una conducta y sostenerla durante días o semanas.",
+    "description": "Adoptar o dejar una conducta y sostenerla durante días o semanas, con registro o seguimiento, y revisarla al final. Suele hacerse fuera de la reunión, en casa o con la familia: ducharse más rápido, ir caminando, dejar el plástico descartable, llevar un diario de comidas o de sueño.",
+    "when": [
+      "El núcleo es mantener una conducta en el tiempo, no hacerla una sola vez.",
+      "Hay algún registro, seguimiento o revisión de cómo fue."
+    ],
+    "notWhen": "Cuando se hace una sola vez (por ejemplo, cambiar una lámpara) o cuando el centro es investigar, debatir o producir algo."
   }
 ];

@@ -117,13 +117,14 @@ complexity_execution: 3  # Requiere seguimiento
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: ""
+main_type: "Cambio de hábitos"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family walking and biking instead of driving on Emission-free Monday with a carbon footprint tracker app on a phone dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, starting an emission-free Monday tradition with their family. Sustainable transport campaign environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type: []
+activity_type:
+  - Cambio de hábitos
 category:
   - Transporte
   - Huella de Carbono
