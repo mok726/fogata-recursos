@@ -2360,7 +2360,7 @@ sections: {
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/"
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
     }
   ],
   license: {

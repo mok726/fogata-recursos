@@ -64,9 +64,9 @@ link:
   - url: "https://mok726.github.io/fogata-recursos/activities/preparar-la-mochila/"
     caption: "Actividad relacionada: Preparar la Mochila"
     icon: "link"
-  - url: "https://biblioteca.scout.es/"
-    caption: "Biblioteca Scout de ASDE - Scouts de España"
-    icon: "link"
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
+    caption: "Fichas de actividades. Concurso de actividades de Salud y TIC - ASDE Scouts de España (PDF)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -74,7 +74,7 @@ references:
   - title: "Fichas de actividades. Concurso de actividades de Salud y TIC"
     author: "ASDE - Scouts de España"
     year: 2017
-    url: "https://biblioteca.scout.es/"
+    url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
 
 # ========== LICENCIA ==========
 license:
