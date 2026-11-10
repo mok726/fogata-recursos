@@ -88,7 +88,7 @@ active_component: 1  # Actividad de discusión
 complexity_execution: 3  # Requiere preparación de roles
 complexity_organizer: 3  # Requiere organización
 
-main_type: "Debate / Diálogo"
+main_type: "Simulación / Juego de roles"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diplomatic negotiation simulation about shared water resources between countries, with mediators and representatives dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating and negotiating. International cooperation and conflict resolution atmosphere. No text, no letters, no words. Wide shot."
 
@@ -101,8 +101,8 @@ accessibility: []
 
 
 activity_type:
+  - Simulación / Juego de roles
   - Debate / Diálogo
-  - Reflexión
 
 category:
   - Agua
@@ -110,17 +110,12 @@ category:
   - Cooperación
 
 skills:
-  - Comunicación
-  - Pensamiento crítico
+  - Resolución de conflictos
 
 scout_values:
   - Justicia y Equidad
-  - Hermandad y Fraternidad
-  - Responsabilidad y Compromiso
 
-scout_method:
-  - Involucramiento Comunitario
-  - Apoyo Adulto
+scout_method: []
 
 rama_castores: []
 

@@ -93,7 +93,7 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Juego"
+main_type: "Indagación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children learning how to say 'water' in different languages, with a world map and speech bubbles dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing words and laughing. Language learning and cultural curiosity atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,27 +106,19 @@ accessibility: []
 
 
 activity_type:
-  - Juego
   - Indagación
+  - Juego
 
 category:
   - Agua
   - Idiomas
   - Cultura
 
-skills:
-  - Conciencia social
-  - Observación
-  - Comunicación
+skills: []
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

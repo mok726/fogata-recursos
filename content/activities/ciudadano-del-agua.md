@@ -90,7 +90,7 @@ active_component: 1  # Actividad de escritura
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child writing a letter to their government representative about a water issue, with a desk and documents dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and mailing the letter. Civic engagement and youth advocacy atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
-  - Reflexión
+  - Campaña
 
 category:
   - Agua
@@ -113,17 +112,11 @@ category:
 
 skills:
   - Comunicación
-  - Pensamiento crítico
   - Investigación
 
-scout_values:
-  - Justicia y Equidad
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Involucramiento Comunitario
-  - Apoyo Adulto
+scout_method: []
 
 rama_castores: []
 

@@ -91,7 +91,7 @@ active_component: 1  # Dibujo
 complexity_execution: 1  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: ""
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A flow diagram showing the 'trickle-down effect' of clean water and sanitation on people's lives - health, education, economy - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing diagrams. Impact analysis and systems thinking atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,9 +103,7 @@ participants: "4-15"
 accessibility: []
 
 
-activity_type:
-  - Reflexión
-  - Expresión artística
+activity_type: []
 
 category:
   - Agua
@@ -114,17 +112,11 @@ category:
 
 skills:
   - Pensamiento sistémico
-  - Creatividad
-  - Pensamiento crítico
+  - Conciencia social
 
-scout_values:
-  - Responsabilidad y Compromiso
-  - Justicia y Equidad
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

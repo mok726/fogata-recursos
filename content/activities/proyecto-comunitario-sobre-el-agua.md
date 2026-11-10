@@ -90,7 +90,7 @@ active_component: 4  # Actividad física
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Servicio"
+main_type: "Proyecto"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community water conservation project - school garden with efficient irrigation, rainwater harvesting system - with children working together dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and building. Community action and sustainable practices atmosphere. No text, no letters, no words. Wide shot."
 
@@ -103,8 +103,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
   - Proyecto
+  - Servicio
 
 category:
   - Agua
@@ -113,17 +113,12 @@ category:
 
 skills:
   - Planificación y organización
-  - Trabajo en equipo
-  - Conciencia social
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
 
 scout_method:
   - Involucramiento Comunitario
-  - Aprender Haciendo
 
 rama_castores: []
 

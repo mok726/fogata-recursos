@@ -87,7 +87,7 @@ active_component: 3  # Caminar con peso
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Reflexión"
+main_type: "Simulación / Juego de roles"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child balancing a book on their head, walking carefully, symbolizing women and children carrying heavy water containers dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, practicing the balance walk. Empathy and understanding of water collection challenges atmosphere. No text, no letters, no words. Wide shot."
 
@@ -100,8 +100,7 @@ accessibility: []
 
 
 activity_type:
-  - Reflexión
-  - Juego
+  - Simulación / Juego de roles
 
 category:
   - Agua
@@ -110,17 +109,11 @@ category:
 
 skills:
   - Empatía
-  - Destreza física
-  - Pensamiento crítico
 
 scout_values:
   - Justicia y Equidad
-  - Solidaridad y Servicio
-  - Respeto y Valoración de la Diversidad
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

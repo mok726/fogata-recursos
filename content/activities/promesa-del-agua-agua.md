@@ -115,32 +115,25 @@ complexity_execution: 2  # Pasos sencillos
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating a colorful pledge banner with handprints and water conservation promises, learning about water conservation and responsibility. Creative educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, making their pledge banner. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Reflexión
-  - Expresión artística
+activity_type: []
 category:
   - Conservación
   - Agua
   - Compromiso
 skills:
-  - Creatividad
-  - Trabajo en equipo
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
   - Compromiso con la Naturaleza
-  - Solidaridad y Servicio
-scout_method:
-  - Ley y Promesa
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+  - Responsabilidad y Compromiso
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

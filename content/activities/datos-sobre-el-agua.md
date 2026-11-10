@@ -119,23 +119,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Dinámica de grupos
 category:
   - Datos
   - Crisis del agua
   - Teatro
 skills:
   - Creatividad
-  - Comunicación
-  - Trabajo en equipo
+  - Conciencia social
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

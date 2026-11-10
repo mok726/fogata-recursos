@@ -127,16 +127,14 @@ category:
   - Matemáticas
 skills:
   - Observación
-  - Resolución de problemas
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

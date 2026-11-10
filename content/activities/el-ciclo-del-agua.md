@@ -114,14 +114,14 @@ complexity_execution: 2  # Experimento sencillo
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Experimento"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A clear bowl with water, plastic wrap, and a stone creating a mini water cycle model in sunlight, with condensation and 'rain' forming inside. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing the water cycle experiment. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Experimento
+  - Taller / Construcción
 category:
   - Ciclo del agua
   - Ciencia
@@ -129,15 +129,12 @@ category:
 skills:
   - Observación
   - Pensamiento científico
-  - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

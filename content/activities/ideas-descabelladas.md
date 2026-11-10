@@ -97,7 +97,7 @@ active_component: 2  # Construcción manual
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere materiales variados
 
-main_type: "Expresión artística"
+main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Innovative water solutions like PlayPumps and other creative designs for clean water access dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, designing and building models. Creative innovation and humanitarian design atmosphere. No text, no letters, no words. Wide shot."
 
@@ -110,8 +110,7 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Proyecto
+  - Taller / Construcción
 
 category:
   - Agua
@@ -121,15 +120,10 @@ category:
 skills:
   - Creatividad
   - Resolución de problemas
-  - Trabajo en equipo
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Solidaridad y Servicio
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

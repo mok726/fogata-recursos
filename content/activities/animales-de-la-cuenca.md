@@ -118,7 +118,6 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Expresión artística
 category:
   - Biodiversidad
   - Animales
@@ -126,16 +125,10 @@ category:
 skills:
   - Investigación
   - Conciencia ambiental
-  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-scout_method:
-  - Sistema de Equipos
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

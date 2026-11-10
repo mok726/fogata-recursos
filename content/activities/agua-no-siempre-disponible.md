@@ -117,24 +117,18 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Dinámica de grupos
 category:
   - Escasez
   - Agua
   - Empatía
 skills:
-  - Trabajo en equipo
   - Empatía
   - Conciencia social
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
-  - Superación Personal y Perseverancia
-  - Espíritu Aventurero
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+  - Justicia y Equidad
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

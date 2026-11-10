@@ -111,32 +111,24 @@ complexity_execution: 2  # Planificación y ejecución simple
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Juego"
+main_type: ""
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Families and children having fun with water activities - swimming, playing in the pool, fishing, splashing water, enjoying outdoor recreation with water. Joyful and active scene. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, enjoying water activities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
-activity_type:
-  - Juego
-  - Salida / Exploración
+activity_type: []
 category:
   - Recreación
   - Agua
   - Familia
-skills:
-  - Creatividad
-  - Trabajo en equipo
-  - Planificación y organización
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Optimismo y Alegría
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+  - Familia y Vínculos de Cuidado
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

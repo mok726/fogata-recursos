@@ -102,7 +102,7 @@ active_component: 2  # Moverse por casa para revisar
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child keeping a water diary at home, checking faucets and recording water use dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, documenting water usage and finding leaks. Home water conservation and awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -115,8 +115,8 @@ accessibility: []
 
 
 activity_type:
+  - Cambio de hábitos
   - Indagación
-  - Reflexión
 
 category:
   - Agua
@@ -124,18 +124,15 @@ category:
   - Ahorro
 
 skills:
+  - Hábitos sostenibles
   - Observación
-  - Pensamiento crítico
-  - Planificación y organización
 
 scout_values:
-  - Responsabilidad y Compromiso
   - Sencillez y Austeridad
   - Compromiso con la Naturaleza
 
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 rama_castores: []
 

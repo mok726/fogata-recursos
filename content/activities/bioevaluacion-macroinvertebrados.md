@@ -119,32 +119,25 @@ complexity_execution: 3  # Requiere organización y cálculo
 complexity_organizer: 4  # Requiere preparar materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Simulación / Juego de roles"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth simulating a bioassessment of a stream using plastic tubs, nets, and objects representing macro-invertebrates, sorting and counting to determine water quality. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a bioassessment simulation. Educational science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Simulación / Juego de roles
 category:
   - Calidad del agua
   - Macroinvertebrados
   - Ciencia
 skills:
-  - Pensamiento crítico
-  - Trabajo en equipo
+  - Pensamiento científico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -111,31 +111,24 @@ complexity_execution: 1  # Sencilla de ejecutar
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Expresión artística"
+main_type: "Reflexión"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth writing and drawing about memorable water experiences - swimming, watering plants, visiting waterfalls, beach days, or rain. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, sharing watery memories. Educational creative expression scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Expresión artística
   - Reflexión
+  - Expresión artística
 category:
   - Agua
   - Recuerdos
   - Creatividad
-skills:
-  - Creatividad
-  - Comunicación
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

@@ -117,15 +117,15 @@ complexity_execution: 4  # Proyecto de varias sesiones
 complexity_organizer: 3  # Coordinación de equipos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Expresión artística"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth creating a newspaper about water, researching and writing articles, with editors and photographers. Educational media activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on their newspaper. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
   - Expresión artística
+  - Indagación
   - Proyecto
 category:
   - Periodismo
@@ -134,16 +134,11 @@ category:
 skills:
   - Comunicación
   - Investigación
-  - Creatividad
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

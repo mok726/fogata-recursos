@@ -118,24 +118,17 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Expresión artística
 category:
   - Lluvia
   - Agua
   - Juego
-skills:
-  - Conciencia ambiental
-  - Creatividad
-  - Trabajo en equipo
+skills: []
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Compromiso con la Naturaleza
-  - Espíritu Aventurero
-  - Hermandad y Fraternidad
+  - Optimismo y Alegría
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 rama_castores: []

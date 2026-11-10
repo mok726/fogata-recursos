@@ -104,7 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
 
 category:
   - Agua
@@ -113,17 +112,12 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Salud y autocuidado
+  - Hábitos sostenibles
 
 scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Responsabilidad y Compromiso
-  - Hermandad y Fraternidad
+  - Sencillez y Austeridad
 
-scout_method:
-  - Aprender Haciendo
-  - Sistema de Equipos
+scout_method: []
 
 rama_castores: []
 

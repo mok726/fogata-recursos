@@ -95,7 +95,7 @@ active_component: 2  # Organización y difusión
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 3  # Requiere coordinación
 
-main_type: "Servicio"
+main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A campaign encouraging people to switch from bottled water to tap water, with posters and social media graphics dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating campaign materials. Environmental advocacy and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
@@ -108,7 +108,8 @@ accessibility: []
 
 
 activity_type:
-  - Servicio
+  - Campaña
+  - Indagación
 
 category:
   - Agua
@@ -121,12 +122,8 @@ skills:
 
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Sencillez y Austeridad
 
-scout_method:
-  - Involucramiento Comunitario
-  - Aprender Haciendo
+scout_method: []
 
 rama_castores: []
 

@@ -128,17 +128,11 @@ category:
   - Agua
   - Naturaleza
 skills:
-  - Creatividad
-  - Observación
-  - Conciencia ambiental
+  - Planificación y organización
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Compromiso con la Naturaleza
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

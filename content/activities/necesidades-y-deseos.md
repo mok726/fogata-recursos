@@ -109,33 +109,27 @@ complexity_execution: 2  # Clasificación simple
 complexity_organizer: 2  # Preparación de tarjetas
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Debate / Diálogo"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children sorting cards into needs and wants, learning about basic human needs and the right to water and sanitation. Educational reflective activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, sorting cards. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Reflexión
   - Debate / Diálogo
-  - Juego
 category:
   - Derechos humanos
   - Necesidades básicas
   - Educación
 skills:
-  - Pensamiento crítico
-  - Comunicación
   - Conciencia social
+  - Toma de decisiones
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Solidaridad y Servicio
+  - Sencillez y Austeridad
   - Justicia y Equidad
-  - Responsabilidad y Compromiso
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

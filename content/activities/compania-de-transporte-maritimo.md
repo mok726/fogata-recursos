@@ -96,7 +96,7 @@ active_component: 4  # Construcción y prueba en agua
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere materiales variados
 
-main_type: "Expresión artística"
+main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children building miniature boats from different materials and racing them on water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, testing their boats and measuring cargo capacity. Maritime transport and engineering learning atmosphere. No text, no letters, no words. Wide shot."
 
@@ -109,8 +109,8 @@ accessibility: []
 
 
 activity_type:
-  - Expresión artística
-  - Salida / Exploración
+  - Experimento
+  - Taller / Construcción
 
 category:
   - Agua
@@ -118,17 +118,13 @@ category:
   - Construcción
 
 skills:
+  - Experimentación
   - Creatividad
-  - Trabajo en equipo
-  - Resolución de problemas
 
-scout_values:
-  - Superación Personal y Perseverancia
-  - Espíritu Aventurero
+scout_values: []
 
 scout_method:
   - Aprender Haciendo
-  - Sistema de Equipos
 
 rama_castores: []
 

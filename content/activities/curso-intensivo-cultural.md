@@ -104,8 +104,6 @@ accessibility: []
 
 activity_type:
   - Indagación
-  - Reflexión
-  - Dinámica de grupos
 
 category:
   - Agua
@@ -114,17 +112,11 @@ category:
 
 skills:
   - Investigación
-  - Pensamiento crítico
-  - Comunicación
 
 scout_values:
   - Respeto y Valoración de la Diversidad
-  - Curiosidad y Deseo de Aprender
-  - Hermandad y Fraternidad
 
-scout_method:
-  - Aprender Haciendo
-  - Progresión Personal
+scout_method: []
 
 rama_castores: []
 

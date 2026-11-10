@@ -104,26 +104,17 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Reflexión
 
 category:
   - Agua
   - Cuerpo humano
   - Salud
 
-skills:
-  - Autoconocimiento
-  - Creatividad
-  - Comunicación
+skills: []
 
-scout_values:
-  - Vida Sana y Bienestar
-  - Curiosidad y Deseo de Aprender
-  - Optimismo y Alegría
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

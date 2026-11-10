@@ -117,17 +117,11 @@ activity_type:
 category:
   - Fuentes de agua
   - Ciclo del agua
-skills:
-  - Observación
-  - Resolución de problemas
-  - Conciencia ambiental
+skills: []
 
 # ========== VALORES SCOUT ==========
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-scout_method:
-  - Aprender Haciendo
+scout_values: []
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

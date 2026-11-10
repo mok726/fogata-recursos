@@ -91,7 +91,7 @@ active_component: 2  # Visita
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere invitar experto
 
-main_type: "Indagación"
+main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An expert speaking about water-related diseases, with posters and brochures about prevention dominating the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning and creating materials. Health education and disease prevention atmosphere. No text, no letters, no words. Wide shot."
 
@@ -104,7 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Visita / Charla
 
 category:
   - Agua
@@ -112,18 +112,12 @@ category:
   - Prevención
 
 skills:
-  - Investigación
-  - Comunicación
-  - Resolución de problemas
+  - Salud y autocuidado
 
 scout_values:
   - Vida Sana y Bienestar
-  - Responsabilidad y Compromiso
-  - Solidaridad y Servicio
 
-scout_method:
-  - Aprender Haciendo
-  - Involucramiento Comunitario
+scout_method: []
 
 rama_castores: []
 

@@ -102,7 +102,6 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Juego
 
 category:
   - Agua
@@ -111,16 +110,12 @@ category:
 
 skills:
   - Observación
-  - Creatividad
-  - Investigación
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
 
 scout_method:
   - Vida en la Naturaleza
-  - Aprender Haciendo
 
 rama_castores: []
 

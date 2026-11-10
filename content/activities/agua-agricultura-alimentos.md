@@ -114,32 +114,25 @@ complexity_execution: 3  # Participación en actividades agrícolas
 complexity_organizer: 4  # Requiere coordinar visita
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Salida / Exploración"
+main_type: "Visita / Charla"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth visiting a farm, interacting with farmers, learning about irrigation, watering animals, and understanding the connection between water, agriculture and food production. Educational outdoor activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, participating in farm activities. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Salida / Exploración
-  - Indagación
+  - Visita / Charla
 category:
   - Agricultura
   - Alimentos
   - Agua
 skills:
-  - Observación
-  - Pensamiento crítico
   - Conciencia ambiental
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
-  - Curiosidad y Deseo de Aprender
-scout_method:
-  - Aprender Haciendo
-  - Vida en la Naturaleza
+scout_method: []
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

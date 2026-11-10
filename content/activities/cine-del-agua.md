@@ -125,24 +125,20 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Servicio
-  - Proyecto
 category:
   - Recaudación
   - Cine
   - Agua
 skills:
-  - Trabajo en equipo
   - Planificación y organización
-  - Conciencia social
+  - Trabajo en equipo
 
 # ========== VALORES SCOUT ==========
 scout_values:
   - Solidaridad y Servicio
-  - Responsabilidad y Compromiso
-  - Optimismo y Alegría
 scout_method:
-  - Aprender Haciendo
   - Involucramiento Comunitario
+  - Aprender Haciendo
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

@@ -111,25 +111,18 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Experimento
+  - Taller / Construcción
 
 category:
   - Agua
   - Ciclo del agua
   - Ciencia
 
-skills:
-  - Pensamiento científico
-  - Creatividad
-  - Trabajo en equipo
+skills: []
 
-scout_values:
-  - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
+scout_values: []
 
-scout_method:
-  - Aprender Haciendo
-  - Marco Simbólico
+scout_method: []
 
 rama_castores: []
 

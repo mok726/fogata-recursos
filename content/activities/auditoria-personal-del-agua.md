@@ -109,7 +109,7 @@ complexity_execution: 3  # Requiere cálculo y seguimiento
 complexity_organizer: 2  # Preparación simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Reflexión"
+main_type: "Indagación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting personal water audits with worksheets, calculating their daily water consumption and learning about conservation. Educational research activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, completing their water audits. No text, no letters, no words. Wide shot."
@@ -117,24 +117,19 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Indagación
-  - Reflexión
-  - Proyecto
 category:
   - Conservación
   - Agua
   - Matemáticas
 skills:
-  - Pensamiento crítico
-  - Planificación y organización
+  - Hábitos sostenibles
 
 # ========== VALORES SCOUT ==========
 scout_values:
-  - Responsabilidad y Compromiso
+  - Sencillez y Austeridad
   - Compromiso con la Naturaleza
-  - Superación Personal y Perseverancia
 scout_method:
   - Aprender Haciendo
-  - Progresión Personal
 
 # ========== COMPETENCIAS POR RAMA ==========
 # Nota: Se incluyen competencias para TODAS las ramas,

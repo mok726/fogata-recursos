@@ -106,7 +106,6 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Indagación
 
 category:
   - Agua
@@ -116,16 +115,12 @@ category:
 skills:
   - Experimentación
   - Observación
-  - Pensamiento crítico
 
 scout_values:
   - Curiosidad y Deseo de Aprender
-  - Compromiso con la Naturaleza
-  - Responsabilidad y Compromiso
 
 scout_method:
   - Aprender Haciendo
-  - Vida en la Naturaleza
 
 rama_castores: []
 
