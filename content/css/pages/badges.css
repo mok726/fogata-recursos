@@ -191,6 +191,17 @@
   max-width: 220px;
   transition: transform .2s ease;
 }
+.badge-resource-text {
+  display: block;
+  padding: .75rem;
+  border-radius: 12px;
+  background: #f4f8f3;
+  border: 1px solid #e2ebe0;
+  color: #355b38;
+  font-weight: 600;
+  font-size: .9rem;
+  line-height: 1.4;
+}
 .badge-resource:hover img {
   transform: scale(1.02);
 }
@@ -287,13 +298,28 @@
   font-size: small;
   flex-wrap: wrap;
 }
+/* Mismo formato que el total de la insignia (.activities-intro-count) */
 .badge-section-count {
-  color: #355b38;
-  border-radius: 999px;
-  font-size: .85rem;
-  font-weight: 700;
+  margin-left: auto;
   text-align: center;
   min-width: 90px;
+  flex-shrink: 0;
+}
+.badge-section-count span {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #355b38;
+  line-height: 1;
+}
+.badge-section-count small {
+  display: block;
+  margin-top: .2rem;
+  font-size: .7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #7a8578;
 }
 
 .activities-intro {
@@ -605,6 +631,21 @@
   .badge-sidebar {
     position: static;
     top: auto;
+  }
+  /* Portadas de las guías en fila, más chicas: apiladas a ancho
+     completo ocupaban varias pantallas en el celular. */
+  .badge-sidebar .sidebar-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .75rem;
+  }
+  .badge-sidebar .sidebar-title {
+    flex-basis: 100%;
+  }
+  .badge-sidebar .badge-resource {
+    flex: 0 1 calc(50% - .5rem);
+    min-width: 0;
   }
 }
 
