@@ -282,7 +282,7 @@
 .badge-section-info p {
   margin-top: 0.35rem;
   color: #667067;
-  max-width: 70ch;
+  max-width: none;
 }
 .badge-section-title-row {
   display: flex;
@@ -357,7 +357,7 @@
 .activities-intro-content p {
   margin-top: 0.5rem;
   color: #667067;
-  max-width: 65ch;
+  max-width: none;
 }
 .activities-intro-count {
   text-align: center;
