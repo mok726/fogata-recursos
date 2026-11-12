@@ -10,6 +10,9 @@
 // por fecha porque en GitHub Actions todos los archivos tienen la
 // fecha del checkout.
 //
+// Si una original no existe, está vacía o no es una imagen válida,
+// se avisa y se sigue: el build no se corta por eso.
+//
 // Uso: node scripts/make-thumbs.js
 
 const crypto = require("crypto");
@@ -55,12 +58,36 @@ function fingerprint(source, preset) {
 }
 
 
+// Devuelve el motivo para omitir la original, o null si se puede usar.
+function problemWith(source) {
+
+  let stat;
+
+  try {
+    stat = fs.statSync(source);
+  } catch {
+    return "no existe";
+  }
+
+  if (!stat.isFile()) return "no es un archivo";
+  if (stat.size === 0) return "está vacío (0 bytes)";
+
+  return null;
+
+}
+
+
 function sourcesFor(preset) {
 
   const dir = path.join(ROOT, preset.dir);
 
   if (preset.files) {
     return preset.files.map(f => path.join(dir, f));
+  }
+
+  if (!fs.existsSync(dir)) {
+    console.warn(`  ! ${preset.dir}: la carpeta no existe, se omite`);
+    return [];
   }
 
   return fs.readdirSync(dir)
@@ -79,6 +106,7 @@ async function main() {
   let created = 0;
   let skipped = 0;
   let failed = 0;
+  let missing = 0;
 
   for (const [name, preset] of Object.entries(presets)) {
 
@@ -98,6 +126,14 @@ async function main() {
       // x.png y x.jpg darían la misma miniatura: se usa la primera.
       if (key in seen) {
         console.warn(`  ! ${path.relative(ROOT, source)}: ya existe ${key}, se omite`);
+        continue;
+      }
+
+      const problem = problemWith(source);
+
+      if (problem) {
+        console.warn(`  ! ${path.relative(ROOT, source)}: ${problem}, se omite`);
+        missing++;
         continue;
       }
 
@@ -133,7 +169,7 @@ async function main() {
 
       } catch (err) {
 
-        console.error(`  ✗ ${path.relative(ROOT, source)}: ${err.message}`);
+        console.warn(`  ✗ ${path.relative(ROOT, source)}: ${err.message}, se omite`);
         seen[key] = null;
         failed++;
 
@@ -146,10 +182,17 @@ async function main() {
   fs.writeFileSync(MANIFEST, JSON.stringify(seen, null, 1));
 
   console.log(
-    `Miniaturas: ${created} generadas, ${skipped} sin cambios, ${failed} con error.`
+    `Miniaturas: ${created} generadas, ${skipped} sin cambios, ` +
+    `${missing} faltantes o vacías, ${failed} con error.`
   );
 
 }
 
 
-main();
+main().catch(err => {
+
+  // Un error inesperado no debe cortar el build: sin miniaturas el
+  // sitio usa las originales.
+  console.warn(`  ✗ make-thumbs: ${err.message}`);
+
+});
