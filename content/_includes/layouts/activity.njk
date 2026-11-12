@@ -733,32 +733,33 @@ async function shareActivity() {
               {{ credits }}
           </p>
         {% endif %}
-        <p class="license-note">Esta actividad se ofrece como referencia. Quien la implementa es responsable de evaluar sus riesgos y adaptarla a su grupo. Ver el <a href="{{ '/aviso-legal/' | url }}">aviso legal</a>.</p>
         {% if license %}
           <div class="license-block">
-            <p>
+            <p class="license-name">
               <strong>Licencia:</strong>
-              <a href="{{ license.url }}">
-                {{ license.name }}
-              </a>
+              <a href="{{ license.url }}">{{ license.name }}</a>
             </p>
-            {% if license.image %}
-              <img
-                 src="{{ license.image }}"
-                 alt="{{ license.name }}"
-                 class="license-image">
-            {% endif %}
-            {% if license.note %}
-              <p class="license-note">{{ license.note }}</p>
-            {% endif %}
-            {% if license.allowed %}
-              <p class="license-allowed"><strong>Autorizado:</strong> {{ license.allowed }}</p>
-            {% endif %}
-            {% if license.pending %}
-              <p class="license-pending"><strong>Sin autorización todavía:</strong> {{ license.pending }}</p>
+            {% if license.image or license.note or license.allowed or license.pending %}
+              <details class="license-details">
+                <summary>{% if license.pending %}Permisos (hay autorizaciones pendientes){% else %}Detalle de la licencia{% endif %}</summary>
+                {% if license.image %}
+                  <img src="{{ license.image }}" alt="{{ license.name }}" class="license-image">
+                {% endif %}
+                {% if license.note %}
+                  <p class="license-note">{{ license.note }}</p>
+                {% endif %}
+                {% if license.allowed %}
+                  <p class="license-allowed"><strong>Autorizado:</strong> {{ license.allowed }}</p>
+                {% endif %}
+                {% if license.pending %}
+                  <p class="license-pending"><strong>Sin autorización todavía:</strong> {{ license.pending }}</p>
+                {% endif %}
+              </details>
             {% endif %}
           </div>
         {% endif %}
+        <script>window.addEventListener('beforeprint',function(){document.querySelectorAll('.license-details').forEach(function(d){d.open=true;});});</script>
+        <p class="license-disclaimer">Esta actividad se ofrece como referencia. Quien la implementa es responsable de evaluar sus riesgos y adaptarla a su grupo. Ver el <a href="{{ '/aviso-legal/' | url }}">aviso legal</a>.</p>
 
       </div>
     {% endif %}

@@ -191,6 +191,17 @@
   max-width: 220px;
   transition: transform .2s ease;
 }
+.badge-resource-text {
+  display: block;
+  padding: .75rem;
+  border-radius: 12px;
+  background: #f4f8f3;
+  border: 1px solid #e2ebe0;
+  color: #355b38;
+  font-weight: 600;
+  font-size: .9rem;
+  line-height: 1.4;
+}
 .badge-resource:hover img {
   transform: scale(1.02);
 }
@@ -271,7 +282,7 @@
 .badge-section-info p {
   margin-top: 0.35rem;
   color: #667067;
-  max-width: 70ch;
+  max-width: none;
 }
 .badge-section-title-row {
   display: flex;
@@ -280,20 +291,38 @@
   flex-wrap: wrap;
   text-transform: uppercase;
 }
-.badge-section-description-row {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  font-size: small;
-  flex-wrap: wrap;
+/* El bloque de texto ocupa todo el ancho hasta el contador */
+.badge-section-info {
+  flex: 1;
+  min-width: 0;
 }
+.badge-section-description-row {
+  display: block;
+  margin-top: .35rem;
+  font-size: .95rem;
+  line-height: 1.6;
+  color: #4c554d;
+}
+/* Mismo formato que el total de la insignia (.activities-intro-count) */
 .badge-section-count {
-  color: #355b38;
-  border-radius: 999px;
-  font-size: .85rem;
-  font-weight: 700;
+  margin-left: auto;
   text-align: center;
   min-width: 90px;
+  flex-shrink: 0;
+}
+.badge-section-count span {
+  display: block;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #355b38;
+  line-height: 1;
+}
+.badge-section-count small {
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #7a8578;
 }
 
 .activities-intro {
@@ -328,7 +357,7 @@
 .activities-intro-content p {
   margin-top: 0.5rem;
   color: #667067;
-  max-width: 65ch;
+  max-width: none;
 }
 .activities-intro-count {
   text-align: center;
@@ -606,6 +635,21 @@
     position: static;
     top: auto;
   }
+  /* Portadas de las guías en fila, más chicas: apiladas a ancho
+     completo ocupaban varias pantallas en el celular. */
+  .badge-sidebar .sidebar-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .75rem;
+  }
+  .badge-sidebar .sidebar-title {
+    flex-basis: 100%;
+  }
+  .badge-sidebar .badge-resource {
+    flex: 0 1 calc(50% - .5rem);
+    min-width: 0;
+  }
 }
 
 @media (max-width: 640px) {
@@ -660,9 +704,15 @@
     font-size: 1rem;
     line-height: 1.6;
   }
+  /* Letra y contador arriba; título y texto debajo a todo el ancho */
   .badge-section-header {
     gap: 0.75rem;
     margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+  .badge-section-info {
+    order: 3;
+    flex-basis: 100%;
   }
   .badge-section-letter {
     width: 48px;

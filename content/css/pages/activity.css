@@ -417,17 +417,13 @@ a.hero-category:focus-visible {
 /* ---------- FILA INFERIOR ---------- */
 .info-row {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  /* auto-fit: las tarjetas presentes se reparten todo el ancho,
+     así 2 o 3 tarjetas no dejan columnas vacías ni quedan angostas y altas */
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 24px;
   align-items: start;
   margin-top: 40px;
   margin-bottom: 40px;
-}
-
-@media (max-width: 1200px) {
-  .info-row {
-    grid-template-columns: repeat(2, 1fr);
-  }
 }
 
 @media (max-width: 768px) {
@@ -662,6 +658,36 @@ a.hero-category:focus-visible {
 .timeline-closing .timeline-circle     { background: #3477bc; }
 
 /* ---------- LICENCIAS ---------- */
+.license-block .license-name { margin-bottom: .4rem; }
+.license-details {
+  margin: .25rem 0 .75rem;
+  font-size: .9rem;
+}
+.license-details > summary {
+  cursor: pointer;
+  color: #34525a;
+  font-weight: 600;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
+}
+.license-details > summary::-webkit-details-marker { display: none; }
+.license-details > summary::before {
+  content: "expand_more";
+  font-family: "Material Symbols Outlined";
+  font-size: 1.2rem;
+  transition: transform .2s;
+}
+.license-details[open] > summary::before { transform: rotate(180deg); }
+.license-details[open] > summary { margin-bottom: .5rem; }
+.license-details p { margin: 0 0 .6rem; }
+.license-disclaimer {
+  font-size: .82rem;
+  color: #4c5f63;
+  margin: .75rem 0 0 !important;
+}
+
 .license-block {
   margin-top: 1rem;
   padding-top: 1rem;

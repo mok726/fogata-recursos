@@ -305,6 +305,40 @@ collections.activities
 
         <!-- FIN seccion colapsable del sitios web -->
 
+        {# Fuentes y licencia: plegadas en la columna principal para no
+           alargar la barra lateral (la licencia tiene notas de permisos). #}
+        {% if badge.sources and badge.sources.length %}
+          {% set dtitle = "Fuentes" %}
+          {% set dicon = "link" %}
+          {% set dcount = badge.sources.length %}
+          {% set dtype = "info" %}
+          {% set dcontent %}
+            <ul>
+              {% for source in badge.sources %}
+                <li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
+              {% endfor %}
+            </ul>
+          {% endset %}
+          {% include "components/disclosure.njk" %}
+        {% endif %}
+
+        {% if badge.license or badge.attribution %}
+          {% set dtitle = "Licencia" + ((": " + badge.license.type) if badge.license and badge.license.type else "") %}
+          {% set dicon = "license" %}
+          {% set dcount = none %}
+          {% set dtype = "neutral" %}
+          {% set dcontent %}
+            {% if badge.license %}
+              <p>Licencia: <a href="{{ badge.license.url }}" target="_blank" rel="noopener">{{ badge.license.type }}</a></p>
+              {% if badge.license.note %}<p class="license-note">{{ badge.license.note }}</p>{% endif %}
+            {% endif %}
+            {% if badge.attribution %}
+              <p>Atribución: {{ badge.attribution.organization }}{% if badge.attribution.year %} ({{ badge.attribution.year }}){% endif %}</p>
+            {% endif %}
+          {% endset %}
+          {% include "components/disclosure.njk" %}
+        {% endif %}
+
 
 
 
@@ -343,9 +377,13 @@ collections.activities
         target="_blank"
         rel="noopener">
 
+        {% if doc.image %}
         <img
           src="{{ doc.image | url }}"
           alt="{{ doc.title_es or doc.title }}">
+        {% else %}
+        <span class="badge-resource-text">📄 {{ doc.title_es or doc.title }}</span>
+        {% endif %}
 
 <!--        <span>
           {{ doc.title_es or doc.title }}
@@ -359,71 +397,6 @@ collections.activities
 {% endif %}
 
 
-
-{% if badge.sources and badge.sources.length %}
-<section class="sidebar-section">
-
-<h3 class="sidebar-title">
-
-  <span class="sidebar-icon">
-    🔗
-  </span>
-
-  Fuentes
-
-</h3>
-  <ul>
-
-    {% for source in badge.sources %}
-      <li>
-        <a          href="{{ source.url }}"          target="_blank"          rel="noopener">
-          {{ source.name }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-
-</section>
-{% endif %}
-
-{% if badge.license or badge.attribution %}
-<section class="sidebar-section">
-<h3 class="sidebar-title">
-
-  <span class="sidebar-icon">
-    ⚖
-  </span>
-
-  Licencia
-
-</h3>
-  {% if badge.license %}
-    <p>
-      Licencia:
-      <a
-        href="{{ badge.license.url }}"
-        target="_blank"
-        rel="noopener">
-        {{ badge.license.type }}
-      </a>
-    </p>
-    {% if badge.license.note %}
-      <p class="license-note">{{ badge.license.note }}</p>
-    {% endif %}
-  {% endif %}
-
-  {% if badge.attribution %}
-    <p>
-      Attribution:
-      {{ badge.attribution.organization }}
-      {% if badge.attribution.year %}
-        ({{ badge.attribution.year }})
-      {% endif %}
-    </p>
-  {% endif %}
-
-</section>
-{% endif %}
 
 </div>
 </aside>
@@ -625,11 +598,8 @@ collections.activities
 
         </div>
           <div class="badge-section-count">
-
-
-            {{ badgeView.sections[sectionId].count }}
-            actividades
-
+            <span>{{ badgeView.sections[sectionId].count }}</span>
+            <small>{{ "actividad" if badgeView.sections[sectionId].count == 1 else "actividades" }}</small>
           </div>
 
 
