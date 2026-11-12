@@ -2132,8 +2132,8 @@ sections: {
     "Actividades de desarrollo espiritual sobre la libertad, la autoestima, el sentido de la vida y el respeto a los demás, de la publicación «Aprendiendo a ser II» de ASDE - Scouts de España (2011).",
   summary:
     "Esta no es una insignia oficial: es una colección de actividades tomadas de «Aprendiendo a ser II. Recursos teóricos y prácticos para trabajar el desarrollo espiritual en los Grupos Scouts», que el Equipo de Desarrollo Espiritual de ASDE - Scouts de España publicó en 2011. La publicación entiende el desarrollo espiritual como una búsqueda personal en torno a grandes preguntas, entendidas o no como respuestas religiosas: ¿quiénes somos?, ¿de dónde venimos?, ¿a dónde vamos?, ¿qué estamos dispuestos a hacer por los demás?\n\nLas secciones siguen los cuatro temas de la publicación. Muchas actividades son cine-debates o canciones-debate: las fichas citan la película o la canción, pero no la incluyen; cada Grupo la consigue por su cuenta. Cada ficha trae el texto original de ASDE y una adaptación al lenguaje y las costumbres de Argentina.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/asdeaprendiendo-logo.png",
+  hero_image: "/imagenes/insignias/asdeaprendiendo-hero.png",
   sources: [
     {
       name: "ASDE - Scouts de España, Aprendiendo a ser II (2011) – Biblioteca Scout",
@@ -2255,8 +2255,8 @@ sections: {
     "Juegos, danzas y prácticas para la Manada tomados del Wolf Cub's Handbook de Robert Baden-Powell.",
   summary:
     "Esta no es una insignia oficial: es una colección hermana de «Homenaje a Baden-Powell», dedicada al libro que B-P escribió para los lobatos, The Wolf Cub's Handbook (1916). Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
-  logo: "/imagenes/insignias/badenpowell.png",
-  hero_image: "/imagenes/insignias/badenpowellmanada-hero.jpg",
+  logo: "/imagenes/insignias/bpmanada.png",
+  hero_image: "/imagenes/insignias/bpmanada-hero.png",
   sources: [
     {
       name: "Robert Baden-Powell, The Wolf Cub's Handbook, 9.ª ed. (1938)",
@@ -2327,8 +2327,8 @@ sections: {
     "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
   summary:
     "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad», que ASDE - Scouts de España publicó en 2018. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\nLas secciones siguen los dos temas de la publicación, más el anexo del «Ecocargo», la comisión ambiental del Grupo Scout Chan 292. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/asdeambiente-logo.png",
+  hero_image: "/imagenes/insignias/asdeambiente-hero.png",
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
@@ -2375,8 +2375,8 @@ sections: {
     "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
   summary:
     "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no hay manuales de pionerismo de dominio público con autor conocido.\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/tecnicascout.png",
+  hero_image: "/imagenes/insignias/tecnicascout-hero.png",
   sources: [
     {
       name: "Girl Scouts of the USA, Scouting for Girls, Official Handbook of the Girl Scouts (1920) – Project Gutenberg #28490",
@@ -2459,8 +2459,8 @@ sections: {
     "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
   summary:
     "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Salud y TIC», que ASDE - Scouts de España publicó en 2017. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\nLas secciones siguen la clasificación por rama de la publicación. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/asdesaludtic-logo.png",
+  hero_image: "/imagenes/insignias/asdesaludtic-hero.png",
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
@@ -2511,8 +2511,8 @@ sections: {
     "Aprender a moverse seguros por la calle, la ruta y en bici: señales, cruces, caminatas y travesías.",
   summary:
     "Insignia propia de Fogata de Recursos. Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\nLas señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). Donde hace falta citar una ley o un organismo, va como ejemplo: consultá las normas de tu país.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/vial-logo.png",
+  hero_image: "/imagenes/insignias/vial-hero.png",
   sources: [
     {
       name: "Agencia Nacional de Seguridad Vial (Argentina) – material educativo (referencia)",
