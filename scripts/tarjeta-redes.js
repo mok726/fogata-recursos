@@ -15,6 +15,7 @@ const site = require("../content/_data/site.js");
 
 const DOCS = path.join(__dirname, "..", "docs");
 const SALIDA = path.join(DOCS, "redes");
+const MARGEN = 12; // px alrededor de la tarjeta (ver redes-tarjeta.css)
 const PREFIJO = site.pathPrefix.replace(/\/$/, "");
 
 const tipos = {
@@ -54,7 +55,7 @@ async function main() {
 
   const srv = await servir();
   try {
-    const pagina = await navegador.newPage({ viewport: { width: 540, height: 1200 }, deviceScaleFactor: 2 });
+    const pagina = await navegador.newPage({ viewport: { width: 540, height: 3600 }, deviceScaleFactor: 2 });
     await pagina.goto(`http://127.0.0.1:${srv.address().port}${PREFIJO}/redes/tarjeta/`,
       { waitUntil: "networkidle", timeout: 60000 });
     await pagina.evaluate(() => document.fonts.ready);
@@ -66,7 +67,10 @@ async function main() {
     for (const t of await pagina.$$(".home-daily-dia")) {
       const fecha = await t.getAttribute("data-fecha");
       const archivo = path.join(SALIDA, `${fecha}.jpg`);
-      await t.screenshot({ path: archivo, type: "jpeg", quality: 85 });
+      // Con margen color papel, así se ven las esquinas redondeadas.
+      const c = await t.boundingBox();
+      await pagina.screenshot({ path: archivo, type: "jpeg", quality: 85,
+        clip: { x: c.x - MARGEN, y: c.y - MARGEN, width: c.width + 2 * MARGEN, height: c.height + 2 * MARGEN } });
       console.log(`tarjeta-redes: ${path.relative(DOCS, archivo)} ` +
         `(${Math.round(fs.statSync(archivo).size / 1024)} KB)`);
     }

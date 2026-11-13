@@ -1,6 +1,8 @@
 /* Tarjeta de la «Actividad del día» para redes (pages/redes-tarjeta.njk).
+   scripts/tarjeta-redes.js captura cada tarjeta con 12 px de margen
+   color papel alrededor (para que se vean las esquinas redondeadas).
    Es la misma de la portada; acá se fija el ancho, se usa un degradé
-   en el envoltorio y se agrega la placa con logo, nombre y URL.
+   en el envoltorio y se agrega la placa con nombre, URL y QR.
    Se captura a 540 px con escala 2 → imagen de 1080 px de ancho. */
 
 body.redes-tarjeta {
@@ -9,14 +11,14 @@ body.redes-tarjeta {
   background: var(--fogata-paper);
 }
 
-.redes-tarjeta .home-daily { margin: 0; padding: 0; max-width: none; }
+.redes-tarjeta .home-daily { margin: 0; padding: 12px; max-width: none; }
 
 .redes-tarjeta .home-daily-dia {
-  width: 540px;
+  width: 516px;
   max-width: none;
   box-sizing: border-box;
-  margin: 0;
-  border-radius: 0;
+  margin: 0 0 24px;
+  border-radius: 22px;
   box-shadow: none;
   background: linear-gradient(160deg, #f0883e, var(--fogata-fire-dark));
 }
@@ -37,8 +39,18 @@ body.redes-tarjeta {
   background: var(--fogata-card);
   border-radius: 16px;
 }
-.home-daily-placa img { width: 40px; height: 40px; flex: 0 0 auto; }
-.home-daily-placa div { min-width: 0; }
+.home-daily-placa div { flex: 1; min-width: 0; }
+.home-daily-placa b img { width: 24px; height: 24px; vertical-align: -5px; margin-right: .35rem; }
+/* Fondo blanco con margen (zona de silencio) para que se pueda escanear. */
+.home-daily-qr {
+  width: 96px;
+  height: 96px;
+  flex: 0 0 auto;
+  padding: 6px;
+  background: #fff;
+  border-radius: 8px;
+  image-rendering: pixelated;
+}
 .home-daily-placa b {
   display: block;
   font-family: var(--fogata-slab);
@@ -52,5 +64,5 @@ body.redes-tarjeta {
   font-weight: 600;
   line-height: 1.35;
   color: #3d7a4e;
-  word-break: break-all;
+  overflow-wrap: anywhere;
 }

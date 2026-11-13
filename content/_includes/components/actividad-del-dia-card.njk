@@ -61,11 +61,13 @@
 
   {% if paraRedes %}
     <div class="home-daily-placa">
-      <img src="{{ '/imagenes/_thumbs/logo/favicon.webp' | url }}" alt="" width="40" height="40">
       <div>
-        <b>Fogata de Recursos</b>
-        <span>{{ (site.url + (activityUrl | url)) | replace("https://", "") | replace(r/\/$/, "") }}</span>
+        <b><img src="{{ '/imagenes/_thumbs/logo/favicon.webp' | url }}" alt="" width="24" height="24">Fogata de Recursos</b>
+        {# <wbr> después de cada «/» para que la URL corte en lugares prolijos. #}
+        <span>{{ (site.url + (activityUrl | url)) | replace("https://", "") | replace(r/\/$/, "") | replace(r/\//g, "/<wbr>") | safe }}</span>
       </div>
+      {# QR de la ficha (los mismos de la versión para imprimir). #}
+      <img class="home-daily-qr" src="{{ ('/imagenes/actividades/qr/' + d.item.fileSlug + '.png') | url }}" alt="QR de la actividad" width="96" height="96">
     </div>
   {% else %}
     <a class="home-daily-foot" href="{{ activityUrl | url }}">Ver la actividad →</a>
