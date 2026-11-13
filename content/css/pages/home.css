@@ -515,36 +515,47 @@ body:has(.home) {
   box-shadow: none;
   height: 100%;
 }
-.home-daily-ancha .activity-card-hero,
+/* La foto llena toda la altura de la fila, la defina ella o el texto. */
+.home-daily-ancha .activity-card { position: relative; min-height: 300px; }
+.home-daily-ancha .activity-card-hero { position: absolute; inset: 0; }
 .home-daily-ancha .activity-card-main-link { height: 100%; }
-.home-daily-ancha .activity-card-image { height: 100%; min-height: 280px; }
+.home-daily-ancha .activity-card .activity-card-image { height: 100%; min-height: 0; }
 .home-daily-ancha .activity-card-overlay-middle { visibility: hidden; }
 .home-daily .activity-age { white-space: nowrap; }
 
 .home-daily-body {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding: 1.5rem 1.8rem 1.4rem;
+  padding: 1.6rem 1.8rem 1.3rem;
 }
 .home-daily-title {
   font-family: var(--fogata-slab);
-  font-size: clamp(1.4rem, 2.4vw, 1.9rem);
-  line-height: 1.2;
-  margin: 0 0 .7rem;
+  font-size: clamp(1.6rem, 2.6vw, 2.2rem);
+  line-height: 1.15;
+  margin: 0 0 .8rem;
 }
 .home-daily-title a { color: var(--fogata-forest); }
 .home-daily-desc {
   display: block;
-  margin: 0 0 1.1rem;
+  margin: 0 0 1.2rem;
   color: var(--fogata-muted);
-  line-height: 1.55;
+  font-size: 1.1rem;
+  line-height: 1.5;
   text-decoration: none;
 }
 .home-daily-desc:hover { color: var(--fogata-ink); }
-.home-daily-sellos { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; }
-.home-daily-sellos .badge-icon { width: 52px; height: 52px; margin-right: .35rem; }
-.home-daily-sellos .sdg-icon { width: 44px; height: 44px; }
+/* Insignias a la izquierda, ODS a la derecha, pegados abajo. */
+.home-daily-sellos {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: .8rem;
+}
+.home-daily-insignias,
+.home-daily-ods { display: flex; align-items: flex-end; gap: .4rem; }
+.home-daily-insignias .badge-icon { width: 68px; height: 68px; }
+.home-daily-ods .sdg-icon { width: 52px; height: 52px; }
 
 /* Móvil: la card de la lista. */
 .home-daily-angosta { display: none; }
@@ -557,6 +568,7 @@ body:has(.home) {
 
 .home-daily-foot {
   display: block;
+  text-align: right;
   padding: .65rem .8rem .5rem;
   color: var(--fogata-card);
   font-weight: 700;
