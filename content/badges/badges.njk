@@ -8,7 +8,7 @@ permalink: "/badges/{{ badge.id }}/"
 
 eleventyComputed:
   title: "Insignia {{ badge.name }}"
-  description: "{{ badge.description }}"
+  description: "{{ badge.description | textoPlano }}"
 
 layout: layouts/badge-page.njk
 ---

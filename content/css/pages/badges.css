@@ -729,3 +729,33 @@
 .badge-layout.badge-layout--solo {
   grid-template-columns: minmax(0, 1fr);
 }
+
+/* Textos con formato (filtro textoRico): párrafos y listas */
+.badge-tagline p,
+.badge-section-description-row p,
+.badge-requirements-summary p,
+.badge-rule-text p {
+  margin: 0;
+}
+.badge-tagline > * + *,
+.badge-summary-content .badge-summary-text > * + *,
+.badge-section-description-row > * + *,
+.badge-requirements-summary > * + *,
+.badge-rule-text > * + * {
+  margin-top: .6em;
+}
+.badge-summary-text ul,
+.badge-section-description-row ul,
+.badge-requirements-summary ul,
+.badge-rule-text ul {
+  margin-bottom: 0;
+  padding-left: 1.3em;
+}
+.badge-summary-text li,
+.badge-section-description-row li {
+  line-height: 1.6;
+}
+.badge-summary-text li {
+  color: #4c554d;
+  font-size: 1.1rem;
+}

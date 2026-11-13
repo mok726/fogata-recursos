@@ -23,6 +23,7 @@ const knownBadgeIds =
 
 
 const cheerio = require("cheerio");
+const { textoRico, textoPlano } = require("./lib/texto-rico.js");
 
 const fs = require("fs");
 
@@ -526,6 +527,10 @@ eleventyConfig.addFilter(
   }
 );
 
+
+// Descripciones de _data con markdown/HTML (ver lib/texto-rico.js).
+eleventyConfig.addFilter("textoRico", textoRico);
+eleventyConfig.addFilter("textoPlano", textoPlano);
 
 eleventyConfig.addFilter(
   "nl2br",
@@ -1520,7 +1525,7 @@ else {
             card = {
               url: "/badges/" + entry.id + "/",
               title: entry.name,
-              text: entry.description,
+              text: textoPlano(entry.description),
               icon: entry.logo && !entry.generic ? entry.logo : "",
               cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) && fs.statSync(path.join(__dirname, entry.hero_image)).size > 0 ? thumb(entry.hero_image, "badgeHero") : ""
             };
@@ -1552,7 +1557,7 @@ else {
             card = {
               url: paths[kind] + entry.id + "/",
               title: entry.name,
-              text: entry.summary || entry.description || "",
+              text: textoPlano(entry.summary || entry.description || ""),
               symbol: entry.symbol,
               group: entry.group || ""
             };
