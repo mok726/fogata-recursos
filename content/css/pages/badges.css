@@ -784,3 +784,16 @@
   color: #4c554d;
   font-size: 1.1rem;
 }
+
+/* Celular: el hero llena la caja (recorta un poco los costados)
+   en lugar de esfumar arriba y abajo. */
+@media (max-width: 640px) {
+  .badge-hero-image img {
+    top: 0;
+    translate: none;
+    height: 100%;
+    aspect-ratio: auto;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
