@@ -18,10 +18,6 @@
   margin-bottom: 2rem;
   container-type: inline-size;
   background: #1f2a22;
-  /* En pantallas grandes no ocupa todo el ancho: así la imagen
-     entera entra en la pantalla sin quedar gigante. */
-  max-width: min(100%, 1600px, calc((100vh - 120px) * 1792 / 768));
-  margin-inline: auto;
 }
 .badge-hero-image {
   position: absolute;
@@ -797,3 +793,28 @@
     mask-image: none;
   }
 }
+
+/* Un solo ancho para toda la página de insignia: hero, descripción
+   y actividades alinean sus bordes. Tope de 1600 px y, en pantallas
+   bajas, el que hace que el hero entero entre en la pantalla. */
+.badge-hero,
+.badge-content-container,
+.badge-activities-container {
+  --badge-page-w: min(100% - 4rem, 1600px, calc((100vh - 120px) * 1792 / 768));
+  width: var(--badge-page-w);
+  max-width: none;
+  margin-inline: auto;
+}
+.badge-content-container,
+.badge-activities-container {
+  padding-inline: 0;
+}
+@media (max-width: 640px) {
+  .badge-hero,
+  .badge-content-container,
+  .badge-activities-container {
+    --badge-page-w: calc(100% - 1.5rem);
+  }
+}
+.badge-hero { margin-top: 1.5rem; }
+@media (max-width: 640px) { .badge-hero { margin-top: 0.75rem; } }
