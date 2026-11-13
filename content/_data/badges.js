@@ -1208,7 +1208,7 @@ sections: {
 
     {
       id: "rrd",
-      name: "REDUCCIÓN DEL RIESGO DE DESASTRES",
+      name: "Reducción del Riesgo de Desastres",
       description:
         "Reducción del riesgo de desastres.",
       summary:
@@ -1492,7 +1492,7 @@ sections: {
 
     {
       id: "hambre",
-      name: "ACABAR CON EL HAMBRE",
+      name: "Acabar con el Hambre",
       description:
         "Seguridad alimentaria y conciencia social.",
       summary:
@@ -2127,7 +2127,7 @@ sections: {
 
 {
   id: "asdeaprendiendo",
-  name: "Aprendiendo a Ser (Scouts de España)",
+  name: "Aprendiendo a Ser (ASDE)",
   description:
     "Actividades de desarrollo espiritual sobre la libertad, la autoestima, el sentido de la vida y el respeto a los demás, de la publicación «Aprendiendo a ser II» de ASDE - Scouts de España (2011).",
   summary:
@@ -2183,7 +2183,10 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "Esta no es una insignia oficial: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por Scouting for Boys (1908). Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.
+	  \n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908). 
+	  Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. 
+	  Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
@@ -2322,7 +2325,7 @@ sections: {
 },
 {
   id: "asdeambiente",
-  name: "Medio Ambiente y Espiritualidad (Scouts de España)",
+  name: "Medio Ambiente y Espiritualidad (ASDE)",
   description:
     "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
   summary:
@@ -2454,7 +2457,7 @@ sections: {
 },
 {
   id: "asdesaludtic",
-  name: "Salud y TIC (Scouts de España)",
+  name: "Salud y TIC (ASDE)",
   description:
     "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
   summary:
@@ -2557,7 +2560,7 @@ sections: {
 },
 {
   id: "asdecoeducacion",
-  name: "Coeducación: Jugando Juntos y Juntas (Scouts de España)",
+  name: "Coeducación: Jugando Juntos y Juntas (ASDE)",
   description:
     "Actividades para trabajar la igualdad de género: lenguaje, roles, mujeres en la historia y prevención de la violencia, de la campaña «Jugando juntas/os» de ASDE - Scouts de España.",
   summary:
@@ -2622,7 +2625,7 @@ sections: {
   sections: {
     E: {
       title: "Extras",
-      description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y solo documento."
+      description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y yo solo documento."
     },
   }  
 }
