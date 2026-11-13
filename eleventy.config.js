@@ -316,8 +316,12 @@ eleventyConfig.addCollection(
     /^\/listimagenes\//,
     /^\/css\//,
     /^\/feedback\//,
-    /^\/404\.html$/
+    /^\/404\.html$/,
+    /^\/pendientes\//
   ];
+
+  // Página interna de cosas a arreglar (/pendientes/).
+  eleventyConfig.addCollection("pendientes", require("./lib/pendientes.js"));
 
   eleventyConfig.addCollection(
     "sitemapPages",

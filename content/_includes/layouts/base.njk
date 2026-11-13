@@ -252,7 +252,7 @@ put this inside the body
 
   {% include "components/navbar.njk" %}
 
-  <main class="page-container" data-pagefind-body>
+  <main class="page-container"{% if not nosearch %} data-pagefind-body{% endif %}>
 
     {% if prose %}
     <article class="page-content prose-page">
