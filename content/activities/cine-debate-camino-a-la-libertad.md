@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: Camino a la Libertad"
-duration: "2 horas y media (130 min de película y 30 de charla)"
+duration: "2 h 45 min"
+duration_detail: "2 horas y media (130 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-camino-a-la-libertad/"
 description: "Cine-debate con «Camino a la libertad» sobre lo que significa perder y buscar la libertad, y sobre lo que nos sostiene en el camino."

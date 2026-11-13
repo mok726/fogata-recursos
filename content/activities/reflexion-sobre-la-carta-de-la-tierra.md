@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reflexión Sobre la Carta de la Tierra"
-duration: "1 hora y media a 2 horas"
+duration: "1,5 a 2 h"
+duration_detail: "1 hora y media a 2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/reflexion-sobre-la-carta-de-la-tierra/"
 description: "Leer la Carta de la Tierra y, en pequeños grupos, convertir tres de sus principios en propuestas de acción. Una de ellas se vuelve el proyecto de servicio de la Comunidad Rover."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Día del Lavado de Manos"
-duration: "2-3 horas (1-2h preparación + 1h presentación)"
+duration: "2-3 h"
+duration_detail: "2-3 horas (1-2h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-del-lavado-de-manos/"
 description: "Los participantes organizan una campaña educativa sobre el lavado de manos utilizando títeres para enseñar a otros sobre la importancia de este hábito para prevenir enfermedades."

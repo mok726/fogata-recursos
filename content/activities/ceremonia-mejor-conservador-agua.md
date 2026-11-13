@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Ceremonia del Mejor Conservador del Agua"
-duration: "1 hora 10 min (30 min organización + 40 min ceremonia)"
+duration: "1 h 10 min"
+duration_detail: "1 hora 10 min (30 min organización + 40 min ceremonia)"
 layout: "layouts/activity.njk"
 permalink: "/activities/ceremonia-mejor-conservador-agua/"
 description: "Los participantes organizan una ceremonia simbólica para honrar a la naturaleza como la mejor conservadora del agua, reflexionando sobre la importancia de proteger nuestros recursos hídricos."

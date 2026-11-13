@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Mantente al Tanto de las Noticias"
-duration: "1.5 horas (semanal)"
+duration: "1,5 h"
+duration_detail: "1.5 horas (semanal)"
 layout: "layouts/activity.njk"
 permalink: "/activities/mantente-al-tanto-de-las-noticias/"
 description: "Seguimiento de noticias sobre cambio climático y eficiencia energética para mantenerse informado y generar ideas."

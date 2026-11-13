@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Comestibles Energéticos"
-duration: "2 horas + tiempo de cocina"
+duration: "2 h +"
+duration_detail: "2 horas + tiempo de cocina"
 layout: "layouts/activity.njk"
 permalink: "/activities/comestibles-energeticos/"
 description: "Investigación sobre la energía necesaria para producir diferentes alimentos y preparación de una comida de bajo consumo energético."

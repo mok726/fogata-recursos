@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: Diarios de la Calle"
-duration: "2 horas y media (123 min de película y 30 de charla)"
+duration: "2 h 30 min"
+duration_detail: "2 horas y media (123 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-diarios-de-la-calle/"
 description: "Cine-debate con «Diarios de la calle» (Freedom Writers, 2007): una profesora cambia la vida de un curso de adolescentes marginados proponiéndoles escribir un diario."

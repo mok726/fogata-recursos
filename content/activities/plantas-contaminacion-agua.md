@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Plantas y Contaminación del Agua"
-duration: "40 minutos (dos sesiones: 20 min preparación + 20 min discusión)"
+duration: "40 min"
+duration_detail: "40 minutos (dos sesiones: 20 min preparación + 20 min discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-contaminacion-agua/"
 description: "Los participantes realizan un experimento con apio y colorante para demostrar cómo las plantas absorben contaminantes del agua y purifican los humedales."

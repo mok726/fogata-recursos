@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Qué Puede Hacer el Sol por Mí?"
-duration: "1 hora (+ 1 día de desafío)"
+duration: "1 h + 1 día"
+duration_detail: "1 hora (+ 1 día de desafío)"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-puede-hacer-el-sol-por-mi/"
 description: "Hagan una lluvia de ideas con todo lo que el sol hace por nosotros en la vida diaria y animate a pasar un día usando solo energía solar."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Voluntariado"
-duration: "2 horas/semana durante 2 meses"
+duration: "2 meses"
+duration_detail: "2 horas/semana durante 2 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/voluntariado/"
 description: "Participación como voluntario en una organización de conservación ambiental para contribuir activamente a la protección del medio ambiente."

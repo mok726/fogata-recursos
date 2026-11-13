@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Los Ríos Más Largos del Mundo"
-duration: "2 horas (preparación + presentación)"
+duration: "2 h"
+duration_detail: "2 horas (preparación + presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/rios-mas-largos/"
 description: "Los participantes investigan los ríos más largos del mundo y crean carteles informativos sobre ellos, descubriendo los beneficios que aportan a los seres vivos."

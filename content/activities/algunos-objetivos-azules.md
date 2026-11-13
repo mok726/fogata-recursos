@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Algunos Objetivos Azules"
-duration: "2 horas (1h preparación + 1h presentación)"
+duration: "2 h"
+duration_detail: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/algunos-objetivos-azules/"
 description: "Los participantes investigan los Objetivos de Desarrollo del Milenio (ODM) y su relación con el agua y el saneamiento, presentando sus hallazgos al grupo."

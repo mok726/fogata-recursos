@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Especies Raras de Árboles"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-raras-de-arboles/"
 description: "Búsqueda y plantación de especies raras de árboles nativos para conservar la biodiversidad local."

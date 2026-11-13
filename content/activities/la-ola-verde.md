@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La Ola Verde"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-ola-verde/"
 description: "Participación en La Ola Verde, una campaña mundial de plantación de árboles en el Día de la Biodiversidad."

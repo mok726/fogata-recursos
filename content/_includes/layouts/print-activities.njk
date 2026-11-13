@@ -84,7 +84,7 @@
 
       {% if activity.data.duration %}
       <div class="meta-item">
-        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">schedule</span>  {{ activity.data.duration  or "N/E" }}
+        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">schedule</span>  {{ activity.data.duration  or "N/E" }}{% if activity.data.duration_detail %} ({{ activity.data.duration_detail }}){% endif %}
       </div>
       {% endif %}
 

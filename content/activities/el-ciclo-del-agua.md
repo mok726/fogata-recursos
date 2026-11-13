@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "El Ciclo del Agua"
-duration: "1 hora + tiempo de exposición al sol"
+duration: "1 h +"
+duration_detail: "1 hora + tiempo de exposición al sol"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-ciclo-del-agua/"
 description: "Los participantes realizan un experimento para demostrar cómo funciona el ciclo del agua, incluyendo evaporación, condensación y precipitación."

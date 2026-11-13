@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Las Huellas de Plástico Más Grandes"
-duration: "20-25 minutos (más seguimiento)"
+duration: "20-25 min +"
+duration_detail: "20-25 minutos (más seguimiento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/huellas-de-plastico-mas-grandes/"
 description: "Los jóvenes compiten en equipos para recolectar y comparar la cantidad de plástico que usan durante un período, reflexionando sobre su consumo y buscando formas de reducirlo."

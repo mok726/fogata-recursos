@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Experto en Cuencas y Agua"
-duration: "1 hora 10 min (10 min explicación + 1 hora visita/charla)"
+duration: "1 h 10 min"
+duration_detail: "1 hora 10 min (10 min explicación + 1 hora visita/charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/experto-cuencas-agua/"
 description: "Los participantes invitan a un representante del gobierno local para aprender sobre las iniciativas que se implementan para mantener una cuenca saludable y prevenir la contaminación del agua."

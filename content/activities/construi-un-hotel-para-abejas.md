@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Construí un Hotel para Abejas"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-un-hotel-para-abejas/"
 description: "Construcción de un hotel para abejas en tu hogar, escuela o jardín comunitario para proporcionar refugio a polinizadores solitarios."

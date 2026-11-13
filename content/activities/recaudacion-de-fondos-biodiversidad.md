@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Recaudación de Fondos"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/recaudacion-de-fondos-biodiversidad/"
 description: "Organización de una actividad de recaudación de fondos para una causa relacionada con la biodiversidad."

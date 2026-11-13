@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: Buscando a Nemo"
-duration: "2 horas (90 min de película y 20 de charla)"
+duration: "2 h"
+duration_detail: "2 horas (90 min de película y 20 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-buscando-a-nemo/"
 description: "Cine-debate con «Buscando a Nemo» para charlar con los más chicos sobre la libertad y sobre el cariño de quienes nos cuidan."

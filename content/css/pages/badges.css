@@ -724,3 +724,8 @@
     font-size: 1.4rem;
   }
 }
+
+/* Insignias sin guía: sin columna lateral vacía */
+.badge-layout.badge-layout--solo {
+  grid-template-columns: minmax(0, 1fr);
+}

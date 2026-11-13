@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Construcción de Estanque"
-duration: "3 horas + seguimiento"
+duration: "3 h +"
+duration_detail: "3 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construccion-de-estanque/"
 description: "Creación de un nuevo estanque como hábitat para insectos, anfibios y plantas nativas."

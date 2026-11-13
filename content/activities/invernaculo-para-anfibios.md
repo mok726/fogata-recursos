@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Invernáculo para Anfibios"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/invernaculo-para-anfibios/"
 description: "Construcción de un invernáculo para anfibios que proporcione un hábitat adecuado para su hibernación."

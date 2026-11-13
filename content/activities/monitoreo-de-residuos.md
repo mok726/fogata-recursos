@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Monitoreo de Mis Residuos"
-duration: "3 semanas (4 horas cada semana)"
+duration: "3 semanas"
+duration_detail: "3 semanas (4 horas cada semana)"
 layout: "layouts/activity.njk"
 permalink: "/activities/monitoreo-de-residuos/"
 description: "Los participantes registran y pesan sus residuos domésticos durante una semana, visitan una instalación de gestión de residuos y desarrollan ideas para reducir el desperdicio."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Fotografía de la Naturaleza"
-duration: "2 horas + exposición"
+duration: "2 h +"
+duration_detail: "2 horas + exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/fotografia-de-la-naturaleza/"
 description: "Exploración y documentación fotográfica de espacios verdes urbanos para crear una exposición que promueva su importancia."

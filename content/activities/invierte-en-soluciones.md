@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Invierte en Soluciones"
-duration: "2 horas + recaudación"
+duration: "2 h +"
+duration_detail: "2 horas + recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/invierte-en-soluciones/"
 description: "Investigación de iniciativas climáticas y organización de una recaudación de fondos para apoyar una solución al cambio climático."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Caminata Segura por la Ruta"
-duration: "90 minutos de taller + la caminata"
+duration: "90 min +"
+duration_detail: "90 minutos de taller + la caminata"
 layout: "layouts/activity.njk"
 permalink: "/activities/caminata-segura-por-la-ruta/"
 description: "Taller y práctica para que Caminantes y Rovers planifiquen y hagan con seguridad un tramo a pie por el costado de una ruta, entre un campamento y otro o en una excursión."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reportero del Agua"
-duration: "2 horas (en dos reuniones) + trabajo en casa"
+duration: "2 h +"
+duration_detail: "2 horas (en dos reuniones) + trabajo en casa"
 layout: "layouts/activity.njk"
 permalink: "/activities/reportero-del-agua/"
 description: "En equipos, hagan videos sobre las causas principales de la falta de agua segura y suficiente."

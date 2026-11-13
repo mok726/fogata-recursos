@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Fogón por Patrullas"
-duration: "60 minutos por noche"
+duration: "60 min/noche"
+duration_detail: "60 minutos por noche"
 layout: "layouts/activity.njk"
 permalink: "/activities/fogon-por-patrullas/"
 description: "Propuesta de Baden-Powell para el fogón: todos aportan algo, y cada noche una patrulla distinta prepara el programa."

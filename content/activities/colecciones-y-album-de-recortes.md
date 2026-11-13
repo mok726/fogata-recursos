@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Colecciones y Álbum de Recortes"
-duration: "60 minutos + continuidad en casa"
+duration: "60 min +"
+duration_detail: "60 minutos + continuidad en casa"
 layout: "layouts/activity.njk"
 permalink: "/activities/colecciones-y-album-de-recortes/"
 description: "Baden-Powell propone coleccionar dibujos propios (flores, banderas) y llevar un álbum de recortes, con su receta de engrudo y su truco del diario para pegar."

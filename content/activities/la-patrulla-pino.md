@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La Patrulla Pino: Cada Uno con su Tarea"
-duration: "60 minutos + el campamento"
+duration: "60 min +"
+duration_detail: "60 minutos + el campamento"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-patrulla-pino/"
 description: "Repartir las tareas del campamento con el sistema de la Patrulla Pino: cada número tiene un puesto, un saber y un reemplazo."

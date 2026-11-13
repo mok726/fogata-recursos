@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Armar un Plano Dufour"
-duration: "Media jornada a una jornada"
+duration: "4 a 8 h"
+duration_detail: "Media jornada a una jornada"
 layout: "layouts/activity.njk"
 permalink: "/activities/armar-un-plano-dufour/"
 description: "Recorré una ruta, anotá cada cruce y referencia del terreno, y dibujá el plano Dufour para que otra patrulla o la Unidad Scout lo siga."

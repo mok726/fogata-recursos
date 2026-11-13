@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Auditoría de Desperdicios"
-duration: "1.5 horas + seguimiento"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-desperdicios/"
 description: "Realización de una auditoría de desperdicios en el hogar o escuela para reducir la cantidad de desechos."

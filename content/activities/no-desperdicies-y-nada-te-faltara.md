@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "No Desperdicies y Nada Te Faltará"
-duration: "1 semana + seguimiento"
+duration: "1 semana +"
+duration_detail: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/no-desperdicies-y-nada-te-faltara/"
 description: "Seguimiento del desperdicio de alimentos en el hogar y desarrollo de estrategias para reducirlo."

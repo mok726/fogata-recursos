@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Día de Azul"
-duration: "1 hora 10 min (40 min organización + 30 min discusión)"
+duration: "1 h 10 min"
+duration_detail: "1 hora 10 min (40 min organización + 30 min discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-de-azul/"
 description: "Los participantes organizan un 'Día de Azul' en su escuela o lugar de reunión para concienciar sobre la importancia del agua y el saneamiento, vistiendo de azul y compartiendo mensajes."

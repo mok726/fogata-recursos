@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Adoptá un Área Natural"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-area-natural/"
 description: "Adopción y limpieza de un área natural para hacer un inventario de su biodiversidad y dependencias entre especies."

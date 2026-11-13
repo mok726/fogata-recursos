@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Alimentador de Aves"
-duration: "2 horas + 2 semanas de observación"
+duration: "2 h + 2 semanas"
+duration_detail: "2 horas + 2 semanas de observación"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentador-de-aves/"
 description: "Construcción de un alimentador de aves con materiales reciclados para observar y registrar las especies visitantes."

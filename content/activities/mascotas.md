@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Mascotas"
-duration: "Varias semanas (en casa) + 30 minutos de puesta en común"
+duration: "Varias semanas"
+duration_detail: "Varias semanas (en casa) + 30 minutos de puesta en común"
 layout: "layouts/activity.njk"
 permalink: "/activities/mascotas/"
 description: "Baden-Powell propone tener una mascota para aprender cómo viven los animales y practicar que \"un Scout es amigo de los animales\": comida a horario, limpieza y cuidado."
