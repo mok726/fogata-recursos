@@ -2562,8 +2562,8 @@ sections: {
     "Actividades para trabajar la igualdad de género: lenguaje, roles, mujeres en la historia y prevención de la violencia, de la campaña «Jugando juntas/os» de ASDE - Scouts de España.",
   summary:
     "**Esta no es una insignia oficial**: es una colección de actividades tomadas de la **«Recopilación de experiencias de la campaña 2012 Jugando juntos/as»**, que la *Red de Igualdad de Género y Coeducación* de *ASDE - Scouts de España* publicó en 2013.\n\n<p> Reúne las actividades que los grupos scouts de toda España hicieron en esa campaña.\n\n<p>Las secciones siguen los tres bloques de la publicación.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
-  logo: "/imagenes/insignias/general-logo.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  logo: "/imagenes/insignias/asdecoeducacion-logo.png",
+  hero_image: "/imagenes/insignias/asdecoeducacion-hero.png",
   sources: [
     {
       name: "ASDE - Scouts de España, Recopilación de experiencias de la campaña 2012 Jugando juntos/as (2013) – Biblioteca Scout",
