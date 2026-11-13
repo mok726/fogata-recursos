@@ -50,10 +50,11 @@ async function shareActivity() {
   {# ===== HERO CON IMAGEN DE FONDO ===== #}
   {% set heroImage = image or '/imagenes/actividades/activity-card.png' %}
   <div class="activity-hero" style="--hero-img: url('{{ heroImage | url }}');">
-    <div class="activity-hero-container">
+    <div class="activity-hero-container"
+      data-pagefind-meta="edades:{{ ( age_group | ageRange ) or 'Todas las edades' }}">
       <div class="hero-left">
         {% if main_type %}
-        <a class="hero-category" href="{{ ('/activityType/' + (main_type | string | slugify) + '/') | url }}" title="Ver actividades de este tipo">{{ main_type }}</a>
+        <a class="hero-category" data-pagefind-meta="tipo" href="{{ ('/activityType/' + (main_type | string | slugify) + '/') | url }}" title="Ver actividades de este tipo">{{ main_type }}</a>
         {% else %}
         <div class="hero-category">{{ ((etiquetas or []) | first) or "Actividad" }}</div>
         {% endif %}
@@ -66,7 +67,7 @@ async function shareActivity() {
 {% endif %}
 {% endif %}
 </h1>
-        <p class="hero-description">{{ summary or description }}</p>
+        <p class="hero-description" data-pagefind-meta="resumen">{{ summary or description }}</p>
 
 <div class="hero-metrics">
   <span><span class="material-symbols-outlined" aria-hidden="true">groups</span> {{ participants or "N/E" }}</span>

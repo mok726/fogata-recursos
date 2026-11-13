@@ -327,7 +327,11 @@ input.addEventListener("input", async () => {
     ? results.map(r => `
         <a class="home-search-result" href="${r.url}">
           <strong>${escapeHtml(r.meta.title || "Sin título")}</strong>
-          <span>${r.excerpt || ""}</span>
+          ${r.meta.tipo || r.meta.edades
+            ? `<em class="home-search-meta">${escapeHtml([r.meta.tipo, r.meta.edades].filter(Boolean).join(" · "))}</em>`
+            : ""}
+          ${r.meta.resumen ? `<span>${escapeHtml(r.meta.resumen)}</span>` : ""}
+          <small class="home-search-excerpt">${r.excerpt || ""}</small>
         </a>`).join("")
       + `<button type="submit" class="home-search-all">Ver todas las actividades con «${escapeHtml(query)}»</button>`
     : `<p class="home-search-empty">Sin resultados para «${escapeHtml(query)}».</p>`;

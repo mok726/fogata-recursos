@@ -1,0 +1,7 @@
+# Configuración del índice de búsqueda (Pagefind).
+# Los íconos (Material Symbols se escriben como texto: "schedule",
+# "license"...) y la marca de versión no deben indexarse ni
+# aparecer en los fragmentos de resultados.
+exclude_selectors:
+  - ".material-symbols-outlined"
+  - ".hero-version"

@@ -218,6 +218,36 @@ body:has(.home) {
   color: var(--home-muted);
 }
 
+.home-search-meta {
+  display: block;
+  margin-top: .15rem;
+  font-size: .78rem;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  color: var(--home-fire-dark);
+}
+
+/* Fragmento donde apareció la palabra: dos líneas como máximo. */
+.home-search-excerpt {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: .3rem;
+  font-size: .8rem;
+  line-height: 1.35;
+  color: var(--home-muted);
+}
+
+.home-search-excerpt mark {
+  padding: 0 .15em;
+  border-radius: 3px;
+  background: #fde3c8;
+  color: inherit;
+}
+
 .home-search-all {
   width: 100%;
   margin-top: .3rem;
