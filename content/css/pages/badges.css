@@ -6,21 +6,46 @@
    front-matter `styles:`)
    ========================================= */
 
+/* El hero muestra la imagen COMPLETA (1792×768): la caja mide al
+   menos esa proporción y, si el texto pide más alto, la imagen va
+   centrada con los bordes de arriba y abajo esfumados sobre la
+   misma imagen desenfocada (igual que en las fichas). */
 .badge-hero {
   position: relative;
   min-height: 320px;
   border-radius: 28px;
   overflow: hidden;
   margin-bottom: 2rem;
+  container-type: inline-size;
+  background: #1f2a22;
+  /* En pantallas grandes no ocupa todo el ancho: así la imagen
+     entera entra en la pantalla sin quedar gigante. */
+  max-width: min(100%, 1600px, calc((100vh - 120px) * 1792 / 768));
+  margin-inline: auto;
 }
 .badge-hero-image {
   position: absolute;
   inset: 0;
+  overflow: hidden;
+}
+.badge-hero-image::before {
+  content: "";
+  position: absolute;
+  inset: -30px;
+  background: var(--hero-img) center / cover no-repeat;
+  filter: blur(14px) brightness(0.9);
 }
 .badge-hero-image img {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  translate: 0 -50%;
   width: 100%;
-  height: 100%;
+  height: auto;
+  aspect-ratio: 1792 / 768;
   object-fit: cover;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 12%, #000 88%, transparent);
 }
 .badge-hero::after {
   content: "";
@@ -41,7 +66,7 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  min-height: 420px;
+  min-height: calc(100cqw * 768 / 1792);
   padding: 3rem 3rem 2.5rem 3rem;
   max-width: 650px;
 }
@@ -758,4 +783,17 @@
 .badge-summary-text li {
   color: #4c554d;
   font-size: 1.1rem;
+}
+
+/* Celular: el hero llena la caja (recorta un poco los costados)
+   en lugar de esfumar arriba y abajo. */
+@media (max-width: 640px) {
+  .badge-hero-image img {
+    top: 0;
+    translate: none;
+    height: 100%;
+    aspect-ratio: auto;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
 }

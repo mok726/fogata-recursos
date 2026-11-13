@@ -1095,3 +1095,19 @@ a.tag:focus-visible {
   margin-top: 0.15rem;
 }
 
+
+/* Celular: el hero llena la caja (recorta un poco los costados)
+   en lugar de esfumar arriba y abajo. */
+@media (max-width: 640px) {
+  .activity-hero::after {
+    inset: 0;
+    translate: none;
+    width: auto;
+    aspect-ratio: auto;
+    background:
+      linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+      var(--hero-img) center / cover no-repeat;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+}
