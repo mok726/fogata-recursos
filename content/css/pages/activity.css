@@ -17,8 +17,8 @@
 /* La imagen se ve COMPLETA: la caja toma la proporción de las
    imágenes (1792×768) y la imagen va con contain. Si el texto
    necesita más alto que eso, lo que sobra se rellena con la misma
-   imagen desenfocada en lugar de recortarla. En móvil la imagen va
-   arriba entera y el texto debajo. */
+   imagen desenfocada en lugar de recortarla (pasa sobre todo en
+   móvil, donde el texto queda sobreimpreso igual que en escritorio). */
 .activity-hero {
   width: 100%;
   margin: 0;
@@ -26,8 +26,9 @@
   position: relative;
   isolation: isolate;
   overflow: hidden;
-  aspect-ratio: 1792 / 768;
-  max-height: 85vh;
+  /* El hero ocupa todo el ancho: alto mínimo = proporción de la
+     imagen (con tope 85vh); si el texto pide más, crece. */
+  min-height: min(calc(100vw * 768 / 1792), 85vh);
   display: flex;
   align-items: center;
   background: #1f2a22;
@@ -1081,18 +1082,3 @@ a.tag:focus-visible {
   margin-top: 0.15rem;
 }
 
-/* Hero en móvil: imagen entera arriba, texto abajo sobre el
-   desenfocado (así el texto no tapa la imagen). */
-@media (max-width: 640px) {
-  .activity-hero {
-    aspect-ratio: auto;
-    max-height: none;
-    display: block;
-    padding: calc(100vw * 768 / 1792 + 1rem) 1rem 1.5rem;
-  }
-  .activity-hero::after {
-    inset: 0 0 auto 0;
-    aspect-ratio: 1792 / 768;
-    background: var(--hero-img) center / contain no-repeat;
-  }
-}
