@@ -149,9 +149,9 @@ collections.activities
 
 </div>
     {% if badge.description %}
-      <p class="badge-tagline">
-        {{ badge.description }}
-      </p>
+      <div class="badge-tagline">
+        {{ badge.description | textoRico | safe }}
+      </div>
     {% endif %}
 
     <div class="badge-stats">
@@ -209,9 +209,9 @@ collections.activities
               Sobre esta insignia
             </h3>
 
-            <p>
-              {{ badge.summary }}
-            </p>
+            <div class="badge-summary-text">
+              {{ badge.summary | textoRico | safe }}
+            </div>
 
           </div>
 
@@ -236,9 +236,9 @@ collections.activities
           </div>
            {% if badge.requirements.summary %}
 
-             <p>
-               {{ badge.requirements.summary }}
-             </p>
+             <div class="badge-requirements-summary">
+               {{ badge.requirements.summary | textoRico | safe }}
+             </div>
 
            {% endif %}
 
@@ -254,8 +254,8 @@ collections.activities
                     ✓
                     </div>
 
-                    <div>
-                      {{ rule }}
+                    <div class="badge-rule-text">
+                      {{ rule | textoRico | safe }}
                     </div>
 
                   </div>
@@ -589,7 +589,7 @@ collections.activities
             <div class="badge-section-description-row">
               {% if section.description %}
 
-                {{ section.description | safe }}
+                {{ section.description | textoRico | safe }}
 
               {% endif %}
             </div>

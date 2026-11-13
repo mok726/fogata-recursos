@@ -2183,7 +2183,7 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él. /n/n<p>	  \n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908).  /n/n<p>	  Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. /n/n<p>	  Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
@@ -2254,7 +2254,7 @@ sections: {
   description:
     "Juegos, danzas y prácticas para la Manada tomados del Wolf Cub's Handbook de Robert Baden-Powell.",
   summary:
-    "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: *The Wolf Cub's Handbook* (1916). /n/n<p> Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: *The Wolf Cub's Handbook* (1916).\n\nLas actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/bpmanada-logo.png",
   hero_image: "/imagenes/insignias/bpmanada-hero.png",
   sources: [
@@ -2510,7 +2510,7 @@ sections: {
   description:
     "Aprender a moverse seguros por la calle, la ruta y en bici: señales, cruces, caminatas y travesías.",
   summary:
-    "**No es una Insignia oficial*, sino una creación propia de Fogata de Recursos. \n\n<p>Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\n<p>Las señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). \n\n<p>Donde hace falta citar una ley o un organismo, va como ejemplo las de Argentina: consultá las normas de tu país.",
+    "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\n<p>Las señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). \n\n<p>Donde hace falta citar una ley o un organismo, va como ejemplo las de Argentina: consultá las normas de tu país.",
   logo: "/imagenes/insignias/vial-logo.png",
   hero_image: "/imagenes/insignias/vial-hero.png",
   sources: [
