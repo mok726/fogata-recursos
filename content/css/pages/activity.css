@@ -38,20 +38,33 @@
 .activity-hero::after {
   content: "";
   position: absolute;
-  z-index: -1;
+  pointer-events: none;
 }
 
+/* Relleno: la misma imagen ampliada y desenfocada. */
 .activity-hero::before {
+  z-index: -2;
   inset: -30px;
-  background: var(--hero-img) center / cover no-repeat;
-  filter: blur(22px) brightness(0.6);
-}
-
-.activity-hero::after {
-  inset: 0;
   background:
     linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
-    var(--hero-img) center / contain no-repeat;
+    var(--hero-img) center / cover no-repeat;
+  filter: blur(14px) brightness(0.9);
+}
+
+/* La imagen entera, centrada, con los bordes de arriba y abajo
+   esfumados hacia el relleno (sin cortes ni franjas). */
+.activity-hero::after {
+  z-index: -1;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  width: min(100%, calc(85vh * 1792 / 768));
+  aspect-ratio: 1792 / 768;
+  background:
+    linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    var(--hero-img) center / 100% 100% no-repeat;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent);
 }
 
 .activity-hero-container {
