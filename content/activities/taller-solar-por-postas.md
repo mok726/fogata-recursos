@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Organizar un Taller Solar por Postas"
-duration: "Medio día (unos 140 minutos de taller)"
+duration: "Medio día"
+duration_detail: "Medio día (unos 140 minutos de taller)"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-solar-por-postas/"
 description: "Organizá un taller de introducción a la energía solar por postas, para otro grupo o para la comunidad, en una plaza, una feria o cualquier lugar público."

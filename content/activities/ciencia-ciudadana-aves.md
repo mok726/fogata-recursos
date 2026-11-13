@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Ciencia Ciudadana - Aves"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciencia-ciudadana-aves/"
 description: "Participación en un proyecto de ciencia ciudadana sobre aves para recolectar información científica y contribuir a la investigación."

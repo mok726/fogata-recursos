@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Compostaje"
-duration: "1 hora + seguimiento de 3 meses"
+duration: "1 h + 3 meses"
+duration_detail: "1 hora + seguimiento de 3 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/compostaje/"
 description: "Aprendizaje sobre el compostaje y creación de un compostador para reducir residuos orgánicos."

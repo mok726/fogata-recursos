@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "El Agua Subterránea"
-duration: "1 hora 40 minutos (dos sesiones de 50 min)"
+duration: "1 h 40 min"
+duration_detail: "1 hora 40 minutos (dos sesiones de 50 min)"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-subterranea/"
 description: "Los participantes leen una historia de detectives sobre la calidad del agua subterránea y aprenden sobre la importancia de monitorear los cuerpos de agua para proteger los hábitats acuáticos."

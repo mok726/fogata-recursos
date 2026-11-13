@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Conservación Práctica"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conservacion-practica/"
 description: "Participación activa en conservación uniéndose a una organización y visitando un centro de rescate de animales."

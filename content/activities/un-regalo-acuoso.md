@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Un Regalo Acuoso"
-duration: "1.5 horas + mantenimiento"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + mantenimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-regalo-acuoso/"
 description: "Creación de una fuente de agua para polinizadores en tu jardín escolar o del hogar."

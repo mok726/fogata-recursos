@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Club de Intercambio"
-duration: "En curso (cada 6 meses)"
+duration: "Cada 6 meses"
+duration_detail: "En curso (cada 6 meses)"
 layout: "layouts/activity.njk"
 permalink: "/activities/club-de-intercambio/"
 description: "Organización de un club de intercambio de objetos para reducir el consumo y promover la reutilización en la comunidad."

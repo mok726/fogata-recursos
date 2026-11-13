@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Anuncios del Agua"
-duration: "2-3 horas (40 min organización + 1-2h grabación)"
+duration: "2-3 h"
+duration_detail: "2-3 horas (40 min organización + 1-2h grabación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/anuncios-del-agua/"
 description: "Los participantes crean anuncios publicitarios en video o audio sobre el agua y el saneamiento para concienciar sobre la importancia de tomar decisiones saludables."

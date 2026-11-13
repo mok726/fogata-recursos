@@ -1,6 +1,7 @@
 ---
 title: "Acidificación del Océano"
-duration: "1 semana (60 minutos de trabajo)"
+duration: "1 semana"
+duration_detail: "1 semana (60 minutos de trabajo)"
 layout: "layouts/activity.njk"
 permalink: "/activities/acidificacion-del-oceano/"
 description: "Experimento para entender cómo la acidificación del océano afecta a la vida marina, especialmente a los organismos con conchas."

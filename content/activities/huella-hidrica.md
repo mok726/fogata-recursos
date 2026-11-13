@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Huella Hídrica"
-duration: "1.5 horas + seguimiento"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/huella-hidrica/"
 description: "Cálculo de la huella hídrica personal y familiar para tomar conciencia del consumo de agua."

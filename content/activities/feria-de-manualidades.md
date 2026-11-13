@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Feria de Manualidades"
-duration: "Proyecto de varias semanas"
+duration: "Varias semanas"
+duration_detail: "Proyecto de varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/feria-de-manualidades/"
 description: "Propuesta de Baden-Powell: un concurso de objetos hechos por los scouts con materiales casi gratuitos, con exposición, números artísticos y subasta final."

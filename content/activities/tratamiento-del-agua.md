@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Tratamiento del Agua"
-duration: "1 hora (visita o charla)"
+duration: "1 h"
+duration_detail: "1 hora (visita o charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/tratamiento-del-agua/"
 description: "Los participantes aprenden cómo el agua entra y sale de los hogares, y cómo es tratada antes y después de su uso a través de una visita o charla con un experto local."

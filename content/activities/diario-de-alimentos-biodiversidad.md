@@ -2,7 +2,8 @@
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diario de Alimentos"
 seo_title: "Diario de Alimentos (Insignia Biodiversidad)"
-duration: "1 semana + seguimiento"
+duration: "1 semana +"
+duration_detail: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-biodiversidad/"
 description: "Registro de alimentos consumidos durante una semana para identificar la biodiversidad en la dieta."

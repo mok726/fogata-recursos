@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Cómo Afecta la Contaminación a la Naturaleza?"
-duration: "1 hora (preparación) + 5 sesiones de 10 min (observación) + 30 min (discusión)"
+duration: "2 h 20 min"
+duration_detail: "1 hora (preparación) + 5 sesiones de 10 min (observación) + 30 min (discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/como-afecta-contaminacion-naturaleza/"
 description: "Los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de poroto."

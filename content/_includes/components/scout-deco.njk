@@ -1,5 +1,6 @@
 {# Íconos scout de fondo: los mismos adornos de hero-bosque.svg
-   (brújula, nudo, huellas, carpa, hoja, estrella) repartidos
+   (brújula, nudo, huellas, carpa, hoja, estrella) más pino, fogata,
+   montaña, luna, mochila, pájaro, hongo, farol y canoa, repartidos
    detrás del contenido. Puramente decorativo: aria-hidden y sin
    eventos. Las posiciones las arma el script según el alto de la
    página, con semilla en la URL para que cada página tenga su
@@ -12,6 +13,15 @@
     <symbol id="sd-carpa" viewBox="-66 -48 132 82"><path d="M-48 30L0-34 48 30Z"/><path d="M0-34L-10 30M0-34L10 30M-10 30L0 6 10 30"/><path d="M0-34l-6-10M0-34l6-10M-62 30H62"/></symbol>
     <symbol id="sd-hoja" viewBox="-18 -28 36 58"><path d="M0 20C-14 6-12-14 0-24 12-14 14 6 0 20Z"/><path d="M0 26V-18M0 0l-6-6M0 8l6-6M0-8l-5-5"/></symbol>
     <symbol id="sd-estrella" viewBox="-11 -11 22 22"><path d="M0-9Q0 0 9 0Q0 0 0 9Q0 0-9 0Q0 0 0-9Z"/></symbol>
+    <symbol id="sd-pino" viewBox="-30 -44 60 88"><path d="M0-40L-14-16H-6L-20 6H-8L-24 28H24L8 6H20L6-16H14Z"/><path d="M-4 28V40H4V28"/></symbol>
+    <symbol id="sd-fogata" viewBox="-40 -44 80 84"><path d="M-30 32L30 18M-30 18L30 32"/><path d="M0 14C-14 6-12-8-4-18C-4-8 2-8 2-14C10-6 14 6 0 14Z"/><path d="M0 9C-4 6-4 1 0-3 4 1 4 6 0 9Z" stroke-width="1.4"/></symbol>
+    <symbol id="sd-montana" viewBox="-60 -36 120 70"><path d="M-56 30L-20-20-4 4 14-28 56 30Z"/><path d="M6-16l8 5 6-5M-28-8l8 4 5-5" stroke-width="1.4"/></symbol>
+    <symbol id="sd-luna" viewBox="-24 -24 48 48"><path d="M8-20A20 20 0 1 0 8 20 16 16 0 1 1 8-20Z"/></symbol>
+    <symbol id="sd-mochila" viewBox="-28 -38 56 76"><path d="M-20-14C-20-26 20-26 20-14V30H-20Z"/><path d="M-20-8H20M-12 6H12V22H-12Z"/><path d="M-8-24C-8-34 8-34 8-24"/></symbol>
+    <symbol id="sd-pajaro" viewBox="-30 -14 60 28"><path d="M-26 0C-18-10-8-8 0 2 8-8 18-10 26 0"/></symbol>
+    <symbol id="sd-hongo" viewBox="-30 -30 60 60"><path d="M-26 0C-26-22 26-22 26 0Z"/><path d="M-8 0V22H8V0"/><path d="M-12-10h1M6-14h1M12-6h1" stroke-width="3"/></symbol>
+    <symbol id="sd-farol" viewBox="-20 -38 40 72"><path d="M-12-20H12L8 24H-8Z"/><path d="M-6-20V-28H6V-20M0-28V-34M-14 24H14"/><path d="M0-8C-4-2-4 4 0 8 4 4 4-2 0-8Z" stroke-width="1.4"/></symbol>
+    <symbol id="sd-canoa" viewBox="-60 -32 120 60"><path d="M-54 4C-30 22 30 22 54 4Z"/><path d="M-54 4H54" stroke-width="1.4"/><path d="M26-28L6 12M6 12l-5 9 9-3Z"/></symbol>
   </defs>
 </svg>
 <div class="scout-deco" aria-hidden="true" data-seed="{{ page.url }}"></div>
@@ -20,7 +30,9 @@
   var layer = document.querySelector('.scout-deco');
   if (!layer || !('ResizeObserver' in window)) return;
 
-  var ICONS = ['brujula', 'nudo', 'huellas', 'carpa', 'hoja', 'brujula', 'huellas', 'estrella'];
+  var ICONS = ['brujula', 'nudo', 'huellas', 'carpa', 'hoja', 'pino',
+               'fogata', 'montana', 'luna', 'mochila', 'pajaro', 'hongo',
+               'farol', 'canoa', 'huellas', 'pino', 'hoja'];
   var NS = 'http://www.w3.org/2000/svg';
   var lastH = 0, lastW = 0, timer;
 
@@ -43,24 +55,18 @@
 
     var rand = rng(layer.dataset.seed || location.pathname);
     var narrow = w < 700;
-    var step = narrow ? 360 : 230;     // un ícono cada ~step px de alto
+    var step = narrow ? 260 : 170;     // una fila cada ~step px de alto
     var frag = document.createDocumentFragment();
-    var side = rand() < 0.5;
+    var lastName = '', lastMid = -100;
 
-    // Desde debajo de la barra de navegación hasta antes del pie.
-    for (var y = 140; y < h - 200; y += step * (0.7 + rand() * 0.6)) {
-      side = !side;
-      var name = ICONS[Math.floor(rand() * ICONS.length)];
-      var size = name === 'estrella' ? 18 + rand() * 14
-               : narrow ? 36 + rand() * 20 : 56 + rand() * 44;
-      // Mayormente en los costados (asoman entre/alrededor de las
-      // cards); de vez en cuando uno al medio, tapado en parte.
-      var mid = rand() < 0.2;
-      var x = mid ? 20 + rand() * 60
-            : side ? 2 + rand() * (narrow ? 4 : 8)
-                   : 98 - rand() * (narrow ? 4 : 8);
-      if (mid) size *= 1.5;
+    function pick() {
+      var n;
+      do { n = ICONS[Math.floor(rand() * ICONS.length)]; } while (n === lastName);
+      lastName = n;
+      return n;
+    }
 
+    function put(name, x, y, size, op) {
       var svg = document.createElementNS(NS, 'svg');
       var use = document.createElementNS(NS, 'use');
       use.setAttribute('href', '#sd-' + name);
@@ -71,8 +77,39 @@
         'width:' + Math.round(size) + 'px;height:' + Math.round(size) + 'px;' +
         '--r:' + Math.round(rand() * 50 - 25) + 'deg;' +
         '--d:' + (9 + rand() * 8).toFixed(1) + 's;' +
-        '--o:' + ((narrow ? 0.14 : 0.18) + rand() * 0.1).toFixed(2);
+        '--o:' + op.toFixed(2);
       frag.appendChild(svg);
+    }
+
+    function iconSize(name, k) {
+      if (name === 'estrella') return 16 + rand() * 14;
+      return (narrow ? 34 + rand() * 20 : 52 + rand() * 40) * (k || 1);
+    }
+
+    // Desde debajo de la barra de navegación hasta antes del pie.
+    // Cada fila: un ícono en cada costado (desfasados en alto), a
+    // veces uno en la zona central y estrellitas sueltas.
+    for (var y = 140; y < h - 200; y += step * (0.75 + rand() * 0.5)) {
+      var base = (narrow ? 0.13 : 0.17);
+      var n = pick();
+      put(n, 2 + rand() * (narrow ? 4 : 9), y, iconSize(n), base + rand() * 0.1);
+      n = pick();
+      put(n, 98 - rand() * (narrow ? 4 : 9), y + step * (0.3 + rand() * 0.4),
+          iconSize(n), base + rand() * 0.1);
+
+      if (rand() < (narrow ? 0.35 : 0.6)) {
+        // Zona central: lejos del ícono central anterior para que no
+        // se amontonen en la misma columna.
+        var x;
+        do { x = 18 + rand() * 64; } while (Math.abs(x - lastMid) < 18);
+        lastMid = x;
+        n = pick();
+        put(n, x, y + rand() * step * 0.6, iconSize(n, 1.2), base - 0.02 + rand() * 0.08);
+      }
+      if (rand() < 0.45) {
+        put('estrella', 10 + rand() * 80, y + rand() * step, iconSize('estrella'),
+            base + rand() * 0.1);
+      }
     }
     layer.replaceChildren(frag);
   }

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Limpieza de Arroyo"
-duration: "1 hora (organización) + 1 mañana (ejecución)"
+duration: "1 h + 1 mañana"
+duration_detail: "1 hora (organización) + 1 mañana (ejecución)"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-arroyo/"
 description: "Los participantes organizan y realizan una limpieza de un arroyo local, aprendiendo cómo acciones simples pueden mejorar el medio ambiente y la calidad del agua."

@@ -14,13 +14,57 @@
 }
 
 /* ---------- HERO ---------- */
+/* La imagen se ve COMPLETA: la caja toma la proporción de las
+   imágenes (1792×768) y la imagen va con contain. Si el texto
+   necesita más alto que eso, lo que sobra se rellena con la misma
+   imagen desenfocada en lugar de recortarla (pasa sobre todo en
+   móvil, donde el texto queda sobreimpreso igual que en escritorio). */
 .activity-hero {
-  background-size: cover;
-  background-position: center;
   width: 100%;
   margin: 0;
-  padding: 4rem 2rem;
+  padding: 3rem 2rem;
   position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  /* El hero ocupa todo el ancho: alto mínimo = proporción de la
+     imagen (con tope 85vh); si el texto pide más, crece. */
+  min-height: min(calc(100vw * 768 / 1792), 85vh);
+  display: flex;
+  align-items: center;
+  background: #1f2a22;
+}
+
+.activity-hero::before,
+.activity-hero::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+/* Relleno: la misma imagen ampliada y desenfocada. */
+.activity-hero::before {
+  z-index: -2;
+  inset: -30px;
+  background:
+    linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    var(--hero-img) center / cover no-repeat;
+  filter: blur(14px) brightness(0.9);
+}
+
+/* La imagen entera, centrada, con los bordes de arriba y abajo
+   esfumados hacia el relleno (sin cortes ni franjas). */
+.activity-hero::after {
+  z-index: -1;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  width: min(100%, calc(85vh * 1792 / 768));
+  aspect-ratio: 1792 / 768;
+  background:
+    linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    var(--hero-img) center / 100% 100% no-repeat;
+  -webkit-mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent);
+  mask-image: linear-gradient(to bottom, transparent, #000 14%, #000 86%, transparent);
 }
 
 .activity-hero-container {
@@ -1042,3 +1086,12 @@ a.tag:focus-visible {
 .branch-others .branch-item img {
   opacity: 0.75;
 }
+
+/* Desglose de la duración (la versión corta va en el hero) */
+.info-item .value-detail {
+  font-size: 0.85rem;
+  font-weight: 400;
+  opacity: 0.75;
+  margin-top: 0.15rem;
+}
+

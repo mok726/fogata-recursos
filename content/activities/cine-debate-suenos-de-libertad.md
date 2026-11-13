@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: Sueños de Libertad"
-duration: "3 horas (140 min de película y 30 de charla)"
+duration: "3 h"
+duration_detail: "3 horas (140 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-suenos-de-libertad/"
 description: "Cine-debate con «Sueños de libertad» (en España, «Cadena perpetua») para ponerse en el lugar de quien perdió la libertad."

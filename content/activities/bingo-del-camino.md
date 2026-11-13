@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Bingo del Camino"
-duration: "Durante el viaje o la caminata"
+duration: "Variable"
+duration_detail: "Durante el viaje o la caminata"
 layout: "layouts/activity.njk"
 permalink: "/activities/bingo-del-camino/"
 description: "El juego de Seton para viajes y caminatas: sumar puntos por ver primero ciertos animales, plantas o cosas en el camino."

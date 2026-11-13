@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Hacé Tu Propio Compost"
-duration: "1 hora + seguimiento de 3-4 meses"
+duration: "1 h + 3-4 meses"
+duration_detail: "1 hora + seguimiento de 3-4 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-tu-propio-compost/"
 description: "Creación de un compost casero para reducir residuos orgánicos y mantener saludable el jardín."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cuidá la Energía"
-duration: "1 semana + seguimiento"
+duration: "1 semana +"
+duration_detail: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuida-la-energia/"
 description: "Seguimiento del consumo de energía en el hogar y desarrollo de estrategias para reducirlo a través de cambios de hábitos."

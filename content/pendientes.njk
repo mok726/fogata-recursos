@@ -1,0 +1,84 @@
+---
+layout: layouts/base.njk
+title: Pendientes del sitio
+permalink: /pendientes/
+noindex: true
+nosearch: true
+eleventyExcludeFromCollections: true
+styles:
+  - /css/pendientes.css
+---
+{# Página interna: no está en el menú, el sitemap ni la búsqueda.
+   Los datos salen de lib/pendientes.js en cada build. #}
+{% set p = collections.pendientes[0] %}
+{% set base = site.repoUrl or "https://github.com/mok726/fogata-recursos" %}
+
+<article class="pend">
+
+  <h1>Pendientes del sitio</h1>
+  <p class="pend-meta">
+    Generado el {{ p.generated.toISOString().slice(0, 16).replace("T", " ") }} UTC ·
+    {{ p.total }} fichas · {{ p.images }} imágenes revisadas.
+    Página interna: no figura en el menú, el sitemap ni la búsqueda.
+  </p>
+
+  <nav class="pend-resumen">
+    {% for g in p.groups %}
+      <a href="#{{ g.id }}" class="pend-chip{% if g.items.length == 0 %} ok{% elif g.info %} info{% endif %}">
+        {{ g.title }} <b>{{ g.items.length }}</b>
+      </a>
+    {% endfor %}
+  </nav>
+
+  {% for g in p.groups %}
+  <section id="{{ g.id }}" class="pend-group">
+    <details{% if g.items.length and g.items.length <= 40 and not g.info %} open{% endif %}>
+      <summary>
+        <h2>{{ g.title }} <span class="pend-count{% if g.items.length == 0 %} ok{% endif %}">{{ g.items.length }}</span></h2>
+      </summary>
+      <p class="pend-help">{{ g.help }}</p>
+
+      {% if g.items.length == 0 %}
+        <p class="pend-ok">Nada pendiente.</p>
+      {% else %}
+      <ul class="pend-list">
+        {% for it in g.items %}
+          <li>
+            {% if g.kind == "file" %}
+              <a href="{{ ('/' + it.file) | url }}"><code>{{ it.file }}</code></a>
+              {% if it.size %}<span class="pend-tag">{{ it.size }}</span>{% endif %}
+            {% elif g.kind == "ficha-img" %}
+              <a href="{{ it.url | url }}">{{ it.title }}</a>
+              <span class="pend-tag warn">{{ it.state }}</span>
+              <code>{{ it.image }}</code>
+              <a class="pend-src" href="{{ base }}/blob/main/{{ it.file }}">fuente</a>
+            {% elif g.kind == "ficha" %}
+              <a href="{{ it.url | url }}">{{ it.title }}</a>
+              <a class="pend-src" href="{{ base }}/blob/main/{{ it.file }}">fuente</a>
+            {% elif g.kind == "ficha-val" %}
+              <a href="{{ it.url | url }}">{{ it.title }}</a>
+              {% if it.what %}<span class="pend-tag">{{ it.what }}</span>{% endif %}
+              <code>{{ it.value }}</code>
+              <a class="pend-src" href="{{ base }}/blob/main/{{ it.file }}">fuente</a>
+            {% elif g.kind == "hero" %}
+              <a href="{{ it.url | url }}">{{ it.url }}</a>
+              → <code>{{ it.file }}</code>
+            {% elif g.kind == "badge" %}
+              <a href="{{ ('/badges/' + it.id + '/') | url }}">{{ it.name }}</a>
+              <span class="pend-tag warn">{{ it.what }}</span>
+              {% if it.file %}<code>{{ it.file }}</code>{% endif %}
+            {% elif g.kind == "dup" %}
+              <strong>{{ it.title }}</strong>:
+              {% for r in it.refs %}
+                <a href="{{ r.url | url }}">{{ r.file }}</a>{% if not loop.last %}, {% endif %}
+              {% endfor %}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </details>
+  </section>
+  {% endfor %}
+
+</article>

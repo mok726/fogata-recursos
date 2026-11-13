@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Terrario"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/terrario/"
 description: "Creación de un ecosistema miniatura en un terrario para observar el crecimiento de plantas y la biodiversidad."

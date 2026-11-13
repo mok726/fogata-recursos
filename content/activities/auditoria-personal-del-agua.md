@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Auditoría Personal del Agua"
-duration: "1 hora (más tiempo para la tarea)"
+duration: "1 h +"
+duration_detail: "1 hora (más tiempo para la tarea)"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-personal-del-agua/"
 description: "Los participantes realizan una auditoría personal de su uso diario del agua, calculando cuántos litros consumen y reflexionando sobre la importancia de conservar este recurso."

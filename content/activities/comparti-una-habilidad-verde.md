@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Día 'Compartí una Habilidad Verde'"
-duration: "2 horas + planificación"
+duration: "2 h +"
+duration_detail: "2 horas + planificación"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparti-una-habilidad-verde/"
 description: "Organización de un día para compartir habilidades verdes entre la comunidad y aprender unos de otros."

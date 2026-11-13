@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Superhéroe del Agua"
-duration: "2 horas (1h organización + 1h revisión)"
+duration: "2 h"
+duration_detail: "2 horas (1h organización + 1h revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/superheroe-del-agua/"
 description: "Los participantes organizan un concurso de dibujo para crear un superhéroe del agua, con poderes especiales para mejorar la calidad y disponibilidad del agua."

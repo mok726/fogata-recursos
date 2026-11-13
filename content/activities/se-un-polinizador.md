@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Sé un Polinizador"
-duration: "1.5 horas + seguimiento de varias semanas"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + seguimiento de varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-polinizador/"
 description: "Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia."

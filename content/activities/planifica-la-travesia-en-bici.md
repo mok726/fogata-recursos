@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Planificá la Travesía en Bici"
-duration: "Una reunión de 90 minutos + la travesía"
+duration: "90 min +"
+duration_detail: "Una reunión de 90 minutos + la travesía"
 layout: "layouts/activity.njk"
 permalink: "/activities/planifica-la-travesia-en-bici/"
 description: "Los Caminantes o Rovers planifican una travesía en bicicleta: eligen el recorrido más seguro, organizan el grupo, el equipo y los horarios, y presentan el plan a los adultos."

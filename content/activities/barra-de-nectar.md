@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Barra de Néctar"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/barra-de-nectar/"
 description: "Creación de un jardín con plantas que florecen en diferentes épocas para alimentar abejas, avispas y moscas."

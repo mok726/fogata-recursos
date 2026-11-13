@@ -187,7 +187,7 @@ collections.activities
 
 <div class="badge-content-container">
 
-  <div class="badge-layout">
+  <div class="badge-layout{% if not (badge.documents and badge.documents.length) %} badge-layout--solo{% endif %}">
 
 
     <div class="badge-main">
@@ -353,11 +353,11 @@ collections.activities
 
 <!-- Inicio del sidebar -->
 
+{% if badge.documents and badge.documents.length %}
 <aside class="badge-sidebar">
 
 <div class="badge-sidebar-card">
 
-{% if badge.documents and badge.documents.length %}
 <section class="sidebar-section">
 
 
@@ -394,12 +394,10 @@ collections.activities
 
 
 </section>
-{% endif %}
-
-
 
 </div>
 </aside>
+{% endif %}
 
 <!-- fin del Sidebar -->
 

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Es Verde Tu Casa?"
-duration: "2 horas + seguimiento de 21 días"
+duration: "2 h + 21 días"
+duration_detail: "2 horas + seguimiento de 21 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-verde-tu-casa/"
 description: "Evaluación de la sostenibilidad de tu hogar y compromiso con cambios para vivir de manera más ecológica."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Humanidad o Naturaleza"
-duration: "1 hora 10 min (10 min preparación + 1 hora charla)"
+duration: "1 h 10 min"
+duration_detail: "1 hora 10 min (10 min preparación + 1 hora charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/humanidad-o-naturaleza/"
 description: "Los participantes invitan a un experto en medio ambiente o conservación para reflexionar sobre el equilibrio entre las necesidades humanas y la protección de la naturaleza."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Comercial de Biodiversidad"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/comercial-de-biodiversidad/"
 description: "Creación de un comercial sobre biodiversidad para publicar en YouTube y monitorear su impacto."

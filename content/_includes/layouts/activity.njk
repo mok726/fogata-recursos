@@ -49,7 +49,7 @@ async function shareActivity() {
 
   {# ===== HERO CON IMAGEN DE FONDO ===== #}
   {% set heroImage = image or '/imagenes/actividades/activity-card.png' %}
-  <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('{{ heroImage | url }}');">
+  <div class="activity-hero" style="--hero-img: url('{{ heroImage | url }}');">
     <div class="activity-hero-container"
       data-pagefind-meta="edades:{{ ( age_group | ageRange ) or 'Todas las edades' }}">
       <div class="hero-left">
@@ -154,6 +154,7 @@ async function shareActivity() {
     <div class="label">Duración</div>
     <div class="value">
       {{ duration or "N/E" }}
+      {% if duration_detail %}<div class="value-detail">{{ duration_detail }}</div>{% endif %}
     </div>
   </div>
 

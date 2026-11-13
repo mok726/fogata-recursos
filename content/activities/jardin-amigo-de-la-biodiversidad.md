@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Jardín Amigo de la Biodiversidad"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-amigo-de-la-biodiversidad/"
 description: "Creación de un jardín que ofrezca hogares para diferentes especies utilizando objetos reciclados."

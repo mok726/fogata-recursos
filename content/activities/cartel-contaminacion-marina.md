@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Confeccionar un Cartel sobre Contaminación Marina"
-duration: "20 minutos (más investigación previa)"
+duration: "20 min +"
+duration_detail: "20 minutos (más investigación previa)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartel-contaminacion-marina/"
 description: "Los jóvenes investigan la contaminación por plásticos en los océanos y diseñan carteles para concienciar sobre este problema, desarrollando su creatividad y habilidades de comunicación ambiental."

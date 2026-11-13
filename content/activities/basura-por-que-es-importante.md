@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Basura... ¿Por Qué Es Importante?"
-duration: "Flexible (1-2 horas)"
+duration: "1-2 h"
+duration_detail: "Flexible (1-2 horas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/basura-por-que-es-importante/"
 description: "Los jóvenes investigan y reflexionan sobre el impacto de tirar basura, observando comportamientos en su comunidad y estableciendo la correlación entre la contaminación por plástico y el hábito de desechar residuos inadecuadamente."

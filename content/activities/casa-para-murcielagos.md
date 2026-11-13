@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Casa para Murciélagos"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/casa-para-murcielagos/"
 description: "Construcción de una casa para murciélagos para proporcionar refugio y observar su comportamiento."

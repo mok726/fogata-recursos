@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Ponete los Anteojos Violetas"
-duration: "Media jornada o jornada completa"
+duration: "4 a 8 h"
+duration_detail: "Media jornada o jornada completa"
 layout: "layouts/activity.njk"
 permalink: "/activities/ponete-los-anteojos-violetas/"
 description: "Los Rovers organizan un encuentro abierto al barrio a favor de la igualdad y contra la violencia de género: anteojos violetas, cortos, música y talleres."

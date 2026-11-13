@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Plataformas en Línea"
-duration: "1.5 horas + seguimiento"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/platformas-en-linea/"
 description: "Visitá y participación en plataformas en línea donde jóvenes comparten acciones sobre biodiversidad."

@@ -1,6 +1,7 @@
 ---
 title: "A Desempolvar los Libros Viejos"
-duration: "60 minutos + lectura"
+duration: "60 min +"
+duration_detail: "60 minutos + lectura"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-desempolvar-los-libros-viejos/"
 description: "Leé un libro donde el suelo tenga un rol y reflexioná sobre su importancia."

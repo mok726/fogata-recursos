@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Hacerse Útil en Casa"
-duration: "Una semana (en casa) + 20 minutos de puesta en común"
+duration: "1 semana"
+duration_detail: "Una semana (en casa) + 20 minutos de puesta en común"
 layout: "layouts/activity.njk"
 permalink: "/activities/hacerse-util-en-casa/"
 description: "Las tareas de la casa que Baden-Powell propone a los lobatos: tender la cama, lavar los platos, barrer, lavar medias, cuidar a un hermanito y hacer mandados."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Juntá, Cuidá, Pesá"
-duration: "Recurrente (durante todo el campamento)"
+duration: "Todo el campamento"
+duration_detail: "Recurrente (durante todo el campamento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/junta-cuida-pesa/"
 description: "Actividad recurrente de recolección de residuos para campamentos de Manada. Cada seisena acumula basura real en una bolsa durante varios días, se pesa diariamente y se totaliza al final."

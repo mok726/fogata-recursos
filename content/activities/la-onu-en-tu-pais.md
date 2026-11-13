@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La ONU en Tu País"
-duration: "2 horas (1h preparación + 1h presentación)"
+duration: "2 h"
+duration_detail: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-onu-en-tu-pais/"
 description: "Los participantes investigan proyectos relacionados con el agua apoyados por agencias de las Naciones Unidas en diferentes países y presentan sus hallazgos."

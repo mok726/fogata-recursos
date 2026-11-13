@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: En el Mundo a Cada Rato"
-duration: "2 horas y media (116 min de película y 30 de charla)"
+duration: "2 h 30 min"
+duration_detail: "2 horas y media (116 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-en-el-mundo-a-cada-rato/"
 description: "Cine-debate con «En el mundo a cada rato» (2004), cinco historias de chicos y chicas de India, Guinea Ecuatorial, Argentina, Perú y Senegal sobre las prioridades de UNICEF y los derechos de la infancia."
