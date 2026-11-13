@@ -55,9 +55,8 @@
 
     var rand = rng(layer.dataset.seed || location.pathname);
     var narrow = w < 700;
-    var step = narrow ? 260 : 170;     // una fila cada ~step px de alto
     var frag = document.createDocumentFragment();
-    var lastName = '', lastMid = -100;
+    var lastName = '';
 
     function pick() {
       var n;
@@ -87,28 +86,27 @@
     }
 
     // Desde debajo de la barra de navegación hasta antes del pie.
-    // Cada fila: un ícono en cada costado (desfasados en alto), a
-    // veces uno en la zona central y estrellitas sueltas.
-    for (var y = 140; y < h - 200; y += step * (0.75 + rand() * 0.5)) {
-      var base = (narrow ? 0.13 : 0.17);
-      var n = pick();
-      put(n, 2 + rand() * (narrow ? 4 : 9), y, iconSize(n), base + rand() * 0.1);
-      n = pick();
-      put(n, 98 - rand() * (narrow ? 4 : 9), y + step * (0.3 + rand() * 0.4),
-          iconSize(n), base + rand() * 0.1);
-
-      if (rand() < (narrow ? 0.35 : 0.6)) {
-        // Zona central: lejos del ícono central anterior para que no
-        // se amontonen en la misma columna.
-        var x;
-        do { x = 18 + rand() * 64; } while (Math.abs(x - lastMid) < 18);
-        lastMid = x;
-        n = pick();
-        put(n, x, y + rand() * step * 0.6, iconSize(n, 1.2), base - 0.02 + rand() * 0.08);
+    // Grilla con desorden: la página se divide en celdas y cada una
+    // tiene un ícono (o no) en un lugar al azar dentro de la celda.
+    // Así quedan desperdigados por todo el ancho, sin amontonarse ni
+    // dejar huecos grandes. Más estrellitas sueltas.
+    var cols = narrow ? 3 : (w < 1100 ? 5 : 7);
+    var cellH = narrow ? 230 : 200;
+    var base = narrow ? 0.13 : 0.17;
+    for (var row = 0, y0 = 140; y0 < h - 200; row++, y0 += cellH) {
+      for (var c = 0; c < cols; c++) {
+        if (rand() < 0.32) continue;          // celda vacía
+        var n = pick();
+        var x = (c + 0.1 + rand() * 0.8) * 100 / cols;
+        var y = y0 + rand() * cellH * 0.8;
+        // los de los bordes un poco más chicos y del centro más tenues
+        var edge = c === 0 || c === cols - 1;
+        put(n, x, y, iconSize(n, edge ? 1 : 0.85 + rand() * 0.4),
+            (edge ? base : base - 0.03) + rand() * 0.09);
       }
-      if (rand() < 0.45) {
-        put('estrella', 10 + rand() * 80, y + rand() * step, iconSize('estrella'),
-            base + rand() * 0.1);
+      if (rand() < 0.6) {
+        put('estrella', 3 + rand() * 94, y0 + rand() * cellH,
+            iconSize('estrella'), base + rand() * 0.1);
       }
     }
     layer.replaceChildren(frag);
