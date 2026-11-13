@@ -223,6 +223,13 @@ eleventyConfig.addFilter("actividadesDelDia", function(lista, dias = 1, desde = 
   return out;
 });
 
+// "2026-11-13" → "vie 13/11" (encabezado de la «Actividad del día»).
+eleventyConfig.addFilter("fechaCorta", function(fecha) {
+  const [a, m, d] = String(fecha).split("-").map(Number);
+  const dia = ["dom", "lun", "mar", "mié", "jue", "vie", "sáb"][new Date(Date.UTC(a, m - 1, d)).getUTCDay()];
+  return `${dia} ${d}/${m}`;
+});
+
 // Landing, «Actividades destacadas»: las 3 últimas agregadas y
 // las actividades del día de ayer, anteayer y hace 3 días, sin
 // repetir (ni la de hoy, que ya tiene su bloque).

@@ -1,0 +1,56 @@
+/* Tarjeta de la «Actividad del día» para redes (pages/redes-tarjeta.njk).
+   Es la misma de la portada; acá se fija el ancho, se usa un degradé
+   en el envoltorio y se agrega la placa con logo, nombre y URL.
+   Se captura a 540 px con escala 2 → imagen de 1080 px de ancho. */
+
+body.redes-tarjeta {
+  margin: 0;
+  width: 540px;
+  background: var(--fogata-paper);
+}
+
+.redes-tarjeta .home-daily { margin: 0; padding: 0; max-width: none; }
+
+.redes-tarjeta .home-daily-dia {
+  width: 540px;
+  max-width: none;
+  box-sizing: border-box;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background: linear-gradient(160deg, #f0883e, var(--fogata-fire-dark));
+}
+
+.redes-tarjeta .home-daily-angosta { display: block; }
+
+.redes-tarjeta .activity-card:hover .activity-card-image { transform: none; }
+
+/* Instagram no acepta imágenes más altas que 4:5: la descripción
+   ya está limitada a 5 renglones en home.css. */
+
+.home-daily-placa {
+  display: flex;
+  align-items: center;
+  gap: .65rem;
+  margin: .55rem .4rem .4rem;
+  padding: .55rem .8rem;
+  background: var(--fogata-card);
+  border-radius: 16px;
+}
+.home-daily-placa img { width: 40px; height: 40px; flex: 0 0 auto; }
+.home-daily-placa div { min-width: 0; }
+.home-daily-placa b {
+  display: block;
+  font-family: var(--fogata-slab);
+  font-weight: 800;
+  font-size: 1rem;
+  color: var(--fogata-forest);
+}
+.home-daily-placa span {
+  display: block;
+  font-size: .8rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #3d7a4e;
+  word-break: break-all;
+}
