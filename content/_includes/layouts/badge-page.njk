@@ -126,7 +126,7 @@ collections.activities
 </a>
 
   {% if badge.hero_image %}
-    <div class="badge-hero-image">
+    <div class="badge-hero-image" style="--hero-img: url('{{ badge.hero_image | url }}');">
       <img
         src="{{ badge.hero_image | url }}"
         alt="{{ badge.name }}">
