@@ -2183,10 +2183,7 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.
-	  \n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908). 
-	  Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. 
-	  Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él. /n/n<p>	  \n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908).  /n/n<p>	  Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. /n/n<p>	  Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
@@ -2257,7 +2254,7 @@ sections: {
   description:
     "Juegos, danzas y prácticas para la Manada tomados del Wolf Cub's Handbook de Robert Baden-Powell.",
   summary:
-    "Esta no es una insignia oficial: es una colección hermana de «Homenaje a Baden-Powell», dedicada al libro que B-P escribió para los lobatos, The Wolf Cub's Handbook (1916). Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: *The Wolf Cub's Handbook* (1916). /n/n<p> Las actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/bpmanada-logo.png",
   hero_image: "/imagenes/insignias/bpmanada-hero.png",
   sources: [
@@ -2329,7 +2326,7 @@ sections: {
   description:
     "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
   summary:
-    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad», que ASDE - Scouts de España publicó en 2018. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\nLas secciones siguen los dos temas de la publicación, más el anexo del «Ecocargo», la comisión ambiental del Grupo Scout Chan 292. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de _«Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad»_, que ASDE - Scouts de España publicó en 2018.\n\n<p> Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\n<p>Las secciones siguen los dos temas de la publicación, más el anexo del *«Ecocargo»*, la comisión ambiental del Grupo Scout Chan 292.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/asdeambiente-logo.png",
   hero_image: "/imagenes/insignias/asdeambiente-hero.png",
   sources: [
@@ -2377,7 +2374,7 @@ sections: {
   description:
     "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
   summary:
-    "Esta no es una insignia oficial: es una colección de Fogata de Recursos con técnicas scouts de manuales de dominio público. Las fuentes son el Boy Scouts Handbook (1911), Scouting for Girls de Girl Scouts of the USA (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no hay manuales de pionerismo de dominio público con autor conocido.\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). \n\n<p>Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
   logo: "/imagenes/insignias/tecnicascout.png",
   hero_image: "/imagenes/insignias/tecnicascout-hero.png",
   sources: [
@@ -2461,7 +2458,7 @@ sections: {
   description:
     "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
   summary:
-    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Fichas de actividades. Concurso de actividades de Salud y TIC», que ASDE - Scouts de España publicó en 2017. Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\nLas secciones siguen la clasificación por rama de la publicación. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+    "**Esta no es una insignia oficial**: es una colección de actividades tomadas de *«Fichas de actividades. Concurso de actividades de Salud y TIC»*, que ASDE - Scouts de España publicó en 2017. \n\n<p>Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\n<p>Las secciones siguen la clasificación por rama de la publicación. \n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. \n\n<p>Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/asdesaludtic-logo.png",
   hero_image: "/imagenes/insignias/asdesaludtic-hero.png",
   sources: [
@@ -2513,7 +2510,7 @@ sections: {
   description:
     "Aprender a moverse seguros por la calle, la ruta y en bici: señales, cruces, caminatas y travesías.",
   summary:
-    "Insignia propia de Fogata de Recursos. Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\nLas señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). Donde hace falta citar una ley o un organismo, va como ejemplo: consultá las normas de tu país.",
+    "**No es una Insignia oficial*, sino una creación propia de Fogata de Recursos. \n\n<p>Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\n<p>Las señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). \n\n<p>Donde hace falta citar una ley o un organismo, va como ejemplo las de Argentina: consultá las normas de tu país.",
   logo: "/imagenes/insignias/vial-logo.png",
   hero_image: "/imagenes/insignias/vial-hero.png",
   sources: [
@@ -2564,7 +2561,7 @@ sections: {
   description:
     "Actividades para trabajar la igualdad de género: lenguaje, roles, mujeres en la historia y prevención de la violencia, de la campaña «Jugando juntas/os» de ASDE - Scouts de España.",
   summary:
-    "Esta no es una insignia oficial: es una colección de actividades tomadas de la «Recopilación de experiencias de la campaña 2012 Jugando juntos/as», que la Red de Igualdad de Género y Coeducación de ASDE - Scouts de España publicó en 2013. Reúne las actividades que los grupos scouts de toda España hicieron en esa campaña.\n\nLas secciones siguen los tres bloques de la publicación. Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+    "**Esta no es una insignia oficial**: es una colección de actividades tomadas de la **«Recopilación de experiencias de la campaña 2012 Jugando juntos/as»**, que la *Red de Igualdad de Género y Coeducación* de *ASDE - Scouts de España* publicó en 2013.\n\n<p> Reúne las actividades que los grupos scouts de toda España hicieron en esa campaña.\n\n<p>Las secciones siguen los tres bloques de la publicación.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/general-logo.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   sources: [
