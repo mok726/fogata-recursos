@@ -21,6 +21,8 @@ body.redes-tarjeta {
   background: linear-gradient(160deg, #f0883e, var(--fogata-fire-dark));
 }
 
+.redes-tarjeta .home-daily-angosta { display: block; }
+
 .redes-tarjeta .activity-card:hover .activity-card-image { transform: none; }
 
 /* Instagram no acepta imágenes más altas que 4:5: la descripción

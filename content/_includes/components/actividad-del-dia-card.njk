@@ -15,10 +15,45 @@
     <span class="home-daily-fecha">{{ d.fecha | fechaCorta }}</span>
   </a>
 
-  {% set layout = "" %}
-  {% set cardTexto = item.description or item.summary %}
-  {% include "components/activity-card.njk" %}
-  {% set cardTexto = "" %}
+  {# Escritorio (no en redes): portada de la card a la izquierda y
+     título, descripción, insignias y ODS a la derecha. #}
+  {% if not paraRedes %}
+  <div class="home-daily-ancha">
+    {% set layout = "compact" %}
+    {% include "components/activity-card.njk" %}
+    <div class="home-daily-body">
+      <h2 class="home-daily-title">
+        <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
+      </h2>
+      <a class="home-daily-desc" href="{{ activityUrl | url }}" tabindex="-1">{{ item.description or item.summary }}</a>
+      <div class="home-daily-sellos">
+        {% for rawBadge in (item.activity_badges or []).slice(0, 3) %}
+          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+          <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+            <img class="badge-icon" loading="lazy" decoding="async"
+              src="{{ (badgeId | badgeLogo(badges)) | url }}"
+              alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+          </a>
+        {% endfor %}
+        {% for sdg in (item.sdgs or []).slice(0, 4) %}
+          <a href="{{ ('/ods/' + sdg + '/') | url }}">
+            <img class="sdg-icon" loading="lazy" decoding="async"
+              src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+              alt="ODS {{ sdg }}" title="ODS {{ sdg }}">
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% endif %}
+
+  {# Móvil y redes: la card de la lista con la descripción extendida. #}
+  <div class="home-daily-angosta">
+    {% set layout = "" %}
+    {% set cardTexto = item.description or item.summary %}
+    {% include "components/activity-card.njk" %}
+    {% set cardTexto = "" %}
+  </div>
 
   {% if paraRedes %}
     <div class="home-daily-placa">
