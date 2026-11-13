@@ -105,9 +105,11 @@
        <div class="activity-card-body">
 
 
-         {% if item.summary %}
+         {# `cardTexto` permite otro texto (la «Actividad del día» usa la descripción). #}
+         {% set textoCard = cardTexto or item.summary %}
+         {% if textoCard %}
             <p class="activity-summary">
-              {{ item.summary }}
+              {{ textoCard }}
             </p>
          {% endif %}
 

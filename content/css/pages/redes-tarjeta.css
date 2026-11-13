@@ -1,6 +1,6 @@
 /* Tarjeta de la «Actividad del día» para redes (pages/redes-tarjeta.njk).
-   Es la misma de la portada en su versión móvil; acá sólo se fija
-   el ancho, se muestra la foto entera y se agrega el pie con la URL.
+   Es la misma de la portada; acá se fija el ancho, se usa un degradé
+   en el envoltorio y se agrega la placa con logo, nombre y URL.
    Se captura a 540 px con escala 2 → imagen de 1080 px de ancho. */
 
 body.redes-tarjeta {
@@ -13,50 +13,42 @@ body.redes-tarjeta {
 
 .redes-tarjeta .home-daily-dia {
   width: 540px;
+  max-width: none;
+  box-sizing: border-box;
   margin: 0;
-  border: 0;
   border-radius: 0;
   box-shadow: none;
+  background: linear-gradient(160deg, #f0883e, var(--fogata-fire-dark));
 }
 
-/* Instagram no acepta imágenes más altas que 4:5: con descripciones
-   muy largas se corta a 6 renglones. */
-.redes-tarjeta .home-daily-desc {
-  display: -webkit-box;
-  -webkit-line-clamp: 6;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-/* Foto entera, sin recorte (la portada la recorta a 200 px). */
-.redes-tarjeta .activity-card-hero,
-.redes-tarjeta .activity-card-main-link { height: auto; }
-.redes-tarjeta .home-daily .activity-card-image {
-  height: auto;
-  min-height: 0;
-  max-height: none;
-  aspect-ratio: auto;
-  object-fit: contain;
-}
 .redes-tarjeta .activity-card:hover .activity-card-image { transform: none; }
 
-.redes-tarjeta .home-daily-foot { justify-content: flex-end; }
+/* Instagram no acepta imágenes más altas que 4:5: la descripción
+   ya está limitada a 5 renglones en home.css. */
 
-.home-daily-url {
+.home-daily-placa {
   display: flex;
   align-items: center;
-  gap: .7rem;
-  padding: .75rem 1.1rem;
-  background: var(--fogata-forest);
-  color: #fff;
-  font-size: .8rem;
-  line-height: 1.3;
-  word-break: break-all;
+  gap: .65rem;
+  margin: .55rem .4rem .4rem;
+  padding: .55rem .8rem;
+  background: var(--fogata-card);
+  border-radius: 16px;
 }
-.home-daily-url img { width: 44px; height: 44px; flex: 0 0 auto; }
-.home-daily-url b {
+.home-daily-placa img { width: 40px; height: 40px; flex: 0 0 auto; }
+.home-daily-placa div { min-width: 0; }
+.home-daily-placa b {
   display: block;
   font-family: var(--fogata-slab);
-  font-size: 1.05rem;
-  word-break: normal;
+  font-weight: 800;
+  font-size: 1rem;
+  color: var(--fogata-forest);
+}
+.home-daily-placa span {
+  display: block;
+  font-size: .8rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #3d7a4e;
+  word-break: break-all;
 }

@@ -26,7 +26,7 @@ eleventyExcludeFromCollections: true
 <link rel="stylesheet" href="{{ '/css/pages/redes-tarjeta.css' | url }}?v={{ cssVersion }}">
 </head>
 <body class="redes-tarjeta">
-<section class="home-daily">
+<section class="home-section home-daily">
 {% set paraRedes = true %}
 {% for d in collections.activitiesDaily | actividadesDelDia(3) %}
   {% if d.item %}
