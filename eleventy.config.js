@@ -1232,7 +1232,7 @@ else {
 
   // Texto donde busca la caja de búsqueda: título, resumen,
   // descripción, tipo, categorías, etiquetas, competencias,
-  // insignias, ramas y ODS (como "ods13").
+  // insignias, ramas, ODS (como "ods13"), autor y fuente.
   eleventyConfig.addFilter(
     "searchText",
     function(data, badges, ageGroups) {
@@ -1262,7 +1262,9 @@ else {
         data.activity_code,
         badgeNames.join(" "),
         ageNames.join(" "),
-        list(data.sdgs).map(n => "ods" + n).join(" ")
+        list(data.sdgs).map(n => "ods" + n).join(" "),
+        list(data.author).join(" "),
+        list(data.source).join(" ")
       ].filter(Boolean).join(" "));
 
     }
