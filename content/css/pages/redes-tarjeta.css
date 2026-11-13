@@ -1,0 +1,62 @@
+/* Tarjeta de la «Actividad del día» para redes (pages/redes-tarjeta.njk).
+   Es la misma de la portada en su versión móvil; acá sólo se fija
+   el ancho, se muestra la foto entera y se agrega el pie con la URL.
+   Se captura a 540 px con escala 2 → imagen de 1080 px de ancho. */
+
+body.redes-tarjeta {
+  margin: 0;
+  width: 540px;
+  background: var(--fogata-paper);
+}
+
+.redes-tarjeta .home-daily { margin: 0; padding: 0; max-width: none; }
+
+.redes-tarjeta .home-daily-dia {
+  width: 540px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+/* Instagram no acepta imágenes más altas que 4:5: con descripciones
+   muy largas se corta a 6 renglones. */
+.redes-tarjeta .home-daily-desc {
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Foto entera, sin recorte (la portada la recorta a 200 px). */
+.redes-tarjeta .activity-card-hero,
+.redes-tarjeta .activity-card-main-link { height: auto; }
+.redes-tarjeta .home-daily .activity-card-image {
+  height: auto;
+  min-height: 0;
+  max-height: none;
+  aspect-ratio: auto;
+  object-fit: contain;
+}
+.redes-tarjeta .activity-card:hover .activity-card-image { transform: none; }
+
+.redes-tarjeta .home-daily-foot { justify-content: flex-end; }
+
+.home-daily-url {
+  display: flex;
+  align-items: center;
+  gap: .7rem;
+  padding: .75rem 1.1rem;
+  background: var(--fogata-forest);
+  color: #fff;
+  font-size: .8rem;
+  line-height: 1.3;
+  word-break: break-all;
+}
+.home-daily-url img { width: 44px; height: 44px; flex: 0 0 auto; }
+.home-daily-url b {
+  display: block;
+  font-family: var(--fogata-slab);
+  font-size: 1.05rem;
+  word-break: normal;
+}

@@ -7,8 +7,9 @@
     "clean": "npx rimraf docs",
     "build:thumbs": "node scripts/make-thumbs.js",
     "build:11ty": "eleventy",
+    "build:redes": "node scripts/tarjeta-redes.js",
     "build:search": "pagefind --site docs",
-    "build": "npm run clean && npm run build:thumbs && npm run build:11ty && npm run build:search",
+    "build": "npm run clean && npm run build:thumbs && npm run build:11ty && npm run build:redes && npm run build:search",
     "serve": "npx @11ty/eleventy --serve",
     "dev": "npm run build && npm run serve"
   },
@@ -28,6 +29,7 @@
     "@11ty/eleventy": "^3.1.6",
     "cheerio": "^1.2.0",
     "pagefind": "^1.5.2",
+    "playwright-core": "^1.63.0",
     "sharp": "^0.34.5"
   }
 }

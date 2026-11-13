@@ -1,0 +1,72 @@
+{#- Tarjeta de la «Actividad del día». La usan la portada
+    (pages/index.njk) y la imagen para redes (pages/redes-tarjeta.njk).
+    Espera `d` ({ fecha, item }) y `loop`. Con `paraRedes` true, en
+    lugar de «Ver la actividad →» va un pie con logo y URL (en una
+    imagen el link no sirve). -#}
+{% set item = d.item.data %}
+{% set activityUrl = d.item.url %}
+    <div class="home-daily-dia" data-fecha="{{ d.fecha }}" {% if not paraRedes and not loop.first %}hidden{% endif %}>
+
+      {% set layout = "compact" %}
+      {% include "components/activity-card.njk" %}
+
+      <div class="home-daily-body">
+
+        {# Kicker e insignias en el mismo renglón. Hasta 2 insignias; si
+           hay más, la primera y un círculo «+N» (como en las cards). #}
+        <div class="home-daily-head">
+          <a class="home-daily-kicker" href="{{ activityUrl | url }}" tabindex="-1">
+            <span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span>
+            Actividad del día
+          </a>
+          {% if item.activity_badges and item.activity_badges.length %}
+            {% set totalBadges = item.activity_badges.length %}
+            {% set shownBadges = totalBadges if totalBadges <= 2 else 1 %}
+            <div class="home-daily-badges">
+              {% for rawBadge in item.activity_badges.slice(0, shownBadges) %}
+                {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+                <a href="{{ (badgeId | badgeHref(badges)) | url }}">
+                  <img class="badge-icon" loading="lazy" decoding="async"
+                    src="{{ (badgeId | badgeLogo(badges)) | url }}"
+                    alt="Insignia" title="{{ rawBadge.name if rawBadge.name else (rawBadge | smartTitle) }}">
+                </a>
+              {% endfor %}
+              {% if totalBadges > shownBadges %}
+                <a class="home-daily-more" href="{{ activityUrl | url }}"
+                  title="{{ totalBadges - shownBadges }} insignias más">+{{ totalBadges - shownBadges }}</a>
+              {% endif %}
+            </div>
+          {% endif %}
+        </div>
+
+        <h2 class="home-daily-title">
+          <a href="{{ activityUrl | url }}">{{ item.title | smartTitle }}</a>
+        </h2>
+
+        <a class="home-daily-desc" href="{{ activityUrl | url }}" tabindex="-1">{{ item.description or item.summary }}</a>
+
+        <div class="home-daily-foot">
+          {% if not paraRedes %}
+          <a class="home-more" href="{{ activityUrl | url }}">Ver la actividad →</a>
+          {% endif %}
+          {% if item.sdgs and item.sdgs.length %}
+            <div class="home-daily-sdgs">
+              {% for sdg in item.sdgs.slice(0, 4) %}
+                <a href="{{ ('/ods/' + sdg + '/') | url }}">
+                  <img class="sdg-icon" loading="lazy" decoding="async"
+                    src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                    alt="ODS {{ sdg }}" title="ODS {{ sdg }}">
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+
+      </div>
+    {% if paraRedes %}
+      <div class="home-daily-url">
+        <img src="{{ '/imagenes/_thumbs/logo/favicon.webp' | url }}" alt="" width="44" height="44">
+        <span><b>Fogata de Recursos</b>{{ (site.url + (activityUrl | url)) | replace("https://", "") }}</span>
+      </div>
+      {% endif %}
+    </div>

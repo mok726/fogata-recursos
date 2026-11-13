@@ -31,6 +31,27 @@ if (!act) {
 }
 
 const env = process.env;
+
+// Imagen del post: la tarjeta de la actividad del día (la genera
+// scripts/tarjeta-redes.js en el build). Si no está, la og de la ficha.
+let tarjeta = null;
+if (act.redes) {
+  try { if ((await fetch(act.redes, { method: "HEAD" })).ok) tarjeta = act.redes; }
+  catch { /* sin tarjeta */ }
+}
+const imagen = tarjeta || act.image;
+
+// Ancho y alto de un JPEG (Bluesky los usa para mostrar la imagen sin recortes).
+function medidasJpeg(buf) {
+  for (let i = 2; i + 9 < buf.length; ) {
+    if (buf[i] !== 0xff) break;
+    const m = buf[i + 1], largo = buf.readUInt16BE(i + 2);
+    if (m >= 0xc0 && m <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(m))
+      return { height: buf.readUInt16BE(i + 5), width: buf.readUInt16BE(i + 7) };
+    i += 2 + largo;
+  }
+  return null;
+}
 const titulo = `🔥 Actividad del día: ${act.title}`;
 const texto = (max) => {
   // Título + descripción recortada para que entre con el link.
@@ -54,7 +75,7 @@ const redes = {
     publicar: () => pedir(
       `https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendPhoto`,
       { method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ chat_id: env.TELEGRAM_CHAT_ID, photo: act.image, caption: texto(1024) }) },
+        body: JSON.stringify({ chat_id: env.TELEGRAM_CHAT_ID, photo: imagen, caption: texto(1024) }) },
       "Telegram")
   },
 
@@ -78,17 +99,26 @@ const redes = {
           body: JSON.stringify({ identifier: env.BSKY_HANDLE, password: env.BSKY_APP_PASSWORD }) },
         "Bluesky");
       const auth = { Authorization: `Bearer ${ses.accessJwt}` };
-      const embed = { $type: "app.bsky.embed.external",
+      let embed = { $type: "app.bsky.embed.external",
         external: { uri: act.url, title: act.title, description: act.description || "" } };
       try {
-        // Miniatura de la tarjeta (límite de Bluesky: ~1 MB).
-        const img = Buffer.from(await (await fetch(act.image)).arrayBuffer());
+        // Con tarjeta: se publica como imagen (la vista previa de link
+        // es apaisada y la recortaría). Sin tarjeta: link con miniatura.
+        // Límite de Bluesky: ~1 MB por imagen.
+        const img = Buffer.from(await (await fetch(imagen)).arrayBuffer());
         if (img.length < 950_000) {
           const blob = await pedir(api + "com.atproto.repo.uploadBlob",
             { method: "POST", headers: { ...auth, "Content-Type": "image/jpeg" }, body: img }, "Bluesky");
-          embed.external.thumb = blob.blob;
+          if (tarjeta) {
+            const medidas = medidasJpeg(img);
+            embed = { $type: "app.bsky.embed.images", images: [{ image: blob.blob,
+              alt: `Actividad del día: ${act.title}. ${act.description || ""}`.trim(),
+              ...(medidas ? { aspectRatio: medidas } : {}) }] };
+          } else {
+            embed.external.thumb = blob.blob;
+          }
         }
-      } catch (e) { console.warn("Bluesky: sin miniatura:", e.message); }
+      } catch (e) { console.warn("Bluesky: sin imagen:", e.message); }
       const t = texto(300);
       const ini = Buffer.byteLength(t.slice(0, t.lastIndexOf(act.url)));
       return pedir(api + "com.atproto.repo.createRecord",
@@ -110,7 +140,7 @@ const redes = {
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: new URLSearchParams({ ...o, access_token: env.THREADS_TOKEN }) });
       const cont = await pedir(`${api}/threads`,
-        form({ media_type: "IMAGE", image_url: act.image, text: texto(500) }), "Threads");
+        form({ media_type: "IMAGE", image_url: imagen, text: texto(500) }), "Threads");
       // Meta recomienda esperar a que el contenedor se procese.
       for (let i = 0; ; i++) {
         await new Promise(r => setTimeout(r, i ? 10000 : 5000));
@@ -132,7 +162,7 @@ const redes = {
         "#scouts #actividadesscout #educacionnoformal #fogataderecursos";
       const cont = await pedir(`${api}/media`,
         { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
-          body: new URLSearchParams({ image_url: act.image, caption, access_token: env.FB_PAGE_TOKEN }) },
+          body: new URLSearchParams({ image_url: imagen, caption, access_token: env.FB_PAGE_TOKEN }) },
         "Instagram");
       // El contenedor puede tardar unos segundos en procesarse.
       for (let i = 0; ; i++) {
@@ -151,8 +181,14 @@ const redes = {
 
   facebook: {
     // Publicación en una Página (no en un perfil personal: Meta no lo permite).
+    // Con tarjeta: foto con el texto y el link; sin tarjeta: link con
+    // la vista previa de og:image.
     activa: env.FB_PAGE_ID && env.FB_PAGE_TOKEN,
-    publicar: () => pedir(
+    publicar: () => tarjeta ? pedir(
+      `https://graph.facebook.com/v21.0/${env.FB_PAGE_ID}/photos`,
+      { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams({ url: tarjeta, message: texto(2000), access_token: env.FB_PAGE_TOKEN }) },
+      "Facebook") : pedir(
       `https://graph.facebook.com/v21.0/${env.FB_PAGE_ID}/feed`,
       { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
         body: new URLSearchParams({ message: texto(2000).replace(`\n\n${act.url}`, ""), link: act.url,
@@ -163,6 +199,7 @@ const redes = {
 };
 
 console.log(`${hoy}: ${act.title} → ${act.url}`);
+console.log(`Imagen: ${imagen}${tarjeta ? "" : " (no hay tarjeta, se usa la og)"}`);
 let fallas = 0;
 
 const elegidas = (env.REDES || "todas").split(",").map(x => x.trim().toLowerCase());

@@ -1,0 +1,46 @@
+---
+permalink: /redes/tarjeta/
+layout: null
+eleventyExcludeFromCollections: true
+---
+{#- Página interna (no se enlaza ni se indexa): la tarjeta de la
+    «Actividad del día» de hoy y los 2 días siguientes, con el mismo
+    componente de la portada en su versión móvil y un pie con la URL.
+    scripts/tarjeta-redes.js le saca una captura a cada una y la
+    guarda en docs/redes/<fecha>.jpg, que es la imagen que publica
+    .github/scripts/anunciar.mjs. -#}
+{%- set cssVersion = buildDate.getTime() -%}
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=540">
+<title>Tarjeta para redes - {{ site.name }}</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/css/main.css' | url }}?v={{ cssVersion }}">
+<link rel="stylesheet" href="{{ '/css/fogata.css' | url }}?v={{ cssVersion }}">
+<link rel="stylesheet" href="{{ '/css/pages/home.css' | url }}?v={{ cssVersion }}">
+<link rel="stylesheet" href="{{ '/css/pages/redes-tarjeta.css' | url }}?v={{ cssVersion }}">
+</head>
+<body class="redes-tarjeta">
+<section class="home-daily">
+{% set paraRedes = true %}
+{% for d in collections.activitiesDaily | actividadesDelDia(3) %}
+  {% if d.item %}
+    {% include "components/actividad-del-dia-card.njk" %}
+  {% endif %}
+{% endfor %}
+</section>
+<script>
+  // Foto original en vez de la miniatura de 800 px: la captura
+  // sale a 1080 px de ancho.
+  document.querySelectorAll('.activity-card-image[data-full]').forEach(function (img) {
+    img.removeAttribute('loading');
+    img.src = img.getAttribute('data-full');
+  });
+</script>
+</body>
+</html>

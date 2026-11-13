@@ -8,7 +8,7 @@
            item.image
            or '/imagenes/actividades/activity-card.png'
         %}
-        <img  class="activity-card-image"  src="{{ activityImage | thumb("card") | url }}" width="800" height="343" loading="lazy" decoding="async"  alt="{{ item.title }}">
+        <img  class="activity-card-image"  src="{{ activityImage | thumb("card") | url }}" data-full="{{ activityImage | url }}" width="800" height="343" loading="lazy" decoding="async"  alt="{{ item.title }}">
     </a>
 
 
