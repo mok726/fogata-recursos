@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Sin Agua Corriente en Casa"
-duration: "40 minutos (10 min explicación + 30 min revisión)"
+duration: "40 min"
+duration_detail: "40 minutos (10 min explicación + 30 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-agua-corriente-casa/"
 description: "Los participantes reflexionan sobre cómo sería la vida sin agua corriente, planificando con su familia cómo recolectar y usar agua de manera limitada."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "BioBlitz - Exploración del Área Natural"
-duration: "Semana 1: 2 horas, Semana 2: 4 horas, Semana 3: trabajo en grupos"
+duration: "3 semanas"
+duration_detail: "Semana 1: 2 horas, Semana 2: 4 horas, Semana 3: trabajo en grupos"
 layout: "layouts/activity.njk"
 permalink: "/activities/bioblitz-exploracion/"
 description: "Los participantes colaboran en la organización y ejecución de un BioBlitz, encontrando e identificando tantas especies como sea posible en un área específica."

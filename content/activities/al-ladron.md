@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¡Al Ladrón!"
-duration: "Toda una jornada (hasta 3 horas)"
+duration: "Hasta 3 h"
+duration_detail: "Toda una jornada (hasta 3 horas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/al-ladron/"
 description: "Juego de campamento de Baden-Powell: en algún momento del día un ladrón secreto se roba un trapo rojo y escapa; quien lo ve da la alarma y todos lo persiguen."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Alimentos Alrededor del Mundo"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-alrededor-del-mundo/"
 description: "Investigación de un alimento consumido en varios países y preparación de recetas de diferentes culturas."

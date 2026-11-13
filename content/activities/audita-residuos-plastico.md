@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Auditá Tus Hábitos de Uso de Plásticos y Averiguá a Dónde Van Tus Residuos"
-duration: "Flexible (seguimiento de 1 mes)"
+duration: "1 mes"
+duration_detail: "Flexible (seguimiento de 1 mes)"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-residuos-plastico/"
 description: "Los jóvenes auditan su uso de plásticos durante un mes, identifican dónde van sus residuos y se comprometen a reducir su consumo de plásticos en un 50%, documentando su progreso en redes sociales o blogs."

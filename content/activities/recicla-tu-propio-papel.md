@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reciclá Tu Propio Papel"
-duration: "2 horas + tiempo de secado"
+duration: "2 h +"
+duration_detail: "2 horas + tiempo de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/recicla-tu-propio-papel/"
 description: "Actividad práctica para fabricar papel reciclado casero a partir de papel de desecho, aprendiendo sobre el proceso de reciclaje."

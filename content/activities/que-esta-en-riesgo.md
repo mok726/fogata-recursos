@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Qué Está en Riesgo?"
-duration: "Semana 1: investigación, Semana 2: 1 hora de juego, Semana 3: investigación adicional (opcional)"
+duration: "2-3 semanas"
+duration_detail: "Semana 1: investigación, Semana 2: 1 hora de juego, Semana 3: investigación adicional (opcional)"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-en-riesgo/"
 description: "Los participantes experimentan los efectos del impacto de las especies invasoras en un ecosistema a través de un juego de Piedra-Papel-Tijera adaptado."

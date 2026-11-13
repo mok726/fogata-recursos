@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Biogás"
-duration: "2 horas + seguimiento de 5-10 días"
+duration: "2 h + 5-10 días"
+duration_detail: "2 horas + seguimiento de 5-10 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/biogas/"
 description: "Experimento para observar la producción de biogás a partir de materia orgánica en descomposición y aprender sobre microorganismos."

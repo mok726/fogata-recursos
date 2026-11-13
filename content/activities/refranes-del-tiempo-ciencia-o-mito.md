@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Refranes del Tiempo: ¿Ciencia o Mito?"
-duration: "45 minutos + observación durante el campamento"
+duration: "45 min +"
+duration_detail: "45 minutos + observación durante el campamento"
 layout: "layouts/activity.njk"
 permalink: "/activities/refranes-del-tiempo-ciencia-o-mito/"
 description: "Poner a prueba los refranes del tiempo que juntó Seton: cuáles tienen explicación científica y cuáles son puro mito."

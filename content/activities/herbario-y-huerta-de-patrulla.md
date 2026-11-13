@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Herbario y Huerta de Patrulla"
-duration: "Proyecto de varias semanas"
+duration: "Varias semanas"
+duration_detail: "Proyecto de varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/herbario-y-huerta-de-patrulla/"
 description: "Prácticas de Baden-Powell con plantas: juntar hojas y frutos, armar un herbario, reconocer cultivos, hacer una huerta de patrulla y competir con un cantero de flores."

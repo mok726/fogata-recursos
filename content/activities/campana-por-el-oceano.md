@@ -1,6 +1,7 @@
 ---
 title: "Campaña por el Océano"
-duration: "90 minutos + tiempo de campaña"
+duration: "90 min +"
+duration_detail: "90 minutos + tiempo de campaña"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-por-el-oceano/"
 description: "Organizá una campaña de concienciación sobre un problema del océano en tu comunidad."

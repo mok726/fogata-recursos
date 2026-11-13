@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Juego ¿A Dónde Va el Agua?"
-duration: "1 hora (40 min preparación + 20 min juego)"
+duration: "1 h"
+duration_detail: "1 hora (40 min preparación + 20 min juego)"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-a-donde-va-el-agua/"
 description: "Los participantes crean y juegan un juego de mesa para aprender cómo las acciones cotidianas pueden ayudar o dañar un cuerpo de agua."

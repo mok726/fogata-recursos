@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Agua: ¡Lean Todo sobre Ella!"
-duration: "3 horas 45 min (5 sesiones de 45 min)"
+duration: "3 h 45 min"
+duration_detail: "3 horas 45 min (5 sesiones de 45 min)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-lean-todo-sobre-ella/"
 description: "Los participantes crean su propio periódico centrado en el tema del agua, investigando y escribiendo artículos sobre diversos temas relacionados con el agua."

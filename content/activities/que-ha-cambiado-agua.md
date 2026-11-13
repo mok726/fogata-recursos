@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Qué Ha Cambiado?"
-duration: "1 hora 10 min (30 min explicación + 40 min revisión)"
+duration: "1 h 10 min"
+duration_detail: "1 hora 10 min (30 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-ha-cambiado-agua/"
 description: "Los participantes entrevistan a un familiar o miembro de la comunidad mayor para descubrir cómo han cambiado las fuentes y el uso del agua a lo largo del tiempo."

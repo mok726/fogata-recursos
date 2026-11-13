@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Conocé Tu Consumo de Electricidad"
-duration: "1.5 horas + seguimiento"
+duration: "1,5 h +"
+duration_detail: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conoce-tu-consumo-de-electricidad/"
 description: "Análisis y representación gráfica del consumo de electricidad diario para identificar áreas de mejora."

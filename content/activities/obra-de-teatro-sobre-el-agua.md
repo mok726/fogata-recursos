@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Obra de Teatro sobre el Agua"
-duration: "2 horas + presentación"
+duration: "2 h +"
+duration_detail: "2 horas + presentación"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-sobre-el-agua/"
 description: "Actividad creativa para escribir y representar una obra de teatro sobre una comunidad afectada por la escasez de agua debido al cambio climático."

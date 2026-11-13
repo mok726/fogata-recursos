@@ -2,7 +2,8 @@
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diario de Alimentos"
 seo_title: "Diario de Alimentos (Insignia Polinizadores)"
-duration: "1 día + investigación"
+duration: "1 día +"
+duration_detail: "1 día + investigación"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-polinizadores/"
 description: "Seguimiento de los alimentos consumidos en un día para investigar cómo fueron producidos y su relación con los polinizadores."

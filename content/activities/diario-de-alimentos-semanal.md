@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diario de Alimentos - Semanal"
-duration: "1 semana (seguimiento)"
+duration: "1 semana"
+duration_detail: "1 semana (seguimiento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-semanal/"
 description: "Actividad para tomar conciencia del consumo de carne y su relación con el cambio climático a través de un diario alimentario."

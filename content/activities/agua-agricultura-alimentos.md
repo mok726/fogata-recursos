@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Agua, Agricultura y Alimentos"
-duration: "2-3 horas (visita a campo)"
+duration: "2-3 h"
+duration_detail: "2-3 horas (visita a campo)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-agricultura-alimentos/"
 description: "Los participantes visitan una granja para comprender la relación entre el uso del agua, la agricultura y la producción de alimentos, reflexionando sobre los desafíos y la sostenibilidad."

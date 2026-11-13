@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Purificación de Agua (SODIS)"
-duration: "15 minutos + 6 horas de exposición"
+duration: "15 min + 6 h"
+duration_detail: "15 minutos + 6 horas de exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/purificacion-agua-sodis/"
 description: "Purifica agua usando la energía del Sol con el método SODIS, aprendiendo una técnica simple y efectiva para potabilizar agua."

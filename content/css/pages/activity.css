@@ -14,13 +14,43 @@
 }
 
 /* ---------- HERO ---------- */
+/* La imagen se ve COMPLETA: la caja toma la proporción de las
+   imágenes (1792×768) y la imagen va con contain. Si el texto
+   necesita más alto que eso, lo que sobra se rellena con la misma
+   imagen desenfocada en lugar de recortarla. En móvil la imagen va
+   arriba entera y el texto debajo. */
 .activity-hero {
-  background-size: cover;
-  background-position: center;
   width: 100%;
   margin: 0;
-  padding: 4rem 2rem;
+  padding: 3rem 2rem;
   position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  aspect-ratio: 1792 / 768;
+  max-height: 85vh;
+  display: flex;
+  align-items: center;
+  background: #1f2a22;
+}
+
+.activity-hero::before,
+.activity-hero::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+}
+
+.activity-hero::before {
+  inset: -30px;
+  background: var(--hero-img) center / cover no-repeat;
+  filter: blur(22px) brightness(0.6);
+}
+
+.activity-hero::after {
+  inset: 0;
+  background:
+    linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)),
+    var(--hero-img) center / contain no-repeat;
 }
 
 .activity-hero-container {
@@ -1041,4 +1071,28 @@ a.tag:focus-visible {
 
 .branch-others .branch-item img {
   opacity: 0.75;
+}
+
+/* Desglose de la duración (la versión corta va en el hero) */
+.info-item .value-detail {
+  font-size: 0.85rem;
+  font-weight: 400;
+  opacity: 0.75;
+  margin-top: 0.15rem;
+}
+
+/* Hero en móvil: imagen entera arriba, texto abajo sobre el
+   desenfocado (así el texto no tapa la imagen). */
+@media (max-width: 640px) {
+  .activity-hero {
+    aspect-ratio: auto;
+    max-height: none;
+    display: block;
+    padding: calc(100vw * 768 / 1792 + 1rem) 1rem 1.5rem;
+  }
+  .activity-hero::after {
+    inset: 0 0 auto 0;
+    aspect-ratio: 1792 / 768;
+    background: var(--hero-img) center / contain no-repeat;
+  }
 }

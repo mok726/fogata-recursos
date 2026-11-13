@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Inventos Inteligentes para el Agua"
-duration: "2 horas (1h preparación + 1h presentación)"
+duration: "2 h"
+duration_detail: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventos-inteligentes-agua/"
 description: "Los participantes investigan y presentan inventos innovadores diseñados para ahorrar y conservar agua, reflexionando sobre cómo la tecnología puede ayudar a proteger nuestros recursos hídricos."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Participá en el Plan de Tu Ciudad"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/participa-en-el-plan-de-tu-ciudad/"
 description: "Participación activa en la planificación de la ciudad a través de consejos juveniles, municipios y redes sociales."

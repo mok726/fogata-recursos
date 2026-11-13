@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Agua a Nuestro Alrededor"
-duration: "1 hora (15 min explicación + 40 min revisión)"
+duration: "1 h"
+duration_detail: "1 hora (15 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-en-las-noticias/"
 description: "Los participantes crean un álbum de recortes con artículos y fotografías sobre el agua, reflexionando sobre su importancia y presencia en los medios."

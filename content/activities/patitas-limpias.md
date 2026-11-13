@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Patitas Limpias"
-duration: "15 minutos por reunión (acumulativa)"
+duration: "15 min/reunión"
+duration_detail: "15 minutos por reunión (acumulativa)"
 layout: "layouts/activity.njk"
 permalink: "/activities/patitas-limpias/"
 description: "Sistema permanente de competencia por inspección para fomentar la limpieza y el orden en la Manada, donde las seisenas rotan roles de limpiadores y jueces acumulando 'Patitas Limpias'."

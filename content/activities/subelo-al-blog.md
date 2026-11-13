@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¡Subilo al Blog!"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/subelo-al-blog/"
 description: "Crear un blog grupal sobre cambio climático para compartir información, consejos y creatividad con la comunidad."

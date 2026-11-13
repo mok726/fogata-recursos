@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Limpieza de Playa"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-playa/"
 description: "Organización o participación en una limpieza de playa para proteger la biodiversidad costera."

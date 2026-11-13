@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Deshidratación Solar de Alimentos"
-duration: "3-5 horas de construcción; 1-3 días de secado"
+duration: "3-5 h + secado"
+duration_detail: "3-5 horas de construcción; 1-3 días de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/deshidratacion-solar-de-alimentos/"
 description: "Construí un deshidratador solar de cartón o de túnel y prepará fruta y verdura seca, o barritas energéticas, para la próxima caminata o campamento."

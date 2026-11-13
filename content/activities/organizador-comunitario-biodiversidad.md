@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Organizador Comunitario - Biodiversidad"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario-biodiversidad/"
 description: "Organización de un evento comunitario para crear conciencia sobre la biodiversidad y contactar medios de comunicación."

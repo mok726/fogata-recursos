@@ -1,6 +1,7 @@
 ---
 title: "Estudios Salados"
-duration: "45 minutos + observación"
+duration: "45 min +"
+duration_detail: "45 minutos + observación"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-salados/"
 description: "Experimentá con la desalinización del agua salada."

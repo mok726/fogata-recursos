@@ -1,6 +1,7 @@
 ---
 title: "Es Difícil Pasarse del H₂O"
-duration: "1 día + seguimiento"
+duration: "1 día +"
+duration_detail: "1 día + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-dificil-pasarse-del-h2o/"
 description: "Experimentá un día sin usar agua para entender la realidad de quienes no tienen acceso."

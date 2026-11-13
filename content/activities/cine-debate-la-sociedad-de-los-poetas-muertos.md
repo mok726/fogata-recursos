@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: La Sociedad de los Poetas Muertos"
-duration: "2 horas y media (120 min de película y 30 de charla)"
+duration: "2 h 30 min"
+duration_detail: "2 horas y media (120 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-la-sociedad-de-los-poetas-muertos/"
 description: "Cine-debate con «La sociedad de los poetas muertos» sobre la libertad de pensar distinto y de elegir el propio camino."

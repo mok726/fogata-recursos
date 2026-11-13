@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Día Mundial del Agua"
-duration: "40 minutos + 1 hora (más el evento, si lo organizan)"
+duration: "1 h 40 min +"
+duration_detail: "40 minutos + 1 hora (más el evento, si lo organizan)"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-mundial-del-agua/"
 description: "Organicen la celebración del Día Mundial del Agua (22 de marzo) en la escuela o el grupo."

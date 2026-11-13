@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diseñá Tu Propia Iniciativa de EDS al Aire Libre"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/disena-tu-propia-iniciativa-de-eds/"
 description: "Diseño de una iniciativa de Educación para el Desarrollo Sostenible (EDS) al aire libre para conectar a la comunidad con la naturaleza."

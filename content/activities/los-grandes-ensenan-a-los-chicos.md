@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Los Grandes Enseñan a los Chicos"
-duration: "Una reunión para preparar + 90 minutos de jornada"
+duration: "2 reuniones"
+duration_detail: "Una reunión para preparar + 90 minutos de jornada"
 layout: "layouts/activity.njk"
 permalink: "/activities/los-grandes-ensenan-a-los-chicos/"
 description: "Los Caminantes o Rovers preparan y conducen una jornada de juegos de seguridad vial por estaciones para la Manada o la Colonia de Castores."

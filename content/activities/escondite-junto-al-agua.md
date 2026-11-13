@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Escondite Junto al Agua"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/escondite-junto-al-agua/"
 description: "Construcción de un escondite camuflado junto al agua para observar la vida silvestre sin ser visto."

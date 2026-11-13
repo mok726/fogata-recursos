@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Tu Cuerpo de Agua Favorito"
-duration: "2 horas (1h organización + 30 min exposición + 30 min revisión)"
+duration: "2 h"
+duration_detail: "2 horas (1h organización + 30 min exposición + 30 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-cuerpo-de-agua-favorito/"
 description: "Los participantes organizan un concurso de fotografía para descubrir el cuerpo de agua favorito de su escuela o grupo, reflexionando sobre la importancia de proteger los recursos hídricos locales."

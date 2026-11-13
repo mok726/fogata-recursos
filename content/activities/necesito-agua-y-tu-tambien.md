@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Necesito Agua y Vos También"
-duration: "2 horas (dos sesiones de 1h)"
+duration: "2 h"
+duration_detail: "2 horas (dos sesiones de 1h)"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesito-agua-y-tu-tambien/"
 description: "Los participantes exploran la dependencia del agua desde la perspectiva de un animal local, creando un anuncio publicitario para concienciar sobre la importancia de proteger las fuentes de agua."

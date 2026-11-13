@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Agua y Salud Humana"
-duration: "1 hora 20 min (dos sesiones de 40 min)"
+duration: "1 h 20 min"
+duration_detail: "1 hora 20 min (dos sesiones de 40 min)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-y-salud-humana/"
 description: "Los participantes investigan y escriben un artículo periodístico sobre la relación entre la disponibilidad de agua y la salud humana, reflexionando sobre el acceso al agua potable en el mundo."

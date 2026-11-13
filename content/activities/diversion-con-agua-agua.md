@@ -2,7 +2,8 @@
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Diversión con Agua"
 seo_title: "Diversión con Agua: Planificar una Actividad (Insignia Agua)"
-duration: "1 hora (más tiempo para la tarea)"
+duration: "1 h +"
+duration_detail: "1 hora (más tiempo para la tarea)"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua-agua/"
 description: "Los participantes planifican y realizan una actividad divertida que involucra el uso del agua con sus familias, reflexionando sobre la importancia del agua en la recreación."

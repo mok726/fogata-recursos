@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Carrera de Obstáculos del Agua"
-duration: "1 hora (30 min preparación + 30-40 min juego)"
+duration: "1 h"
+duration_detail: "1 hora (30 min preparación + 30-40 min juego)"
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-obstaculos-agua/"
 description: "Los participantes experimentan cómo las personas que no tienen acceso al agua deben esforzarse para obtener este recurso, a través de una carrera de obstáculos que simula la recolección de agua."

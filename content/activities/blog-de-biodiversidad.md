@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Blog de Biodiversidad"
-duration: "2 horas + seguimiento"
+duration: "2 h +"
+duration_detail: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/blog-de-biodiversidad/"
 description: "Creación de un blog o diario sobre biodiversidad para compartir consejos y acciones para la juventud."

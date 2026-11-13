@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine del Agua"
-duration: "3-4 horas (1h preparación + 2-3h proyección)"
+duration: "3-4 h"
+duration_detail: "3-4 horas (1h preparación + 2-3h proyección)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-del-agua/"
 description: "Los participantes organizan una proyección de cine para recaudar fondos para un proyecto relacionado con el agua, aprendiendo sobre la importancia de la acción colectiva y la solidaridad."

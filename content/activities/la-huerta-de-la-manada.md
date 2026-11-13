@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La Huerta de la Manada"
-duration: "Varias reuniones (60 minutos la primera)"
+duration: "Varias reuniones"
+duration_detail: "Varias reuniones (60 minutos la primera)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-huerta-de-la-manada/"
 description: "Los consejos de Baden-Powell para la especialidad de Jardinero: preparar la tierra, sembrar, ralear, regar, cuidar macetas, hacer brotar un bulbo en un frasco y berro sobre un paño."

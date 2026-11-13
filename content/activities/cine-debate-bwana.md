@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cine Debate: Bwana"
-duration: "2 horas (90 min de película y 30 de charla)"
+duration: "2 h"
+duration_detail: "2 horas (90 min de película y 30 de charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-debate-bwana/"
 description: "Cine-debate con «Bwana» (España, 1996) sobre el racismo y el rechazo a las personas migrantes, y cómo aparece incluso en quienes dicen no ser racistas."

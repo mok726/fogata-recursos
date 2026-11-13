@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Jardín de Lluvia"
-duration: "3 horas (1h organización + 2h construcción)"
+duration: "3 h"
+duration_detail: "3 horas (1h organización + 2h construcción)"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-de-lluvia/"
 description: "Los participantes construyen un jardín de lluvia en su escuela o lugar de reunión para filtrar el agua de lluvia, reducir la escorrentía y mejorar el medio ambiente local."

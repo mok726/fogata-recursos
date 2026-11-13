@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Arte Solar"
-duration: "15 minutos - 1 hora"
+duration: "15 min a 1 h"
+duration_detail: "15 minutos - 1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-solar/"
 description: "Enfoca la luz del Sol con una lupa sobre una tabla de madera para marcar dibujos y palabras, aprendiendo sobre la potencia de la energía solar."
