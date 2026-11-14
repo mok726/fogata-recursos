@@ -818,3 +818,26 @@
 }
 .badge-hero { margin-top: 1.5rem; }
 @media (max-width: 640px) { .badge-hero { margin-top: 0.75rem; } }
+
+/* Título y descripción del hero usan todo el ancho. Para que el
+   texto se lea también sobre la parte clara de la imagen, el
+   oscurecido va de abajo hacia arriba (donde está el texto) además
+   del leve degradé desde la izquierda. */
+.badge-hero-content {
+  max-width: none;
+  padding-right: 5.5rem;   /* deja libre la flecha "siguiente" */
+}
+.badge-hero-content .badge-tagline {
+  max-width: none;
+}
+.badge-hero::after {
+  background:
+    linear-gradient(to top, rgba(0,0,0,.6) 0%, rgba(0,0,0,.3) 45%, rgba(0,0,0,0) 75%),
+    linear-gradient(to right, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 70%);
+}
+.badge-tagline {
+  text-shadow: 0 1px 4px rgba(0,0,0,.6);
+}
+@media (max-width: 768px) {
+  .badge-hero-content { padding-right: 1.25rem; }
+}
