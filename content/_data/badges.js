@@ -119,7 +119,7 @@ sections: {
       summary:
         "La insignia de Género promueve la igualdad, la inclusión y el respeto entre personas.\n\nFomenta la reflexión sobre roles sociales y derechos humanos.",
       logo: "/imagenes/insignias/genero.png",
-      hero_image: "/imagenes/insignias/genero-hero.png",
+      hero_image: "/imagenes/insignias/genero-hero.jpg",
       sources: [
         {
           name: "YUNGA Gender Badge",
@@ -764,7 +764,7 @@ sections: {
       summary:
         "La insignia Seguridad Alimentaria",
       logo: "/imagenes/insignias/seguridadalimentaria.png",
-      hero_image: "/imagenes/insignias/sacc-hero.png",  //https://www.fao.org/typo3temp/pics/1d0b6c2a30.jpg
+      hero_image: "/imagenes/insignias/sacc-hero.jpg",  //https://www.fao.org/typo3temp/pics/1d0b6c2a30.jpg
       sources: [
         {
           name: "YUNGA INSIGNIA DE LA SEGURIDAD ALIMENTARIA Y EL CAMBIO CLIMÁTICO",
@@ -912,7 +912,7 @@ sections: {
       summary:
         "La insignia promueve el cuidado del planeta. y es parte del programa SCOUT",
       logo: "/imagenes/insignias/cfn.png",
-      hero_image: "/imagenes/insignias/cfn-hero.png",
+      hero_image: "/imagenes/insignias/cfn-hero.jpg",
       sources: [
         {
           name: "Champions for Nature Challenge – Action Kit (OMMS, 2020)",
@@ -984,7 +984,7 @@ sections: {
       summary:
         "La insignia de Cambio Climático aborda causas y efectos del calentamiento global.\n\nPromueve acciones de mitigación y adaptación.",
       logo: "/imagenes/insignias/cambioclimatico.png",
-      hero_image: "/imagenes/insignias/cambioclimatico-hero.png",  //https://www.fao.org/typo3temp/pics/c78dfee699.jpg",
+      hero_image: "/imagenes/insignias/cambioclimatico-hero.jpg",  //https://www.fao.org/typo3temp/pics/c78dfee699.jpg",
       sources: [
         {
           name: "YUNGA Climate Change Badge",
@@ -2133,7 +2133,7 @@ sections: {
   summary:
     "Esta no es una insignia oficial: es una colección de actividades tomadas de «Aprendiendo a ser II. Recursos teóricos y prácticos para trabajar el desarrollo espiritual en los Grupos Scouts», que el Equipo de Desarrollo Espiritual de ASDE - Scouts de España publicó en 2011. La publicación entiende el desarrollo espiritual como una búsqueda personal en torno a grandes preguntas, entendidas o no como respuestas religiosas: ¿quiénes somos?, ¿de dónde venimos?, ¿a dónde vamos?, ¿qué estamos dispuestos a hacer por los demás?\n\nLas secciones siguen los cuatro temas de la publicación. Muchas actividades son cine-debates o canciones-debate: las fichas citan la película o la canción, pero no la incluyen; cada Grupo la consigue por su cuenta. Cada ficha trae el texto original de ASDE y una adaptación al lenguaje y las costumbres de Argentina.",
   logo: "/imagenes/insignias/asdeaprendiendo-logo.png",
-  hero_image: "/imagenes/insignias/asdeaprendiendo-hero.png",
+  hero_image: "/imagenes/insignias/asdeaprendiendo-hero.jpg",
   sources: [
     {
       name: "ASDE - Scouts de España, Aprendiendo a ser II (2011) – Biblioteca Scout",
@@ -2256,7 +2256,7 @@ sections: {
   summary:
     "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: *The Wolf Cub's Handbook* (1916).\n\nLas actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/bpmanada-logo.png",
-  hero_image: "/imagenes/insignias/bpmanada-hero.png",
+  hero_image: "/imagenes/insignias/bpmanada-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, The Wolf Cub's Handbook, 9.ª ed. (1938)",
@@ -2328,7 +2328,7 @@ sections: {
   summary:
     "*Esta no es una insignia oficial*: es una colección de actividades tomadas de _«Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad»_, que ASDE - Scouts de España publicó en 2018.\n\n<p> Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\n<p>Las secciones siguen los dos temas de la publicación, más el anexo del *«Ecocargo»*, la comisión ambiental del Grupo Scout Chan 292.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/asdeambiente-logo.png",
-  hero_image: "/imagenes/insignias/asdeambiente-hero.png",
+  hero_image: "/imagenes/insignias/asdeambiente-hero.jpg",
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
@@ -2376,7 +2376,7 @@ sections: {
   summary:
     "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). \n\n<p>Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
   logo: "/imagenes/insignias/tecnicascout.png",
-  hero_image: "/imagenes/insignias/tecnicascout-hero.png",
+  hero_image: "/imagenes/insignias/tecnicascout-hero.jpg",
   sources: [
     {
       name: "Girl Scouts of the USA, Scouting for Girls, Official Handbook of the Girl Scouts (1920) – Project Gutenberg #28490",
@@ -2460,7 +2460,7 @@ sections: {
   summary:
     "**Esta no es una insignia oficial**: es una colección de actividades tomadas de *«Fichas de actividades. Concurso de actividades de Salud y TIC»*, que ASDE - Scouts de España publicó en 2017. \n\n<p>Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\n<p>Las secciones siguen la clasificación por rama de la publicación. \n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. \n\n<p>Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/asdesaludtic-logo.png",
-  hero_image: "/imagenes/insignias/asdesaludtic-hero.png",
+  hero_image: "/imagenes/insignias/asdesaludtic-hero.jpg",
   sources: [
     {
       name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
@@ -2512,7 +2512,7 @@ sections: {
   summary:
     "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Las actividades son prácticas y casi todas se hacen en la calle o al aire libre: recorridos por el barrio, caminatas por la ruta, revisión de la bici y acciones para mejorar la seguridad del barrio.\n\n<p>Las señales y reglas son las de uso internacional (Convención de Viena sobre la Señalización Vial). \n\n<p>Donde hace falta citar una ley o un organismo, va como ejemplo las de Argentina: consultá las normas de tu país.",
   logo: "/imagenes/insignias/vial-logo.png",
-  hero_image: "/imagenes/insignias/vial-hero.png",
+  hero_image: "/imagenes/insignias/vial-hero.jpg",
   sources: [
     {
       name: "Agencia Nacional de Seguridad Vial (Argentina) – material educativo (referencia)",
@@ -2563,7 +2563,7 @@ sections: {
   summary:
     "**Esta no es una insignia oficial**: es una colección de actividades tomadas de la **«Recopilación de experiencias de la campaña 2012 Jugando juntos/as»**, que la *Red de Igualdad de Género y Coeducación* de *ASDE - Scouts de España* publicó en 2013.\n\n<p> Reúne las actividades que los grupos scouts de toda España hicieron en esa campaña.\n\n<p>Las secciones siguen los tres bloques de la publicación.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
   logo: "/imagenes/insignias/asdecoeducacion-logo.png",
-  hero_image: "/imagenes/insignias/asdecoeducacion-hero.png",
+  hero_image: "/imagenes/insignias/asdecoeducacion-hero.jpg",
   sources: [
     {
       name: "ASDE - Scouts de España, Recopilación de experiencias de la campaña 2012 Jugando juntos/as (2013) – Biblioteca Scout",
