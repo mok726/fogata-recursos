@@ -74,9 +74,10 @@
 }
 
 /* Redes sociales: íconos (Simple Icons, CC0) en lugar del nombre. */
+/* 3 por renglón: 6 redes = 2 renglones, columna más angosta. */
 .footer-redes {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 2.5rem);
   gap: 0.6rem;
   margin-bottom: 0.9rem;
 }
