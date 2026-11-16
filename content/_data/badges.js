@@ -2124,66 +2124,13 @@ sections: {
 
 
 
-
-{
-  id: "asdeaprendiendo",
-  name: "Aprendiendo a Ser (ASDE)",
-  description:
-    "Actividades de desarrollo espiritual sobre la libertad, la autoestima, el sentido de la vida y el respeto a los demás, de la publicación «Aprendiendo a ser II» de ASDE - Scouts de España (2011).",
-  summary:
-    "Esta no es una insignia oficial: es una colección de actividades tomadas de «Aprendiendo a ser II. Recursos teóricos y prácticos para trabajar el desarrollo espiritual en los Grupos Scouts», que el Equipo de Desarrollo Espiritual de ASDE - Scouts de España publicó en 2011. La publicación entiende el desarrollo espiritual como una búsqueda personal en torno a grandes preguntas, entendidas o no como respuestas religiosas: ¿quiénes somos?, ¿de dónde venimos?, ¿a dónde vamos?, ¿qué estamos dispuestos a hacer por los demás?\n\nLas secciones siguen los cuatro temas de la publicación. Muchas actividades son cine-debates o canciones-debate: las fichas citan la película o la canción, pero no la incluyen; cada Grupo la consigue por su cuenta. Cada ficha trae el texto original de ASDE y una adaptación al lenguaje y las costumbres de Argentina.",
-  logo: "/imagenes/insignias/asdeaprendiendo-logo.png",
-  hero_image: "/imagenes/insignias/asdeaprendiendo-hero.jpg",
-  sources: [
-    {
-      name: "ASDE - Scouts de España, Aprendiendo a ser II (2011) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/19353/Aprendiendo-a-Ser-II_.pdf"
-    }
-  ],
-  license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC 3.0). Esa licencia cubre solo lo que es de ASDE: las actividades basadas en material de otras organizaciones o autores se publican únicamente con su permiso. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
-  },
-  attribution: {
-    organization: "ASDE - Scouts de España",
-    year: "2011"
-  },
-  requirements: {
-    summary:
-      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
-    rules: [
-      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
-      "Las actividades no son confesionales: respetá las creencias de cada protagonista y las orientaciones de tu organización scout nacional",
-      "Antes de un cine-debate, mirá la película y revisá su calificación por edad"
-    ]
-  },
-  sections: {
-    A: {
-      title: "La Libertad",
-      description: "Elegir, decidir y descubrir los límites de la libertad; ponerse en el lugar de quien la perdió."
-    },
-    B: {
-      title: "Fidelidad a Uno Mismo",
-      description: "Autoestima y autoconcepto: conocerse, aceptarse y quererse."
-    },
-    C: {
-      title: "El Sentido de la Vida",
-      description: "Las grandes preguntas: quién soy, qué me hace feliz, la muerte y la trascendencia."
-    },
-    D: {
-      title: "Respeto a los Demás",
-      description: "Justicia, solidaridad y prejuicios: compartir, ponerse en el lugar del otro y cuidar la casa común."
-    }
-  }
-},
 {
   id: "badenpowell",
   name: "Homenaje a Baden-Powell",
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (B-P) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por *Scouting for Boys* (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por **Scouting for Boys** (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
@@ -2250,11 +2197,11 @@ sections: {
 },
 {
   id: "badenpowellmanada",
-  name: "Homenaje a B-P: Manada",
+  name: "Homenaje a BP: Manada",
   description:
     "Juegos, danzas y prácticas para la Manada tomados del Wolf Cub's Handbook de Robert Baden-Powell.",
   summary:
-    "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: *The Wolf Cub's Handbook* (1916).\n\nLas actividades salen de la 9.ª edición (1938), la última que revisó él mismo, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "*Esta no es una insignia oficial*: es una colección hermana de *«Homenaje a Baden-Powell»*, dedicada al libro que B-P escribió para los lobatos: **The Wolf Cub's Handbook** (1916).\n\nLas actividades salen de la *9.ª edición* (1938), la última que *revisó él mismo*, cotejada con una reimpresión de época (India, 1944). \n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad. \n\n<p>Las actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/bpmanada-logo.png",
   hero_image: "/imagenes/insignias/bpmanada-hero.jpg",
   sources: [
@@ -2320,61 +2267,14 @@ sections: {
     }
   }
 },
-{
-  id: "asdeambiente",
-  name: "Medio Ambiente y Espiritualidad (ASDE)",
-  description:
-    "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
-  summary:
-    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de _«Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad»_, que ASDE - Scouts de España publicó en 2018.\n\n<p> Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\n<p>Las secciones siguen los dos temas de la publicación, más el anexo del *«Ecocargo»*, la comisión ambiental del Grupo Scout Chan 292.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
-  logo: "/imagenes/insignias/asdeambiente-logo.png",
-  hero_image: "/imagenes/insignias/asdeambiente-hero.jpg",
-  sources: [
-    {
-      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
-    }
-  ],
-  license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
-  },
-  attribution: {
-    organization: "ASDE - Scouts de España",
-    year: "2018"
-  },
-  requirements: {
-    summary:
-      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
-    rules: [
-      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
-      "Respetá las notas de seguridad y de cuidado de cada actividad",
-      "Las actividades de espiritualidad no son confesionales: adaptalas a las creencias de cada protagonista y a las orientaciones de tu organización scout nacional"
-    ]
-  },
-  sections: {
-    A: {
-      title: "Medio Ambiente",
-      description: "El agua en el campamento, los residuos, la reforestación y el contacto con la naturaleza."
-    },
-    B: {
-      title: "Espiritualidad",
-      description: "La buena acción, los sueños y la fe, y las frases de Baden-Powell para pensar los valores scouts."
-    },
-    C: {
-      title: "Ecocargo",
-      description: "Una comisión del Grupo que se ocupa todo el año de reducir su impacto ambiental."
-    }
-  }
-},
+
 {
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
     "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
   summary:
-    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de Horace Kephart y Ernest Thompson Seton, Knots, Splices and Rope Work de A. Hyatt Verrill (1912) y Shelters, Shacks and Shanties de Daniel Carter Beard (1914). \n\n<p>Los amarres y el armado de carpa vienen de la Pathfinder Wiki, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de *Horace Kephart* y *Ernest Thompson Seton*, **Knots, Splices and Rope Work** de *A. Hyatt Verrill* (1912) y **Shelters, Shacks and Shanties** de *Daniel Carter Beard* (1914). \n\n<p>Los amarres y el armado de carpa vienen de la **Pathfinder Wiki*, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
   logo: "/imagenes/insignias/tecnicascout.png",
   hero_image: "/imagenes/insignias/tecnicascout-hero.jpg",
   sources: [
@@ -2453,58 +2353,6 @@ sections: {
   }
 },
 {
-  id: "asdesaludtic",
-  name: "Salud y TIC (ASDE)",
-  description:
-    "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
-  summary:
-    "**Esta no es una insignia oficial**: es una colección de actividades tomadas de *«Fichas de actividades. Concurso de actividades de Salud y TIC»*, que ASDE - Scouts de España publicó en 2017. \n\n<p>Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\n<p>Las secciones siguen la clasificación por rama de la publicación. \n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. \n\n<p>Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
-  logo: "/imagenes/insignias/asdesaludtic-logo.png",
-  hero_image: "/imagenes/insignias/asdesaludtic-hero.jpg",
-  sources: [
-    {
-      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
-      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
-    }
-  ],
-  license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
-  },
-  attribution: {
-    organization: "ASDE - Scouts de España",
-    year: "2017"
-  },
-  requirements: {
-    summary:
-      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
-    rules: [
-      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
-      "Respetá las notas de seguridad y de cuidado de cada actividad",
-      "Si sacás fotos de los protagonistas, seguí las normas de tu organización scout nacional y contá con la autorización de las familias"
-    ]
-  },
-  sections: {
-    A: {
-      title: "Castores",
-      description: "Conocer el cuerpo, comer rico y sano, y jugar con los hábitos de higiene."
-    },
-    B: {
-      title: "Manada",
-      description: "Prepararse para la acampada: qué llevar y cómo ordenarlo."
-    },
-    C: {
-      title: "Todo el Grupo",
-      description: "Actividades para hacer con varias ramas juntas: autoestima, belleza y riesgos de las tecnologías."
-    },
-    D: {
-      title: "Scouts, Caminantes y Rovers",
-      description: "Darse cuenta de cuánto tiempo se pasa frente a las pantallas y buscar otras formas de ocio."
-    }
-  }
-},
-{
   id: "vial",
   name: "Seguridad Vial",
   description:
@@ -2552,6 +2400,166 @@ sections: {
     D: {
       title: "Toma Acción",
       description: "Detectar los puntos peligrosos del barrio, enseñar a los más chicos y saber qué hacer ante un choque."
+    }
+  }
+},
+
+
+
+
+
+
+
+	  
+{
+  id: "asdeaprendiendo",
+  name: "Aprendiendo a Ser (ASDE)",
+  description:
+    "Actividades de desarrollo espiritual sobre la libertad, la autoestima, el sentido de la vida y el respeto a los demás, de la publicación «Aprendiendo a ser II» de ASDE - Scouts de España (2011).",
+  summary:
+    "**Esta no es una insignia oficial**: es una colección de actividades tomadas de **«Aprendiendo a ser II. Recursos teóricos y prácticos para trabajar el desarrollo espiritual en los Grupos Scouts»**, que el *Equipo de Desarrollo Espiritual* de *ASDE - Scouts de España* publicó en 2011. La publicación entiende el desarrollo espiritual como una búsqueda personal en torno a grandes preguntas, entendidas o no como respuestas religiosas: *¿quiénes somos?*, *¿de dónde venimos?*, *¿a dónde vamos?*, *¿qué estamos dispuestos a hacer por los demás?*\n\nLas secciones siguen los cuatro temas de la publicación. Muchas actividades son cine-debates o canciones-debate: las fichas citan la película o la canción, pero no la incluyen; cada Grupo la consigue por su cuenta. Cada ficha trae el texto original de ASDE y una adaptación al lenguaje y las costumbres de Argentina.",
+  logo: "/imagenes/insignias/asdeaprendiendo-logo.png",
+  hero_image: "/imagenes/insignias/asdeaprendiendo-hero.jpg",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Aprendiendo a ser II (2011) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/19353/Aprendiendo-a-Ser-II_.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC 3.0). Esa licencia cubre solo lo que es de ASDE: las actividades basadas en material de otras organizaciones o autores se publican únicamente con su permiso. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2011"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Las actividades no son confesionales: respetá las creencias de cada protagonista y las orientaciones de tu organización scout nacional",
+      "Antes de un cine-debate, mirá la película y revisá su calificación por edad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "La Libertad",
+      description: "Elegir, decidir y descubrir los límites de la libertad; ponerse en el lugar de quien la perdió."
+    },
+    B: {
+      title: "Fidelidad a Uno Mismo",
+      description: "Autoestima y autoconcepto: conocerse, aceptarse y quererse."
+    },
+    C: {
+      title: "El Sentido de la Vida",
+      description: "Las grandes preguntas: quién soy, qué me hace feliz, la muerte y la trascendencia."
+    },
+    D: {
+      title: "Respeto a los Demás",
+      description: "Justicia, solidaridad y prejuicios: compartir, ponerse en el lugar del otro y cuidar la casa común."
+    }
+  }
+},
+{
+  id: "asdeambiente",
+  name: "Medio Ambiente y Espiritualidad (ASDE)",
+  description:
+    "Juegos, talleres y reflexiones sobre el agua, los residuos, la reforestación y la búsqueda de sentido, del concurso de actividades de ASDE - Scouts de España (2018).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad»**, que *ASDE - Scouts de España* publicó en 2018.\n\n<p> Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación ambiental y en espiritualidad.\n\n<p>Las secciones siguen los dos temas de la publicación, más el anexo del **«Ecocargo»**, la comisión ambiental del *Grupo Scout Chan 292*.\n\n<p> Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador.\n\n<p> Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/asdeambiente-logo.png",
+  hero_image: "/imagenes/insignias/asdeambiente-hero.jpg",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad (2018) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17859/concurso-actividades-medio-ambiente-y-espiritualidad_2018_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2018"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Las actividades de espiritualidad no son confesionales: adaptalas a las creencias de cada protagonista y a las orientaciones de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Medio Ambiente",
+      description: "El agua en el campamento, los residuos, la reforestación y el contacto con la naturaleza."
+    },
+    B: {
+      title: "Espiritualidad",
+      description: "La buena acción, los sueños y la fe, y las frases de Baden-Powell para pensar los valores scouts."
+    },
+    C: {
+      title: "Ecocargo",
+      description: "Una comisión del Grupo que se ocupa todo el año de reducir su impacto ambiental."
+    }
+  }
+},
+{
+  id: "asdesaludtic",
+  name: "Salud y TIC (ASDE)",
+  description:
+    "Juegos y talleres de hábitos saludables, autoestima y uso responsable de la tecnología, del concurso de actividades de ASDE - Scouts de España (2017).",
+  summary:
+    "**Esta no es una insignia oficial**: es una colección de actividades tomadas de **«Fichas de actividades. Concurso de actividades de Salud y TIC»**, que *ASDE - Scouts de España* publicó en 2017. \n\n<p>Las actividades las propusieron grupos scouts de toda España para compartir su trabajo en educación para la salud y en el uso responsable de las tecnologías de la información y la comunicación (TIC).\n\n<p>Las secciones siguen la clasificación por rama de la publicación. \n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. \n\n<p>Las actividades son de los grupos que las crearon; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/asdesaludtic-logo.png",
+  hero_image: "/imagenes/insignias/asdesaludtic-hero.jpg",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades. Concurso de actividades de Salud y TIC (2017) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17286/concurso-de-actividades-de-salud-y-tics_2017_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España tiene licencia Creative Commons Reconocimiento-NoComercial (BY-NC), que permite obras derivadas sin uso comercial. Las adaptaciones son de Fogata de Recursos y se comparten bajo CC BY-NC-SA 4.0."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2017"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Si sacás fotos de los protagonistas, seguí las normas de tu organización scout nacional y contá con la autorización de las familias"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Castores",
+      description: "Conocer el cuerpo, comer rico y sano, y jugar con los hábitos de higiene."
+    },
+    B: {
+      title: "Manada",
+      description: "Prepararse para la acampada: qué llevar y cómo ordenarlo."
+    },
+    C: {
+      title: "Todo el Grupo",
+      description: "Actividades para hacer con varias ramas juntas: autoestima, belleza y riesgos de las tecnologías."
+    },
+    D: {
+      title: "Scouts, Caminantes y Rovers",
+      description: "Darse cuenta de cuánto tiempo se pasa frente a las pantallas y buscar otras formas de ocio."
     }
   }
 },
