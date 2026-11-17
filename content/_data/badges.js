@@ -2512,6 +2512,49 @@ sections: {
   }
 },
 {
+  id: "asdefichas2001",
+  name: "Carpeta de Fichas 2001 (ASDE)",
+  description:
+    "Fichas de valores, paz y desarrollo, igualdad e integración, ambiente y orientación vocacional para todas las ramas, de la carpeta de actividades de ASDE - Scouts de España (2001).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.",
+  logo: "/imagenes/insignias/general-logo.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades para las ramas/secciones educativas (2001) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Las canciones, poemas y películas que citan algunas fichas pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2001"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Algunas fichas son de 2001: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Educación en Valores",
+      description: "Cuentos, canciones y dinámicas para descubrir y pensar los valores, desde el lema de los Castores hasta la Promesa."
+    },
+    E: {
+      title: "Orientación Vocacional y Autoestima",
+      description: "Autoestima, profesiones, liderazgo y primeros pasos en la búsqueda de trabajo."
+    }
+  }
+},
+{
   id: "asdesaludtic",
   name: "Salud y TIC (ASDE)",
   description:
