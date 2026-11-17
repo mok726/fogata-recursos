@@ -1491,6 +1491,67 @@ sections: {
     },
 
     {
+      id: "desperdicio",
+      name: "Pérdida y Desperdicio de Alimentos",
+      description:
+        "Entender por qué se pierde y se tira comida, qué impacto tiene y cómo evitarlo.",
+      summary:
+        "La insignia de Pérdida y Desperdicio de Alimentos invita a descubrir cuánta comida se pierde entre el campo y la mesa, y cuánta se tira en casa, en la escuela y en los comercios.\n\nPropone planificar, aprovechar las sobras, compostar, donar y llevar el mensaje a la comunidad.",
+      logo: "/imagenes/insignias/desperdicio.png",
+      sources: [
+        {
+          name: "YUNGA Food loss & waste Challenge Badge",
+          url: "https://doi.org/10.4060/ce0688en"
+        }
+      ],
+      license: {
+        type: "CC BY-NC-SA 4.0",
+        url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+        note: "Adaptación y traducción de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio. Las fotos de la FAO no están incluidas."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+      requirements: {
+        summary:
+          "Completar las dos actividades obligatorias de la sección A, una de las dos obligatorias de cada una de las secciones B, C y D, y al menos una actividad opcional de cada sección.",
+        rules: [
+          "Sección A: hacer A.1 y A.2, más al menos una actividad opcional",
+          "Sección B: hacer B.1 o B.2, más al menos una actividad opcional",
+          "Sección C: hacer C.1 o C.2, más al menos una actividad opcional",
+          "Sección D: hacer D.1 o D.2, más al menos una actividad opcional"
+        ]
+      },
+      sections: {
+        A: {
+          title: "Entender las pérdidas y el desperdicio de alimentos",
+          description: "Qué son las pérdidas y el desperdicio de alimentos, por qué ocurren y cómo se relacionan con los Objetivos de Desarrollo Sostenible."
+        },
+        B: {
+          title: "Impactos de las pérdidas y el desperdicio",
+          description: "Cómo afectan a la seguridad alimentaria, al ambiente y a la economía."
+        },
+        C: {
+          title: "Soluciones a las pérdidas y el desperdicio",
+          description: "Qué se puede hacer en cada eslabón de la cadena de valor de los alimentos y qué políticas ayudan."
+        },
+        D: {
+          title: "Tomá acción",
+          description: "Llevar lo aprendido a la escuela, al grupo y a la comunidad."
+        }
+      },
+      documents: [
+        {
+          title: "Food loss & waste – Challenge badge",
+          title_es: "Insignia de Pérdida y Desperdicio de Alimentos – Cuaderno de actividades (en inglés)",
+          url: "https://doi.org/10.4060/ce0688en",
+          type: "pdf"
+        }
+      ]
+    },
+
+    {
       id: "hambre",
       name: "Acabar con el Hambre",
       description:
