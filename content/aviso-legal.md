@@ -8,7 +8,7 @@ permalink: /aviso-legal/
 
 # Aviso legal
 
-*Última actualización: 10 de noviembre de 2026.*
+*Última actualización: 17 de noviembre de 2026.*
 
 ## Para qué está el sitio
 
@@ -43,6 +43,14 @@ Muchas actividades se basan en materiales de otras organizaciones (ver [Licencia
 Los enlaces a sitios externos se incluyen como referencia. Fogata de Recursos no controla esos sitios y no se responsabiliza por su contenido, disponibilidad ni condiciones de uso.
 
 Fogata de Recursos no está afiliada a ninguna de las organizaciones citadas, y ninguna de ellas respalda este sitio.
+
+<h2 id="marcas-nombres-y-logos">Marcas, nombres y logos</h2>
+
+En el sitio aparecen nombres, marcas, logos e imágenes de insignias de otras organizaciones (por ejemplo, la Organización Mundial del Movimiento Scout, la FAO y YUNGA, ASDE – Scouts de España, Solafrica o Scouts de Argentina). Se usan **solo con fines ilustrativos y de orientación**: para identificar de dónde viene cada material, dar el crédito que corresponde y ayudar a encontrar la propuesta original.
+
+Ese uso **no implica respaldo, aprobación, patrocinio ni afiliación** por parte de sus titulares, ni que ellos hayan revisado el contenido de este sitio, salvo que se indique expresamente. Los nombres, marcas y logos pertenecen a sus respectivos titulares.
+
+Si sos titular de alguna de estas marcas y preferís que no aparezca, o que se use de otra forma, escribinos por el [formulario de comentarios](../feedback/) y la retiramos o la corregimos.
 
 ## Contacto
 
