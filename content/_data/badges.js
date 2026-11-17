@@ -1135,6 +1135,76 @@ sections: {
     },
 
     {
+      id: "restauracion",
+      name: "Restauración de Ecosistemas",
+      description:
+        "Recuperar y cuidar los ecosistemas degradados.",
+      summary:
+        "La insignia de Restauración de Ecosistemas invita a conocer cómo se degradan bosques, suelos, humedales y otros ambientes, y qué se puede hacer para recuperarlos.\n\nPromueve acciones concretas de cuidado y restauración en la comunidad.",
+      logo: "/imagenes/insignias/ecosystemsrestoration.png",
+      hero_image: "/imagenes/insignias/general-hero.png",
+      sources: [
+        {
+          name: "YUNGA Ecosystems Restoration Challenge Badge",
+          url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en"
+        }
+      ],
+      license: {
+        type: "© FAO – Licencia sin confirmar",
+        url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+        note: "Sin actividades publicadas. La FAO todavía no publicó el cuaderno de esta insignia."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+      requirements: {
+        summary:
+          "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
+        rules: [
+        ]
+      },
+      sections: {
+      },
+      documents: []
+    },
+
+    {
+      id: "saludmental",
+      name: "Salud Mental",
+      description:
+        "Bienestar emocional, cuidado propio y de los demás.",
+      summary:
+        "La insignia de Salud Mental promueve el bienestar emocional y la comprensión de la salud mental como parte de la salud.\n\nFomenta el cuidado propio, la empatía y la búsqueda de ayuda cuando hace falta.",
+      logo: "/imagenes/insignias/mentalhealth.png",
+      hero_image: "/imagenes/insignias/general-hero.png",
+      sources: [
+        {
+          name: "YUNGA Mental Health Challenge Badge",
+          url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en"
+        }
+      ],
+      license: {
+        type: "© FAO – Licencia sin confirmar",
+        url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+        note: "Sin actividades publicadas. La FAO todavía no publicó el cuaderno de esta insignia."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+      requirements: {
+        summary:
+          "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
+        rules: [
+        ]
+      },
+      sections: {
+      },
+      documents: []
+    },
+
+    {
       id: "oceano",
       name: "Océano",
       description:
