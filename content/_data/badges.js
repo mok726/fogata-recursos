@@ -1561,6 +1561,68 @@ sections: {
     },
 
     {
+      id: "desperdicio",
+      name: "Pérdida y Desperdicio de Alimentos",
+      description:
+        "Entender por qué se pierde y se tira comida, qué impacto tiene y cómo evitarlo.",
+      summary:
+        "La insignia de Pérdida y Desperdicio de Alimentos invita a descubrir cuánta comida se pierde entre el campo y la mesa, y cuánta se tira en casa, en la escuela y en los comercios.\n\nPropone planificar, aprovechar las sobras, compostar, donar y llevar el mensaje a la comunidad.",
+      logo: "/imagenes/insignias/desperdicio.png",
+      hero_prompt: "A diverse group of scouts aged 11 to 17 sorting surplus fruit and vegetables at a community food bank, wooden crates of imperfect but fresh produce, a compost bin and a small school vegetable garden in the background, warm afternoon light.",
+      sources: [
+        {
+          name: "YUNGA Food loss & waste Challenge Badge",
+          url: "https://doi.org/10.4060/ce0688en"
+        }
+      ],
+      license: {
+        type: "CC BY-NC-SA 4.0",
+        url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+        note: "Adaptación y traducción de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio. Las fotos de la FAO no están incluidas."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+      requirements: {
+        summary:
+          "Completar las dos actividades obligatorias de la sección A, una de las dos obligatorias de cada una de las secciones B, C y D, y al menos una actividad opcional de cada sección.",
+        rules: [
+          "Sección A: hacer A.1 y A.2, más al menos una actividad opcional",
+          "Sección B: hacer B.1 o B.2, más al menos una actividad opcional",
+          "Sección C: hacer C.1 o C.2, más al menos una actividad opcional",
+          "Sección D: hacer D.1 o D.2, más al menos una actividad opcional"
+        ]
+      },
+      sections: {
+        A: {
+          title: "Entender las pérdidas y el desperdicio de alimentos",
+          description: "Qué son las pérdidas y el desperdicio de alimentos, por qué ocurren y cómo se relacionan con los Objetivos de Desarrollo Sostenible."
+        },
+        B: {
+          title: "Impactos de las pérdidas y el desperdicio",
+          description: "Cómo afectan a la seguridad alimentaria, al ambiente y a la economía."
+        },
+        C: {
+          title: "Soluciones a las pérdidas y el desperdicio",
+          description: "Qué se puede hacer en cada eslabón de la cadena de valor de los alimentos y qué políticas ayudan."
+        },
+        D: {
+          title: "Tomá acción",
+          description: "Llevar lo aprendido a la escuela, al grupo y a la comunidad."
+        }
+      },
+      documents: [
+        {
+          title: "Food loss & waste – Challenge badge",
+          title_es: "Insignia de Pérdida y Desperdicio de Alimentos – Cuaderno de actividades (en inglés)",
+          url: "https://doi.org/10.4060/ce0688en",
+          type: "pdf"
+        }
+      ]
+    },
+
+    {
       id: "hambre",
       name: "Acabar con el Hambre",
       description:
@@ -2582,6 +2644,63 @@ sections: {
   }
 },
 {
+  id: "asdefichas2001",
+  name: "Carpeta de Fichas 2001 (ASDE)",
+  description:
+    "Fichas de valores, paz y desarrollo, igualdad e integración, ambiente y orientación vocacional para todas las ramas, de la carpeta de actividades de ASDE - Scouts de España (2001).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades de la carpeta todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.\n\n<details class=\"license-details\"><summary>Fichas de la carpeta que no incluimos</summary><ul><li><b>Educación vial</b> (19 fichas): se basan en la ley y los organismos de tránsito de España. Para eso está la insignia Seguridad Vial.</li><li><b>Juegos de Kim</b>: ya está en el sitio (ver «El Juego de Kim»).</li><li><b>El náufrago</b>: el grupo vota a qué pasajero con discapacidad tirar al mar.</li><li><b>Cómo viven los demás</b> y <b>Silencio: juego límite</b>: simulan una discapacidad en la calle (horas con los ojos vendados o sin hablar), sin supervisión.</li><li><b>La Jaima</b>: propone reemplazar medicamentos por plantas, algunas tóxicas.</li></ul></details>",
+  logo: "/imagenes/insignias/general-logo.png",
+  logo_prompt: "A round embroidered scout badge with an open ring binder of activity cards and a small campfire in front of it, warm colors, simple flat design.",
+  hero_prompt: "Scouts of all ages, from small children to young adults, sitting in a wide circle on the grass at a campsite, sharing a group activity with cards, paper and a guitar, tents and pine trees behind them, golden late-afternoon light.",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades para las ramas/secciones educativas (2001) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Las canciones, poemas y películas que citan algunas fichas pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2001"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Algunas fichas son de 2001: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Educación en Valores",
+      description: "Cuentos, canciones y dinámicas para descubrir y pensar los valores, desde el lema de los Castores hasta la Promesa."
+    },
+    B: {
+      title: "Paz y Desarrollo",
+      description: "Derechos de los chicos, desigualdad entre países, refugiados, migraciones y formas noviolentas de resolver conflictos."
+    },
+    C: {
+      title: "Igualdad e Integración",
+      description: "Discapacidad, accesibilidad, prejuicios y juegos para que todos participen."
+    },
+    D: {
+      title: "Ambiente y Consumo Responsable",
+      description: "Las 3R, el agua, la contaminación, los ecosistemas, los medios y el cambio climático."
+    },
+    E: {
+      title: "Orientación Vocacional y Autoestima",
+      description: "Autoestima, profesiones, liderazgo y primeros pasos en la búsqueda de trabajo."
+    }
+  }
+},
+{
   id: "asdesaludtic",
   name: "Salud y TIC (ASDE)",
   description:
@@ -2630,6 +2749,63 @@ sections: {
     D: {
       title: "Scouts, Caminantes y Rovers",
       description: "Darse cuenta de cuánto tiempo se pasa frente a las pantallas y buscar otras formas de ocio."
+    }
+  }
+},
+{
+  id: "asderepensar",
+  name: "Repensar el Mundo (ASDE)",
+  description:
+    "Actividades de educación para la paz y el desarrollo para todas las ramas: cooperación, derechos, consumo responsable, comercio justo, pobreza, globalización y participación, de ASDE - Scouts de España (2003).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Repensar el mundo. Educación para la Paz y el Desarrollo»**, el manual que *ASDE - Scouts de España* publicó en 2003.\n\n<p>El manual trae una propuesta de actividades para cada rama, de Castores a Rovers. Las secciones siguen esas ramas.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las fichas son de 2003: los datos, campañas y sitios que mencionan pueden haber cambiado, y cada una lo avisa con una nota de actualización.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades del manual todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/general-logo.png",
+  logo_prompt: "A round embroidered scout badge showing the Earth held by two hands, with a small olive branch, blue and green tones, simple flat design.",
+  hero_prompt: "Young scouts gathered around a large world map spread on a wooden table in a scout hall, connecting countries with string and paper notes, a globe and fair trade products nearby, natural light from a window.",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Repensar el mundo. Educación para la Paz y el Desarrollo (2003) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/13444/repensar_el_mundo2003_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Los textos de otros autores que cita el manual pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2003"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Las fichas son de 2003: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Castores",
+      description: "Juegos cooperativos para descubrir que llegamos más lejos juntos."
+    },
+    B: {
+      title: "Lobatos",
+      description: "Necesidades básicas, derechos de los chicos y valores de paz."
+    },
+    C: {
+      title: "Scouts",
+      description: "Los conflictos del mundo, la intolerancia y cómo construir la paz."
+    },
+    D: {
+      title: "Escultas / Caminantes",
+      description: "Consumo responsable, comercio justo y las dimensiones de la pobreza."
+    },
+    E: {
+      title: "Rovers / Compañeros",
+      description: "Globalización, participación ciudadana y democracia."
     }
   }
 },
