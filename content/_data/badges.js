@@ -2548,6 +2548,10 @@ sections: {
       title: "Educación en Valores",
       description: "Cuentos, canciones y dinámicas para descubrir y pensar los valores, desde el lema de los Castores hasta la Promesa."
     },
+    C: {
+      title: "Igualdad e Integración",
+      description: "Discapacidad, accesibilidad, prejuicios y juegos para que todos participen."
+    },
     E: {
       title: "Orientación Vocacional y Autoestima",
       description: "Autoestima, profesiones, liderazgo y primeros pasos en la búsqueda de trabajo."
