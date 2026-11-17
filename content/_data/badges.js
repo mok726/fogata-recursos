@@ -2646,7 +2646,7 @@ sections: {
   description:
     "Inteligencia emocional en acción: reconocer emociones, convivir con otros y ponerse metas.",
   summary:
-    "Desafío EQ in Action de la Organización Mundial del Movimiento Scout, parte de la iniciativa LifeLeaders (Habilidades para la Vida).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Desafío EQ in Action de la Organización Mundial del Movimiento Scout, parte de la iniciativa LifeLeaders (Habilidades para la Vida).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
   logo: "/imagenes/insignias/eqaccion.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "Young scouts aged 8 to 12 playing a game with emotion cards showing faces on a picnic blanket at a campsite, laughing and acting out feelings, a leader kneeling with them, tents behind, warm afternoon light.",
