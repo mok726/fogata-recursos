@@ -2564,6 +2564,61 @@ sections: {
   }
 },
 {
+  id: "asderepensar",
+  name: "Repensar el Mundo (ASDE)",
+  description:
+    "Actividades de educación para la paz y el desarrollo para todas las ramas: cooperación, derechos, consumo responsable, comercio justo, pobreza, globalización y participación, de ASDE - Scouts de España (2003).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Repensar el mundo. Educación para la Paz y el Desarrollo»**, el manual que *ASDE - Scouts de España* publicó en 2003.\n\n<p>El manual trae una propuesta de actividades para cada rama, de Castores a Rovers. Las secciones siguen esas ramas.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las fichas son de 2003: los datos, campañas y sitios que mencionan pueden haber cambiado, y cada una lo avisa con una nota de actualización.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades del manual todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/general-logo.png",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Repensar el mundo. Educación para la Paz y el Desarrollo (2003) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/13444/repensar_el_mundo2003_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Los textos de otros autores que cita el manual pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2003"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Las fichas son de 2003: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Castores",
+      description: "Juegos cooperativos para descubrir que llegamos más lejos juntos."
+    },
+    B: {
+      title: "Lobatos",
+      description: "Necesidades básicas, derechos de los chicos y valores de paz."
+    },
+    C: {
+      title: "Scouts",
+      description: "Los conflictos del mundo, la intolerancia y cómo construir la paz."
+    },
+    D: {
+      title: "Escultas / Caminantes",
+      description: "Consumo responsable, comercio justo y las dimensiones de la pobreza."
+    },
+    E: {
+      title: "Rovers / Compañeros",
+      description: "Globalización, participación ciudadana y democracia."
+    }
+  }
+},
+{
   id: "asdecoeducacion",
   name: "Coeducación: Jugando Juntos y Juntas (ASDE)",
   description:
