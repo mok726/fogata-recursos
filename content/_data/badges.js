@@ -2428,7 +2428,7 @@ sections: {
   description:
     "Escuchar, reconocer y responder: habilidades de diálogo para prevenir y transformar conflictos.",
   summary:
-    "Desafío Dialogue for Peace de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. El recorrido tiene tres etapas: Escuchar, Reconocer y Responder, y termina con un Café del Diálogo.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Desafío Dialogue for Peace de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. El recorrido tiene tres etapas: Escuchar, Reconocer y Responder, y termina con un Café del Diálogo.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
   logo: "/imagenes/insignias/dialogopaz.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "A diverse group of scouts aged 11 to 17 sitting in a circle on cushions in a bright scout hall, one speaking while the others listen attentively, a talking stick passed between them, colorful paper speech bubbles pinned on a wall behind them, warm afternoon light.",
@@ -2481,7 +2481,7 @@ sections: {
   description:
     "Diálogo entre personas de distintas creencias y culturas, con respeto por la identidad de cada uno.",
   summary:
-    "Desafío Interreligious Dialogue de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. Comparte sus actividades con Diálogo para la Paz: cuando se publiquen, van a aparecer acá como complementarias.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Desafío Interreligious Dialogue de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. Comparte sus actividades con Diálogo para la Paz: por eso aparecen acá como complementarias.",
   logo: "/imagenes/insignias/interreligioso.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "Scouts aged 12 to 17 from different cultures and faiths sharing tea around a low wooden table outdoors at a campsite, some wearing headscarves or kippahs, laughing and talking, tents and trees behind them, soft golden light.",
