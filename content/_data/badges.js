@@ -2517,7 +2517,7 @@ sections: {
   description:
     "Fichas de valores, paz y desarrollo, igualdad e integración, ambiente y orientación vocacional para todas las ramas, de la carpeta de actividades de ASDE - Scouts de España (2001).",
   summary:
-    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.",
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades de la carpeta todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
   logo: "/imagenes/insignias/general-logo.png",
   sources: [
     {
@@ -2555,6 +2555,10 @@ sections: {
     C: {
       title: "Igualdad e Integración",
       description: "Discapacidad, accesibilidad, prejuicios y juegos para que todos participen."
+    },
+    D: {
+      title: "Ambiente y Consumo Responsable",
+      description: "Las 3R, el agua, la contaminación, los ecosistemas, los medios y el cambio climático."
     },
     E: {
       title: "Orientación Vocacional y Autoestima",
