@@ -27,7 +27,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - El cuento cortado en párrafos (está abajo, en el texto original)
+  - El cuento de Yan cortado en sus seis partes
   - Papel
   - Biromes o fibras
   - Copias de algunos artículos de la Convención sobre los Derechos del Niño
@@ -158,7 +158,15 @@ Inventando el final de un cuento, la manada se acerca a la explotación laboral 
 > **Nota de actualización:** la ficha es de 2003. Sus datos, campañas y sitios web pueden haber cambiado. Buscá información reciente en fuentes confiables antes de la actividad.
 
 ## Preparación
-Fotocopiá y cortá los párrafos del cuento (está en el texto original, abajo). Prepará los temas que quieras trabajar y relacionalos con la Convención sobre los Derechos del Niño y con la situación de los chicos en distintas partes del mundo. Tené claras las diferencias entre trabajo infantil y explotación laboral, para explicarlas según la edad.
+Copiá el cuento de abajo y cortalo en sus seis partes. Prepará los temas que quieras trabajar y relacionalos con la Convención sobre los Derechos del Niño y con la situación de los chicos en distintas partes del mundo. Tené claras las diferencias entre trabajo infantil y explotación laboral, para explicarlas según la edad.
+
+## El cuento de Yan
+1. En algunas zonas muy pobres de la India, dueños de fábricas recorren las aldeas buscando chicos para trabajar barato. Les ofrecen a las familias un adelanto de plata y les prometen trabajo seguro y un buen futuro. Así le pasó a Yan, que tenía 10 años. Sus papás trabajaban, pero lo que ganaban casi no alcanzaba para comer.
+2. Un fabricante le dio al papá de Yan 500 rupias, la moneda de la India. Le dijo que el chico enseguida iba a ganar lo suficiente para devolver el adelanto y mandar mucha más plata a casa, y que así toda la familia iba a salir de la pobreza.
+3. El trato era que Yan volvía al año. Pasó el año y no volvió. Todo ese tiempo estuvo en la fábrica armando cajitas de fósforos, muchas horas por día, con apenas tres pausas para comer e ir al baño. Tenía un solo día libre por semana y dormía en una esterilla en el mismo galpón donde trabajaba.
+4. Como Yan no volvía, su papá viajó hasta el pueblo de la fábrica. Después de mucho buscar lo encontró, pero el dueño no lo dejó irse: decía que Yan todavía no había trabajado lo suficiente para pagar las 500 rupias, aunque el año ya se había cumplido.
+5. Desesperado, sin poder recuperar a su hijo ni devolver la plata, el papá pidió ayuda a una organización de derechos humanos. Le contó todo y le prometieron ayudarlo. Cumplieron: unos meses después, Yan y su papá se abrazaban y volvían juntos a la aldea.
+6. Yan tuvo suerte y pudo volver con su familia. Pero todavía hay muchos chicos y chicas que, como él, trabajan en condiciones muy duras, sin ir a la escuela ni jugar con sus amigos.
 
 ## Desarrollo
 1. Dividí la manada en cuatro grupos (con un juego o numerándolos).
@@ -175,161 +183,9 @@ Fotocopiá y cortá los párrafos del cuento (está en el texto original, abajo)
 ## Cierre
 ¿Qué aprendimos? ¿Participaron todos? ¿Se parece la vida de Yan a la nuestra? ¿Es justo que haya chicos que trabajen? ¿Todos los chicos tienen los mismos derechos? ¿Podemos hacer algo como consumidores?
 
-## Texto original completo de la actividad
+## Texto original de la actividad
 
-**Versión original en español (Repensar el mundo. Educación para la Paz y el Desarrollo, ASDE - Scouts de España, 2003):**
-
-LOBATOS
-LA HISTORIA DE YAN, EL NIÑO
-AL QUE OBLIGAN A TRABAJAR
-Duración: 1 hora
-Destinatarios/as: Niños/as de 8 a 11 años
-
-**DESCRIPCIÓN**
-
-Se trata de analizar la situación de explotación laboral que
-sufren los niños de países empobrecidos mediante la participación creativa en la elaboración de un cuento.
-
-**OBJETIVOS**
-
- · Conocer situaciones de explotación infantil.
- · Sensibilizar ante la situación de injusticia entre las personas.
- · Desarrollar una actitud crítica ante esta situación.
- · Trabajar los derechos del niño
-
-**CONTENIDOS**
-
- CONCEPTOS:
-- · Trabajo infantil.
-- · Explotación infantil.
-- · Derechos Humanos.
-- · Derechos del Niño.
-- · ONG´s que trabajan en defensa de los Derechos
-Humanos.
-- · Solidaridad.
-
- HABILIDADES:
-- · Técnicas de expresión verbal.
-- · Técnicas de expresión escrita.
-- · Empatía.
-- · Trabajo en equipo.
-- · Creatividad.
-- · Cooperación.
-
- ACTITUDES:
-- · Solidaria.
-- · Cooperativa.
-- · Espíritu crítico ante las injusticias.
-- · Comprometida.
-
-**DESARROLLO**
-
-Dividiremos a todos los niños/as en cuatro grupos
-(puede utilizarse un juego o simplemente numerarlos).
-
-A un representante de cada grupo se le da una parte de la historia. Únicamente se leerán los cuatro primeros
-párrafos.
-
-A continuación se les pide que por grupos se inventen un final para esta historia. Para ello les daremos entre
-15 minutos.
-
-Se da lectura a las diferentes versiones y después el
-Scouter lee los dos últimos párrafos.
-
-Tras la lectura de todos los cuentos, los scouter aprovecharán para reflexionar sobre la situación de los niños trabajadores y los derechos del niño.
-
-Pueden realizarse diversas preguntas como ejemplos:
-¿Qué edad tiene Yan?, ¿cuántas horas trabaja?, ¿puede
-estudiar a la vez?,¿si tu familia no tuviera ingresos suficientes que harías?, ¿ayudas en tu casa?, ¿en qué?, ¿crees
-que es un trabajo?, ¿qué condiciones debería tener un trabajo?, ¿cuando compramos algo pensamos que hay
-detrás?, ¿qué podemos hacer?,¿conoces la convención de
-los derechos del niño?, ¿qué dice sobre la educación?, y
-¿sobre el trabajo infantil?
-
-También se pueden seleccionar algunos artículos de la
-Convención de los Derechos del niño y comentarlos al respecto.
-
-**MATERIALES**
-
-Cuento cortado en párrafos, papel, bolígrafos o rotuladores.
-Copias de algunos artículos de la Convención de los Derechos del niño.
-
-**SUGERENCIAS**
-
-En el proceso de realización de la actividad saldrán
-muchos conceptos que deberán ser explicados y aclarados
-con el fin de que los chavales sean capaces de entender la
-historia (diferencia entre trabajo infantil y explotación laboral
-de la infancia, Derechos Humanos...) , por todo ello es aconsejable que los que dirigen la actividad dominen los conceptos
-y los adapten a la edad y características de los educandos.
-
-La actividad puede aprovecharse para explicar cuál es
-la situación actual en el mundo respecto al trabajo infantil y la
-explotación laboral de la infancia, y cómo con nuestras decisiones como consumidores, por ejemplo, tenemos incidencia.
-
-**PREPARACIÓN**
-
-Fotocopiar y cortar tantos párrafos del cuento como
-necesitemos.
-
-Previamente preparar los contenidos de la actividad
-que se quieren trabajar para relacionarlos con la Declaración
-de los Derechos del Niño y las situaciones de los niños en
-diferentes partes del mundo.
-
-**EVALUACIÓN**
-
-¿Qué hemos aprendido?, ¿han participado?, ¿es comparable
-la situación de Yan con la nuestra?, ¿es justo que haya niños
-que trabajen?, ¿tienen todos los niños los mismos derechos?, ¿qué actitudes se han observado antes y después de
-la actividad?, ¿podemos hacer algo como consumidores?
-
-**FUENTE**
-
-Actividad adaptada de “Tu ropa y los paises del sur” Campaña Ropa Limpia · Setem.
-
-**ANEXO**
-
-1- Para poder tener mano de obra infantil barata, algunos de
-los propietarios de fábricas de la India se presentan en las
-aldeas de las zonas más pobres del país y ofrecen un anticipo de dinero a las familias a cambio de dar trabajo a sus
-hijos. Les prometen un futuro maravilloso y trabajo para toda
-la vida. De esta forma fue engañado Yan cuando apenas
-tenía 10 años. Yan vivía con su familia en una pequeña aldea
-
-de la India. Los padres de Yan trabajaban, pero apenas tenían dinero suficiente para comer y mantener a sus hijos.
-
-2-El propietario de una fábrica entregó al padre de Yan 500
-rupias ( la moneda que se utiliza en la India) explicando que el
-niño ganaría muy pronto lo suficiente como para restituir ese
-anticipo y para enviar a su casa mucho más dinero. De este
-modo, saldrían de la pobreza en que vivía toda la familia.
-
-3-El acuerdo consistía en que Yan volvería a su casa después de un año. Pero el año pasó, y Yan no volvió. Durante todo este tiempo Yan estaba trabajando en una fábrica
-haciendo paquetes de cerillas y colocándolas dentro de
-cajas. Trabajaba muchas horas sólo, parando únicamente
-tres veces al día para comer un poco y hacer sus necesidades. Tan solo tenía un día de fiesta a la semana y dormía sobre una estera, en la misma sala de la fábrica donde trabajaba.
-
-4-En vista de que ya había pasado un año y Yan ya no
-regresaba, su padre se marchó al pueblo donde estaba la
-fábrica a buscarlo. Después de dar muchas vueltas, por
-fin lo encontró, pero el propietario de la fábrica se negó a
-dejar marchar a Yan. El propietario decía que todavía no
-había trabajado lo suficiente para pagar las 500 rupias
-que él les había anticipado. Aunque ya había transcurrido
-el plazo de un año, acordado en un principio, el propietario no le dejó marchar.
-
-5-El padre de Yan desesperado por no poder recuperar a su
-hijo y por no tener dinero para devolver el anticipo, fue a pedir
-ayuda a una organización de defensa de los Derechos Humanos. Allí les contó todo lo que les había ocurrido y la situación
-
-en la que se encontraba su hijo. Los miembros de esta organización prometieron ayudarle. Y así lo hicieron. Unos meses
-más tarde Yan y su padre se abrazaban y volvían a su aldea
-con el resto de la familia.
-
-6-Yan tuvo suerte. Pudo ser liberado y volvió con su familia,
-pero aún quedan muchos niños y niñas que, como Yan, trabajan en situaciones muy duras, sin poder ir a la escuela ni
-jugar con sus amigos.
+Esta ficha es una versión escrita con nuestras palabras. El texto de base pertenece a Setem (Campaña Ropa Limpia) y no se reproduce acá. La versión de ASDE está en [Repensar el mundo - ASDE Scouts de España, 2003 (PDF)](https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/13444/repensar_el_mundo2003_cmp.pdf).
 
 ---
 **Citación requerida:**
