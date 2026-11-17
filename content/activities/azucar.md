@@ -155,87 +155,9 @@ Con un juego de pelota, los castores aprenden a respetarse y descubren las desig
 ## Cierre
 ¿Se divirtieron? ¿Participaron todos? ¿Cómo se sintieron? ¿Se sintieron apoyados? ¿Jugaron para ganar o para divertirse? ¿Qué sintió el equipo con desventajas?
 
-## Texto original completo de la actividad
+## Texto original de la actividad
 
-**Versión original en español (Fichas de actividades para las ramas/secciones educativas, ASDE - Scouts de España, 2001):**
-
-AZÚCAR
-Duración: 1 hora
-Destinatarios/as: Niños/as de 6 a 8 años
-
-**DESCRIPCIÓN**
-
-A través de una actividad deportiva a realizar con una pelota, los niños
-aprenden a respetarse y a descubrir las desigualdades en el mundo.
-
-**OBJETIVOS**
-
-- Fomentar la integración de todos los castores en la colonia.
-- Superar el espíritu competitivo frente a la cooperación y la participación
-en la actividad con el grupo.
-- Profundizar en las desigualdades Norte/ Sur.
-
-**CONTENIDOS**
-
-- CONCEPTOS:
-- Relación interpersonal.
-- Respeto a los demás
-- Cooperación
-- Desigualdad
-
-- HABILIDADES:
-- Resolución pacífica y cooperativa de conflictos
-- Juego en grupo
-- Reflexión y profundización en las desigualdades del mundo a través
-de un juego sencillo.
-
-- ACTITUDES:
-- Actitud positiva hacia la resolución cooperativa y no violenta de
-conflictos
-- De acercamiento a los demás a través del juego cooperativo
-
-**DESARROLLO**
-
-Hay dos equipos, para jugar a cualquier actividad o deporte en la que
-se utilice una pelota (voleibol, balonmano, balón prisionero, fútbol,
-etc.) Para realizar los equipos procuraremos que el castor menos habituado a
-jugar a ese deporte , o el lobato que lleve menos tiempo en la colonia, etc.
-juegue sin pertenecer a ningún equipo. Éste será la persona “azúcar”.
-La dinámica consiste en animarle a jugar al deporte elegido, apoyarle en su
-juego, evitando a la vez que monopolice la pelota. Cada 5 minutos cambiará la
-persona azúcar intentando que jueguen todos los castores.
-Se trata de fomentar la participación de todos aunque tengan niveles diferentes
-de conocimiento de ese deporte.
-Esta sería la primera parte del juego en la que hemos trabajado la cooperación
-y el fomento de la participación entre todos los miembros de la colonia. Ahora
-vamos a introducir variables en nuestro juego. Plantearemos que cada uno de
-los equipos pertenece a un país con condiciones económicas y sociales
-diferentes, p.ej. Nigeria y Suecia, les explicaremos algunos datos básicos y
-estos los trasladaremos a algunas pautas que van a intervenir en el juego, para
-que vivan la desigualdad. P.ej. introducir un jugador más en Suecia, un
-masajista, darle una portería más grande, primarle positivamente en las faltas,
-- en las decisiones del árbitro. Así igual pero en negativo con Nigeria: jugar con
-un participante menos, que durante el tiempo de descanso les hagan realizar
-una actividad y no puedan beber agua.
-
-**MATERIALES**
-
-Una pelota.
-
-**SUGERENCIAS**
-
-Preparar las situaciones de partida de los distintos países.
-
-**EVALUACIÓN**
-
-¿Se han divertido? ¿Han participado? ¿Cómo se han sentido? ¿Se
-han sentido apoyados por el resto de la colonia?¿Han aprendido algo
-interesante? ¿Han jugado para ganar o para divertirse?
-
-**FUENTE**
-
-Juegos para la paz.(www.ctv.es)
-CASTORES
+Esta ficha es una versión escrita con nuestras palabras. El texto de base pertenece a Juegos para la paz (www.ctv.es) y no se reproduce acá. La versión de ASDE está en [Fichas de actividades para las ramas/secciones educativas - ASDE Scouts de España, 2001 (PDF)](https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf).
 
 ---
 **Citación requerida:**

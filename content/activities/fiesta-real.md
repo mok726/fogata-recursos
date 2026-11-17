@@ -160,81 +160,9 @@ Con un juego, los lobatos aprenden a respetarse y a trabajar en grupo.
 ## Cierre
 ¿Participaron todos? ¿Se sintieron escuchados? ¿Qué aprendieron?
 
-## Texto original completo de la actividad
+## Texto original de la actividad
 
-**Versión original en español (Fichas de actividades para las ramas/secciones educativas, ASDE - Scouts de España, 2001):**
-
-FIESTA REAL
-Duración: 1 hora
-Destinatarios/as: Niños/as de 8 a 11 años
-
-**DESCRIPCIÓN**
-
-A través de un juego los niños/ as aprenden a respetarse y a trabajar en
-grupo.
-
-**OBJETIVOS**
-
-- Fomentar el respeto de las opiniones de los otros lobatos.
-- Fomentar la no competitividad y la imaginación.
-- Analizar el proceso de toma de decisiones de forma democrática.
-
-**CONTENIDOS**
-
-- CONCEPTOS:
-- Relación interpersonal.
-- Resolución de conflictos.
-- Competitividad.
-- Proceso democrático.
-- HABILIDADES:
-- Trabajo en equipo.
-- Escucha activa.
-- Análisis del proceso de toma de decisiones democrático.
-- ACTITUDES:
-- Actitud de escucha.
-- Activa y participativa en la toma de decisiones.
-- Respetuosa con las opiniones de los demás.
-
-**DESARROLLO**
-
-Realizaremos la actividad en varias partes. En la primera toda la
-manada está en círculo, entonces un monitor les contará una historia sobre un
-rey que quiere celebrar una fiesta original y no sabe cómo hacerlo para que
-todo el mundo quede contento y les guste mucho, para conocer la opinión de
-su pueblo les ha pedido que le ayuden presentándole dibujos sobre cómo
-quieren hacer la fiesta. Daremos unos 15-20 minutos a los participantes para
-que hagan sus propuestas.
-La segunda parte consiste en que cada grupo explique de palabra por qué ha
-decidido hacer ese tipo de fiesta y elegir la que más les guste a todos.
-Previamente al juego los scouters han explicado a la manada que todos tienen
-que hablar y respetar los turnos de palabra.
-
-**MATERIALES**
-
-- Papel.
-- Lápices de colores y/o rotuladores.
-
-**SUGERENCIAS**
-
-- Podemos realizar la actividad en una acampada o campamento y
-representar la historia del rey disfrazándonos, así cada uno tendría
-asignado un papel en el pueblo. Después de evaluar podemos realizar la
-fiesta de verdad.
-
-- Otra posibilidad para la puesta en común es que se haga en un mural en el
-que todos representen las sugerencias que querrían hacerle al rey para la
-fiesta.
-
-**EVALUACIÓN**
-
-¿Han participado todos los lobatos? ¿Les ha gustado representar a ese grupo
-del Pueblo? ¿Por qué? ¿Qué han aprendido? ¿Cómo se han sentido? ¿Se han
-sentido escuchados?
-
-**FUENTE**
-
-Actividad adaptada de Juegos para la paz.(www.ctv.es)
-LOBATOS
+Esta ficha es una versión escrita con nuestras palabras. El texto de base pertenece a Juegos para la paz (www.ctv.es) y no se reproduce acá. La versión de ASDE está en [Fichas de actividades para las ramas/secciones educativas - ASDE Scouts de España, 2001 (PDF)](https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf).
 
 ---
 **Citación requerida:**

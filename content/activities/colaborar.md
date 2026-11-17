@@ -159,87 +159,9 @@ Pensá una palabra o frase relacionada con la vida de la colonia que tenga tanta
 ## Cierre
 ¿Se divirtieron? ¿Participaron todos? ¿Cómo se sintieron? ¿Pueden usar esto en la escuela o en casa?
 
-## Texto original completo de la actividad
+## Texto original de la actividad
 
-**Versión original en español (Fichas de actividades para las ramas/secciones educativas, ASDE - Scouts de España, 2001):**
-
-COLABORAR
-Duración: 30 minutos
-Destinatarios/as: Niños/as de 6 a 8 años
-
-**DESCRIPCIÓN**
-
-A través de juegos los niños aprenden la necesidad del enriquecimiento
-que supone colaborar entre ellos.
-
-**OBJETIVOS**
-
-- Fomentar la actitud de compartir con otras personas.
-- Fomentar la colaboración y participación en la Colonia.
-
-**CONTENIDOS**
-
-- CONCEPTOS:
-- Compartir
-- Colaboración
-- Cooperación
-- Conflictos
-
-- HABILIDADES:
-- Expresión de emociones
-- Resolución positiva de conflictos
-
-- ACTITUDES:
-- Positiva hacia el fomento de las relaciones interpersonales
-- Positiva hacia la resolución cooperativa de conflictos
-
-**DESARROLLO**
-
-En la primera parte un monitor les ayudará a escribir una letra en
-cada globo hasta que forme una palabra relacionada con la vida en
-la Colonia. Cada uno sabe sólo su letra no conocen la palabra completa. Por
-eso es fundamental la colaboración entre todos, ya que sino no podrían
-componer la palabra completa.
-Se hinchan los globos y cada niño tiene que enseñárselo a los otros en grupos
-de dos, de esta manera cada castor sólo sabe dos letras de la palabra.
-Comienza la segunda parte del juego: Aparece otro monitor que intentará que
-los castores pinchen los globos de los otros. Es importante que no haya entre
-los monitores una pelea que pueda asustar a los niños.
-Aquí aparece el monitor conciliador y explica a los Castores que la segunda
-parte sólo ha sido un juego y que lo importante es la colaboración entre todos
-para construir la palabra o frase clave contenida en los globos.
-Para continuar trabajando la colaboración y cooperación, podemos completar la
-actividad con el juego del Ovillo en el que toda la Colonia está en círculo y el
-Monitor le pasa el ovillo a un castor pidiendo que diga algo con lo que se lo
-pase bien, este castor lanza el ovillo (sin soltarlo) a uno del grupo y así
-sucesivamente a cada una de las personas del círculo. Es importante que
-todos cojan el ovillo las mismas veces. Al final del juego habrá un entretejido o
-telaraña de lana uniendo a todos. De nuevo es fundamental que todos
-cooperen sin soltar su parte del ovillo porque sino la telaraña formada se
-desharía.
-Después de la actividad comienza el debate preguntando qué pasaría si alguno
-no pinta la letra en su globo, no quisieran colaborar diciendo su letra, no
-quisiera lanzar el ovillo, o se soltara una parte del mismo.
-
-**MATERIALES**
-
-Un globo para cada castor, un ovillo y rotuladores para pintar las letras.
-
-**PREPARACIÓN**
-
-Los monitores deberán pensar la palabra y tener en cuenta el número
-de participantes, para que coincida con las letras de la frase.
-
-**EVALUACIÓN**
-
-¿Se han divertido? ¿Han participado? ¿Cómo se han sentido? ¿Han
-aprendido algo interesante? ¿Pueden aplicar este juego además de en la
-Colonia en el Grupo, sus casas o el Colegio?
-
-**FUENTE**
-
-Juegos de educación en el desarrollo para Scouts.
-CASTORES
+Esta ficha es una versión escrita con nuestras palabras. El texto de base pertenece a Juegos de educación en el desarrollo para Scouts y no se reproduce acá. La versión de ASDE está en [Fichas de actividades para las ramas/secciones educativas - ASDE Scouts de España, 2001 (PDF)](https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf).
 
 ---
 **Citación requerida:**
