@@ -2548,6 +2548,10 @@ sections: {
       title: "Educación en Valores",
       description: "Cuentos, canciones y dinámicas para descubrir y pensar los valores, desde el lema de los Castores hasta la Promesa."
     },
+    B: {
+      title: "Paz y Desarrollo",
+      description: "Derechos de los chicos, desigualdad entre países, refugiados, migraciones y formas noviolentas de resolver conflictos."
+    },
     C: {
       title: "Igualdad e Integración",
       description: "Discapacidad, accesibilidad, prejuicios y juegos para que todos participen."
