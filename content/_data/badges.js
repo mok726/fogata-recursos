@@ -2950,6 +2950,66 @@ sections: {
   }
 },
 {
+  id: "manosunidas",
+  name: "Manos Unidas",
+  description:
+    "Dinámicas, juegos y cuentos de educación para el desarrollo de Manos Unidas: valores, desigualdad, alimentación, consumo, paz y derechos humanos.",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de los **recursos educativos de Manos Unidas**, la ONG española de cooperación para el desarrollo, que los publica para docentes de Infantil, Primaria y Secundaria.\n\n<p>Las secciones siguen los temas de su sitio. Las actividades se adaptan al lenguaje y las costumbres de Argentina, con notas para el educador, y se reparten por rama según la edad para la que fueron pensadas.\n\n<p>Las actividades son de Manos Unidas, que autorizó su publicación; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las actividades:** la colección recién empieza. Por ahora tiene una sola ficha, y el resto se va a sumar en las próximas semanas.",
+  logo: "/imagenes/insignias/manosunidas.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A group of scouts aged 7 to 16 from different backgrounds sitting on the grass in a circle around a large world map spread on the ground, placing small paper cutouts of food, water drops and houses on different countries while talking, a leader kneeling with them, trees and a scout hall behind, warm afternoon light.",
+  sources: [
+    {
+      name: "Manos Unidas – Recursos educativos",
+      url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos"
+    }
+  ],
+  license: {
+    type: "© Manos Unidas – Publicación autorizada por Manos Unidas",
+    url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos",
+    note: "Manos Unidas autorizó el 18/11/2026 el uso de su material educativo. El permiso no cubre obras de otros autores que ese material cite (relatos, canciones, videos): esas se citan, no se copian."
+  },
+  attribution: {
+    organization: "Manos Unidas",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Cerrá cada dinámica con el momento de reflexión que propone la ficha: es donde está el aprendizaje"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Valores y Convivencia",
+      description: "Empatía, escucha, compromiso, justicia y trabajo en equipo."
+    },
+    B: {
+      title: "Desigualdad y Pobreza",
+      description: "Cómo se reparten la riqueza y las oportunidades en el mundo, y qué significa ser pobre."
+    },
+    C: {
+      title: "Alimentos y Agua",
+      description: "La alimentación y el agua como derechos de todas las personas."
+    },
+    D: {
+      title: "Consumo y Ambiente",
+      description: "Nuestro rol como consumidores y el cuidado del planeta."
+    },
+    E: {
+      title: "Paz, Derechos Humanos y Género",
+      description: "La paz como justicia, los derechos humanos y la igualdad entre varones y mujeres."
+    },
+    F: {
+      title: "Cuentos para Castores",
+      description: "Cuentos ilustrados con actividades para los más chicos: amistad, respeto, solidaridad, responsabilidad y generosidad."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
