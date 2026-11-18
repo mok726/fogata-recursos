@@ -28,7 +28,7 @@ Gran parte de las actividades se basa en materiales de otras organizaciones. Ese
 
 La licencia que corresponde a cada actividad y a cada insignia aparece en su ficha, en la sección **Créditos**. Esa indicación prevalece sobre este aviso general.
 
-Fogata de Recursos no está afiliada a la FAO, la Organización Mundial del Movimiento Scout, Solafrica ni Scouts de Argentina, y ninguna de esas organizaciones respalda este sitio. Los logotipos y las marcas pertenecen a sus titulares.
+Fogata de Recursos no está afiliada a la FAO, la Organización Mundial del Movimiento Scout, Solafrica ni Scouts de Argentina, y ninguna de esas organizaciones respalda este sitio. Los nombres, logotipos y marcas pertenecen a sus titulares y se usan solo para identificar las fuentes; ese uso no implica respaldo ni aprobación (ver [Aviso legal](../aviso-legal/#marcas-nombres-y-logos)).
 
 ## Contacto
 

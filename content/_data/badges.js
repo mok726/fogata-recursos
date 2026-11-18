@@ -2485,6 +2485,274 @@ sections: {
   }
 },
 {
+  id: "dialogopaz",
+  name: "Diálogo para la Paz",
+  description:
+    "Escuchar, reconocer y responder: habilidades de diálogo para prevenir y transformar conflictos.",
+  summary:
+    "Desafío Dialogue for Peace de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. El recorrido tiene tres etapas: Escuchar, Reconocer y Responder, y termina con un Café del Diálogo.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/dialogopaz.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A diverse group of scouts aged 11 to 17 sitting in a circle on cushions in a bright scout hall, one speaking while the others listen attentively, a talking stick passed between them, colorful paper speech bubbles pinned on a wall behind them, warm afternoon light.",
+  sources: [
+    {
+      name: "Dialogue for Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/dialogue-peace"
+    },
+    {
+      name: "Dialogue for Peace Trainer Manual (OMMS – KAICIID)",
+      url: "https://learn.scout.org/resource/dialogue-peace-trainer-manual"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary:
+      "Recorrer las etapas Escuchar, Reconocer y Responder y cerrar con un Café del Diálogo.",
+    rules: [
+      "Hacer actividades de las etapas Escuchar y Reconocer",
+      "Hacer al menos una actividad de la etapa Responder",
+      "Cerrar con un Café del Diálogo"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Escuchar",
+      description: "Principios del diálogo, identidad y percepciones: escuchar a los demás y a uno mismo."
+    },
+    B: {
+      title: "Reconocer",
+      description: "Reconocer las causas de los conflictos, la exclusión y el propio estilo ante un desacuerdo."
+    },
+    C: {
+      title: "Responder",
+      description: "Poner en práctica el diálogo en una ronda facilitada."
+    }
+  }
+},
+{
+  id: "interreligioso",
+  name: "Diálogo Interreligioso",
+  description:
+    "Diálogo entre personas de distintas creencias y culturas, con respeto por la identidad de cada uno.",
+  summary:
+    "Desafío Interreligious Dialogue de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. Comparte sus actividades con Diálogo para la Paz: cuando se publiquen, van a aparecer acá como complementarias.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/interreligioso.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 12 to 17 from different cultures and faiths sharing tea around a low wooden table outdoors at a campsite, some wearing headscarves or kippahs, laughing and talking, tents and trees behind them, soft golden light.",
+  sources: [
+    {
+      name: "Interreligious Dialogue – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/interreligious-dialogue"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID)."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary: "Hacer las actividades de Diálogo para la Paz marcadas también para este desafío.",
+    rules: []
+  },
+  sections: {}
+},
+{
+  id: "mensajerospaz",
+  name: "Mensajeros de la Paz",
+  description:
+    "Construir paz en la comunidad: diálogo, servicio y preparación ante desastres.",
+  summary:
+    "Mensajeros de la Paz (Messengers of Peace) es la iniciativa de la Organización Mundial del Movimiento Scout para que los jóvenes construyan paz en sus comunidades. En Scouts for SDGs funciona también como desafío.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/mensajerospaz.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Young scouts painting a colorful mural with doves and joined hands on a neighborhood wall, neighbors of different ages helping, buckets of paint and brushes on the sidewalk, sunny day.",
+  sources: [
+    {
+      name: "Messengers of Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/initiatives/messengers-peace"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2022"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí las que se adapten a la edad del grupo.",
+    rules: []
+  },
+  sections: {
+    A: {
+      title: "Actividades",
+      description: "Actividades del desafío publicadas en Scouts for SDGs."
+    }
+  }
+},
+{
+  id: "impactinnovators",
+  name: "Impact Innovators",
+  description:
+    "Innovación social: detectar problemas de la comunidad, generar ideas, prototipar y probar soluciones.",
+  summary:
+    "Desafío Impact Innovators de la Organización Mundial del Movimiento Scout, desarrollado con Accenture y World's Largest Lesson. Propone el pensamiento de diseño (design thinking) para que los protagonistas encuentren problemas de su comunidad y diseñen soluciones.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/impactinnovators.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A patrol of scouts aged 11 to 16 building a cardboard prototype of a small community project on a table covered with sticky notes, markers, tape and sketches, a city neighborhood visible through the window, bright daylight.",
+  sources: [
+    {
+      name: "Impact Innovators – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/impact-innovators"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2024"
+  },
+  requirements: {
+    summary: "Recorrer las tres etapas: explorar el problema, generar ideas y prototipar y probar.",
+    rules: [
+      "Hacer al menos una actividad de cada sección",
+      "Las salidas a la comunidad se hacen con la cantidad de adultos que pida tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Explorar el Problema",
+      description: "Conocer la comunidad e identificar los problemas que se pueden resolver."
+    },
+    B: {
+      title: "Generar Ideas",
+      description: "Técnicas lúdicas para inventar soluciones creativas."
+    },
+    C: {
+      title: "Prototipar y Probar",
+      description: "Construir, probar y mejorar las soluciones con la comunidad."
+    }
+  }
+},
+{
+  id: "mindbuilders",
+  name: "Mind Builders",
+  description:
+    "Salud mental y bienestar: conocerse, cuidar los vínculos y disfrutar de lo que hacemos.",
+  summary:
+    "Desafío Mind Builders de la Organización Mundial del Movimiento Scout, parte de la iniciativa HealthAllies (Salud y Bienestar), desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org). No reemplazan la atención profesional en salud mental.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de la FAO para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/mindbuilders.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 10 to 15 lying on the grass in a circle looking up at the sky and smiling, a calm lake and pine forest in the background, relaxed and peaceful mood, soft morning light.",
+  sources: [
+    {
+      name: "Mind Builders – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/mind-builders"
+    },
+    {
+      name: "Mind Builders Challenge – Implementation Manual (OMMS, 2025)",
+      url: "https://learn.scout.org/node/9861"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de la FAO) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement), con apoyo de FAO/YUNGA",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal",
+      "Ante señales de malestar persistente, seguí el protocolo de cuidado de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Conocerme",
+      description: "Fortalezas, autoestima y propósito personal."
+    },
+    B: {
+      title: "Vínculos",
+      description: "Amabilidad, gratitud y escucha para cuidar las relaciones."
+    },
+    C: {
+      title: "Disfrutar Juntos",
+      description: "Actividades para vivir la concentración y el disfrute en equipo."
+    }
+  }
+},
+{
+  id: "eqaccion",
+  name: "EQ in Action",
+  description:
+    "Inteligencia emocional en acción: reconocer emociones, convivir con otros y ponerse metas.",
+  summary:
+    "Desafío EQ in Action de la Organización Mundial del Movimiento Scout, parte de la iniciativa LifeLeaders (Habilidades para la Vida).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/eqaccion.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Young scouts aged 8 to 12 playing a game with emotion cards showing faces on a picnic blanket at a campsite, laughing and acting out feelings, a leader kneeling with them, tents behind, warm afternoon light.",
+  sources: [
+    {
+      name: "EQ in Action – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/eq-action"
+    },
+    {
+      name: "EQ in Action Challenge (OMMS)",
+      url: "https://learn.scout.org/node/9809"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Reconocer Emociones",
+      description: "Juegos para ponerle nombre a lo que sentimos y reconocerlo en otros."
+    },
+    B: {
+      title: "Convivir",
+      description: "Entender y respetar otras formas de hacer las cosas."
+    },
+    C: {
+      title: "Metas",
+      description: "Aprender de lo vivido y ponerse metas personales."
+    }
+  }
+},
+{
   id: "vial",
   name: "Seguridad Vial",
   description:
@@ -2854,6 +3122,66 @@ sections: {
     C: {
       title: "Prevención de la Violencia de Género",
       description: "Acciones de sensibilización hacia la comunidad."
+    }
+  }
+},
+{
+  id: "manosunidas",
+  name: "Manos Unidas",
+  description:
+    "Dinámicas, juegos y cuentos de educación para el desarrollo de Manos Unidas: valores, desigualdad, alimentación, consumo, paz y derechos humanos.",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de los **recursos educativos de Manos Unidas**, la ONG española de cooperación para el desarrollo, que los publica para docentes de Infantil, Primaria y Secundaria.\n\n<p>Las secciones siguen los temas de su sitio. Las actividades se adaptan al lenguaje y las costumbres de Argentina, con notas para el educador, y se reparten por rama según la edad para la que fueron pensadas.\n\n<p>Las actividades son de Manos Unidas, que autorizó su publicación; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las actividades:** la colección recién empieza. Por ahora tiene una sola ficha, y el resto se va a sumar en las próximas semanas.",
+  logo: "/imagenes/insignias/manosunidas.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A group of scouts aged 7 to 16 from different backgrounds sitting on the grass in a circle around a large world map spread on the ground, placing small paper cutouts of food, water drops and houses on different countries while talking, a leader kneeling with them, trees and a scout hall behind, warm afternoon light.",
+  sources: [
+    {
+      name: "Manos Unidas – Recursos educativos",
+      url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos"
+    }
+  ],
+  license: {
+    type: "© Manos Unidas – Publicación autorizada por Manos Unidas",
+    url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos",
+    note: "Manos Unidas autorizó el 18/11/2026 el uso de su material educativo. El permiso no cubre obras de otros autores que ese material cite (relatos, canciones, videos): esas se citan, no se copian."
+  },
+  attribution: {
+    organization: "Manos Unidas",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Cerrá cada dinámica con el momento de reflexión que propone la ficha: es donde está el aprendizaje"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Valores y Convivencia",
+      description: "Empatía, escucha, compromiso, justicia y trabajo en equipo."
+    },
+    B: {
+      title: "Desigualdad y Pobreza",
+      description: "Cómo se reparten la riqueza y las oportunidades en el mundo, y qué significa ser pobre."
+    },
+    C: {
+      title: "Alimentos y Agua",
+      description: "La alimentación y el agua como derechos de todas las personas."
+    },
+    D: {
+      title: "Consumo y Ambiente",
+      description: "Nuestro rol como consumidores y el cuidado del planeta."
+    },
+    E: {
+      title: "Paz, Derechos Humanos y Género",
+      description: "La paz como justicia, los derechos humanos y la igualdad entre varones y mujeres."
+    },
+    F: {
+      title: "Cuentos para Castores",
+      description: "Cuentos ilustrados con actividades para los más chicos: amistad, respeto, solidaridad, responsabilidad y generosidad."
     }
   }
 },
