@@ -1,6 +1,6 @@
 # Licencias: criterio aplicado y permisos a pedir
 
-Actualizado: 2026-10-26. Detalle por actividad en [licencias-por-actividad.csv](licencias-por-actividad.csv) (columna `clase_licencia`). Los emails están en [emails-permisos.md](emails-permisos.md).
+Actualizado: 2026-11-18. Detalle por actividad en [licencias-por-actividad.csv](licencias-por-actividad.csv) (columna `clase_licencia`). Los emails están en [emails-permisos.md](emails-permisos.md).
 
 ## Criterio
 
@@ -73,3 +73,10 @@ Esto cubre a Solafrica. Siguen pendientes:
 
 - **Contacto:** no encontré uno publicado. Probablemente el Equipo Nacional de Programa (www.scouts.org.ar).
 - **Motivo:** *Desafío Scouts Go Solar – Manual de Energía Solar* (2021, 13 actividades) y *Scouts por los ODS – Mundo Mejor* (2021, 10 actividades). No tienen ninguna licencia abierta publicada.
+
+## 5. Manos Unidas: material educativo. **AUTORIZADO el 18/11/2026**
+
+- **Permiso:** el departamento de educación de Manos Unidas autorizó, el 18/11/2026, el uso de todo su material educativo. Lo publican en https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos.
+- **Fichas alcanzadas:** «Noticias Volantes» (`manosunidas-E01`), que *Repensar el mundo* (ASDE, 2003) toma de los materiales educativos de Manos Unidas. Colección `manosunidas` creada el 18/11/2026; el resto de las fichas se suma más adelante.
+- **Fuera del permiso:** obras de otros autores que el material de Manos Unidas usa (por ejemplo, el relato «Un pequeño país», de Natalie Kuperman). Se citan, no se copian.
+- Las fichas muestran «© Manos Unidas – Publicación autorizada por Manos Unidas» y «Autorizado: Manos Unidas (18/11/2026)».
