@@ -277,6 +277,35 @@ put this inside the body
 
   {% include "components/footer.njk" %}
 
+  {# Volver arriba: oculto hasta bajar una pantalla. Lleva el foco
+     al principio de la página para que el teclado siga desde ahí. #}
+  <button type="button" class="volver-arriba" id="volver-arriba" hidden
+    aria-label="Volver arriba" title="Volver arriba">
+    <span class="material-symbols-outlined" aria-hidden="true">arrow_upward</span>
+  </button>
+  <script>
+  (function () {
+    var b = document.getElementById('volver-arriba');
+    if (!b || !window.addEventListener) return;
+    var pendiente = false;
+    function revisar() {
+      pendiente = false;
+      b.hidden = window.scrollY < window.innerHeight;
+    }
+    window.addEventListener('scroll', function () {
+      if (!pendiente) { pendiente = true; window.requestAnimationFrame(revisar); }
+    }, { passive: true });
+    revisar();
+    b.addEventListener('click', function () {
+      var quieto = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: quieto ? 'auto' : 'smooth' });
+      document.body.setAttribute('tabindex', '-1');
+      document.body.focus({ preventScroll: true });
+      document.body.removeAttribute('tabindex');
+    });
+  })();
+  </script>
+
   {# Migas de pan de las actividades según el origen (js/migas.js). #}
   <script src="{{ '/js/migas.js' | url }}?v={{ cssVersion }}"></script>
 

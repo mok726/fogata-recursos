@@ -232,22 +232,37 @@ eleventyConfig.addFilter("fechaCorta", function(fecha) {
 });
 
 // Landing, «Actividades destacadas»: las 3 últimas agregadas y
-// las actividades del día de ayer, anteayer y hace 3 días, sin
-// repetir (ni la de hoy, que ya tiene su bloque).
+// las actividades del día de los 3 días anteriores.
+// Devuelve [{ item, fecha }] (fecha vacía = recién agregada).
+// El build puede quedar de un día anterior (el build diario corre
+// a las 06:17 y a veces se atrasa): por eso se renderizan los días
+// de -3 a +1 respecto del build y el script de la landing muestra
+// los 3 anteriores a la fecha del navegador. Sin JS quedan los del
+// build (-1 a -3). Las recientes no repiten ninguna «del día» de
+// esa ventana (ni la de hoy o mañana, que tienen su bloque).
 eleventyConfig.addFilter("destacadas", function(recientes, diarias) {
   const hoy = actividadDelDia.fechaLocal();
-  const dia = n => actividadDelDia.delDia(diarias || [], actividadDelDia.sumarDias(hoy, n));
-  const usadas = new Set([dia(0)].filter(Boolean).map(i => i.url));
-  const pasadas = [dia(-1), dia(-2), dia(-3)].filter(Boolean);
-  pasadas.forEach(i => usadas.add(i.url));
+  const dia = n => {
+    const fecha = actividadDelDia.sumarDias(hoy, n);
+    return { fecha, item: actividadDelDia.delDia(diarias || [], fecha) };
+  };
+  const usadas = new Set();
+  for (let n = -3; n <= 2; n++) {
+    const d = dia(n);
+    if (d.item) usadas.add(d.item.url);
+  }
   const nuevas = [];
   for (const it of recientes || []) {
     if (nuevas.length >= 3) break;
-    if (!usadas.has(it.url)) { nuevas.push(it); usadas.add(it.url); }
+    if (!usadas.has(it.url)) { nuevas.push({ item: it, fecha: "" }); usadas.add(it.url); }
   }
-  // Si dos días cayeron en la misma ficha, no se muestra dos veces.
+  // Más reciente primero. Si dos días cayeron en la misma ficha,
+  // queda la del día más reciente.
   const vistas = new Set();
-  return nuevas.concat(pasadas).filter(i => !vistas.has(i.url) && vistas.add(i.url));
+  const pasadas = [1, 0, -1, -2, -3].map(dia)
+    .filter(d => d.item && !vistas.has(d.item.url) && vistas.add(d.item.url))
+    .map(d => Object.assign(d, { visible: d.fecha < hoy }));
+  return nuevas.concat(pasadas);
 });
 
 // Fecha de alta (primer commit) de una ficha, para los feeds.
