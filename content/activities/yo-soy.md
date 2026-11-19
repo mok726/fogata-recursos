@@ -79,7 +79,7 @@ license:
   image: ""
   note: "Actividad tomada de «Aprendiendo a ser II» (ASDE - Scouts de España, 2011), que la atribuye a el «Proyecto Gades: Acción tutorial en Educación Infantil y Primaria» (José Antonio Pacheco Calvo, coord., Consejería de Educación de la Junta de Andalucía, Sevilla, 2000). La licencia CC BY-NC 3.0 de ASDE cubre solo su propio aporte, no el material de terceros."
   allowed: "ASDE - Scouts de España: su adaptación y edición (CC BY-NC 3.0). No cubre el material original de terceros."
-  pending: "Consejería de Educación de la Junta de Andalucía (Proyecto Gades): autorización pendiente de solicitar (borrador de mail preparado el 10/11/2026)."
+  pending: "Consejería de Educación de la Junta de Andalucía (Proyecto Gades): autorización solicitada el 19/11/2026, esperando respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========

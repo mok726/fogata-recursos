@@ -79,7 +79,7 @@ license:
   image: ""
   note: "Actividad tomada de «Aprendiendo a ser II» (ASDE - Scouts de España, 2011), que la atribuye a el libro «Educar en la autoestima: propuestas para la escuela y el tiempo libre», de María José Quiles y José Pedro Espada (Editorial CCS, Madrid, 2010). La licencia CC BY-NC 3.0 de ASDE cubre solo su propio aporte, no el material de terceros."
   allowed: "ASDE - Scouts de España: su adaptación y edición (CC BY-NC 3.0). No cubre el material original de terceros."
-  pending: "Editorial CCS y los autores (Quiles y Espada): autorización pendiente de solicitar (borrador de mail preparado el 10/11/2026)."
+  pending: "Editorial CCS y los autores (Quiles y Espada): autorización solicitada el 19/11/2026, esperando respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
