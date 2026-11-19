@@ -8,7 +8,7 @@ permalink: /aviso-legal/
 
 # Aviso legal
 
-*Última actualización: 17 de noviembre de 2026.*
+*Última actualización: 19 de noviembre de 2026.*
 
 ## Para qué está el sitio
 
@@ -51,6 +51,13 @@ En el sitio aparecen nombres, marcas, logos e imágenes de insignias de otras or
 Ese uso **no implica respaldo, aprobación, patrocinio ni afiliación** por parte de sus titulares, ni que ellos hayan revisado el contenido de este sitio, salvo que se indique expresamente. Los nombres, marcas y logos pertenecen a sus respectivos titulares.
 
 Si sos titular de alguna de estas marcas y preferís que no aparezca, o que se use de otra forma, escribinos por el [formulario de comentarios](../feedback/) y la retiramos o la corregimos.
+
+<h2 id="uso-de-inteligencia-artificial">Uso de inteligencia artificial</h2>
+
+- **Imágenes.** Las imágenes que ilustran las actividades y las páginas del sitio están creadas con inteligencia artificial. Al principio usé el modelo FLUX.1 schnell, de Black Forest Labs, a través de Hugging Face; después, FLUX.2 klein 4B. Algunas las hice con ChatGPT y con Bing Image Creator. Son ilustraciones: no muestran personas, grupos ni lugares reales, y pueden tener detalles que no se ajustan a la realidad (uniformes, materiales, técnicas). No están generados con IA los logos ni las insignias de otras organizaciones.
+- **Textos.** Las traducciones y adaptaciones son mías. Algunas fueron revisadas, y su estilo corregido, con herramientas de IA (DeepSeek y Claude). La revisión final y la responsabilidad por lo publicado son mías.
+
+Si encontrás una imagen o un texto con un error, o que pueda confundir, avisame por el [formulario de comentarios](../feedback/).
 
 ## Contacto
 
