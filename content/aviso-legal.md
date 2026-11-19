@@ -54,10 +54,15 @@ Si sos titular de alguna de estas marcas y preferís que no aparezca, o que se u
 
 <h2 id="uso-de-inteligencia-artificial">Uso de inteligencia artificial</h2>
 
-- **Imágenes.** Las imágenes que ilustran las actividades y las páginas del sitio están creadas con inteligencia artificial. Al principio usé el modelo FLUX.1 schnell, de Black Forest Labs, a través de Hugging Face; después, FLUX.2 klein 4B. Algunas las hice con ChatGPT y con Bing Image Creator. Son ilustraciones: no muestran personas, grupos ni lugares reales, y pueden tener detalles que no se ajustan a la realidad (uniformes, materiales, técnicas). No están generados con IA los logos ni las insignias de otras organizaciones.
-- **Textos.** Las traducciones y adaptaciones son mías. Algunas fueron revisadas, y su estilo corregido, con herramientas de IA (DeepSeek y Claude). La revisión final y la responsabilidad por lo publicado son mías.
+No me molesta ni me da vergüenza usar inteligencia artificial. La considero una herramienta útil y eficiente, y sería un tonto si no la usara. Para que quede claro dónde intervino:
 
-Si encontrás una imagen o un texto con un error, o que pueda confundir, avisame por el [formulario de comentarios](../feedback/).
+- **Fichas.** A principios de 2025, cuando salió DeepSeek, empecé a usarlo para pasar mis muchas fichas (archivos de texto, planillas de Excel y PDF) a mi formato estandarizado en Markdown.
+- **Traducciones.** Algunas de mis traducciones fueron revisadas con IA, que me ayudó a corregir errores (primero DeepSeek y después Claude).
+- **Diseño del sitio.** El aspecto original del sitio lo dibujó ChatGPT, después de horas de discutir y redibujar lo que yo imaginaba, hasta que encontré algo que me gustó.
+- **Código.** El diseño y la forma de funcionar del sitio son míos, pero mi código no siempre funciona como quiero. Claude, ChatGPT, Copilot y DeepSeek hicieron aportes y correcciones desde la primera versión hasta la que ves ahora.
+- **Imágenes.** Las imágenes que ilustran las actividades y las páginas están creadas con IA. Al principio usé el modelo FLUX.1 schnell, de Black Forest Labs, a través de Hugging Face; después, FLUX.2 klein 4B. Algunas las hice con ChatGPT y con Bing Image Creator. Son ilustraciones: no muestran personas, grupos ni lugares reales, y pueden tener detalles que no se ajustan a la realidad (uniformes, materiales, técnicas). No están generados con IA los logos ni las insignias de otras organizaciones.
+
+La revisión final y la responsabilidad por lo publicado son mías. Si encontrás una imagen o un texto con un error, o que pueda confundir, avisame por el [formulario de comentarios](../feedback/).
 
 ## Contacto
 
