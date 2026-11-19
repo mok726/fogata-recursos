@@ -62,7 +62,7 @@ No me molesta ni me da vergüenza usar inteligencia artificial. La considero una
 - **Código.** El diseño y la forma de funcionar del sitio son míos, pero mi código no siempre funciona como quiero. Claude, ChatGPT, Copilot y DeepSeek hicieron aportes y correcciones desde la primera versión hasta la que ves ahora.
 - **Imágenes.** Las imágenes que ilustran las actividades y las páginas están creadas con IA. Al principio usé el modelo FLUX.1 schnell, de Black Forest Labs, a través de Hugging Face; después, FLUX.2 klein 4B. Algunas las hice con ChatGPT y con Bing Image Creator. Son ilustraciones: no muestran personas, grupos ni lugares reales, y pueden tener detalles que no se ajustan a la realidad (uniformes, materiales, técnicas).
 
-La revisión final y la responsabilidad por lo publicado son mías. Si encontrás una imagen o un texto con un error, o que pueda confundir, avisame por el [formulario de comentarios](../feedback/).
+Si encontrás una imagen o un texto con un error, o que pueda confundir, avisame por el [formulario de comentarios](../feedback/).
 
 ## Contacto
 
