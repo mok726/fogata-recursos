@@ -104,14 +104,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 9 to 12 in beige shirts and colorful neckerchiefs comparing two homemade thermometers made of small plastic bottles with red colored water and straws, one in the sun and one inside a white cardboard box with holes in the shade, a real thermometer beside them, schoolyard"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima

@@ -103,14 +103,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 9 to 12 in beige shirts and colorful neckerchiefs holding a homemade anemometer made of four plastic cups on crossed straws, one cup painted red, spinning in the wind on a grassy field, a girl counting turns with a stopwatch, bright windy day"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima

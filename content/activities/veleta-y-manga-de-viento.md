@@ -107,14 +107,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 8 to 12 in beige shirts and colorful neckerchiefs in a campsite next to a striped homemade windsock on a cane pole and a cardboard arrow weather vane on a cup, one child checking a compass, flags of patrol fluttering, sunny windy afternoon"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima

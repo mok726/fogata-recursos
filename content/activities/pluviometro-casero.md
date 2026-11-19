@@ -103,14 +103,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 8 to 12 in beige shirts and colorful neckerchiefs kneeling on wet grass around a homemade rain gauge made from a clear plastic bottle with a ruler taped on the side, one child writing in a notebook, puddles and clouds after rain"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima

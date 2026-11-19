@@ -101,14 +101,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 8 to 12 in beige shirts and colorful neckerchiefs gathered around a table watching a swirling water vortex inside two plastic bottles taped together neck to neck, one child spinning the bottles, glitter in the water, indoor scout hall"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima

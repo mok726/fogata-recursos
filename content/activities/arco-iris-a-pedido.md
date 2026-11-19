@@ -100,14 +100,13 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Experimento"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout children aged 7 to 10 in beige shirts and colorful neckerchiefs laughing in a sunny garden while an adult sprays a fine mist from a hose creating a bright rainbow, children with their backs to the sun pointing at it, summer afternoon"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
   - Experimento
 category:
   - Clima

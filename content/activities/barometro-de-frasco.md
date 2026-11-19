@@ -104,14 +104,14 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Construcción"
+main_type: "Taller / Construcción"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Argentine scout teenagers aged 11 to 15 in beige shirts and colorful neckerchiefs at a table indoors looking at a homemade barometer made of a glass jar covered with a balloon and a straw pointer against a cardboard scale, rain clouds visible through the window"
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Construcción
+  - Taller / Construcción
   - Experimento
 category:
   - Clima
