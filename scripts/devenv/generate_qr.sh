@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# Directorios
-ACTIVITIES_DIR="content/activities"
-QR_DIR="../../imagenes/actividades/qr"
+# Directorios (relativos a la raíz del repo, sin importar desde dónde se corra)
+REPO="$(cd "$(dirname "$(readlink -f "$0")")/../.." && pwd)"
+ACTIVITIES_DIR="$REPO/content/activities"
+QR_DIR="$REPO/imagenes/actividades/qr"
 
 # Crear directorio de destino si no existe
 mkdir -p "$QR_DIR"
