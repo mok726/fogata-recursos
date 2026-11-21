@@ -2610,7 +2610,7 @@ sections: {
   description:
     "Innovación social: detectar problemas de la comunidad, generar ideas, prototipar y probar soluciones.",
   summary:
-    "Desafío Impact Innovators de la Organización Mundial del Movimiento Scout, desarrollado con Accenture y World's Largest Lesson. Propone el pensamiento de diseño (design thinking) para que los protagonistas encuentren problemas de su comunidad y diseñen soluciones.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Desafío Impact Innovators de la Organización Mundial del Movimiento Scout, desarrollado con Accenture y World's Largest Lesson. Propone el pensamiento de diseño (design thinking) para que los protagonistas encuentren problemas de su comunidad y diseñen soluciones.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
   logo: "/imagenes/insignias/impactinnovators.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "A patrol of scouts aged 11 to 16 building a cardboard prototype of a small community project on a table covered with sticky notes, markers, tape and sketches, a city neighborhood visible through the window, bright daylight.",
