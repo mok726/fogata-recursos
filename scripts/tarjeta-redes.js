@@ -1,6 +1,7 @@
 // Saca la imagen para redes de la «Actividad del día»: captura cada
 // tarjeta de docs/redes/tarjeta/ (pages/redes-tarjeta.njk) y la guarda
-// en docs/redes/<fecha>.jpg (1080 px de ancho). La publica
+// en docs/redes/<fecha>.png (margen transparente) y <fecha>.jpg (margen
+// blanco), de 1080 px de ancho. La publica
 // .github/scripts/anunciar.mjs; si no está, usa la imagen og de siempre.
 //
 // Uso (después de eleventy): node scripts/tarjeta-redes.js
@@ -64,15 +65,25 @@ async function main() {
       null, { timeout: 30000 });
 
     fs.mkdirSync(SALIDA, { recursive: true });
+    // Dos versiones de cada tarjeta, con margen alrededor para que se
+    // vean las esquinas redondeadas: PNG con el margen transparente y
+    // JPG con el margen blanco (Instagram sólo acepta JPG; Bluesky
+    // limita a ~1 MB por imagen).
+    const recortes = [];
     for (const t of await pagina.$$(".home-daily-dia")) {
-      const fecha = await t.getAttribute("data-fecha");
-      const archivo = path.join(SALIDA, `${fecha}.jpg`);
-      // Con margen color papel, así se ven las esquinas redondeadas.
       const c = await t.boundingBox();
-      await pagina.screenshot({ path: archivo, type: "jpeg", quality: 85,
+      recortes.push({ fecha: await t.getAttribute("data-fecha"),
         clip: { x: c.x - MARGEN, y: c.y - MARGEN, width: c.width + 2 * MARGEN, height: c.height + 2 * MARGEN } });
-      console.log(`tarjeta-redes: ${path.relative(DOCS, archivo)} ` +
-        `(${Math.round(fs.statSync(archivo).size / 1024)} KB)`);
+    }
+    for (const { fecha, clip } of recortes) {
+      await pagina.screenshot({ path: path.join(SALIDA, `${fecha}.png`), type: "png",
+        omitBackground: true, clip });
+    }
+    await pagina.evaluate(() => document.body.classList.add("fondo-blanco"));
+    for (const { fecha, clip } of recortes) {
+      await pagina.screenshot({ path: path.join(SALIDA, `${fecha}.jpg`), type: "jpeg", quality: 85, clip });
+      const kb = ext => Math.round(fs.statSync(path.join(SALIDA, `${fecha}.${ext}`)).size / 1024);
+      console.log(`tarjeta-redes: redes/${fecha}.png (${kb("png")} KB) y .jpg (${kb("jpg")} KB)`);
     }
   } catch (e) {
     console.warn(`tarjeta-redes: ERROR ${e.message}; los anuncios usan la imagen og.`);
