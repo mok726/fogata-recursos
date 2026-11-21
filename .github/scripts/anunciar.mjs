@@ -41,8 +41,20 @@ if (act.redes) {
 }
 const imagen = tarjeta || act.image;
 
-// Ancho y alto de un JPEG (Bluesky los usa para mostrar la imagen sin recortes).
-function medidasJpeg(buf) {
+// Versión PNG con el margen transparente (esquinas redondeadas sin
+// fondo). Va en Telegram, Facebook y Bluesky; Instagram y Threads
+// sólo aceptan JPG y usan la de margen blanco.
+let transparente = null;
+if (tarjeta && act.redesPng) {
+  try { if ((await fetch(act.redesPng, { method: "HEAD" })).ok) transparente = act.redesPng; }
+  catch { /* sin PNG */ }
+}
+
+// Ancho y alto de un JPEG o PNG (Bluesky los usa para mostrar la
+// imagen sin recortes).
+function medidas(buf) {
+  if (buf.length > 24 && buf.toString("latin1", 1, 4) === "PNG")
+    return { width: buf.readUInt32BE(16), height: buf.readUInt32BE(20) };
   for (let i = 2; i + 9 < buf.length; ) {
     if (buf[i] !== 0xff) break;
     const m = buf[i + 1], largo = buf.readUInt16BE(i + 2);
@@ -75,7 +87,7 @@ const redes = {
     publicar: () => pedir(
       `https://api.telegram.org/bot${env.TELEGRAM_BOT_TOKEN}/sendPhoto`,
       { method: "POST", headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ chat_id: env.TELEGRAM_CHAT_ID, photo: imagen, caption: texto(1024) }) },
+        body: JSON.stringify({ chat_id: env.TELEGRAM_CHAT_ID, photo: transparente || imagen, caption: texto(1024) }) },
       "Telegram")
   },
 
@@ -104,16 +116,20 @@ const redes = {
       try {
         // Con tarjeta: se publica como imagen (la vista previa de link
         // es apaisada y la recortaría). Sin tarjeta: link con miniatura.
-        // Límite de Bluesky: ~1 MB por imagen.
-        const img = Buffer.from(await (await fetch(imagen)).arrayBuffer());
+        // Límite de Bluesky: ~1 MB por imagen. Si el PNG transparente
+        // se pasa, va el JPG.
+        const bajar = async u => Buffer.from(await (await fetch(u)).arrayBuffer());
+        let img = transparente ? await bajar(transparente) : null;
+        let tipo = "image/png";
+        if (!img || img.length >= 950_000) { img = await bajar(imagen); tipo = "image/jpeg"; }
         if (img.length < 950_000) {
           const blob = await pedir(api + "com.atproto.repo.uploadBlob",
-            { method: "POST", headers: { ...auth, "Content-Type": "image/jpeg" }, body: img }, "Bluesky");
+            { method: "POST", headers: { ...auth, "Content-Type": tipo }, body: img }, "Bluesky");
           if (tarjeta) {
-            const medidas = medidasJpeg(img);
+            const dims = medidas(img);
             embed = { $type: "app.bsky.embed.images", images: [{ image: blob.blob,
               alt: `Actividad del día: ${act.title}. ${act.description || ""}`.trim(),
-              ...(medidas ? { aspectRatio: medidas } : {}) }] };
+              ...(dims ? { aspectRatio: dims } : {}) }] };
           } else {
             embed.external.thumb = blob.blob;
           }
@@ -187,7 +203,7 @@ const redes = {
     publicar: () => tarjeta ? pedir(
       `https://graph.facebook.com/v21.0/${env.FB_PAGE_ID}/photos`,
       { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
-        body: new URLSearchParams({ url: tarjeta, message: texto(2000), access_token: env.FB_PAGE_TOKEN }) },
+        body: new URLSearchParams({ url: transparente || tarjeta, message: texto(2000), access_token: env.FB_PAGE_TOKEN }) },
       "Facebook") : pedir(
       `https://graph.facebook.com/v21.0/${env.FB_PAGE_ID}/feed`,
       { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -200,6 +216,7 @@ const redes = {
 
 console.log(`${hoy}: ${act.title} → ${act.url}`);
 console.log(`Imagen: ${imagen}${tarjeta ? "" : " (no hay tarjeta, se usa la og)"}`);
+if (transparente) console.log(`PNG transparente: ${transparente}`);
 let fallas = 0;
 
 const elegidas = (env.REDES || "todas").split(",").map(x => x.trim().toLowerCase());
