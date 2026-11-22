@@ -122,7 +122,7 @@ image_prompt: "A friendly health professional talking to a group of scouts sitti
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Visita / Charla
-  - Indagación
+  - Investigación
 category:
   - Salud
   - Protección solar

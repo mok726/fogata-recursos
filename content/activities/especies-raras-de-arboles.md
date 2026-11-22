@@ -126,7 +126,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 category:
   - Árboles
   - Conservación

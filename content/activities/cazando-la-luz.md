@@ -130,7 +130,7 @@ image_prompt: "A bean seedling bending toward a small hole cut in the side of a 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Indagación
+  - Investigación
 category:
   - Ciencia
   - Naturaleza

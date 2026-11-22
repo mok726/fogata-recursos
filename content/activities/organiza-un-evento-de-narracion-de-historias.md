@@ -121,7 +121,7 @@ accessibility: []
 
 activity_type:
   - Narración
-  - Indagación
+  - Investigación
 
 category:
   - Narración

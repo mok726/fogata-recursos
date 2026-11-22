@@ -118,14 +118,14 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Young adults around a table with laptops and a large hand-drawn map of a country with icons of solar panels, wind turbines, dams and a power plant, pie charts pinned on a wall."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Juego
 category:
   - Energía solar

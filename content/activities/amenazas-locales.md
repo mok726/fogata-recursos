@@ -118,14 +118,14 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A split composition showing threats to pollinators - construction, deforestation, and pesticide spraying - alongside a healthy pollinator garden dominates the composition. Left side contains open negative space reserved for website interface elements. A group of people planning action steps in the background, seen from a distance, positioned on the right side. The scene has a concerned yet hopeful atmosphere with dramatic lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Proyecto
 category:
   - Amenazas

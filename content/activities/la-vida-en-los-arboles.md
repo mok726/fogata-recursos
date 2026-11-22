@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 
 category:
   - Pueblos indígenas

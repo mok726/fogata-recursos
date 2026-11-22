@@ -121,7 +121,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 
 category:
   - Juegos tradicionales

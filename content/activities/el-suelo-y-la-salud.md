@@ -93,7 +93,7 @@ active_component: 1  # Actividad de creación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the connection between soil and human health - nutrients, medicines, food production - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating the poster. Health and soil awareness atmosphere. No text, no letters, no words. Wide shot."
 
@@ -106,7 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

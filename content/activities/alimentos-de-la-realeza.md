@@ -118,7 +118,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Indagación
+  - Investigación
 
 category:
   - Soberanía alimentaria

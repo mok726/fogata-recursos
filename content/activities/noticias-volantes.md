@@ -118,7 +118,7 @@ image_prompt: "Young scouts aged 11 to 14 around a large world map on a table, p
 activity_type:
   - Narración
   - Debate / Diálogo
-  - Indagación
+  - Investigación
 category:
   - Paz y desarrollo
   - Paz

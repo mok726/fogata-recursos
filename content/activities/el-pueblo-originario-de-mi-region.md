@@ -94,14 +94,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts in beige shirts and neckerchiefs gathered around a table with maps of Argentina, books and printed photos, making a colorful poster about indigenous peoples of their region, scout hall, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Proyecto
 category:
   - Tradiciones argentinas

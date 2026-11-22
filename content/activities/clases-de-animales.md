@@ -120,7 +120,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 
 category:
   - Animales

@@ -115,14 +115,14 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere recursos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Local ecosystems affected by pollution with endangered species and children documenting the impact with cameras and notes dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, investigating local pollution and creating a documentary. Environmental research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Contaminación
   - Ecosistemas

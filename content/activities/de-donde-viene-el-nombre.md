@@ -94,14 +94,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts in beige shirts and neckerchiefs placing small paper cards on a large hand-drawn map of their region pinned to a wall, pointing at rivers and hills, scout hall, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Juego
 category:
   - Tradiciones argentinas

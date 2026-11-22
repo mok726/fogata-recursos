@@ -116,7 +116,7 @@ accessibility: []
 
 activity_type:
   - Cambio de hábitos
-  - Indagación
+  - Investigación
 
 category:
   - Agua

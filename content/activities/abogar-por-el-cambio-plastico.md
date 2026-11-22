@@ -116,7 +116,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 category:
   - Advocacy
   - Política

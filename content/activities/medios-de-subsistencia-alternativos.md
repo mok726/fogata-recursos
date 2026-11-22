@@ -104,7 +104,7 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere preparación del juego
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Forest products used for subsistence like fruits, medicinal plants, and materials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing an educational game about forest resources. Learning about livelihoods and resource use atmosphere. No text, no letters, no words. Wide shot."
@@ -121,7 +121,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
   - Juego
 
 category:

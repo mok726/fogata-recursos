@@ -124,7 +124,7 @@ accessibility: []
 
 activity_type:
   - Visita / Charla
-  - Indagación
+  - Investigación
 
 category:
   - Derechos humanos

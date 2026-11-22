@@ -118,7 +118,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Indagación
+  - Investigación
 category:
   - Agricultura
   - Comunicación

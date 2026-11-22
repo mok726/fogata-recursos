@@ -116,14 +116,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenagers on a city rooftop on a hot hazy summer afternoon, looking at an air quality chart on a tablet, a faint smog layer over the skyline in the background."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Salud
   - Ozono

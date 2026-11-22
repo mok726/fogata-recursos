@@ -120,7 +120,7 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 
 category:
   - Especies invasoras
