@@ -652,6 +652,23 @@ async function shareActivity() {
       </div>
       {% endif %}
 
+      {% if (material_apoyo | default([])) | length %}
+      <div class="info-card material-card">
+        <h3><span class="material-symbols-outlined" aria-hidden="true">auto_stories</span> Material de apoyo</h3>
+        <p>Texto para usar en esta actividad:</p>
+        <div class="download-list">
+          {% for mslug in material_apoyo %}
+            {% set m = collections.material | selectattr('fileSlug', 'equalto', mslug) | first %}
+            {% if m %}
+            <a href="{{ m.url | url }}" class="download-item">
+              📖 {{ m.data.title }}
+            </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
       {% if (sister | default([])) | length %}
       <div class="info-card sister-card">
         <h3><span class="material-symbols-outlined" aria-hidden="true">diversity_1</span> Actividad hermana</h3>
