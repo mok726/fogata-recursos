@@ -46,7 +46,7 @@ Fogata de Recursos no está afiliada a ninguna de las organizaciones citadas, y 
 
 <h2 id="marcas-nombres-y-logos">Marcas, nombres y logos</h2>
 
-En el sitio aparecen nombres, marcas, logos e imágenes de insignias de otras organizaciones (por ejemplo, la Organización Mundial del Movimiento Scout, la FAO y YUNGA, ASDE – Scouts de España, Solafrica o Scouts de Argentina). Se usan **solo con fines ilustrativos y de orientación**: para identificar de dónde viene cada material, dar el crédito que corresponde y ayudar a encontrar la propuesta original.
+En el sitio aparecen nombres, marcas, logos e imágenes de insignias de otras organizaciones (por ejemplo, la Organización Mundial del Movimiento Scout, la Asociación Mundial de las Guías Scouts, la FAO y YUNGA, ASDE – Scouts de España, Solafrica o Scouts de Argentina). Se usan **solo con fines ilustrativos y de orientación**: para identificar de dónde viene cada material, dar el crédito que corresponde y ayudar a encontrar la propuesta original.
 
 Ese uso **no implica respaldo, aprobación, patrocinio ni afiliación** por parte de sus titulares, ni que ellos hayan revisado el contenido de este sitio, salvo que se indique expresamente. Los nombres, marcas y logos pertenecen a sus respectivos titulares.
 
