@@ -2818,7 +2818,7 @@ sections: {
     "Juegos tradicionales, costumbres, leyendas y la historia de nuestra región: lo que se juega, se cuenta y se comparte en la Argentina desde hace generaciones.",
   summary:
     "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Reúne actividades para conocer, jugar y transmitir la cultura popular argentina: los juegos de patio y de las fiestas criollas, las costumbres que se comparten en la mesa y en el fogón, las leyendas de los pueblos originarios y del campo, y la historia de cada región.\n\n<p>Las leyendas, cuentos y coplas completos están en el <a href=\"https://mok726.github.io/fogata-recursos/material/\">Material de apoyo</a>; las actividades de esta insignia los usan como punto de partida.\n\n<p>Muchos juegos cambian de nombre y de reglas según la provincia. Si en tu zona se juega distinto, usá la versión local: también es tradición.",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/tradiciones.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   sources: [],
   license: {
