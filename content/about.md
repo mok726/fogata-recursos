@@ -24,7 +24,7 @@ Actualmente el sitio contiene cientos de actividades clasificadas por:
 
 ## ¿Para quién está pensado?
 
-Aunque gran parte del material viene del movimiento scout y del movimiento guía, el contenido está pensado para cualquier persona que trabaje con infancias y juventudes:
+Aunque gran parte del material tiene origen scout-guía, el contenido está pensado para cualquier persona que trabaje con infancias y juventudes:
 
 - Dirigentes scouts y guiadoras
 - Docentes
