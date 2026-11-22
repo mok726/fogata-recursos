@@ -1541,7 +1541,7 @@ else {
               url: "/badges/" + entry.id + "/",
               title: entry.name,
               text: textoPlano(entry.description),
-              icon: entry.logo && !entry.generic ? entry.logo : "",
+              icon: entry.logo || "",
               cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) && fs.statSync(path.join(__dirname, entry.hero_image)).size > 0 ? thumb(entry.hero_image, "badgeHero") : ""
             };
             break;
@@ -1589,6 +1589,28 @@ else {
         };
 
       });
+
+      // Insignias: primero las propias, después ASDE y Manos Unidas,
+      // YUNGA/FAO, OMMS, AMGS y el resto de las externas (en el orden
+      // en que están en badges.js, que es el orden en que se fueron
+      // sumando). Las que todavía no tienen actividades
+      // («Próximamente») van al final, con el mismo criterio.
+      if (kind === "badge") {
+        const PROPIAS = ["badenpowell", "badenpowellmanada", "tecnicascout", "vial", "tradiciones", "general"];
+        const rank = entry => {
+          const id = String(entry.id);
+          const org = String((entry.attribution && entry.attribution.organization) || "");
+          if (PROPIAS.includes(id)) return PROPIAS.indexOf(id) / 10;
+          if (id.startsWith("asde") || id === "manosunidas") return 1;
+          if (/OMMS|WOSM/.test(org) || id === "gosolar" || id === "mundomejor") return 3;
+          if (/FAO|YUNGA/.test(org)) return 2;
+          if (/WAGGGS|AMGS/.test(org)) return 4;
+          return 5;
+        };
+        const order = list.map((entry, i) => ({ card: cards[i], key: [cards[i].count ? 0 : 1, rank(entry), i] }));
+        order.sort((x, y) => x.key[0] - y.key[0] || x.key[1] - y.key[1] || x.key[2] - y.key[2]);
+        return order.map(o => o.card);
+      }
 
       // Valores, método, habilidades y tipos: orden alfabético (pedido de Mariano).
       if (["value", "method", "skill", "type"].includes(kind)) {

@@ -3236,7 +3236,7 @@ sections: {
   name: "Actividades Generales",
   description:
     "Actividades scouts sin una insignia específica asociada.",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/general-sitio.png",
   hero_image: "/imagenes/insignias/general-hero.png",
    generic: true,
   license: {
