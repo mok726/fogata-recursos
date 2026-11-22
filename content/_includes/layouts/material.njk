@@ -1,0 +1,65 @@
+---
+layout: layouts/base.njk
+styles:
+  - /css/material.css
+---
+{% set cat = materialCategories | selectattr('id', 'equalto', category) | first %}
+{% set slug = page.fileSlug %}
+<article class="material-page">
+
+  <nav class="material-migas" aria-label="Migas de pan">
+    <a href="{{ '/' | url }}">Inicio</a> ›
+    <a href="{{ '/material/' | url }}">Material de apoyo</a> ›
+    {% if cat %}<a href="{{ ('/material/#' + cat.id) | url }}">{{ cat.name }}</a>{% endif %}
+  </nav>
+
+  <header class="material-header">
+    <h1>{{ title }}</h1>
+    {% if summary %}<p class="material-summary">{{ summary }}</p>{% endif %}
+    <dl class="material-datos">
+      {% if origin %}<div><dt>Origen</dt><dd>{{ origin }}</dd></div>{% endif %}
+      {% if region %}<div><dt>Región</dt><dd>{{ region }}</dd></div>{% endif %}
+      {% if age %}<div><dt>Edad sugerida</dt><dd>{{ age }}</dd></div>{% endif %}
+      {% if reading_time %}<div><dt>Lectura</dt><dd>{{ reading_time }}</dd></div>{% endif %}
+    </dl>
+  </header>
+
+  {% if educator_note %}
+  <aside class="material-nota">
+    <h2><span class="material-symbols-outlined" aria-hidden="true">lightbulb</span> Para el educador</h2>
+    {{ educator_note | safe }}
+  </aside>
+  {% endif %}
+
+  <div class="material-texto">
+    {{ content | safe }}
+  </div>
+
+  {% set usan = [] %}
+  {% for a in collections.activities %}
+    {% if slug in (a.data.material_apoyo | default([])) %}{% set usan = (usan.push(a), usan) %}{% endif %}
+  {% endfor %}
+  {% if usan | length %}
+  <section class="material-usan">
+    <h2><span class="material-symbols-outlined" aria-hidden="true">local_fire_department</span> Actividades que usan este texto</h2>
+    <ul>
+      {% for a in usan %}<li><a href="{{ a.url | url }}">{{ a.data.title }}</a></li>{% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <footer class="material-fuente">
+    <h2>Fuente y licencia</h2>
+    {% if source %}
+    <p>
+      {% if source.author %}{{ source.author }}, {% endif %}«{{ source.title }}»{% if source.year %} ({{ source.year }}){% endif %}.
+      {% if source.url %}<a href="{{ source.url }}" target="_blank" rel="noopener">Ver la obra original</a>.{% endif %}
+    </p>
+    {% endif %}
+    {% if license %}
+    <p><strong>{{ license.name }}.</strong> {% if license.note %}{{ license.note }}{% endif %}</p>
+    {% endif %}
+    {% if adaptation %}<p>{{ adaptation }}</p>{% endif %}
+  </footer>
+
+</article>
