@@ -2812,6 +2812,52 @@ sections: {
 
 	  
 {
+  id: "tradiciones",
+  name: "Tradiciones Argentinas",
+  description:
+    "Juegos tradicionales, costumbres, leyendas y la historia de nuestra región: lo que se juega, se cuenta y se comparte en la Argentina desde hace generaciones.",
+  summary:
+    "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Reúne actividades para conocer, jugar y transmitir la cultura popular argentina: los juegos de patio y de las fiestas criollas, las costumbres que se comparten en la mesa y en el fogón, las leyendas de los pueblos originarios y del campo, y la historia de cada región.\n\n<p>Las leyendas, cuentos y coplas completos están en el <a href=\"https://mok726.github.io/fogata-recursos/material/\">Material de apoyo</a>; las actividades de esta insignia los usan como punto de partida.\n\n<p>Muchos juegos cambian de nombre y de reglas según la provincia. Si en tu zona se juega distinto, usá la versión local: también es tradición.",
+  logo: "/imagenes/insignias/tradiciones.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  sources: [],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  },
+  attribution: {
+    organization: "MSC",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias todavía: elegí las que se adapten a la edad y al lugar.",
+    rules: [
+      "Siempre que puedas, invitá a las familias y a los mayores de la comunidad: son quienes guardan la tradición",
+      "Respetá las notas de seguridad de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Juegos Tradicionales",
+      description: "Juegos de patio, de kermés y de fiestas criollas que jugaron nuestros padres y abuelos."
+    },
+    B: {
+      title: "Costumbres",
+      description: "Lo que compartimos en la mesa, en el fogón y en las fiestas: el mate, la cocina criolla, la danza y las fechas patrias."
+    },
+    C: {
+      title: "Leyendas en Acción",
+      description: "Actividades que parten de una leyenda para descubrir la naturaleza real que la inspiró, jugarla o representarla."
+    },
+    D: {
+      title: "Nuestra Región",
+      description: "Investigar los pueblos originarios, la historia y las costumbres del lugar donde vivimos."
+    }
+  }
+},
+
+{
   id: "asdeaprendiendo",
   name: "Aprendiendo a Ser (ASDE)",
   description:
