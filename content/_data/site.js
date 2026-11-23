@@ -10,6 +10,7 @@ module.exports = {
   // (fogata.com.ar) alcanza con cambiar estos dos valores:
   //   url: "https://fogata.com.ar", pathPrefix: ""
   // y configurar el dominio en Settings → Pages del repositorio.
+  // Después, regenerar los QR de las fichas: ver scripts/devenv/QR.md.
   // Las URLs viejas escritas a mano en las fichas
   // (https://mok726.github.io/fogata-recursos/…) se reescriben solas
   // al generar el sitio (ver urlAnterior en eleventy.config.js).

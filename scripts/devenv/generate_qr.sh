@@ -1,4 +1,8 @@
 #!/bin/bash
+# Genera los QR de todas las fichas de content/activities.
+# La URL sale de content/_data/site.js. Si el QR ya existe, lo saltea;
+# con FORZAR=1 los regenera todos (por ejemplo, al cambiar de dominio).
+
 
 # Directorios (relativos a la raíz del repo, sin importar desde dónde se corra)
 REPO="$(cd "$(dirname "$(readlink -f "$0")")/../.." && pwd)"
@@ -9,7 +13,14 @@ QR_DIR="$REPO/imagenes/actividades/qr"
 mkdir -p "$QR_DIR"
 
 # URL base
-BASE_URL="${BASE_URL:-https://mok726.github.io/fogata-recursos}/activities"
+# URL base: se lee de content/_data/site.js (url + pathPrefix).
+# BASE_URL permite forzar otra a mano (sin /activities).
+source "$REPO/scripts/devenv/url_sitio.sh"
+SITIO="${BASE_URL:-$(url_sitio "$REPO")}" || exit 1
+SITIO="${SITIO%/}"
+[[ -z "$SITIO" ]] && { echo "❌ No pude obtener la URL del sitio"; exit 1; }
+BASE_URL="$SITIO/activities"
+echo "🌐 URL base de los QR: $BASE_URL"
 
 # Servicio QR
 QR_API="https://api.qrserver.com/v1/create-qr-code"
@@ -21,7 +32,7 @@ generate_qr() {
     local qr_path="$QR_DIR/$filename.png"
     
     # Verificar si ya existe el QR
-    if [ -f "$qr_path" ]; then
+    if [ -f "$qr_path" ] && [ "${FORZAR:-0}" != "1" ]; then
         echo "⏭️  $filename.png ya existe, saltando..."
         return 0
     fi
@@ -39,16 +50,18 @@ generate_qr() {
     # -L: sigue redirecciones
     # -o: output file
     # --max-redirs: máximo de redirecciones a seguir
-    curl -L --max-redirs 5 -s -o "$qr_path" "$QR_API?size=300x300&data=$encoded_url"
+    local tmp; tmp="$(mktemp)"
+    curl -L --max-redirs 5 -sf -o "$tmp" "$QR_API?size=300x300&data=$encoded_url"
     
     # Verificar que se descargó correctamente y es una imagen PNG
-    if [ $? -eq 0 ] && [ -f "$qr_path" ] && [ -s "$qr_path" ] && file "$qr_path" | grep -q "PNG image"; then
+    if [ $? -eq 0 ] && [ -s "$tmp" ] && file "$tmp" | grep -q "PNG image"; then
+        mv "$tmp" "$qr_path"
         echo "✅ QR guardado en: $qr_path"
     else
         echo "❌ Error generando QR para: $filename"
         # Mostrar el contenido para debug si es necesario
         # cat "$qr_path" 2>/dev/null
-        rm -f "$qr_path"
+        rm -f "$tmp"   # si falla, se conserva el QR anterior
     fi
     
     # Pequeña pausa para no sobrecargar el servicio
@@ -71,7 +84,7 @@ if ! command -v jq &> /dev/null; then
         local filename=$(basename "$file" .md)
         local qr_path="$QR_DIR/$filename.png"
         
-        if [ -f "$qr_path" ]; then
+        if [ -f "$qr_path" ] && [ "${FORZAR:-0}" != "1" ]; then
             echo "⏭️  $filename.png ya existe, saltando..."
             return 0
         fi
@@ -81,13 +94,15 @@ if ! command -v jq &> /dev/null; then
         local encoded_url=$(echo "$full_url" | sed 's/ /%20/g' | sed 's/&/%26/g' | sed 's/?/%3F/g' | sed 's/#/%23/g')
         
         echo "📱 Generando QR para: $filename"
-        curl -L --max-redirs 5 -s -o "$qr_path" "$QR_API?size=300x300&data=$encoded_url"
+        local tmp; tmp="$(mktemp)"
+        curl -L --max-redirs 5 -sf -o "$tmp" "$QR_API?size=300x300&data=$encoded_url"
         
-        if [ $? -eq 0 ] && [ -f "$qr_path" ] && [ -s "$qr_path" ] && file "$qr_path" | grep -q "PNG image"; then
+        if [ $? -eq 0 ] && [ -s "$tmp" ] && file "$tmp" | grep -q "PNG image"; then
+            mv "$tmp" "$qr_path"
             echo "✅ QR guardado en: $qr_path"
         else
             echo "❌ Error generando QR para: $filename"
-            rm -f "$qr_path"
+            rm -f "$tmp"   # si falla, se conserva el QR anterior
         fi
         sleep 1
     }
