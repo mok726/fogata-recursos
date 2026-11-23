@@ -106,14 +106,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenagers aged 14 to 17 sitting around a long sheet of brown paper on a table, reading product labels on packages and writing a big chart with markers in a scout hall."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Debate / Diálogo
   - Cambio de hábitos
 category:
