@@ -68,6 +68,8 @@ Quiero agradecer especialmente a quienes crearon el material que uso en el sitio
 - **Girl Scouts of the USA** y **Boy Scouts of America**.
 - **Fideicomiso de Educación Marina (Marine Education Trust)**, **NOAA**, **WeatherWizKids** y el **Centro para la Educación Ambiental de la India**.
 - Los **colaboradores de Pathfinder Wiki**, por el material de técnica scout.
+- A la **Pequeña Comunidad Scout-Guías "San Pablo"** conformada por el **grupo Scout "San Pablo"** (*g521d02z15 SAAC*) y la **comunidad Guía 59 "San Pablo"** (*zona "Baden Powell" AGA*), y el querido comité de Padres.
+- A la **Manada de Lobos Audaces** de dicho grupo scout, y a sus Lobatos y Viejos Lobos, por la inspiración y el cariño de cada encuentro.
 
 La lista no es exhaustiva: seguramente me olvidé de alguien. El detalle de autoría y licencia de cada actividad figura en su propia ficha.
 
