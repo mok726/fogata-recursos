@@ -99,10 +99,10 @@ populares:
 
 
 <ul class="home-stats">
-  <li><b>{{ collections.activities | length }}</b> actividades</li>
-  <li><b>{{ badges | length }}</b> insignias</li>
-  <li><b>{{ allSdgs | length }}</b> ODS</li>
-  <li><b>{{ ageGroups | length }}</b> ramas</li>
+  <li><a href="{{ '/activities/' | url }}"><b>{{ collections.activities | length }}</b> actividades</a></li>
+  <li><a href="{{ '/badges/' | url }}"><b>{{ badges | length }}</b> insignias</a></li>
+  <li><a href="{{ '/ods/' | url }}"><b>{{ allSdgs | length }}</b> ODS</a></li>
+  <li><a href="{{ '/edades/' | url }}"><b>{{ ageGroups | length }}</b> ramas</a></li>
 </ul>
 
 

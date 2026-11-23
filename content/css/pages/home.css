@@ -304,6 +304,22 @@ body:has(.home) {
   border-right: 0;
 }
 
+.home-stats a,
+.home-stats a:link,
+.home-stats a:visited,
+.home-stats a:hover,
+.home-stats a:focus,
+.home-stats a:active {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-stats a:focus-visible {
+  outline: 2px dashed currentColor;
+  outline-offset: 4px;
+}
+
 .home-stats b {
   display: block;
   font-family: var(--home-display);
