@@ -379,9 +379,22 @@ eleventyConfig.addCollection(
     }
   );
 
-  eleventyConfig.addPassthroughCopy({
-    "content/robots.txt": "robots.txt"
-  });
+  // Enlaces escritos a mano con la dirección vieja del sitio
+  // (front matter `link:`, textos de fichas, badges.js): se reescriben
+  // a la dirección actual. Mientras el sitio siga en la dirección
+  // vieja, no cambia nada.
+  const urlActual = (site.url + site.pathPrefix).replace(/\/$/, "");
+  if (site.urlAnterior && site.urlAnterior !== urlActual) {
+    const vieja = new RegExp(site.urlAnterior.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "g");
+    eleventyConfig.addTransform("urlAnterior", function(content) {
+      const out = this.page.outputPath || "";
+      if (!/\.(html|xml|json|txt)$/.test(out)) return content;
+      return content
+        .replace(vieja, urlActual)
+        // Rutas sueltas con el prefijo viejo (galerías internas).
+        .replace(/(=["'])\/fogata-recursos\//g, `$1${site.pathPrefix}/`);
+    });
+  }
 
   // Notas y copias viejas de plantillas dentro de css/:
   // no se publican como páginas.
@@ -1642,7 +1655,7 @@ else {
   return {
 
     pathPrefix:
-      site.pathPrefix,
+      site.pathPrefix || "/",
 
     dir: {
       input: "content",

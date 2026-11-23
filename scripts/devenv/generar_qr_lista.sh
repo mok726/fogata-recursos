@@ -27,7 +27,7 @@ fi
 
 REPO="$(cd "$(dirname "$(readlink -f "$0")")/../.." && pwd)"
 QR_DIR="$REPO/imagenes/actividades/qr"
-BASE_URL="https://mok726.github.io/fogata-recursos/activities"
+BASE_URL="${BASE_URL:-https://mok726.github.io/fogata-recursos}/activities"
 QR_API="https://api.qrserver.com/v1/create-qr-code"
 mkdir -p "$QR_DIR"
 
