@@ -27,7 +27,14 @@ fi
 
 REPO="$(cd "$(dirname "$(readlink -f "$0")")/../.." && pwd)"
 QR_DIR="$REPO/imagenes/actividades/qr"
-BASE_URL="${BASE_URL:-https://mok726.github.io/fogata-recursos}/activities"
+# URL base: se lee de content/_data/site.js (url + pathPrefix).
+# BASE_URL permite forzar otra a mano (sin /activities).
+source "$REPO/scripts/devenv/url_sitio.sh"
+SITIO="${BASE_URL:-$(url_sitio "$REPO")}" || exit 1
+SITIO="${SITIO%/}"
+[[ -z "$SITIO" ]] && { echo "❌ No pude obtener la URL del sitio"; exit 1; }
+BASE_URL="$SITIO/activities"
+echo "🌐 URL base de los QR: $BASE_URL"
 QR_API="https://api.qrserver.com/v1/create-qr-code"
 mkdir -p "$QR_DIR"
 
