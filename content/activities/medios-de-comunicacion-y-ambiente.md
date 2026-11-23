@@ -114,7 +114,7 @@ image_prompt: "Young adults aged 17 to 21 at camp running a mock radio show with
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Indagación
+  - Investigación
   - Debate / Diálogo
 category:
   - Ambiente y consumo

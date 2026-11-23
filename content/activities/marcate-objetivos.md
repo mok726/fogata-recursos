@@ -109,7 +109,7 @@ image_prompt: "Young adults spreading newspaper job ads and laptops on a table, 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Reflexión
-  - Indagación
+  - Investigación
 category:
   - Orientación vocacional
   - Empleo

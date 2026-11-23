@@ -114,7 +114,7 @@ image_prompt: "Children aged 8 to 11 racing to a table full of newspapers and ma
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
   - Expresión artística
 category:
   - Ambiente y consumo
