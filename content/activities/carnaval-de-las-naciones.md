@@ -118,7 +118,7 @@ image_prompt: "Scout hall turned into a small world fair, tables decorated with 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Expresión artística
-  - Indagación
+  - Investigación
 category:
   - Paz y diálogo
 skills:
