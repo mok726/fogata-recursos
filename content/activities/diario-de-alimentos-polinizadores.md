@@ -117,14 +117,14 @@ complexity_execution: 2  # Sencillo
 complexity_organizer: 2  # Requiere investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A food diary layout showing a day's meals with notes about how each item was produced and its connection to pollinators dominates the composition. Left side contains open negative space reserved for website interface elements. A person researching food production on a laptop in the background, seen from a distance, positioned on the right side. The scene has a clean, organized study atmosphere with natural lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Alimentación
   - Producción

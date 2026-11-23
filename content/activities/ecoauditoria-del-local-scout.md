@@ -110,14 +110,14 @@ complexity_execution: 2
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts of different ages walking through their scout hall with clipboards, one checking a dripping tap, another looking at light bulbs, another examining labeled recycling bins."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Agua
   - Energía

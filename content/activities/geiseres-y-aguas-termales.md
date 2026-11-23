@@ -109,14 +109,14 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 3  # Requiere coordinar salida o investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A famous geyser like Old Faithful erupting, or hot springs with steam rising, showing geothermal energy in action. Youth observing and documenting geothermal features. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring geothermal energy. Educational nature scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Energía geotérmica
   - Naturaleza

@@ -120,7 +120,7 @@ image_prompt: "Scouts kneeling around illustrated cards spread on a wooden floor
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 category:
   - Energía solar
   - Juegos

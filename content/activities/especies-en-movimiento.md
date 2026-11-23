@@ -114,14 +114,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 1  # Requiere pocos materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Species moving to higher altitudes or latitudes due to climate change, with a montane landscape showing shifting ranges dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and discussing how climate change affects species distribution. Environmental education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Expresión artística
 category:
   - Cambio Climático

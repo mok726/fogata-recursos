@@ -104,14 +104,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Two scouts lying quietly in the grass at the edge of a forest watching a woodpecker on a tree trunk through binoculars, notebook in hand, early morning."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Salida / Exploración
 category:
   - Naturaleza

@@ -125,7 +125,7 @@ image_prompt: "Scouts of different ages standing in front of a long paper timeli
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 category:
   - Género
   - Historia

@@ -110,7 +110,7 @@ accessibility: []
 
 activity_type:
   - Experimento
-  - Indagación
+  - Investigación
 
 category:
   - Agua

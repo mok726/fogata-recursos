@@ -74,8 +74,8 @@ module.exports = [
     "notWhen": "Por la ronda de cierre o evaluación de otra actividad. Casi toda actividad buena tiene un momento de reflexión, y eso no la convierte en este tipo."
   },
   {
-    "id": "indagacion",
-    "name": "Indagación",
+    "id": "investigacion",
+    "name": "Investigación",
     "symbol": "search",
     "summary": "Buscar respuestas fuera del grupo: encuesta, entrevista, relevamiento, fuentes.",
     "description": "Los protagonistas buscan respuestas fuera de lo que ya saben: encuestas, entrevistas, relevamientos, búsqueda en libros o en internet, investigación de un tema para presentarlo.",

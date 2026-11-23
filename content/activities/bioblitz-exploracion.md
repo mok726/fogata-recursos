@@ -133,7 +133,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 category:
   - Biodiversidad
   - Ciencia ciudadana

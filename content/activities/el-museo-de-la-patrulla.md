@@ -93,14 +93,14 @@ complexity_execution: 1
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Cub scouts and scouts in beige shirts proudly standing behind tables displaying old family objects with handwritten labels, an old photograph, a vintage tool, a worn toy, families walking through a small museum in a scout hall, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Expresión artística
 category:
   - Tradiciones argentinas

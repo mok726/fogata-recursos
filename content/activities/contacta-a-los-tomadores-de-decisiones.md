@@ -121,7 +121,7 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 
 category:
   - Política forestal

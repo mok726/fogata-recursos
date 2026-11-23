@@ -114,14 +114,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 3  # Requiere visita
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A supermarket fish counter with sustainable seafood certification labels and a poster promoting responsible choices dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, inspecting fish products and creating educational posters. Consumer education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Pesca

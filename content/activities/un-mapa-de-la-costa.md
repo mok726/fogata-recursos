@@ -130,7 +130,7 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 
 category:
   - Mapa

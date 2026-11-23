@@ -118,14 +118,14 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere recursos
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative presentation setup showing different types of pollination - bee, wind, water, and self-pollination - with visual aids and diagrams dominates the composition. Left side contains open negative space reserved for website interface elements. A person presenting with a screen showing pollination animations in the background, seen from a distance, positioned on the right side. The scene has an educational conference atmosphere with professional lighting. No text, no letters, no words. Wide shot, realistic photography style, high quality, 4K."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Polinización
   - Educación

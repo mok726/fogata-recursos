@@ -116,7 +116,7 @@ image_prompt: "Scouts examining a clear mountain stream in the forest, one holdi
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Indagación
+  - Investigación
 category:
   - Técnicas scout
   - Campamento

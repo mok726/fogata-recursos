@@ -102,7 +102,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

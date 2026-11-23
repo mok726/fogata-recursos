@@ -115,14 +115,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenagers sitting around a camp table comparing several sunscreen bottles and reading their labels, notebook with a hand-drawn chart, sunny outdoor setting with tents behind."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Debate / Diálogo
 category:
   - Salud

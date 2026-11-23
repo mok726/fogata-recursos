@@ -104,7 +104,7 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere coordinación grupal
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A world map with hunger statistics highlighted by continent dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and creating continent posters. Global hunger awareness and research atmosphere. No text, no letters, no words. Wide shot."
@@ -121,7 +121,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Geografía
