@@ -9,7 +9,7 @@ QR_DIR="$REPO/imagenes/actividades/qr"
 mkdir -p "$QR_DIR"
 
 # URL base
-BASE_URL="https://mok726.github.io/fogata-recursos/activities"
+BASE_URL="${BASE_URL:-https://mok726.github.io/fogata-recursos}/activities"
 
 # Servicio QR
 QR_API="https://api.qrserver.com/v1/create-qr-code"
