@@ -110,14 +110,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Caminante scouts in Scout Association of Argentina uniforms interviewing neighbors at a local square with clipboards and a small cardboard prototype, friendly atmosphere, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Salida / Exploración
 category:
   - Innovación social

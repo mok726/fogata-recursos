@@ -120,7 +120,7 @@ image_prompt: "Small patrol of scouts in Scout Association of Argentina uniforms
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 category:
   - Innovación social
 skills:
