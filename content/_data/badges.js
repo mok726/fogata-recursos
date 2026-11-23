@@ -1568,6 +1568,7 @@ sections: {
       summary:
         "La insignia de Pérdida y Desperdicio de Alimentos invita a descubrir cuánta comida se pierde entre el campo y la mesa, y cuánta se tira en casa, en la escuela y en los comercios.\n\nPropone planificar, aprovechar las sobras, compostar, donar y llevar el mensaje a la comunidad.",
       logo: "/imagenes/insignias/desperdicio.png",
+      hero_image: "/imagenes/insignias/desperdicio-hero.jpg",
       hero_prompt: "A diverse group of scouts aged 11 to 17 sorting surplus fruit and vegetables at a community food bank, wooden crates of imperfect but fresh produce, a compost bin and a small school vegetable garden in the background, warm afternoon light.",
       sources: [
         {
@@ -2819,7 +2820,7 @@ sections: {
   summary:
     "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Reúne actividades para conocer, jugar y transmitir la cultura popular argentina: los juegos de patio y de las fiestas criollas, las costumbres que se comparten en la mesa y en el fogón, las leyendas de los pueblos originarios y del campo, y la historia de cada región.\n\n<p>Las leyendas, cuentos y coplas completos están en el <a href=\"https://mok726.github.io/fogata-recursos/material/\">Material de apoyo</a>; las actividades de esta insignia los usan como punto de partida.\n\n<p>Muchos juegos cambian de nombre y de reglas según la provincia. Si en tu zona se juega distinto, usá la versión local: también es tradición.",
   logo: "/imagenes/insignias/tradiciones.png",
-  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_image: "/imagenes/insignias/tradiciones-hero.jpg",
   sources: [],
   license: {
     type: "CC BY-NC-SA 4.0",
@@ -2965,6 +2966,7 @@ sections: {
   summary:
     "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades de la carpeta todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.\n\n<details class=\"license-details\"><summary>Fichas de la carpeta que no incluimos</summary><ul><li><b>Educación vial</b> (19 fichas): se basan en la ley y los organismos de tránsito de España. Para eso está la insignia Seguridad Vial.</li><li><b>Juegos de Kim</b>: ya está en el sitio (ver «El Juego de Kim»).</li><li><b>El náufrago</b>: el grupo vota a qué pasajero con discapacidad tirar al mar.</li><li><b>Cómo viven los demás</b> y <b>Silencio: juego límite</b>: simulan una discapacidad en la calle (horas con los ojos vendados o sin hablar), sin supervisión.</li><li><b>La Jaima</b>: propone reemplazar medicamentos por plantas, algunas tóxicas.</li></ul></details>",
   logo: "/imagenes/insignias/asdefichas2001.png",
+  hero_image: "/imagenes/insignias/asdefichas2001-hero.jpg",
   logo_prompt: "A round embroidered scout badge with an open ring binder of activity cards and a small campfire in front of it, warm colors, simple flat design.",
   hero_prompt: "Scouts of all ages, from small children to young adults, sitting in a wide circle on the grass at a campsite, sharing a group activity with cards, paper and a guitar, tents and pine trees behind them, golden late-afternoon light.",
   sources: [
@@ -3074,6 +3076,7 @@ sections: {
   summary:
     "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Repensar el mundo. Educación para la Paz y el Desarrollo»**, el manual que *ASDE - Scouts de España* publicó en 2003.\n\n<p>El manual trae una propuesta de actividades para cada rama, de Castores a Rovers. Las secciones siguen esas ramas.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las fichas son de 2003: los datos, campañas y sitios que mencionan pueden haber cambiado, y cada una lo avisa con una nota de actualización.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades del manual todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
   logo: "/imagenes/insignias/asderepensar.png",
+  hero_image: "/imagenes/insignias/asderepensar-hero.jpg",
   logo_prompt: "A round embroidered scout badge showing the Earth held by two hands, with a small olive branch, blue and green tones, simple flat design.",
   hero_prompt: "Young scouts gathered around a large world map spread on a wooden table in a scout hall, connecting countries with string and paper notes, a globe and fair trade products nearby, natural light from a window.",
   sources: [
