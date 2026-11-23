@@ -480,6 +480,22 @@ eleventyConfig.addCollection(
   );
 
 
+// Redondea hacia abajo para textos tipo «más de N».
+// Menos de 100 → decenas; menos de 1000 → cincuentenas; más → centenas.
+//   {{ collections.activities | length | masDe }}  →  1300
+eleventyConfig.addFilter(
+  "masDe",
+  function(n) {
+
+    n = Number(n) || 0;
+    const paso = n < 100 ? 10 : (n < 1000 ? 50 : 100);
+    const r = Math.floor(n / paso) * paso;
+    return r.toLocaleString("es-AR");
+
+  }
+);
+
+
 // Una actividad es borrador si su versión es "DRAFT".
 eleventyConfig.addFilter(
   "isDraft",
