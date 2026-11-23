@@ -11,7 +11,8 @@ templateEngineOverride: njk,md
 
 Fogata de Recursos se encuentra en desarrollo activo.
 
-Actualmente el sitio contiene más de {{ collections.activities | length | masDe }} actividades, pero hay otras {{ estadoProyecto.enEsperaDePermiso | masDe }} a la espera de la aprobación de los dueños de los derechos. Además, muchas actividades están marcadas como **Borrador** porque me falta revisarlas o completarlas.
+Actualmente el sitio contiene más de {{ collections.activities | length | masDe }} actividades, pero hay otras {{ estadoProyecto.enEsperaDePermiso | masDe }} en proceso de edición y/o a la espera de la aprobación de los dueños de los derechos.
+Además, muchas actividades están marcadas como **Borrador** porque me falta revisarlas o completarlas.
 
 ## ¿Por qué existen borradores?
 
