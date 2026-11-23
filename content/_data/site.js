@@ -16,11 +16,11 @@ module.exports = {
   // al generar el sitio (ver urlAnterior en eleventy.config.js).
   url:
     process.env.SITE_URL ??
-    "https://mok726.github.io",
+    "https://fogata.com.ar",
 
   pathPrefix:
     process.env.PATH_PREFIX ??
-    "/fogata-recursos",
+    "/",
 
   // Dirección anterior del sitio, para reescribir enlaces viejos.
   urlAnterior:
