@@ -108,14 +108,14 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts studying a large hand-drawn diagram of the food chain from farm to truck to market, marking with red stickers where food gets lost."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Alimentación

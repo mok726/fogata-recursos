@@ -105,14 +105,14 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts with a municipal environmental officer at the edge of a landfill site seen from a safe viewpoint, one of them filming a short video on a phone."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Alimentación

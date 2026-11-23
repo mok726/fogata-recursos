@@ -105,14 +105,14 @@ complexity_execution: 3
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Two young adults in a farm field interviewing an agronomist next to a hand sprayer and rows of crops, one with a notebook full of notes."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Alimentación
   - Agricultura

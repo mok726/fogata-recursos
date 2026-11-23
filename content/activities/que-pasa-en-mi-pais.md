@@ -104,14 +104,14 @@ complexity_execution: 3
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Two young adult rovers at a laptop in a library comparing charts of food waste data between countries, sketches of an infographic on paper beside them."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Alimentación

@@ -108,14 +108,14 @@ complexity_execution: 3
 complexity_organizer: 3
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Scouts at a school dining hall handing short survey sheets to students during lunch, a box labeled with a drawing of an apple core for collecting the surveys."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Alimentación

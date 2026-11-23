@@ -106,14 +106,14 @@ complexity_execution: 1
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Children pinning colored strings on a big world map from food packages laid on a table, a banana, a box of tea and a jar of jam among them."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Alimentación
 skills:

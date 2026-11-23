@@ -102,14 +102,14 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Young adult rovers working around a table covered with the 17 colorful SDG cards, sketching a large infographic poster with arrows connecting food waste to several goals."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Alimentación
   - ODS

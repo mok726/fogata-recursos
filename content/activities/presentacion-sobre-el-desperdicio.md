@@ -106,14 +106,14 @@ complexity_execution: 2
 complexity_organizer: 1
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "A patrol of teenage scouts presenting a hand-drawn chart about food waste to their troop in a scout hall, one of them holding a microphone, the audience sitting on the floor."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Alimentación
   - Comunicación
