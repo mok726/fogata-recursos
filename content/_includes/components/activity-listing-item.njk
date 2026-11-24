@@ -16,6 +16,7 @@
   data-methods="{% for v in (item.scout_method or []) %}{{ v | string | trim | slugify }} {% endfor %}"
   data-tags="{% for t in (item.tags or []) %}{{ t | string | slugify }} {% endfor %}"
   data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
-  data-dur="{{ item.duration | durationBucket }}">
+  data-dur="{{ item.duration | durationBucket }}"
+  data-momento="{% if item.momento == 'noche' %}noche nocturna{% elif item.momento == 'día o noche' %}nocturna{% endif %}">
 {% include "components/activity-card.njk" %}
 </div>

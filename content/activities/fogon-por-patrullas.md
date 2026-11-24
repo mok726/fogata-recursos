@@ -40,6 +40,7 @@ responsible:
 prep_time: "Preparación durante el día"
 participants: "8-60"
 location: "Exterior"
+momento: "noche"
 space_required: "Lugar de fogón"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

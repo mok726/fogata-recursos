@@ -38,6 +38,7 @@ responsible:
 prep_time: "5 min"
 participants: "4-30"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Patio, campo o campamento"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -40,6 +40,7 @@ responsible:
 prep_time: "20 min"
 participants: "8-30"
 location: "Exterior"
+momento: "noche"
 space_required: "Campo o terreno de campamento conocido, delimitado y sin peligros"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
