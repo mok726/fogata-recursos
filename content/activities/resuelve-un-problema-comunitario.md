@@ -93,7 +93,7 @@ main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child choosing a problem in their community and taking action to solve it, with creative solutions and community involvement dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working on the solution. Community action and problem-solving atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Comunidad local"
 prep_time: "15 min"
 participants: "4-20"

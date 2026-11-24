@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "Toda la Colonia"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesa y acceso a una pileta para lavar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

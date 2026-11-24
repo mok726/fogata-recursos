@@ -43,6 +43,7 @@ responsible:
 prep_time: "1 hora"
 participants: "4-30"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Recorrido por caminos rurales, senderos o plazas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

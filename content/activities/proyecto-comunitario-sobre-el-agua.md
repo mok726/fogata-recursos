@@ -94,7 +94,7 @@ main_type: "Proyecto"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community water conservation project - school garden with efficient irrigation, rainwater harvesting system - with children working together dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and building. Community action and sustainable practices atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio escolar o comunitario"
 prep_time: "30 min"
 participants: "4-30"

@@ -96,7 +96,7 @@ main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A question and answer session with a hazard expert, with children asking questions and filming dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing and recording. Educational discussion and expert knowledge atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para la reunión con el experto"
 prep_time: "20 min (coordinar visita)"
 participants: "4-20"

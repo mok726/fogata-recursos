@@ -98,7 +98,7 @@ main_type: "Proyecto"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A 30-day calendar with environmental actions - planting trees, saving water, recycling, turning off lights - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, keeping a diary and taking photos. Daily commitment and sustainable habits atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Lugares diversos según la acción"
 prep_time: "15 min"
 participants: "4-20"

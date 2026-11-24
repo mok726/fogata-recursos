@@ -33,6 +33,7 @@ responsible:
 prep_time: "5 min"
 participants: "6-40"
 location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Lugar para formar un círculo amplio, con piso limpio"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

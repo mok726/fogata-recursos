@@ -93,7 +93,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children thinking and drawing ways to save water at home and school, creating an exhibition of their ideas dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing and displaying. Water conservation creativity and education atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para dibujar"
 prep_time: "5 min"
 participants: "4-15"

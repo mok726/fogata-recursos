@@ -102,7 +102,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant ocean celebration with activities, decorations, and people celebrating World Oceans Day dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and participating in festive activities. Community celebration and ocean appreciation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para eventos y actividades"
 prep_time: "60 min"
 participants: "4-30"

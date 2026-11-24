@@ -104,7 +104,7 @@ main_type: "Debate / Diálogo"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People from different communities discussing forest rights and fair access dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, engaged in a dialogue about justice and equity. Social justice and participatory governance atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el debate"
 prep_time: "15 min"
 participants: ""

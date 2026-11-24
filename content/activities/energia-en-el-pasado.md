@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Individual o en parejas"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Casa de un familiar o espacio para entrevista"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

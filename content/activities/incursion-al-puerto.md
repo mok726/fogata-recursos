@@ -33,7 +33,7 @@ responsible:
   - Docente o Scouter
 prep_time: "0 min"
 participants: "6-30"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Una puerta o pasaje angosto"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

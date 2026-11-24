@@ -95,7 +95,7 @@ main_type: "Salida / Exploración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children using magnifying glasses and microscopes to observe tiny life in a water sample from a stream or pond dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining their samples and drawing what they see. Scientific discovery and curiosity atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "Área con agua y salón con mesas"
 prep_time: "15 min"
 participants: "4-15"

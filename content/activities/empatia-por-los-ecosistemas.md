@@ -98,7 +98,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large painting showing an ecosystem affected by a disaster - coral reef bleaching, forest fire, flooded mangrove - and its recovery dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating artwork. Artistic expression and environmental empathy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para pintar"
 prep_time: "15 min"
 participants: "4-15"

@@ -106,7 +106,7 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing in a journal surrounded by everyday products and consumption choices dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining products and discussing consumption habits. Personal reflection and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Hogar y espacio para reunión grupal"
 prep_time: "5 min"
 participants: ""

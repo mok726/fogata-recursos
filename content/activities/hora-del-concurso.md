@@ -109,7 +109,7 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A nutrition quiz competition with different age categories and healthy prizes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, answering questions. Fun nutrition education and competition atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el concurso"
 prep_time: "30 min"
 participants: ""

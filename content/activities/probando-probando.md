@@ -94,7 +94,7 @@ main_type: "Juego"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child creating a 10-question disaster preparedness test, with examples of emergency situations dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing questions. Fun learning and family engagement atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para escribir y luego compartir en casa"
 prep_time: "10 min"
 participants: "4-15"

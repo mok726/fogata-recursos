@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 semana (entrevistas)"
 participants: "10-40, más las familias"
-location: "Interior y exterior"
+location: "Interior o exterior"
 space_required: "El local y su patio, o una plaza"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

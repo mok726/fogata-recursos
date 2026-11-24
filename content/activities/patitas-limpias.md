@@ -119,6 +119,7 @@ scout_values:
 scout_method:
   - Sistema de Equipos
 main_type: "Juego"
+location: "Interior o exterior"
 ---
 
 # 🐾 ¡PATITAS LIMPIAS!

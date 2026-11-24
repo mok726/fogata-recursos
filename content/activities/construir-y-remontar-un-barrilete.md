@@ -40,7 +40,8 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "6-30, de a dos"
-location: "Interior para construir, exterior para remontar"
+location: "Exterior"
+location_detail: "Se construye adentro o afuera; se remonta al aire libre"
 space_required: "Mesas grandes y después un campo abierto, lejos de cables y árboles"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

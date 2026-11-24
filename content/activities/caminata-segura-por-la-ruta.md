@@ -42,7 +42,8 @@ responsible:
   - Docente o Scouter
 prep_time: "Una reunión previa para planificar"
 participants: "4-30"
-location: "Interior y Exterior"
+location: "Interior y exterior"
+momento: "día o noche"
 space_required: "Salón para el taller; para la práctica, un camino rural o calle de poco tránsito"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

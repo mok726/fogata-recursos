@@ -44,7 +44,8 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Construcción: hasta 6; uso: hasta 10"
-location: "Construcción: interior o exterior. Uso: exterior"
+location: "Exterior"
+location_detail: "Se construye adentro o afuera; se usa al sol"
 momento: "día"
 space_required: "Lugar con muchas horas de sol, protegido del viento y de los animales"
 

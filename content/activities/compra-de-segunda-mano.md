@@ -94,7 +94,7 @@ main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children buying second-hand books, clothes, and other goods, donating items they no longer need dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, shopping sustainably. Conscious consumption and circular economy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Tiendas de segunda mano o hogar"
 prep_time: "5 min"
 participants: "4-20"

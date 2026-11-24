@@ -109,7 +109,7 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Water sources in a forest like streams, lakes, and moisture on leaves dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating maps and models of water sources. Water cycle and forest hydrology atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Bosque para investigar y salón para mapa"
 prep_time: "15 min"
 participants: ""

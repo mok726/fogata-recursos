@@ -100,7 +100,7 @@ main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children building miniature boats from different materials and racing them on water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, testing their boats and measuring cargo capacity. Maritime transport and engineering learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para construir, área con agua para probar"
 prep_time: "20 min"
 participants: "4-20"

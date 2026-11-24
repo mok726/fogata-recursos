@@ -107,7 +107,7 @@ main_type: "Investigación"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A journalist interviewing an indigenous person about forest challenges dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, recording an interview and taking notes. Indigenous rights and environmental justice atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Lugar para entrevista y espacio para crear reportaje"
 prep_time: "30 min"
 participants: ""

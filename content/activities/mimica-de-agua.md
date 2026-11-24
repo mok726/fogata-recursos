@@ -90,7 +90,7 @@ main_type: "Juego"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a charades game with water-related words, acting out words dramatically dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, laughing and acting. Fun and active learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para jugar"
 prep_time: "15 min"
 participants: "4-20"

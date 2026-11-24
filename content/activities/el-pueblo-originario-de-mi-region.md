@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-8 por patrulla"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Local con mesas; opcional: visita a un museo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

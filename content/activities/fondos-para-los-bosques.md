@@ -107,7 +107,7 @@ main_type: "Servicio"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fundraising event with donation boxes and educational displays about forests dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing a community fair with information about forest conservation. Community action and fundraising atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para realizar evento de recaudación"
 prep_time: "45 min"
 participants: ""

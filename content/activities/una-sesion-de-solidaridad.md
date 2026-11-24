@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min (armar las tarjetas)"
 participants: "Toda la unidad"
-location: "Interior"
+location: "Interior o exterior"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

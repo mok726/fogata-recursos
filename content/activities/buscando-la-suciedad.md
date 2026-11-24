@@ -94,7 +94,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children investigating different types of pollution - water, soil, acid rain - in their area, creating a news report dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reporting findings. Environmental investigation and journalism atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "Áreas para investigar"
 prep_time: "15 min"
 participants: "4-15"

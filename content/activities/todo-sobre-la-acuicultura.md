@@ -97,7 +97,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Modern aquaculture farm with floating fish cages, seaweed lines, and oyster nets dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning about the aquaculture operation. Sustainable seafood farming atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para investigar y presentar"
 prep_time: "30 min"
 participants: "8-20"

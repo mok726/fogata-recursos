@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "1-30"
-location: "Exterior / Interior"
+location: "Interior y exterior"
 space_required: "Parque o campo para juntar hojas; un espacio para la huerta"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

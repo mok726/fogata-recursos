@@ -108,7 +108,7 @@ main_type: "Expresión artística"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A wood carving sculpture depicting a natural disaster like a hurricane or flood dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, carving wood with tools. Artistic expression and resilience atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para tallar madera"
 prep_time: "20 min"
 participants: ""

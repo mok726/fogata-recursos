@@ -96,7 +96,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A presentation about sustainable habits at school or youth group, covering topics like heating, recycling, and energy-saving appliances dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting. Environmental education and sustainable living awareness atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para presentar"
 prep_time: "20 min"
 participants: "4-20"

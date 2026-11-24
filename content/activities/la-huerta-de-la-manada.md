@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "2-30"
-location: "Exterior o interior"
+location: "Interior o exterior"
 space_required: "Un cantero, cajones o macetas al sol"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

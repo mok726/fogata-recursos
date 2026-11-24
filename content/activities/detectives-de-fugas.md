@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Acceso a canillas (interior o exterior)"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

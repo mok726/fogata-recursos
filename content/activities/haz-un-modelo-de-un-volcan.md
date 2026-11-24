@@ -101,7 +101,8 @@ main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A homemade volcano model erupting with baking soda and vinegar lava dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building and observing the eruption. Hands-on science and creative learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior (con espacio para experimento)"
+location: "Interior o exterior"
+location_detail: "Con espacio para el experimento (mejor afuera)"
 space_required: "Salón con mesas y área para el experimento"
 prep_time: "20 min"
 participants: "4-15"

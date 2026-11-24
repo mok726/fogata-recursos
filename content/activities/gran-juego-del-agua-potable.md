@@ -38,7 +38,8 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Todo el Grupo, por ramas o patrullas"
-location: "Campamento"
+location: "Exterior"
+location_detail: "En campamento"
 space_required: "Todo el campamento"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
