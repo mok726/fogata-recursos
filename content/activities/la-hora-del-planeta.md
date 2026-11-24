@@ -42,6 +42,7 @@ responsible:
 prep_time: "30 min"
 participants: "4-20"
 location: "Ambos"
+momento: "noche"
 space_required: "Espacio seguro sin electricidad"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

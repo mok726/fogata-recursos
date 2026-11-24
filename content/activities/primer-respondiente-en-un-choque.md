@@ -41,6 +41,7 @@ responsible:
 prep_time: "30 min (armar la escena)"
 participants: "6-24"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Patio o espacio cerrado al tránsito"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

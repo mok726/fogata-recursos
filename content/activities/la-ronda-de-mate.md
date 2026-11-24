@@ -40,6 +40,7 @@ responsible:
 prep_time: "15 min"
 participants: "6-30, en rondas de 5 a 8"
 location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Ronda de sillas, troncos o en el piso"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

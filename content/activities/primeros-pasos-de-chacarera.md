@@ -39,6 +39,7 @@ responsible:
 prep_time: "20 min"
 participants: "8-40, en parejas"
 location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Espacio libre de 2 x 3 m por pareja"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -38,6 +38,7 @@ responsible:
 prep_time: "30 min, más el tiempo de ensayo de los equipos"
 participants: "Equipos mixtos de varias ramas"
 location: "Interior o exterior"
+momento: "noche"
 space_required: "Espacio para actuar y un público"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
