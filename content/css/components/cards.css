@@ -602,6 +602,7 @@
 .activity-marker-original      { background: #487700; }
 .activity-marker-required      { background: #d62828; }
 .activity-marker-complementary { background: #2563eb; }
+.activity-marker-nocturna      { background: #1e2a4a; }
 
 .activity-card-overlay-middle {
   flex: 1;

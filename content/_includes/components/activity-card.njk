@@ -28,6 +28,11 @@
     {% if isComplementary %}
        <span class="activity-marker activity-marker-complementary" title="Actividad complementaria"><span class="material-symbols-outlined" role="img" aria-label="Actividad complementaria">add</span></span>
     {% endif %}
+    {% if item.momento == "noche" %}
+       <span class="activity-marker activity-marker-nocturna" title="Actividad nocturna"><span class="material-symbols-outlined" role="img" aria-label="Actividad nocturna">dark_mode</span></span>
+    {% elif item.momento == "día o noche" %}
+       <span class="activity-marker activity-marker-nocturna" title="Se puede hacer de día o de noche"><span class="material-symbols-outlined" role="img" aria-label="Se puede hacer de día o de noche">brightness_4</span></span>
+    {% endif %}
 
         {% if item.main_type %}
      	   <div class="activity-type-chip">

@@ -42,6 +42,7 @@ responsible:
 prep_time: "15 min"
 participants: "6-30"
 location: "Exterior"
+momento: "noche"
 space_required: "Un patio, campo o camino cerrado y oscuro, de al menos 60 metros, sin autos"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

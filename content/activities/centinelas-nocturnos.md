@@ -38,6 +38,7 @@ responsible:
 prep_time: "15 min"
 participants: "6-30"
 location: "Exterior"
+momento: "noche"
 space_required: "Terreno conocido de día, de noche"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
