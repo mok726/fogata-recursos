@@ -111,6 +111,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== ESPACIO Y LOGÍSTICA ==========
 location: "Ambos"
+momento: "día o noche"
 space_required: "Espacio para presentar la obra de teatro"
 prep_time: "30 min"
 participants: ""

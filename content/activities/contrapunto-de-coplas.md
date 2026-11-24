@@ -38,6 +38,7 @@ responsible:
 prep_time: "15 min"
 participants: "6-30, en equipos de 3 a 5"
 location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Ronda o fogón"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

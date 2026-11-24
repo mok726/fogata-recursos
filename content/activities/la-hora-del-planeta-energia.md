@@ -41,6 +41,7 @@ responsible:
 prep_time: "1 hora"
 participants: "4-30"
 location: "Interior"
+momento: "noche"
 space_required: "Cualquier espacio"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
