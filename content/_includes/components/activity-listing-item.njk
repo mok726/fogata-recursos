@@ -17,6 +17,6 @@
   data-tags="{% for t in (item.tags or []) %}{{ t | string | slugify }} {% endfor %}"
   data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
   data-dur="{{ item.duration | durationBucket }}"
-  data-momento="{% if item.momento == 'noche' %}noche{% elif item.momento == 'día' %}dia{% else %}ambos{% endif %}">
+  data-momento="{% if item.momento == 'noche' %}noche puede-noche{% elif item.momento == 'día' %}dia{% elif item.momento == 'día o noche' %}ambos puede-noche{% else %}ambos{% endif %}">
 {% include "components/activity-card.njk" %}
 </div>
