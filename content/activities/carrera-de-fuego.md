@@ -40,6 +40,7 @@ responsible:
 prep_time: "20 min"
 participants: "4-30"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Campamento con fogones habilitados"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
