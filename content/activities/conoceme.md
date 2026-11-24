@@ -35,7 +35,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "5-20"
-location: "Interior"
+location: "Interior o exterior"
 momento: "día o noche"
 space_required: "Salón o espacio amplio"
 
