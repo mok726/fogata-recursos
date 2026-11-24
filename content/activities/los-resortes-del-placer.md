@@ -36,7 +36,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 hora (preparar sobres y recorrido)"
 participants: "Seisenas o patrullas"
-location: "Interior y exterior"
+location: "Interior o exterior"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

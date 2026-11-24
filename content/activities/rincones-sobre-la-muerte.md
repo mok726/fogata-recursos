@@ -36,7 +36,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min (armar los rincones)"
 participants: "Grupos chicos o de a uno"
-location: "Interior"
+location: "Interior o exterior"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
