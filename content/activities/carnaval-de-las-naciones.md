@@ -36,7 +36,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Lo preparan los protagonistas antes de la reunión"
 participants: "6-30"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón o espacio amplio"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
