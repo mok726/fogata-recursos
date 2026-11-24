@@ -402,6 +402,16 @@ async function shareActivity() {
          {% endif %}
 
 
+         {% set sectionTipo = "info" %}
+         {% if section.heading == "Seguridad" %}
+            {% set sectionIcon = "health_and_safety" %}
+            {% set sectionTipo = "warning" %}
+         {% endif %}
+
+         {% if section.heading == "Notas para el educador" or section.heading == "Nota para el educador" %}
+            {% set sectionIcon = "school" %}
+         {% endif %}
+
          {% if section.heading == "Texto original completo de la actividad" %}
             {% set sectionClass = "timeline-closing" %}
             {% set sectionMostrar = false %}
@@ -468,7 +478,7 @@ async function shareActivity() {
               {% else %}
                 {% set dtitle=section.heading %}
                 {% set dicon=sectionIcon %}
-                {% set dtype="info" %}
+                {% set dtype=sectionTipo %}
                 {% set dcontent %}
 
                    <div class="markdown-content">

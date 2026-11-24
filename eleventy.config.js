@@ -692,9 +692,90 @@ eleventyConfig.addFilter("splitBySections", (htmlContent) => {
     sections.push({ heading: headingText, content: contentHtml });
   });
 
-//  console.log(`Secciones encontradas: ${sections.length}`);
-  return sections;
+  return separarNotas(sections);
 });
+
+// Las «Nota de seguridad» y «Nota para el educador» que vienen como cita
+// (> **Nota de seguridad:** …) dentro de un paso o del cierre se sacan de ahí
+// y se juntan en sus propios bloques colapsables («Seguridad» y «Notas para el
+// educador»), que van después del cierre. Si la ficha ya tiene una sección
+// «## Seguridad» o «## Notas para el educador», las notas se suman a esa.
+const NOTAS_BLOQUES = [
+  { heading: "Seguridad", regex: /^nota de seguridad/i },
+  { heading: "Notas para el educador", regex: /^nota para el educador/i },
+];
+const SECCIONES_SIN_EXTRAER = /^(seguridad|texto original|checklist)/i;
+const ES_NOTAS_EDUCADOR = /^notas? para el educador$/i;
+
+function separarNotas(sections) {
+  const extraidas = { "Seguridad": [], "Notas para el educador": [] };
+  let hubo = false;
+
+  for (const section of sections) {
+    if (SECCIONES_SIN_EXTRAER.test(section.heading)) continue;
+    if (!section.content.includes("<blockquote")) continue;
+    const $ = cheerio.load(section.content, null, false);
+    let cambio = false;
+    $("blockquote").each((i, bq) => {
+      const primerP = $(bq).children().first();
+      const strong = primerP.children("strong").first();
+      if (!strong.length || primerP.contents().first()[0] !== strong[0]) return;
+      const etiqueta = strong.text().trim().replace(/:$/, "").trim();
+      const tipo = NOTAS_BLOQUES.find(t => t.regex.test(etiqueta));
+      if (!tipo) return;
+      // En «Notas para el educador» solo se sacan las de seguridad.
+      if (ES_NOTAS_EDUCADOR.test(section.heading) && tipo.heading !== "Seguridad") return;
+      // Si la etiqueta tiene un agregado («Nota para el educador (privacidad)»),
+      // se conserva como subtítulo de la nota.
+      const resto = etiqueta.replace(tipo.regex, "").replace(/^[\s(]+|[\s)]+$/g, "");
+      strong.remove();
+      const primerTexto = primerP.contents().first();
+      if (primerTexto.length && primerTexto[0].type === "text") {
+        const t = primerTexto[0].data.replace(/^[\s:]+/, "");
+        primerTexto[0].data = t.charAt(0).toUpperCase() + t.slice(1);
+      }
+      if (resto) primerP.prepend(`<strong>${resto.charAt(0).toUpperCase() + resto.slice(1)}:</strong> `);
+      extraidas[tipo.heading].push($(bq).html().trim());
+      $(bq).remove();
+      cambio = true;
+    });
+    if (cambio) {
+      section.content = $.html().trim();
+      hubo = true;
+    }
+  }
+  if (!hubo) return sections;
+
+  const resultado = [];
+  const existentes = {};
+  for (const section of sections) {
+    const t = NOTAS_BLOQUES.find(b => b.heading.toLowerCase() === section.heading.toLowerCase()
+      || (b.heading === "Notas para el educador" && /^notas? para el educador$/i.test(section.heading)));
+    if (t) existentes[t.heading] = section;
+  }
+  const bloques = NOTAS_BLOQUES.map(b => {
+    const notas = extraidas[b.heading];
+    if (!notas.length) return null;
+    const html = notas.map(n => `<div class="nota-extraida">${n}</div>`).join("");
+    const previa = existentes[b.heading];
+    if (previa) {
+      previa.content = previa.content + html;
+      return null;
+    }
+    return { heading: b.heading, content: html };
+  }).filter(Boolean);
+
+  // Los bloques nuevos van justo después del cierre (o del último paso).
+  const pasos = /^(resumen|preparaci[oó]n|desarrollo|cierre)/i;
+  let ultimoPaso = -1;
+  sections.forEach((s, i) => { if (pasos.test(s.heading)) ultimoPaso = i; });
+  sections.forEach((s, i) => {
+    resultado.push(s);
+    if (i === ultimoPaso) resultado.push(...bloques);
+  });
+  if (ultimoPaso === -1) resultado.push(...bloques);
+  return resultado;
+}
 
 
 
