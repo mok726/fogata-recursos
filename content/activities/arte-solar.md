@@ -46,6 +46,7 @@ responsible:
 prep_time: "15 min"
 participants: "4-20"
 location: "Exterior"
+momento: "día"
 space_required: "Espacio al aire libre con luz solar directa"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -45,6 +45,7 @@ responsible:
 prep_time: "30 min"
 participants: "Construcción: hasta 6; uso: hasta 10"
 location: "Construcción: interior o exterior. Uso: exterior"
+momento: "día"
 space_required: "Lugar con muchas horas de sol, protegido del viento y de los animales"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

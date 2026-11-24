@@ -602,7 +602,6 @@
 .activity-marker-original      { background: #487700; }
 .activity-marker-required      { background: #d62828; }
 .activity-marker-complementary { background: #2563eb; }
-.activity-marker-nocturna      { background: #1e2a4a; }
 
 .activity-card-overlay-middle {
   flex: 1;
@@ -782,3 +781,31 @@
   );
   transition: .2s;
 }
+
+/* Momento (solo de noche / solo de día): a la izquierda de la duración. */
+.activity-card-overlay-right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.35rem;
+  flex: 0 1 auto;
+  max-width: 60%;
+}
+.activity-card-overlay-right .activity-duration { max-width: none; }
+.activity-momento {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
+  cursor: help;
+}
+.activity-momento .material-symbols-outlined {
+  font-size: 19px;
+  font-variation-settings: "FILL" 1;
+}
+.activity-momento-noche { background: #1e2a4a; color: #fff; }
+.activity-momento-dia   { background: #1f1f1f; color: #ffc928; }

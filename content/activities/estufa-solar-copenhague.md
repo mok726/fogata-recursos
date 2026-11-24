@@ -45,6 +45,7 @@ responsible:
 prep_time: "20 min"
 participants: "2-6 por estufa"
 location: "Interior o exterior"
+momento: "día"
 space_required: "Mesa de trabajo; sol directo para cocinar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
