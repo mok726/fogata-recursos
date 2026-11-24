@@ -157,6 +157,12 @@ Un juego nocturno del Boy Scouts Handbook. Dos scouts salen en una dirección co
 5. El juego termina cuando se atrapa a los dos, o a los 15 minutos. Cambian los roles.
 6. Al terminar, todos se reúnen en el punto de encuentro y se cuentan.
 
+### Variante: La Luciérnaga
+Nombre con que se conoce una versión más simple: la luciérnaga se esconde, quieta o moviéndose despacio, y prende la linterna 2 o 3 segundos cada tanto. Los demás la buscan y la tocan. Sirve para empezar con la Manada, en un terreno chico.
+
+### Variante: El Grillo
+Igual que la luciérnaga, pero sin luz: el grillo silba cada 30 segundos y los cazadores lo buscan a oscuras, **sin linternas**, guiándose solo por el oído. Quien lo toca es el próximo grillo. Se camina, nunca se corre, y la señal del árbitro tiene que sonar distinta del silbato del grillo.
+
 ## Cierre
 - ¿Qué estrategia usó la pareja para escaparse?
 - ¿Cómo se organizó la patrulla para rodearlos?

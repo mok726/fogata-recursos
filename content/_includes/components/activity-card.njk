@@ -28,11 +28,6 @@
     {% if isComplementary %}
        <span class="activity-marker activity-marker-complementary" title="Actividad complementaria"><span class="material-symbols-outlined" role="img" aria-label="Actividad complementaria">add</span></span>
     {% endif %}
-    {% if item.momento == "noche" %}
-       <span class="activity-marker activity-marker-nocturna" title="Actividad nocturna"><span class="material-symbols-outlined" role="img" aria-label="Actividad nocturna">dark_mode</span></span>
-    {% elif item.momento == "día o noche" %}
-       <span class="activity-marker activity-marker-nocturna" title="Se puede hacer de día o de noche"><span class="material-symbols-outlined" role="img" aria-label="Se puede hacer de día o de noche">brightness_4</span></span>
-    {% endif %}
 
         {% if item.main_type %}
      	   <div class="activity-type-chip">
@@ -44,6 +39,13 @@
 
       </div>
 
+      <div class="activity-card-overlay-right">
+        {# Momento: solo se marca lo que es solo de noche o solo de día. #}
+        {% if item.momento == "noche" %}
+          <span class="activity-momento activity-momento-noche" title="Actividad nocturna"><span class="material-symbols-outlined" role="img" aria-label="Actividad nocturna">dark_mode</span></span>
+        {% elif item.momento == "día" %}
+          <span class="activity-momento activity-momento-dia" title="Actividad diurna"><span class="material-symbols-outlined" role="img" aria-label="Actividad diurna">light_mode</span></span>
+        {% endif %}
         {% if item.duration %} 
   	  {% if not item.duration in ["Proyecto continuo","Proyecto de campaña","Proyecto de recaudación","Proyecto de organización","Proyecto de evento" ,"Proyecto de seguimiento"]%}
 	     <span class="activity-duration">
@@ -52,6 +54,7 @@
                </span>
 	  {% endif %}
 	{% endif %}
+      </div>
       </div>
 
       <div class="activity-card-overlay-middle">

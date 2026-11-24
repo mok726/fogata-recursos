@@ -34,6 +34,7 @@ responsible:
 prep_time: "0 min"
 participants: "6-30"
 location: "Exterior"
+momento: "día"
 space_required: "Cancha o patio con sol"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

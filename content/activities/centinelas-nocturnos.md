@@ -151,6 +151,12 @@ Una práctica para aprender a ver y oír de noche. Unos centinelas, quietos o ca
 3. Al oír un ruido, el centinela silba. Todos quedan quietos y el árbitro verifica la dirección.
 4. El explorador que llega a 15 m deja su pañuelo, se retira y hace ruido para avisar.
 
+### Variante: Apagar el Farol
+En el centro hay un farol a pilas encendido, cuidado por 3 a 5 guardianes con linternas que no pueden alejarse más de 5 m. Los atacantes salen desde unos 40 m y avanzan agachados o arrastrándose. Los guardianes prenden la linterna un momento cada vez que oyen algo: si iluminan a un atacante y **dicen su nombre**, ese atacante vuelve a la salida. Gana quien llega al farol y lo apaga. Nada de fuego: farol o lámpara a pilas.
+
+### Variante: Cruzar la Frontera
+Los vigías forman una fila, separados unos 10 m, con linternas. Los atacantes tienen que cruzar la línea sin que los reconozcan. Gana quien cruza más veces, o el bando que pasa a más jugadores en un tiempo fijo.
+
 ## Cierre
 - ¿Qué ruidos los delataron? ¿Cómo se mueve uno en silencio?
 

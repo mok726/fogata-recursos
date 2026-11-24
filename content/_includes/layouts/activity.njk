@@ -187,7 +187,7 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Momento</div>
     <div class="value">
-      {{ "De noche" if momento == "noche" else "De día o de noche" }}
+      {{ "Nocturna (solo de noche)" if momento == "noche" else ("Diurna (solo de día)" if momento == "día" else "De día o de noche") }}
     </div>
   </div>
   {% endif %}

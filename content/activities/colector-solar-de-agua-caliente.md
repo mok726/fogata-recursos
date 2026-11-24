@@ -38,6 +38,7 @@ responsible:
 prep_time: "Conseguir el colector"
 participants: "Una patrulla o un equipo"
 location: "Exterior"
+momento: "día"
 space_required: "Lugar con sol directo cerca de la zona de lavado"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
