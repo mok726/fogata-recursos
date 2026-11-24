@@ -38,14 +38,14 @@ Como alternativa, podés abrir un [issue en GitHub](https://github.com/mok726/fo
 
 ## Estado de las autorizaciones
 
-Actualizado el 09/11/2026. "Autorizado" es lo que la fuente permite por escrito; "en espera" significa que pedí permiso y todavía no tengo respuesta.
+Actualizado el 24/11/2026. "Autorizado" es lo que la fuente permite por escrito; "en espera" significa que pedí permiso y todavía no tengo respuesta.
 
 | Fuente | Titular | Qué está autorizado | Estado |
 |---|---|---|---|
 | Actividades propias | Mariano S. Cosentino | Todo, bajo CC BY-NC-SA 4.0 | Autorizado |
-| Insignias de Energía (2019) y Plásticos (2024) de la FAO | FAO | Adaptar y publicar con fines no comerciales (CC BY-NC-SA 3.0 IGO) | Autorizado |
+| Insignias de Energía (2019), Plásticos (2024), Polinizadores (2021) y Reducción del Riesgo de Desastres (2020) de la FAO | FAO | Adaptar y publicar con fines no comerciales (CC BY-NC-SA 3.0 IGO) | Autorizado |
+| Insignia de Ciudades Verdes (2025) de la FAO | FAO | Adaptar y publicar citando la fuente (CC BY 4.0) | Autorizado |
 | Insignias de la FAO anteriores a 2019: Agua, Biodiversidad, Bosques, Cambio Climático, Seguridad Alimentaria, Nutrición, Océano, Hambre y Suelos | FAO | Copiar y usar el original con fines no comerciales, citando a la FAO. **No** traducir ni adaptar sin permiso | En espera: solicitado a la FAO el 26/10/2026 |
-| Insignias de Polinizadores, Reducción del Riesgo de Desastres y Ciudades Verdes | FAO | Licencia sin confirmar | En espera: solicitado a la FAO el 26/10/2026 |
 | Imágenes de las insignias YUNGA | FAO | Sin confirmar (las licencias de la FAO excluyen su logo) | En espera: solicitado a la FAO el 26/10/2026 |
 | Kits Tide Turners Plastic Challenge y Champions for Nature | OMMS (World Scout Bureau Inc.) | CC BY-NC-SA 2.5 según los [términos de scout.org](https://www.scout.org/terms-and-conditions); los kits autorizan la reproducción por organizaciones scouts nacionales miembro | Parcial: confirmación expresa solicitada a la OMMS el 26/10/2026 y el 09/11/2026 |
 | Manual Scouts Go Solar | Solafrica (adaptación al español: A. Castillo Rosas) | Publicación en este sitio, autorizada por Solafrica el 09/11/2026 | Parcial: falta Scouts de Argentina (solicitado el 26/10/2026) y la confirmación expresa de la OMMS, cuyos términos (CC BY-NC-SA 2.5) lo permitirían |

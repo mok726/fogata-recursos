@@ -6,6 +6,7 @@ SOL="26/10/2026"
 L={
  'propio':dict(lic=NCSA4,note=None,status=None,allowed=CC_OK,pending=None),
  'fao_cc':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None,allowed=CC_OK,pending=None),
+ 'fao_ccby':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None,allowed=CC_OK,pending=None),
  'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status="permiso-pendiente",
     allowed="Nada confirmado.",pending=f"Publicar esta traducción o adaptación: autorización solicitada a la FAO el {SOL}, en espera de respuesta."),
  'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status="permiso-pendiente",
@@ -17,16 +18,16 @@ L={
  'solafrica':dict(lic=("© Solafrica – Publicación autorizada por Solafrica","https://solafrica.ch/en/projects/scouts-go-solar-international/downloads/",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-parcial",
     allowed="Solafrica (09/11/2026).",pending=f"Scouts de Argentina (desafío Go Solar): autorización solicitada el {SOL}, en espera. OMMS (coautora del programa): autorización pendiente."),
 }
-RANK=['propio','fao_cc','fao_sinverificar','fao_arr','solafrica','saac','wosm']
+RANK=['propio','fao_cc','fao_ccby','fao_sinverificar','fao_arr','solafrica','saac','wosm']
 def classify_ref(r):
     t=(r.get('title') or '').lower(); u=(r.get('url') or '').lower(); y=r.get('year')
     if 'tide turners' in t or 'champions for nature' in t: return 'wosm'
     if 'go solar' in t: return 'solafrica'
     if 'scouts.org.ar' in u: return 'saac'
-    # Verificadas en el PDF: Energy 2019 y Plastics 2024 (CC BY-NC-SA 3.0 IGO).
-    if any(k in t for k in ['energy','plastics']): return 'fao_cc'
-    # Licencia no confirmada (PDF inaccesible): se pide permiso, a pedido de Mariano (2026-10-26).
-    if any(k in t for k in ['green cities','pollinators','riesgo de desastres']): return 'fao_sinverificar'
+    # Verificadas: Energy 2019, Plastics 2024, Pollinators 2021 y RRD 2020/2022 (CC BY-NC-SA 3.0 IGO).
+    if any(k in t for k in ['energy','plastics','pollinators','riesgo de desastres']): return 'fao_cc'
+    # Green Cities 2025: CC BY 4.0 (verificado en openknowledge.fao.org, 2026-11-24).
+    if 'green cities' in t: return 'fao_ccby'
     if 'fao' in (r.get('author') or '').lower() or 'fao.org' in u: return 'fao_arr'
     return None
 def classify(d):

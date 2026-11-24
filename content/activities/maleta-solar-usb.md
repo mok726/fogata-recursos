@@ -115,8 +115,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (programa Scouts go Solar). Solafrica autorizó la publicación y adaptación de su material."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:
