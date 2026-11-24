@@ -96,7 +96,7 @@ main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children visiting a recycling center or renewable energy plant, learning about the recycling process and wind turbines dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning. Waste management and renewable energy education atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Centro de reciclaje o planta de energía renovable"
 prep_time: "30 min"
 participants: "4-20"

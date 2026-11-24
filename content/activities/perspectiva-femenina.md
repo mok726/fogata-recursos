@@ -97,7 +97,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful collage with photos and quotes from women sharing their ideas for recovery and rebuilding after disasters dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing women and creating the collage. Women's empowerment and inclusive planning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para hacer collage, espacios para entrevistar"
 prep_time: "15 min"
 participants: "4-15"

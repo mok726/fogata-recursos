@@ -35,7 +35,7 @@ responsible:
   - Docente o Scouter
 prep_time: "5 min"
 participants: "Individual o en parejas, con puesta en común"
-location: "Interior"
+location: "Interior o exterior"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

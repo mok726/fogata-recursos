@@ -97,7 +97,7 @@ main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group interviewing emergency responders - firefighters, paramedics, police - in their workplace dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and taking notes. Emergency services and professional respect atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Estación de bomberos, policía o centro médico"
 prep_time: "30 min"
 participants: "4-20"

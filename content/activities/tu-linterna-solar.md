@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "De a 2 por linterna"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesa de trabajo con enchufes"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

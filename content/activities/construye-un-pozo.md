@@ -95,7 +95,7 @@ main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fundraising event for building a well in Rwanda or a sanitation project in Bangladesh, with children organizing activities dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and collecting donations. Global solidarity and humanitarian action atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para el evento"
 prep_time: "30 min"
 participants: "4-30"

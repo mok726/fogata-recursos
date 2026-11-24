@@ -98,7 +98,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A video production scene with interviews about disaster causes, poverty, and environmental degradation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting interviews and filming. Social awareness and investigative journalism atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para investigar, espacio para entrevistar"
 prep_time: "20 min"
 participants: "4-15"

@@ -92,7 +92,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child comparing tap water and bottled water, learning about the energy used to make bottles dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching. Plastic waste and water consumption awareness atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a información"
 prep_time: "10 min"
 participants: "4-15"

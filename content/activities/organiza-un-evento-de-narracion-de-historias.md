@@ -109,7 +109,7 @@ main_type: "Narración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A storytelling event about food and nutrition with myths, legends, and tales dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, telling and listening to stories. Cultural heritage and food storytelling atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el evento"
 prep_time: "30 min"
 participants: ""

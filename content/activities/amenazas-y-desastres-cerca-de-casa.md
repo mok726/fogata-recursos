@@ -99,7 +99,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community timeline poster showing local natural hazard events with photos and facts dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating a poster and researching local history. Community disaster research and local knowledge atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para investigar, espacio para salir a entrevistar"
 prep_time: "20 min"
 participants: "4-20"

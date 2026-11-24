@@ -106,7 +106,8 @@ main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child keeping a water diary at home, checking faucets and recording water use dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, documenting water usage and finding leaks. Home water conservation and awareness atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior (hogar)"
+location: "Interior"
+location_detail: "En el hogar"
 space_required: "Hogar del participante"
 prep_time: "15 min"
 participants: "4-20"

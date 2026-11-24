@@ -180,6 +180,7 @@ async function shareActivity() {
     <div class="label">Espacio</div>
     <div class="value">
       {{ location or "N/E" }}
+      {% if location_detail %}<div class="value-detail">{{ location_detail }}</div>{% endif %}
     </div>
   </div>
 

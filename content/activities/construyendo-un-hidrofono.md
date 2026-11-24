@@ -115,7 +115,7 @@ main_type: "Taller / Construcción"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person building and using a homemade hydrophone to listen to underwater sounds dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and recording. Marine acoustics and exploration atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Mesa para construir y playa para probar"
 prep_time: "20 min"
 participants: ""

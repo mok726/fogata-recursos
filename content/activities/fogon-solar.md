@@ -46,7 +46,8 @@ responsible:
   - Docente o Scouter
 prep_time: "Conseguir los componentes"
 participants: "2-6"
-location: "Interior para construir; exterior o interior para usar"
+location: "Interior o exterior"
+location_detail: "Se construye adentro; se usa adentro o afuera"
 momento: "noche"
 space_required: "Taller o mesa de trabajo"
 

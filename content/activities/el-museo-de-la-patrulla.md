@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 semana (traer el objeto)"
 participants: "6-40"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesas para exponer"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

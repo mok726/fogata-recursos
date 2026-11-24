@@ -103,7 +103,7 @@
 
       {% if activity.data.location %}
        <div class="meta-item">
-          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">share_location</span>  {{ activity.data.location }}
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">share_location</span>  {{ activity.data.location }}{% if activity.data.location_detail %} ({{ activity.data.location_detail }}){% endif %}
       </div>
      {% endif %}
 

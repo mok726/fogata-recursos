@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "6-30"
-location: "Exterior e interior"
+location: "Interior y exterior"
 space_required: "Arroyo o estanque y mesa de trabajo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

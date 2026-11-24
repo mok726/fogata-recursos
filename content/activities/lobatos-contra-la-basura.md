@@ -36,7 +36,8 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-30"
-location: "Local y barrio"
+location: "Interior y exterior"
+location_detail: "En el local y en el barrio"
 space_required: "El local y una plaza o vereda cercana"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

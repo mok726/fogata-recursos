@@ -113,7 +113,7 @@ main_type: "Expresión artística"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful tree made of wishes written on natural materials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating a wish tree with leaves and bark. Hope and creativity atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior y exterior"
 space_required: "Bosque para recolectar y espacio para crear"
 prep_time: "20 min"
 participants: ""

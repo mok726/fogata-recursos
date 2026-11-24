@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Mapa impreso de la zona"
 participants: "4-20"
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "El barrio alrededor del local o de una escuela"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

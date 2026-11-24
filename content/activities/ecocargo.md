@@ -37,7 +37,8 @@ responsible:
   - Docente o Scouter
 prep_time: "Una reunión para armar el plan del año"
 participants: "Una comisión de dirigentes, Caminantes y Rovers, con todo el Grupo"
-location: "Local y campamento"
+location: "Interior y exterior"
+location_detail: "En el local y en el campamento"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

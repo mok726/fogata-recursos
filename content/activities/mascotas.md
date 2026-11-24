@@ -36,7 +36,8 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "1-30"
-location: "Casa y local"
+location: "Interior"
+location_detail: "En casa y en el local"
 space_required: "La casa de cada lobato; una ronda en el local"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

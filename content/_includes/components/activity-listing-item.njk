@@ -17,6 +17,7 @@
   data-tags="{% for t in (item.tags or []) %}{{ t | string | slugify }} {% endfor %}"
   data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
   data-dur="{{ item.duration | durationBucket }}"
-  data-momento="{% if item.momento == 'noche' %}noche puede-noche{% elif item.momento == 'día' %}dia{% elif item.momento == 'día o noche' %}ambos puede-noche{% else %}ambos{% endif %}">
+  data-momento="{% if item.momento == 'noche' %}noche puede-noche{% elif item.momento == 'día' %}dia{% elif item.momento == 'día o noche' %}ambos puede-noche{% else %}ambos{% endif %}"
+  data-lugar="{% if item.location == 'Interior' %}interior adentro{% elif item.location == 'Exterior' %}exterior afuera{% elif item.location == 'Interior o exterior' %}o adentro afuera{% elif item.location == 'Interior y exterior' %}y adentro afuera{% endif %}">
 {% include "components/activity-card.njk" %}
 </div>

@@ -94,7 +94,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people designing and conducting their own research group to explore different aspects of climate change, making their own weather measurements dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting research. Scientific inquiry and climate investigation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para planificar, exterior para mediciones"
 prep_time: "30 min"
 participants: "4-15"

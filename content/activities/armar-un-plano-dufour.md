@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Elegir la ruta en el mapa"
 participants: "Equipos de 2 a 4"
-location: "Exterior e interior"
+location: "Interior y exterior"
 space_required: "Ruta con cruces de caminos"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

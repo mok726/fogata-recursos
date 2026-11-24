@@ -56,7 +56,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Conseguir los componentes"
 participants: "2-4 por maleta"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Taller o mesa de trabajo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

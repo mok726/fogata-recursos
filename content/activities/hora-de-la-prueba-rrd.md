@@ -95,7 +95,7 @@ main_type: "Juego"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two teams in a quiz competition, with questions about disasters on a screen or board dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, competing enthusiastically. Fun learning and team competition atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el concurso"
 prep_time: "15 min"
 participants: "4-20"

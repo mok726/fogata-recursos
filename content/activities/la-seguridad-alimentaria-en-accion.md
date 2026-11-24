@@ -111,7 +111,7 @@ main_type: "Visita / Charla"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group visiting a food establishment and learning about food safety practices dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and documenting. Food safety education and industry learning atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Granja, planta de alimentos, restaurante o tienda"
 prep_time: "30 min"
 participants: ""

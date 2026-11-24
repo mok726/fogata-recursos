@@ -94,7 +94,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children taking photographs of water in different colors and textures - blue ocean, green lake, sparkling river, golden sunset on water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, photographing and exhibiting photos. Artistic exploration and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "Áreas con diferentes tipos de agua"
 prep_time: "10 min"
 participants: "4-15"

@@ -99,7 +99,8 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A family doing a home disaster preparedness inspection with checklists and emergency supplies dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, checking smoke detectors and emergency kits. Home safety and family preparedness atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior (hogares de los participantes)"
+location: "Interior"
+location_detail: "En los hogares de los participantes"
 space_required: "Casa de los participantes"
 prep_time: "15 min"
 participants: "4-20"

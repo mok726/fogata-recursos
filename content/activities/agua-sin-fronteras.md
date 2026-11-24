@@ -92,7 +92,7 @@ main_type: "Simulación / Juego de roles"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diplomatic negotiation simulation about shared water resources between countries, with mediators and representatives dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating and negotiating. International cooperation and conflict resolution atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para la simulación"
 prep_time: "20 min"
 participants: "4-15"

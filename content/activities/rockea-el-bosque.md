@@ -107,7 +107,7 @@ main_type: "Visita / Charla"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Rocks in a forest with moss and lichens growing on them dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining rocks and creating a rock exhibition. Geology and forest ecosystems atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón para charla y espacio para exhibición"
 prep_time: "20 min"
 participants: ""

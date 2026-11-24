@@ -93,7 +93,7 @@ main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child sharing and reusing belongings, giving away books and toys to friends, fixing and donating items dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing donations. Sharing economy and circular consumption atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Hogar del participante"
 prep_time: "10 min"
 participants: "4-20"

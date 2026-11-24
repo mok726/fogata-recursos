@@ -94,7 +94,7 @@ main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A detailed exhibition about a local watershed with photos and illustrations showing plant, animal, and water interactions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating the exhibition. Environmental education and ecosystem understanding atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "Área de la cuenca y salón para exhibición"
 prep_time: "20 min"
 participants: "4-15"
