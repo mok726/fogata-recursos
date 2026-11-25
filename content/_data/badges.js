@@ -1292,9 +1292,9 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
@@ -1892,9 +1892,9 @@ sections: {
     }
   ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
@@ -2104,9 +2104,9 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0."
   },
   attribution: {
     organization: "FAO",
