@@ -36,7 +36,7 @@ Después de unos meses de trabajo en mi máquina, en mayo de 2026 el proyecto al
 
 La migración a GitHub permitió simplificar el mantenimiento, automatizar procesos y ofrecer acceso libre al contenido.
 
-Desde entonces el proyecto continúa creciendo y evolucionando. Los hitos, fecha por fecha, están en la [línea de tiempo](../linea-de-tiempo/).
+Desde entonces el proyecto continúa creciendo y evolucionando.
 
 ## Una biblioteca en construcción
 

@@ -3,9 +3,14 @@ title: Línea de Tiempo
 description: "Los hitos de Fogata de Recursos: cuándo llegaron las colecciones, las insignias, los permisos y los cambios del sitio."
 layout: layouts/base.njk
 permalink: /linea-de-tiempo/
+noindex: true
+nosearch: true
+eleventyExcludeFromCollections: true
 styles:
   - /css/linea-de-tiempo.css
 ---
+{# Página sin enlaces desde el sitio, fuera del sitemap y de la búsqueda:
+   solo se llega con la dirección. #}
 {% set iconos = {
   inicio: "local_fire_department",
   fuente: "menu_book",
@@ -21,7 +26,6 @@ styles:
 <section class="ldt">
 
   <header class="ldt-header">
-    <p class="ldt-migas"><a href="{{ '/historia-del-proyecto/' | url }}">Historia del proyecto</a> › Línea de tiempo</p>
     <h1>Línea de Tiempo</h1>
     <p>Los hitos del proyecto, del más viejo al más nuevo. Las insignias nuevas, las tandas grandes de fichas y las cantidades redondas se suman solas cada vez que se actualiza el sitio.</p>
     <p class="ldt-hoy">Hoy: <strong>{{ collections.activities | length }}</strong> fichas publicadas en <strong>{{ badges | length }}</strong> insignias.</p>
