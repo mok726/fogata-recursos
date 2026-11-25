@@ -17,10 +17,11 @@
 
 # ========== ANTES DEL REPO (completar) ==========
 
-- fecha: "aprox. 2015"
-  titulo: "Primeras actividades para la Manada"
-  texto: "Actividades documentadas en mensajes y documentos sueltos para compartir con el equipo de dirigentes. (Fecha a confirmar)"
+- fecha: "aprox. 2013"
+  titulo: "Primera actividad propia: La Basura en Su Lugar"
+  texto: "Las actividades se documentan en mensajes y documentos sueltos para compartir con el equipo de dirigentes de la Manada."
   tipo: inicio
+  enlace: "/activities/la-basura-en-su-lugar/"
 
 # ========== 2026 ==========
 
@@ -73,10 +74,6 @@
   titulo: "Actividad del día en redes"
   texto: "Cada mañana se elige una actividad y se anuncia en Telegram, Facebook e Instagram."
   tipo: redes
-
-- fecha: "2026-11-06"
-  titulo: "Primera actividad propia: Carrera de Polinizadores"
-  tipo: inicio
 
 - fecha: "2026-11-06"
   titulo: "Taxonomías propias y política editorial"
