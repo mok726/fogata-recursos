@@ -1,0 +1,55 @@
+---
+title: Línea de Tiempo
+description: "Los hitos de Fogata de Recursos: cuándo llegaron las colecciones, las insignias, los permisos y los cambios del sitio."
+layout: layouts/base.njk
+permalink: /linea-de-tiempo/
+noindex: true
+nosearch: true
+eleventyExcludeFromCollections: true
+styles:
+  - /css/linea-de-tiempo.css
+---
+{# Página sin enlaces desde el sitio, fuera del sitemap y de la búsqueda:
+   solo se llega con la dirección. #}
+{% set iconos = {
+  inicio: "local_fire_department",
+  fuente: "menu_book",
+  sitio: "language",
+  insignia: "military_tech",
+  permiso: "handshake",
+  licencia: "copyright",
+  redes: "campaign",
+  fichas: "library_add",
+  marca: "emoji_events",
+  otro: "flag"
+} %}
+<section class="ldt">
+
+  <header class="ldt-header">
+    <h1>Línea de Tiempo</h1>
+    <p>Los hitos del proyecto, del más viejo al más nuevo. Las insignias nuevas, las tandas grandes de fichas y las cantidades redondas se suman solas cada vez que se actualiza el sitio.</p>
+    <p class="ldt-hoy">Hoy: <strong>{{ collections.activities | length }}</strong> fichas publicadas en <strong>{{ badges | length }}</strong> insignias.</p>
+    <p class="ldt-leyenda"><span class="ldt-chip">Hito</span> <span class="ldt-chip ldt-chip-auto">Automático</span></p>
+  </header>
+
+  {% for grupo in lineaDeTiempoGrupos %}
+  <section class="ldt-anio" id="anio-{{ grupo.anio | slugify }}">
+    <h2 class="ldt-anio-titulo">{{ grupo.anio }}</h2>
+    <ol class="ldt-lista">
+      {% for h in grupo.hitos %}
+      <li class="ldt-hito ldt-{{ h.tipo }}{% if h.auto %} ldt-auto{% endif %}">
+        <span class="ldt-icono material-symbols-outlined" aria-hidden="true">{{ iconos[h.tipo] or "flag" }}</span>
+        <div class="ldt-cuerpo">
+          {% if h.fechaLegible %}<time class="ldt-fecha"{% if h.datetime %} datetime="{{ h.datetime }}"{% endif %}>{{ h.fechaLegible }}</time>{% endif %}
+          <h3 class="ldt-titulo">
+            {% if h.enlace %}<a href="{{ h.enlace if h.enlace.startsWith('http') else (h.enlace | url) }}">{{ h.titulo }}</a>{% else %}{{ h.titulo }}{% endif %}
+          </h3>
+          {% if h.texto %}<p class="ldt-texto">{{ h.texto }}</p>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endfor %}
+
+</section>
