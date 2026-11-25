@@ -110,6 +110,17 @@ async function shareActivity() {
 </a>
 
 
+ <button type="button" class="mochila-btn mochila-btn-ficha"
+    data-mochila="{{ page.url | url }}" data-mochila-ficha
+    data-titulo="{{ title | smartTitle }}"
+    data-dur="{{ duration or '' }}"
+    data-img="{{ (image or '/imagenes/actividades/activity-card.png') | thumb("card") | url }}"
+    data-tipo="{{ main_type or '' }}"
+    aria-pressed="false">
+    <span class="material-symbols-outlined mochila-ico" aria-hidden="true">backpack</span>
+    <span class="mochila-txt">Guardar en mi mochila</span>
+  </button>
+
  <button onclick="shareActivity()">
     <span class="material-symbols-outlined" aria-hidden="true">share</span> Compartir
   </button>
