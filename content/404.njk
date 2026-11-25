@@ -5,9 +5,36 @@ layout: layouts/base.njk
 title: Página no encontrada
 ---
 
-<section class="empty-state">
+<section class="empty-state pagina-404">
 
-  <h1>
+  {#- Una de las ilustraciones al azar en cada carga (GitHub Pages es
+      estático, así que se elige en el navegador). Sin JavaScript se
+      muestra siempre la primera. Para sumar otra: agregar
+      imagenes/404/404-N.webp (1200×800) y subir el total. -#}
+  {% set total404 = 7 %}
+  <div class="ilustracion-404" id="ilustracion-404"
+       data-base="{{ '/imagenes/404/404-' | url }}"
+       data-total="{{ total404 }}">
+    <noscript>
+      <img src="{{ '/imagenes/404/404-1.webp' | url }}"
+           width="1200" height="800"
+           alt="Un scout busca algo dentro de su mochila en el campamento: la página no está.">
+    </noscript>
+  </div>
+  <script>
+    (function () {
+      var c = document.getElementById("ilustracion-404");
+      var n = 1 + Math.floor(Math.random() * Number(c.dataset.total));
+      var img = document.createElement("img");
+      img.src = c.dataset.base + n + ".webp";
+      img.width = 1200;
+      img.height = 800;
+      img.alt = "Un scout busca algo dentro de su mochila en el campamento: la página no está.";
+      c.appendChild(img);
+    })();
+  </script>
+
+  <h1 class="visually-hidden-404">
     404
   </h1>
 
@@ -37,3 +64,22 @@ title: Página no encontrada
   </div>
 
 </section>
+
+<style>
+  .pagina-404 { padding-top: 1.5rem; }
+  .ilustracion-404 img {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 14px;
+  }
+  .visually-hidden-404 {
+    position: absolute;
+    width: 1px; height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+</style>
