@@ -40,6 +40,17 @@ En noviembre de 2022 encontré las fichas del [Champions for Nature Challenge](h
 
 Como ya tenía casi todo en CSV, el paso lógico para un tecno-obsesivo era recrear el formato en Word y usar la combinación de correspondencia para convertir cada ficha en un PDF con ese espíritu. Requería bastante trabajo manual, pero el resultado era hermoso.
 
+<div class="hist-figuras">
+<figure>
+  <img src="../imagenes/historia/formato-cfn-australia.png" alt="Página del Action Kit de Champions for Nature: columna con duración, edades, materiales y habilidades; a la derecha, resumen y desarrollo de la actividad." width="722" height="727" loading="lazy">
+  <figcaption>El formato que me inspiró: Champions for Nature Challenge, Action Kit.</figcaption>
+</figure>
+<figure>
+  <img src="../imagenes/historia/formato-ficha-pdf.png" alt="Ficha «De remera a Bolsa de Tela» generada en PDF: misma estructura de columna lateral, con resumen, desarrollo y cierre." width="477" height="617" loading="lazy">
+  <figcaption>Mi versión, generada de CSV a Word y de Word a PDF.</figcaption>
+</figure>
+</div>
+
 Ese año la Manada eligió hacer actividades de naturaleza, y el primer programa fue **Go Solar**. A mediados de año ya estaba devorando sus actividades y pedía más, así que fue la oportunidad ideal para presentarle **Campeones de la Naturaleza** y **Plastic Tide Turners**. Decidió hacer los dos desafíos a la vez.
 
 A diferencia de Go Solar, que tiene un plan de actividades completo, para esos dos no había un plan en nuestro país. Así que armamos una propuesta de actividades para cada desafío usando mis fichas como documentación, con el logo de nuestra Manada y los datos del Grupo para darle más impacto. Para eso creé o adapté de otras fuentes mis primeras actividades propias: [La Basura en Su Lugar](../activities/la-basura-en-su-lugar/), los talleres de tejido de papel y de plástico, Botella de Amor, Huerta de Botella, Macetas y Germinadoras, Leños Ecológicos y Papel Ecológico.
@@ -76,6 +87,19 @@ La idea original era hostear páginas estáticas en Azure y listo. Con eso armé
 En abril de 2026 llegué a las primeras versiones de algo no tan feo. En el camino descubrí que podía publicarlo gratis en GitHub Pages, con muchas más opciones de las que había soñado, así que en mayo creé el repositorio y subí la versión inicial del sitio.
 
 Arranqué con unas 100 actividades en Markdown (sí, con otro script para pasarlas de CSV) para probar. Cuando el sitio lució más o menos decente fui sumando actividades y otras insignias; al principio había solo 3 o 4 actividades propias. Cada insignia nueva me mostraba errores o cosas para mejorar, así que las mejoras del sitio se fueron intercalando con el pasaje de insignias de CSV a Markdown, y vuelta otra vez.
+
+Una de las primeras funcionalidades fue la versión imprimible: cada ficha se puede imprimir o guardar en PDF desde el sitio, con el mismo espíritu de mis fichas en papel y un QR que lleva a la versión en línea.
+
+<div class="hist-figuras">
+<figure>
+  <img src="../imagenes/historia/formato-imprimible-1.png" alt="Primera página de la versión imprimible de «¡A Ayudar!»: ficha técnica, materiales y habilidades a la izquierda; resumen, preparación, desarrollo y cierre a la derecha." width="517" height="645" loading="lazy">
+  <figcaption>Versión imprimible, primera página.</figcaption>
+</figure>
+<figure>
+  <img src="../imagenes/historia/formato-imprimible-2.png" alt="Segunda página de la versión imprimible: insignia, ODS, método y valores scout, y un QR hacia la ficha en línea." width="487" height="575" loading="lazy">
+  <figcaption>Segunda página, con el QR a la ficha en línea.</figcaption>
+</figure>
+</div>
 
 Más adelante llegaron las herramientas de inteligencia artificial, que ayudan en tareas de revisión, clasificación y generación de material gráfico para acompañar las actividades.
 
