@@ -184,11 +184,6 @@
   tipo: insignia
   enlace: "/material/"
 
-- fecha: "2026-11-22"
-  titulo: "Se suma el movimiento guía"
-  texto: "El sitio nombra a guías y guiadoras junto a los scouts."
-  tipo: otro
-
 - fecha: "2026-11-23"
   titulo: "Dominio propio: fogata.com.ar"
   tipo: sitio
