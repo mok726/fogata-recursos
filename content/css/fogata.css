@@ -113,20 +113,9 @@ body > footer {
 html[data-modo="docente"] [data-modo-scout],
 html[data-modo="scout"] [data-modo-docente] { display: none !important; }
 
-.modo-aviso { display: none; }
-html[data-modo="docente"] .modo-aviso[data-solo-docente] {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .4rem;
-  margin: .5rem 0 1rem;
-  padding: .6rem .9rem;
-  border-radius: 12px;
-  background: var(--fogata-card);
-  border: 1px solid var(--fogata-paper-dark);
-  color: var(--fogata-muted);
-  font-size: .9rem;
-}
+.modo-aviso { display: none !important; }
+html[data-modo="docente"] .modo-aviso[data-solo-docente] { display: block !important; }
+html[data-modo="docente"] .modo-aviso p { margin: 0 0 .5rem; color: var(--fogata-muted); font-size: .9rem; }
 .modo-aviso a { color: var(--fogata-fire-dark); font-weight: 600; }
 /* ---------- MI MOCHILA (js/mochila.js) ---------- */
 .visually-hidden {
@@ -176,13 +165,7 @@ html[data-modo="docente"] .modo-aviso[data-solo-docente] {
 .mochila-btn .material-symbols-outlined { font-size: 1.2rem; }
 
 .activity-actions { flex-wrap: wrap; justify-content: flex-end; }
-.mochila-btn-ficha {
-  white-space: nowrap;
-  padding: .35rem .9rem;
-  border-radius: 30px;
-  font-size: .9rem;
-  font-weight: 600;
-}
+
 
 .mochila-btn-card {
   flex: 0 0 auto;
