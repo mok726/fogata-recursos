@@ -1,0 +1,24 @@
+/* Selector «Relato | Línea de tiempo» de /historia-del-proyecto/ y /linea-de-tiempo/. */
+.historia-nav {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 0 1.5rem;
+  padding: 4px;
+  border-radius: 999px;
+  background: #fff;
+  border: 1px solid #e3e9de;
+  box-shadow: 0 2px 8px rgba(35, 64, 42, 0.06);
+}
+.historia-nav a {
+  display: flex; align-items: center; gap: 0.35rem;
+  padding: 0.35rem 1rem;
+  border-radius: 999px;
+  color: #23402a;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.historia-nav a:hover { background: #eef1ea; }
+.historia-nav a[aria-current="page"] { background: #23402a; color: #fff; }
+.historia-nav .material-symbols-outlined { font-size: 20px; }

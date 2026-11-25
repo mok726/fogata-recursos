@@ -6,9 +6,15 @@ title: Historia del Proyecto
 permalink: /historia-del-proyecto/
 styles:
   - /css/historia.css
+  - /css/historia-nav.css
 ---
 
 # Historia del Proyecto
+
+<nav class="historia-nav" aria-label="Formas de ver la historia">
+  <a href="./" aria-current="page"><span class="material-symbols-outlined" aria-hidden="true">auto_stories</span>Relato</a>
+  <a href="../linea-de-tiempo/"><span class="material-symbols-outlined" aria-hidden="true">timeline</span>Línea de tiempo</a>
+</nav>
 
 <div class="historia">
 
@@ -36,7 +42,7 @@ Como ya tenía casi todo en CSV, el paso lógico para un tecno-obsesivo era recr
 
 Ese año la Manada eligió hacer actividades de naturaleza, y el primer programa fue **Go Solar**. A mediados de año ya estaba devorando sus actividades y pedía más, así que fue la oportunidad ideal para presentarle **Campeones de la Naturaleza** y **Plastic Tide Turners**. Decidió hacer los dos desafíos a la vez.
 
-A diferencia de Go Solar, que tiene un plan de actividades completo, para esos dos no había un plan en nuestro país. Así que armamos una propuesta de actividades para cada desafío usando mis fichas como documentación, con el logo de nuestra Manada y los datos del Grupo para darle más impacto.
+A diferencia de Go Solar, que tiene un plan de actividades completo, para esos dos no había un plan en nuestro país. Así que armamos una propuesta de actividades para cada desafío usando mis fichas como documentación, con el logo de nuestra Manada y los datos del Grupo para darle más impacto. Para eso creé o adapté de otras fuentes mis primeras actividades propias: [La Basura en Su Lugar](../activities/la-basura-en-su-lugar/), los talleres de tejido de papel y de plástico, Botella de Amor, Huerta de Botella, Macetas y Germinadoras, Leños Ecológicos y Papel Ecológico.
 
 La Manada lo disfrutó muchísimo y en unos meses había completado los tres programas. Eso me convenció de seguir documentando en mi «nuevo formato estándar»: sirve para trabajar y también para que los chicos puedan elegir las actividades.
 

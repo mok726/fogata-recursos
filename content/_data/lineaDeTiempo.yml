@@ -18,11 +18,6 @@
 # ========== ANTES DEL SITIO ==========
 # Fechas aproximadas: sirven para contar la historia, no son exactas.
 
-- fecha: "aprox. 2013"
-  titulo: "Primera actividad propia: La Basura en Su Lugar"
-  tipo: inicio
-  enlace: "/activities/la-basura-en-su-lugar/"
-
 - fecha: "2021"
   titulo: "Empiezo en la Manada"
   texto: "Tengo poca idea de actividades y la experiencia universitaria no se adapta al mundo scout. Google trae cientos de resultados: muchos ya no existen, otros piden suscribirse, y lo útil es difícil de encontrar. Y lo peor: «el otro día vi la actividad ideal… ¿dónde era?»."
@@ -63,6 +58,12 @@
   titulo: "Dos desafíos a la vez"
   texto: "La Manada pide más naturaleza y elige hacer Campeones de la Naturaleza y Plastic Tide Turners al mismo tiempo. Como no había plan de actividades en el país, armamos uno para cada desafío con mis fichas, el logo de la Manada y los datos del Grupo."
   tipo: fuente
+
+- fecha: "2023-07"
+  titulo: "Primeras actividades propias"
+  texto: "Para que la Manada complete Campeones de la Naturaleza y Plastic Tide Turners creo o adapto mis primeros talleres: La Basura en Su Lugar, Tejido de Papel y de Plástico, Botella de Amor, Huerta de Botella, Macetas y Germinadoras, Leños Ecológicos y Papel Ecológico."
+  tipo: inicio
+  enlace: "/badges/general/"
 
 - fecha: "2023-10"
   titulo: "Tres programas completos"
