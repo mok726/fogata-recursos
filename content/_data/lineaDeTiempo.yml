@@ -9,8 +9,8 @@
 #                           # libre como "aprox. 2015" (se ordena por el año)
 #     titulo: "Título corto"
 #     texto: "Una o dos líneas (opcional)."
-#     tipo: inicio          # inicio, fuente, sitio, insignia, permiso,
-#                           # licencia, redes, otro (define el ícono)
+#     tipo: inicio          # inicio, fuente, sitio, insignia, permiso (verde),
+#                           # logro (dorado), licencia, redes, otro (ícono y color)
 #     enlace: "/acerca-de/" # opcional: ruta del sitio o URL completa
 #
 # El orden no importa: se ordenan por fecha al construir el sitio.
@@ -105,7 +105,7 @@
 - fecha: "2026-05-21"
   titulo: "Nace el sitio en GitHub Pages"
   texto: "Descubro que puedo publicarlo gratis en GitHub Pages, con más opciones de las que había soñado. Arranco con unas 100 fichas (otro script, de CSV a .md) para probar; después se van intercalando mejoras del sitio con más insignias."
-  tipo: sitio
+  tipo: logro
 
 - fecha: "2026-05-28"
   titulo: "Nueva funcionalidad: sitemap, página 404 y vista previa para compartir"
@@ -113,12 +113,12 @@
 
 - fecha: "2026-06-18"
   titulo: "Nueva funcionalidad: clasificación educativa"
-  texto: "Las fichas suman competencias, método scout, valores y tipos de actividad."
+  texto: "Las fichas se ordenan y filtran en base a sus propiedades, comenzando por habilidades."
   tipo: sitio
 
 - fecha: "2026-06-22"
   titulo: "Nueva funcionalidad: versión imprimible con QR"
-  texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea."
+  texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea. Esto permite llevarlo al campamento o salida sin necesitar el celular ni señal."
   tipo: sitio
 
 - fecha: "2026-10-25"
@@ -170,10 +170,37 @@
   enlace: "/material/"
 
 - fecha: "2026-11-23"
-  titulo: "Nueva funcionalidad: dominio propio fogata.com.ar"
-  tipo: sitio
+  titulo: "Dominio propio: fogata.com.ar"
+  tipo: logro
 
 - fecha: "2026-11-24"
   titulo: "Nueva funcionalidad: actividades de día y de noche, adentro y afuera"
-  texto: "Filtros nuevos por momento y lugar, y juegos nocturnos propios."
+  texto: "Filtros nuevos por momento y lugar, juegos nocturnos propios, y notas de seguridad y para el educador en bloques propios."
+  tipo: sitio
+
+- fecha: "2026-11-25"
+  titulo: "Licencias confirmadas: Polinizadores, RRD y Ciudades Verdes"
+  texto: "Se verifica que tienen licencia abierta: ya no esperan permiso."
+  tipo: permiso
+  enlace: "/licencia/"
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: texto original plegable y página 404 ilustrada"
+  tipo: sitio
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: vista docente o scout"
+  texto: "Más filtros, competencias por rama y referencia del Programa Scout."
+  tipo: sitio
+  enlace: "/activities/"
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: Mi Mochila"
+  texto: "Guardar actividades y armar el plan de la reunión."
+  tipo: sitio
+  enlace: "/mi-mochila/"
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: historia y línea de tiempo"
+  texto: "El relato del proyecto y esta línea de tiempo, que se actualiza sola."
   tipo: sitio

@@ -52,4 +52,10 @@ colecciones:
   - asdecoeducacion
   - manosunidas
 
-nota_colecciones: "No es una insignia oficial: la armé para ordenar y que no quede todo en Generales."
+# Notas de las pseudo insignias: la primera, por fecha, lleva el primer
+# texto; las siguientes van rotando los demás.
+nota_colecciones:
+  - "No es una insignia oficial: es una pseudo insignia que armé para ordenar y que no quede todo en Generales."
+  - "Otra pseudo insignia, para mantener el orden."
+  - "Pseudo insignia, como las anteriores."
+  - "También es una pseudo insignia."
