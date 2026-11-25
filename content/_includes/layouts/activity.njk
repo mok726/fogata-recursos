@@ -375,6 +375,7 @@ async function shareActivity() {
          {% set isTimeline = false %}
          {% set sectionMostrar = true %}
          {% set sectionColapsable = false %}
+         {% set sectionSinIndice = false %}
 
 
          {% if section.heading == "Resumen" %}
@@ -412,10 +413,11 @@ async function shareActivity() {
             {% set sectionIcon = "school" %}
          {% endif %}
 
+         {# El texto original va plegado: se ve solo si alguien lo abre. #}
          {% if section.heading == "Texto original completo de la actividad" %}
-            {% set sectionClass = "timeline-closing" %}
-            {% set sectionMostrar = false %}
-            {% set sectionColapsable = true %}
+            {% set sectionIcon = "translate" %}
+            {% set sectionTipo = "neutral" %}
+            {% set sectionSinIndice = true %}
          {% endif %}
 
 
@@ -487,8 +489,10 @@ async function shareActivity() {
 
                 {% endset %}
 
+                {# El texto original (casi siempre en inglés) no entra en el buscador. #}
+                {% if sectionSinIndice %}<div data-pagefind-ignore="all">{% endif %}
                 {% include "components/disclosure.njk" %}
-
+                {% if sectionSinIndice %}</div>{% endif %}
 
               {% endif %}
 
