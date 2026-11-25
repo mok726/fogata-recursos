@@ -46,7 +46,7 @@ A diferencia de Go Solar, que tiene un plan de actividades completo, para esos d
 
 La Manada lo disfrutó muchísimo y en unos meses había completado los tres programas. Eso me convenció de seguir documentando en mi «nuevo formato estándar»: sirve para trabajar y también para que los chicos puedan elegir las actividades.
 
-## <span class="hist-anio">2024</span> Todo al español
+## <span class="hist-anio">2024</span> A traducir se ha dicho
 
 Muchas actividades estaban en español, pero muchísimas más estaban en inglés y no las podía compartir con muchos de los chicos (y no tan chicos). Me puse a buscar versiones en español o a traducir las que tenía.
 

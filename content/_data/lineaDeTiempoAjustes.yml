@@ -1,30 +1,55 @@
 # Fechas «de historia» para la parte automática de /linea-de-tiempo/.
 #
-# Cuando se creó el sitio (mayo a julio de 2026) se subieron de golpe
-# fichas e insignias que venían armándose desde 2022 en planillas CSV.
-# Para que la línea de tiempo cuente esa historia, lo que git fechó antes
-# de `hasta` toma la fecha de su insignia según esta lista (las fichas van
-# con su insignia principal). Lo posterior a `hasta` usa la fecha real.
-# Las fechas son aproximadas a propósito.
+# Entre mayo y julio de 2026 se subieron de golpe al sitio fichas e
+# insignias que venían de mis planillas. Para contar mejor la historia,
+# lo que git fechó antes de `hasta` toma la fecha de su insignia según
+# esta lista (las fichas van con su insignia principal). Lo posterior a
+# `hasta` usa la fecha real. Las fechas son aproximadas a propósito.
 
 hasta: "2026-10-01"
 
 insignias:
-  general: "2023-07"          # mis primeros talleres, para Campeones y PTT
-  gosolar: "2023-01"
-  cfn: "2023-06"              # Campeones de la Naturaleza
-  plastics: "2023-07"         # Plastic Tide Turners
-  mundomejor: "2023-11"
-  agua: "2024-02"
-  biodiversidad: "2024-04"
-  bosques: "2024-05"
-  polinizadores: "2024-06"
-  energia: "2024-08"
-  cambioclimatico: "2024-09"
-  suelos: "2024-10"
-  oceano: "2024-11"
-  hambre: "2025-01"
-  nutricion: "2025-02"
-  sacc: "2025-03"             # Seguridad Alimentaria
-  rrd: "2025-04"              # Reducción del Riesgo de Desastres
-  ciudadesverdes: "2025-06"
+  # Las primeras, con el sitio recién nacido.
+  gosolar: "2026-05-21"
+  cfn: "2026-05-24"            # Campeones de la Naturaleza
+  plastics: "2026-05-27"       # Plastic Tide Turners
+  general: "2026-05-29"
+  polinizadores: "2026-06-10"
+  # Después se alternan con las mejoras del sitio.
+  mundomejor: "2026-06-28"
+  agua: "2026-07-06"
+  biodiversidad: "2026-07-15"
+  bosques: "2026-07-24"
+  energia: "2026-08-02"
+  cambioclimatico: "2026-08-11"
+  suelos: "2026-08-20"
+  oceano: "2026-08-29"
+  hambre: "2026-09-07"
+  nutricion: "2026-09-14"
+  sacc: "2026-09-21"           # Seguridad Alimentaria
+  rrd: "2026-09-28"            # Reducción del Riesgo de Desastres
+  ciudadesverdes: "2026-10-05"
+  agricultura: "2026-10-10"
+  genero: "2026-10-12"
+  gobernanza: "2026-10-15"
+
+# Texto propio para el hito de una insignia.
+notas:
+  general: "La creé como un rejunte, un cambalache como en el tango: acá van las actividades que no pertenecen a ninguna insignia."
+
+# Insignias que no son insignias oficiales: las inventé para ordenar.
+colecciones:
+  - badenpowell
+  - badenpowellmanada
+  - tecnicascout
+  - vial
+  - tradiciones
+  - asdeaprendiendo
+  - asdeambiente
+  - asdefichas2001
+  - asdesaludtic
+  - asderepensar
+  - asdecoeducacion
+  - manosunidas
+
+nota_colecciones: "No es una insignia oficial: la armé para ordenar y que no quede todo en Generales."

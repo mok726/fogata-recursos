@@ -71,7 +71,7 @@
   tipo: inicio
 
 - fecha: "2024-01"
-  titulo: "Todo al español"
+  titulo: "A traducir se ha dicho"
   texto: "Muchísimas actividades estaban en inglés y no las podía compartir. Busco versiones en español o traduzco, primero a lo bruto (cantidad antes que calidad) y después depurando. La traducción va al CSV; el PDF lindo se regenera cuando hace falta."
   tipo: fuente
 
@@ -108,21 +108,21 @@
   tipo: sitio
 
 - fecha: "2026-05-28"
-  titulo: "Sitemap, página 404 y vista previa para compartir"
+  titulo: "Nueva funcionalidad: sitemap, página 404 y vista previa para compartir"
   tipo: sitio
 
 - fecha: "2026-06-18"
-  titulo: "Clasificación educativa"
+  titulo: "Nueva funcionalidad: clasificación educativa"
   texto: "Las fichas suman competencias, método scout, valores y tipos de actividad."
   tipo: sitio
 
 - fecha: "2026-06-22"
-  titulo: "Versión imprimible con QR"
+  titulo: "Nueva funcionalidad: versión imprimible con QR"
   texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea."
   tipo: sitio
 
 - fecha: "2026-10-25"
-  titulo: "Gran puesta a punto"
+  titulo: "Nueva funcionalidad: gran puesta a punto"
   texto: "Buscador y filtros nuevos, imágenes livianas, publicación automática y rediseño de la portada y del listado de actividades."
   tipo: sitio
 
@@ -132,23 +132,13 @@
   tipo: licencia
   enlace: "/licencia/"
 
-- fecha: "2026-10-29"
-  titulo: "Homenaje a Baden-Powell"
-  texto: "Empiezan las fichas basadas en Scouting for Boys. El 1/11 se completa el libro y se suma el Wolf Cub's Handbook para la Manada."
-  tipo: fuente
-
-- fecha: "2026-11-03"
-  titulo: "Técnica Scout"
-  texto: "Fichas de técnica tomadas de manuales clásicos (1911–1920)."
-  tipo: fuente
-
 - fecha: "2026-11-05"
-  titulo: "Actividad del día en redes"
+  titulo: "Nueva funcionalidad: actividad del día en redes"
   texto: "Cada mañana se elige una actividad y se anuncia en Telegram, Facebook e Instagram."
   tipo: redes
 
 - fecha: "2026-11-06"
-  titulo: "Taxonomías propias y política editorial"
+  titulo: "Nueva funcionalidad: taxonomías propias y política editorial"
   texto: "Habilidades, valores, método y tipos de actividad con definiciones y criterios. Entre el 6 y el 10/11 se revisan ficha por ficha."
   tipo: sitio
   enlace: "/politica-editorial/"
@@ -158,41 +148,32 @@
   texto: "Solafrica autoriza publicar el material de Go Solar."
   tipo: permiso
 
-- fecha: "2026-11-10"
-  titulo: "Llega Scouts de España"
-  texto: "Primeras colecciones de ASDE: Salud y TIC, Medio Ambiente y Espiritualidad, Aprendiendo a Ser y Coeducación."
-  tipo: fuente
-
 - fecha: "2026-11-13"
-  titulo: "Buscador por autor y fuente"
+  titulo: "Nueva funcionalidad: buscador por autor y fuente"
   tipo: sitio
 
 - fecha: "2026-11-18"
   titulo: "Permiso de Manos Unidas"
-  texto: "Manos Unidas autoriza publicar su material; nace su colección."
+  texto: "Manos Unidas autoriza publicar su material."
   tipo: permiso
 
 - fecha: "2026-11-19"
   titulo: "Aviso sobre el uso de inteligencia artificial"
+  texto: "Decido aclarar en el sitio para qué uso la inteligencia artificial y para qué no."
   tipo: otro
   enlace: "/aviso-legal/#uso-de-inteligencia-artificial"
 
 - fecha: "2026-11-21"
-  titulo: "Material de apoyo y Tradiciones Argentinas"
-  texto: "Nueva sección con leyendas, cuentos y coplas, y la primera insignia propia sobre cultura argentina."
-  tipo: insignia
+  titulo: "Nueva funcionalidad: sección Material de apoyo"
+  texto: "Leyendas, cuentos, adivinanzas y coplas para usar en las actividades."
+  tipo: sitio
   enlace: "/material/"
 
-- fecha: "2026-11-22"
-  titulo: "Se suma el movimiento guía"
-  texto: "El sitio nombra a guías y guiadoras junto a los scouts."
-  tipo: otro
-
 - fecha: "2026-11-23"
-  titulo: "Dominio propio: fogata.com.ar"
+  titulo: "Nueva funcionalidad: dominio propio fogata.com.ar"
   tipo: sitio
 
 - fecha: "2026-11-24"
-  titulo: "Actividades de día y de noche, adentro y afuera"
+  titulo: "Nueva funcionalidad: actividades de día y de noche, adentro y afuera"
   texto: "Filtros nuevos por momento y lugar, y juegos nocturnos propios."
   tipo: sitio
