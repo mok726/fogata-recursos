@@ -31,6 +31,8 @@
 
 
 
+<div class="acts-filtros-caja">
+
 <details class="acts-filters">
 
   <summary>
@@ -217,6 +219,17 @@
 
 </details>
 
+  {# Vista: «Docente» oculta rama, valores, método y programa scout;
+   «Scout» oculta la edad suelta (se elige la rama). Va en la URL. #}
+<div class="acts-modo" role="group" aria-label="Ver como">
+  <span class="acts-modo-label">Ver como</span>
+  <button type="button" data-modo-btn="">Todo</button>
+  <button type="button" data-modo-btn="scout">Scout</button>
+  <button type="button" data-modo-btn="docente">Docente</button>
+</div>
+
+</div>
+
 
 <div class="acts-bar">
 
@@ -226,14 +239,6 @@
 
   <div class="acts-chips" id="acts-chips"></div>
 
-  {# Vista: «Docente» oculta rama, valores, método y programa scout;
-     «Scout» oculta la edad suelta (se elige la rama). Va en la URL. #}
-  <div class="acts-modo" role="group" aria-label="Ver como">
-    <span class="acts-modo-label">Ver como</span>
-    <button type="button" data-modo-btn="">Todo</button>
-    <button type="button" data-modo-btn="scout">Scout</button>
-    <button type="button" data-modo-btn="docente">Docente</button>
-  </div>
 
 </div>
 

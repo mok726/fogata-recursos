@@ -1,0 +1,11 @@
+---
+permalink: "/programa-scout/"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Competencias por Rama</title>
+<script>location.replace({{ ('/competencias/' | url) | dump | safe }} + location.hash);</script>
+<meta http-equiv="refresh" content="0; url={{ '/competencias/' | url }}">
+<link rel="canonical" href="{{ '/competencias/' | url }}">
+<meta name="robots" content="noindex"></head>
+<body><p>Esta página ahora es <a href="{{ '/competencias/' | url }}">Competencias por Rama</a>.</p></body></html>

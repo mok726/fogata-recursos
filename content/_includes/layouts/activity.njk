@@ -574,12 +574,16 @@ async function shareActivity() {
     <img src="{{ ('/imagenes/ramas/' + r.img + '.png') | thumb("rama") | url }}" alt="{{ r.name }}">
   </a>
   <div class="branch-content">
+    {% if r.data %}
+    <a class="branch-name branch-name-link" href="{{ ('/competencias/#' + r.data) | url }}" title="Ver {{ 'los rastros' if r.data == 'manada' else 'las competencias' }} de {{ r.name }}">{{ r.name }}</a>
+    {% else %}
     <div class="branch-name">{{ r.name }}</div>
+    {% endif %}
     {% if valores and (valores | length) %}
       {% if r.pill %}
       <div class="competencias-pills">
         {% for numero in valores %}
-          <a class="competencia-pill {{ r.pill }}" href="{{ ('/programa-scout/#' + r.data + '-' + numero) | url }}" data-rama="{{ r.name }}" title="{% for comp in (compsRama or []) %}{% if comp.numero == numero %}{{ r.label }} {{ numero }}
+          <a class="competencia-pill {{ r.pill }}" href="{{ ('/competencias/#' + r.data + '-' + numero) | url }}" data-rama="{{ r.name }}" aria-label="{{ r.label }} {{ numero }} de {{ r.name }}" data-info="{% for comp in (compsRama or []) %}{% if comp.numero == numero %}{{ r.label }} {{ numero }}
 {{ r.cat }}: {{ comp.ruta if r.cat == 'Ruta' else comp.categoria }}
 
 {{ comp.descripcion }}{% endif %}{% endfor %}">{{ numero }}</a>
@@ -598,7 +602,7 @@ async function shareActivity() {
     <span class="material-symbols-outlined" aria-hidden="true">groups</span>
     Programa Scout
   </h3>
-  <p class="programa-ayuda">Tocá un número para ver qué rastro o competencia es. <a href="{{ '/programa-scout/' | url }}">Ver todos por rama</a>.</p>
+  <p class="programa-ayuda">Tocá un número para ver qué rastro o competencia es, o el nombre de la rama para ver todos. <a href="{{ '/competencias/' | url }}">Competencias por rama</a>.</p>
 
   <div class="branch-grid">
     {% for r in ramasPropias %}
@@ -948,70 +952,113 @@ async function shareActivity() {
 
 
 
-{# Programa Scout: al tocar un número se abre una tarjetita con el
-   rastro o la competencia (el title sólo se ve con mouse, no en el
-   celular). Sin JavaScript, el número lleva a /programa-scout/. #}
-<div class="competencia-pop" id="competencia-pop" role="dialog" aria-modal="false" hidden>
+{# Programa Scout: al tocar, pasar el mouse o llegar con el teclado
+   a un número se abre una tarjetita con el rastro o la competencia,
+   pegada al número. Tocar la tarjetita lleva a esa competencia en
+   /competencias/. Sin JavaScript, el número lleva ahí directo. #}
+<div class="competencia-pop" id="competencia-pop" role="tooltip" hidden>
   <button type="button" class="competencia-pop-cerrar" aria-label="Cerrar">
     <span class="material-symbols-outlined" aria-hidden="true">close</span>
   </button>
-  <p class="competencia-pop-titulo"></p>
-  <p class="competencia-pop-cat"></p>
-  <p class="competencia-pop-texto"></p>
-  <a class="competencia-pop-link" href="">Ver todos los de la rama</a>
+  <a class="competencia-pop-cuerpo" href="">
+    <span class="competencia-pop-titulo"></span>
+    <span class="competencia-pop-cat"></span>
+    <span class="competencia-pop-texto"></span>
+    <span class="competencia-pop-link">Ver en la lista de la rama <span class="material-symbols-outlined" aria-hidden="true">arrow_forward</span></span>
+  </a>
 </div>
 <script>
 (function () {
   var pop = document.getElementById('competencia-pop');
   if (!pop) return;
+  var cuerpo = pop.querySelector('.competencia-pop-cuerpo');
   var titulo = pop.querySelector('.competencia-pop-titulo');
-  var texto = pop.querySelector('.competencia-pop-texto');
   var cat = pop.querySelector('.competencia-pop-cat');
-  var link = pop.querySelector('.competencia-pop-link');
+  var texto = pop.querySelector('.competencia-pop-texto');
   var actual = null;
+  var fijo = false;   // abierta con clic: no se cierra al sacar el mouse
+  var timer = null;
 
   function cerrar() {
+    clearTimeout(timer);
     pop.hidden = true;
-    if (actual) actual.setAttribute('aria-expanded', 'false');
+    if (actual) { actual.setAttribute('aria-expanded', 'false'); actual.removeAttribute('aria-describedby'); }
     actual = null;
+    fijo = false;
   }
 
-  function abrir(pill) {
-    var info = (pill.getAttribute('title') || '').split('\n');
+  function ubicar(pill) {
+    // Coordenadas relativas al contenedor posicionado de la tarjetita.
+    var base = pop.offsetParent || document.body;
+    var b = base.getBoundingClientRect();
+    var r = pill.getBoundingClientRect();
+    var ancho = pop.offsetWidth;
+    var alto = pop.offsetHeight;
+    var vw = document.documentElement.clientWidth;
+    var x = Math.min(Math.max(8, r.left), vw - ancho - 8);
+    // Abajo del número; si no entra en la pantalla, arriba.
+    var y = r.bottom + 6;
+    pop.classList.remove('arriba');
+    if (y + alto > window.innerHeight - 8 && r.top - alto - 6 > 8) {
+      y = r.top - alto - 6;
+      pop.classList.add('arriba');
+    }
+    pop.style.left = (x - b.left + (base.scrollLeft || 0)) + 'px';
+    pop.style.top = (y - b.top + (base.scrollTop || 0)) + 'px';
+    pop.style.setProperty('--flecha-x', Math.max(12, Math.min(ancho - 24, r.left + r.width / 2 - x - 6)) + 'px');
+  }
+
+  function abrir(pill, conClic) {
+    clearTimeout(timer);
+    if (actual && actual !== pill) actual.setAttribute('aria-expanded', 'false');
+    var info = (pill.getAttribute('data-info') || '').split('\n');
     titulo.textContent = (pill.dataset.rama ? pill.dataset.rama + ' · ' : '') + (info[0] || '');
     cat.textContent = (info[1] || '').trim();
     texto.textContent = info.slice(2).join(' ').replace(/\s+/g, ' ').trim();
-    link.href = pill.href;
-    link.textContent = 'Ver todos los de ' + (pill.dataset.rama || 'la rama');
+    cuerpo.href = pill.href;
     pop.hidden = false;
-    var r = pill.getBoundingClientRect();
-    var ancho = pop.offsetWidth;
-    var x = Math.min(Math.max(8, r.left + window.scrollX), window.scrollX + document.documentElement.clientWidth - ancho - 8);
-    pop.style.left = x + 'px';
-    pop.style.top = (r.bottom + window.scrollY + 6) + 'px';
+    ubicar(pill);
     actual = pill;
+    fijo = !!conClic;
     pill.setAttribute('aria-expanded', 'true');
+    pill.setAttribute('aria-describedby', 'competencia-pop');
   }
 
+  function cerrarLuego() {
+    if (fijo) return;
+    clearTimeout(timer);
+    timer = setTimeout(cerrar, 250);
+  }
+
+  var puedeHover = window.matchMedia && window.matchMedia('(hover: hover)').matches;
+
   document.querySelectorAll('.competencia-pill[href]').forEach(function (pill) {
-    pill.setAttribute('aria-haspopup', 'dialog');
     pill.setAttribute('aria-expanded', 'false');
     pill.addEventListener('click', function (e) {
       if (e.ctrlKey || e.metaKey || e.shiftKey) return;
       e.preventDefault();
-      if (actual === pill) { cerrar(); return; }
-      abrir(pill);
+      if (actual === pill && fijo) { cerrar(); return; }
+      abrir(pill, true);
     });
+    if (puedeHover) {
+      pill.addEventListener('mouseenter', function () { if (!fijo || actual !== pill) abrir(pill, false); });
+      pill.addEventListener('mouseleave', cerrarLuego);
+    }
+    pill.addEventListener('focus', function () { if (!actual || actual !== pill) abrir(pill, false); });
+    pill.addEventListener('blur', function () { setTimeout(function () { if (!pop.contains(document.activeElement)) cerrarLuego(); }, 0); });
   });
 
+  pop.addEventListener('mouseenter', function () { clearTimeout(timer); });
+  pop.addEventListener('mouseleave', cerrarLuego);
+
   pop.querySelector('.competencia-pop-cerrar').addEventListener('click', function () {
-    var p = actual; cerrar(); if (p) p.focus();
+    var p = actual; cerrar(); if (p) p.focus({ preventScroll: true });
   });
   document.addEventListener('click', function (e) {
     if (!pop.hidden && !pop.contains(e.target) && !e.target.closest('.competencia-pill')) cerrar();
   });
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && !pop.hidden) { var p = actual; cerrar(); if (p) p.focus(); }
+    if (e.key === 'Escape' && !pop.hidden) { var p = actual; cerrar(); if (p) p.focus({ preventScroll: true }); }
   });
   window.addEventListener('resize', cerrar);
 })();
