@@ -1,0 +1,30 @@
+# Fechas «de historia» para la parte automática de /linea-de-tiempo/.
+#
+# Cuando se creó el sitio (mayo a julio de 2026) se subieron de golpe
+# fichas e insignias que venían armándose desde 2022 en planillas CSV.
+# Para que la línea de tiempo cuente esa historia, lo que git fechó antes
+# de `hasta` toma la fecha de su insignia según esta lista (las fichas van
+# con su insignia principal). Lo posterior a `hasta` usa la fecha real.
+# Las fechas son aproximadas a propósito.
+
+hasta: "2026-10-01"
+
+insignias:
+  general: "2022-06"          # mis propias actividades, primeras en CSV
+  gosolar: "2023-01"
+  cfn: "2023-06"              # Campeones de la Naturaleza
+  plastics: "2023-07"         # Plastic Tide Turners
+  mundomejor: "2023-11"
+  agua: "2024-02"
+  biodiversidad: "2024-04"
+  bosques: "2024-05"
+  polinizadores: "2024-06"
+  energia: "2024-08"
+  cambioclimatico: "2024-09"
+  suelos: "2024-10"
+  oceano: "2024-11"
+  hambre: "2025-01"
+  nutricion: "2025-02"
+  sacc: "2025-03"             # Seguridad Alimentaria
+  rrd: "2025-04"              # Reducción del Riesgo de Desastres
+  ciudadesverdes: "2025-06"

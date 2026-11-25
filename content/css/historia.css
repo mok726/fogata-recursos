@@ -1,0 +1,27 @@
+/* /historia-del-proyecto/ — relato por etapas sobre un eje. */
+.historia {
+  position: relative;
+  padding-left: 28px;
+  border-left: 3px solid #e8732c;
+  margin-left: 8px;
+}
+.historia h2 {
+  position: relative;
+  display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem;
+}
+.historia h2::before {
+  content: "";
+  position: absolute;
+  left: -38px; top: 0.6em;
+  width: 15px; height: 15px; margin-top: -7px;
+  border-radius: 50%;
+  background: #e8732c;
+  box-shadow: 0 0 0 4px #fff;
+}
+.hist-anio {
+  display: inline-block;
+  padding: 0.05rem 0.75rem;
+  border-radius: 999px;
+  background: #23402a; color: #fff;
+  font-size: 0.85em;
+}
