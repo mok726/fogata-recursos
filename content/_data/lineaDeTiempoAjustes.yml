@@ -28,3 +28,24 @@ insignias:
   sacc: "2025-03"             # Seguridad Alimentaria
   rrd: "2025-04"              # Reducción del Riesgo de Desastres
   ciudadesverdes: "2025-06"
+
+# Texto propio para el hito de una insignia.
+notas:
+  general: "La creé como cajón de sastre: acá van las actividades que no pertenecen a ninguna insignia."
+
+# Insignias que no son insignias oficiales: las inventé para ordenar.
+colecciones:
+  - badenpowell
+  - badenpowellmanada
+  - tecnicascout
+  - vial
+  - tradiciones
+  - asdeaprendiendo
+  - asdeambiente
+  - asdefichas2001
+  - asdesaludtic
+  - asderepensar
+  - asdecoeducacion
+  - manosunidas
+
+nota_colecciones: "No es una insignia oficial: la armé para ordenar y que no quede todo en Generales."

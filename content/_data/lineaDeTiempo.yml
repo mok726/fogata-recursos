@@ -71,7 +71,7 @@
   tipo: inicio
 
 - fecha: "2024-01"
-  titulo: "Todo al español"
+  titulo: "A traducir se ha dicho"
   texto: "Muchísimas actividades estaban en inglés y no las podía compartir. Busco versiones en español o traduzco, primero a lo bruto (cantidad antes que calidad) y después depurando. La traducción va al CSV; el PDF lindo se regenera cuando hace falta."
   tipo: fuente
 
