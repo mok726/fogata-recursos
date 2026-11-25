@@ -42,7 +42,7 @@ module.exports = {
     quality: 80
   },
 
-  // Íconos de los rastros de Manada (/programa-scout/).
+  // Íconos de los rastros de Manada (/competencias/).
   rastro: {
     dir: "imagenes/competencias/manada",
     width: 192,
