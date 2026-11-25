@@ -12,6 +12,7 @@ author:
   - Robert Baden-Powell
 source:
   - Scouting for Boys (1908)
+  - Scouting Games (6.ª ed., 1921)
 
 # ========== IMAGEN Y ESTADO ==========
 original: false
@@ -157,6 +158,8 @@ Baden-Powell propone tres juegos para aprovechar la nieve: una **Expedición Ár
 - **Expedición Ártica:** cada patrulla arma un trineo con sogas. Dos exploradores salen adelante y dibujan señales en la nieve. El resto sigue con el trineo (que lleva comida y ollas) leyendo las huellas y las señales. Al llegar, construyen refugios de nieve angostos con techo de ramas.
 - **Fuerte de Nieve:** una patrulla construye su fuerte con mirillas. Después lo atacan patrullas que sean al menos el doble. Quien recibe un bolazo queda "fuera".
 - **Cacería Siberiana:** un fugitivo sale primero y se esconde. Los demás lo siguen por sus huellas veinte minutos después. El fugitivo se defiende con bolas de nieve y queda atrapado cuando le pegan tres veces.
+- **Caza del Zorro** (de *Scouting Games*): en nieve sin pisar, dos "zorros" salen del medio de un campo y cinco minutos después los siguen los demás por sus huellas. Los zorros no pueden cruzar huellas de otras personas; pueden caminar sobre pircas, pisar cada uno en las huellas del otro o saltar a un costado apoyándose en el bastón. Tienen que aguantar una hora y volver a la salida; para ganar hay que atrapar a los dos.
+- **Carrera al Polo** (de *Scouting Games*): dos patrullas de "exploradores polares" siguen cada una las huellas de su explorador, que salió quince minutos antes hacia el mismo punto, el "Polo". La primera que llega planta su bandera, deja los bastones en ronda a seis pasos y prepara bolas de nieve. La otra intenta llevarse los bastones; dos bolazos dejan fuera a cualquiera. Cada bastón y cada jugador fuera valen un punto.
 
 ## Cierre
 - ¿Qué señales funcionaron mejor en la nieve?
@@ -234,6 +237,20 @@ Cuando nieva, los scouts pueden ser muy útiles trabajando como patrulla, a las 
 
 ---
 **Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+
+**Variantes agregadas de *Scouting Games* (B-P, 6.ª ed., 1921, cap. IX):**
+
+**FOX-HUNTING.** This game is to be played where there is plenty of untrodden snow about. Two Scouts start from the middle of a field or piece of open ground, and five minutes afterwards the rest are put on their trail. The two foxes are not allowed to cross any human tracks. If they approach a pathway where other people have been, they must turn off in another direction ; but they can walk along the top of walls and use any other ruse they like, such as treading in each other's tracks, and then one vaulting aside with his staff. Both of them have to be caught by the pursuers for it to count a win. The foxes have to avoid capture for one hour and then get back to the starting-place.
+
+**THE DASH FOR THE POLE.** Two rival parties of Arctic explorers are nearing the Pole; each has sent out one Scout in advance, but neither of them have returned-they know the direction each started in because their tracks can be still seen in the snow. What has really happened is that each has reached the Pole, and each is determined to maintain his claim to it and so dare not leave the spot. They both purposely left good tracks and signs, so that they could be easily followed up, if anything happened. (These two, one from each patrol, should start from head- quarters together, and then determine upon the spot to be the Pole - each to approach it from a different direction.) The two parties of explorers start off together (about fifteen minutes after the forerunners left) and follow up the tracks of their own Scout. The first patrol to reach the spot where the two are waiting for them -takes possession, the leader sets up his flag and the rest prepare snowballs, after laying down their staves in a circle round the flag at a distance of six paces. When the other party arrive they try to capture the staves ; the defenders are not allowed to touch their staves, but two hits with a snowball on either side put a man out of action. Each defender killed and each staff taken counts one point, and if the rival party gain more than half the possible points, they can claim the discovery of the Pole. Before the defenders can claim undisputed rights they must kill all their rivals, by pursuing them if only one or two are left. (The two forerunners do not take part, but act as umpires.)
+
+**Versión en español:**
+
+**CAZA DEL ZORRO.** Este juego se juega donde hay mucha nieve sin pisar. Dos scouts salen del medio de un campo o de un terreno abierto, y cinco minutos después se larga al resto tras su rastro. Los dos zorros no pueden cruzar ninguna huella humana. Si se acercan a un sendero por donde pasó otra gente, tienen que desviarse en otra dirección; pero pueden caminar por encima de las pircas y usar cualquier otra artimaña que quieran, como pisar uno en las huellas del otro y que después uno salte a un costado apoyándose en el bastón. Para que cuente como victoria, los perseguidores tienen que atrapar a los dos. Los zorros tienen que evitar ser capturados durante una hora y después volver al punto de partida.
+
+**LA CARRERA AL POLO.** Dos grupos rivales de exploradores árticos se acercan al Polo; cada uno mandó adelante a un scout, pero ninguno volvió. Saben en qué dirección salió cada uno porque todavía se ven sus huellas en la nieve. Lo que pasó en realidad es que los dos llegaron al Polo, y cada uno está decidido a sostener su derecho sobre él, así que no se animan a dejar el lugar. Los dos dejaron a propósito buenas huellas y señales para que se los pueda seguir con facilidad si pasaba algo. (Estos dos, uno de cada patrulla, tienen que salir juntos de la sede y después decidir el lugar que será el Polo, y cada uno acercarse a él desde una dirección distinta). Los dos grupos de exploradores salen juntos (unos quince minutos después de que salieron los adelantados) y siguen las huellas de su propio scout. La primera patrulla que llega al lugar donde esperan los dos toma posesión: el guía planta su bandera y el resto prepara bolas de nieve, después de dejar sus bastones en ronda alrededor de la bandera, a seis pasos. Cuando llega el otro grupo, trata de capturar los bastones; los defensores no pueden tocar sus bastones, pero dos bolazos de nieve, de cualquiera de los dos lados, dejan a un hombre fuera de combate. Cada defensor muerto y cada bastón capturado cuenta un punto, y si el grupo rival gana más de la mitad de los puntos posibles, puede adjudicarse el descubrimiento del Polo. Antes de que los defensores puedan reclamar derechos indiscutidos, tienen que matar a todos sus rivales, persiguiéndolos si quedan uno o dos. (Los dos adelantados no participan, sino que hacen de árbitros).
+
+**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juegos 4 y 5. Dominio público. Texto según la transcripción publicada en macscouter.com.
 
 **Traducción:** Fogata de Recursos (2026).
 
