@@ -58,15 +58,14 @@ async function shareActivity() {
         {% else %}
         <div class="hero-category">{{ ((etiquetas or []) | first) or "Actividad" }}</div>
         {% endif %}
-        <h1 class="hero-title">{{ title }}
+        <h1 class="hero-title">{{ title }}</h1>
 {% if version %}
 {% if version | isDraft %}
-<span class="hero-version version-draft" title="Actividad pendiente de revisión manual">BORRADOR</span>
+        <span class="hero-version version-draft" title="Actividad pendiente de revisión manual">Borrador</span>
 {% else %}
-<span class="hero-version">v{{ version }}</span>
+        <span class="hero-version" title="La versión sube cada vez que se modifica el contenido de la ficha. La 1.00 es una ficha completa, revisada y sin permisos pendientes.">Versión {{ version }}</span>
 {% endif %}
 {% endif %}
-</h1>
         <p class="hero-description" data-pagefind-meta="resumen">{{ summary or description }}</p>
 
 <div class="hero-metrics">
@@ -115,6 +114,12 @@ async function shareActivity() {
   </button>
 </div>
 </div>
+  <p class="modo-aviso" data-solo-docente>
+    <span class="material-symbols-outlined" aria-hidden="true">school</span>
+    Vista docente: se ocultan el programa, los valores y el método scout.
+    <a href="?modo=todas" data-modo-salir>Ver la ficha completa</a>
+  </p>
+
   {# ===== LAYOUT DE TRES COLUMNAS ===== #}
 
 
@@ -563,10 +568,10 @@ async function shareActivity() {
       {% if r.pill %}
       <div class="competencias-pills">
         {% for numero in valores %}
-          <span class="competencia-pill {{ r.pill }}" title="{% for comp in (compsRama or []) %}{% if comp.numero == numero %}{{ r.label }} {{ numero }}
+          <a class="competencia-pill {{ r.pill }}" href="{{ ('/programa-scout/#' + r.data + '-' + numero) | url }}" data-rama="{{ r.name }}" title="{% for comp in (compsRama or []) %}{% if comp.numero == numero %}{{ r.label }} {{ numero }}
 {{ r.cat }}: {{ comp.ruta if r.cat == 'Ruta' else comp.categoria }}
 
-{{ comp.descripcion }}{% endif %}{% endfor %}">{{ numero }}</span>
+{{ comp.descripcion }}{% endif %}{% endfor %}">{{ numero }}</a>
         {% endfor %}
       </div>
       {% else %}
@@ -577,11 +582,12 @@ async function shareActivity() {
 </div>
 {% endmacro %}
 
-<div class="info-card">
+<div class="info-card" data-modo-scout>
   <h3>
     <span class="material-symbols-outlined" aria-hidden="true">groups</span>
     Programa Scout
   </h3>
+  <p class="programa-ayuda">Tocá un número para ver qué rastro o competencia es. <a href="{{ '/programa-scout/' | url }}">Ver todos por rama</a>.</p>
 
   <div class="branch-grid">
     {% for r in ramasPropias %}
@@ -605,7 +611,7 @@ async function shareActivity() {
 
 
 {% if scout_method %}
-  <div class="info-card">
+  <div class="info-card" data-modo-scout>
     <h3>
       <span class="material-symbols-outlined" aria-hidden="true">explore</span>
         Método Scout
@@ -621,7 +627,7 @@ async function shareActivity() {
 {% endif %}
 
 {% if scout_values %}
-  <div class="info-card">
+  <div class="info-card" data-modo-scout>
     <h3>
       <span class="material-symbols-outlined" aria-hidden="true">diversity_3</span>
         Valores Scout
@@ -930,3 +936,72 @@ async function shareActivity() {
 </article>
 
 
+
+{# Programa Scout: al tocar un número se abre una tarjetita con el
+   rastro o la competencia (el title sólo se ve con mouse, no en el
+   celular). Sin JavaScript, el número lleva a /programa-scout/. #}
+<div class="competencia-pop" id="competencia-pop" role="dialog" aria-modal="false" hidden>
+  <button type="button" class="competencia-pop-cerrar" aria-label="Cerrar">
+    <span class="material-symbols-outlined" aria-hidden="true">close</span>
+  </button>
+  <p class="competencia-pop-titulo"></p>
+  <p class="competencia-pop-cat"></p>
+  <p class="competencia-pop-texto"></p>
+  <a class="competencia-pop-link" href="">Ver todos los de la rama</a>
+</div>
+<script>
+(function () {
+  var pop = document.getElementById('competencia-pop');
+  if (!pop) return;
+  var titulo = pop.querySelector('.competencia-pop-titulo');
+  var texto = pop.querySelector('.competencia-pop-texto');
+  var cat = pop.querySelector('.competencia-pop-cat');
+  var link = pop.querySelector('.competencia-pop-link');
+  var actual = null;
+
+  function cerrar() {
+    pop.hidden = true;
+    if (actual) actual.setAttribute('aria-expanded', 'false');
+    actual = null;
+  }
+
+  function abrir(pill) {
+    var info = (pill.getAttribute('title') || '').split('\n');
+    titulo.textContent = (pill.dataset.rama ? pill.dataset.rama + ' · ' : '') + (info[0] || '');
+    cat.textContent = (info[1] || '').trim();
+    texto.textContent = info.slice(2).join(' ').replace(/\s+/g, ' ').trim();
+    link.href = pill.href;
+    link.textContent = 'Ver todos los de ' + (pill.dataset.rama || 'la rama');
+    pop.hidden = false;
+    var r = pill.getBoundingClientRect();
+    var ancho = pop.offsetWidth;
+    var x = Math.min(Math.max(8, r.left + window.scrollX), window.scrollX + document.documentElement.clientWidth - ancho - 8);
+    pop.style.left = x + 'px';
+    pop.style.top = (r.bottom + window.scrollY + 6) + 'px';
+    actual = pill;
+    pill.setAttribute('aria-expanded', 'true');
+  }
+
+  document.querySelectorAll('.competencia-pill[href]').forEach(function (pill) {
+    pill.setAttribute('aria-haspopup', 'dialog');
+    pill.setAttribute('aria-expanded', 'false');
+    pill.addEventListener('click', function (e) {
+      if (e.ctrlKey || e.metaKey || e.shiftKey) return;
+      e.preventDefault();
+      if (actual === pill) { cerrar(); return; }
+      abrir(pill);
+    });
+  });
+
+  pop.querySelector('.competencia-pop-cerrar').addEventListener('click', function () {
+    var p = actual; cerrar(); if (p) p.focus();
+  });
+  document.addEventListener('click', function (e) {
+    if (!pop.hidden && !pop.contains(e.target) && !e.target.closest('.competencia-pill')) cerrar();
+  });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !pop.hidden) { var p = actual; cerrar(); if (p) p.focus(); }
+  });
+  window.addEventListener('resize', cerrar);
+})();
+</script>

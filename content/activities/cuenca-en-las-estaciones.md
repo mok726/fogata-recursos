@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Cuenca en las Estaciones"
-duration: "1 año (4 visitas)"
+duration: "1 año"
+duration_detail: "4 visitas a lo largo de un año"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuenca-en-las-estaciones/"
 description: "Visitá estacional a una cuenca de agua para observar los cambios en la vida animal y vegetal a lo largo del año."

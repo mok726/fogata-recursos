@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La Hora del Planeta"
-duration: "1.5 horas (evento)"
+duration: "1.5 horas"
+duration_detail: "1.5 horas (evento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-hora-del-planeta/"
 description: "Participación en el evento mundial de concienciación sobre el cambio climático apagando luces y realizando actividades sin electricidad."

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reciclaje de Papel"
-duration: "2 horas + secado"
+duration: "2 horas"
+duration_detail: "2 horas + tiempo de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-papel-biodiversidad/"
 description: "Fabricación de papel reciclado para entender cómo el reciclaje ayuda a conservar la biodiversidad."
