@@ -46,7 +46,7 @@
        no tiene sentido: la rama ya define la edad. #}
     {% if not (fixed and fixed.filter == "rama") %}
     {% for end in [{ name: "desde", label: "Edad desde" }, { name: "hasta", label: "Edad hasta" }] %}
-    <label data-age-range>
+    <label data-age-range data-modo-docente>
       <span>{{ end.label }}</span>
       <select data-filter="edad-{{ end.name }}" data-attr="agespan" data-range>
         <option value="">Cualquiera</option>
@@ -61,7 +61,7 @@
 
     {{ fixedSelect(fixed, "rama", "Rama") }}
     {% if not (fixed and fixed.filter == "rama") %}
-    <label>
+    <label data-modo-scout>
       <span>Rama</span>
       <select data-filter="rama" data-attr="age" data-multi>
         <option value="">Todas</option>
@@ -120,6 +120,24 @@
     </label>
 
     <label>
+      <span>Orden</span>
+      <select id="acts-sort">
+        <option value="">Relevancia</option>
+        <option value="az">A → Z</option>
+        <option value="za">Z → A</option>
+      </select>
+    </label>
+
+  </div>
+
+  {# Filtros menos usados, plegados para no abrumar. Se abren solos
+     si llega uno aplicado desde un enlace. #}
+  <details class="acts-mas">
+    <summary>Más filtros <span class="acts-mas-badge" hidden></span></summary>
+
+  <div class="acts-filters-grid">
+
+    <label>
       <span>Insignia</span>
       <select data-filter="insignia" data-attr="badges" data-multi>
         <option value="">Todas</option>
@@ -157,7 +175,7 @@
 
     {{ fixedSelect(fixed, "valor", "Valor scout") }}
     {% if not (fixed and fixed.filter == "valor") %}
-    <label>
+    <label data-modo-scout>
       <span>Valor scout</span>
       <select data-filter="valor" data-attr="values" data-multi>
         <option value="">Todos</option>
@@ -170,7 +188,7 @@
 
     {{ fixedSelect(fixed, "metodo", "Método scout") }}
     {% if not (fixed and fixed.filter == "metodo") %}
-    <label>
+    <label data-modo-scout>
       <span>Método scout</span>
       <select data-filter="metodo" data-attr="methods" data-multi>
         <option value="">Todos</option>
@@ -192,16 +210,10 @@
       </select>
     </label>
 
-    <label>
-      <span>Orden</span>
-      <select id="acts-sort">
-        <option value="">Relevancia</option>
-        <option value="az">A → Z</option>
-        <option value="za">Z → A</option>
-      </select>
-    </label>
 
   </div>
+
+  </details>
 
 </details>
 
@@ -213,6 +225,15 @@
   </p>
 
   <div class="acts-chips" id="acts-chips"></div>
+
+  {# Vista: «Docente» oculta rama, valores, método y programa scout;
+     «Scout» oculta la edad suelta (se elige la rama). Va en la URL. #}
+  <div class="acts-modo" role="group" aria-label="Ver como">
+    <span class="acts-modo-label">Ver como</span>
+    <button type="button" data-modo-btn="">Todo</button>
+    <button type="button" data-modo-btn="scout">Scout</button>
+    <button type="button" data-modo-btn="docente">Docente</button>
+  </div>
 
 </div>
 
@@ -367,9 +388,36 @@ function score(item, terms) {
 let shown = PAGE;
 let matches = items;
 
+// Vista docente / scout: la marca está en <html data-modo>
+// (la pone base.njk desde ?modo=). Los filtros que la vista
+// oculta se vacían para que no filtren a escondidas.
+const modoBtns = [...document.querySelectorAll("[data-modo-btn]")];
+const masEl = $(".acts-mas");
+const masBadge = $(".acts-mas-badge");
+const modoActual = () => document.documentElement.getAttribute("data-modo") || "";
+
+function syncModo() {
+  const modo = modoActual();
+  for (const b of modoBtns) b.setAttribute("aria-pressed", String(b.dataset.modoBtn === modo));
+  const oculto = modo === "docente" ? "[data-modo-scout]" : modo === "scout" ? "[data-modo-docente]" : null;
+  if (oculto) {
+    for (const s of selects) if (s.closest(oculto)) s.value = "";
+  }
+}
+
+for (const b of modoBtns) {
+  b.addEventListener("click", () => {
+    if (b.dataset.modoBtn) document.documentElement.setAttribute("data-modo", b.dataset.modoBtn);
+    else document.documentElement.removeAttribute("data-modo");
+    syncModo();
+    run({ keepShown: true });
+  });
+}
+
 function readState() {
   const state = { search: input.value, orden: sortSel.value };
   for (const s of selects) state[s.dataset.filter] = s.value;
+  state.modo = modoActual();
   return state;
 }
 
@@ -477,6 +525,12 @@ function render(state, active) {
   filtersBadge.hidden = !active.length;
   filtersBadge.textContent = active.length;
 
+  if (masBadge) {
+    const mas = active.filter(s => masEl.contains(s)).length;
+    masBadge.hidden = !mas;
+    masBadge.textContent = mas;
+  }
+
 }
 
 function resetAll() {
@@ -510,6 +564,11 @@ for (const s of selects) {
 if (selects.some(s => s.value)) {
   filtersEl.open = true;
 }
+if (masEl && selects.some(s => s.value && masEl.contains(s))) {
+  masEl.open = true;
+}
+
+syncModo();
 
 let timer;
 input.addEventListener("input", () => {

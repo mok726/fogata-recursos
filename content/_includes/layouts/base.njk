@@ -9,6 +9,16 @@
 
   <meta charset="UTF-8">
 
+  {# Vista «docente» o «scout» (?modo=...): oculta lo que a cada uno
+     no le sirve. No se guarda nada: el modo viaja en la dirección
+     y se suma a los enlaces internos al hacer clic. #}
+  <script>
+  (function () {
+    var m = new URLSearchParams(location.search).get('modo');
+    if (m === 'docente' || m === 'scout') document.documentElement.setAttribute('data-modo', m);
+  })();
+  </script>
+
   <meta
     name="viewport"
     content="width=device-width, initial-scale=1.0">
@@ -303,6 +313,25 @@ put this inside the body
       document.body.focus({ preventScroll: true });
       document.body.removeAttribute('tabindex');
     });
+  })();
+  </script>
+
+  <script>
+  (function () {
+    function sumarModo(e) {
+      var modo = document.documentElement.getAttribute('data-modo');
+      if (!modo) return;
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a || a.hasAttribute('data-modo-salir')) return;
+      var url;
+      try { url = new URL(a.href, location.href); } catch (err) { return; }
+      if (url.origin !== location.origin || url.searchParams.has('modo')) return;
+      if (url.pathname === location.pathname && url.hash && !url.search) return;
+      url.searchParams.set('modo', modo);
+      a.href = url.toString();
+    }
+    document.addEventListener('mousedown', sumarModo, true);
+    document.addEventListener('click', sumarModo, true);
   })();
   </script>
 

@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "El Pueblo Originario de Mi Región"
-duration: "Dos reuniones de 1 hora 30 minutos"
+duration: "2 reuniones"
+duration_detail: "Dos reuniones de 1 hora 30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-pueblo-originario-de-mi-region/"
 description: "La patrulla investiga qué pueblo o pueblos originarios habitaban la zona, cómo vivían, qué nombres y palabras dejaron y cómo viven hoy sus comunidades, y lo presenta al Grupo."

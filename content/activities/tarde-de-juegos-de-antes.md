@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Tarde de Juegos de Antes"
-duration: "Dos reuniones: 1 hora (preparación) + 2 horas (la tarde)"
+duration: "2 reuniones"
+duration_detail: "Dos reuniones: 1 hora (preparación) + 2 horas (la tarde)"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarde-de-juegos-de-antes/"
 description: "Los chicos entrevistan a abuelos y familiares sobre los juegos de su infancia y después organizan una tarde en el local para jugarlos todos juntos."

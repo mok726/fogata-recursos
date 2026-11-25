@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reseña de Libro"
-duration: "2 horas + lectura"
+duration: "2 horas"
+duration_detail: "2 horas + tiempo de lectura previo"
 layout: "layouts/activity.njk"
 permalink: "/activities/resena-de-libro-polinizadores/"
 description: "Lectura y análisis de un libro sobre polinizadores para compartir aprendizajes con el grupo."
