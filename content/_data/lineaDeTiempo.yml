@@ -15,24 +15,96 @@
 #
 # El orden no importa: se ordenan por fecha al construir el sitio.
 
-# ========== ANTES DEL REPO (completar) ==========
+# ========== ANTES DEL SITIO ==========
+# Fechas aproximadas: sirven para contar la historia, no son exactas.
 
-- fecha: "aprox. 2013"
-  titulo: "Primera actividad propia: La Basura en Su Lugar"
-  texto: "Las actividades se documentan en mensajes y documentos sueltos para compartir con el equipo de dirigentes de la Manada."
+- fecha: "2021"
+  titulo: "Empiezo en la Manada"
+  texto: "Tengo poca idea de actividades y la experiencia universitaria no se adapta al mundo scout. Google trae cientos de resultados: muchos ya no existen, otros piden suscribirse, y lo útil es difícil de encontrar. Y lo peor: «el otro día vi la actividad ideal… ¿dónde era?»."
   tipo: inicio
-  enlace: "/activities/la-basura-en-su-lugar/"
 
-# ========== 2026 ==========
+- fecha: "2022-01"
+  titulo: "El acumulador"
+  texto: "Empiezo a juntar todo: PDFs, páginas guardadas, archivos de texto con ideas copiadas de internet, de WhatsApp o de lo que veo hacer en encuentros. Un índice local me ayuda a encontrar el archivo, pero después hay que abrirlo y buscar a mano."
+  tipo: inicio
 
-- fecha: "aprox. 2026-04"
-  titulo: "Trabajo local previo"
-  texto: "El sitio se arma en mi máquina antes de subirlo a GitHub."
+- fecha: "2022-06"
+  titulo: "Primer formato estándar: planillas CSV"
+  texto: "Empiezo con 5 columnas y termino con 12. Primero copio a mano a Excel; después escribo scripts en PowerShell que parsean los textos y los ubican en cada campo. El resto del año se va en estandarizar."
   tipo: sitio
 
+- fecha: "2022-09"
+  titulo: "Scripts de búsqueda"
+  texto: "PowerShell, después bash y después Python, para buscar mejor y arreglar los errores que voy descubriendo."
+  tipo: sitio
+
+- fecha: "2022-11"
+  titulo: "El formato de Champions for Nature"
+  texto: "Encuentro el Action Kit de Champions for Nature y me encanta su formato. Lo tomo como base para mis fichas."
+  tipo: fuente
+  enlace: "https://scouts.com.au/wp-content/uploads/2020/10/Champions-for-Nature-Challenge_Action.kit_WEB_0.pdf"
+
+- fecha: "2023-01"
+  titulo: "La Manada elige Go Solar"
+  texto: "La Manada decide hacer actividades de naturaleza y el primer programa elegido es Go Solar."
+  tipo: fuente
+
+- fecha: "2023-03"
+  titulo: "Fichas lindas: CSV → Word → PDF"
+  texto: "Recreo el formato en Word y uso la combinación de correspondencia para convertir cada ficha del CSV en un PDF. Lleva bastante trabajo manual, pero el resultado es hermoso."
+  tipo: sitio
+
+- fecha: "2023-06"
+  titulo: "Dos desafíos a la vez"
+  texto: "La Manada pide más naturaleza y elige hacer Campeones de la Naturaleza y Plastic Tide Turners al mismo tiempo. Como no había plan de actividades en el país, armamos uno para cada desafío con mis fichas, el logo de la Manada y los datos del Grupo."
+  tipo: fuente
+
+- fecha: "2023-07"
+  titulo: "Primeras actividades propias"
+  texto: "Para que la Manada complete Campeones de la Naturaleza y Plastic Tide Turners creo o adapto mis primeros talleres: La Basura en Su Lugar, Tejido de Papel y de Plástico, Botella de Amor, Huerta de Botella, Macetas y Germinadoras, Leños Ecológicos y Papel Ecológico."
+  tipo: inicio
+  enlace: "/badges/general/"
+
+- fecha: "2023-10"
+  titulo: "Tres programas completos"
+  texto: "En unos meses la Manada completa los tres. Me convence de seguir documentando en el formato estándar: sirve para trabajar y para que los chicos elijan actividades."
+  tipo: inicio
+
+- fecha: "2024-01"
+  titulo: "Todo al español"
+  texto: "Muchísimas actividades estaban en inglés y no las podía compartir. Busco versiones en español o traduzco, primero a lo bruto (cantidad antes que calidad) y después depurando. La traducción va al CSV; el PDF lindo se regenera cuando hace falta."
+  tipo: fuente
+
+- fecha: "2024-07"
+  titulo: "Lindo o buscable"
+  texto: "El formato lindo pierde las búsquedas: busco con los scripts sobre el CSV y comparto los PDF. Sí, es un engendro, pero funciona."
+  tipo: otro
+
+- fecha: "2025-02"
+  titulo: "La idea de un sitio web"
+  texto: "Pienso en un programa que guarde, busque y muestre las fichas, pero quiero poder compartirlas sin generar un PDF cada vez. Mejor una página web: gratis, sin publicidad ni seguimiento, apta para celular, para chicos y para docentes, sencilla y con espíritu scout."
+  tipo: sitio
+
+- fecha: "2025-05"
+  titulo: "RE-PO-D-Phi-Chas"
+  texto: "Primeras versiones en HTML de mi «repositorio de fichas» (así se llamaba en mi cabeza; sin comentarios). La idea era hostear páginas estáticas en Azure y listo."
+  tipo: sitio
+
+- fecha: "2025-10"
+  titulo: "Eleventy y Markdown"
+  texto: "Después de mucho pelear, investigar y aprender, descubro opciones mejores: Nunjucks + Eleventy, con las fichas pasadas de CSV a archivos .md."
+  tipo: sitio
+
+- fecha: "2026-04"
+  titulo: "Algo no tan feo"
+  texto: "Las primeras versiones presentables, todavía en mi máquina."
+  tipo: sitio
+
+# ========== EL SITIO ==========
+
 - fecha: "2026-05-21"
-  titulo: "Nace el sitio"
-  texto: "Primer commit del sitio en Eleventy, con la carga inicial de fichas de YUNGA y Go Solar ya pasadas a un formato común."
+  titulo: "Nace el sitio en GitHub Pages"
+  texto: "Descubro que puedo publicarlo gratis en GitHub Pages, con más opciones de las que había soñado. Arranco con unas 100 fichas (otro script, de CSV a .md) para probar; después se van intercalando mejoras del sitio con más insignias."
   tipo: sitio
 
 - fecha: "2026-05-28"
@@ -49,19 +121,14 @@
   texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea."
   tipo: sitio
 
-- fecha: "2026-07-04"
-  titulo: "Llegan los programas de la OMMS"
-  texto: "Planeta Sano (Plastic Tide Turners) y Campeones de la Naturaleza."
-  tipo: fuente
-
 - fecha: "2026-10-25"
   titulo: "Gran puesta a punto"
   texto: "Buscador y filtros nuevos, imágenes livianas, publicación automática y rediseño de la portada y del listado de actividades."
   tipo: sitio
 
 - fecha: "2026-10-26"
-  titulo: "Licencias abiertas"
-  texto: "El contenido pasa a CC BY-NC-SA 4.0 (salvo fuentes más restrictivas) y el código a MIT."
+  titulo: "Licencias y permisos"
+  texto: "Al revisar con más cuidado veo que no todo es libre: varias fuentes no permiten publicar sin autorización. Escribo a los titulares pidiendo permiso, dejo en espera lo no autorizado y me enfoco en lo que es de dominio público o tiene licencias abiertas. El contenido propio va con CC BY-NC-SA 4.0 y el código con MIT."
   tipo: licencia
   enlace: "/licencia/"
 
