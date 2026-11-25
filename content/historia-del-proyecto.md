@@ -36,7 +36,7 @@ En abril de 2026 el proyecto alcanzó una etapa suficientemente estable para ser
 
 La migración a GitHub permitió simplificar el mantenimiento, automatizar procesos y ofrecer acceso libre al contenido.
 
-Desde entonces el proyecto continúa creciendo y evolucionando.
+Desde entonces el proyecto continúa creciendo y evolucionando. Los hitos, fecha por fecha, están en la [línea de tiempo](../linea-de-tiempo/).
 
 ## Una biblioteca en construcción
 

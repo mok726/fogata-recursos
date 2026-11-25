@@ -1,0 +1,129 @@
+# Hitos de la línea de tiempo (/linea-de-tiempo/) cargados a mano.
+#
+# Las insignias nuevas, las tandas grandes de fichas y las cantidades
+# redondas de fichas publicadas se agregan SOLAS desde el historial de
+# git en cada build: no hace falta cargarlas acá.
+#
+# Cada hito:
+#   - fecha: "2019-03-15"   # vale "2019", "2019-03", "2019-03-15" o texto
+#                           # libre como "aprox. 2015" (se ordena por el año)
+#     titulo: "Título corto"
+#     texto: "Una o dos líneas (opcional)."
+#     tipo: inicio          # inicio, fuente, sitio, insignia, permiso,
+#                           # licencia, redes, otro (define el ícono)
+#     enlace: "/acerca-de/" # opcional: ruta del sitio o URL completa
+#
+# El orden no importa: se ordenan por fecha al construir el sitio.
+
+# ========== ANTES DEL REPO (completar) ==========
+
+- fecha: "aprox. 2015"
+  titulo: "Primeras actividades para la Manada"
+  texto: "Actividades documentadas en mensajes y documentos sueltos para compartir con el equipo de dirigentes. (Fecha a confirmar)"
+  tipo: inicio
+
+# ========== 2026 ==========
+
+- fecha: "2026-05-21"
+  titulo: "Nace el sitio"
+  texto: "Primer commit del sitio en Eleventy, con la carga inicial de fichas de YUNGA y Go Solar ya pasadas a un formato común."
+  tipo: sitio
+
+- fecha: "2026-05-28"
+  titulo: "Sitemap, página 404 y vista previa para compartir"
+  tipo: sitio
+
+- fecha: "2026-06-18"
+  titulo: "Clasificación educativa"
+  texto: "Las fichas suman competencias, método scout, valores y tipos de actividad."
+  tipo: sitio
+
+- fecha: "2026-06-22"
+  titulo: "Versión imprimible con QR"
+  texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea."
+  tipo: sitio
+
+- fecha: "2026-07-04"
+  titulo: "Llegan los programas de la OMMS"
+  texto: "Planeta Sano (Plastic Tide Turners) y Campeones de la Naturaleza."
+  tipo: fuente
+
+- fecha: "2026-10-25"
+  titulo: "Gran puesta a punto"
+  texto: "Buscador y filtros nuevos, imágenes livianas, publicación automática y rediseño de la portada y del listado de actividades."
+  tipo: sitio
+
+- fecha: "2026-10-26"
+  titulo: "Licencias abiertas"
+  texto: "El contenido pasa a CC BY-NC-SA 4.0 (salvo fuentes más restrictivas) y el código a MIT."
+  tipo: licencia
+  enlace: "/licencia/"
+
+- fecha: "2026-10-29"
+  titulo: "Homenaje a Baden-Powell"
+  texto: "Empiezan las fichas basadas en Scouting for Boys. El 1/11 se completa el libro y se suma el Wolf Cub's Handbook para la Manada."
+  tipo: fuente
+
+- fecha: "2026-11-03"
+  titulo: "Técnica Scout"
+  texto: "Fichas de técnica tomadas de manuales clásicos (1911–1920)."
+  tipo: fuente
+
+- fecha: "2026-11-05"
+  titulo: "Actividad del día en redes"
+  texto: "Cada mañana se elige una actividad y se anuncia en Telegram, Facebook e Instagram."
+  tipo: redes
+
+- fecha: "2026-11-06"
+  titulo: "Primera actividad propia: Carrera de Polinizadores"
+  tipo: inicio
+
+- fecha: "2026-11-06"
+  titulo: "Taxonomías propias y política editorial"
+  texto: "Habilidades, valores, método y tipos de actividad con definiciones y criterios. Entre el 6 y el 10/11 se revisan ficha por ficha."
+  tipo: sitio
+  enlace: "/politica-editorial/"
+
+- fecha: "2026-11-09"
+  titulo: "Primer permiso: Solafrica"
+  texto: "Solafrica autoriza publicar el material de Go Solar."
+  tipo: permiso
+
+- fecha: "2026-11-10"
+  titulo: "Llega Scouts de España"
+  texto: "Primeras colecciones de ASDE: Salud y TIC, Medio Ambiente y Espiritualidad, Aprendiendo a Ser y Coeducación."
+  tipo: fuente
+
+- fecha: "2026-11-13"
+  titulo: "Buscador por autor y fuente"
+  tipo: sitio
+
+- fecha: "2026-11-18"
+  titulo: "Permiso de Manos Unidas"
+  texto: "Manos Unidas autoriza publicar su material; nace su colección."
+  tipo: permiso
+
+- fecha: "2026-11-19"
+  titulo: "Aviso sobre el uso de inteligencia artificial"
+  tipo: otro
+  enlace: "/aviso-legal/#uso-de-inteligencia-artificial"
+
+- fecha: "2026-11-21"
+  titulo: "Material de apoyo y Tradiciones Argentinas"
+  texto: "Nueva sección con leyendas, cuentos y coplas, y la primera insignia propia sobre cultura argentina."
+  tipo: insignia
+  enlace: "/material/"
+
+- fecha: "2026-11-22"
+  titulo: "Se suma el movimiento guía"
+  texto: "El sitio nombra a guías y guiadoras junto a los scouts."
+  tipo: otro
+
+- fecha: "2026-11-23"
+  titulo: "Dominio propio: fogata.com.ar"
+  tipo: sitio
+
+- fecha: "2026-11-24"
+  titulo: "Actividades de día y de noche, adentro y afuera"
+  texto: "Filtros nuevos por momento y lugar, y juegos nocturnos propios."
+  tipo: sitio

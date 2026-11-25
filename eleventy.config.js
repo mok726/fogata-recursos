@@ -1000,6 +1000,12 @@ eleventyConfig.addFilter(
 );
 
 
+// Línea de tiempo del proyecto: hitos manuales (_data/lineaDeTiempo.yml)
+// + insignias, tandas de fichas y marcas sacadas del historial git.
+eleventyConfig.addGlobalData("lineaDeTiempoGrupos", () =>
+  require("./lib/linea-de-tiempo.js").lineaDeTiempo(require("./content/_data/badges.js")())
+);
+
 eleventyConfig.addGlobalData("buildDate", () => {
   return new Date();
 });
