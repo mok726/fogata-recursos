@@ -708,11 +708,20 @@ body:has(.acts) {
 
 /* ---------- VER COMO: TODO / SCOUT / DOCENTE ---------- */
 
+/* Va dentro de la caja de filtros, en el renglón de «Filtros»
+   (fuera del <details> para que se vea con la caja cerrada). */
+.acts-filtros-caja { position: relative; margin-top: 1.8rem; }
+.acts-filtros-caja > .acts-filters { margin-top: 0; }
+
+.acts-filtros-caja .acts-filters > summary { min-height: 2.3rem; }
+
 .acts-modo {
+  position: absolute;
+  top: .7rem;
+  right: 1rem;
   display: inline-flex;
   align-items: center;
   gap: .25rem;
-  margin-left: auto;
   padding: .2rem;
   border: 2px solid var(--fogata-paper-dark);
   border-radius: 999px;
@@ -750,4 +759,10 @@ body:has(.acts) {
 .acts-modo button:focus-visible {
   outline: 3px solid var(--fogata-fire);
   outline-offset: 1px;
+}
+
+@media (max-width: 560px) {
+  .acts-modo { right: .6rem; gap: .1rem; }
+  .acts-modo-label { display: none; }
+  .acts-modo button { padding: .3rem .6rem; font-size: .85rem; }
 }
