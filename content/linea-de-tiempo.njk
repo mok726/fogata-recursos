@@ -36,7 +36,7 @@ styles:
       <li class="ldt-hito ldt-{{ h.tipo }}{% if h.auto %} ldt-auto{% endif %}">
         <span class="ldt-icono material-symbols-outlined" aria-hidden="true">{{ iconos[h.tipo] or "flag" }}</span>
         <div class="ldt-cuerpo">
-          {% if h.fechaLegible %}<time class="ldt-fecha"{% if h.clave.slice(5) != "00-00" %} datetime="{{ h.fecha }}"{% endif %}>{{ h.fechaLegible }}</time>{% endif %}
+          {% if h.fechaLegible %}<time class="ldt-fecha"{% if h.datetime %} datetime="{{ h.datetime }}"{% endif %}>{{ h.fechaLegible }}</time>{% endif %}
           <h3 class="ldt-titulo">
             {% if h.enlace %}<a href="{{ h.enlace if h.enlace.startsWith('http') else (h.enlace | url) }}">{{ h.titulo }}</a>{% else %}{{ h.titulo }}{% endif %}
           </h3>

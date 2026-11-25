@@ -32,7 +32,7 @@ Más adelante llegaron las herramientas de inteligencia artificial, que ayudaron
 
 ## Publicación
 
-En abril de 2026 el proyecto alcanzó una etapa suficientemente estable para ser publicado como sitio web.
+Después de unos meses de trabajo en mi máquina, en mayo de 2026 el proyecto alcanzó una etapa suficientemente estable para ser publicado como sitio web.
 
 La migración a GitHub permitió simplificar el mantenimiento, automatizar procesos y ofrecer acceso libre al contenido.
 

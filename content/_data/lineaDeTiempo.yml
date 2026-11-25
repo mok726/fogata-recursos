@@ -25,6 +25,11 @@
 
 # ========== 2026 ==========
 
+- fecha: "aprox. 2026-04"
+  titulo: "Trabajo local previo"
+  texto: "El sitio se arma en mi máquina antes de subirlo a GitHub."
+  tipo: sitio
+
 - fecha: "2026-05-21"
   titulo: "Nace el sitio"
   texto: "Primer commit del sitio en Eleventy, con la carga inicial de fichas de YUNGA y Go Solar ya pasadas a un formato común."
