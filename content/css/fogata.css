@@ -128,3 +128,87 @@ html[data-modo="docente"] .modo-aviso[data-solo-docente] {
   font-size: .9rem;
 }
 .modo-aviso a { color: var(--fogata-fire-dark); font-weight: 600; }
+/* ---------- MI MOCHILA (js/mochila.js) ---------- */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  margin: -1px; padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.navbar-mochila { position: relative; }
+.navbar-mochila-cuenta {
+  position: absolute;
+  top: 0;
+  right: -2px;
+  min-width: 1.1rem;
+  padding: 0 .25rem;
+  border-radius: 999px;
+  background: var(--fogata-fire);
+  color: white;
+  font-size: .68rem;
+  font-weight: 700;
+  line-height: 1.1rem;
+  text-align: center;
+}
+.navbar-mochila-cuenta[hidden] { display: none; }
+
+.mochila-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  border: 1px solid var(--fogata-paper-dark);
+  background: white;
+  color: var(--fogata-forest);
+  font: inherit;
+  cursor: pointer;
+}
+.mochila-btn:hover { border-color: var(--fogata-forest); }
+.mochila-btn:focus-visible { outline: 3px solid var(--fogata-fire); outline-offset: 2px; }
+.mochila-btn[aria-pressed="true"] {
+  background: var(--fogata-forest);
+  border-color: var(--fogata-forest);
+  color: white;
+}
+.mochila-btn .material-symbols-outlined { font-size: 1.2rem; }
+
+.activity-actions { flex-wrap: wrap; justify-content: flex-end; }
+.mochila-btn-ficha {
+  white-space: nowrap;
+  padding: .35rem .9rem;
+  border-radius: 30px;
+  font-size: .9rem;
+  font-weight: 600;
+}
+
+.mochila-btn-card {
+  flex: 0 0 auto;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border-radius: 50%;
+}
+
+.mochila-aviso {
+  position: fixed;
+  left: 50%;
+  bottom: 1.25rem;
+  transform: translateX(-50%);
+  z-index: 2000;
+  max-width: min(480px, calc(100vw - 32px));
+  padding: .75rem 1rem;
+  border-radius: 12px;
+  background: var(--fogata-ink);
+  color: white;
+  font-size: .9rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .25);
+}
+.mochila-aviso[hidden] { display: none; }
+
+@media print {
+  .mochila-btn, .navbar-mochila { display: none !important; }
+}

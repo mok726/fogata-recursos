@@ -82,6 +82,15 @@
   <div class="navbar-right">
 
     <a
+      class="navbar-icon-button navbar-mochila"
+      href="{{ '/mi-mochila/' | url }}"
+      title="Mi mochila: las actividades que guardaste"
+      aria-label="Mi mochila">
+      <span class="material-symbols-outlined" aria-hidden="true">backpack</span>
+      <span class="navbar-mochila-cuenta" data-mochila-cuenta hidden></span>
+    </a>
+
+    <a
       class="navbar-icon-button"
       href="{{ '/activities/' | url }}"
       title="Buscar"

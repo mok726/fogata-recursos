@@ -1,0 +1,220 @@
+---
+title: Mi Mochila
+description: "Las actividades que guardaste para tu próxima reunión o clase. La lista vive solo en tu navegador."
+layout: layouts/base.njk
+permalink: /mi-mochila/
+noindex: true
+nosearch: true
+eleventyExcludeFromCollections: true
+styles:
+  - /css/mi-mochila.css
+---
+{# La lista la arma js/mochila.js desde el almacenamiento local del
+   navegador. Esta página no tiene datos propios. #}
+<section class="mm">
+
+  <header class="mm-header">
+    <h1>
+      <span class="material-symbols-outlined" aria-hidden="true">backpack</span>
+      Mi Mochila
+    </h1>
+    <p>Las actividades que guardaste para tu próxima reunión o clase. Ordenalas, anotá lo que necesites e imprimí el plan.</p>
+  </header>
+
+  <aside class="mm-privacidad">
+    <span class="material-symbols-outlined" aria-hidden="true">lock</span>
+    <p><strong>Esta lista vive solo en tu navegador.</strong> Se guarda en el almacenamiento local de este dispositivo y no se manda a ningún lado: Fogata de Recursos no tiene servidor, cuentas ni forma de ver o acceder a lo que guardás acá. Por lo mismo, no aparece en otro navegador o dispositivo, y se borra si limpiás los datos del sitio. Más detalles en <a href="{{ '/privacidad/' | url }}">Privacidad</a>.</p>
+  </aside>
+
+  <div class="mm-vacia" id="mm-vacia" hidden>
+    <span class="material-symbols-outlined" aria-hidden="true">backpack</span>
+    <h2>Tu mochila está vacía</h2>
+    <p>En cada actividad vas a encontrar el botón <strong>«Guardar en mi mochila»</strong>, y en las tarjetas del listado, el ícono de la mochila.</p>
+    <a class="mm-btn mm-btn-primario" href="{{ '/activities/' | url }}">Buscar actividades</a>
+  </div>
+
+  <div class="mm-contenido" id="mm-contenido" hidden>
+
+    <div class="mm-resumen">
+      <p id="mm-total" aria-live="polite"></p>
+      <div class="mm-acciones">
+        <button type="button" class="mm-btn mm-btn-primario" id="mm-imprimir">
+          <span class="material-symbols-outlined" aria-hidden="true">print</span> Imprimir el plan
+        </button>
+        <button type="button" class="mm-btn" id="mm-vaciar">
+          <span class="material-symbols-outlined" aria-hidden="true">delete</span> <span>Vaciar la mochila</span>
+        </button>
+      </div>
+    </div>
+
+    <ol class="mm-lista" id="mm-lista"></ol>
+
+    <label class="mm-notas">
+      <span>Notas para la reunión</span>
+      <textarea id="mm-notas" rows="5" placeholder="Fecha, lugar, materiales a conseguir, quién se encarga de qué…"></textarea>
+      <small>Las notas también quedan solo en tu navegador.</small>
+    </label>
+    <div class="mm-notas-print" id="mm-notas-print" aria-hidden="true"></div>
+
+  </div>
+
+  <noscript>
+    <p class="mm-noscript">La mochila necesita JavaScript para funcionar.</p>
+  </noscript>
+
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  var M = window.FogataMochila;
+  if (!M) return;
+
+  var NOTAS = "fogata-mochila-notas";
+  var lista = document.getElementById("mm-lista");
+  var vacia = document.getElementById("mm-vacia");
+  var contenido = document.getElementById("mm-contenido");
+  var total = document.getElementById("mm-total");
+  var notas = document.getElementById("mm-notas");
+  var vaciar = document.getElementById("mm-vaciar");
+
+  // Minutos de una duración ("45 minutos", "1.5 horas", "1-2 h");
+  // null si no se puede calcular (días, proyectos, variable).
+  function minutos(d) {
+    d = String(d || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+    if (!d || /dia|semana|mes|\bano\b|jornada|reuniones|proyecto|campamento|variable|curso/.test(d)) return null;
+    var num = function (s) { return parseFloat(s.replace(",", ".")); };
+    var h = d.match(/(\d+(?:[.,]\d+)?)(?:\s*(?:-|a)\s*(\d+(?:[.,]\d+)?))?\s*h/);
+    var m = d.match(/(\d+)(?:\s*(?:-|a)\s*(\d+))?\s*(?:min|')/);
+    var hs = h ? num(h[2] || h[1]) * 60 : 0;
+    var ms = m ? num(m[2] || m[1]) : 0;
+    // "1 hora 30 minutos", "1 h 10 min": se suman; si no, vale la mayor unidad.
+    if (h && m && /\d\s*h[a-z]*\s*(?:y\s*)?\d+\s*min/.test(d)) return hs + ms;
+    var t = hs || ms;
+    return t || null;
+  }
+
+  function formato(min) {
+    var h = Math.floor(min / 60), m = Math.round(min % 60);
+    return (h ? h + " h" : "") + (h && m ? " " : "") + (m ? m + " min" : "");
+  }
+
+  function boton(icono, texto, accion, deshabilitado) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.className = "mm-icono";
+    b.title = texto;
+    b.setAttribute("aria-label", texto);
+    b.dataset.accion = accion;
+    b.disabled = !!deshabilitado;
+    b.innerHTML = '<span class="material-symbols-outlined" aria-hidden="true"></span>';
+    b.firstChild.textContent = icono;
+    return b;
+  }
+
+  function render(items) {
+    vacia.hidden = items.length > 0;
+    contenido.hidden = items.length === 0;
+    lista.replaceChildren();
+
+    var suma = 0, sinDato = 0;
+
+    items.forEach(function (it, i) {
+      var li = document.createElement("li");
+      li.className = "mm-item";
+      li.dataset.i = i;
+
+      var img = document.createElement("img");
+      img.src = it.img || "";
+      img.alt = "";
+      img.loading = "lazy";
+      img.className = "mm-img";
+
+      var info = document.createElement("div");
+      info.className = "mm-info";
+      var a = document.createElement("a");
+      a.href = it.url;
+      a.textContent = it.titulo || it.url;
+      a.className = "mm-titulo";
+      var meta = document.createElement("p");
+      meta.className = "mm-meta";
+      meta.textContent = [it.tipo, it.dur].filter(Boolean).join(" · ");
+      info.append(a, meta);
+
+      var acc = document.createElement("div");
+      acc.className = "mm-item-acciones";
+      acc.append(
+        boton("arrow_upward", "Subir", "subir", i === 0),
+        boton("arrow_downward", "Bajar", "bajar", i === items.length - 1),
+        boton("close", "Sacar de la mochila", "sacar")
+      );
+
+      li.append(img, info, acc);
+      lista.append(li);
+
+      var m = minutos(it.dur);
+      if (m) suma += m; else sinDato++;
+    });
+
+    var n = items.length;
+    total.textContent =
+      n + (n === 1 ? " actividad" : " actividades") +
+      (suma ? " · unos " + formato(suma) + " en total" : "") +
+      (sinDato && suma ? " (sin contar " + sinDato + (sinDato === 1 ? " de duración variable o larga)" : " de duración variable o larga)") : "");
+  }
+
+  lista.addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-accion]");
+    if (!b) return;
+    var items = M.leer();
+    var i = Number(b.closest("li").dataset.i);
+    if (b.dataset.accion === "sacar") items.splice(i, 1);
+    else {
+      var j = b.dataset.accion === "subir" ? i - 1 : i + 1;
+      if (j < 0 || j >= items.length) return;
+      var tmp = items[i]; items[i] = items[j]; items[j] = tmp;
+    }
+    M.guardar(items);
+    var foco = lista.querySelector('li[data-i="' + (b.dataset.accion === "sacar" ? Math.min(i, items.length - 1) : (b.dataset.accion === "subir" ? i - 1 : i + 1)) + '"] button[data-accion="' + (b.dataset.accion === "sacar" ? "sacar" : b.dataset.accion) + '"]');
+    if (foco && !foco.disabled) foco.focus();
+  });
+
+  // Vaciar: pide un segundo clic en vez de un diálogo.
+  var confirmando = null;
+  vaciar.addEventListener("click", function () {
+    var txt = vaciar.lastElementChild;
+    if (!confirmando) {
+      txt.textContent = "¿Seguro? Tocá de nuevo";
+      vaciar.classList.add("mm-btn-alerta");
+      confirmando = setTimeout(function () {
+        confirmando = null;
+        txt.textContent = "Vaciar la mochila";
+        vaciar.classList.remove("mm-btn-alerta");
+      }, 4000);
+      return;
+    }
+    clearTimeout(confirmando);
+    confirmando = null;
+    txt.textContent = "Vaciar la mochila";
+    vaciar.classList.remove("mm-btn-alerta");
+    M.guardar([]);
+  });
+
+  document.getElementById("mm-imprimir").addEventListener("click", function () { window.print(); });
+
+  var notasPrint = document.getElementById("mm-notas-print");
+  try { notas.value = localStorage.getItem(NOTAS) || ""; } catch (e) {}
+  notasPrint.textContent = notas.value;
+  notas.addEventListener("input", function () {
+    notasPrint.textContent = notas.value;
+    try {
+      if (notas.value.trim()) localStorage.setItem(NOTAS, notas.value);
+      else localStorage.removeItem(NOTAS);
+    } catch (e) {}
+  });
+
+  M.alCambiar(render);
+  render(M.leer());
+
+});
+</script>
