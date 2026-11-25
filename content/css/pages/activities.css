@@ -715,6 +715,9 @@ body:has(.acts) {
 
 .acts-filtros-caja .acts-filters > summary { min-height: 2.3rem; }
 
+/* Solo con la caja abierta. */
+.acts-filters:not([open]) ~ .acts-modo { display: none; }
+
 .acts-modo {
   position: absolute;
   top: .7rem;
