@@ -1432,7 +1432,7 @@ else {
         return "";
       }
 
-      if (/dia|semana|mes|proyecto|campamento/.test(d)) {
+      if (/dia|semana|mes|\bano\b|jornada|reuniones|proyecto|campamento/.test(d)) {
         return "larga";
       }
 

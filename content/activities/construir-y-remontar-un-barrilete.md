@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Construir y Remontar un Barrilete"
-duration: "2 horas (construcción) + 1 hora (remontar)"
+duration: "3 horas"
+duration_detail: "2 horas (construcción) + 1 hora (remontar)"
 layout: "layouts/activity.njk"
 permalink: "/activities/construir-y-remontar-un-barrilete/"
 description: "Construcción del barrilete hexagonal tradicional con cañas o varillas, papel y engrudo, y una salida para remontarlo con viento."

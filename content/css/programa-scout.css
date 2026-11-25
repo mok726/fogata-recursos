@@ -1,0 +1,123 @@
+/* /programa-scout/: rastros y competencias por rama. */
+
+.ps {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+  color: var(--fogata-ink);
+}
+
+.ps-header h1 {
+  font-family: var(--fogata-display);
+  color: var(--fogata-forest);
+  font-size: clamp(2rem, 6vw, 3rem);
+  margin: 0 0 .5rem;
+}
+
+.ps-header p {
+  max-width: 65ch;
+  line-height: 1.55;
+}
+
+.ps-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: 1.25rem 0 0;
+}
+
+.ps-nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .35rem .8rem .35rem .4rem;
+  border-radius: 999px;
+  background: var(--fogata-card);
+  border: 1px solid var(--fogata-paper-dark);
+  color: var(--fogata-forest);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.ps-nav a:hover,
+.ps-nav a:focus-visible { border-color: var(--fogata-fire); }
+
+.ps-rama {
+  margin-top: 2.5rem;
+  scroll-margin-top: 5rem;
+}
+
+.ps-rama h2 {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  font-family: var(--fogata-slab);
+  color: var(--fogata-forest);
+  border-bottom: 2px solid var(--fogata-paper-dark);
+  padding-bottom: .4rem;
+}
+
+.ps-sub {
+  font-weight: 400;
+  color: var(--fogata-muted);
+  font-size: .8em;
+}
+
+.ps-rama h3 {
+  font-family: var(--fogata-slab);
+  font-size: 1.05rem;
+  color: var(--fogata-fire-dark);
+  margin: 1.5rem 0 .5rem;
+}
+
+.ps-lista {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: .4rem;
+}
+
+.ps-item {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+  padding: .55rem .75rem;
+  background: var(--fogata-card);
+  border-radius: 10px;
+  border: 1px solid transparent;
+  scroll-margin-top: 5rem;
+  line-height: 1.4;
+}
+
+/* El ítem al que se llegó desde una ficha. */
+.ps-item:target {
+  border-color: var(--fogata-fire);
+  box-shadow: 0 0 0 3px rgba(232, 115, 44, .2);
+}
+
+.ps-item .competencia-pill {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 999px;
+  font-size: .8rem;
+  font-weight: 700;
+  color: white;
+}
+
+.ps-icono {
+  flex: 0 0 auto;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+}
+
+/* Mismos colores que en la ficha (pages/activity.css). */
+.competencia-pill.lobatos    { background: #b2a400; }
+.competencia-pill.scouts     { background: #3b82f6; }
+.competencia-pill.caminantes { background: #22c55e; }
+.competencia-pill.rovers     { background: #ef4444; }

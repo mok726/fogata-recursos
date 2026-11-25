@@ -109,6 +109,25 @@ body > footer {
 .volver-arriba .material-symbols-outlined { font-size: 1.6rem; }
 @media print { .volver-arriba { display: none; } }
 
+/* ---------- VISTA DOCENTE / SCOUT (?modo=) ---------- */
+html[data-modo="docente"] [data-modo-scout],
+html[data-modo="scout"] [data-modo-docente] { display: none !important; }
+
+.modo-aviso { display: none; }
+html[data-modo="docente"] .modo-aviso[data-solo-docente] {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4rem;
+  margin: .5rem 0 1rem;
+  padding: .6rem .9rem;
+  border-radius: 12px;
+  background: var(--fogata-card);
+  border: 1px solid var(--fogata-paper-dark);
+  color: var(--fogata-muted);
+  font-size: .9rem;
+}
+.modo-aviso a { color: var(--fogata-fire-dark); font-weight: 600; }
 /* ---------- MI MOCHILA (js/mochila.js) ---------- */
 .visually-hidden {
   position: absolute !important;
