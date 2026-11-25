@@ -132,16 +132,6 @@
   tipo: licencia
   enlace: "/licencia/"
 
-- fecha: "2026-10-29"
-  titulo: "Homenaje a Baden-Powell"
-  texto: "Empiezan las fichas basadas en Scouting for Boys. El 1/11 se completa el libro y se suma el Wolf Cub's Handbook para la Manada."
-  tipo: fuente
-
-- fecha: "2026-11-03"
-  titulo: "Técnica Scout"
-  texto: "Fichas de técnica tomadas de manuales clásicos (1911–1920)."
-  tipo: fuente
-
 - fecha: "2026-11-05"
   titulo: "Actividad del día en redes"
   texto: "Cada mañana se elige una actividad y se anuncia en Telegram, Facebook e Instagram."
@@ -158,18 +148,13 @@
   texto: "Solafrica autoriza publicar el material de Go Solar."
   tipo: permiso
 
-- fecha: "2026-11-10"
-  titulo: "Llega Scouts de España"
-  texto: "Primeras colecciones de ASDE: Salud y TIC, Medio Ambiente y Espiritualidad, Aprendiendo a Ser y Coeducación."
-  tipo: fuente
-
 - fecha: "2026-11-13"
   titulo: "Buscador por autor y fuente"
   tipo: sitio
 
 - fecha: "2026-11-18"
   titulo: "Permiso de Manos Unidas"
-  texto: "Manos Unidas autoriza publicar su material; nace su colección."
+  texto: "Manos Unidas autoriza publicar su material."
   tipo: permiso
 
 - fecha: "2026-11-19"
@@ -179,9 +164,9 @@
   enlace: "/aviso-legal/#uso-de-inteligencia-artificial"
 
 - fecha: "2026-11-21"
-  titulo: "Material de apoyo y Tradiciones Argentinas"
-  texto: "Nueva sección con leyendas, cuentos y coplas, y la primera insignia propia sobre cultura argentina."
-  tipo: insignia
+  titulo: "Sección Material de apoyo"
+  texto: "Leyendas, cuentos, adivinanzas y coplas para usar en las actividades."
+  tipo: sitio
   enlace: "/material/"
 
 - fecha: "2026-11-23"
