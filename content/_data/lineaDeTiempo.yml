@@ -179,16 +179,6 @@
   tipo: sitio
 
 - fecha: "2026-11-25"
-  titulo: "Licencias confirmadas: Polinizadores, RRD y Ciudades Verdes"
-  texto: "Se verifica que tienen licencia abierta: ya no esperan permiso."
-  tipo: permiso
-  enlace: "/licencia/"
-
-- fecha: "2026-11-25"
-  titulo: "Nueva funcionalidad: texto original plegable y página 404 ilustrada"
-  tipo: sitio
-
-- fecha: "2026-11-25"
   titulo: "Nueva funcionalidad: vista docente o scout"
   texto: "Más filtros, competencias por rama y referencia del Programa Scout."
   tipo: sitio
@@ -200,7 +190,3 @@
   tipo: sitio
   enlace: "/mi-mochila/"
 
-- fecha: "2026-11-25"
-  titulo: "Nueva funcionalidad: historia y línea de tiempo"
-  texto: "El relato del proyecto y esta línea de tiempo, que se actualiza sola."
-  tipo: sitio
