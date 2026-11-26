@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/mide-tu-huella-de-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

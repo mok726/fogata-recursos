@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/la-gallina-ciega.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

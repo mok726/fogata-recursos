@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-genero-y-el-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

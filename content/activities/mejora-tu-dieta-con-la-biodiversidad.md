@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/mejora-tu-dieta-con-la-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

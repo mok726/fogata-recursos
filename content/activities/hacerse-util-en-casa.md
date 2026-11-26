@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "The Wolf Cub's Handbook - Baden-Powell (1938)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

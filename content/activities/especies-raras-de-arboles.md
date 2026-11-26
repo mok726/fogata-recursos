@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/especies-raras-de-arboles.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

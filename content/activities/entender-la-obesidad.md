@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/entender-la-obesidad.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

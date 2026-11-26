@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/diversion-con-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

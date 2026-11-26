@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/macetas-de-botellas.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

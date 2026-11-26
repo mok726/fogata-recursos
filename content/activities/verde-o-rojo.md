@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/verde-o-rojo.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

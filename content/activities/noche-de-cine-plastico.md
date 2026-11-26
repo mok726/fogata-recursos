@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/noche-de-cine-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

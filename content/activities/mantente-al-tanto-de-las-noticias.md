@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/mantente-al-tanto-de-las-noticias.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

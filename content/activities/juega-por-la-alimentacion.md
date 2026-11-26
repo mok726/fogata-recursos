@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/juega-por-la-alimentacion.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

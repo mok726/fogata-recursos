@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/contaminacion-y-accidentes.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

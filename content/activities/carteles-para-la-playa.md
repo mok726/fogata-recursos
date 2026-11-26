@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/carteles-para-la-playa.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

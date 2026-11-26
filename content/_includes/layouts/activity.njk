@@ -61,7 +61,7 @@ async function shareActivity() {
         <h1 class="hero-title">{{ title }}</h1>
 {% if version %}
 {% if version | isDraft %}
-        <span class="hero-version version-draft" title="Actividad pendiente de revisión manual">Borrador</span>
+        <span class="hero-version version-draft" title="{% if license and license.pending %}Borrador: esperando el permiso del titular para publicar la versión final{% else %}Actividad pendiente de revisión manual{% endif %}">Borrador</span>
 {% else %}
         <span class="hero-version" title="La versión sube cada vez que se modifica el contenido de la ficha. La 1.00 es una ficha completa, revisada y sin permisos pendientes.">Versión {{ version }}</span>
 {% endif %}

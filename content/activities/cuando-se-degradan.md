@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/cuando-se-degradan.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

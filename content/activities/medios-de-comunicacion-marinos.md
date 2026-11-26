@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/medios-de-comunicacion-marinos.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

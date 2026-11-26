@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/que-esta-en-riesgo.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

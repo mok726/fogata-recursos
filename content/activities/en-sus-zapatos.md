@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/en-sus-zapatos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

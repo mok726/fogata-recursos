@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/minimo-impacto-naturaleza.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
