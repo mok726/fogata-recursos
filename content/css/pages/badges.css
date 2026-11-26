@@ -852,18 +852,9 @@
   background: rgba(0,0,0,.55);
 }
 
-/* Insignias YUNGA: cómo pedir la insignia al terminar */
-.badge-yunga-obtener {
-  margin-top: 1.5rem;
-}
-.badge-yunga-obtener h3 {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: #243526;
-  margin: 0 0 .75rem;
-}
+/* Insignias YUNGA: enlace a su página y links en los pasos */
 .badge-yunga-link {
-  margin: .75rem 0 0;
+  margin: 1rem 0 0;
 }
 .badge-yunga-link a {
   display: inline-flex;
@@ -874,7 +865,7 @@
 .badge-yunga-link .material-symbols-outlined {
   font-size: 1rem;
 }
-.badge-yunga-obtener .badge-rule-text a {
+.badge-rule-text a {
   text-decoration: underline;
   font-weight: 600;
 }
