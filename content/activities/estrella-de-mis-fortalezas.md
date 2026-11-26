@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "OMMS - Desafío Mind Builders (Scouts for SDGs)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
