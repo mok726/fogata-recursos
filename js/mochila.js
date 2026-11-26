@@ -66,6 +66,8 @@
       b.setAttribute("title", on ? "Sacar de mi mochila" : "Guardar en mi mochila");
       var txt = b.querySelector(".mochila-txt");
       if (txt) txt.textContent = on ? "En mi mochila" : "Guardar en mi mochila";
+      var corto = b.querySelector(".mochila-txt-corto");
+      if (corto) corto.textContent = on ? "Guardada" : "Guardar";
       var ico = b.querySelector(".mochila-ico");
       if (ico) ico.textContent = on ? "check_circle" : "backpack";
     });
