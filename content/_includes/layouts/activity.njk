@@ -104,7 +104,7 @@ async function shareActivity() {
 <div class="activity-actions">
   <a class="ficha-accion" href="{{ page.url | url }}print/" target="_blank">
     <span class="material-symbols-outlined" aria-hidden="true">print</span>
-    Versión imprimible
+    <span class="txt-largo">Versión imprimible</span><span class="txt-corto" aria-hidden="true">Imprimir</span>
   </a>
 
   <button type="button" class="ficha-accion mochila-btn mochila-btn-ficha"
@@ -115,7 +115,7 @@ async function shareActivity() {
     data-tipo="{{ main_type or '' }}"
     aria-pressed="false">
     <span class="material-symbols-outlined mochila-ico" aria-hidden="true">backpack</span>
-    <span class="mochila-txt">Guardar en mi mochila</span>
+    <span class="mochila-txt txt-largo">Guardar en mi mochila</span><span class="mochila-txt-corto txt-corto" aria-hidden="true">Guardar</span>
   </button>
 
   <button type="button" class="ficha-accion" onclick="shareActivity()">

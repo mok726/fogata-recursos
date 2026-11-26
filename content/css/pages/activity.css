@@ -208,6 +208,17 @@ a.hero-category:focus-visible {
 .ficha-accion:hover { border-color: #23402a; }
 .ficha-accion:focus-visible { outline: 3px solid #e8732c; outline-offset: 2px; }
 
+.ficha-accion .txt-corto { display: none; }
+
+/* Celular: texto más chico y corto para que entren en un renglón. */
+@media (max-width: 600px) {
+  .activity-actions { flex-wrap: nowrap; gap: .35rem; }
+  .ficha-accion { padding: .3rem .6rem; font-size: .78rem; gap: .25rem; }
+  .ficha-accion .material-symbols-outlined { font-size: 1rem; }
+  .ficha-accion .txt-largo { display: none; }
+  .ficha-accion .txt-corto { display: inline; }
+}
+
 .toolbar-btn {
   background: transparent;
   border: 1px solid #d1d5db;
