@@ -3,6 +3,14 @@
 
 <head>
   <meta charset="utf-8">
+
+  {# Vista «docente» o «scout» (?modo=...), igual que en el resto del sitio. #}
+  <script>
+  (function () {
+    var m = new URLSearchParams(location.search).get('modo');
+    if (m === 'docente' || m === 'scout') document.documentElement.setAttribute('data-modo', m);
+  })();
+  </script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ activity.data.title }}</title>
 
@@ -85,6 +93,57 @@
     </div>
   </section>
 
+  {# ---------- Para qué sirve ---------- #}
+    <section class="pf-programa">
+
+      {% if d.skills %}
+      <div class="pf-caja">
+        <h2 class="pf-caja-tit">Habilidades</h2>
+        <ul>{% for item in d.skills %}<li>{{ item }}</li>{% endfor %}</ul>
+      </div>
+      {% endif %}
+
+      {% if d.scout_method %}
+      <div class="pf-caja" data-modo-scout>
+        <h2 class="pf-caja-tit">Método Scout</h2>
+        <ul>{% for item in d.scout_method %}<li>{{ item }}</li>{% endfor %}</ul>
+      </div>
+      {% endif %}
+
+      {% if d.scout_values %}
+      <div class="pf-caja" data-modo-scout>
+        <h2 class="pf-caja-tit">Valores Scout</h2>
+        <ul>{% for item in d.scout_values %}<li>{{ item }}</li>{% endfor %}</ul>
+      </div>
+      {% endif %}
+
+      {% if d.activity_badges or d.sdgs %}
+      <div class="pf-caja">
+        {% if d.activity_badges %}
+        <h2 class="pf-caja-tit">Insignias</h2>
+        <div class="icon-grid">
+          {% for rawBadge in d.activity_badges %}
+          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+          {% set badgeInfo = badgeId | badgeById(badges) %}
+          <img src="{{ (badgeId | badgeLogo(badges)) | url }}"
+               alt="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}"
+               title="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}" class="badge-icon">
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if d.sdgs %}
+        <h2 class="pf-caja-tit">ODS</h2>
+        <div class="icon-grid">
+          {% for item in d.sdgs %}
+          <img src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}" class="ods-icon" alt="ODS {{ item }}">
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+    </section>
+
   {% if d.materials %}
   <section class="pf-caja pf-materiales">
     <h2 class="pf-caja-tit"><span class="material-symbols-outlined" aria-hidden="true">inventory_2</span> Materiales</h2>
@@ -120,58 +179,8 @@
     {% endfor %}
   </section>
 
-  {# ---------- Para el programa ---------- #}
+  {# ---------- Enlace a la ficha completa ---------- #}
   <section class="pf-pie">
-    <div class="pf-pie-grilla">
-
-      {% if d.skills %}
-      <div class="pf-caja">
-        <h2 class="pf-caja-tit">Habilidades</h2>
-        <ul>{% for item in d.skills %}<li>{{ item }}</li>{% endfor %}</ul>
-      </div>
-      {% endif %}
-
-      {% if d.scout_method %}
-      <div class="pf-caja">
-        <h2 class="pf-caja-tit">Método Scout</h2>
-        <ul>{% for item in d.scout_method %}<li>{{ item }}</li>{% endfor %}</ul>
-      </div>
-      {% endif %}
-
-      {% if d.scout_values %}
-      <div class="pf-caja">
-        <h2 class="pf-caja-tit">Valores Scout</h2>
-        <ul>{% for item in d.scout_values %}<li>{{ item }}</li>{% endfor %}</ul>
-      </div>
-      {% endif %}
-
-      {% if d.activity_badges or d.sdgs %}
-      <div class="pf-caja">
-        {% if d.activity_badges %}
-        <h2 class="pf-caja-tit">Insignias</h2>
-        <div class="icon-grid">
-          {% for rawBadge in d.activity_badges %}
-          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-          {% set badgeInfo = badgeId | badgeById(badges) %}
-          <img src="{{ (badgeId | badgeLogo(badges)) | url }}"
-               alt="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}"
-               title="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}" class="badge-icon">
-          {% endfor %}
-        </div>
-        {% endif %}
-        {% if d.sdgs %}
-        <h2 class="pf-caja-tit">ODS</h2>
-        <div class="icon-grid">
-          {% for item in d.sdgs %}
-          <img src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}" class="ods-icon" alt="ODS {{ item }}">
-          {% endfor %}
-        </div>
-        {% endif %}
-      </div>
-      {% endif %}
-
-    </div>
-
     <div class="pf-online">
       {% if activity.fileSlug %}
       <img src="{{ '/imagenes/actividades/qr/' | url }}{{ activity.fileSlug }}.png" class="activity-qr" alt="QR de la ficha">
