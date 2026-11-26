@@ -25,6 +25,7 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/en",
       
     requirements: {
   summary:
@@ -62,6 +63,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/forests/en",
       
     requirements: {
   summary:
@@ -135,6 +137,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/en",
       
     requirements: {
   summary:
@@ -172,6 +175,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/en",
       
     requirements: {
   summary:
@@ -249,6 +253,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/plastics-challenge-badge/en",
       
     requirements: {
   summary:
@@ -321,6 +326,7 @@ sections: {
     organization: "FAO",
     year: "2013"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/water-challenge-badge/en",
       
     requirements: {
   summary:
@@ -780,6 +786,7 @@ sections: {
     organization: "FAO",
     year: "2009"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-security-and-climate-change-challenge/en",
       
   summary:
     "Esta insignia, relacionada con la del Cambio Climático, ayuda a crear conciencia sobre la forma en que nuestras actividades diarias contribuyen al cambio climático y cómo diferentes comunidades e individuos ya están siendo afectados por este, especialmente con relación al acceso al agua y a los alimentos.",
@@ -1000,6 +1007,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/8257d981-c731-4f30-a208-c42c99de8405",
       
     requirements: {
   summary:
@@ -1121,6 +1129,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1158,6 +1167,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1193,6 +1203,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1228,6 +1239,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1303,6 +1315,7 @@ sections: {
     location: "Roma",
     url: "https://doi.org/10.4060/ca7445es"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/en",
       
     requirements: {
   summary:
@@ -1371,6 +1384,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/85fb1f5d-9a29-4641-9592-4d967139984f",
       
     requirements: {
   summary:
@@ -1511,6 +1525,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/energy/en",
       
     requirements: {
   summary:
@@ -1585,6 +1600,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-loss-an-waste/en",
       requirements: {
         summary:
           "Completar las dos actividades obligatorias de la sección A, una de las dos obligatorias de cada una de las secciones B, C y D, y al menos una actividad opcional de cada sección.",
@@ -1647,6 +1663,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ending-hunger-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1718,6 +1735,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/en",
   
     requirements: {
 	  summary:
@@ -1900,6 +1918,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/en",
   
     requirements: {
   summary:
@@ -2112,6 +2131,7 @@ sections: {
     organization: "FAO",
     year: "2025"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/green-cities-challenge-badge/en",
 
     requirements: {
   summary:
