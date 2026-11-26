@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/comercio-de-emisiones-y-redd.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

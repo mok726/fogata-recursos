@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/revision-a-los-suelos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

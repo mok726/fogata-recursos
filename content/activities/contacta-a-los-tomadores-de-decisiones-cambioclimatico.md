@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/contacta-a-los-tomadores-de-decisiones-cambioclimatico.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

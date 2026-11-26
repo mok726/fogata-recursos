@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/bosques-en-llamas.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

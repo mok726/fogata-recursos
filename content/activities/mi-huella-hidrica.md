@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/mi-huella-hidrica.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

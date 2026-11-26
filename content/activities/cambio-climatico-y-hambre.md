@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/cambio-climatico-y-hambre.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

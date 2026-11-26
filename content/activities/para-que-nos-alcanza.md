@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/para-que-nos-alcanza.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

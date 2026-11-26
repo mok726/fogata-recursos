@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/estudio-sobre-el-cambio-climatico.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

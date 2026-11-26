@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/especies-locales-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

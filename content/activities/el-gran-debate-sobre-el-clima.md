@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

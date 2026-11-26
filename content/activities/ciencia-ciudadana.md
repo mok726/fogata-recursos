@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/ciencia-ciudadana.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

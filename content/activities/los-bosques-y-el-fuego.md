@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/los-bosques-y-el-fuego.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

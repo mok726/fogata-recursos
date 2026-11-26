@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/alimentos-geneticamente-modificados.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

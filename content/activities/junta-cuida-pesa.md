@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/junta-cuida-pesa.jpg"
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
