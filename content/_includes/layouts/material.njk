@@ -3,7 +3,9 @@ layout: layouts/base.njk
 styles:
   - /css/material.css
 ---
-{% set cat = materialCategories | selectattr('id', 'equalto', category) | first %}
+{% set cats = [] %}
+{% for c in materialCategories %}{% if c.id == category %}{% set cats = (cats.push(c), cats) %}{% endif %}{% endfor %}
+{% set cat = cats[0] %}
 {% set slug = page.fileSlug %}
 <article class="material-page">
 

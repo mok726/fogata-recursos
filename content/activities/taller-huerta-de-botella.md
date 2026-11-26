@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-huerta-de-botella.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -68,6 +68,10 @@ tags:
   - huerta
   - botellas
   - taller
+
+# ========== MATERIAL DE APOYO ==========
+material_apoyo:
+  - calendario-de-siembra-de-la-huerta
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
