@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-de-tejido-plastico.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
+  - plastics
 activity_code: "general-E14"
 required: false
 required_for: []

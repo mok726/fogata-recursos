@@ -48,6 +48,11 @@ module.exports = function(eleventyConfig) {
     "imagenes"
   );
 
+  // Material imprimible de las fichas (campo files:), en recursos/<slug>/
+  eleventyConfig.addPassthroughCopy(
+    "recursos"
+  );
+
   // Miniaturas generadas por scripts/make-thumbs.js
   eleventyConfig.addPassthroughCopy({
     ".cache/thumbs": "imagenes/_thumbs"

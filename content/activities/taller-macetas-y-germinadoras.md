@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-macetas-y-germinadoras.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,8 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
+  - cfn
+  - plastics
 activity_code: "general-E10"
 required: false
 required_for: []
