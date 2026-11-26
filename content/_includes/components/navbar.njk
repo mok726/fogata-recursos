@@ -81,6 +81,31 @@
 
   <div class="navbar-right">
 
+    {# Modo de vista (Todo / Scout / Docente). Viaja en ?modo=...;
+       el ícono muestra el modo actual y abre el selector. #}
+    <div class="navbar-modo">
+      <button type="button" class="navbar-icon-button navbar-modo-btn"
+        aria-haspopup="true" aria-expanded="false" aria-controls="navbar-modo-menu"
+        title="Ver como: todas las opciones" aria-label="Ver como: todas las opciones">
+        <span class="material-symbols-outlined navbar-modo-ico" aria-hidden="true">visibility</span>
+      </button>
+      <div class="navbar-modo-menu" id="navbar-modo-menu" hidden>
+        <p class="navbar-modo-tit">Ver el sitio como</p>
+        <a href="#" data-modo-opcion="" data-modo-salir>
+          <span class="material-symbols-outlined" aria-hidden="true">visibility</span>
+          <span><b>Todo</b><small>Todas las opciones</small></span>
+        </a>
+        <a href="#" data-modo-opcion="scout" data-modo-salir>
+          <span class="material-symbols-outlined" aria-hidden="true">hiking</span>
+          <span><b>Scout</b><small>Ramas, Programa y Método Scout</small></span>
+        </a>
+        <a href="#" data-modo-opcion="docente" data-modo-salir>
+          <span class="material-symbols-outlined" aria-hidden="true">school</span>
+          <span><b>Docente</b><small>Edades, sin términos scouts</small></span>
+        </a>
+      </div>
+    </div>
+
     <a
       class="navbar-icon-button navbar-mochila"
       href="{{ '/mi-mochila/' | url }}"
@@ -179,5 +204,44 @@
       if (!dropdown.contains(event.target)) setOpen(false);
     });
 
+  })();
+</script>
+
+<script>
+  // Selector de modo del encabezado: muestra el modo actual y arma
+  // los enlaces a esta misma página con ?modo=... (o sin él).
+  (function () {
+    var caja = document.querySelector(".navbar-modo");
+    if (!caja) return;
+    var btn = caja.querySelector(".navbar-modo-btn");
+    var menu = caja.querySelector(".navbar-modo-menu");
+    var modo = document.documentElement.getAttribute("data-modo") || "";
+    var nombres = { "": "todas las opciones", scout: "scout", docente: "docente" };
+    var iconos = { "": "visibility", scout: "hiking", docente: "school" };
+
+    btn.querySelector(".navbar-modo-ico").textContent = iconos[modo];
+    btn.title = "Ver como: " + nombres[modo] + " (cambiar)";
+    btn.setAttribute("aria-label", btn.title);
+    if (modo) btn.classList.add("activo");
+
+    menu.querySelectorAll("[data-modo-opcion]").forEach(function (a) {
+      var m = a.getAttribute("data-modo-opcion");
+      var url = new URL(location.href);
+      if (m) url.searchParams.set("modo", m); else url.searchParams.delete("modo");
+      a.href = url.toString();
+      if (m === modo) a.setAttribute("aria-current", "true");
+    });
+
+    function abrir(si) {
+      menu.hidden = !si;
+      btn.setAttribute("aria-expanded", si ? "true" : "false");
+    }
+    btn.addEventListener("click", function () { abrir(menu.hidden); });
+    caja.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !menu.hidden) { abrir(false); btn.focus(); }
+    });
+    document.addEventListener("click", function (e) {
+      if (!caja.contains(e.target)) abrir(false);
+    });
   })();
 </script>
