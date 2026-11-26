@@ -276,3 +276,13 @@
 @media print {
   .navbar-modo { display: none !important; }
 }
+
+/* Flor de lis del modo Scout (no existe en Material Symbols). */
+.navbar-modo-lis { width: 24px; height: 24px; flex: none; }
+.navbar-modo-btn .navbar-modo-lis { display: none; }
+.navbar-modo-btn.con-lis .navbar-modo-lis { display: block; }
+.navbar-modo-btn.con-lis .navbar-modo-ico { display: none; }
+@media (max-width: 440px) {
+  .navbar-modo-lis { width: 22px; height: 22px; }
+}
+.navbar-modo-menu a > :first-child { width: 24px; flex: none; text-align: center; }

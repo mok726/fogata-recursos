@@ -88,6 +88,7 @@
         aria-haspopup="true" aria-expanded="false" aria-controls="navbar-modo-menu"
         title="Ver como: todas las opciones" aria-label="Ver como: todas las opciones">
         <span class="material-symbols-outlined navbar-modo-ico" aria-hidden="true">visibility</span>
+        <svg class="navbar-modo-lis" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 1.5c-2.6 3-3.2 6.6-.9 11h1.8c2.3-4.4 1.7-8-.9-11zM10.6 13.2C9.9 11 8.4 10 6.9 9.8 5.8 9.6 5.4 8.4 6.2 7.7c-2-.7-3.9 1-3.2 3.3.8 2.3 3.6 3 7.6 2.2zm2.8 0c.7-2.2 2.2-3.2 3.7-3.4 1.1-.2 1.5-1.4.7-2.1 2-.7 3.9 1 3.2 3.3-.8 2.3-3.6 3-7.6 2.2zM7 13.6h10v2H7zm4 2.4h2l.6 5.2c-.7-.4-1.3-.6-1.6-.6s-.9.2-1.6.6zm-1 0c-.8 1.4-2.3 2-3.6 1.6.3 1.4 1.8 2.2 3.4 1.6zm4 0c.8 1.4 2.3 2 3.6 1.6-.3 1.4-1.8 2.2-3.4 1.6z"/></svg>
       </button>
       <div class="navbar-modo-menu" id="navbar-modo-menu" hidden>
         <p class="navbar-modo-tit">Ver el sitio como</p>
@@ -96,7 +97,7 @@
           <span><b>Todo</b><small>Todas las opciones</small></span>
         </a>
         <a href="#" data-modo-opcion="scout" data-modo-salir>
-          <span class="material-symbols-outlined" aria-hidden="true">hiking</span>
+          <svg class="navbar-modo-lis" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill="currentColor" d="M12 1.5c-2.6 3-3.2 6.6-.9 11h1.8c2.3-4.4 1.7-8-.9-11zM10.6 13.2C9.9 11 8.4 10 6.9 9.8 5.8 9.6 5.4 8.4 6.2 7.7c-2-.7-3.9 1-3.2 3.3.8 2.3 3.6 3 7.6 2.2zm2.8 0c.7-2.2 2.2-3.2 3.7-3.4 1.1-.2 1.5-1.4.7-2.1 2-.7 3.9 1 3.2 3.3-.8 2.3-3.6 3-7.6 2.2zM7 13.6h10v2H7zm4 2.4h2l.6 5.2c-.7-.4-1.3-.6-1.6-.6s-.9.2-1.6.6zm-1 0c-.8 1.4-2.3 2-3.6 1.6.3 1.4 1.8 2.2 3.4 1.6zm4 0c.8 1.4 2.3 2 3.6 1.6-.3 1.4-1.8 2.2-3.4 1.6z"/></svg>
           <span><b>Scout</b><small>Ramas, Programa y Método Scout</small></span>
         </a>
         <a href="#" data-modo-opcion="docente" data-modo-salir>
@@ -217,9 +218,10 @@
     var menu = caja.querySelector(".navbar-modo-menu");
     var modo = document.documentElement.getAttribute("data-modo") || "";
     var nombres = { "": "todas las opciones", scout: "scout", docente: "docente" };
-    var iconos = { "": "visibility", scout: "hiking", docente: "school" };
+    var iconos = { "": "visibility", scout: "", docente: "school" };
 
     btn.querySelector(".navbar-modo-ico").textContent = iconos[modo];
+    if (modo === "scout") btn.classList.add("con-lis");
     btn.title = "Ver como: " + nombres[modo] + " (cambiar)";
     btn.setAttribute("aria-label", btn.title);
     if (modo) btn.classList.add("activo");
