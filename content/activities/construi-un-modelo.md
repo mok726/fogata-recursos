@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/construi-un-modelo.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

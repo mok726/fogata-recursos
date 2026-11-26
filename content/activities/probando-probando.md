@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/probando-probando.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
-version: "0.99"
+version: "1.00"
 
 branch:
   - Naturaleza

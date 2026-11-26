@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/disena-tu-propia-iniciativa-de-eds.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
