@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "OMMS - Desafío EQ in Action (Scouts for SDGs)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
