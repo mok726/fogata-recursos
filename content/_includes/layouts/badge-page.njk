@@ -267,8 +267,25 @@ collections.activities
           {% endif %}
         {% endif %}
 
-
-
+        {# Insignias YUNGA/FAO: cómo pedir la insignia a YUNGA al terminar. #}
+        {% if badge.yunga_url %}
+          <div class="badge-yunga-obtener">
+            <h3>Para recibir la insignia de YUNGA</h3>
+            <div class="badge-rules">
+              <div class="badge-rule">
+                <div class="badge-rule-icon">1</div>
+                <div class="badge-rule-text">Sacá fotos o grabá videos durante todo el proceso.</div>
+              </div>
+              <div class="badge-rule">
+                <div class="badge-rule-icon">2</div>
+                <div class="badge-rule-text">Al terminar, enviá un mail a <a href="mailto:yunga@fao.org">yunga@fao.org</a> o completá <a href="https://forms.cloud.microsoft/e/tz7eJR0QGU" target="_blank" rel="noopener">este formulario</a>.</div>
+              </div>
+            </div>
+            <p class="badge-yunga-link">
+              <a href="{{ badge.yunga_url }}" target="_blank" rel="noopener">Ver esta insignia en el sitio de YUNGA <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span></a>
+            </p>
+          </div>
+        {% endif %}
 
         <!-- INICIO seccion colapsable del sitios web -->
 
