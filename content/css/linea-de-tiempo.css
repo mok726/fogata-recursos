@@ -79,19 +79,19 @@
 .ldt-auto .ldt-titulo { font-size: 0.95rem; }
 .ldt-auto .ldt-texto { font-size: 0.85rem; }
 /* Marcas (cantidad de fichas): dorado. */
-.ldt-hito.ldt-marca .ldt-icono {
+.ldt-hito:is(.ldt-marca, .ldt-logro) .ldt-icono {
   width: 41px; height: 41px; margin-left: 0; font-size: 22px;
   background: linear-gradient(135deg, #ffe28a, #e0a800);
   color: #5a4300; border: 2px solid #b8860b;
 }
-.ldt-hito.ldt-marca .ldt-cuerpo {
+.ldt-hito:is(.ldt-marca, .ldt-logro) .ldt-cuerpo {
   background: linear-gradient(135deg, #fff6d6, #f7dc87);
   border: 1px solid #d4a017;
   box-shadow: 0 2px 10px rgba(184, 134, 11, 0.25);
   padding: 0.5rem 1rem 0.6rem;
 }
-.ldt-hito.ldt-marca .ldt-titulo { font-size: 1.1rem; color: #5a4300; }
-.ldt-hito.ldt-marca .ldt-fecha { color: #7a5a00; }
+.ldt-hito:is(.ldt-marca, .ldt-logro) .ldt-titulo { font-size: 1.1rem; color: #5a4300; }
+.ldt-hito:is(.ldt-marca, .ldt-logro) .ldt-fecha { color: #7a5a00; }
 
 /* Escritorio: eje al centro, hitos alternados. */
 @media (min-width: 760px) {
@@ -99,13 +99,28 @@
   .ldt-hito { width: 50%; padding-right: 32px; flex-direction: row-reverse; text-align: right; }
   .ldt-hito .ldt-icono { position: absolute; right: -20px; top: 0.3rem; }
   .ldt-auto .ldt-icono { right: -14px; margin-left: 0; }
-  .ldt-hito.ldt-marca .ldt-icono { right: -20px; }
+  .ldt-hito:is(.ldt-marca, .ldt-logro) .ldt-icono { right: -20px; }
   .ldt-hito:nth-child(even) {
     margin-left: 50%; padding-right: 0; padding-left: 32px;
     flex-direction: row; text-align: left;
   }
   .ldt-hito:nth-child(even) .ldt-icono { right: auto; left: -21px; }
   .ldt-auto:nth-child(even) .ldt-icono { left: -15px; }
-  .ldt-hito.ldt-marca:nth-child(even) .ldt-icono { left: -21px; }
+  .ldt-hito:is(.ldt-marca, .ldt-logro):nth-child(even) .ldt-icono { left: -21px; }
   .ldt-anio-titulo { display: table; margin-left: auto; margin-right: auto; }
 }
+
+/* Permisos recibidos: verde, con tilde. */
+.ldt-chip-permiso { background: #e6f4ea; border-color: #2e7d32; color: #1b5e20; }
+.ldt-hito.ldt-permiso .ldt-icono {
+  background: #2e7d32; color: #fff;
+  box-shadow: 0 0 0 4px #fff, 0 0 0 6px #81c784;
+}
+.ldt-hito.ldt-permiso .ldt-cuerpo {
+  background: #e6f4ea;
+  border: 2px solid #2e7d32;
+  box-shadow: 0 2px 10px rgba(46, 125, 50, 0.25);
+}
+.ldt-hito.ldt-permiso .ldt-titulo { color: #1b5e20; }
+.ldt-hito.ldt-permiso .ldt-titulo::before { content: "✔ "; color: #2e7d32; }
+.ldt-hito.ldt-permiso .ldt-fecha { color: #2e7d32; }
