@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -148,15 +147,6 @@ Un juego de palabras: hay que completar frases.
 
 ## Cierre
 - ¿Qué palabra los sorprendió? ¿Cambia mucho la frase con cada palabra?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**MISSING WORDS.**
-
-Leader reads out a series of sentences, each with a word missing. Players write down a word that will fit in the blank, or even several alternative words. E.g. “The Scout hurt his foot and ......” Smiled, whistled, limped, died, etc. etc.
 
 
 ## Texto original completo de la actividad

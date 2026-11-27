@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,17 +153,6 @@ Una carrera cómica: hay que encontrar los propios zapatos en una montaña de ca
 ## Notas para el educador
 - Ideal para lobatos que están aprendiendo a atarse los cordones.
 - Un buen momento para recordar que en campamento todo va con nombre.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LOST BOOT RACE.**
-
-All players are warned to wear uniform boots or shoes (gym. shoes). All these shoes are jumbled in a heap at the end of the room, players race to the heap, and first player to return to the starting-point wearing his own shoes, properly tied, wins.
-
-Other players’ shoes must not be thrown too far afield.
 
 
 ## Texto original completo de la actividad

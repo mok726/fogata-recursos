@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué ayudaba más: cómo estaban los compañeros o cómo repartía el que corría?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ARTICLES OF WAR RELAY.**
-
-Teams in file, a heap of sundry articles put at a given distance in front of each team, one less article than there are players in each team. Front players run and pick up articles and run down one side of their team, giving one article to each player, and then up the other side, collecting them again, and put them back on the dump, running back to send off the next player. First team to finish win. Dropper must pick up any dropped article and regain his place.
 
 
 ## Texto original completo de la actividad

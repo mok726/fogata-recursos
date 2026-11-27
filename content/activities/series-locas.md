@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,15 +157,6 @@ Cada patrulla inventa una serie para las demás.
 
 ## Notas para el educador
 - Juego de pensamiento lógico, muy cercano a lo que después se ve en computación (ver Computación Desenchufada).
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SEQUENCES.**
-
-Leader reads out a sequence of letters or numbers, or writes them on the board. Players then add (say) five more to the sequence, before ten if counted. E.g. 2-4-6 8-10, 12-14-16-18-20. ZAYBXC, WDVEU, etc. etc.
 
 
 ## Texto original completo de la actividad

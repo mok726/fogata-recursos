@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Al llegar adelante, el corredor sigue hasta una marca y vuelve a ponerse adelant
 
 ## Cierre
 - ¿Qué parte costaba más: el zigzag o mantener la fila derecha?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ZIG-ZAG RELAY.**
-
-Teams in file, players about 2 feet apart. Back player runs zig-zag between the rest of his team to the front as soon as he gets there he holds up his hand, and the new back player starts. The team to first regain its original position wins. May also be played hopping, running backwards, etc.
 
 
 ## Texto original completo de la actividad

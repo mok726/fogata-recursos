@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,15 +157,6 @@ Cada cosa se dice con un gesto. Ayuda mucho a recordar.
 
 ## Notas para el educador
 - Al final, usá la lista para revisar entre todos qué lleva una buena mochila.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TENDERFOOT TIM.**
-
-Players in circle. One starts by saying “Tenderfoot Tim went to camp and took ...,” mentioning some object. No. 2 repeats No. 1’s statement and adds another object, and so on. Each falls out as he fails to repeat the list. Last in wins; a list should be kept by the leader on paper.
 
 
 ## Texto original completo de la actividad

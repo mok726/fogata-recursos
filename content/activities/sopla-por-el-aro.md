@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de soplido en equipo: hay que hacer pasar un globo por un aro colgado, 
 
 ## Notas para el educador
 - Juego cortito y muy divertido para hacer bajo techo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLOW, BLOW.**
-
-Each team is grouped round a small wooden hoop hung so that the bottom is just above the average player’s head. Each team has a toy balloon which they try to blow through their hoop in any direction. If the balloon falls to the floor it may be picked up, hut otherwise may not be touched. First team to score three “ blows” wins.
 
 
 ## Texto original completo de la actividad

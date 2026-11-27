@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,19 +156,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué truco usaron: ir rápido o ir despacio y seguro?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**POTATO AND SPOON RELAY.**
-
-Teams in file; each player in turn runs to a given point and back carrying a potato in a large wooden spoon. The spoon must be held at the end and only one hand used. Team to finish first wins. A tennis ball on a book may be used instead of the potato and spoon or any of a wide selection of other articles.
-
-**BALANCING BOOKS RELAY.**
-
-Teams in file; each player in turn goes up and down the course balancing two or more books on his head. If they fall off he must start again. First team to finish wins. N.B.—--This race may well be combined with one such as Nos. 22, 32, etc.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -179,21 +178,6 @@ Toda la patrulla en fila y cada uno con su soga: van armando la cadena de mano e
 ## Notas para el educador
 - El as de guía en la cintura no se aprieta: tiene que quedar holgado.
 - Valorá más los nudos bien hechos que la velocidad.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**KNOTTING RELAY.**
-
-Teams in file, one player in front of each team about 10 yards away with a heap of ropes. First player must run and tie a bowline round the former’s waist and come back to start the next, who ties another
-
-rope on to the first with a reef, and so on; 3rd ties sheetbend; 4th ties fisherman; 5th shortens the rope last tied on ; 6th ties the end in a clove-hitch round his leg. Team first finishing correct wins.
-
-**KNOTTING RACE.**
-
-Teams of six in line. Nos. 1, 2, 3, 4, each have a bit of rope, 6th player stands opposite the centre of his team. No. 1 ties one end of his rope round himself (bowline). No. 2 ties his on to the other end (reef). No. 3 ties his on to the other end of No. 2‘s (sheetbend). No. 4 ties his on to the other end of No. 3’s (fisherman). No. 5 ties other end of No. 4’s to his own leg (clove-hitch). No. 6 ties a sheepshank in middle.
 
 
 ## Texto original completo de la actividad

@@ -58,7 +58,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -167,15 +166,6 @@ En vez de siluetas, usá hojas de árboles del lugar (secas y ya caídas). Hay q
 ## Notas para el educador
 - Sirve para hablar de inclusión y de cómo usamos los otros sentidos cuando falta la vista.
 - Para Manada usá formas muy simples; para Scouts podés usar siluetas parecidas entre sí (dos herramientas, dos aves).
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHAT PROFILE.**
-
-A number of well-known shapes are cut out of cardboard. Each player in turn tries to say what they are by feeling blindfold. The top of each card should be marked for the feeler. E.g. A series of heads of animals, etc.
 
 
 ## Texto original completo de la actividad

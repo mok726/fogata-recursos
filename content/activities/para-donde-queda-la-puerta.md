@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego para orientarse dentro de un salón sin ver.
 ## Cierre
 - ¿Qué objeto les sirvió más para ubicarse?
 - ¿Cómo se usa esto para orientarse en el campamento de noche?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHICH WAY?**
-
-A circle is chalked on the floor, in which are put 3 or 4 different objects. Each player in turn looks at the circle for a few moments. After some distraction he is blindfolded and led to the edge of the circle. He must then enter the circle and by feeling the objects therein point in the direction in which he thinks that the door (or any other feature chosen) lies. This may be made a team game.
 
 
 ## Texto original completo de la actividad

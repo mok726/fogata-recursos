@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Una carrera de pases en fila: la pelota va por arriba de las cabezas y por abajo
 
 ## Cierre
 - ¿Dónde se trababa la pelota? ¿Cómo lo resolvieron?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**UNDER AND OVER RELAY.**
-
-Teams in file; front player has a ball or some larger object which he passes over his head, using both hands, to the player behind him, and so on down the line. When the last player gets the ball he runs to the front and passes it between his legs back down the line. Next time over the head, and so on. It must be passed, not thrown. First team to regain its original order wins. Variation—Front player always passes over and the next under, and so on alternately.
 
 
 ## Texto original completo de la actividad

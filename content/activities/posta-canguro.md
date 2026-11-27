@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -151,15 +150,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Les dio miedo que los pisaran? ¿Cómo se cuidaron?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**KANGAROO RELAY.**
-
-Teams in line sitting on floor with legs straight out in front of them, players about 2 feet apart. First player of each team jumps with feet together over the legs of his team and then runs round the back of his team to his place. As soon as he sits down the next player hops down the row, runs to the other end, and hops over the first players legs to his place, and so on. First team to finish wins. Players should either jump or hop or alternate players do different things.
 
 
 ## Texto original completo de la actividad

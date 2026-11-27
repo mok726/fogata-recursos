@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -148,15 +147,6 @@ Una mancha de cruzar el terreno: hay que pasar de un lado al otro sin que te toq
 
 ## Cierre
 - ¿Les convenía cruzar todos juntos o de a uno?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CHINESE WALL.**
-
-The wall is marked across the centre of the ground by two lines about 10 feet apart, one player guards the wall. The rest try to run from one side of the ground to the other, without being touched by the one on the wall. Any touched remain on the wall and assist the guard.
 
 
 ## Texto original completo de la actividad

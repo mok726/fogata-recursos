@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Notas para el educador
 - Usá latas firmes (de pintura) o ladrillos. Las de conserva se doblan y cortan.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FLOWER POTS RELAY.**
-
-Teams in file, in front of each team two flower-pots. Each player in turn stands with a foot on each pot and in that way shuffles to given point and back to start the next. If a player steps oil his pots he must start again; he may move the pots by hand provided he does not touch the ground. First team to finish wins.
 
 
 ## Texto original completo de la actividad

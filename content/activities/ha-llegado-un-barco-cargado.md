@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Todo lo que lleva el barco tiene que servir para el campamento: con la M, «moch
 
 ## Notas para el educador
 - Es un juego conocido en muchos países de habla hispana con distintos nombres. Ideal para esperar el colectivo o la comida.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SHIP'S ALPHABET.**
-
-Players in circle. Leader names a letter (say) “C.” He then asks the first player “Name of the ship? “ who answers with any reasonable name starting with “ C.” Second player is asked “Name of the captain? Where to? What cargo? etc., and so on round the circle, the letter being changed as necessary. Any player making a mistake, or failing to reply, goes to the bottom.
 
 
 ## Texto original completo de la actividad

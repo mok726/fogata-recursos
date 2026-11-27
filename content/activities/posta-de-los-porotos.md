@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Les convenía correr muy rápido o ir seguros para no perder porotos?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BEAN RELAY.**
-
-Teams in file; in front of each team a row of small circles about 3 feet apart, and a larger circle just in front of the first player, in which are as many beans as there are circles. Each player in turn moves the beans one by one into the small circles, one to each circle, and then one by one returns them to the large circle; then sending off the next player. Team to finish first wins.
-
-**SQUARE BEAN RACE.**
-
-As many saucers as there are teams are put at equal distances one from the next (if 4 teams in the form of a square; 5, pentagon, etc.). In each saucer are as many beans as there are players in each team. Each team races to remove the beans one by one into the next saucer to their right. No player may touch more than one bean at a time, and they must be carried, not thrown. A team may form a chain. Team with fewest beans in its saucer at end of allotted time wins.
 
 
 ## Texto original completo de la actividad

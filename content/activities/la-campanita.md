@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ Un juego a ciegas para atrapar a alguien guiándose solo por el oído.
 
 ## Cierre
 - ¿Por qué cuesta tanto saber de dónde viene un sonido?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**MUFFIN MAN.**
-
-All players except one are blindfold, the one has a bell which he must ring continually as he moves about the room trying to avoid being touched by one of the others.
 
 
 ## Texto original completo de la actividad

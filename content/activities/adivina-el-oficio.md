@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -151,19 +150,6 @@ Un juego de mímica para adivinar oficios.
 ## Notas para el educador
 - Puede dar pie a una charla sobre oficios del barrio o a una visita a un taller (ver Visita a Talleres y Fábricas).
 - Evitá estereotipos de género en las tarjetas: que haya médicas, plomeras, enfermeros.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ACTING A TRADE.**
-
-Each player or pair of players in turn act some trade, profession or everyday event, and continue to do so until it is guessed. E.g. Plumber and mate, shaving, surgeon operating, etc.
-
-**ACTING ANIMALS.**
-
-Each player in turn acts as some animal, bird, reptile or insect and continues to do so till it is guessed.
 
 
 ## Texto original completo de la actividad

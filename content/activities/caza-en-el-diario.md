@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -159,15 +158,6 @@ Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido
 
 ## Notas para el educador
 - Sirve para trabajar alfabetización mediática: al final, charlá sobre qué es noticia, qué es opinión y qué es publicidad.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PAPER HUNT.**
-
-Each player is given a copy of the same paper. The leader mentions some place, event, or object, and the first to find mention of it in the paper gets a point. This may well be made a team contest, the paper being shared out.
 
 
 ## Texto original completo de la actividad

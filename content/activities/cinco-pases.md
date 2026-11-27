@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de pases por equipos: un equipo trata de pasarse la pelota cinco veces 
 
 ## Notas para el educador
 - Pedí que los pases se den a todos los compañeros, no siempre a los mismos. Podés exigir que los cinco pases vayan a cinco jugadores distintos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**NUTS AND RAISINS.**
-
-Two teams; one team tries to pass a football about among its own members, the other trying to intercept. A point is scored for 5 clear undropped consecutive passes. No player may hold the ball for more than 5 seconds or paces; no tackling, only interception is allowed. The first player to touch a dropped ball may pick it up unmolested. Team with most points in (say) 8 minutes wins.
 
 
 ## Texto original completo de la actividad

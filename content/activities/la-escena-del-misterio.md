@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -162,15 +161,6 @@ Un juego de observación y deducción, como en las películas de detectives.
 ## Notas para el educador
 - Mantené el misterio en el humor (una torta, un banderín, la mascota de la tropa). Evitá crímenes violentos.
 - Es un gran juego para una noche de campamento con lluvia.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SCENE OF THE CRIME.**
-
-Each patrol in turn has 5 or 10 minutes in a room where a crime has been enacted and then makes a report of what they think has taken place. The crime is then re-enacted.
 
 
 ## Texto original completo de la actividad

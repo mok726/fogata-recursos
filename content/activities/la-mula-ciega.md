@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,17 +154,6 @@ Una carrera de postas de a dos: uno hace de mula con los ojos vendados y el otro
 ## Cierre
 - ¿Cómo se sintieron siendo la mula? ¿Y siendo el arriero?
 - ¿Qué hace falta para confiar en alguien que te guía?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLIND MULE RACE.**
-
-Teams in file, divided into pairs of players; one of each pair is blindfold, and is driven with rope reins round a zig-zag course back to his place by the other of the pair. The reins are then fixed to the next mule, and so on. No speaking to the mule by the driver is allowed.
-
-Variation.—-On completing the course tile mule is made to burst a balloon by sitting (or stepping) on it. Then as before.
 
 
 ## Texto original completo de la actividad

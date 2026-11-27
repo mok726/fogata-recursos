@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,15 +160,6 @@ Un juego de nudos en pareja en el que cada uno puede usar una sola mano. Hay que
 ## Cierre
 - ¿Cómo se organizaron? ¿Uno dirigía o se iban turnando?
 - ¿Qué pasa en la patrulla cuando cada uno tiene solo una parte de lo que hace falta?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PAIRS KNOTTING.**
-
-Players in pairs; each player, having a piece of rope, puts one hand behind his back. The pairs then try to tie their two ropes together with whatever knot is desired. First pair correct wins. Can be varied to suit other knots.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de saltos en largo entre dos equipos: uno salta hacia adelante y el otr
 
 ## Cierre
 - ¿Cómo eligieron el orden de los saltadores?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TO AND FRO JUMP.**
-
-Leader of one team takes a standing long jump from a chalk line (heels to the line). Leader of other team jumps back from the point the first jumper's heels got to. No. 2 of the first team then jumps out again from where the 2nd team's leader's heels got to. Then No. 2 of second team jumps back, and so on. If the last jump back lands with heels over the line the second team wins, otherwise first team.
 
 
 ## Texto original completo de la actividad

@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,27 +157,6 @@ Que los animales sean de Argentina o de la selva de Mowgli: el ñandú, el carpi
 
 ## Cierre
 - ¿Qué animal fue el más cansador?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ANIMAL IMITATION RELAY.**
-
-Teams in file; each first player is allotted the same bird, insect, reptile, or animal; each second player another, and so on. Each player in turn goes round the course imitating the animal allotted him, both by action and sound. If in the opinion of the leader the imitation is too bad, he must start again. First team to finish wins. Suitable animals, etc. :—Frog, Thrush, Sparrow Camel, Rabbit, etc. (any with a distinctive gait).
-
-**ELEPHANT RELAY.**
-
-Teams in file; each player in turn places his hands on the ground and, keeping his knees and elbows stiff, goes round the course. Team to finish first wins.
-
-**DUCK RELAY.**
-
-Teams in file; each player in turn squats down with a short stick under his knees and over his elbows, hands clasped in front of his shins. In this position each goes round a given course. First team to finish wins.
-
-**GOOSE RELAY.**
-
-Teams in file; each player in turn goes round a given course holding his ankles. If a player lets go he starts again. To make the players get over a bench is a useful variation.
 
 
 ## Texto original completo de la actividad

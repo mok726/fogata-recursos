@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,19 +153,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 ## Cierre
 - ¿Qué prenda costó más ponerse bien rápido?
 - ¿Qué significa para ustedes el uniforme?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**EQUIPMENT RELAY.**
-
-Teams in file; different items of each player’s uniform or gear are placed at various points round the course (i.e. all hats at one spot, all scarves at another, etc.). Each player in turn runs round the course and puts on his own article of clothing at each point. First team to finish correctly dressed in their own uniforms wins.
-
-**DRESSING AND UNDRESSING RACE.**
-
-Teams in file; each team has a coat and hat. Each first player runs to and from a given point putting on the coat and hat, doing up all buttons; on regaining his team he takes them off and hands them to the next, and so on. First team to finish wins. Clothes must not be begun to be removed till the player is back with his rank.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Una broma inofensiva con forma de carrera de obstáculos: los jugadores pasan, c
 
 ## Notas para el educador
 - Es un juego de una sola vez por grupo. Que todos se rían con el que pasa, no de él.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLINDFOLD OBSTACLE RACE.**
-
-A very simple obstacle course is arranged and the players are allowed to go over it, using their eyes to learn distances, etc. They are then blindfolded, and all the obstacles are very quietly removed. Players then start and are cheered on as they negotiate the non-existent obstacles. As each player twigs it he is pulled out and made to enjoy the fun. No feeling for the obstacles is allowed. Suitable obstacles: over or under a bench, jump a marked river, etc.
 
 
 ## Texto original completo de la actividad

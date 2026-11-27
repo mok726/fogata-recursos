@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -163,17 +162,6 @@ Pintá una franja de color en algunos palos: los comunes valen 1 punto y los pin
 ## Notas para el educador
 - Es un buen juego tranquilo para después de una actividad movida o para un día de lluvia en el local.
 - Mantené la ronda abierta para que nadie quede detrás de otro con un palo en la mano.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GIANT SPILLIKINS.**
-
-A heap of staves is jumbled up on the floor. Each player in turn by using his own staff, as a rake, tries to remove as many other staves as he can without shaking any of the heap. If he succeeds he has another turn, if not the next player goes.
-
-If the game becomes almost impossible a re-shuffle is desirable. Player collecting most staves wins.
 
 
 ## Texto original completo de la actividad

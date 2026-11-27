@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,15 +159,6 @@ Cada patrulla defiende la torre por turno. Se cuenta cuánto tiempo aguanta en p
 
 ## Notas para el educador
 - Una buena excusa para practicar el amarre de trípode antes de jugar.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TOWER BALL.**
-
-Players in circle, four others in centre guarding a lightly built tripod, which those outside try to upset by throwing tennis balls or kicking a football. Any player upsetting it takes the place of the “guard” from whose side the successful throw came.
 
 
 ## Texto original completo de la actividad

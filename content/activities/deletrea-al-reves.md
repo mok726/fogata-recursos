@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -148,15 +147,6 @@ Un juego de concentración con palabras al revés.
 
 ## Cierre
 - ¿Qué truco usaron? ¿Se imaginaban la palabra escrita?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SPELL IT.**
-
-Players in circle. Leader points to a player and says a word and at once starts to count 10 at a steady pace. The player pointed at must spell the word correctly backwards before 10 is reached. Best played starting with 3-letter words and getting on to 5 or more.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,15 +157,6 @@ El que dirige transmite con señales el nombre de un objeto («jarro», «piña�
 
 ## Notas para el educador
 - Funciona igual con semáforo, Morse o el sistema de señales que use tu Grupo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PROGRESSION.**
-
-Players in a straight line, leader mentions a letter and pauses a moment, then says “Go”, each player at once signals that letter. Any player hesitating or sending the wrong letter steps one foot forward, and so on. Player nearest the starting-line at end wins.
 
 
 ## Texto original completo de la actividad

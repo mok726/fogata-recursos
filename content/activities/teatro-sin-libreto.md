@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Una obra de teatro improvisada.
 ## Notas para el educador
 - Con práctica, esto alimenta los fogones del campamento sin necesidad de preparar libretos.
 - Cuidá que el humor no sea a costa de nadie del grupo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**IMPROMPTU POTTED PLAYS.**
-
-A plot with the necessary characters is thought out, but no parts are written. A cast is chosen, with two seniors to lead the gagging, and the play is performed to amuse the rest. In a short time it will be possible to put one on with only one rehearsal, for an outside audience, and have a real success.
 
 
 ## Texto original completo de la actividad

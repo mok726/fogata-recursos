@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,17 +156,6 @@ Un equipo es «Verdadero» y el otro «Falso». El que dirige dice una frase («
 
 ## Notas para el educador
 - La variante de verdadero o falso convierte el juego en un repaso de técnica scout, de naturaleza o de lo que estén trabajando.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CROWS AND CRANES.**
-
-Two teams facing each other 5 feet apart, one called “Crows,” the other “Cranes.” Leader calls one of these names, rolling the R, and the team with that name has to reach their end of the room before being touched by the other team. Team first catching all the others wins.
-
-Variation.-When leader calls “Crabs” none may move, any doing so are deemed caught by the other side. Otherwise as before.
 
 
 ## Texto original completo de la actividad

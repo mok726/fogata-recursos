@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Una carrera en la que todo el equipo avanza junto, en cuclillas, como un cocodri
 
 ## Notas para el educador
 - Que el recorrido sea corto: es un ejercicio muy cansador para las rodillas.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CROCODILE RACE.**
-
-Teams in file, squatting at the deep knees-bend position, hands on the shoulders of the player in front. Each team in that position hops forward to a given place and back; if it falls over it must return to the start, reform, and try again. Course should not be very long. First team to finish intact wins.
 
 
 ## Texto original completo de la actividad

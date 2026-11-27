@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,21 +160,6 @@ Un juego de confianza y comunicación: cada equipo es un barco que navega a cieg
 
 ## Notas para el educador
 - Buen juego para trabajar confianza y comunicación clara en la patrulla.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SHIPS IN A FOG.**
-
-Teams blindfold in single file with hands on each others shoulders at some distance from their leader, who is not blind. Leader, by giving orders, tries to pilot his ship through a given harbour-mouth formed by two chairs. First team through wins.
-
-Variation.-Leader may not address his team by name but must rely on his voice being picked out from the rest.
-
-**OBSTACLES IN A FOG.**
-
-A number of chairs as obstacles are placed about the room, and a goal marked at the end. Each team in turn starts at the other end, blindfold, and tries to get to the goal. If a player touches an obstacle he must walk round it three times before going on. Team getting most through in the specified time wins. Care must be taken that there is no bright light to give a hint as to the right direction.
 
 
 ## Texto original completo de la actividad

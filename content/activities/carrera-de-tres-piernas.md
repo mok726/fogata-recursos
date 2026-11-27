@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,19 +159,6 @@ Tríos atados, y los de las puntas llevan una papa en una cuchara.
 
 ## Notas para el educador
 - El juego habla de ponerse de acuerdo: preguntá qué hicieron las parejas que no se cayeron.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**THREE-LEGGED RACE.**
-
-Teams divided into pairs of players, each pair having their inner legs, as they stand side by side, tied together at the knee and ankle. Each pair run to a given point and back in this position, the second pair starting as the first finishes. Team to finish first wins.
-
-**MANY-LEGGED RACE.**
-
-Teams in line, with each player’s legs tied at the knee and ankle to those of the players on either side of him. In this formation they race round a given course. First team to finish intact wins.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Ayudar a los compañeros a buscar pelotas hizo que la patrulla ganara?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TARGET RELAY.**
-
-Teams in file; some target (Indian club) set up about 10 yards in front of each team. Each team has three tennis balls. Each player in turn throws to hit the target, retrieving his own balls, if necessary, and replacing the target after he hits it for the next. First team to all knock the target over wins. Successful players may retrieve balls for their team.
-
-**POTATO TEAM RACE.**
-
-Teams in line, a bucket about 30 yards in front of each team in the centre of a circle (radius about 3 yards). Placed round the circle three potatoes for each member of the team. Teams run to the edge of the circle, and each player tries to throw his three potatoes into his team’s bucket. A player, when all his potatoes are in the bucket, may help by throwing BACK potatoes which miss. First team back at the start with all its potatoes in the bucket wins.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de ronda con una manta: los de la ronda mueven una pelota sobre la tela
 
 ## Notas para el educador
 - Funciona muy bien con lobatos chicos. Una sábana de colores (o un paracaídas de juegos) lo hace más lindo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BALLOON BLANKET.**
-
-Players seated in circle on floor, holding edges of a sheet or blanket. One player outside tries to catch a ball or balloon rolled about on sheet by the others raising or lowering the sides.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ Una mancha en equipo: los pastores, tomados de las manos, tratan de atrapar a la
 
 ## Cierre
 - ¿Cómo se pusieron de acuerdo los pastores para rodear a las ovejas?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PENNING SHEEP.**
-
-Various pens are marked out on floor, 12 players in lines of 4 holding hands are the shepherds, the rest are the sheep. The shepherds try to catch the sheep or to drive them into a pen. A caught sheep is put into any pen the shepherds like. As soon as there are 4 sheep in a pen they join hands and become another shepherd.
 
 
 ## Texto original completo de la actividad

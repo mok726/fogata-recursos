@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de ronda para disimular: los jugadores se pasan un anillo por un hilo y
 
 ## Notas para el educador
 - Es parecido al «anillo» o «la sortijita» que se juega en los cumpleaños.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASSING RING ON CORD.**
-
-A piece of string in a circle with a ring on it, players holding string. One in centre tries to catch ring which is passed to and fro about circle. Player in whose hands it is caught goes to centre.
 
 
 ## Texto original completo de la actividad

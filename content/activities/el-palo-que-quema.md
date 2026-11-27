@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -151,19 +150,6 @@ Un juego de ronda en el que nadie quiere quedarse con el palo cuando suena el si
 
 ## Cierre
 - ¿Qué hacían cuando sentían que estaba por sonar el silbato?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASSING THE STICK.**
-
-Players in circle pass a stick round one to another, whoever is holding it when the whistle blows puts his hands behind his back and is missed next time the stick comes round but does not fall out. Continue till only two are left.
-
-**PASS THE HAT.**
-
-Players in circle; one takes a hat and puts it on to the head of the next and so on round the circle. The player holding the hat, or having it on his head when the whistle goes, sits down. Last in wins. It must be seen that the hat is really put on each head and not merely passed from hand to hand.
 
 
 ## Texto original completo de la actividad

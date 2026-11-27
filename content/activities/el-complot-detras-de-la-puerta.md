@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -159,15 +158,6 @@ Un juego de atención y memoria auditiva, que se hace por sorpresa.
 ## Notas para el educador
 - Que el «plan» sea gracioso y no dé miedo: nada de violencia ni amenazas.
 - Sirve para hablar de rumores y de la diferencia entre lo que se escuchó y lo que se interpretó.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**OVERHEARD PLOT.**
-
-During the meeting two loud hoarse voices are heard plotting outside the door. Each team, after they have finished, is asked to produce a report for the police. No warning should be given, but the leader calls for silence as soon as the plotting is first heard.
 
 
 ## Texto original completo de la actividad

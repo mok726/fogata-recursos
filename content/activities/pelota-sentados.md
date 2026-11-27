@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,17 +151,6 @@ Un juego de pelota en el que todos juegan sentados: hay que hacer pasar la pelot
 
 ## Cierre
 - ¿Ayudaba estar sentado entre dos rivales o complicaba?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SHOVE BALL.**
-
-Two teams. Players sit in two rows on chairs about 4 feet apart, in such a way that no player has one of his own side on either side of him. Each side appoints a goalkeeper, who sits in the space at the end of the
-
-rows. Each team tries to pat a ball (along the floor) or a balloon past the other side’s goalkeeper. No player may rise from his chair, the ball may only be patted with the open hand.
 
 
 ## Texto original completo de la actividad

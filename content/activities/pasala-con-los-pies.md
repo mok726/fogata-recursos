@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Más difícil: todos sentados en el piso y la pelota agarrada entre los dos pies
 
 ## Cierre
 - ¿Qué técnica de pase funcionó mejor?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASSING BALL WITH FEET RELAY.**
-
-Teams in line about 3 feet between each player. The first player of each team has a ball resting between his feet on the insteps. Each player passes the ball on to his neighbour, using only his feet in the process; if the ball rolls away it may be recovered by the player at fault with his hands, but must pass it on in the usual way after regaining his place. First team to pass the ball from one end to the other wins.
 
 
 ## Texto original completo de la actividad

@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Se arranca sentado en el piso, para hacerlo más difícil.
 
 ## Cierre
 - ¿Cuál fue la orden más confusa?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ODDS ROUND EVENS RACE.**
-
-Teams in file; each team has a given number, as does each player. On order “Odds round Evens ........ GO,” each player with an odd number runs round the nearest even number. First team back at “alert” wins. Other orders such as “ODD teams round Even... GO,” etc. Players may be started from a sitting position.
 
 
 ## Texto original completo de la actividad

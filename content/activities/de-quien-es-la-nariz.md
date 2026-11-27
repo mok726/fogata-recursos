@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,17 +159,6 @@ Un juego para reconocer a los compañeros viendo solo una parte de ellos.
 
 ## Notas para el educador
 - Que nadie se sienta mal por su nariz: el juego va de observar, no de burlarse. Si notás incomodidad, pasá directo a la variante de manos o sombras.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHO'S NOSE?**
-
-A sheet is arranged so that only the noses of those behind it are visible. The team behind show their noses one at a time and the others try to guess the owners.
-
-Variations.-Hand, Foot, Shadow, etc.
 
 
 ## Texto original completo de la actividad

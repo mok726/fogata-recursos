@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de equipos en el que hay que meterse adentro de una ronda que defiende 
 
 ## Cierre
 - ¿Qué estrategia usaron? ¿Entraron todos juntos o de a uno?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**STORM THE CASTLE.**
-
-Players form a circle, hands joined, one team outside. Team getting all its members in quickest wins. Teams “storm” in turn.
 
 
 ## Texto original completo de la actividad

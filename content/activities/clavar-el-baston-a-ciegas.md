@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Un juego para calcular distancias y caminar derecho sin ver.
 ## Notas para el educador
 - Combina bien con la ficha de medidas personales (cuánto mide tu paso).
 - Si el piso es duro, usá en su lugar una marca en el suelo y que el jugador apoye la punta del bastón.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PLACING THE STAFF.**
-
-Leader places a staff in the ground, each player looks at it, is blindfold, then tries to place his as near to it as he can starting about 20 or 30 yards away. No feeling about must be allowed.
 
 
 ## Texto original completo de la actividad

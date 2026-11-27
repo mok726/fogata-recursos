@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -159,17 +158,6 @@ Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
 
 ## Notas para el educador
 - Podés pegar en la pared un mapa de Argentina y, después del juego, que cada uno marque su ciudad.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GENERAL POST.**
-
-Players in circle round room, each takes the name of a town. One player in centre. Leader calls out two towns and “Letter”, “Parcel,” or “Telegram.” The towns mentioned change places and the one in centre tries to occupy one of the vacant seats. “Letters” all walk, “parcels” all crawl (or hop), “telegrams” all run; all includes one in centre.
-
-Variation.-Player in centre is blindfold and tries to catch one of the two moving, and need not hop or crawl.
 
 
 ## Texto original completo de la actividad

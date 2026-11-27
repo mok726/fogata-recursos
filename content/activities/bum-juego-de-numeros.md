@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,25 +152,17 @@ Un juego de números para pensar rápido. Se dice «Buzz» (se pronuncia «bas»
 ### Variante: Para los más chicos
 Con lobatos, usá solo el 3 o el 5, que son más fáciles.
 
+### Variante: ¡Feliz Domingo!
+A mí, esta actividad me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden. 
+Así que la variante seria cambiar el numero del múltiplo cada tanto, así no se estancan y tienen que pensar en lugar de hacerlo automático.
+
 ## Cierre
 - ¿Qué truco usaron para no equivocarse?
 
 ## Notas para el educador
 - Es un juego para repasar las tablas sin que se note.
 - Que el ritmo sea rápido pero parejo: si alguien tarda, contá hasta tres en voz alta.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BUZZ.**
-
-Players in circle. They count in turn, but whenever the number 7 comes, or a multiple of 7, or a figure with 7 in it (such as 14, 21, 27, 28, etc.), the player whose turn it is must say “Buzz.” After two mistakes player drops out. 71 is “buzz one,” 77 is “buzz-buzz.” After each mistake the count starts again at 1.
-
-**WHIZZ BUZZ.**
-
-Exactly as for No. 2, except that as well as saying “ Buzz” for 7, the players also say “Whizz” for 5. E.g. 57 is “whizz buzz.” 75 is “buzz whizz.” 35 is “ whizz whizz buzz.” Being both a number with 5 in it, a multiple of 5, and a multiple of 7. For further details see No. 2.
+- A mí me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden.  
 
 
 ## Texto original completo de la actividad

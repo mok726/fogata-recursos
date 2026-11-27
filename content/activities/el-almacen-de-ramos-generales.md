@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de correr y pensar a la vez.
 
 ## Notas para el educador
 - Podés cambiar los negocios por lugares del campamento: la intendencia, la enfermería, la cocina de patrulla.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SHOPS.**
-
-Players round room, all Scouters are various shops. Leader calls out name of shop, a letter, PAUSES, and then a number. Players of that number, as soon as they have thought of something beginning with that letter which is sold by that particular shop, run to that shop and tell the Scouter “in charge.” First scores 1 and second 2, etc. Lowest total at end wins. N.B. The pause is essential to make all think.
 
 
 ## Texto original completo de la actividad

@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de ronda de carrera: dos corren alrededor de la ronda para ver quién l
 
 ## Notas para el educador
 - Pedí que al cruzarse siempre pasen por la derecha: evita choques.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FILL THE GAP.**
-
-Players in circle, facing in, one runs round outside and taps another on the back. Both then race round the circle in opposite directions, and whichever fails to get back first and fill the gap carries on.
 
 
 ## Texto original completo de la actividad

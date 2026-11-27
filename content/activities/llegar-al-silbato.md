@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,19 +159,6 @@ Un juego para aprender a orientarse con el oído.
 ## Notas para el educador
 - El viento desvía mucho el sonido: si hay viento, tocá más seguido o acortá la distancia.
 - Este juego entrena justo lo que hace falta si alguien se pierde y escucha un silbato de búsqueda.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LOCATION BY SOUND.**
-
-Leader takes up a position in an open space, teams line up some distance away and are blindfold. The leader blows a whistle at intervals and each player on reaching him removes his bandage and keeps quiet. First team all to reach the leader wins. O.
-
-**WHICH WHISTLE?**
-
-Leader of each team goes the same distance from the starting point, and each has a whistle of a distinctive note, different from the rest. Teams are blindfold, leaders whistle at intervals, and the first team to rally to its own leader wins. Any reaching the wrong leader go back and start again.
 
 
 ## Texto original completo de la actividad

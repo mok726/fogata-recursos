@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,19 +156,6 @@ Un juego de dos jugadores con los ojos vendados, uno que busca y otro que esquiv
 
 ## Notas para el educador
 - El diario tiene que ser blando: un rollo de diario con cinta, no una revista dura ni un tubo de cartón.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ARE YE THERE?**
-
-Two players kneeling within reach of one another; one has a paper rolled up as a club. Whenever he asks “Are ye there? “the other must reply and try to dodge the ensuing blow. Both players are blindfold and neither may move his knees.
-
-Variation.—The two players hold hands (left) and each has a club, calling alternately.
-
-Variation.—The two players move about in a circle, otherwise proceeding as above.
 
 
 ## Texto original completo de la actividad

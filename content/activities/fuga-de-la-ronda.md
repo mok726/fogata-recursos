@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de ronda en el que uno o más jugadores encerrados tratan de escaparse 
 
 ## Notas para el educador
 - Para que nadie se golpee, la ronda tiene que tener brazos estirados y no achicarse.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ESCAPE.**
-
-Players join hands in a circle, one or more go into the centre and try to get out over or under the arms of the rest. No bursting through is allowed and the circle must not close in.
 
 
 ## Texto original completo de la actividad

@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de ronda para ver quién aguanta más un silbido con una sola bocanada 
 ## Notas para el educador
 - Es un juego excelente para bajar las revoluciones después de un juego movido, y para enseñar a respirar con calma en momentos de nervios.
 - Si alguien se marea, que deje de jugar y respire normal.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DYING PIGS.**
-
-Players sitting in circle; at first signal each player inhales a deep breath, and at next signal lets it out with a long sustained whistle. As each player runs out of breath he lies down, dead. Last to die wins.
 
 
 ## Texto original completo de la actividad

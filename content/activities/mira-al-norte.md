@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Un juego rápido para aprender los puntos cardinales dentro del salón.
 ## Notas para el educador
 - Antes, ubicá el Norte real del lugar. En el hemisferio sur, al mediodía el sol está hacia el Norte.
 - Complementa la Rosa de los 32 Rumbos y las fichas de orientación.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**NORTH, SOUTH, EAST OR WEST?**
-
-Players form up in open ranks, leader points out the N., S., E., and W. of the room and then calls out a compass direction. All at once jump to face that way, players in error fall out or are executed as in No. 4.
 
 
 ## Texto original completo de la actividad

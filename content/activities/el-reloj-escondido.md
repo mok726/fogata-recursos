@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Un juego para encontrar un objeto guiándose solo por su sonido.
 ## Notas para el educador
 - Si usás un celular, poné el volumen bajo: el juego es lindo cuando cuesta.
 - Sacá del medio sillas y mesas para que nadie se golpee.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CLOCK TICK.**
-
-A fairly loud ticking clock is placed where it can be touched. One player from each team enters the room blindfold, all try to touch the clock and on doing so remove bandage arid keep quiet till all have done so. Clock is moved and another from each team comes in, and so on.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Una competencia de lanzamientos con objetos raros: hay que tirar cada cosa lo m�
 
 ## Notas para el educador
 - Da para charlar sobre el aire y la forma de las cosas: ¿por qué el avión llega más lejos que la hoja hecha un bollo, o al revés?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**THROWING THINGS.**
-
-Any number of teams, and as many assorted objects as there are teams. One member of each team allotted to each object. Separate contests take place trying to throw each object as far as possible. Team winning most contests wins. (Rope ring 2 feet diameter, tent, mallet, balloon, paper dart, empty match-box, staff, etc.).
 
 
 ## Texto original completo de la actividad

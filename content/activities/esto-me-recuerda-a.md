@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de memoria en ronda, con ideas encadenadas.
 
 ## Notas para el educador
 - Las asociaciones dicen mucho de cada uno: si alguna toca algo sensible, seguí sin detenerte en ella.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**REMINDERS.**
-
-Players in circle, one player starts by saying (say) “I've thought of a kettle,” the next might say “That reminds me of steam,” and so on. After one or two rounds the leader says “unwind” and the players in the same order repeat the list from the other end back to “kettle,” any failing losing a life.
 
 
 ## Texto original completo de la actividad

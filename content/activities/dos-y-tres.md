@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,21 +154,6 @@ Un juego de persecución en ronda, en el que el perseguido se salva parándose d
 
 ## Notas para el educador
 - Un clásico del patio. Con mucha gente, que haya dos perseguidores a la vez.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TWOS AND THREES.**
-
-Players in circle, two deep, facing in. One chases another, whenever the fugitive stops in front of a pair the rearmost one of that pair becomes the fugitive. Touched fugitive chases his pursuer.
-
-Variation.-Pairs face each other with joined hands forming cages in which the fugitive takes refuge, outer one of cage becoming fugitive.
-
-Variation.-Whenever the whistle blows fugitive becomes pursuer and vice versa.
-
-Variations.-Walking, hopping, etc., for running.
 
 
 ## Texto original completo de la actividad

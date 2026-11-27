@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Una patrulla pasa la pelota y otra corre en posta. Después cambian.
 
 ## Cierre
 - ¿Qué hacía la ronda para que la pelota fuera más rápido?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**RACE IT.**
-
-Players in circle, one player outside. A ball is passed round the circle and the player outside races it. The player making the most circuits whilst the ball makes two, wins.
 
 
 ## Texto original completo de la actividad

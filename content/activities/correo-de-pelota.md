@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,19 +151,6 @@ Una carrera de pases de pelota en zigzag entre dos filas, como un correo que lle
 
 ## Cierre
 - ¿Qué tipo de pase iba más seguro?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**COURIER RACE.**
-
-Each team in two lines facing each other. First player in one line throws a ball to the player opposite him, who throws it to the second player in the other line, and so on along the team. When the ball reaches the other end it is returned in the same way. The team first to do this the allotted number of times wins. A player dropping the ball must recover it and regain his place before passing it on.
-
-**COURIER RELAY.**
-
-Teams lined up as in No. 23, and the game goes on as before, except that when the ball gets to the end of the line the last player runs up to the other end and re-starts the ball. The first team to regain its original order wins.
 
 
 ## Texto original completo de la actividad

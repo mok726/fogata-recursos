@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,17 +157,6 @@ Un juego caótico y muy divertido: cada uno tiene una orden secreta que cumplir,
 
 ## Notas para el educador
 - El juego da para charlar sobre negociación y conflictos: dos personas con objetivos opuestos pueden buscar una solución en la que ganen las dos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PANDEMONIUM.**
-
-Each player is given a card on which is an order. As soon as the game starts all try to carry out the orders on their cards. The success of the game depends on the originality, variety, etc., of the orders. Some should be to prevent others being carried out.
-
-Variation.—To put the orders in a very simple code.
 
 
 ## Texto original completo de la actividad

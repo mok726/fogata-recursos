@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de persecución en una cuadrícula: un equipo tiene que cruzar de punta
 
 ## Cierre
 - ¿Qué cuadrados eran los más peligrosos? ¿Cómo se ayudaban para pasar?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WALLA.**
-
-Ground marked in 9-feet squares with a base at each end; one team stand on the lines, forming squares running across ground, and may not move off their line but move along it (not more than three on any line). One (Walla) may move in any direction on any line. Other team try to pass from one base to the other without being touched by moving from square to square, forward or sideways, but never back. Caught player falls out. Team getting most through wins.
 
 
 ## Texto original completo de la actividad

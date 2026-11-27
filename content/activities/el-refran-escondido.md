@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
 ## Notas para el educador
 - Una buena excusa para charlar sobre el sentido de los refranes y de dónde vienen.
 - Para lobatos, usá frases cortas y conocidas.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PROVERBS.**
-
-The leader writes a proverb on the black-board, in the form of a series of X's, one for each letter, grouped in the proper words. Each player in turn suggests a letter, which, if it is right, the leader writes in its correct place. Each player has one guess that he may use when he likes, the first to guess the whole proverb correctly wins.
 
 
 ## Texto original completo de la actividad

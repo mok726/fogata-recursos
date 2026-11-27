@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -166,15 +165,6 @@ Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
 
 ## Notas para el educador
 - El juego nació en las cubiertas de los barcos. Armar la red con nudos de verdad es parte de la actividad.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DECK TENNIS.**
-
-Played over a net about 5 feet high by throwing a rope ring from side to side. One team each side of net, any player dropping the ring falls out. Team lasting longest wins. Thrower of a shot falling outside a marked base line falls out. Also played as singles or pairs. For full details see Teni-Quoil, on sale at most sports stores.
 
 
 ## Texto original completo de la actividad

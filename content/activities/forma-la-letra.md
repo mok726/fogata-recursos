@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Al final, todas las patrullas juntas forman una palabra corta: SCOUT, LOBO, FOGÃ
 
 ## Notas para el educador
 - Una foto desde arriba (o con un drone, si alguien tiene) es un lindo recuerdo para el campamento.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FORM X's.**
-
-Any number of teams. Leader calls out a letter of the alphabet, and the team first forming up in such a way as to make that letter wins. Lying on the floor may well be substituted, and makes the letter formed easier to read.
 
 
 ## Texto original completo de la actividad

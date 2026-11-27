@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -147,15 +146,6 @@ Una carrera de tríos que corren de espaldas, guiados por el compañero del medi
 
 ## Cierre
 - ¿Cómo se sintieron los que iban de espaldas, confiando en el del medio?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BACKWARDS TEAM RACE.**
-
-Teams in line with arms linked (3 is a good number for a team), backs to the winning post, except the centre player of the team, who faces the winning post and steers his team. First team finishing intact wins.
 
 
 ## Texto original completo de la actividad

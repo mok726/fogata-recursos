@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué objetos eran fáciles de reconocer? ¿Cuáles se confundían?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**RUMMAGE RELAY.**
-
-Players in file; in front of each team a sack containing the same set of articles for each team. Each player is allotted a particular article, and in turn each goes and fetches their article from the sack, only feeling for it, not looking. First team to finish complete with all its articles wins.
 
 
 ## Texto original completo de la actividad

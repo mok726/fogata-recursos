@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Un juego para aprender a describir con detalle.
 
 ## Notas para el educador
 - Conviene repetirlo varias reuniones seguidas, un ratito cada vez: el progreso se nota rápido y eso motiva.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**OBSERVATION GAME.**
-
-Two small objects are placed on a chair, all are asked what is on the chair (say 2 screws). At first the answer is “Two screws.” Later it will improve to (say) “Two screws, one brass about 1¾ inches long with a large head and coarse thread; the other about ¾ inch long and very rusty.” The standard should improve very quickly.
 
 
 ## Texto original completo de la actividad

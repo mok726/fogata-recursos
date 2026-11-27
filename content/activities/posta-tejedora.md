@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,21 +151,6 @@ Una carrera de postas en ronda: cada corredor da la vuelta pasando en zigzag ent
 
 ## Cierre
 - ¿Qué patrulla tejía más prolijo? ¿Y la más rápida?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WEAVER'S RELAY.**
-
-Two or more teams in circle, facing in, a yard between each player. Teams placed concurrently, NOT muddled up. On “Go,” first member of each team runs round circle to his right, zig-zagging between the other players; on regaining his place he touches No. 2, who does the same, and so on. First team to finish all players wins. No obstruction allowed.
-
-**JUMPING HANDS RELAY.**
-
-As for No. 4, except that players sit on floor, holding hands, and those racing jump in and out over the hands.
-
-Variation.-As above, but going over and under the hands.
 
 
 ## Texto original completo de la actividad

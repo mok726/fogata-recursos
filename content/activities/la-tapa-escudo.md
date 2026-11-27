@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ Un juego de tiro al blanco en movimiento: uno se defiende con una tapa de olla c
 
 ## Cierre
 - ¿Qué convenía: tirar fuerte o pasarse la pelota para tirar de cerca?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**HOT RICE.**
-
-One player has an old dixie lid, the others try to hit him with a ball. The ball must always be thrown from where it drops, but may be passed to another player. If the player is caught full pitch or is hit he at once drops the lid, and his place is taken by the thrower or catcher, who may be thrown at as soon as he has touched the lid.
 
 
 ## Texto original completo de la actividad

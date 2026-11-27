@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ Un duelo de palabras: hay que hablar sin parar.
 
 ## Cierre
 - ¿Qué es más difícil: hablar o no escuchar al otro?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**QUICKEST TALKER.**
-
-Two players stand up facing each other in front of the rest and must make a speech to each other as fast as they can on any subject they like. No gestures are allowed. The first player to pause or start laughing loses. If neither break down in two minutes the winner is decided by vote of the rest.
 
 
 ## Texto original completo de la actividad

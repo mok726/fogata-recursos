@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -159,23 +158,6 @@ Un aro de soga es una soga con las puntas atadas, formando un anillo. Para este 
 
 ## Notas para el educador
 - El aro de soga lo puede hacer la patrulla antes, con un empalme corto (ver Técnica Scout).
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**HOOP RACE.**
-
-Teams in file; each team has a rope ring just large enough to pass over a player. Each player in turn runs to a given point where the ring is and slips it over his head, and off at his feet; then running back to start the next. Team finishing first wins.
-
-Variation.—Teams in file, players about 2 feet apart. Nos. 1 pass ring over themselves as above, and then hand it to next players, who do the same, and so on down the file.
-
-**ROWERS’ RACE.**
-
-Teams in file seated on floor. Each team has a rope ring about 1 foot 6 inches diameter. Each player in turn, without getting up, passes the ring over his feet, up over his body, and off over his head, and so on to the next. When the ring reaches the last player he passes it in the opposite direction over his body, and so on to the player in front. First ring to re-reach the front wins.
-
-Variation.—When ring reaches the last player he runs to the front and restarts it.
 
 
 ## Texto original completo de la actividad

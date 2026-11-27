@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,19 +152,6 @@ Un juego a ciegas en el que hay que encontrar a los compañeros y reconocerlos s
 
 ## Cierre
 - ¿Cómo saben para dónde queda el Noreste si solo conocen el Norte?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**STEPS.**
-
-One player is blindfold, each other player in turn comes up to him and is allotted a certain number of steps (any number between 3 and 9), which must all be taken at once in any direction. When all have gone the blind player feels about till he touches one, who he tries to identify by feel. If he is right they change places and start again, if wrong he goes on till he is right. A player after taking his steps may bend down but may not move his feet.
-
-**COMPASS STEPS.**
-
-Played just as the above except that each player is given a compass direction as well as a number of steps. If he fails to go in the right direction he loses a life, and after three lives is executed by bending down back to the rest about 15 yards away while each player not to be executed has a shot with a soft ball (tennis ball).
 
 
 ## Texto original completo de la actividad

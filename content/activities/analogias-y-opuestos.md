@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,19 +157,6 @@ Dos juegos rápidos de palabras.
 
 ## Cierre
 - ¿Qué analogías tenían más de una respuesta posible? ¿Valían las dos?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ANALOGIES.**
-
-Leader reads out a series of sentences as “Foot is to boot as hand is to . . .” Players having to fill in the missing word. OR “Scout is to Cub as frog is to pond, fish, tadpole, bank.” Players having to state the correct one of the alternatives.
-
-**OPPOSITES.**
-
-Leader writes up two columns of words and players have to say if the word in the right-hand column is the opposite of that in the left or has no connection, all to be done fast. E.g. Morning Evening. Remove. Restore. New. Knew. Show. Demonstrate. etc. etc.
 
 
 ## Texto original completo de la actividad

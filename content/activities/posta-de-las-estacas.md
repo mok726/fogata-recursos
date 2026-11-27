@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,17 +160,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 ## Notas para el educador
 - Antes del juego, mostrá cómo se clava una estaca y cómo se saca con otra estaca o con un sacaestacas.
 - Ideal para la mañana de armado del campamento.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TENT PEG RELAY.**
-
-Teams in file; each team has 12 tent-pegs and a mallet. Each first player runs with the pegs and mallet to a given spot and knocks all the pegs in, returning to send off the next player, who pulls all the pegs out and
-
-knocks them in again, and so on. If a peg falls down between one player leaving it and the next arriving, the one who knocked it in must go back and replace it. First team to finish wins.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Un juego de persecución en el que solo se puede correr por las líneas de una r
 
 ## Cierre
 - ¿Qué camino les convenía usar: los rayos o el borde?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHEEL PURSUIT.**
-
-Wheel chalked on floor about 9 feet radius, 2 feet 6 inches hub, 1-foot rim, and spokes. Players round rim. Two players chase another, all keeping to the rim or spokes. Players outside watch lest any step outside. Fugitive may be considered safe in the hub.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -164,15 +163,6 @@ Una carrera entre dos equipos: uno tiene que atar dos nudos antes de que un corr
 
 ## Notas para el educador
 - Cada nudo lo revisa el que dirige: un nudo mal hecho no cuenta.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BOWLINE, CLOVE-HITCH RACE.**
-
-Teams in line facing each other; one player of each team goes and gives any player of the other a rope, which must be tied in a bowline round that player’s waist, and a clove-hitch round a post before the giver can run round a set course and return to touch the knotter, and so on till all have run. Team winning the most heats wins. Distances can only be found by experiment.
 
 
 ## Texto original completo de la actividad

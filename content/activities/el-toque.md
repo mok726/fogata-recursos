@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de desafío y carrera entre dos equipos: uno va, le da un toque en la m
 
 ## Notas para el educador
 - Es pariente del «Martín Pescador» y de la «Bandera»: si ya los juegan, este es una buena variante.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FLIP.**
-
-Two teams line up facing each other at opposite ends of the room. One team holds out its hands, palms down, the other sends a representative who flips the palm of one of the other side with his finger and races back to his place; if he is caught he is his opponent's prisoner, if not, the one flipped is prisoner. The other team then sends a flipper. The capture of an enemy also releases one prisoner. The team to first take all their opponents wins. No player may be flipped twice till all his side have had a turn.
 
 
 ## Texto original completo de la actividad

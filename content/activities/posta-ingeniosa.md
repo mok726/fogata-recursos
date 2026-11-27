@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Notas para el educador
 - Que la patrulla piense antes en las formas: la estrategia es parte del juego.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**INITIATIVE RELAY.**
-
-Teams in file; each player in turn goes round a given course in any way he likes, but no two players in the same team may use the same method of progress; penalty for latter is to complete the course in the method chosen in error and then do it again in an original way.
-
-**GENUINE RELAY.**
-
-One player from each team is sent to each of the pre-arranged stations round the course. An ordinary relay is run, but the players at the first station hop, 2nd crawl, 3rd walk backwards, 4th roll, etc. Team to finish first wins.
 
 
 ## Texto original completo de la actividad

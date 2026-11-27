@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de tirar y atajar por encima de una cortina: como no se ve al otro lado
 
 ## Cierre
 - ¿Cómo se organizaron para cubrir toda la cancha?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CURTAIN BALL.**
-
-An opaque curtain high enough to hide the players is hung across the room, one team on each side of it. Each team tries to throw a football over so that it hits the ground the other side. Any player letting it fall drops out (3 lives may be given). Team lasting longest wins. No player may move with the ball.
 
 
 ## Texto original completo de la actividad

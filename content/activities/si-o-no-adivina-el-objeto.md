@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ Un juego de adivinar con preguntas de «sí» o «no».
 
 ## Notas para el educador
 - Buen juego para trabajar preguntas «grandes» (que descartan mucho) y preguntas «chicas». Charlalo al final.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**YES OR NO, WHAT IS IT? or CLUMPS.**
-
-Players in teams. One member of each team goes out of the room, and these settle on some object. They then return to any team but their own, and will only answer Yes or No to any question; if this is impossible they remain silent. The first team to discover the object wins.
-
-**EARTH, AIR, OR WATER.**
-
-One player thinks of an object and the others questioning try to find out what it is. The range of may be limited at the discretion of the leader. .
 
 
 ## Texto original completo de la actividad

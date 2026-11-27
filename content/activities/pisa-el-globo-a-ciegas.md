@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Un juego de memoria y orientación: hay que reventar un globo pisándolo, pero c
 ## Notas para el educador
 - Juntá todos los pedazos de globo al terminar: son peligrosos para los animales.
 - Que nadie juegue descalzo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BALLOON STAMP.**
-
-Players of teams in turn see a small balloon on the floor, are then blindfold, and walk to where they think the balloon is and may then make three stamps (no feeling) to try and burst the balloon. Team bursting most balloons wins. To get a fair result each player should have two goes, and the position of the balloon should not remain constant.
 
 
 ## Texto original completo de la actividad

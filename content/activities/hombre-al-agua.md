@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,15 +160,6 @@ Un juego para practicar cómo unir dos sogas rápido y bien, como si hubiera que
 
 ## Notas para el educador
 - El que camina nunca corre ni tira de golpe.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**MAN OVERBOARD.**
-
-Two coils of rope lie on one side of a line and one player takes one end of one of the ropes and walks away from the line. One of the others must join the two ropes together before the one the “man overboard” holds is pulled over the line. Pace of walking can only be found by trial.
 
 
 ## Texto original completo de la actividad

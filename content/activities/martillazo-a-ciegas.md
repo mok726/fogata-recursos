@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Un juego de orientación a ciegas con una estaca de carpa.
 ## Notas para el educador
 - Usá maza de madera o de goma, nunca un martillo de metal.
 - Buen juego para el día de armado del campamento: después todos saben clavar estacas.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLINDFOLD TENT-PEGGING.**
-
-A peg is driven into the ground. Each player in turn starts about 6 yards away blindfold; he turns round about 3 times and then tries to advance to where the peg is and hit it with a mallet. No feeling must be allowed. The player who hits it fairly on the top in the fewest blows wins. O
 
 
 ## Texto original completo de la actividad

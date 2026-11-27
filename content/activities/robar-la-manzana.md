@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de ronda en el que un «ladrón» tiene que robar una manzana sin saber
 
 ## Cierre
 - ¿Cómo hicieron los de la ronda para no delatar al chacarero?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ROBBING THE ORCHARD.**
-
-Players in circle, “robber” is sent out of the room, “farmer” is chosen, and an “apple” put in the centre of circle. Robber enters the circle and tries to grab the apple and get out of the circle without being touched by the farmer, whom he does not know. The farmer may not move till the apple is touched. Robber must leave the circle at the same point as he entered.
 
 
 ## Texto original completo de la actividad

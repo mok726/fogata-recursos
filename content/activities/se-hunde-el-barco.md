@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,23 +156,6 @@ Un juego de ronda para estar atentos y reaccionar rápido: hay que sentarse en e
 
 ## Notas para el educador
 - Buen momento para hablar de inclusión: proponé que, en la segunda vuelta, los grupos solo cuenten si nadie quedó afuera por culpa de otros.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**UNMUSICAL BUMPS.**
-
-Players move round in a circle, whenever leader blows his whistle all sit on the floor, and last down falls out.
-
-Variation.-Leader tells a yarn, and whenever a prearranged word is spoken (it, the, and, etc.) all sit down. May well be combined with No. 6.
-
-**CRASH.**
-
-Players move round in a circle, and leader says “Sit down in (say) 5's.” All who do not get into a group of 5, sitting on the floor, fall out
-
-Variation.-Leader tells a yarn, and whenever he mentions a number all sit down in groups of that number. May well be combined with No. 5.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Un juego de pensar rápido con frases desordenadas.
 
 ## Notas para el educador
 - La tercera opción («no se sabe») da para una buena charla sobre lo que sabemos, lo que creemos y lo que todavía no se descubrió.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SENSE?**
-
-Leader reads out a sentence with the words jumbled out of order, and players must say quickly if the sense of corrected sentence is true or false. E.g. The sea in the water is salt.” (True.) The Scout badge King's is a Woodman.” (False.) Animal there is Mars in life.” (Unknown.) etc. etc.
 
 
 ## Texto original completo de la actividad

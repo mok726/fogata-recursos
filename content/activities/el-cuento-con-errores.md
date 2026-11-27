@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,15 +160,6 @@ Cada patrulla escribe un cuento con diez errores para que las demás los descubr
 
 ## Notas para el educador
 - Si los errores son de técnica scout, el juego sirve para repasar sin que parezca una clase.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**QUEER STORY.**
-
-Players in circle; leader reads a story into which are introduced numerous inaccuracies and contradictions. The team or player with the best list of faults at the end wins.
 
 
 ## Texto original completo de la actividad

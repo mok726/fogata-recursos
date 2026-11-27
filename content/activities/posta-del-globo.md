@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,23 +155,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué fue más difícil: controlar el globo o ir rápido?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BALLOON PATTING RELAY.**
-
-Teams in file; each team has a small balloon, which every player in turn pats round a given course. If the balloon touches the ground the player must start again. First team to finish wins.
-
-**BALLOON AND STAFF RELAY.**
-
-Teams in file; each player in turn guides an inflated balloon round a given course with a Scout staff. To make it more difficult it may be said that the balloon must not touch the ground; penalty, start again.
-
-**SHEPHERD’S RACE.**
-
-Each team by fanning, blowing, or any other means laid down, guide a herd of inflated balloons round a zig-zag course. Any balloon going out of bounds must start again. First team penning all its herd in a box wins.
 
 
 ## Texto original completo de la actividad

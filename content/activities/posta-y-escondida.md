@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Notas para el educador
 - Marcá bien el límite del predio para que nadie se aleje demasiado.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**HIDE-AND-SEEK RELAY.**
-
-Some form of relay race is started and the leader slips out and hides somewhere in the grounds or building. As soon as they have finished the race each team tries find the leader and give him some object. First team to get their prearranged object to the leader wins.
 
 
 ## Texto original completo de la actividad

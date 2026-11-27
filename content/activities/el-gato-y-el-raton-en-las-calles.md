@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -146,15 +145,6 @@ Una mancha en la que un gato persigue a un ratón por calles formadas por los de
 
 ## Cierre
 - ¿Quién les sacó ventaja a los cambios de calle?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CAT AND MOUSE.**
-
-Players fall-in in fours, holding hands of those on each side. One player chases another in and out of the lines. Each time the leader blows a whistle all players turn right and hold hands with the player now on each side of them, thus changing the lanes for the runs. If the mouse is not caught in a fairly short time a change of runners should be made.
 
 
 ## Texto original completo de la actividad

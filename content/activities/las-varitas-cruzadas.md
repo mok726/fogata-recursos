@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,17 +152,6 @@ Un juego de truco: el que dirige sabe el secreto y los demás tienen que descubr
 ## Notas para el educador
 - Si después de un buen rato nadie lo descubre, empezá a exagerar el cruce de piernas.
 - Funciona con cualquier objeto: lápices, cucharas o ramitas.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASSING CROSSED STICKS.**
-
-Players in circle. Leader takes two sticks and passes them to his neighbour, crossed or not as he likes, as he does so saying, “I pass these sticks crossed (or uncrossed),” referring to whether his own ankles are crossed or not. The player receiving says, “I receive these sticks . . . and I pass them on ,” the leader
-
-saying if he is right or not. The one with the sticks may move or cross the sticks as he likes. The game continues till all have spotted the catch and are doing it right.
 
 
 ## Texto original completo de la actividad

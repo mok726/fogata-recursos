@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Una carrera de cooperación con paciencia: hay que llenar una botella pasando el
 
 ## Notas para el educador
 - Una linda excusa para hablar del cuidado del agua. Al terminar, usá el agua del balde para regar plantas.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FILL THE BOTTLE RACE.**
-
-Teams in line; each team has a pail of water at one end of their line and an empty bottle at the other and a teaspoon. The team first to fill the bottle up to a fixed mark with water wins. The water may only be transferred by the spoon being passed from one player to another along the line.
 
 
 ## Texto original completo de la actividad

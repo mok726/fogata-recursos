@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,15 +159,6 @@ Un juego de deducción, como los detectives.
 ## Notas para el educador
 - Juego excelente para trabajar pensamiento crítico: valorá más el razonamiento que el acierto.
 - Da para charlar sobre prejuicios: qué suponemos de alguien por cómo se ve o lo que tiene.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LOST MEMORY.**
-
-The leader announces that a man has been found who has lost his memory, the contents of the man's pockets are put on a tray. Each team tries to deduce all it can about the man, and furnish information to help to find out his identity.
 
 
 ## Texto original completo de la actividad

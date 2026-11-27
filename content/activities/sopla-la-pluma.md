@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,19 +155,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué truco descubrieron para que la pluma no se fuera para cualquier lado?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FEATHER BLOWING RELAY.**
-
-Teams in file; each player in turn blows a small downy feather round a given course, using his breath only. Team to finish first wins. If desirable, a fan may be provided for each team.
-
-**FRIED VISIT RELAY.**
-
-Teams in file; just in front of each team a circle about 1 foot diameter and another the same size at the other end of the course. Each team has a fan and a piece of thinnish paper cut out in the shape of a plaice. Each player in turn fans the “fish” from one “frying-pan” to the other, without touching it in any way. The fish must be absolutely in the circle, not overlapping at all. First team to finish wins.
 
 
 ## Texto original completo de la actividad

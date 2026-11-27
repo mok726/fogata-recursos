@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ Un juego de ronda en el que hay que sacar la pelota por entre las piernas de los
 
 ## Notas para el educador
 - Con lobatos, la pelota va solo con la mano y rodando.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**STRIDE BALL.**
-
-Players in circle, feet astride, knees straight. One in centre tries to throw a ball out between the legs of the rest who may not move but may use their hands to stop the ball. One who lets it out goes into the centre.
-
-Variation.-Those forming the circle try to throw ball between legs of one in centre who may move but must keep his feet astride.
-
-Variation.-As last with two in centre tied as for 3-legged race. See also under Team Games.
 
 
 ## Texto original completo de la actividad

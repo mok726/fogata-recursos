@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de sigilo y persecución entre dos equipos: hay que acercarse sin ser o
 
 ## Cierre
 - ¿Qué convenía: acercarse rápido o despacio?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CATCH ME.**
-
-Teams in line at opposite ends of the room, one team facing the wall, all players of the other team creep up and touch their opposite numbers of the other rank and then try to regain their places without being touched. No chasing player may move till touched by his opposite number. One point is scored for each player caught. Teams then change places, and one with best score wins.
 
 
 ## Texto original completo de la actividad

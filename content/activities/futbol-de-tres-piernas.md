@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -168,21 +167,6 @@ Un fútbol de salón muy divertido en el que, en vez de pelota, se patea un aro 
 
 ## Notas para el educador
 - El nudo del tobillo va con pañuelo, flojo, y se desata enseguida si alguien se cae.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**QUOIT FOOTBALL (FEET TIED).**
-
-Two teams each defend 6-feet goals, hopping with their two feet tied together. In place of a ball a rope quoit is kicked. Only the goalkeeper may use his hands but he must remain standing. No charging allowed.
-
-**QUOIT FOOTBALL (3-LEGGED).**
-
-Played as No. 6, hut the players are tied in pairs as for a 3-legged race. The goalkeeper(s) may use their outside hands only and must remain standing.
-
-Variation.-Players may only kick with their middle leg(s). No charging allowed.
 
 
 ## Texto original completo de la actividad

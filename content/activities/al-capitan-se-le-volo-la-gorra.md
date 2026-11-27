@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -160,19 +159,6 @@ En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡H
 
 ## Notas para el educador
 - Como los números cambian todo el tiempo, todos tienen que estar atentos aunque no les toque.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PRIEST OF THE PARISH.**
-
-Players in circle and numbered, Nos. 1 and 2 are also “Priest and Beadle.” Priest starts by saying “The priest of the parish has lost his hat, some say this and some say that, but I say No. (say) 7,” and starts to count ten fast. No. 7 should at once say “No sir, not I sir.” Priest replies “Yes sir, you sir.” No. 7 says “Not I sir.” Priest says “Who then sir ?” No. 7 then passes it on to anyone he likes by number or he may say “priest “ or “beadle.” Any not replying before ten is reached goes to the bottom, all move up and take new numbers.
-
-**MATTHEW, MARK.**
-
-Players in circle numbered from one. Numbers 1, 2, 3, 4, are also Matthew, Mark, Luke and John. Matthew starts by saying “ Matthew to . . . “ (some other number or name) ....... say 7. That one should at once say “7 to .......“ (another number or name); and so on. Any player failing to pick it up at once goes to the bottom, the others move up and take their new numbers or names.
 
 
 ## Texto original completo de la actividad

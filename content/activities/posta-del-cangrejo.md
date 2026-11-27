@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Notas para el educador
 - Que el recorrido sea corto: cansa mucho los brazos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CARTHORSE RELAY.**
-
-Teams in file; each player in turn goes to a fixed point and back, walking on their hands and feet with backs toward the ground. First team to finish wins. The course should not be too long.
-
-**POTATO CARRIERS’ RELAY.**
-
-Teams in file; in front of each team is a row of small circles with a potato in each. Each player in turn moves down the row of circles, collecting the potatoes into a small box carried on his stomach, and then returning to send off the next player, who replaces the potatoes in the circles, and so on. First team to finish wins. The players move in the same way as in No. 15.
 
 
 ## Texto original completo de la actividad

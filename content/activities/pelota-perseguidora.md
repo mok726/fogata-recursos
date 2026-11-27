@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Los equipos forman dos rondas, una adentro de la otra, intercalados. La pelota s
 
 ## Cierre
 - ¿Qué pases salieron mejor: cortos y seguros o rápidos y arriesgados?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASS FASTER.**
-
-Two teams form a circle, facing in, members of teams alternate. Leader of each team has a ball, and they are on exactly opposite sides of the circle. The ball is then passed or thrown by each player to the next right-hand member of his own team. A dropped hail must be recovered by the dropper, who must regain his place before passing it on. Team whose ball catches the other wins. The balls should be of different colours, or some more difficult object may be used.
 
 
 ## Texto original completo de la actividad

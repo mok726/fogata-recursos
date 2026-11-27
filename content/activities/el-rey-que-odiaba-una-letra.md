@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de ronda: hay que contestar sin usar una letra prohibida.
 
 ## Notas para el educador
 - Con lobatos, el Rey puede odiar una letra fácil de evitar, como la Z o la J.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GRAND MOGUL.**
-
-Players in circle, one player is the Grand Mogul and he states that he has an aversion to anything with the letter (say) D in it. He then asks each player in turn what he will give him for dinner and each must answer some food or drink which does not contain the letter D. Hesitaters are counted out, those saying a word with D lose a life, and three lives lost is death. Letter, Mogul, and form of question should change frequently.
 
 
 ## Texto original completo de la actividad

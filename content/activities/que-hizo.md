@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de observación de acciones.
 ## Cierre
 - ¿Qué acciones se olvidaron todos?
 - ¿Por qué los testigos de un hecho a veces cuentan cosas distintas?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHAT DID HE DO?**
-
-One player stands in the centre of the room and makes a few simple actions (e.g. walk six paces, take out pencil, open knife, sharpen pencil, sit on floor, whistle a tune). After a few moments, violent distraction each team or player tries to give an accurate report of what was done.
 
 
 ## Texto original completo de la actividad

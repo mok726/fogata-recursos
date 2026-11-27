@@ -58,7 +58,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -164,15 +163,6 @@ Cualquier carrera de nudos se puede correr con los ojos vendados.
 
 ## Notas para el educador
 - Para Manada, usá solo los nudos de su progresión.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLIND KNOTTING RACE.**
-
-Games such as Nos. 7, 8, and 9 can be played blindfold..
 
 
 ## Texto original completo de la actividad

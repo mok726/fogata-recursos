@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué gestos costaba más recordar?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DO THIS RELAY.**
-
-Leader does some fairly simple action (e.g. sit on floor, cross legs, scratch head). Each player in turn runs to a prearranged spot, does exactly the same action, and returns to send off the next player.
 
 
 ## Texto original completo de la actividad

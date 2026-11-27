@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de mímica con rimas.
 
 ## Notas para el educador
 - Es un juego para soltarse y perder la vergüenza de actuar delante de los demás. Ideal antes de preparar un número para el fogón.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DUMB CRAMBO.**
-
-One team goes out of the room, the rest choose a word (say) “moat” and tell the acting team that it rhymes with (say) “boat.” The acting team then act in dumb show all the words they can think of which rhyme with the given word, until they hit on the right one. Then another team goes out and the one taking the shortest time to succeed wins.
 
 
 ## Texto original completo de la actividad

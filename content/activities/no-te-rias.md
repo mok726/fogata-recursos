@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -148,15 +147,6 @@ Un juego para aguantar la risa.
 
 ## Cierre
 - ¿Qué gesto hizo reír a más gente?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DON’T LAUGH.**
-
-Players in line ; leader gives the order—”Do as I do, don’t laugh.” Players must then copy his actions as well as possible, any laughing lose a life. Players losing three lives fall out for execution later.
 
 
 ## Texto original completo de la actividad

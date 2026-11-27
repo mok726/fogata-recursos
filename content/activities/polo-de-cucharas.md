@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -151,15 +150,6 @@ Un polo de salón: los jugadores «montan» en sillas como si fueran caballos y 
 
 ## Cierre
 - ¿Cómo se pasaban la pelota entre compañeros?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FLOOR BALL, OR POLO.**
-
-A goal is marked at each end of the room, each team is mounted on chairs, with a spoon as a polo stick. They try to propel a tennis ball through the other goal. Kicking or charging is not allowed.
 
 
 ## Texto original completo de la actividad

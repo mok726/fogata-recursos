@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Cierre
 - ¿Qué técnica usaron: saltos chiquitos o grandes?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GRASSHOPPER RELAY.**
-
-Teams in file, each player in turn goes round a given course carrying some suitable object between his knees (e.g. bean bag) but without touching it with his hands. First team to finish wins. If a player drops the bag he starts again.
 
 
 ## Texto original completo de la actividad

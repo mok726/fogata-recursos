@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -167,15 +166,6 @@ El rounders es el juego inglés del que viene el béisbol. Se juega en una canch
 
 ## Notas para el educador
 - La regla de que la soga vaya a un fildeador distinto cada vez es clave: hace que todos practiquen, no solo los que saben.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**KNOTTING ROUNDERS.**
-
-Rounders, but no bat or ball. Pitcher and batter have ropes. Pitcher calls name of a knot and throws rope to any fielder. If batter reaches 1st base with knot right, he stays there; if fielder’s rope, tied right, gets there first, batter out; if batter cannot tie knot, out; if fielder cannot tie it, one rounder to batting side, whatever else happens. A correctly knotted rope may run out a player on 2nd or 3rd base, as in rounders, if fielders wish. The fielders must get the rope in turn, not only the best knotter.
 
 
 ## Texto original completo de la actividad

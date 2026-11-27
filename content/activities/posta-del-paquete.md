@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Una carrera de postas para aprender a armar un paquete prolijo y bien atado.
 
 ## Cierre
 - ¿Para qué sirve saber hacer un paquete bien atado? (Mudanzas, envíos, campamento.)
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PARCEL RELAY.**
-
-Teams in file; opposite each team a piece of brown paper, some string, and an object to be put in the parcel. Each first player runs up and makes up the parcel to the satisfaction of the leader, and runs back to start the next, who undoes the parcel, rolls up the string, and folds the paper neatly for the next to remake the parcel, and so on. First team to finish wins.
 
 
 ## Texto original completo de la actividad

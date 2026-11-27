@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Un juego de mesa entre dos equipos: hay que descubrir quién esconde la moneda.
 
 ## Notas para el educador
 - Un clásico para tardes de lluvia en campamento.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**UP JENKINS.**
-
-Players in two teams on each side of a table. One side has a small coin (6d.) which one of the players conceals in his hand. When the opposing captain says “up jenkins” all raise their hands, and place them on the table, as he may direct (slowly, with a crash, crawling about, etc.). If the captain then clears all empty hands off the table, his side score one. If he spots the 6d. without moving any hands he scores 5. If he is wrong he loses 1 or 5 as the case may be. If the “holders” lose, the 6d. changes sides. Only the captain must be obeyed or a point is lost. Captain changes each game.
 
 
 ## Texto original completo de la actividad

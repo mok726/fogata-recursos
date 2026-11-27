@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de puntería por equipos: hay que mover un globo hasta la línea del ot
 
 ## Notas para el educador
 - Con pelotitas de papel bollado se puede jugar adentro sin romper nada.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BALLOON AND BALLS FOOTBALL.**
-
-Each team lines up on its own goal line, a balloon or football bladder is put in the centre. Each team then tries, by throwing tennis balls, to drive the balloon over the other goal line. The balloon may only be propelled by a thrown ball, not a ball held in the hand; and never by any part of the person. Each time the balloon goes over the line a goal is scored.
 
 
 ## Texto original completo de la actividad

@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,19 +154,6 @@ Una carrera en la que todo el equipo, montado sobre un bastón, avanza como un c
 
 ## Notas para el educador
 - El palo va a la altura de la cintura, nunca entre las piernas a la altura de la entrepierna: así nadie se lastima.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CENTIPEDE RACE.**
-
-Teams in file astride a staff, all but one with hacks to the course. In this way, holding the staff with their hands, guided by their cox., they race round the course. First team to finish wins, if intact.
-
-**BLIND TEAM DRIVING RACE.**
-
-Teams in file, blindfold, except rearmost player, who is driver. Reins are attached to the front player, each player holds on to the shoulders of the one in front of him. Team is then driven round an “in and out” course. First team to finish intact wins.
 
 
 ## Texto original completo de la actividad

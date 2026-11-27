@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -147,15 +146,6 @@ Un juego de persecución en ronda en el que todos ayudan a la liebre a escaparse
 
 ## Cierre
 - ¿Cómo se pusieron de acuerdo los de la ronda para proteger a la liebre?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CATCH THE HARE.**
-
-Players in circle join hands, “hare” inside, two “hounds,” outside. Hounds try to catch hare, players in circle let hare in or out at will, but prevent or hinder the hounds to best aid the hare.
 
 
 ## Texto original completo de la actividad

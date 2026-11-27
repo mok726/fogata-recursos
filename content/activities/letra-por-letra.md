@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de palabras en ronda, sin papel.
 ## Notas para el educador
 - Para que el juego no se trabe, aclarar al principio que los plurales y las formas verbales cuentan como «palabra que sigue».
 - Es mejor con Scouts y Caminantes: para lobatos es difícil.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SPELLING BEE.**
-
-Players in circle. Each adds a letter in turn, endeavouring not to complete a word of more than three letters, but having in view a word that will be ultimately formed. Any player failing to add a letter in a minute, or completing a word, loses a life, third time he falls out. If a player doubts the letters reaching him, being able to form a word, he may challenge, if it is upheld his predecessor loses a life, if not he does. A word is not complete if any addition is possible, as whomsoever or adding “s” for a plural.
 
 
 ## Texto original completo de la actividad

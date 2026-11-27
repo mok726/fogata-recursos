@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -156,15 +155,6 @@ Toda la patrulla mira la misma imagen y después la dibuja entre todos, cada uno
 
 ## Notas para el educador
 - No importa si dibujan lindo: se valora lo que recordaron. Aclaralo al principio para que nadie se frene.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PICTURE REPRODUCTIONS.**
-
-Each player looks at a picture postcard for a minute, after a few minutes violent counter-attraction he tries to reproduce the essential points of the picture.
 
 
 ## Texto original completo de la actividad

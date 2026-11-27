@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de teatro para adivinar una palabra por partes.
 
 ## Notas para el educador
 - Funciona muy bien como número de fogón.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CHARADES.**
-
-One team is chosen to act. They choose a 2, 3 or 4 syllable word. They then act a scene for each syllable and one for the whole word into each of which they introduce the respective syllables or word. The rest try to guess the word. N.B. Choose a good topical scene and fit in the word somehow.
 
 
 ## Texto original completo de la actividad

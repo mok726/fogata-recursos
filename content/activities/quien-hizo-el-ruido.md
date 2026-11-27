@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de ronda para reconocer a los compañeros por la voz.
 
 ## Notas para el educador
 - Un juego muy simple para lobatos, para arrancar una reunión o para esperar un rato.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLIND MAN.**
-
-Players sit in a circle, one is blindfold in the centre; he points in any direction and makes any reasonable noise. Whoever is pointed at must imitate the noise as best he can. If the blind man can guess who it is they change places, if not carry on. When there is a new blind man the players should move their positions in the circle.
 
 
 ## Texto original completo de la actividad

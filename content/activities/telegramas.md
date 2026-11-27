@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,19 +153,6 @@ Un juego de ingenio por equipos: hay que armar un mensaje con las letras de una 
 
 ## Notas para el educador
 - Es una linda excusa para contar cómo se comunicaba la gente antes de los celulares.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TELEGRAMS.**
-
-Players in teams. Leader mentions a word and a subject, e.g. “Skiff and Chief Scout.” Each team then makes up a telegram about, or from the Chief, the words of the telegram starting with the letters of “skiff” in their right order. E.g. Still keeping in fine fettle. CHIEF. Best telegram in the shortest time wins.
-
-**SENTENCE MAKING.**
-
-Players in teams. Leader mentions a word (say) “Rabbit,” each player of each team must say a word in his turn, beginning with the letters of “Rabbit” in turn, so that the whole team make up a reasonable sentence. E.g., 1st player, Rain; 2nd, Angered; 3rd, Big; 4th, Burly; 5th, Idiotic; 6th, Thomas. Best sentence in shortest time wins. Word of origin has as many letters as there are players in the teams.
 
 
 ## Texto original completo de la actividad

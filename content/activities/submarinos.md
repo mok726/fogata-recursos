@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de sigilo: un equipo, con los ojos vendados, forma una barrera, y el ot
 
 ## Notas para el educador
 - Poné un límite de tiempo, de tres minutos, para que no se haga eterno.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SPIES, OR SUBMARINES.**
-
-One team, blindfolded, forms a line across the room, feet astride so that one player's left foot just touches his neighbour's right, and holding hands. The other team tries to pass through the cordon without being touched. Cordon may let go hands to catch a spy but may not move their feet or bend their knees. Team getting most through wins. A time limit is usually needed.
 
 
 ## Texto original completo de la actividad

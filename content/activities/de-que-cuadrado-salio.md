@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Usá una cuadrícula de 5 x 5 con objetos parecidos entre sí, por ejemplo, ocho
 
 ## Notas para el educador
 - Es una variante del Juego de Kim que, además del objeto, pide recordar la posición.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHICH SQUARE?**
-
-A number of small squares are marked out on a table, and a small object placed in each; the players look at the table for about ¾ of a minute and then all the objects are moved off the table. Leader holds up each object in turn, and the first team or player to correctly name the square it came out of scores a point. Only one guess per player per object. Best total wins.
 
 
 ## Texto original completo de la actividad

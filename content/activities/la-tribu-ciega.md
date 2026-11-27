@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Un juego de ronda en el que dos jugadores atados tienen que escaparse de una «t
 
 ## Notas para el educador
 - El nudo del tobillo tiene que ser flojo y de pañuelo, nunca de soga.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLIND TRIBE.**
-
-Players in circle so that, with arms extended, their fingers just touch, and blindfold. Two other players in centre tied as in a 3-legged race but not blindfold. The victims try to get out of the circle without being touched by the blind men, who may reach out but must not move from their original positions.
 
 
 ## Texto original completo de la actividad

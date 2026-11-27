@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,21 +157,6 @@ Un juego de reflejos: hay que agarrar el bastón antes de que caiga al piso cuan
 
 ## Notas para el educador
 - La ronda no debería ser muy grande: con un radio de unos dos metros todos tienen chance.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**DROPPING STAFF.**
-
-Players sitting on floor in a circle, each with a number. Leader in centre balances a staff erect with finger on top, calls a number and removes finger. Player with that number must catch the staff before it drops, if he fails he loses one life. Numbers should be haphazard about the circle.
-
-Variation.-Each player also has a bird or animal allotted him, and must make the animal's correct noise as he catches the staff.
-
-**CATCH THE BALLOON.**
-
-Players seated on floor in circle, numbered but not in sequence. Leader in centre holds a small balloon, and as he drops it he calls a number. The player with that number tries to catch the balloon before it touches the floor.
 
 
 ## Texto original completo de la actividad

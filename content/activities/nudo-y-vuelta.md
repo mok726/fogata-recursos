@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -162,19 +161,6 @@ Un juego de ronda para reconocer nudos rápido, mientras otro corre.
 
 ## Notas para el educador
 - Ajustá el tamaño de la ronda a lo que sabe el grupo: más chica si saben, más grande si están aprendiendo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**KNOT RUN.**
-
-Players in circle, one ties a knot in a bit of rope and drops it at the feet of one of the others, who must name the knot correctly and say if it is tied right before the tier has run round the circle. Whichever loses ties the next knot, and so on.
-
-**ROUND THE CIRCLE.**
-
-Players in circle, one runs round outside and hands a rope to another calling out the name of any knot. The knotter must then tie that knot right before the runner can get round the circle. N.B.—Vary the diameter of the circle to suit the experience of the knotters.
 
 
 ## Texto original completo de la actividad

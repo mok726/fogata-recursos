@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,15 +157,6 @@ Un duelo de a dos: cada uno tiene que hacer una margarita en su punta de la soga
 
 ## Notas para el educador
 - La margarita es un nudo para acortar sin cortar (ver la ficha Margarita: Acortar sin Cortar). Este juego muestra muy bien que se deshace si la soga se afloja.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SHEEPSHANK TUG-OF-WAR.**
-
-Two players hold either end of a rope, each tries to tie a sheepshank in his end before the other. Any amount of pulling, etc., is allowed.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -151,15 +150,6 @@ Un juego de ronda con asientos: todos se van corriendo de lugar mientras uno tra
 
 ## Notas para el educador
 - Usá sillas firmes. Si son plásticas livianas, mejor bancos largos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PASS ALONG THE CAR.**
-
-Players seated round a large circle of seats of various heights, one player in the centre and one vacant seat. Players move round the circle to occupy the next seat as it falls vacant. Player in centre tries to occupy the vacant seat first. When he succeeds the player ousted takes his place.
 
 
 ## Texto original completo de la actividad

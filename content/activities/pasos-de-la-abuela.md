@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de acercarse sin ser visto: hay que llegar hasta la «abuela» moviénd
 
 ## Notas para el educador
 - Es pariente del «Un, dos, tres… ¡estatua!» y de otros juegos de estatuas que se juegan en los patios de toda América.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GRANNY’S FOOTSTEPS.**
-
-Players in line, one player about 20 yards away back towards them. Players try to move up to the latter without being seen on the move. The player at the end may not turn till he has counted to himself a number between 20 and 40 since he last turned. Each player if caught moving starts again, if caught three times falls out. First to touch “granny” wins.
 
 
 ## Texto original completo de la actividad

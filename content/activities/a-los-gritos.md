@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego ruidoso y muy divertido: dos equipos tienen que comunicarse a los grito
 ## Notas para el educador
 - Juego para descargar energía y, de paso, charlar sobre cómo comunicarse con claridad (hablar todos juntos, articular, repetir).
 - Al final, un minuto de silencio absoluto: el contraste es parte del juego.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BAWLING.**
-
-Four teams, one in each corner of the room. Two of those diagonally opposite try to shout a simple message from one to the other (no signalling or gestures allowed) and get a sensible answer. The other two teams try by making any vocal noise they like, to stop the messages being audible. Teams succeeding in shortest time win.
 
 
 ## Texto original completo de la actividad

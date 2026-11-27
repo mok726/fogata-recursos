@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Una búsqueda de objetos chicos escondidos por el salón.
 
 ## Notas para el educador
 - Reemplaza a los alfileres del juego original: los clips no pinchan.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**PIN HUNT.**
-
-Pins of various sorts are more or less hidden about a room. White pins count 1. White pins with coloured heads count 2. Black pins count 3. Best collection wins.
 
 
 ## Texto original completo de la actividad

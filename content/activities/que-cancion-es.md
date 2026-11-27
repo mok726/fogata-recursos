@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Un juego de adivinar canciones solo por el ritmo, sin cantar ni tararear.
 
 ## Notas para el educador
 - Usá canciones que todos conozcan: las del fogón del Grupo son ideales.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BEATING TIME.**
-
-Teams in different parts of the room, one player from each team is told the name of some well-known tune. He then goes to his team and taps out the time of the tune on the floor with a spoon or some suitable object which should be stiff (not a knife blade). The first team to guess the tune right wins.
 
 
 ## Texto original completo de la actividad

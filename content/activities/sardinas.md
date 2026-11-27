@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Una variante de la escondida, pero al revés: se esconde uno solo, y los que lo 
 
 ## Notas para el educador
 - Marcá bien los límites del terreno y los lugares prohibidos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SARDINES.**
-
-One player goes and hides, the rest try to find him, and each as he does so hides in the same place alongside him. Game continues till all are in the one spot. Variation of Hide-and-Seek.
 
 
 ## Texto original completo de la actividad

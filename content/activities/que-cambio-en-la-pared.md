@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -162,15 +161,6 @@ En vez de una pared, un jugador se para al frente. Se da vuelta y cambia algo de
 
 ## Notas para el educador
 - La vuelta «sin cambios» enseña mucho sobre la diferencia entre ver y creer que vimos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHAT'S MOVED.**
-
-All players look at a wall of the clubroom for 2 minutes and then about turn. Certain objects are moved or removed. All look for 1 minute then about turn and teams make lists of moved or missing objects. 1 point for every correct observation. 2 off for every wrong or imaginary one. Best total wins. Move nothing, and watch result.
 
 
 ## Texto original completo de la actividad

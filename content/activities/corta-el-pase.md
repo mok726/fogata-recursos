@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,17 +156,6 @@ Un juego de ronda con pelota: uno en el centro trata de cortar los pases de los 
 
 ## Notas para el educador
 - El clásico juego del «loco» o «monito» en sus muchas versiones. Usá una pelota blanda si es en interior.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**INTERCEPT THE BALL.**
-
-Players in circle, one in centre tries to intercept a ball thrown from one to another. Thrower of an intercepted pass, or of an uncatchable ball, or of a ball that goes above shoulder height changes places with the player in the centre.
-
-Variations.-Bouncing or rolling the ball, and having two in the centre.
 
 
 ## Texto original completo de la actividad

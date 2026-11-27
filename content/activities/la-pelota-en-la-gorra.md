@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Un juego de puntería con gorras y una pelota: primero hay que embocar en una go
 
 ## Notas para el educador
 - Usá pelota blanda y pedí que los tiros sean siempre abajo de la cintura.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**EGG-IF-I-MOO (or hat ball).**
-
-Players' hats bunched together in centre of a 10-feet radius circle, players round edge. One throws a tennis ball into one of the hats, not his own, If he misses, a mark is put in his hat, if three times, another takes his place. Owner of the hat in which the ball lodges runs in, picks up ball, and then cries “ halt.” The rest run away but stop at the word. Player with the ball may not leave circle and tries to hit one of the others with ball, if he fails, a chip is put in his hat; one hit becomes IT. Team with fewest chips wins.
 
 
 ## Texto original completo de la actividad

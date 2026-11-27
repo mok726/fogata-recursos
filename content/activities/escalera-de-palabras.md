@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -159,15 +158,6 @@ Que la palabra de llegada sea de campamento: de LOBO a LOMA, de PALO a PANA, de 
 
 ## Notas para el educador
 - Tené a mano algunas escaleras ya resueltas, por si nadie llega.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**CHANGING WORDS.**
-
-A short word is chosen, say “jam,” and by altering one letter at a time the players change it to another word of the same length, say “rug.” At each stage a word must be formed, e.g. jam, ram, rag, rug. The player doing it in fewest stages wins. 5, 6, 7, letter words are suitable.
 
 
 ## Texto original completo de la actividad

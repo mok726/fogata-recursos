@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Una forma de trabajar la Ley Scout con teatro.
 ## Notas para el educador
 - Se puede hacer un artículo distinto cada semana, como propone el juego original.
 - Usá la redacción de la Ley de tu organización scout nacional.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ACTING THE LAW.**
-
-A team acts one of the Scout Laws for the benefit of the rest: this may well be followed by a very short talk on the law in question, and a different law done each week.
 
 
 ## Texto original completo de la actividad

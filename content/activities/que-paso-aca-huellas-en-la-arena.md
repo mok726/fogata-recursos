@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -164,15 +163,6 @@ Un juego de rastreo: leer en el suelo lo que pasó.
 ## Notas para el educador
 - Antes del juego, mostrá cómo cambia la huella al caminar, correr, cargar peso o caminar para atrás.
 - Combina con las fichas de rastreo de B-P (Dibujá la Huella, Memoria de Huellas).
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SAND TRACK PROBLEMS.**
-
-A simple scene is performed on a sand track or other prepared ground. Each team is allowed to study the tracks for a few minutes and then gives its report. The scene is then re- enacted.
 
 
 ## Texto original completo de la actividad

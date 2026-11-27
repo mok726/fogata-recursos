@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -150,15 +149,6 @@ Un juego de orden cerrado con los ojos vendados: se siguen órdenes de marcha si
 
 ## Notas para el educador
 - Sirve para repasar las órdenes de formación del Grupo de una manera divertida.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**BLINDFOLD DRILL.**
-
-Players blindfold fall in and various simple orders are given, which they carry out. E.g. “Alert, right turn, one pace back, left turn, one pace right, about turn.” Then let them look at the mess they are in.
 
 
 ## Texto original completo de la actividad

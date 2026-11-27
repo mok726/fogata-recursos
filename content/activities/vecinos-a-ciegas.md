@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -148,15 +147,6 @@ Un juego de ronda para reconocer a los compañeros por la voz.
 
 ## Cierre
 - ¿Qué los ayudó a reconocer al vecino? ¿La voz, la risa, algo que dijo?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**NEIGHBOURS.**
-
-Players in circle, every other one blindfold. Those not blind move round and take positions between the others. Those blindfold then tell their right-hand neighbours to talk or sing or ask questions with a view to guessing their identity. Direct questions such as “What is the colour of your hair? “need not be answered.
 
 
 ## Texto original completo de la actividad

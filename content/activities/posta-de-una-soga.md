@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Una carrera de postas para repasar todos los nudos de la primera etapa de progre
 
 ## Cierre
 - ¿Qué nudo fallaba más? ¿Cómo lo pueden practicar en casa?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**ONE-ROPE RELAY.**
-
-Teams in file; each player in turn runs up and ties all the tenderfoot knots in one bit of rope. First team to finish with no knots tied wrong or omitted wins.
 
 
 ## Texto original completo de la actividad

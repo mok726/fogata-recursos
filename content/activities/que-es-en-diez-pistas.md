@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -161,15 +160,6 @@ Cada patrulla prepara una adivinanza de diez pistas para las demás. ¡Es lo má
 ## Notas para el educador
 - Se escribe para que nadie le sople al que todavía está pensando.
 - Tiene sentido como cierre de un tema: animales del lugar, técnica scout, historia del Grupo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHAT AM I?**
-
-Each player has one guess. Leader describes something in ten progressive clues, whenever a player thinks he knows what it is, he writes it down with the number of the clue last spoken. If right at clue 1 he counts 10, at 2-9, at 9-2 and so on, if wrong he counts 0. E.g. Crow might start with “A bird” and end with “It says Caw-Caw.” These clues need very careful preparation to get gradually more difficult. The writing is to prevent assistance to one who is still thinking from an earlier guess.
 
 
 ## Texto original completo de la actividad

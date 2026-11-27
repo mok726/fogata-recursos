@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -157,15 +156,6 @@ Prueben una vuelta con zapatillas y otra en medias. ¿Cuál hace menos ruido?
 ## Notas para el educador
 - Se puede usar antes de una salida de observación de aves o de un juego de acecho.
 - Cambiá la cantidad de los que cruzan cada vez: si siempre son todos, el centinela adivina sin escuchar.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LISTENING GAME.**
-
-One player is blindfold near one end of the room. The rest, one at a time, try to come from the other end as quietly as they can. When all have passed the listener states how many he thinks have passed on either side of him. The number should be varied each time, and be unknown to the listener.
 
 
 ## Texto original completo de la actividad

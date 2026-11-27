@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -164,15 +163,6 @@ Para Caminantes: todos los oradores hablan a la vez del mismo tema. El que se r�
 
 ## Notas para el educador
 - Para los más tímidos, empezá con un minuto en lugar de tres. Nadie debería quedar expuesto: si alguien no quiere, puede hablar en pareja.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**STUMP ORATIONS.**
-
-Each player draws a subject out of a hat, takes 2 minutes to think and then speaks for 3 or 5 minutes. OR. Each team puts up a speaker and in turn each speaks on the same subject. OR. As the last, but all speak at once and the one to get a hearing wins. A speaker laughing or pausing is not allowed to go on.
 
 
 ## Texto original completo de la actividad

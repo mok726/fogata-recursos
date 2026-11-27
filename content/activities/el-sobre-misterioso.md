@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -164,15 +163,6 @@ El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro m
 
 ## Notas para el educador
 - Antes, repasá los puntos cardinales del local: pegá carteles con N, S, E y O en las paredes si hace falta.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**HIDDEN TREASURE.**
-
-Each P.L. gets a mysterious message in a sealed envelope to be opened at a given signal. He then acts on the orders in the message which is a clue to hidden treasure. E.g. From W. W ....... D. 5 f., search for brass. I.e. 5 feet from the West Wall of the room find a brass-headed drawing-pin in the floor.
 
 
 ## Texto original completo de la actividad

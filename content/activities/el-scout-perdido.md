@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Un juego de observación de los compañeros.
 ## Notas para el educador
 - Buena entrada para hablar de qué hacer si alguien se pierde en un campamento o en la calle, y de la importancia de avisar enseguida a un adulto.
 - Elegí a alguien que no se ponga incómodo con ser el centro de atención.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LOST SCOUT.**
-
-One player is sent out of the room in an unobtrusive manner; the leader then announces that he sees that someone is missing and asks for a description for a search party. Best description of missing player and his clothes wins.
 
 
 ## Texto original completo de la actividad

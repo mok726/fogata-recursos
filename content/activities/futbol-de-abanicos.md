@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -158,19 +157,6 @@ Un fútbol de salón muy liviano: en lugar de patear, se abanica una cáscara de
 
 ## Cierre
 - ¿Cómo hicieron para que la pelotita fuera para donde querían?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**EGGSHELL FOOTBALL.**
-
-A goal is marked at each end of the room, one team to each goal. Each team tries by fanning with paper fans to urge a blown eggshell or a ping-pong ball through the other goal, the players may not move from their appointed positions. The goalkeeper may well be allowed to blow with his mouth only.
-
-**BALLOON FOOTBALL.**
-
-A goal is marked at each end of the room. Each team tries to propel an inflated balloon through its opponent’s goal. Blowing, fanning, or patting may be the prescribed method. No player may interfere with the play unless he has both knees on the floor at the time. If desired, players may be allotted positions from which they may not move while the balloon is in play.
 
 
 ## Texto original completo de la actividad

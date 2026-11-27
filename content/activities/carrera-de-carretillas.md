@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 ## Notas para el educador
 - Armá parejas de peso y tamaño parecidos, y que el recorrido sea corto.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**WHEELBARROW RELAY.**
-
-Teams in file, players in pairs. One player of each pair walks on his hands, the other holding his legs under his arms. Each pair in turn goes to a given point and back. First team to finish wins.
 
 
 ## Texto original completo de la actividad

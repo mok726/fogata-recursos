@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -165,15 +164,6 @@ Gana el que suma más.
 ## Notas para el educador
 - Es una buena forma de mostrar que el apuro nos hace ver menos. Da para charlar sobre caminar por el monte o por la ciudad prestando atención.
 - Al terminar, que una patrulla levante todos los objetos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**OBSERVATION RACE.**
-
-Players at starting line back to the course. Various objects are placed along the course. Players race to winning post and all at once make lists of objects noted. First past the post scores as many points as there are runners and each one after him one (or more) less in the order they finish. To this add 1 for every object noted; deduct 1 for every object not noted; deduct 2 for every imaginary object noted. O.
 
 
 ## Texto original completo de la actividad

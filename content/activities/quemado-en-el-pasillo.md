@@ -56,7 +56,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -155,15 +154,6 @@ Una variante del quemado: un equipo corre por un pasillo y el otro, desde afuera
 
 ## Notas para el educador
 - Usá pelotas blandas de goma espuma o de trapo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**LINE DODGE BALL.**
-
-Two lines are chalked parallel about 10 feet apart. One team lines up outside these lines armed with tennis balls. The other team runs up and down between the lines until hit with a ball, when they fall out. For each journey from end to end a player scores one point. Team with most successful runs before all are dead, wins.
 
 
 ## Texto original completo de la actividad

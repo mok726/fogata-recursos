@@ -57,7 +57,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -163,15 +162,6 @@ Un juego para darse cuenta de que algunos colores se ven mucho más que otros en
 ## Notas para el educador
 - Llevá la cuenta exacta de las lanas: no puede quedar ninguna en el terreno, porque los pájaros las usan para hacer nidos y se enredan.
 - Si el terreno es seco y marrón, cambiá los puntos según los colores que más se camuflen ahí.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SPOT THE COLOURS.**
-
-A number of small ends of various coloured wool are distributed over a specified area, or along a trail. Each team tries to collect them. Scores.—Green 6, grey 5, brown 4, blue 3, red 2, white 1; or according to the surroundings. O.
 
 
 ## Texto original completo de la actividad

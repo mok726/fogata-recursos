@@ -53,7 +53,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -149,15 +148,6 @@ Una carrera en la que el equipo va creciendo como una víbora, y cada vuelta pas
 
 ## Cierre
 - ¿Qué pasaba cuando la víbora era larga?
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**SNAKE RELAY.**
-
-Teams in file; one player from each team stands some distance away in front of his team with feet astride. First player of each team runs between his legs and returns to his team, where the second player clasps him by the waist, and both run through the legs, and so on till all the team are running clasping each others’ waists. First team to finish wins. The player forming the arch joins on as his team passes the last time.
 
 
 ## Texto original completo de la actividad

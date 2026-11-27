@@ -54,7 +54,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -154,15 +153,6 @@ Para los más chicos, en vez de la última sílaba, se usa la última letra: LOB
 
 ## Cierre
 - ¿Qué sílabas eran trampas? (Las que terminan en palabras difíciles, como -XO o -GÜE.)
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**TOPS AND TAILS.**
-
-Players in circle; first player mentions a two-syllable word (say) “England,” second player mentions a word, also of two syllables, of which the first must be the second of the previous word (say) “landlord,” third player (say) “lordship,” and so on till a player fails and loses a life. Three lives lost player falls out.
 
 
 ## Texto original completo de la actividad

@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de observación que se arma sin avisar.
 ## Notas para el educador
 - Marcá con una tiza chiquita, donde no se vea, las patas de las sillas para poder corregir.
 - Funciona una sola vez por grupo: guardalo para el día justo.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**REPLACE TWO CHAIRS.**
-
-Two chairs are left casually in the room in a rather noticeable position, but are not mentioned. They are then moved and each team in turn tries to replace them correctly.
 
 
 ## Texto original completo de la actividad

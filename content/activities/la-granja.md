@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -152,15 +151,6 @@ Un juego de ruidos de animales: cada uno tiene que encontrar a su pareja imitand
 ## Notas para el educador
 - El burro solitario es un chiste del juego original: elegí a alguien que lo disfrute.
 - Sirve para armar parejas para la actividad siguiente.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**FARMYARD.**
-
-Players in circle round room are each in secret allotted names of some bird or animal, two players to each animal. On word to go each makes his appropriate noise and tries to find his pair. Pairs, when “found,” go and sit down. Donkey may be allotted to one only, who is therefore left alone braying.
 
 
 ## Texto original completo de la actividad

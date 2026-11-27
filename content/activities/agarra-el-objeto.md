@@ -55,7 +55,6 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
-  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -153,15 +152,6 @@ Un juego de ronda para estar atentos a las órdenes y ser rápidos: hay que agar
 
 ## Notas para el educador
 - Usá objetos blandos y ronda amplia para evitar cabezazos. Con muchos jugadores, poné los objetos esparcidos y no todos juntos.
-
-
-## Texto original completo de la actividad
-
-**English version:**
-
-**GRAB.**
-
-Players in circle, in centre a number of small objects, one less than the number of players. Leader gives sundry orders, which are carried out, but whenever he says “Grab,” all dive to the centre to try to get one of the objects. Unsuccessful player falls out, one object is removed, game continues.
 
 
 ## Texto original completo de la actividad
