@@ -145,12 +145,17 @@ Para Scouts y más grandes: además del 7, el 5 también tiene palabra. Los núm
 ### Variante: Para los más chicos
 Con lobatos, usá solo el 3 o el 5, que son más fáciles.
 
+### Variante: ¡Feliz Domingo!
+A mí, esta actividad me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden. 
+Así que la variante seria cambiar el numero del múltiplo cada tanto, así no se estancan y tienen que pensar en lugar de hacerlo automático.
+
 ## Para cerrar
 - ¿Qué truco usaron para no equivocarse?
 
 ## Notas para educadores
 - Es un juego para repasar las tablas sin que se note.
 - Que el ritmo sea rápido pero parejo: si alguien tarda, contá hasta tres en voz alta.
+- A mí me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden.  
 
 ---
 **Fuente:** inspirada en el juego «Buzz / Whizz-Buzz» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
