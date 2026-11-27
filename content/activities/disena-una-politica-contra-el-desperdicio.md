@@ -18,7 +18,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Food loss & waste Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

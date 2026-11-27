@@ -2917,6 +2917,75 @@ sections: {
 },
 
 {
+  id: "juegosscouts",
+  name: "Juegos Scouts Clásicos",
+  description:
+    "Juegos de patrulla, de ronda, de postas, de observación y de interior, inspirados en los grandes libros de juegos scouts de los años veinte.",
+  summary:
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Reúne juegos inspirados en dos clásicos de dominio público: **Gilcraft's Book of Games** (1928), del equipo de formación de *The Boy Scouts Association*, y **Sixty Indoor Games for Scouts**, de *J. B. Collyns* (década de 1920). \n\n<p>Las fichas no traducen los libros: toman la idea de cada juego y la cuentan de nuevo, con pasos para los chicos, variantes y notas para educadores. Se dejaron afuera los juegos de golpes, de fuerza bruta o que hoy no son seguros, y los que ya estaban en Fogata con otro nombre. \n\n<p>Los juegos de *Scouting Games* y de *Escultismo para Muchachos* de B-P están en las insignias de Baden-Powell.",
+  logo: "/imagenes/insignias/juegosscouts.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A lively group of scouts aged 8 to 16 playing a team game on a sunny grass field, some running in a relay, others in a big circle laughing, a leader with a whistle, tents and trees in the background.",
+  sources: [
+    {
+      name: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928) – The Canadian Sea Scouts Homeport",
+      url: "http://www.seascouts.ca/"
+    },
+    {
+      name: "J. B. Collyns, Sixty Indoor Games for Scouts (Brown, Son & Ferguson, Glasgow) – «The Dump» en Scoutscan",
+      url: "http://www.thedump.scoutscan.com/"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Los libros que inspiraron las fichas son de dominio público. El texto, la adaptación y el desarrollo de cada ficha son de Fogata de Recursos y se publican con CC BY-NC-SA 4.0. Las fichas no incluyen el texto original."
+  },
+  attribution: {
+    organization: "Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir según la edad, el lugar y el momento de la reunión.",
+    rules: [
+      "Respetá las notas de seguridad de cada juego",
+      "Adaptá las reglas a la edad y al espacio: si un juego no funciona, cambialo"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Sentidos y Observación",
+      description: "Juegos de Kim, de oído, de olfato, de memoria y de mirar con atención."
+    },
+    B: {
+      title: "Ingenio y Palabras",
+      description: "Juegos de adivinar, de palabras, de mímica y de pensar rápido."
+    },
+    C: {
+      title: "Juegos en Ronda",
+      description: "Juegos para toda la Manada o la Tropa en círculo, de reacción y de atención."
+    },
+    D: {
+      title: "Juegos por Equipos",
+      description: "Juegos de patrulla contra patrulla, de estrategia y de cooperación."
+    },
+    E: {
+      title: "Postas y Carreras",
+      description: "Carreras de relevos, postas con desafíos y juegos de velocidad."
+    },
+    F: {
+      title: "Juegos de Técnica Scout",
+      description: "Juegos para practicar nudos, rumbos, señales y otras técnicas jugando."
+    },
+    G: {
+      title: "Juegos de Interior",
+      description: "Juegos para el local scout o un salón, cuando llueve o no hay patio (J. B. Collyns)."
+    }
+  }
+},
+
+{
   id: "asdeaprendiendo",
   name: "Aprendiendo a Ser (ASDE)",
   description:
@@ -3334,14 +3403,60 @@ sections: {
       description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
+},
+
+{
+  id: "desenchufada",
+  name: "Computación Desenchufada",
+  description:
+    "Descubrir cómo piensan las computadoras sin usar ninguna: números binarios, imágenes, errores, programación, búsqueda y ordenamiento, jugando con cartas, tiza y el cuerpo.",
+  summary:
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Las actividades están adaptadas de **CS Unplugged**, un proyecto del *Computer Science Education Research Group* de la *Universidad de Canterbury* (Nueva Zelanda) que enseña las ideas de la informática sin computadoras. \n\n<p>No hace falta saber de computación: alcanza con cartas, papel cuadriculado, tiza y ganas de jugar. Sirven para trabajar el ODS 9 (industria, innovación e infraestructura) y para que los chicos entiendan la tecnología que usan todos los días.",
+  logo: "/imagenes/insignias/desenchufada.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 8 to 14 in a bright scout hall playing with large cards showing dot patterns and walking along chalk lines drawn on the floor, a grid of black and white squares on a poster, no computers anywhere, cheerful daylight.",
+  sources: [
+    {
+      name: "CS Unplugged – Computer Science Education Research Group, Universidad de Canterbury (CC BY-SA 4.0)",
+      url: "https://www.csunplugged.org/es/topics/"
+    }
+  ],
+  license: {
+    type: "CC BY-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    note: "Las lecciones de CS Unplugged se publican con CC BY-SA 4.0. Las fichas están redactadas de nuevo y adaptadas por Fogata de Recursos, y se comparten con la misma licencia. No incluyen el texto original."
+  },
+  attribution: {
+    organization: "CS Unplugged (Universidad de Canterbury) y Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: elegí las que se adapten a la edad. Varias se pueden encadenar (por ejemplo, las cartas binarias antes de los mensajes en binario).",
+    rules: [
+      "No hace falta ninguna computadora",
+      "Respetá las notas de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Números y Mensajes",
+      description: "Cómo guarda los números y las letras una computadora, y cómo se da cuenta de los errores."
+    },
+    B: {
+      title: "Imágenes",
+      description: "Píxeles y compresión: cómo se guarda una foto con números."
+    },
+    C: {
+      title: "Programar sin Computadora",
+      description: "Robots humanos, instrucciones exactas, errores y bucles."
+    },
+    D: {
+      title: "Buscar y Ordenar",
+      description: "Búsqueda binaria, árboles de búsqueda y redes de ordenamiento."
+    }
+  }
 }
-
-
-
-
-
-
-
 
   ];
 };
