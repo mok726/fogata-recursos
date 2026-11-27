@@ -2696,7 +2696,7 @@ sections: {
   description:
     "Salud mental y bienestar: conocerse, cuidar los vínculos y disfrutar de lo que hacemos.",
   summary:
-    "Desafío Mind Builders de la Organización Mundial del Movimiento Scout, parte de la iniciativa HealthAllies (Salud y Bienestar), desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org). No reemplazan la atención profesional en salud mental.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de la FAO para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Desafío Mind Builders de la Organización Mundial del Movimiento Scout, parte de la iniciativa HealthAllies (Salud y Bienestar), desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org). No reemplazan la atención profesional en salud mental.",
   logo: "/imagenes/insignias/mindbuilders.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "Scouts aged 10 to 15 lying on the grass in a circle looking up at the sky and smiling, a calm lake and pine forest in the background, relaxed and peaceful mood, soft morning light.",
