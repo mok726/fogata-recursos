@@ -3323,7 +3323,7 @@ sections: {
     "Descubrir cómo piensan las computadoras sin usar ninguna: números binarios, imágenes, errores, programación, búsqueda y ordenamiento, jugando con cartas, tiza y el cuerpo.",
   summary:
     "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Las actividades están adaptadas de **CS Unplugged**, un proyecto del *Computer Science Education Research Group* de la *Universidad de Canterbury* (Nueva Zelanda) que enseña las ideas de la informática sin computadoras. \n\n<p>No hace falta saber de computación: alcanza con cartas, papel cuadriculado, tiza y ganas de jugar. Sirven para trabajar el ODS 9 (industria, innovación e infraestructura) y para que los chicos entiendan la tecnología que usan todos los días.",
-  logo: "/imagenes/insignias/general-sitio.png",
+  logo: "/imagenes/insignias/desenchufada.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "Scouts aged 8 to 14 in a bright scout hall playing with large cards showing dot patterns and walking along chalk lines drawn on the floor, a grid of black and white squares on a poster, no computers anywhere, cheerful daylight.",
   sources: [
