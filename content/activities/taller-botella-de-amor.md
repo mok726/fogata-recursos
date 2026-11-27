@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-botella-de-amor.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -52,6 +52,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
+  - plastics
 activity_code: "general-E08"
 required: false
 required_for: []

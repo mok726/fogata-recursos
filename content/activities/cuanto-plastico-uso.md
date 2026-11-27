@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/cuanto-plastico-uso.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
+  - plastics
 activity_code: "general-E06"
 required: false
 required_for: []

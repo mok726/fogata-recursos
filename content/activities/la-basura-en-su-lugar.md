@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/la-basura-en-su-lugar.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -50,6 +50,8 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
+  - cfn
+  - plastics
 activity_code: "general-E07"
 required: false
 required_for: []
@@ -66,7 +68,16 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
-files: []
+files:
+  - filepath: "/recursos/la-basura-en-su-lugar/tarjetas-residuos.pdf"
+    caption: "Tarjetas de residuos para recortar (10 hojas A4)"
+    icon: "pdf"
+  - filepath: "/recursos/la-basura-en-su-lugar/dorso-tarjetas-cfn.pdf"
+    caption: "Dorso de las tarjetas: Campeones de la Naturaleza (A4)"
+    icon: "pdf"
+  - filepath: "/recursos/la-basura-en-su-lugar/dorso-tarjetas-ptt.pdf"
+    caption: "Dorso de las tarjetas: Plastic Tide Turners (A4)"
+    icon: "pdf"
 
 # ========== REFERENCIAS ==========
 references: []
@@ -155,7 +166,7 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 - Promover la separación en origen.
 
 ## Preparación
-1. En una tarjeta se escribe, dibuja o imprime un residuo (restos de vegetales, carnes, residuos hogareños varios, contenedores plásticos, metálicos, pilas y objetos diversos).
+1. En una tarjeta se escribe, dibuja o imprime un residuo (restos de vegetales, carnes, residuos hogareños varios, contenedores plásticos, metálicos, pilas y objetos diversos). En **Descargas** hay tarjetas listas para imprimir, con dorso de Campeones de la Naturaleza o de Plastic Tide Turners: imprimilas en doble faz y recortalas.
 2. Las tarjetas se colocan en una caja o bolsa que permita sacarlas sin ver el contenido.
 3. Los participantes se separan en equipos parejos y forman una fila detrás de la línea de largada.
 4. En el otro extremo del campo de juego se colocan contenedores etiquetados con el tipo de residuos: generales, reciclables (papel y cartón, plásticos, vidrios, metales), composta, especiales (electrónica, pilas, etc.).

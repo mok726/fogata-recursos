@@ -76,7 +76,10 @@ link:
   - url: "https://solafrica.ch/wp-content/uploads/2025/11/Manual-de-la-energia-solar-ESPANOL-revisado.pdf"
     caption: "Manual de la Energía Solar, 2.ª ed. 2022 - Solafrica (PDF)"
     icon: "pdf"
-files: []
+files:
+  - filepath: "/recursos/brujula-solar-sombra/tarjetas-metodo-sombra.pdf"
+    caption: "Tarjetas recordatorio del método de la sombra (A4)"
+    icon: "pdf"
 
 # ========== ACTIVIDAD HERMANA (Scouts for SDGs) ==========
 sister:
