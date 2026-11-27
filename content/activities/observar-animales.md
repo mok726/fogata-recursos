@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - naturaleza
   - animales
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -144,15 +148,23 @@ rama_rovers:
   - 37   # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
-# ¡Observar Animales!
+# Observar Animales
 
 ## Resumen
-B-P propone que los scouts averigüen, observando y no leyendo, cómo actúan los animales. Plantea preguntas concretas: cómo cava su cueva un conejo, si al asustarse corre porque corren los demás o mira primero, cómo saca insectos un pájaro carpintero, qué hace una trucha cuando alguien pasa por la orilla. En la ciudad, que observen si algún animal está lastimado o maltratado.
+Una práctica de observación de la naturaleza: los scouts salen a mirar animales con preguntas concretas y después cuentan lo que vieron.
 
 ## Desarrollo
-1. Elegí dos o tres preguntas sobre animales que se puedan ver en tu zona.
-2. Cada pareja sale a observar y anota lo que ve, con hora y lugar.
-3. Al volver, cada pareja cuenta su respuesta y cómo la obtuvo.
+1. El dirigente les da a los scouts algunas preguntas para responder solo observando, sin leer en libros.
+2. Los scouts salen, miran con paciencia y después informan lo que descubrieron.
+
+**Preguntas del original, en el campo:**
+- ¿Cómo cava su cueva un conejo silvestre? Cuando se asustan muchos conejos juntos, ¿cada uno corre solo porque corren los demás, o primero mira alrededor para ver cuál es el peligro?
+- ¿El pájaro carpintero arranca la corteza del tronco para llegar a los insectos, los saca de los agujeros, o cómo hace para alcanzarlos?
+- Cuando una trucha se asusta porque pasa gente por la orilla, ¿se va río arriba o río abajo? ¿Se va del todo o vuelve a su lugar? ¿Cuánto tiempo tarda en volver?
+
+Se pueden cambiar por animales que haya cerca, con el mismo tipo de pregunta: cómo hace algo, cómo reacciona ante el peligro, adónde va y cuándo vuelve.
+
+**En la ciudad:** los scouts salen y avisan si ven un caballo (por ejemplo, de un carro) que renguea, que tiene lastimaduras por el roce del collar o los arreos, la boca lastimada, o la rienda demasiado ajustada que le obliga a llevar la cabeza levantada. Es una forma de aprender a fijarse en cómo se trata a los animales.
 
 ## Cierre
 - ¿Qué se aprende observando que no está en los libros?
@@ -183,20 +195,8 @@ long does he stay away? etc._
 IN TOWN: _Make your scouts go out and report if they see a lame horse or
 one with collar gall or sore mouth or tight bearing-rein._
 
-**Versión en español:**
-
-Hacé que tus scouts averigüen observando, y que informen, sobre cosas como estas:
-
-**EN EL CAMPO:** ¿Cómo cava su cueva un conejo silvestre? Cuando se asustan muchos conejos, ¿un conejo corre solo porque corren los demás, o mira alrededor para ver cuál es el peligro antes de irse también?
-
-¿El pájaro carpintero arranca la corteza para llegar a los insectos del tronco de un árbol, o los saca de los agujeros, o cómo los alcanza?
-
-Una trucha, cuando la molesta gente que pasa por la orilla, ¿va río arriba o río abajo? ¿Se va del todo, o vuelve a su lugar? ¿Cuánto tiempo se queda lejos?, etc.
-
-**EN LA CIUDAD:** Hacé que tus scouts salgan e informen si ven un caballo rengo, o con una llaga del collar, la boca lastimada o la rienda de engallar demasiado ajustada.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

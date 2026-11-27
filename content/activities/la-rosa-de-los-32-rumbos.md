@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Rosa de los 32 Rumbos"
+title: "La Brújula"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-rosa-de-los-32-rumbos/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - orientacion
   - brujula
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -133,21 +137,55 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Rosa de los 32 Rumbos!
+# La Brújula
 
 ## Resumen
-Los marinos «recitaban la brújula»: decían en orden los 32 rumbos de la rosa de los vientos, desde el Norte, pasando por el Norte cuarta al Este y el Nornoreste, hasta volver al Norte. El manual los trae en orden. Primero se aprenden los 4 cardinales, después los 8 y los 16, y los más grandes llegan a los 32. Con una rosa gigante dibujada en el piso, se juega a ubicarse y a girar.
+Una práctica de orientación: aprender de memoria los 32 rumbos de la brújula marina y recitarlos en orden, dando la vuelta completa.
 
 ## Preparación
 1. Dibujá en el piso una rosa de los vientos grande, orientada con la brújula, con 8 o 16 puntas marcadas.
 
 ## Desarrollo
-1. Explicá el orden: N, E, S, O; después NE, SE, SO, NO; después NNE, ENE, ESE, SSE, SSO, OSO, ONO, NNO.
-2. Para Scouts y mayores: las cuartas («Norte cuarta al Este») completan los 32 rumbos, como en el original.
-3. Juego 1: el educador dice un rumbo y todos corren a pararse en esa punta de la rosa. El último sale (o suma un punto en contra).
-4. Juego 2: «Giros»: todos miran al norte. El educador dice «¡giro de 90° a la derecha!», «¡medio giro!», «¡al sudoeste!». ¿Adónde quedó mirando cada uno?
-5. Juego 3: de a dos, uno dice un rumbo y el otro lo marca con el brazo. Después lo comprueban con la brújula.
-6. Desafío de los marinos: ¿quién recita en orden los 16 (o los 32) rumbos sin equivocarse?
+**Qué es.** La brújula marina, o de navegante, muestra dónde está el Norte y todas las demás direcciones. Su rosa de los vientos no tiene solo los cuatro puntos cardinales (Norte, Este, Sur, Oeste): entre ellos están los rumbos intermedios, y entre esos, las «cuartas». En total son 32 rumbos. «Recitar la brújula» (en inglés, *boxing the compass*) es nombrarlos todos en orden, empezando por el Norte y siguiendo en el sentido de las agujas del reloj hasta volver al Norte.
+
+**Los 32 rumbos, en orden:**
+
+1. Norte
+2. Norte cuarta al Este
+3. Nornoreste
+4. Noreste cuarta al Norte
+5. Noreste
+6. Noreste cuarta al Este
+7. Estenoreste
+8. Este cuarta al Norte
+9. Este
+10. Este cuarta al Sur
+11. Estesudeste
+12. Sudeste cuarta al Este
+13. Sudeste
+14. Sudeste cuarta al Sur
+15. Sudsudeste
+16. Sur cuarta al Este
+17. Sur
+18. Sur cuarta al Oeste
+19. Sudsudoeste
+20. Sudoeste cuarta al Sur
+21. Sudoeste
+22. Sudoeste cuarta al Oeste
+23. Oestesudoeste
+24. Oeste cuarta al Sur
+25. Oeste
+26. Oeste cuarta al Norte
+27. Oestenoroeste
+28. Noroeste cuarta al Oeste
+29. Noroeste
+30. Noroeste cuarta al Norte
+31. Norte cuarta al Oeste
+32. (y se vuelve al) Norte
+
+**Cómo leerlos.** «Cuarta» quiere decir un paso chico desde un rumbo hacia el que sigue: «Norte cuarta al Este» es el Norte, apenas corrido hacia el Este. Fijate que entre cada punto cardinal hay siempre la misma secuencia de siete rumbos, así que si se aprende el primer cuarto de vuelta, el resto sale por el mismo patrón.
+
+**Cómo practicarlo.** Cada uno, por turno, recita la brújula en voz alta, de memoria, empezando por el Norte y dando la vuelta completa, mientras los demás siguen la lista y controlan que no se saltee ninguno.
 
 ## Cierre
 - ¿Para qué sirve conocer los rumbos intermedios y no solo los cuatro puntos cardinales?
@@ -207,51 +245,8 @@ North by West
 
 NORTH
 
-**Versión en español:**
-
-**LA BRÚJULA**
-
-La brújula marina es un instrumento que muestra dónde está el Norte y las demás direcciones. Recitar la brújula consiste en enumerar los rumbos empezando por el Norte y dando la vuelta al círculo así:
-
-NORTE
-Norte cuarta al Este
-Nornoreste
-Noreste cuarta al Norte
-Noreste
-Noreste cuarta al Este
-Estenoreste
-Este cuarta al Norte
-
-ESTE
-Este cuarta al Sur
-Estesudeste
-Sudeste cuarta al Este
-Sudeste
-Sudeste cuarta al Sur
-Sudsudeste
-Sur cuarta al Este
-
-SUR
-Sur cuarta al Oeste
-Sudsudoeste
-Sudoeste cuarta al Sur
-Sudoeste
-Sudoeste cuarta al Oeste
-Oestesudoeste
-Oeste cuarta al Sur
-
-OESTE
-Oeste cuarta al Norte
-Oestenoroeste
-Noroeste cuarta al Oeste
-Noroeste
-Noroeste cuarta al Norte
-Norte cuarta al Oeste
-
-NORTE
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

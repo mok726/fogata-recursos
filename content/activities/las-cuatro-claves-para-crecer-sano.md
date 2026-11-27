@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las Cuatro Claves para Crecer Sano"
+title: "Cómo Crecer Grande"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/las-cuatro-claves-para-crecer-sano/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -144,17 +145,22 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Las Cuatro Claves para Crecer Sano!
+# Cómo Crecer Grande
 
 ## Resumen
-B-P resume la salud en cuatro claves que cada uno tiene que practicar, porque nadie lo puede hacer por vos: comida sana (no golosinas), ir al baño todos los días, aire fresco con respiración profunda por la nariz y ejercicio. La Manada las repasa con un juego de clasificación y una práctica de respiración.
+Una charla de B-P a los lobatos sobre cómo cuidarse para crecer grandes, fuertes y sanos, con cuatro cosas para recordar. Se puede contar en la reunión y terminar preguntando: «¿Se acuerdan de las cuatro cosas?».
 
 ## Desarrollo
-1. Contá la idea de B-P: la sangre es al cuerpo lo que el agua a la planta, y se fortalece con cuatro cosas que cada uno hace por sí mismo.
-2. Juego: repartí tarjetas con hábitos y alimentos (fruta, gaseosa, jugar afuera, dormir con la ventana cerrada en un cuarto sin ventilar, aguantarse las ganas de ir al baño, saltar la soga). Cada seisena las pone debajo del cartel que corresponde, o las descarta si no ayudan.
-3. Práctica de respiración al aire libre: soltar todo el aire y después tomar por la nariz todo lo que entre, hasta que se expandan el pecho y las costillas. Repetir varias veces.
-4. Hablen de por qué B-P recomienda respirar por la nariz (el aire se calienta y los gérmenes quedan atrapados).
-5. Cada uno elige una de las cuatro claves para mejorar durante la semana.
+**Antes de usarla:** las explicaciones sobre el cuerpo son de 1938 y hoy se enseñan distinto (por ejemplo, la idea de que la sangre se «envenena»). Conviene quedarse con los cuatro hábitos y, para lo médico, consultar a un profesional de la salud o material de educación para la salud actual.
+
+**La imagen de B-P.** La sangre es para el cuerpo lo que el vapor para la locomotora y el agua para una planta: lo hace andar y crecer. Hay cuatro cosas que cada uno puede hacer por sí mismo, porque nadie las puede hacer por uno:
+
+1. **Comida sana.** Comer buena comida: carne, verduras y pan, y no llenarse de caramelos y golosinas, que son ricos pero no alimentan. Comer suficiente, pero sin atracarse.
+2. **Ir al baño todos los días.** B-P insiste en que es importante ir de cuerpo con regularidad, todos los días.
+3. **Aire fresco.** Respirar hondo aire fresco, al aire libre, y dormir con la ventana abierta para que el cuarto no quede encerrado. El ejercicio que propone: soltar todo el aire y después tomar por la nariz todo el aire que entre, hasta que el pecho y las costillas se expandan al máximo. Hacerlo varias veces al día, al aire libre.
+4. **Ejercicio.** Mover todas las partes del cuerpo. B-P da el ejemplo de los corredores y los futbolistas, que tienen piernas fuertes porque las usan todo el tiempo.
+
+**Respirar por la nariz.** B-P da tres razones: el aire se calienta al pasar por la nariz antes de llegar a la garganta; los pelitos y el moco de la nariz atrapan los gérmenes, que después se van al sonarse; y cuando uno hace un trabajo duro con la boca abierta, enseguida se le seca y le da sed, cosa que no pasa respirando por la nariz. «La boca es para comer y la nariz para respirar.»
 
 ## Cierre
 - ¿Cuál de las cuatro claves te cuesta más?
@@ -209,53 +215,8 @@ Also when you are doing hard work you will, if you keep your mouth open, soon ge
 Your mouth was given to you to eat with, your nose to breathe with, so why not use them for what they were intended?
 [Passages with comparisons to Japanese and Gurkha soldiers, an Indian ascetic and Native American customs are omitted.]
 
-**Versión en español:**
-
-**CÓMO CRECER**
-[...] Te voy a contar algunas cosas que podés hacer para volverte grande, fuerte y sano.
-
-**BUENA SANGRE, Y MUCHA**
-Lo principal es mantener la sangre que tenés adentro fuerte y abundante. La sangre es para tu cuerpo lo que el vapor para la locomotora: la hace andar bien o mal según la fuerza del vapor. Pero además tu sangre es alimento para el cuerpo, como el agua para una planta: la hace crecer; si no recibe suficiente, queda chica y débil, y muchas veces se marchita y muere.
-¿Cómo puedo tener buena sangre, y mucha, si se fabrica sola adentro mío?
-
-**COMIDA SANA**
-Bueno, se fabrica con la comida que entra por tu boca, y para tener mucha tenés que comer alimentos que sirvan para hacer sangre: no caramelos ni golosinas, que no sirven aunque sean ricos, sino buena carne, verduras y pan sanos.
-Esa es la forma de tener mucha sangre, pero además tiene que ser buena y sana, y eso también lo podés conseguir vos mismo; nadie lo puede hacer por vos.
-
-**IR AL BAÑO TODOS LOS DÍAS**
-Cuando comiste, masticaste bien y tragaste, la comida baja al estómago, y ahí las partes buenas pasan a la sangre y la parte inútil sale por el otro extremo. Si dejás que esa parte inútil se quede adentro demasiado tiempo —es decir, más de un día—, empieza a envenenarte la sangre y deshace lo bueno de haber comido bien.
-Así que tenés que cuidar mucho de deshacerte de la parte venenosa de la comida por lo menos una vez por día, con regularidad. Ese es el secreto para mantenerse sano y bien.
-
-**AIRE FRESCO Y RESPIRACIÓN PROFUNDA**
-Además podés fortalecer tu sangre metiéndole aire fresco. La sangre necesita aire, y pasa todo el tiempo por los pulmones, en el medio del cuerpo, tratando de tomar algo del aire que respirás por la nariz. Así que ayudá a la sangre todo lo que puedas respirando hondo buen aire fresco. No le des aire viejo y viciado, encerrado en un cuarto con olor, sino mucho aire fresco de verdad, al aire libre.
-Para eso, soltá todo el aire que tenés adentro y después tomá por la nariz todo el aire que te entre en el pecho, hasta que el pecho y las costillas se expandan al máximo. Hacelo de vez en cuando durante el día —cuando estés al aire libre—, y eso solo ya te va a ayudar a crecer y a ser fuerte.
-
-**EJERCICIO**
-Pero además, aparte de la buena comida y el aire fresco, hay otra cosa muy importante que podés hacer por tu sangre: darle ejercicio.
-Como te dije, la sangre es como el agua para una planta y alimenta el cuerpo, o la parte del cuerpo a la que llega. Siempre trata de llegar a todas partes, pero si la ayudás, esa parte va a crecer más rápido. Por eso los corredores y los futbolistas tienen piernas tan fuertes: como las ejercitan todo el tiempo, consiguen que la sangre llegue mejor a las piernas, y así crecen en tamaño y fuerza.
-[...] Por lo tanto, si querés crecer en tamaño y fuerza, ejercitá todas las partes del cuerpo.
-[...] Todo esto te va a ayudar a convertirte en una persona fuerte y sana, pero no tenés que olvidarte de las otras tres cosas que también ayudan: comer suficiente comida buena y sana (pero sin atracarte, porque eso también envenena la sangre); ir al baño todos los días con regularidad, para limpiar lo venenoso de adentro; y respirar mucho aire fresco, con respiración profunda y con la ventana abierta para que entre aire fresco al cuarto donde vivís o dormís.
-Estas cosas las tenés que practicar vos mismo; nadie las puede hacer por vos, así que depende de vos volverte grande, fuerte y sano, o dejarte ser una pobre criatura débil.
-A ver, ¿te acordás de las cuatro cosas que tenés que hacer? ¿Cuáles son?
-Comida sana.
-Ir al baño todos los días.
-Aire fresco.
-Ejercicio.
-
-**RESPIRAR POR LA NARIZ**
-Habrás notado que, al hablar de la respiración, dije que hay que tomar el aire por la nariz.
-¿Por qué no por la boca?
-Por esta razón. La garganta, al fondo de la boca, es muy delicada y se resfría y se irrita fácil; si respirás por la boca, el aire frío le pega de lleno y te puede hacer enfriar; pero si tomás el aire por la nariz, se calienta al pasar y entra a la garganta como por una puerta trasera, ya tibio.
-Pero hay otra razón para respirar por la nariz.
-En el aire flotan unos bichitos llamados gérmenes. Son tan chiquitos que es imposible verlos a simple vista, pero con una lupa muy potente se los puede mirar.
-Son unos pícaros retorcidos y muy peligrosos, porque si se te meten adentro te pueden provocar alguna enfermedad.
-Si respirás con la boca abierta, es muy probable que algunos te bajen por la garganta hasta el estómago, donde pueden hacer mucho daño. Pero si respirás por la nariz, quedan atrapados en el moco pegajoso de adentro de la nariz, y te deshacés de ellos cuando te sonás.
-Además, cuando hacés un trabajo duro, si tenés la boca abierta enseguida te secás y te da sed, cosa que no pasa cuando respirás por la nariz.
-La boca te la dieron para comer y la nariz para respirar: ¿por qué no usarlas para lo que fueron hechas?
-[Se omiten pasajes con comparaciones con soldados japoneses y gurkas, un asceta de la India y costumbres de pueblos originarios de América del Norte.]
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

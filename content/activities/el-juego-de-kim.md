@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -76,7 +77,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -143,10 +147,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Juego de Kim!
+# El Juego de Kim
 
 ## Resumen
-Es el juego de observación más famoso del escultismo. Su nombre viene de *Kim*, la novela de Rudyard Kipling, donde el protagonista se entrena con un juego igual. Los participantes miran durante un minuto una bandeja con objetos y después tienen que recordar todos los que puedan.
+El juego de memoria y observación más conocido del escultismo. Se llama así por Kim, el chico de la novela de Rudyard Kipling, que se entrenaba para ser espía con un juego parecido.
 
 ## Preparación
 1. Juntá entre 15 y 30 objetos pequeños y distintos: botones de varios tipos, lápices, corchos, trapitos de colores, nueces, piedras, piolines, fotos, lo que tengas a mano.
@@ -154,12 +158,14 @@ Es el juego de observación más famoso del escultismo. Su nombre viene de *Kim*
 3. Hacé una lista de los objetos y, al lado, una columna para cada participante.
 
 ## Desarrollo
-1. Destapá los objetos durante un minuto, con reloj, o mientras contás hasta sesenta.
-2. Volvé a taparlos.
-3. Cada participante, por separado, te dice en voz baja todos los objetos que recuerda (o los escribe en un papel). Marcalos en tu planilla.
-4. Gana quien recuerda más objetos.
+1. El que dirige pone unos 20 o 30 objetos chicos sobre una bandeja, una mesa o el piso: por ejemplo, dos o tres tipos de botones, lápices, corchos, trapitos de colores, nueces, piedras, piolín, fotos, lo que encuentre. Los tapa con un paño o una campera.
+2. Antes de jugar, arma una planilla: una lista con todos los objetos, uno por renglón, y al lado una columna para cada jugador, con su nombre arriba. Conviene anotar los objetos con detalle («botón negro», «trapo rojo», «trapo amarillo», «nudo de piolín», «piolín liso»), porque los parecidos son los que más cuestan.
+3. Destapa los objetos durante un minuto, medido con el reloj o contando hasta sesenta a ritmo parejo. Después los vuelve a tapar.
+4. Llama a cada jugador por separado, y el jugador le dice en voz baja todos los objetos que recuerda. El que dirige los va marcando en la columna de ese jugador.
 
-## Variantes
+**Cómo se gana:** gana el que recuerda más objetos.
+
+### Variantes
 - **Para los más chicos:** usá menos objetos (10 a 12) y dales más tiempo.
 - **En patrulla:** cada patrulla junta sus respuestas y compite contra las otras.
 - **Más difícil:** pedí también el color, el material o la posición de cada objeto, o sacá uno y preguntá cuál falta.
@@ -211,38 +217,8 @@ that he can remember, and mark it off on your scoring sheet.
 
 The boy who remembers the greatest numbers wins the game.
 
-**Versión en español:**
-
-**EL JUEGO DE KIM**
-
-Poné unos veinte o treinta objetos pequeños sobre una bandeja, una mesa o el piso: por ejemplo, dos o tres clases distintas de botones, lápices, corchos, trapos, nueces, piedras, cuchillos, piolín, fotos (cualquier cosa que encuentres), y tapalos con un paño o un saco.
-
-Hacé una lista de los objetos y, enfrente, una columna para las respuestas de cada chico. Así:
-
-```
-Lista          Adams  Smith  Long  Atkins  Jones
-Nuez
-Botón
-Botón negro
-Trapo rojo
-Trapo amarillo
-Trapo negro
-Cuchillo
-Lápiz rojo
-Corcho
-Nudo de piolín
-Piolín liso
-Cuenta azul
-```
-
-Después destapá los objetos durante un minuto por tu reloj, o mientras contás hasta sesenta al ritmo de "paso ligero". Luego volvé a taparlos.
-
-Tomá a cada chico por separado y hacé que te diga en voz baja cada uno de los objetos que recuerda, y marcalo en tu planilla.
-
-Gana el chico que recuerda la mayor cantidad.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

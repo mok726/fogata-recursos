@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pedir Ayuda por Teléfono"
+title: "El Teléfono"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pedir-ayuda-por-telefono/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,19 +147,23 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Pedir Ayuda por Teléfono!
+# El Teléfono
 
 ## Resumen
-B-P pide que cada lobato sepa usar el teléfono y, si no hay, cómo pedir ayuda ante un accidente o un incendio, y aclara que se aprende practicando, no leyendo. La Manada aprende los números de emergencia locales y simula llamadas con datos claros.
+Una prueba práctica de la manada: saber usar el teléfono para pedir ayuda, y saber qué hacer donde no hay teléfono.
 
 ## Preparación
 1. Prepará tarjetas con situaciones (alguien se cayó y no se mueve, sale humo de una casa, un chico se perdió) y un cartel con los números de emergencia de tu zona.
 
 ## Desarrollo
-1. Contá qué dice B-P: los mensajes se mandan por señales, tambores, teléfono o radio, y un lobato tiene que saber pedir ayuda.
-2. Aprendan los números de emergencia locales y qué datos hay que dar: qué pasó, dónde (dirección y referencias), cuántas personas, quién llama y desde qué número.
-3. En parejas, uno saca una tarjeta y "llama"; el otro hace de operador y pregunta lo que falta.
-4. Repasen qué hacer si no hay teléfono: avisar a un adulto, ir a pedir ayuda a un vecino o a un comercio cercano.
+**La idea del original:**
+1. Hay muchas maneras de mandar mensajes. Los lobatos ya aprendieron a hacerlo con señales, y en distintas partes del mundo se usan tambores o cuernos. El teléfono y la radio son formas más modernas.
+2. Puede parecer que no tienen nada que ver con la selva ni con la manada, pero no es así. En la selva, las personas y los animales se mandan mensajes de maneras que a nosotros nos parecen misteriosas; y a ellos, seguramente, les parecería misterioso que hablemos por teléfono. Por eso está bien que en la manada aprendamos a usar estos inventos.
+3. Cada lobato tiene que saber usar el teléfono que tenga cerca. Se lo pueden enseñar sus padres, Akela (el dirigente de la manada) o un amigo. Es una prueba que se aprueba haciéndola, no leyendo un libro.
+
+**Cómo se practica hoy:** que cada lobato sepa usar el celular de la familia aunque esté bloqueado (la mayoría permite llamar a emergencias sin desbloquear), y que conozca los números de emergencia de la Argentina: el **911** (policía y emergencias, en muchas provincias), el **107** (emergencias médicas) y el **100** (bomberos). Tiene que poder decir con claridad quién es, qué pasó y dónde está.
+
+**Donde no hay teléfono:** el original aclara que algunos lobatos viven en lugares sin teléfono. Ellos también tienen que averiguar cómo pedir ayuda si hay un accidente o un incendio, según dónde vivan (a qué vecino acudir, dónde queda el puesto sanitario o la comisaría más cercana), para poder ser útiles y saber qué hacer cuando haga falta.
 
 ## Cierre
 - ¿Qué dato se olvidaban más al llamar?
@@ -175,14 +180,8 @@ TELEPHONE
 There are many other ways of sending messages. We have already learned that we can do it by signalling. In different parts of the world, messages are sent by means of drums and horns. The telephone and wireless are more modern ways of sending messages. At first you might think that they have nothing to do with the jungle or with Cubbing, but that is not so. In the jungle, both men and animals have ways of sending messages to each other which seem to be mysterious to us, just as when we speak to each other on the telephone it must seem mysterious to them. So it is right that in Cubbing we should make use of these modern inventions and learn how to do so. You have to be able to use the telephone if one is available near where you live. Your father and mother, Akela, or a friend will be able to show you how to do this. This is a test that must be done in practice; you can't learn it out of a book.
 Some Cubs, however, live in places where there are still no telephones and they have to know how to ask for assistance if something such as an accident or a fire happens. The way in which they do this will depend on where they live, but they have to find out how to do it in order that they can prove themselves as useful as possible and know what to do when the occasion demands it.
 
-**Versión en español:**
-
-**TELÉFONO**
-Hay muchas otras formas de mandar mensajes. Ya aprendimos que se puede hacer con señales. En distintas partes del mundo, los mensajes se mandan con tambores y cuernos. El teléfono y la radio son formas más modernas de mandar mensajes. Al principio podrías pensar que no tienen nada que ver con la selva ni con los lobatos, pero no es así. En la selva, tanto los hombres como los animales tienen formas de mandarse mensajes que a nosotros nos parecen misteriosas, igual que cuando hablamos por teléfono debe parecerles misterioso a ellos. Así que está bien que en la Manada usemos estos inventos modernos y aprendamos a hacerlo. Tenés que saber usar el teléfono si hay uno disponible cerca de donde vivís. Tu papá y tu mamá, Akela o un amigo te pueden mostrar cómo hacerlo. Es una prueba que se tiene que hacer practicando; no se puede aprender de un libro.
-Sin embargo, algunos lobatos viven en lugares donde todavía no hay teléfono, y tienen que saber cómo pedir ayuda si pasa algo como un accidente o un incendio. La forma de hacerlo va a depender de dónde viven, pero tienen que averiguar cómo hacerlo para poder ser lo más útiles posible y saber qué hacer cuando la ocasión lo pida.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

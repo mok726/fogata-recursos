@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua Segura en el Campamento"
+title: "Agua"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-segura-en-el-campamento/"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - agua
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -150,19 +154,21 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Agua Segura en el Campamento!
+# Agua
 
 ## Resumen
-«Seguro que esta agua es buena», pensás frente a un arroyo de montaña transparente. Kephart pregunta: ¿sabés de dónde viene? Arroyo arriba puede haber una casa, un corral o un enfermo. **No es cierto que el agua que corre se purifique sola.** Con su texto, la patrulla investiga de dónde viene el agua del campamento, compara muestras y aprende a potabilizarla. Hirviendo, como dice él, y también con los métodos de hoy.
+Un texto de época (una cita de un experto en vida al aire libre que trae *Scouting for Girls*) sobre cómo elegir el agua en el campamento. Sirve para charlar con la patrulla antes de salir: por qué un agua que se ve limpia puede no serlo y cómo pensar de dónde viene.
 
 ## Desarrollo
-1. Leé el texto de Kephart y mostrá los tres frascos. ¿Cuál tomarían? ¿Por qué?
-2. Explicá que el agua transparente puede tener microbios invisibles, y que el agua turbia no siempre es la más peligrosa.
-3. Con el mapa o recorriendo, investiguen qué hay arroyo arriba: casas, animales, caminos, campamentos.
-4. Potabilizar hirviendo: hacé hervir agua con un hervor fuerte durante al menos un minuto (tres en zonas altas) y dejala enfriar tapada.
-5. Potabilizar con cloro: mostrá cómo usar pastillas potabilizadoras o lavandina sin perfume, siguiendo la dosis indicada por la autoridad sanitaria, y el tiempo de espera.
-6. Si el agua está turbia, primero se filtra con una tela limpia y se deja asentar; después se hierve o se clora.
-7. Armen un cartel para la cocina del campamento: «De dónde sacamos el agua y cómo la potabilizamos».
+**Hoy se enseña distinto: consultá un curso de primeros auxilios vigente** y las indicaciones actuales para potabilizar agua. Lo que sigue es lo que decía el original, no una instrucción para tomar agua.
+
+1. **El agua que corre no se limpia sola.** Un arroyo de montaña puede ser transparente, fresco y burbujeante, y aun así estar contaminado. Arroyo arriba puede haber un claro, en el claro una casa y en la casa alguien enfermo de disentería o de fiebre tifoidea. El autor dice que conoció varios casos de contagio así.
+2. **El agua de pozo.** Hay que fijarse qué hay alrededor. Si el pozo está cerca de un establo o de una letrina, o si cerca se tira el agua de lavar los platos, no se usa. La tierra arenosa filtra algo, pero la tierra rocosa o arcillosa puede llevar los microbios lejos por debajo del suelo. Nunca se toma agua del pozo de una chacra abandonada, porque no se sabe qué pudo haber caído adentro.
+3. **Los manantiales.** Un manantial (un lugar donde el agua brota sola de la tierra) que sale de la roca viva es de confianza. Aunque sea un hilito, se puede cavar un pocito para juntar el agua, que enseguida se aclara.
+4. **Manantiales escondidos.** A veces, cerca de la orilla de un lago o de un río, se encuentra un manantial que brota bajo el agua. Se descubre yendo en canoa cerca de la costa y arrastrando la mano en el agua: cuando se siente un lugar más frío, se baja a tierra y se cava a uno o dos metros de la orilla. El autor cuenta que encontró uno en el río Misisipi y sacó agua fresca del fondo bajando una cantimplora con peso, atada con un hilo, y con otro hilo atado al tapón para destaparla abajo.
+5. **Aguas quietas y lagos.** Según el autor, un agua quieta no es mala solo porque tenga plantas podridas, y un lago es seguro si no hay poblaciones en sus orillas. Pero aclara que hasta un lago enorme puede estar contaminado por las cloacas que le llegan.
+6. **Arroyos crecidos.** Cuando un arroyo está crecido, es probable que arrastre restos de animales muertos.
+7. **Agua estancada.** Si no queda otra que usar agua estancada, nunca se toma sin hervirla antes. El original indicaba hervirla con unos trozos de carbón del fogón, sacar la espuma, colarla y dejarla enfriar: el hervor mata los microbios y el carbón le quita el olor.
 
 ## Cierre
 - ¿Qué frase de Kephart les sorprendió?
@@ -227,26 +233,8 @@ first boiling it. Some charred wood from the camp fire should be boiled
 with the water; then skim off the scum, strain, and set in water aside
 to cool. Boiling sterilizes, and charcoal deodorizes. * * *"
 
-**Versión en español:**
-
-»*Agua*. Tené mucho cuidado con la pureza del agua que tomás. Supongamos que llegás a un arroyo de montaña que sale de un bosque espeso. Corre sobre piedras limpias, burbujea, es transparente como el cristal y fresca para tu garganta sedienta. "Seguro que esta agua es buena". Pero ¿sabés de dónde viene? Toda cabaña de montaña se construye cerca de un arroyo. En algún lugar arroyo arriba puede haber un claro; en ese claro, una casa; en esa casa, un caso de disentería o de fiebre tifoidea. Conocí varios casos de contagio por una fuente así. No es cierto que el agua que corre se purifique sola.
-
-»Cuando hay que usar agua de pozo, fijate en el drenaje de los alrededores. Si el pozo está cerca de un establo o de una letrina, o si cerca se tira el agua de lavar los platos, no lo uses. Un pozo en suelo arenoso está más o menos filtrado por la naturaleza, pero la tierra rocosa o arcillosa puede llevar los microbios de enfermedades bastante lejos bajo tierra. Nunca tomes agua del pozo de una granja abandonada: no hay manera de saber qué puede haber caído adentro.
-
-»Un manantial que brota de la roca viva es digno de confianza. Aunque sea apenas un hilo, podés cavar un pocito para recibirlo, que pronto se va a aclarar solo.
-
-»A veces se puede encontrar un manantial bajo el agua cerca de la orilla de un lago o de un río, remando cerca de la costa y arrastrando la mano en el agua. Cuando se nota un punto frío, se baja a tierra y se cava a un metro o dos de la orilla. Encontré una salida de manantial así en el Misisipi, a cierta distancia de la orilla, y con una cantimplora con peso, atándole un hilo a ella y otro al tapón, saqué agua fresca del fondo del río.
-
-»Los microbios de las enfermedades son de origen animal, no vegetal. Las aguas quietas no son necesariamente insalubres, aunque tengan vegetación podrida. El agua de los pantanos de cedros y cipreses es buena para tomar donde forma un pozo profundo, salvo que se contamine desde afuera. El agua de un lago es segura si no hay poblaciones en sus orillas; pero hasta un lago tan grande como el Champlain fue declarado no apto por las autoridades sanitarias por las aguas cloacales que le llegan.
-
-»Cuando un arroyo está crecido, es probable que esté contaminado con restos de animales en descomposición.
-
-[…]
-
-»*Agua estancada*. Un viajero puede verse en el extremo de tener que usar agua estancada o incluso podrida; pero eso nunca debe hacerse sin hervirla antes. Hay que hervir con el agua un poco de carbón de leña del fogón; después sacar la espuma, colarla y dejarla enfriar. El hervor esteriliza y el carbón quita el olor. * * *»
-
 ---
-**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

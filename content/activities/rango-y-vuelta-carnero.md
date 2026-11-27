@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,17 +142,21 @@ rama_rovers:
   - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
-# ¡Rango y Vuelta Carnero!
+# Rango y Vuelta Carnero
 
 ## Resumen
-B-P enseña a saltar al rango ("leap-frog") sobre un compañero de tamaño parecido, que se agacha de costado con la cabeza metida, y a dar la vuelta carnero con los hombros redondeados y el mentón contra el pecho, tratando de levantarse sin usar las manos.
+Dos ejercicios clásicos de destreza física para los lobatos: saltar al rango (en inglés, «leap-frog») y dar la vuelta carnero.
 
 ## Desarrollo
-1. **Rango:** en parejas de tamaño parecido. El que hace de "burro" se para de costado, con los pies un poco separados, se agacha, mete bien la cabeza y se agarra las piernas con las dos manos.
-2. El que salta toma carrera, apoya las dos manos en la espalda y pasa con las piernas bien abiertas, derecho y cargando el menor peso posible.
-3. Hagan una fila de rango: cada uno salta a todos y se agacha al final.
-4. **Vuelta carnero:** sobre pasto o colchoneta, en cuclillas, hombros redondeados y mentón contra el pecho; se rueda hacia adelante.
-5. Desafío de B-P: después de la vuelta, levantarse sin apoyar las manos.
+**El rango.** Es el juego de saltar por encima de un compañero agachado, apoyando las manos en su espalda. B-P dice que algunos chicos lo hacen espléndido, pero otros parecen una bolsa de carbón cayéndose por la espalda del compañero. Para aprender:
+1. Elegí para saltar a alguien más o menos de tu tamaño, o un poco más chico.
+2. Pedile que se pare de costado a vos, que se agache y que meta bien la cabeza. Si separa un poco los pies y se agarra las piernas con las dos manos, es más difícil que se caiga.
+3. Tomá carrera, apoyá las dos manos en su espalda y saltá por encima con las piernas bien abiertas.
+4. Tratá de pasar bien derecho, de frente, cargándole el menor peso posible.
+
+**La vuelta carnero.** Es rodar por el suelo hacia adelante, pasando los talones por encima de la cabeza.
+1. Lo importante es mantener los hombros redondeados y el mentón pegado al pecho.
+2. No te conformes con lograr dar la vuelta: fijate si después podés levantarte sin ayudarte con las manos.
 
 ## Cierre
 - ¿Qué cuidados hay que tener para que nadie se lastime?
@@ -167,14 +172,8 @@ LEAP-FROG AND TURNING SOMERSAULTS
 I have seen many boys playing leap-frog. Some of them do it splendidly, but some of them are more like sacks of coke tumbling over a coal-heaver's back than anyone leaping! When you first learn, try going over someone about your own size, or a little smaller. Get him to stand sideways to you, to bend down and tuck his head well in (if he stands with his feet a bit apart and grasps his leg with both hands he will be least likely to topple over). Now take a run up to him, put both your hands on his back and leap over — legs well apart. Try and go over absolutely squarely and put as little weight on him as you can.
 Turning a somersault is rolling heels-over-head on the ground. The important things to remember are that you should keep your shoulders rounded and your chin tucked in. Don't be content with just managing to roll over. See if, after turning, you can get up without having to use your hands to help.
 
-**Versión en español:**
-
-**RANGO Y VUELTA CARNERO**
-Vi a muchos chicos jugar al rango. Algunos lo hacen espléndidamente, ¡pero otros parecen más bolsas de carbón cayendo por la espalda de un carbonero que alguien saltando! Cuando estés aprendiendo, probá pasar sobre alguien más o menos de tu tamaño, o un poco más chico. Pedile que se pare de costado a vos, que se agache y que meta bien la cabeza (si se para con los pies un poco separados y se agarra la pierna con las dos manos, es menos probable que se caiga). Ahora tomá carrera, apoyá las dos manos en su espalda y saltá por encima, con las piernas bien abiertas. Tratá de pasar bien derecho y de cargarle el menor peso posible.
-La vuelta carnero es rodar sobre el suelo, con los talones pasando por encima de la cabeza. Lo importante es mantener los hombros redondeados y el mentón metido. No te conformes con lograr rodar. Fijate si, después de dar la vuelta, podés levantarte sin ayudarte con las manos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

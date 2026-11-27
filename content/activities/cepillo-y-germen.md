@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cepillo y Germen"
+title: "Cepillo de Dientes y Germen"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cepillo-y-germen/"
@@ -50,6 +50,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -140,16 +141,19 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Cepillo y Germen!
+# Cepillo de Dientes y Germen
 
 ## Resumen
-La Manada forma una ronda tomada de las manos. Adentro está el cepillo de dientes y afuera, el germen. El cepillo tiene que atrapar al germen: puede entrar y salir libremente, pero la ronda baja los brazos o se cierra para que el germen no pueda entrar ni salir.
+Un juego de ronda y persecución para lobatos, pensado para hablar de la higiene de los dientes.
 
 ## Desarrollo
-1. Todos en ronda, tomados de las manos, con los brazos estirados.
-2. Uno se para en el centro: es el cepillo de dientes. Otro, afuera: es el germen.
-3. El cepillo persigue al germen. El cepillo puede entrar y salir de la ronda libremente; al germen, la ronda trata de frenarlo bajando los brazos o juntándose.
-4. Cuando el cepillo atrapa al germen, eligen nuevos jugadores.
+1. Los lobatos forman una ronda tomados de las manos, con los brazos bien estirados para que haya lugar entre uno y otro.
+2. Un lobato se para en el centro: es el «cepillo de dientes». Otro se queda afuera de la ronda: es el «germen».
+3. El cepillo tiene que atrapar al germen, tocándolo.
+4. El cepillo puede entrar y salir de la ronda libremente: los de la ronda levantan los brazos para dejarlo pasar.
+5. Al germen, en cambio, los de la ronda tratan de no dejarlo entrar ni salir: bajan los brazos o se juntan para cerrarle el paso.
+
+**Cómo se gana:** el juego termina cuando el cepillo atrapa al germen. Después se pueden elegir otro cepillo y otro germen y jugar de nuevo.
 
 ## Cierre
 - ¿Cuántas veces por día hay que cepillarse los dientes? ¿Por qué?
@@ -165,13 +169,8 @@ La Manada forma una ronda tomada de las manos. Adentro está el cepillo de dient
 GAME—TOOTHBRUSH AND GERM
 Cubs in circle, hands joined, arms fully extended. One Cub in centre is a toothbrush, a Cub outside the circle is a germ. The object of the game is for the toothbrush to catch the germ. All the Cubs may try to prevent the germ from entering or leaving the circle by lowering their arms or closing up, but the toothbrush may enter and leave freely.
 
-**Versión en español:**
-
-**JUEGO: CEPILLO DE DIENTES Y GERMEN**
-Los lobatos en ronda, tomados de las manos, con los brazos bien estirados. Un lobato en el centro es el cepillo de dientes; un lobato afuera de la ronda es el germen. El objetivo del juego es que el cepillo atrape al germen. Todos los lobatos pueden tratar de impedir que el germen entre o salga de la ronda bajando los brazos o juntándose, pero el cepillo puede entrar y salir libremente.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

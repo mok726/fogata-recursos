@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - acecho
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Scout Encuentra a Scout!
+# Scout Encuentra a Scout
 
 ## Resumen
-Dos patrullas salen desde puntos alejados y avanzan una hacia la otra. Gana la que ve primero a la otra sin ser vista. Se trabaja la observación, el acecho y la comunicación dentro de la patrulla.
+Un juego de observación y sigilo, en la ciudad o en el campo: dos grupos avanzan uno hacia el otro y gana el que ve primero al otro.
 
 ## Preparación
 1. Elegí un predio amplio y marcá sus límites.
@@ -150,11 +154,16 @@ Dos patrullas salen desde puntos alejados y avanzan una hacia la otra. Gana la q
 3. Dale a cada patrulla una referencia hacia la cual avanzar (un árbol grande, una loma) que esté detrás de la otra patrulla. Así se van a cruzar.
 
 ## Desarrollo
-1. A la señal, las dos patrullas avanzan.
-2. Pueden separarse, pero conviene que todos estén en contacto con su guía por señas, voz o mensajes.
-3. Valen todas las astucias (esconderse detrás de árboles, arbustos o desniveles), pero no disfrazarse.
-4. Cuando una patrulla ve a la otra, su guía levanta el banderín y toca el silbato para que lo vea el árbitro.
-5. Gana la patrulla que primero levanta el banderín.
+1. El que dirige lleva a los dos bandos a lugares separados por unos 3 kilómetros. Cada bando puede ser un scout solo, una pareja o una patrulla entera.
+2. Los dos bandos tienen que avanzar uno hacia el otro. Para que se encuentren, o se los hace ir a lo largo de un mismo camino, o se le da a cada bando una referencia hacia la cual caminar (una loma, un árbol grande) que esté justo detrás del otro grupo.
+3. Mientras avanzan, tratan de ver al otro bando sin ser vistos.
+4. Cuando una patrulla ve a la otra, el guía de patrulla levanta el banderín de la patrulla para que lo vea el árbitro y toca el silbato.
+5. La patrulla no tiene que ir toda junta: los scouts se pueden abrir y separar. Pero como solo cuenta cuando el guía levanta el banderín, conviene que estén en contacto con él por señas, por voz o con mensajes.
+6. Se vale cualquier astucia, como subirse a un árbol o esconderse detrás de un cerco, pero no se vale disfrazarse.
+
+**Cómo se gana:** gana la patrulla que primero levanta su banderín al ver a la otra.
+
+**De noche (variante del original):** el mismo juego también se puede practicar de noche.
 
 ## Cierre
 - ¿Qué estrategia usaron? ¿Funcionó?
@@ -191,20 +200,8 @@ hiding in carts, etc., but they must not dress up in disguise.
 
 This may also be practised at night.
 
-**Versión en español:**
-
-**SCOUT ENCUENTRA A SCOUT.**
-
-**EN LA CIUDAD O EN EL CAMPO.**
-
-Se lleva a scouts solos, a patrullas completas o a parejas de scouts a unos tres kilómetros de distancia entre sí, y se los hace avanzar unos hacia otros, ya sea a lo largo de un camino o dándole a cada bando una referencia hacia la cual avanzar, como una loma empinada o un árbol grande, que esté justo detrás del otro grupo, para asegurar que se encuentren. Gana la patrulla que primero ve a la otra. Esto se indica cuando el guía de patrulla levanta el banderín de la patrulla para que lo vea el árbitro y toca el silbato. La patrulla no necesita mantenerse junta, pero gana la que primero muestra su banderín, así que conviene que los scouts estén en contacto con su guía por señas, voz o mensaje.
-
-Los scouts pueden usar cualquier astucia que quieran, como trepar a los árboles, esconderse en carros, etc., pero no deben disfrazarse.
-
-También se puede practicar de noche.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

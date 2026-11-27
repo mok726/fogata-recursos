@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Patrulla Pino: Cada Uno con su Tarea"
+title: "El Sistema de la Patrulla Pino"
 duration: "60 min +"
 duration_detail: "60 minutos + el campamento"
 layout: "layouts/activity.njk"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - patrulla
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -140,18 +144,36 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡La Patrulla Pino: Cada Uno con su Tarea!
+# El Sistema de la Patrulla Pino
 
 ## Resumen
-El manual propone la **Patrulla Pino**: cada integrante tiene un número y un puesto fijo, como la jefa, la subjefa, la secretaria, la panadera, la encargada de luces, la del agua, la «mano hábil» o la de la leña. Con eso nunca aparece la pregunta «¿quién lo hace?». Cada número tiene tareas, un saber propio, equipo a su cargo y dos compromisos: enseñarle todo a su reemplazo y aprender el puesto siguiente. La patrulla adapta el sistema a su campamento y lo pone a prueba.
+Un sistema para repartir las tareas de campamento dentro de la patrulla, de modo que cada trabajo tenga siempre un responsable. Viene del manual de las Girl Scouts de 1920.
 
 ## Desarrollo
-1. Leé el texto y dibujá el cuadro de la Patrulla Pino: fila de adelante (1, 3, 5, 7) a cargo de la jefa; fila de atrás (2, 4, 6, 8) a cargo de la subjefa.
-2. Comparen los puestos de 1920 con lo que necesita su campamento hoy: ¿quién se ocupa de las luces y las baterías? ¿De la basura? ¿Del botiquín?
-3. Armen su propio cuadro con 6 a 8 puestos. Para cada uno escriban: tareas, qué tiene que saber, qué equipo cuida y a quién le enseña.
-4. Repartan los puestos. Cada uno elige también el puesto que va a aprender después.
-5. Armen un horario del día como el del manual (quién se levanta antes para el desayuno, a qué hora es la revisión de carpas).
-6. Pónganlo a prueba en el próximo campamento y roten los puestos en el siguiente.
+**La idea.** El campamento sale bien solo si cada integrante hace su parte. La gran ventaja de este sistema es que, cada vez que aparece un trabajo, ya hay alguien a quien le toca, y nunca hace falta preguntar «¿quién lo hace?». No interfiere con el programa de actividades; al contrario, ahorra tiempo. Si para un campamento chico resulta demasiado complicado, el dirigente lo puede simplificar.
+
+**Cómo funciona.**
+1. A cada integrante de la patrulla se le asigna un número del 1 al 8. Ese número le da tareas fijas, una «especialidad» en la que tiene que saber, el cuidado de su equipo, el compromiso de enseñarle todo lo que sabe a su reemplazo y las ganas de aprender las tareas de los números siguientes.
+2. La patrulla se divide en dos filas. La fila de adelante, «los Rojos», son los números impares (1, 3, 5 y 7) y está a cargo del guía de patrulla (n.º 1). La fila de atrás, «los Azules», son los pares (2, 4, 6 y 8) y está a cargo del subguía (n.º 2).
+3. El guía recibe las órdenes del dirigente y se las pasa a los números 3, 5 y 7 y al subguía. Es como el primer ayudante del dirigente y coordina la rutina del campamento. El subguía es el segundo ayudante.
+
+**Las tareas de cada número.**
+- **N.º 1, guía de patrulla:** banderas, carpas, frazadas, equipo y equipaje personal.
+- **N.º 2, subguía:** comida, fuegos, agua y cocina.
+- **N.º 3, secretario:** lleva las cuentas, la bitácora y los registros, escribe la correspondencia, ayuda a armar carpas y tiene a cargo el botiquín.
+- **N.º 4, panadero:** es la mano derecha del subguía. Se ocupa de los cereales, las harinas y todo lo que se hace con ellos (desde el choclo hasta los panqueques), del equipo de cocina y del fuego de la cocina.
+- **N.º 5, encargado de luces:** linternas, faroles, pilas y combustibles. Es el principal encargado de señales, ayuda a armar las carpas y tiene que mantener iluminado el campamento.
+- **N.º 6, encargado del agua:** busca agua para todos los usos y la trae al campamento. Es el responsable de vigilar los fuegos y de tener lista el agua para apagarlos. Consigue y cocina la carne y las verduras.
+- **N.º 7, mano hábil:** hace de ingeniero, carpintero y constructor de puentes; arregla, emparcha y empalma todo, cuida las herramientas y el carro, arregla carpas y ropa y construye los muebles de campamento.
+- **N.º 8, encargado de la leña:** suele ser el más chico de la patrulla, la «mascota». Mantiene los fuegos alimentados, las provisiones secas y la basura juntada. Tiene a mano la pala y las herramientas de la leña.
+
+En un campamento grande, con varias patrullas, los que tienen el mismo número en cada patrulla trabajan juntos.
+
+**La rutina de la mañana:**
+- 6:30. Se presentan el subguía, el panadero, el encargado del agua y el de la leña, media hora antes del desayuno.
+- 8:00. Revisión de carpas.
+- 8:30. Se presentan el guía, el secretario, el encargado de luces y la mano hábil.
+- De 8:30 a 9:30. Los dos grupos hacen el trabajo principal del día.
 
 ## Cierre
 - ¿Qué ventaja tiene que cada uno sepa cuál es su tarea?
@@ -266,60 +288,8 @@ before Mess.
 8:30-9:30 A. M. Main work for day accomplished by both Senior and Junior
 groups.
 
-**Versión en español:**
-
-**Trabajo en equipo**
-
-El campamento solo es un éxito completo si cada una de sus integrantes hace su parte. Las tareas diarias tienen que asignarse a personas o a grupos, como en:
-
-**El sistema de la Patrulla Pino**
-
-La gran ventaja de este sistema es que, cada vez que surge un trabajo de cualquier tipo, siempre hay alguien que tiene el deber de hacer esa tarea, y así se evita la inevitable pregunta: «¿Quién lo hace?». El sistema de la Patrulla Pino no interfiere para nada con el programa habitual de actividades scouts; al contrario, ahorra tiempo, porque más de una mano en cada rayo de la rueda la mantiene siempre en movimiento. Cuando el sistema parece demasiado complicado para un campamento chico, la capitana lo puede simplificar según las circunstancias.
-
-A cada chica de la patrulla se le asigna un número, que le exige:
-
-1. Ciertas tareas bien definidas para hacer por su patrulla.
-
-2. Ciertos conocimientos específicos que se esperan de ella en el ejercicio de su «especialidad».
-
-3. El cuidado adecuado de su «equipo de puesto».
-
-4. Ganas de enseñarle a su reemplazo todo lo que sabe.
-
-5. Ganas de aprender las tareas de los números siguientes.
-
-[Ilustración: LA PATRULLA PINO. FILA DE ATRÁS: «LAS AZULES»: 2 Subjefa, 4 Panadera, 6 Scout del agua, 8 Scout de la leña. FILA DE ADELANTE: «LAS ROJAS»: 1 Jefa, 3 Secretaria, 5 Encargada de luces, 7 Mano hábil.]
-
-La fila de adelante (las Rojas) está en contacto con la Jefa de patrulla y a su cargo; la fila de atrás (las Azules), con la Subjefa y a su cargo. La Jefa recibe las órdenes de la Capitana y las transmite no solo a la 3, la 5 y la 7, sino también a la Subjefa. La Jefa, que es la oficial de mayor rango de la patrulla, vigila a la Subjefa y a su fila. La Capitana, claro, supervisa todo, pero la Jefa está a cargo de todas las tareas de rutina de la tropa, supervisa los detalles del campamento y es prácticamente una primera teniente de la Capitana. La Subjefa es una segunda teniente y ayuda a la Jefa a supervisar el campamento.
-
-*La Jefa* (n.º 1) se ocupa de las banderas, las carpas, las frazadas, el equipo y el equipaje personal, mientras que la Subjefa (n.º 2) está a cargo de la comida, los fuegos, el agua, la cocina y el trabajo de cocina. Ellas atienden las necesidades de afuera y de adentro.
-
-*La Secretaria* (n.º 3). Es secretaria, tesorera, escribe la bitácora, lleva los registros y la correspondencia, arma carpas y es la Scout de Primeros Auxilios.
-
-*La Panadera* (n.º 4) es la mano derecha de la Subjefa. Se ocupa de guardar y usar los cereales y harinas, desde el choclo hasta los panqueques y las tortas, y del equipo de cocina y el fuego de la cocina.
-
-*La Encargada de luces* (n.º 5) cuida las lámparas, los faroles, las velas, los fósforos, los aceites y todo lo que «gotea». Sabe de telegrafía y electricidad, es la principal scout de señales y ayuda a armar las carpas. Tiene que mantener bien iluminado el campamento.
-
-*La Scout del agua* (n.º 6) busca agua para todos los usos y la lleva al campamento. Es la jefa de bomberos y la vigía del fuego. Consigue y cocina la carne, las verduras y las hojas.
-
-*La Mano hábil* (n.º 7) es ingeniera de campo, carpintera, constructora de puentes, la que hace, arregla, emparcha, empalma y repara todo en general; cuida las herramientas y el carro, arregla las carpas y la ropa, y hace los muebles.
-
-*La Scout de la leña* (mascota de la patrulla) (n.º 8) suele ser la chica más chica. Mantiene los fuegos bien alimentados, las provisiones secas y la basura quemada. Lleva una pala, un pico y un hacha.
-
-Este sistema se puede usar en un campamento chico o en uno grande; en este caso, los mismos números de cada patrulla trabajan juntos.
-
-**TRABAJO EN EQUIPO Y RUTINA DIARIA**
-
-6:30. La Subjefa, la Panadera, la Scout del agua y la Scout de la leña se presentan media hora antes del desayuno.
-
-8:00. Revisión de carpas.
-
-8:30. Se presentan la Jefa, la Secretaria, la Encargada de luces y la Mano hábil.
-
-8:30 a 9:30. El grupo de la Jefa y el de la Subjefa hacen el trabajo principal del día.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

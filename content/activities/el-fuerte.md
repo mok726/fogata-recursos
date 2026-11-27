@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Fuerte"
+title: "El Asalto a Badajoz"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-fuerte/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - fuerza
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -134,15 +138,21 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Fuerte!
+# El Asalto a Badajoz
 
 ## Resumen
-Una patrulla se sube a un terraplén (el "fuerte") y lo defiende. La otra ataca e intenta tomarlo bajando a los defensores. Los defensores pueden tener a la mitad de su gente atrás, al pie del "muro": si logran pasar a un atacante por encima, queda fuera. No se permiten golpes ni patadas.
+Un juego de fuerza entre dos patrullas: una defiende una «fortaleza» y la otra trata de tomarla bajando a los defensores.
 
 ## Desarrollo
-1. Elegí un terraplén bajo y blando.
-2. Explicá las reglas: solo agarrar y tirar, nada de golpes, patadas ni agarres del cuello.
-3. Se juega por tiempo. Después cambian los roles.
+El nombre recuerda un hecho histórico que B-P cuenta en el original: Badajoz era una fortaleza en España, defendida por unos 5.000 soldados franceses y españoles, que el ejército británico tomó por asalto en 1812, con muchísimas bajas.
+
+1. **La fortaleza.** Puede ser un terraplén, un montículo de tierra o una plataforma baja y muy firme. El original propone una mesa de cocina muy fuerte.
+2. **Los defensores.** Una patrulla (en el original, los franceses) se sube a la fortaleza y la defiende. Pueden dejar a la mitad de su gente en el suelo, detrás de la fortaleza, que funciona como «muralla».
+3. **Los atacantes.** La otra patrulla (los británicos) ataca desde adelante y trata de quedarse con la fortaleza tirando de los defensores para bajarlos.
+4. **Cuando un atacante pasa la muralla.** Si los defensores logran tirar a un atacante por encima de la fortaleza hasta el suelo de atrás, ese atacante queda eliminado.
+5. **Regla importante:** no se permite pegar ni patear. Solo se vale tirar y empujar.
+
+**Cómo se gana:** los atacantes ganan si se apoderan de la fortaleza bajando a los defensores. El original no dice cuándo ganan los defensores; una opción es fijar un tiempo límite y que ganen si al terminar siguen arriba.
 
 ## Cierre
 - ¿Cómo se organizaron para defender? ¿Qué rol tuvo cada uno?
@@ -166,14 +176,8 @@ ground behind he is dead. No hitting or kicking allowed.
 was attacked, and stormed, and taken by the British, who lost 3,500 in
 the assault, on March 17th, 1812.]
 
-**Versión en español:**
-
-**EL ASALTO A BADAJOZ.** Una patrulla (los franceses) se sube a una mesa de cocina muy fuerte, o a un terraplén, y la defiende contra todos. Los británicos atacan y tratan de apoderarse de la fortaleza bajando a los defensores. Los defensores pueden tener a la mitad de su gente en el suelo, detrás de la "muralla". Si los defensores tiran a un británico por encima de la muralla al suelo de atrás, está muerto. No se permite pegar ni patear.
-
-[Badajoz era una fortaleza española defendida por 5.000 franceses y españoles. Fue atacada, asaltada y tomada por los británicos, que perdieron 3.500 hombres en el asalto, el 17 de marzo de 1812.]
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

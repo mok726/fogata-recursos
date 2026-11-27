@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,18 +142,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Caza del León!
+# La Caza del León
 
 ## Resumen
-Un scout es el "león": sale media hora antes con seis pelotas de tenis y un bolsillo lleno de granos. Donde el suelo es duro o con mucho pasto deja caer unos granos cada tantos metros. La patrulla lo rastrea con una pelota por cabeza. Cuando se acercan a su guarida empieza la pelea.
+Un juego de rastreo: un jugador hace de león y deja un rastro, y la patrulla lo sigue para «cazarlo» con pelotas de tenis.
 
 ## Desarrollo
-1. El león sale con media hora de ventaja. Puede esconderse, arrastrarse o correr.
-2. La patrulla sigue sus huellas y los granos.
-3. Cuando se acercan, el león les tira sus pelotas: cazador tocado queda fuera y no puede tirar.
-4. Cada pelota se tira una sola vez y no se recoge durante la pelea. Tres impactos y el león cae.
-5. Si los cazadores no lo encuentran, no gana nadie.
-6. Al terminar, cada uno devuelve sus pelotas.
+1. **El león:** es un jugador que sale con «hierros de rastreo» en los pies. Son unas suelas que se atan debajo del calzado y dejan en el suelo una huella fácil de reconocer (se pueden improvisar con un dibujo de goma o cartón duro atado a la suela). Lleva también un bolsillo lleno de granos de maíz o arvejas secas y seis pelotas de tenis.
+2. El león sale con media hora de ventaja. Puede esconderse, arrastrarse o correr, como quiera.
+3. Donde el suelo es duro o tiene mucho pasto y la huella no se marca, el león tiene que dejar caer unos granos cada pocos metros, para que el rastro se pueda seguir.
+4. Después sale la patrulla de cazadores siguiendo el rastro. Cada cazador lleva una sola pelota de tenis.
+5. Cuando los cazadores se acercan a la guarida, el león les tira sus pelotas. El cazador al que le pega una pelota queda eliminado y ya no puede tirar la suya.
+6. Si una pelota de los cazadores le pega al león, el león queda herido. Si lo hieren tres veces, queda cazado.
+7. Cada pelota se puede tirar una sola vez: no se puede levantar del suelo y volver a tirar en la misma pelea.
+8. Al terminar, cada uno junta y devuelve sus pelotas.
+
+**Cómo se gana:** si los cazadores hieren tres veces al león, lo cazaron. Si no llegan a alcanzarlo, no gana nadie.
+
+**En la nieve (variante del original):** si hay nieve, se juega sin hierros de rastreo, porque las huellas se ven solas, y con bolas de nieve en lugar de pelotas de tenis.
 
 ## Cierre
 - ¿Dónde perdieron el rastro y cómo lo recuperaron?
@@ -185,20 +195,8 @@ Each scout must collect and hand in his tennis balls after the game. In
 winter if there is snow, this game can be played without tracking irons,
 and using snowballs instead of tennis balls.
 
-**Versión en español:**
-
-**CAZA DEL LEÓN.**
-
-El león es un scout que sale con hierros de rastreo en los pies, un bolsillo lleno de maíz o arvejas y seis pelotas de tenis. Se le da media hora de ventaja y después la patrulla sale tras él, siguiendo su rastro, cada uno armado con una pelota de tenis para dispararle cuando lo encuentren. El león puede esconderse, arrastrarse o correr, como quiera, pero cada vez que el suelo es duro o tiene mucho pasto tiene que dejar caer unos granos cada pocos metros para marcar el rastro.
-
-Si los cazadores no lo alcanzan, no gana nadie. Cuando se acercan a su guarida, el león les dispara sus pelotas de tenis, y en el momento en que a un cazador le pegan, tiene que quedar fuera, muerto, y no puede tirar su pelota. Si al león le pega una pelota de los cazadores, queda herido, y si lo hieren tres veces, muere.
-
-Las pelotas de tenis se pueden disparar una sola vez; no se pueden levantar y volver a tirar en la misma pelea.
-
-Cada scout tiene que juntar y entregar sus pelotas de tenis después del juego. En invierno, si hay nieve, este juego se puede jugar sin hierros de rastreo, usando bolas de nieve en lugar de pelotas de tenis.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

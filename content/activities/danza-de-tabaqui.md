@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -142,21 +143,32 @@ rama_rovers:
   - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
 ---
 
-# ¡La Danza de Tabaqui!
+# La Danza de Tabaqui
 
 ## Resumen
-La Manada se divide en dos. Un grupo hace de chacales (Tabaqui) que adulan a Shere Khan, el tigre, y le hacen burla a sus espaldas; el otro grupo hace de lobos y viene con Mowgli. Los lobos se llevan a los chacales y Mowgli, con la mirada, hace que el tigre se achique hasta quedar a sus pies.
+Una danza teatral de la Manada con tres personajes de *El libro de la selva*: Tabaqui el chacal, Shere Khan el tigre y Mowgli. Muestra que el abusador es en el fondo un cobarde. Conviene contar primero quiénes son.
 
 ## Preparación
 1. Contá antes quiénes eran Tabaqui (el chacal adulón que vive de las sobras), Shere Khan (el tigre abusador y cobarde) y Mowgli.
 2. Elegí quién hace de Shere Khan y quién de Mowgli. Dividí al resto en chacales y lobos.
 
 ## Desarrollo
-1. Los lobos, con Mowgli, se acuestan y esperan en un extremo del salón o del campo.
-2. Los chacales forman una ronda alrededor de Shere Khan, que se pavonea en el centro y desafía a todos: "¡Soy Shere Khan, el Rey Tigre!". Los chacales giran murmurando "Chacal, chacal".
-3. De a uno, un chacal sale de la ronda, se acerca y le hace una reverencia muy humilde. Shere Khan, por puro abuso, le tira una patada (sin tocarlo). El chacal la esquiva, vuelve a hacer una reverencia como diciendo "gracias" y regresa. Cuando queda a espaldas del tigre, deja de agacharse y le hace una mueca.
-4. De golpe, los lobos se mueven: caen sobre los chacales y cada uno se lleva a uno. Cuando termina el alboroto y todos quedan quietos de nuevo, Shere Khan mira alrededor, se ve solo y ruge más fuerte todavía: "¡Soy Shere Khan, el Rey Tigre!".
-5. Mowgli se acerca muy despacio, con un brazo estirado señalando y la mirada fija en los ojos del tigre. Shere Khan no puede sostener la mirada del Hombre: aunque sigue diciendo que es el Rey Tigre, se va agachando hasta quedar tendido a los pies de Mowgli.
+**Los personajes (para contar antes):**
+- **Tabaqui** es el chacal, un tipo rastrero. Tiene miedo de andar solo y siempre va con otros chacales. Quiere parecer un lobo, pero nunca caza ni se gana la comida: anda robando o mendigando, y cuando consigue algo no lo agradece, sino que corre ladrando y molestando. B-P dice que hay chicos así, que gritan, molestan, piden siempre algo y nunca quieren trabajar, que se burlan de otros cuando están lejos y a salvo, pero que en el fondo son unos cobardes. Ojalá ningún lobato merezca que le digan Tabaqui.
+- **Shere Khan** es el tigre, grande y de aspecto feroz, un abusador. No es lo bastante hábil para cazar animales salvajes, así que se acerca a los pueblos a matar terneros y cabras. Les tiene pánico a los hombres. Los chacales lo siguen y lo adulan, le dicen que es el Rey de la Selva, para que les deje un poco de su presa. B-P dice que también hay chicos así: grandotes que abusan de los más chicos, pero que son unos cobardes si el chico se les planta.
+
+**La danza:**
+1. La Manada se divide en dos mitades. Una mitad son los chacales (Tabaqui), con un lobato que hace de Shere Khan. La otra mitad son los Lobos, y con ellos está Mowgli.
+2. Los Lobos esperan acostados en una punta del salón (o del campo).
+3. Los chacales forman una ronda alrededor de Shere Khan, que se pavonea en el centro con todo el orgullo que puede, como desafiando a cualquiera a pelear. Gruñe: «¡Soy Shere Khan, el Rey Tigre!», y los chacales, girando a su alrededor, murmuran: «Chacal, chacal».
+4. De pronto un chacal sale de la ronda, se acerca a escondidas a Shere Khan y le hace una reverencia muy humilde. Shere Khan, solo por el gusto de abusar, le amaga una patada. El chacal la esquiva, vuelve a hacer una reverencia como diciendo «gracias» y vuelve corriendo a su lugar.
+5. Mientras Shere Khan lo ve, el chacal se achica todo. Pero cuando queda a sus espaldas, cambia por completo: se endereza y le hace una mueca de burla. Lo pueden repetir otros chacales.
+6. De repente se mueven los Lobos: caen sobre los chacales y cada Lobo se lleva a uno, tomándolo del brazo, a su punta del salón. Ahí se quedan todos acostados y quietos otra vez.
+7. Shere Khan, que se puso un poco nervioso con el alboroto, mira alrededor, ve que quedó solo y piensa que es todavía más grande de lo que creía. Ruge: «¡Soy Shere Khan, el Rey Tigre!», para que toda la Selva lo oiga.
+8. Pero Mowgli siempre supo que el tigre es un abusador cobarde. Cruza muy despacio hacia él, con un brazo estirado, señalándolo con el dedo y mirándolo fijo a los ojos.
+9. Shere Khan no puede sostenerle la mirada al Hombre. Tiene miedo y, aunque sigue repitiendo que es el Rey Tigre, se va achicando hasta quedar tendido a los pies de Mowgli.
+
+**Consejo del original:** para mostrarles a los padres y amigos, queda muy bien hacer esta danza y, enseguida después, la Danza de la Muerte de Shere Khan.
 
 ## Cierre
 - ¿Por qué los chacales adulaban a Shere Khan? ¿Qué buscaban?
@@ -182,21 +194,8 @@ In the Tabaqui Dance the Pack is divided into two sections. Half of the Cubs —
 Suddenly a Tabaqui leaves the circle, sneaks up to Shere Khan and bows most humbly to him. Shere Khan, just for the bullying fun of the thing, aims a kick at his follower. The jackal dodges the kick, bows low again as if to say "Thank you" and runs back to his place. All this time he has been where Shere Khan can see him, but when he gets behind the tiger a great change comes over him — he stops cringing (that is, bending humbly) and makes a face at Shere Khan.
 They're a nice Cubby set of people, aren't they? But look! The Wolves are moving. They sweep down on the Tabaqui and each of them carries off one of these little sneaks. When the noise and scuffle has died away, and the Wolves with their captives are lying quiet again, Shere Khan, who was just a little nervous during the tumult, looks around him, sees that he is alone and thinks to himself "I'm greater than even I thought I was." "I'm Shere Khan, the Tiger King," he roars, hoping that all the Jungle Folk will hear and believe him. The Jungle Folk might believe him, but Mowgli has always known the tiger to be just a cowardly bully. He comes across now, very slowly, with one arm outstretched (a finger pointing) and his eyes on those of the tiger. Shere Khan cannot look at Man. He is afraid, and though he goes on saying that he is the Tiger King, he gradually cringes down till he is flat at Mowgli's feet.
 
-**Versión en español:**
-
-**LA DANZA DE TABAQUI**
-Tabaqui es el chacal, un tipo bastante rastrero. Le da miedo andar solo, así que siempre se queda cerca de sus compañeros chacales; aunque trata de parecer un lobo, nunca caza ni se gana la comida como uno, sino que anda a escondidas tratando de robarla o de mendigarla a los demás. Y cuando la consigue no se muestra nada agradecido, sino que corre de un lado a otro ladrando y gritando, espantando la caza y volviéndose una verdadera molestia. Hay muchos chicos como Tabaqui que andan corriendo y gritando, haciendo el tonto y molestando a la gente, siempre listos para pedir una moneda o algo de comer, pero nunca con ganas de trabajar. Están muy dispuestos a burlarse o a tirarle barro a la gente si están a una distancia segura, pero en realidad son unos cobardes terribles.
-Espero que ningún lobato merezca nunca que lo llamen Tabaqui.
-
-**MOWGLI Y SHERE KHAN**
-Después está Shere Khan. Era el tigre grandote de aspecto feroz. Un abusador terrible. No era lo bastante hábil para cazar animales salvajes, así que andaba a escondidas cerca de una aldea y mataba pobres terneritos y cabras, y hasta a un anciano indefenso, si lo encontraba dormido. Fuera de eso, le tenía un miedo atroz al hombre.
-Bueno, los Tabaqui tenían a Shere Khan en altísima estima. Lo seguían a todas partes y, aunque él los maltrataba, le seguían diciendo que era el Rey de la Selva y el mejor del mundo. Claro que lo hacían para que les diera un pedazo de su presa cuando comía. Conocí Shere Khans entre los chicos: chicos grandotes de aspecto feroz que abusaban de los más chicos para sacarles lo que querían, pero que en realidad eran unos cobardes redomados si el chico más chico les hacía frente.
-En la Danza de Tabaqui la Manada se divide en dos grupos. La mitad de los lobatos —con un líder que es Shere Khan— son los Tabaqui; los otros son los Lobos, que, por supuesto, tienen a Mowgli con ellos. Los Tabaqui y Shere Khan hacen su parte primero: mientras los Lobos se acuestan y esperan en un extremo del salón (o del campo), los chacales forman una ronda alrededor de Shere Khan, que se pavonea orgulloso en el centro, se agranda todo lo que puede y parece desafiar a cualquiera a pelear. "Soy Shere Khan, el Rey Tigre", gruñe, y los chacales, mientras giran a su alrededor, murmuran "Chacal, chacal".
-De pronto un Tabaqui sale de la ronda, se acerca a escondidas a Shere Khan y le hace una reverencia muy humilde. Shere Khan, solo por el gusto de abusar, le tira una patada a su seguidor. El chacal esquiva la patada, vuelve a hacer una reverencia profunda como diciendo "Gracias" y vuelve corriendo a su lugar. Todo ese tiempo estuvo donde Shere Khan podía verlo, pero cuando queda detrás del tigre le viene un gran cambio: deja de arrastrarse (es decir, de agacharse con humildad) y le hace una mueca a Shere Khan.
-Linda gente, ¿no? ¡Pero miren! Los Lobos se mueven. Caen sobre los Tabaqui y cada uno se lleva a uno de estos pequeños rastreros. Cuando el ruido y el forcejeo se calman, y los Lobos con sus prisioneros vuelven a estar acostados y quietos, Shere Khan, que se puso un poquito nervioso durante el tumulto, mira alrededor, ve que está solo y piensa: "Soy todavía más grande de lo que creía". "¡Soy Shere Khan, el Rey Tigre!", ruge, esperando que toda la gente de la Selva lo oiga y le crea. La gente de la Selva tal vez le crea, pero Mowgli siempre supo que el tigre no es más que un abusador cobarde. Ahora cruza, muy despacio, con un brazo estirado (señalando con un dedo) y los ojos clavados en los del tigre. Shere Khan no puede mirar al Hombre. Tiene miedo y, aunque sigue diciendo que es el Rey Tigre, se va encogiendo hasta quedar tendido a los pies de Mowgli.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

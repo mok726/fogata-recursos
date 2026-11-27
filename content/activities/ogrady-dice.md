@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Simón Dice"
+title: "O'Grady Dice"
 duration: "10 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ogrady-dice/"
@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -63,11 +64,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -139,16 +140,16 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Simón Dice!
+# O'Grady Dice
 
 ## Resumen
-En ronda, Akela da órdenes ("¡Manos arriba!", "¡Saltá en un pie!"). Solo hay que obedecer las que empiezan con "Simón dice". Quien obedece una orden sin esa frase pierde una vida.
+Un juego de atención: hay que obedecer solo las órdenes que empiezan con una frase clave. Es el mismo juego que en la Argentina conocemos como «Simón dice»; en el libro inglés el personaje se llama O'Grady.
 
 ## Desarrollo
-1. Todos en ronda; Akela adelante o en el centro.
-2. Akela da órdenes con gestos. Solo se cumplen las que empiezan con "Simón dice...".
-3. Si alguien cumple una orden que no empezó así, pierde una vida (cada uno tiene tres, por ejemplo).
-4. Akela va más rápido para hacerlo más difícil.
+1. Los lobatos forman una ronda. El dirigente (en el original, el Viejo Lobo, que es como se llama a los dirigentes de la manada) se pone en el centro o adelante.
+2. El dirigente da órdenes en voz alta, una detrás de otra: «¡Manos arriba!», «¡Saltá en un pie!», «¡Tocate la nariz!».
+3. Solo hay que obedecer la orden si empieza con las palabras «O'Grady dice» (o «Simón dice»). Por ejemplo, «O'Grady dice: sentarse» se cumple; «¡Sentarse!» a secas, no.
+4. Cada vez que un lobato se equivoca, ya sea porque cumplió una orden que no empezaba con la frase o porque no cumplió una que sí, pierde una vida. El dirigente decide al principio cuántas vidas tiene cada uno.
 
 ## Cierre
 - ¿Qué los hizo equivocar: escuchar mal o copiar lo que hacía Akela?
@@ -161,12 +162,8 @@ En ronda, Akela da órdenes ("¡Manos arriba!", "¡Saltá en un pie!"). Solo hay
 
 O'Grady. — Cubs form a circle and the Old Wolf gives various orders, but no order must be obeyed unless it starts with the words "O'Grady says." A Cub loses a life for each mistake he makes.
 
-**Versión en español:**
-
-**O'Grady.** Los lobatos forman un círculo y el Viejo Lobo da distintas órdenes, pero no hay que obedecer ninguna orden salvo que empiece con las palabras "O'Grady dice". Un lobato pierde una vida por cada error que comete.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

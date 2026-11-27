@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Tótem de la Manada"
+title: "Tótems"
 duration: "2 reuniones"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-totem-de-la-manada/"
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -151,22 +152,25 @@ rama_rovers:
   - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
-# ¡El Tótem de la Manada!
+# Tótems
 
 ## Resumen
-La Manada construye su tótem: un palo con una cabeza de lobo arriba. Cada vez que un lobato gana una especialidad se ata una cinta del color correspondiente con su nombre, y se puede agregar una tachuela por cada lobato que entra a la Manada. El tótem se cuida y se respeta.
+Una actividad para que la Manada construya su propio tótem: un palo con la Cabeza de Lobo arriba, que se va llenando de cintas a medida que los lobatos ganan especialidades.
 
 ## Preparación
 1. Conseguí el palo y prepará plantillas de cabeza de lobo para que la Manada elija o diseñe la suya.
 2. Definí qué color de cinta corresponde a cada grupo de especialidades o logros en tu Manada.
 
 ## Desarrollo
-1. Contá qué es un tótem, según B-P: el emblema o escudo de una familia, que la acompaña y la representa. El de todos los lobatos del mundo es la cabeza de lobo.
-2. Por seisenas, diseñen y recorten la cabeza de lobo; elijan entre todos la versión final o combínenlas.
-3. Pinten la cabeza y fíjenla bien arriba del palo.
-4. Agreguen las cintas de los logros que ya tiene la Manada, con el nombre de cada lobato en una etiqueta en la punta.
-5. Si quieren, claven una tachuela de cabeza dorada por cada lobato que haya en la Manada.
-6. Acuerden cómo se cuida el tótem: dónde se guarda, quién lo lleva y cómo se trata, siempre con cuidado y respeto.
+**Qué es un tótem.** B-P explica que «tótem» es una palabra de los pueblos originarios de América del Norte y quiere decir el emblema o escudo de una familia, el dibujo que la identifica y que se pintaba en sus cosas (da como ejemplo el emblema del Príncipe de Gales: tres plumas unidas por una cinta con el lema «Ich Dien», «Sirvo»). Esas familias tallaban sus tótems en postes altos de cedro, con el emblema arriba, casi siempre un animal, un pájaro o un pez, y lo veían como una especie de protector. Los lobatos de todo el mundo somos una gran familia, y nuestro emblema es la Cabeza de Lobo, la misma que llevan en el uniforme.
+
+1. Se consigue o se hace una Cabeza de Lobo. Puede ser calada en madera con sierra de calar, o algún dirigente (un Viejo Lobo) la puede tallar en un bloque de madera.
+2. Se elige el palo: puede ser un bastón de fresno o cualquier palo derecho que les guste.
+3. Se fija la cabeza bien firme en la punta del palo, y el tótem está listo.
+4. Cada vez que un lobato gana una especialidad, se ata al palo una cinta del color del grupo al que pertenece esa especialidad, y en la punta de la cinta se pega una etiqueta con su nombre.
+5. También se pueden agregar otros reconocimientos que gane la Manada, y, si quieren, clavar en el palo un clavo de cabeza de bronce por cada chico que entra a la Manada.
+
+**Consejo del original:** el tótem se trata siempre con cuidado y respeto; no se lo golpea ni se lo usa para jugar.
 
 ## Cierre
 - ¿Qué representa nuestro tótem?
@@ -186,15 +190,8 @@ Every Pack should own a Totem Pole. The word "Totem" is an Indian one, and simpl
 [Illustrations: An Indian Totem. A Pack Totem.]
 Now the American Indian families had their own Totems carved when they could afford them. They were generally tall cedar posts or poles wonderfully carved. The crest was to be found at the top, and was generally a beast, bird or fish. They looked upon it as a kind of mascot, and believed that it watched over them, and protected them in all danger. All Cubs belong to one large family with brother Cubs in many lands, and our crest is the Wolf Head. You wear it in cloth on your caps and jerseys, and a metal one in your buttonhole when you are not in uniform. A model of a Wolf Head can be made in fretwork, or some Old Wolves can carve one from a block of wood, or even a stuffed head can be used if you are lucky enough to get one. The pole can be an ash staff, or anything that you like. Now fasten the head on top of the pole, and there you are. Always treat your Totem with care and respect, never knock it about. Now every time a Cub wins a Proficiency Badge, a ribbon of the colour of the badge group is fastened on the Pole, and the Cub's name written on a tab which is fastened to the end. Other honours earned by the Pack can be added as well, and perhaps a brass-headed nail can be driven into the Pole for every boy who joins the Pack.
 
-**Versión en español:**
-
-**TÓTEMS**
-Toda Manada debería tener un Tótem. La palabra "tótem" es de origen indígena y simplemente quiere decir el "emblema" o "escudo de armas" de la familia que lo usa. El emblema o escudo solía pintarse o estamparse en casi todas las cosas que usaba su dueño. Por ejemplo, un emblema fácil de describir es el del Príncipe de Gales. Está formado por tres plumas de avestruz sujetas abajo por una cinta, en la que están escritas las palabras o el lema "Ich Dien", que quiere decir "Sirvo".
-[Ilustraciones: Un tótem indígena. Un tótem de Manada.]
-Las familias indígenas de América del Norte mandaban tallar sus propios tótems cuando podían pagarlo. Generalmente eran postes o troncos altos de cedro maravillosamente tallados. El emblema estaba arriba y por lo general era un animal, un pájaro o un pez. Lo veían como una especie de mascota y creían que los cuidaba y los protegía en todo peligro. Todos los lobatos pertenecen a una gran familia, con hermanos lobatos en muchos países, y nuestro emblema es la Cabeza de Lobo. La llevás en tela en la gorra y en el suéter, y una de metal en el ojal cuando no estás de uniforme. Se puede hacer un modelo de Cabeza de Lobo calado en madera, o algún Viejo Lobo puede tallar una en un bloque de madera, o incluso se puede usar una cabeza embalsamada si tienen la suerte de conseguir una. El palo puede ser un bastón de fresno o lo que quieran. Ahora fijen la cabeza arriba del palo, y listo. Traten siempre al Tótem con cuidado y respeto; nunca lo golpeen. Cada vez que un lobato gana una especialidad, se ata al palo una cinta del color del grupo de esa especialidad, y en la punta se fija una etiqueta con el nombre del lobato. También se pueden agregar otros honores ganados por la Manada, y tal vez clavar en el palo un clavo de cabeza de bronce por cada chico que entra a la Manada.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -149,17 +150,20 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Quemaduras, Escaldaduras y Shock!
+# Quemaduras, Escaldaduras y Shock
 
 ## Resumen
-B-P explica que una quemadura deja la carne expuesta y muy sensible, que se debe cubrir con algo muy suave y limpio, que las ampollas de una escaldadura no se revientan, y sobre todo que, ante cualquier lastimadura, hay que buscar o mandar a buscar a un adulto enseguida, aunque creas que lo podés resolver solo, y mientras tanto mantener al herido abrigado, tranquilo y sin gente amontonada alrededor.
+Un texto de primeros auxilios del libro de los lobatos de 1938. Sirve para charlar con la manada sobre qué hacer si alguien se quema, pero los tratamientos que da son los de esa época. **Hoy se enseña distinto: consultá un curso de primeros auxilios vigente.**
 
 ## Desarrollo
-1. Diferencien quemadura (fuego, algo caliente y seco) de escaldadura (agua, aceite o algo caliente y húmedo).
-2. Aprendan los pasos de hoy: 1) avisar a un adulto; 2) enfriar la zona con agua fresca de la canilla durante unos 20 minutos; 3) sacar anillos o pulseras cerca de la quemadura si no están pegados; 4) cubrir sin apretar con film o una gasa limpia; 5) no reventar las ampollas ni poner nada encima.
-3. Practiquen en parejas sobre una "quemadura" dibujada.
-4. Shock: uno hace de herido, otro lo abriga con una manta, le habla tranquilo y pide a los demás que se alejen, y un tercero va a buscar a un adulto.
-5. Tarjetas de situaciones: ¿qué hacés si alguien se quema con la pava?, ¿y si se toca la parrilla?
+**Qué decía el original:**
+- **Quemaduras.** B-P explica que, cuando alguien se quema, la piel se destruye y la carne queda al aire, muy sensible. Por eso recomendaba cubrir la quemadura suavemente con un trapo muy suave o papel limpio, sin poner nada que se pegue, y vendar con cuidado. También menciona una compresa con agua tibia y bicarbonato, que hoy no se recomienda.
+- **Escaldaduras.** Distingue la quemadura (por fuego) de la escaldadura, que la causan el agua, el aceite o cualquier cosa caliente y líquida. Las escaldaduras casi siempre hacen ampollas, y avisa que no hay que reventarlas ni pincharlas.
+- **Shock.** Explica que toda persona que se lastima sufre un shock, es decir, una reacción de todo el cuerpo al golpe o a la herida (no una descarga eléctrica).
+
+**Lo que sigue valiendo y conviene remarcar con los lobatos:**
+1. Cuando alguien se lastima, lo primero es ir a buscar a un adulto, o mandar a alguien a buscarlo, lo antes posible. Hay que hacerlo siempre, aunque uno crea que puede resolverlo solo.
+2. Hasta que llegue el adulto, hay que acompañar a la persona, mantenerla abrigada y tranquila, y no dejar que los demás se amontonen alrededor.
 
 ## Cierre
 - ¿Qué es lo primero que hacés siempre?
@@ -183,20 +187,8 @@ When a person receives a burn or a scald, or any other injury, he gets a shock. 
 When someone is hurt, you must remember to fetch or send somebody for a grown-up person as soon as possible; and you must do this even if you think you can deal with the injury yourself.
 Until the grown-up arrives, keep the patient warm and quiet, and prevent other people from crowding round him.
 
-**Versión en español:**
-
-**QUEMADURAS**
-Si te raspás y se te sale un poco de piel, la carne de abajo es muy sensible y el aire frío hace que arda muchísimo. Cuando alguien se quema sin querer, la piel se destruye y la carne queda expuesta al aire; así que lo que hay que hacer es cubrirla suavemente con el trapo más suave o con papel limpio. La superficie es terriblemente sensible y no soporta nada duro; además se pone muy pegajosa, y cualquier cosa que se ponga directamente encima seguramente se va a pegar y va a doler mucho más después, cuando la quieras sacar.
-Si estás adentro, podés mojar tu trapo limpio en agua tibia con bicarbonato (ver la especialidad de Socorrista) y ponerlo sobre la quemadura. Poné encima un poco de algodón o un pañuelo limpio doblado y vendá suavemente.
-**ESCALDADURAS**
-El fuego quema, pero el agua, el aceite y cualquier cosa caliente y húmeda escaldan. Una escaldadura, como una quemadura, hay que taparla lo antes posible; si no tenés otra cosa, poné un trapo limpio. Casi seguro que una escaldadura va a hacer ampollas: tené mucho cuidado de no reventarlas ni pincharlas.
-**SHOCK**
-Cuando una persona se quema, se escalda o se lastima de cualquier otra forma, sufre un shock. No un shock eléctrico, claro, salvo que haya estado jugando con cables eléctricos.
-Cuando alguien se lastima, tenés que acordarte de buscar o mandar a buscar a una persona grande lo antes posible, y tenés que hacerlo aunque creas que podés resolver la lastimadura vos solo.
-Hasta que llegue el adulto, mantené al paciente abrigado y tranquilo, y no dejes que la gente se amontone alrededor.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

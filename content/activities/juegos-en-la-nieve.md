@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - nieve
@@ -73,7 +74,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -144,10 +148,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Juegos en la Nieve!
+# Juegos en la Nieve
 
 ## Resumen
-Baden-Powell propone tres juegos para aprovechar la nieve: una **Expedición Ártica** en la que la patrulla arrastra su trineo siguiendo las señales de dos exploradores, un **Fuerte de Nieve** que una patrulla construye y otras atacan con bolas de nieve, y una **Cacería Siberiana** en la que todos siguen las huellas de un fugitivo. En la ciudad, la patrulla puede limpiar veredas como buena acción.
+Actividades y juegos de B-P para el invierno en lugares con nieve, para un campamento o una salida a la montaña.
 
 ## Preparación
 1. Elegí qué juego van a hacer según la cantidad de nieve, el tiempo y el grupo.
@@ -155,11 +159,29 @@ Baden-Powell propone tres juegos para aprovechar la nieve: una **Expedición Ár
 3. Revisá que todos tengan ropa seca de recambio.
 
 ## Desarrollo
-- **Expedición Ártica:** cada patrulla arma un trineo con sogas. Dos exploradores salen adelante y dibujan señales en la nieve. El resto sigue con el trineo (que lleva comida y ollas) leyendo las huellas y las señales. Al llegar, construyen refugios de nieve angostos con techo de ramas.
-- **Fuerte de Nieve:** una patrulla construye su fuerte con mirillas. Después lo atacan patrullas que sean al menos el doble. Quien recibe un bolazo queda "fuera".
-- **Cacería Siberiana:** un fugitivo sale primero y se esconde. Los demás lo siguen por sus huellas veinte minutos después. El fugitivo se defiende con bolas de nieve y queda atrapado cuando le pegan tres veces.
-- **Caza del Zorro** (de *Scouting Games*): en nieve sin pisar, dos "zorros" salen del medio de un campo y cinco minutos después los siguen los demás por sus huellas. Los zorros no pueden cruzar huellas de otras personas; pueden caminar sobre pircas, pisar cada uno en las huellas del otro o saltar a un costado apoyándose en el bastón. Tienen que aguantar una hora y volver a la salida; para ganar hay que atrapar a los dos.
-- **Carrera al Polo** (de *Scouting Games*): dos patrullas de "exploradores polares" siguen cada una las huellas de su explorador, que salió quince minutos antes hacia el mismo punto, el "Polo". La primera que llega planta su bandera, deja los bastones en ronda a seis pasos y prepara bolas de nieve. La otra intenta llevarse los bastones; dos bolazos dejan fuera a cualquiera. Cada bastón y cada jugador fuera valen un punto.
+**Expedición ártica.** Cada patrulla arma un trineo con sogas y arneses, para que lo tiren dos de sus integrantes (o perros, si los tienen y están entrenados para eso). El trineo lleva la comida, las ollas y lo necesario.
+
+1. Dos scouts salen adelante y se alejan más o menos un kilómetro y medio.
+2. El resto los sigue con el trineo, encontrando el camino por sus huellas y por las señales que los de adelante van dibujando en la nieve.
+3. Cualquier otro dibujo o rastro que encuentren en el camino lo tienen que examinar, anotar y tratar de descifrar.
+
+**Chozas de nieve.** Construyan refugios de nieve. Tienen que ser angostos, según el largo de los palos que haya para el techo. El techo se hace con ramas y se cubre con nieve.
+
+**Fuerte de nieve.**
+
+1. Una patrulla construye un fuerte de nieve como le parezca, con troneras (agujeros para mirar hacia afuera).
+2. Cuando está listo, lo atacan otras patrullas, con bolas de nieve como munición.
+3. Todo scout al que le pega una bola de nieve queda eliminado.
+4. Como regla, los atacantes tienen que ser por lo menos el doble que los defensores.
+
+**Cacería siberiana.**
+
+1. Un scout, el fugitivo, sale corriendo por la nieve hacia donde quiera hasta encontrar un buen escondite, y se oculta.
+2. Los demás le dan veinte minutos de ventaja o más, y después lo siguen por sus huellas.
+3. Cuando se acercan al escondite, el fugitivo les tira bolas de nieve. Al que le pega, queda eliminado.
+4. Al fugitivo le tienen que pegar tres veces para eliminarlo.
+
+**En la ciudad.** Cuando nieva, la patrulla, con su guía, puede ayudar a sacar la nieve de veredas y entradas de casas. Lo pueden hacer como buena acción, o aceptar dinero para los fondos de la patrulla.
 
 ## Cierre
 - ¿Qué señales funcionaron mejor en la nieve?
@@ -213,30 +235,8 @@ their leader in clearing away the snow from pavements, houses, etc. This
 they may either do as a "good turn," or accept money to be devoted to
 their funds.
 
-**Versión en español:**
-
-**PARA EL INVIERNO EN EL CAMPO.**
-
-**EXPEDICIÓN ÁRTICA.**
-
-Cada patrulla arma un trineo con sogas y arneses para que lo tiren dos de sus integrantes (o perros, si los tienen y pueden entrenarlos para eso). Dos scouts van una milla o algo así adelante; el resto sigue con el trineo, encontrando el camino por las huellas y por las señales que los scouts de punta vayan dibujando en la nieve. Todos los otros dibujos que se vean en el camino se tienen que examinar, anotar y leer su significado. El trineo lleva raciones, ollas, etc.
-
-Construyan chozas de nieve. Tienen que ser angostas, según el largo de los palos disponibles para el techo, que se puede hacer con ramas y cubrir con nieve.
-
-**FUERTE DE NIEVE.**
-
-Una patrulla puede construir el fuerte de nieve según sus propias ideas de fortificación, con troneras, etc., para mirar hacia afuera. Cuando está terminado, lo atacan patrullas enemigas, que usan bolas de nieve como munición. Todo scout al que le pega una bola de nieve se cuenta como muerto. Los atacantes deberían ser, como regla, al menos el doble que los defensores.
-
-**CACERÍA SIBERIANA.**
-
-Un scout, el fugitivo, sale corriendo por la nieve en la dirección que quiera hasta encontrar un buen escondite, y ahí se oculta. Los demás, después de darle veinte minutos de ventaja o más, lo siguen por sus huellas. Cuando se acercan al escondite, él les dispara bolas de nieve, y todo el que recibe un impacto queda afuera, muerto. Al fugitivo le tienen que pegar tres veces para que se cuente como muerto.
-
-**EN LA CIUDAD.**
-
-Cuando nieva, los scouts pueden ser muy útiles trabajando como patrulla, a las órdenes de su guía, en despejar la nieve de veredas, casas, etc. Lo pueden hacer como "buena acción", o aceptar dinero para destinarlo a sus fondos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Variantes agregadas de *Scouting Games* (B-P, 6.ª ed., 1921, cap. IX):**
 
@@ -250,7 +250,7 @@ Cuando nieva, los scouts pueden ser muy útiles trabajando como patrulla, a las 
 
 **LA CARRERA AL POLO.** Dos grupos rivales de exploradores árticos se acercan al Polo; cada uno mandó adelante a un scout, pero ninguno volvió. Saben en qué dirección salió cada uno porque todavía se ven sus huellas en la nieve. Lo que pasó en realidad es que los dos llegaron al Polo, y cada uno está decidido a sostener su derecho sobre él, así que no se animan a dejar el lugar. Los dos dejaron a propósito buenas huellas y señales para que se los pueda seguir con facilidad si pasaba algo. (Estos dos, uno de cada patrulla, tienen que salir juntos de la sede y después decidir el lugar que será el Polo, y cada uno acercarse a él desde una dirección distinta). Los dos grupos de exploradores salen juntos (unos quince minutos después de que salieron los adelantados) y siguen las huellas de su propio scout. La primera patrulla que llega al lugar donde esperan los dos toma posesión: el guía planta su bandera y el resto prepara bolas de nieve, después de dejar sus bastones en ronda alrededor de la bandera, a seis pasos. Cuando llega el otro grupo, trata de capturar los bastones; los defensores no pueden tocar sus bastones, pero dos bolazos de nieve, de cualquiera de los dos lados, dejan a un hombre fuera de combate. Cada defensor muerto y cada bastón capturado cuenta un punto, y si el grupo rival gana más de la mitad de los puntos posibles, puede adjudicarse el descubrimiento del Polo. Antes de que los defensores puedan reclamar derechos indiscutidos, tienen que matar a todos sus rivales, persiguiéndolos si quedan uno o dos. (Los dos adelantados no participan, sino que hacen de árbitros).
 
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juegos 4 y 5. Dominio público. Texto según la transcripción publicada en macscouter.com.
+**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juegos 4 y 5. Dominio público. Versión alternativa en línea: transcripción publicada en macscouter.com.
 
 **Traducción:** Fogata de Recursos (2026).
 

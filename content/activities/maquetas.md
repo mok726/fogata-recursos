@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -150,17 +151,20 @@ rama_rovers:
   - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
 ---
 
-# ¡Maquetas!
+# Maquetas
 
 ## Resumen
-"Para llegar a cosas grandes hay que empezar por las chicas", dice B-P. Antes de construir el gran puente del Tay o el barco Mauretania se hicieron maquetas. Por eso propone que el lobato que quiere hacer algo grande (un avión, una casa, un barco) primero dibuje el contorno y haga un modelo chico: una casa de cartón, un barco de arcilla.
+Una charla de B-P para lobatos sobre empezar por lo chico antes de hacer lo grande, con una propuesta práctica: hacer maquetas.
 
 ## Desarrollo
-1. Cuenten que los grandes puentes y barcos se probaron primero en maqueta.
-2. Cada seisena elige algo que le gustaría construir en grande: la guarida ideal, un puente, un barco, un rincón de juegos para la plaza.
-3. Primero lo dibujan en una hoja, como pide B-P.
-4. Después construyen la maqueta con materiales reciclados.
-5. Cada seisena presenta su maqueta y explica qué cambió entre el dibujo y la maqueta.
+**La idea.** Para llegar a cosas grandes hay que empezar por las chicas: antes de tener billetes hay que juntar monedas, y antes de ser grande uno es chico. Lo mismo pasa con las construcciones. Cuando se construyó el gran puente sobre el río Tay, en Escocia, primero se hizo un modelo en escala chica; y antes de construir el gran barco *Mauretania*, se hizo uno como de juguete. Muchos lobatos algún día van a querer hacer algo grande: un avión, una casa, un barco o una máquina. El primer paso es saber hacer una maqueta.
+
+**Cómo llevarlo a la reunión:**
+1. Cada lobato elige algo que le gustaría construir algún día.
+2. Antes de empezar, dibuja el contorno de lo que va a hacer. Todos saben dibujar un poquito, y practicando se mejora rápido.
+3. Después hace la maqueta en chico: una casa de cartón, un barco de arcilla, una máquina de lata, y así. Si alguna vez va a hacer una caja grande, que primero haga una chica.
+
+B-P termina recordando que todo scout tiene que saber dibujar un mapa: dibujar es una habilidad que se usa siempre.
 
 ## Cierre
 - ¿Qué problema descubrieron al hacer la maqueta que no habían visto en el dibujo?
@@ -183,21 +187,8 @@ If you want to make a house, build a cardboard one to begin with; or you can mak
 Also, it is useful to be able to draw the outline of such things before you start to make them. Every fellow can draw a little bit, and if he practises it he will soon get to do it well.
 Every Scout has to be able to draw a map. He would be called a fool if he couldn't do it.
 
-**Versión en español:**
-
-**MAQUETAS**
-Pero no esperes hacerte rico de golpe. Para llegar a cosas grandes hay que empezar por las chicas. Antes de tener billetes tenés que tener monedas, igual que antes de ser un hombre grande tenés que ser un chico.
-Antes de construir un barco grande, hay que hacer una maqueta.
-La mayoría de ustedes, lobatos, algún día van a querer hacer algo grande, sea un avión, una casa, un barco o una máquina.
-Pero el primer paso es saber hacer una maqueta.
-Cuando se construyó el gran puente del Tay, primero hubo que hacer un modelo en escala chica, y antes de construir el gran barco Mauretania, primero se lo modeló como un barco de juguete.
-Así que un lobato que va a hacer cosas tendría que tratar de hacer primero sus maquetas. Si vas a hacer una caja grande, hacé primero una chica.
-Si querés hacer una casa, empezá construyendo una de cartón; o podés hacer tu pequeño buque de guerra en arcilla, o tu máquina en lata, y así.
-También es útil saber dibujar el contorno de esas cosas antes de empezar a hacerlas. Todos sabemos dibujar un poquito, y si practicás, enseguida lo vas a hacer bien.
-Todo Scout tiene que saber dibujar un mapa. Le dirían tonto si no supiera.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

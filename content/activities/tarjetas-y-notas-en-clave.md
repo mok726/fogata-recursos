@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tarjetas y Notas en Clave"
+title: "Notas y Tarjetas de Semáforo y Morse"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-y-notas-en-clave/"
@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -144,16 +145,26 @@ rama_rovers:
   - 6  # Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
 ---
 
-# ¡Tarjetas y Notas en Clave!
+# Notas y Tarjetas de Semáforo y Morse
 
 ## Resumen
-Para seguir practicando sin banderas, B-P propone escribirse notas en semáforo (con monigotes de palito) o en Morse (rayas y puntos), y hacer un mazo de 26 tarjetas con las letras en semáforo: se mezclan, se dan vuelta de a una y se dice la letra lo más rápido posible.
+Dos formas de practicar en casa o en la Manada el semáforo y el Morse. El **semáforo** es un alfabeto en el que cada letra se hace con una posición distinta de los brazos (con o sin banderas). El **Morse** es un código en el que cada letra es una combinación de puntos (señales cortas) y rayas (señales largas).
 
 ## Desarrollo
-1. **Notas:** cada lobato escribe un mensaje corto a un compañero en semáforo (dibujando un palito como cuerpo y el brazo en la posición de la letra) o en Morse (puntos y rayas, con un espacio entre letras y una barra entre palabras). El otro lo descifra.
-2. **Tarjetas:** cada uno hace 26 tarjetas, una por letra, con el dibujo de la letra en semáforo tal como lo ve quien lo recibe (al revés de como se siente al mandarla). Atrás puede ir la letra.
-3. Mezclen el mazo. Den vuelta las tarjetas de a una sobre la mesa diciendo la letra. Si se equivocan, vuelven a mezclar y empiezan de nuevo.
-4. Tomen el tiempo para ver quién pasa el mazo más rápido.
+**Notas en semáforo o en Morse**
+1. Los lobatos se escriben notas entre ellos en semáforo o en Morse, y practican leer las que les escriben los demás.
+2. Para escribir semáforo se dibuja un palito vertical fino, que es el lobato, y un trazo más grueso al costado, que es su brazo en la posición de esa letra. Así se ve cuando alguien te hace la señal de frente; cuando la hacés vos, se siente al revés.
+3. El Morse se puede escribir con puntos y rayas, dejando un espacio chico entre letra y letra y una línea entre palabra y palabra. Otra forma mejor es dibujar un signo para el punto y otro para la raya, y unirlos entre sí para formar cada letra. Después las letras se unen con una rayita corta entre una y otra, y entre palabra y palabra se deja una línea más larga.
+
+**Tarjetas de semáforo**
+1. Se preparan unas veintiséis tarjetitas del tamaño de media postal, de cartulina dura.
+2. En cada una se pinta el signo de semáforo de una letra, como aparece en el manual. Si hace falta, se escribe la letra atrás.
+3. Se mezcla el mazo y se sostiene en la mano con los signos hacia arriba. Se van tirando las tarjetas sobre la mesa y, a medida que cae cada una, se dice en voz alta la letra.
+4. Se toma el tiempo de todo el mazo. Si hay un error, esa vuelta no cuenta: se mezcla y se empieza de nuevo.
+
+**Por qué sirve:** las tarjetas se ven igual que una persona que te manda semáforo de frente, que es justo al revés de como lo sentís cuando lo hacés vos. Eso es lo que hace difícil leerlo, y las tarjetas ayudan a superarlo.
+
+**Consejo del original:** no practiquen frente al espejo. El reflejo está invertido: si hacés la A, parece que el lobato del espejo estira el otro brazo, y se lee G.
 
 ## Cierre
 - ¿Por qué B-P dice que no hay que practicar frente a un espejo?
@@ -172,17 +183,8 @@ An even better way is to make a thing like this [sign] for a dot and a thing lik
 Semaphore Cards. — Another good way of practising semaphore is by making and using a set of cards. You want about twenty-six small cards about half the size of a postcard; you can, in fact, cut postcards in half and use them, though if you can get something stiffer and more slippery it is much better. On each card put in paint or blue pencil the sign, in the way it is shown in this book, for each letter of the alphabet. If you are likely to forget what they are you can write the letters themselves on the back of the cards. Now take the whole pack of cards, shuffle them and hold them with the signs upwards in your hand, then put them on to the table and as each card falls on the table call out the letter or signal for which it stands. See how quickly you can go through the whole pack. If you make a mistake don't count that turn at all, but stop, reshuffle the cards and start all over again. If you can do this quickly you will be pretty good at reading Semaphore.
 A great advantage of this way of practising is that as you look at the cards it looks exactly like a person sending Semaphore to you, that is exactly the opposite way round from what it feels when you are making a letter yourself. It is just because Semaphore looks the opposite way round when you are reading it that people think it difficult, but the Semaphore cards will soon help you to overcome the difficulty. Don't practise standing in front of a looking-glass, because that won't help you with reading. You will see a reflection of yourself, but it will be the wrong way round; for example, if you make the letter A it will look as if the Cub in the glass were holding out his left arm and not his right, and, therefore, it would be G instead of A.
 
-**Versión en español:**
-
-**JUEGOS Y PRÁCTICAS**
-**Escribir en semáforo y en Morse.** Escribiles notas a tus amigos, en semáforo o en Morse, y, mejor todavía, practicá leer las notas que ellos te escriben. El semáforo se escribe así [signo], que representa la A. La parte vertical fina representa al lobato y el trazo más grueso del costado es su brazo. Así es como se ve cuando alguien te lo manda a vos, pero cuando lo mandás vos se siente al revés. Esta es una oración escrita en signos de semáforo. ¿La podés leer? [ejemplo]
-Podés escribir Morse como está escrito en este libro, dejando un espacio chico entre cada letra y una línea fina entre cada palabra: [ejemplo]
-Una forma todavía mejor es hacer una cosa así [signo] para el punto y una así [signo] para la raya. Podés unir puntos y rayas y así formar letras, de modo que la A queda así [signo] y la C así [signo]. Después podés unir letras con apenas una rayita entre cada una, y tenés que dejar una línea más larga entre palabras. Tratá de leer esta oración: [ejemplo]
-**Tarjetas de semáforo.** Otra buena forma de practicar semáforo es hacer y usar un mazo de tarjetas. Necesitás unas veintiséis tarjetitas, más o menos de la mitad de una postal; de hecho, podés cortar postales por la mitad y usarlas, aunque si conseguís algo más duro y resbaloso es mucho mejor. En cada tarjeta poné, con pintura o lápiz azul, el signo de cada letra del alfabeto tal como aparece en este libro. Si creés que te vas a olvidar cuál es cuál, podés escribir la letra atrás de la tarjeta. Ahora tomá todo el mazo, mezclalo y sostenelo con los signos hacia arriba en la mano; después ponelas sobre la mesa y, a medida que cae cada tarjeta, decí en voz alta la letra o señal que representa. Fijate qué tan rápido pasás todo el mazo. Si te equivocás, no cuentes esa vuelta: pará, volvé a mezclar y empezá todo de nuevo. Si podés hacer esto rápido, vas a ser bastante bueno leyendo semáforo.
-Una gran ventaja de esta forma de practicar es que, al mirar las tarjetas, se ve exactamente como una persona que te manda semáforo, es decir, justo al revés de como se siente cuando hacés la letra vos. Justamente porque el semáforo se ve al revés cuando lo leés, la gente cree que es difícil, pero las tarjetas de semáforo te van a ayudar enseguida a superar esa dificultad. No practiques parado frente a un espejo, porque eso no te ayuda a leer. Vas a ver tu reflejo, pero al revés; por ejemplo, si hacés la letra A, va a parecer que el lobato del espejo estira el brazo izquierdo y no el derecho, y entonces sería la G en lugar de la A.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

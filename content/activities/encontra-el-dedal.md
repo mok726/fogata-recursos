@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -135,16 +139,17 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Encontrá el Dedal!
+# Encontrá el Dedal
 
 ## Resumen
-Un clásico para el local. Mientras la patrulla espera afuera, alguien deja un objeto chico **a la vista** pero donde no se note. Cuando alguien lo ve, se sienta en silencio sin delatarlo. Al final, quien lo encontró tiene que señalarlo.
+Un juego de observación para jugar bajo techo: hay que encontrar un objeto que está a la vista pero pasa desapercibido.
 
 ## Desarrollo
 1. La patrulla sale de la habitación.
-2. Poné el objeto en un lugar totalmente visible pero poco llamativo (por ejemplo, sobre el marco de un cuadro o entre objetos del mismo color).
-3. Entran todos a buscar. Quien lo ve se sienta en silencio, sin mirar fijo ni señalar.
-4. Pasado un tiempo razonable, cada uno de los que se sentaron señala dónde está, así se comprueba que de verdad lo vio.
+2. El que dirige agarra un objeto chico: un dedal (el capuchón de metal que se usa para coser), un anillo, una moneda, un papelito, lo que sea. Lo pone en un lugar donde se vea perfectamente, sin taparlo, pero donde sea difícil que alguien se fije.
+3. La patrulla entra y busca.
+4. Cuando alguien lo ve, no dice nada ni lo señala: va y se sienta en silencio, para no darles pistas a los demás.
+5. Después de un tiempo razonable, el que dirige les pide a los que lo encontraron que se lo muestren a los que no lo vieron. Así se comprueba que de verdad lo habían encontrado.
 
 ## Cierre
 - ¿Dónde buscaron primero? ¿Por qué no lo veían?
@@ -171,20 +176,8 @@ not succeeded in finding it.
 
 [This ensures his having really seen it.]
 
-**Versión en español:**
-
-**ENCONTRAR EL DEDAL (bajo techo).**
-
-Hacé salir a la patrulla de la habitación.
-
-Tomá un dedal, un anillo, una moneda, un pedacito de papel o cualquier objeto chico, y ponelo en un lugar donde esté perfectamente a la vista, pero donde no sea probable que se note. Hacé entrar a la patrulla para que lo busque. Cuando uno lo ve, tiene que ir y sentarse en silencio, sin indicarles a los demás dónde está.
-
-Después de un tiempo razonable, se le pide que se lo señale a los que no lo encontraron.
-
-[Así se asegura que de verdad lo vio.]
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

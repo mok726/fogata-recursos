@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - acecho
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -134,20 +138,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Correo!
+# El Correo
 
 ## Resumen
-Un correo tiene que llevar un mensaje desde lejos hasta un lugar determinado, dentro de un tiempo. El otro bando se esconde en distintos puntos para interceptarlo. Para capturarlo, dos tienen que tocarlo antes de que llegue.
+Un juego de campo: un scout tiene que llevar un mensaje hasta un lugar, y los del otro bando tratan de atraparlo antes.
 
 ## Preparación
 1. Elegí el lugar de entrega (una carpa, un árbol, una cabaña) y el punto de partida del correo.
 2. Marcá los límites del área y fijá el tiempo.
 
 ## Desarrollo
-1. El bando que intercepta se esconde en distintos puntos para cortarle el paso al correo.
-2. El correo sale con el mensaje y trata de llegar al lugar de entrega dentro del tiempo.
-3. Para capturarlo, dos jugadores tienen que tocarlo antes de que entregue el mensaje.
-4. Se rota el correo. Variante: varios correos a la vez, y solo uno lleva el mensaje verdadero.
+En inglés se llama *Despatch Running*: el «despacho» es un mensaje escrito importante que lleva un correo (el mensajero).
+
+1. El que dirige elige un punto de llegada, por ejemplo un árbol, una casa o una carpa, y le da a un scout, el correo, una nota escrita.
+2. El correo sale desde un lugar alejado y tiene que llegar con la nota hasta el punto de llegada antes de un tiempo fijo.
+3. Otros scouts forman el bando contrario. Su misión es impedir que llegue cualquier mensaje a ese lugar. Se esconden en distintos puntos del camino para cortarle el paso al correo.
+4. Para atrapar al correo, dos scouts del bando contrario tienen que tocarlo antes de que llegue. Si lo toca uno solo, no cuenta.
+
+**Cómo se gana:** el correo gana si entrega la nota en el lugar dentro del tiempo; el bando contrario gana si lo atrapa entre dos antes.
 
 ## Cierre
 - ¿Qué camino eligió el correo? ¿Por qué?
@@ -169,16 +177,8 @@ points to stop the despatch carrier getting in with it.
 To count as a capture two scouts must touch the despatch runner before
 he reaches the spot for delivering the message.
 
-**Versión en español:**
-
-**EL CORREO.**
-
-Se le dice a un scout que lleve una nota a un lugar o casa determinados desde cierta distancia, dentro de un tiempo dado; a otros scouts, del bando contrario, se les dice que impidan que llegue cualquier mensaje a ese lugar, y que se escondan en distintos puntos para detener al portador del mensaje.
-
-Para que cuente como captura, dos scouts tienen que tocar al correo antes de que llegue al lugar de entrega del mensaje.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

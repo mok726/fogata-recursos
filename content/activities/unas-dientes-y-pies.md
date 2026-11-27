@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,16 +146,32 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Uñas, Dientes y Pies!
+# Uñas, Dientes y Pies
 
 ## Resumen
-B-P explica por qué hay que lavarse las manos antes de comer y tener las uñas limpias y cortas (las de los pies, rectas), cepillarse los dientes a la mañana, a la noche y después del almuerzo, y cuidar los pies (secarlos, cambiar las medias, calzado ni chico ni grande) para no sacarse ampollas en las caminatas.
+Una charla de B-P para los lobatos sobre higiene personal: cuidar las uñas, los dientes y los pies. Se puede contar en la Manada, sobre todo antes de un campamento o una caminata larga.
 
 ## Desarrollo
-1. **Manos y uñas:** lávense las manos con jabón, cepillando bajo las uñas. Expliquen por qué: los gérmenes se esconden en la mugre. Uñas de las manos cortas y redondeadas; las de los pies, rectas, cada semana o diez días.
-2. **Dientes:** repasen cómo cepillarse (adelante, atrás y entre los dientes) y cuándo: al levantarse, antes de dormir y, si se puede, después del almuerzo.
-3. **Pies:** hablen de las ampollas. Cómo prevenirlas: pies secos, medias secas, sacarse el calzado en los descansos, calzado que no quede ni chico ni grande, medias gruesas si el calzado es grande.
-4. Cada lobato arma su propio "control de higiene" para el próximo campamento.
+**Uñas**
+1. B-P cuenta que en un ejército que conoció era orden lavarse las manos antes de comer y no tener nunca las uñas sucias, y que eso evitaba muchas enfermedades. Los gérmenes viven en la mugre, se pegan a las manos y se esconden bajo las uñas.
+2. Las uñas de las manos se cortan más o menos una vez por semana, redondeadas con la forma del dedo para que no se enganchen.
+3. Las de los pies se cortan cada semana o diez días, **rectas** y no redondeadas, con una tijera bien afilada. Si crecen mucho, el calzado las empuja de costado y se encarnan en el dedo gordo, lo que duele mucho.
+4. Comerse las uñas les hace muy mal.
+
+**Dientes**
+1. Si no se mastica bien, la comida no se aprovecha. Por eso hay que cuidar que los dientes estén sanos y fuertes.
+2. Los gérmenes se meten entre los dientes, los pican y provocan dolor de muelas.
+3. Se evita cepillándose todas las mañanas, todas las noches y, si se puede, después del almuerzo, y enjuagándose con buches de agua.
+4. B-P cuenta que en lugares donde no hay farmacias la gente se limpia los dientes con un palito al que le golpea la punta hasta que queda deshilachada como un pincel.
+
+**Pies**
+1. Los pies están encerrados todo el día en el calzado y las medias, así que hay que lavarlos muy seguido.
+2. Si se humedecen con la transpiración y uno se queda con las medias mojadas, la piel se ablanda y se hacen ampollas. Para evitarlo, en los descansos hay que sacarse el calzado y secar bien los pies y las medias. También ayuda a evitar roces enjabonar o engrasar un poco los pies antes de ponerse las medias.
+3. Muchas ampollas salen porque el calzado queda grande y el pie se mueve adentro. Se arregla con medias más gruesas o un par extra, o ajustando bien el calzado.
+4. Pero tampoco hay que usar calzado justo, porque con la caminata los pies se hinchan: hay que dejarles lugar.
+5. El original explicaba cómo pinchar una ampolla con una aguja pasada por el fuego. Hoy se enseña distinto: consultá un curso de primeros auxilios vigente.
+
+**Consejo del original:** saber estas cositas y hacerlas es lo que hace toda la diferencia entre disfrutar una caminata larga o no.
 
 ## Cierre
 - ¿Por qué B-P relaciona las manos sucias con enfermarse?
@@ -199,41 +216,8 @@ The other is to bind the shoe more tightly to the foot by passing a strap under 
 But don't get tight boots, as you will never be able to walk far in them, since your feet generally spread or swell with much walking, and you will be wise to leave room for this.
 Knowing these small things, and carrying them out for yourself, just makes all the difference as to whether you really enjoy a long walk or not.
 
-**Versión en español:**
-
-**UÑAS**
-En el ejército japonés, donde, como te conté, los soldados se mantienen muy limpios, tienen la orden de lavarse siempre las manos antes de comer, y nunca pueden tener las uñas sucias. Se cree que esta regla evitó muchísimas enfermedades entre los soldados.
-La razón es que esos gérmenes venenosos que flotan en el aire viven en la mugre y se te pegan muy fácilmente en las manos y se esconden bajo las uñas; por eso siempre tenés que cuidar de tenerlas limpias, sobre todo antes de tocar la comida. Las uñas, tanto de las manos como de los pies, se tienen que mantener bien cortadas con tijera.
-Muy a menudo la gente sufre renguera y mucho dolor porque la uña del dedo gordo del pie se le encarna por un costado. Muchas veces pasa por dejar crecer la uña demasiado, hasta que la presión del calzado la empuja a crecer de costado hacia el dedo. Así que tenés que cortarte las uñas de los pies seguido, cada semana o diez días, y hay que cortarlas rectas, no redondeadas, y con una tijera afilada.
-Las uñas de las manos también hay que cortarlas más o menos una vez por semana para mantenerlas bien. Se pueden redondear con la forma del dedo para que las puntas no se enganchen y se rompan.
-Comerse las uñas les hace muy mal.
-
-**DIENTES**
-[Se omite una anécdota sobre un recluta del ejército rechazado por tener los dientes en mal estado.]
-Si uno no puede masticar bien la comida, lo bueno no se aprovecha en el estómago para hacer sangre, que, como te dije, es tan necesaria para la salud.
-Así que, hagas lo que hagas, tratá de mantener los dientes sanos y fuertes.
-No hay parte tuya que los gérmenes venenosos ataquen con más facilidad que los dientes. Se meten entre ellos, cavan adentro y provocan ese dolor terrible que se llama dolor de muelas, y los dientes se pican y hay que sacarlos; y por eso, después, la comida no se mastica bien.
-Pero eso lo podés evitar vos mismo si te tomás el trabajo de lavarte bien los dientes, y de cepillar y enjuagar esos gérmenes fuera de la boca.
-Lo primero es tener un cepillo de dientes. Se compra por unas monedas en cualquier farmacia.
-La cuestión es no olvidarse de usarlo todas las mañanas y todas las noches, al levantarse y antes de acostarse, y si se puede también después del almuerzo.
-Atacá a esos gérmenes con el cepillo, sacalos de sus escondites entre y detrás de los dientes, y enjuagalos con buches de agua, para que no tengan oportunidad de cavar y destruir tus muelas.
-En la selva africana no hay farmacias y, sin embargo, la gente de allá tiene dientes espléndidos, y los mantiene limpios cepillándolos todo el tiempo después de cada comida con cepillitos hechos de palitos. Toman un palito corto y golpean la punta hasta que se deshilacha toda como un pincel.
-
-**PIES**
-Los pies la pasan peor que el resto del cuerpo, porque están encerrados en el calzado y las medias todo el día. Por eso hay que lavarlos muy seguido.
-No podés caminar mucho si los pies no te dan más. Muchas veces se ampollan porque los dejás humedecerse con la transpiración y te quedás con las medias húmedas puestas, así la piel se ablanda y se roza muy fácilmente, formando ampollas o lastimaduras.
-Lo podés evitar sacándote seguido el calzado y secando bien los pies y las medias, para que la piel no quede empapada.
-Enjabonar o engrasar los pies antes de ponerse las medias no está mal para evitar roces.
-**Ampollas.** Si te sale una ampolla en el pie, tenés que cuidarla un poco y te la sacás fácil; pero si no tenés cuidado, la piel se sale y te puede quedar una lastimadura fea.
-Así se trata. Tomá una aguja y sostenela unos segundos en la llama de un fuego o de un fósforo, para matar los gérmenes que pueda tener. Después clavala de costado en la ampolla, bien abajo, cerca de la carne. No vas a sentir el pinchazo. Después apretá para sacar el agua de la ampolla por el agujerito que hizo la aguja.
-**Calzado.** Las ampollas muchas veces aparecen porque el calzado es demasiado grande y el pie se mueve adentro. Hay dos formas de remediarlo.
-Una es usar medias más gruesas, o un par extra.
-La otra es ajustar el calzado al pie pasando una correa por debajo de la suela, cruzándola sobre el empeine y llevándola alrededor del tobillo para abrocharla, como se muestra.
-Pero no compres calzado ajustado, porque nunca vas a poder caminar mucho con él, ya que los pies se suelen ensanchar o hinchar al caminar mucho, y conviene dejar lugar para eso.
-Saber estas cositas, y practicarlas vos mismo, es lo que hace toda la diferencia entre disfrutar de verdad una caminata larga o no.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

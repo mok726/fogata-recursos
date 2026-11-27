@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ojo de Lince"
+title: "El Viejo Cara Manchada"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ojo-de-lince/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Ojo de Lince!
+# El Viejo Cara Manchada
 
 ## Resumen
-Baden-Powell lo llamaba "Old Spotty-Face" (la cara con manchas). El árbitro muestra un cartón con puntos negros en una cuadrícula y los participantes tienen que copiar el dibujo en su tarjeta. Gana quien lo copia bien desde más lejos. Tiene una variante de memoria, "Vista Rápida".
+Un juego para entrenar la vista de lejos: hay que copiar un dibujo de puntos desde la mayor distancia posible. Su nombre en inglés, «Old Spotty-Face», se refiere al cartón lleno de manchas negras que hay que mirar.
 
 ## Preparación
 1. Dibujá una cuadrícula de 12 casilleros en un cartón grande (casilleros de unos 7 cm si es al aire libre, de 4 o 5 cm si es en un salón).
@@ -150,16 +154,16 @@ Baden-Powell lo llamaba "Old Spotty-Face" (la cara con manchas). El árbitro mue
 3. Dale a cada participante una tarjeta con la misma cuadrícula, en chico, y un lápiz.
 
 ## Desarrollo
-**Ojo de Lince (vista lejana)**
-1. Los participantes se alejan unos cien metros (o lo que permita el lugar).
-2. El árbitro pega unos seis puntos en el cartón, donde quiera, y lo levanta para que se vea.
-3. Los participantes se acercan de a poco. Cuando logran distinguir los puntos, los marcan en su tarjeta y se quedan donde están.
-4. Puntaje: 5 puntos por cada punto bien ubicado, y se descuenta 1 punto por cada 5 cm que estén más cerca que el que copió desde más lejos.
+**Materiales:** un cartón chico para cada scout, dividido en unos doce cuadraditos, y un lápiz. Para el árbitro (el que dirige), un cartón grande también dividido en doce cuadrados, unos círculos de papel negro de algo más de 1 cm de diámetro y alfileres o chinches para pegarlos.
 
-**Vista Rápida (memoria)**
-1. Los participantes se ubican cerca.
-2. El árbitro muestra el cartón solo cinco segundos.
-3. Cada uno marca los puntos de memoria. Gana quien acierta más.
+1. Cada scout toma su cartón y su lápiz y se aleja unos cientos de metros del árbitro, o, si se juega bajo techo, todo lo que permita el lugar.
+2. El árbitro usa el cartón grande: al aire libre, con cuadrados de unos 7,5 cm de lado; bajo techo, de 4 a 5 cm. Pega en él una media docena de círculos negros, repartidos en los cuadrados que quiera.
+3. El árbitro levanta el cartón para que todos lo vean.
+4. Los scouts se acercan de a poco. Apenas alcanzan a distinguir dónde están los puntos, se detienen y copian el mismo dibujo en su propio cartón, marcando en qué cuadrado está cada punto.
+
+**Puntaje:** cada punto bien ubicado vale 5 puntos. Al que copió desde más lejos no se le descuenta nada; a los demás se les resta 1 punto por cada 5 cm que estuvieron más cerca que él. Gana el que suma más. Así se entrena la vista de lejos.
+
+**Vista Rápida (variante del original):** con el mismo material se entrena la vista rápida. Los scouts se acercan bastante al árbitro, que muestra el cartón solo durante cinco segundos y lo esconde. Cada uno marca su cartón de memoria. Gana el que lo copia con más exactitud.
 
 ## Cierre
 - ¿Desde qué distancia empezaste a ver los puntos?
@@ -191,14 +195,8 @@ the scouts to come fairly close, and then merely showing your card for
 five seconds, and let them mark their cards from memory. The one who is
 most correct wins.
 
-**Versión en español:**
-
-**LA VIEJA CARA CON MANCHAS (para desarrollar la vista).** Prepará cuadrados de cartón divididos en unos doce cuadraditos. Cada scout toma uno, con un lápiz, y se aleja unos cientos de metros o, si es bajo techo, todo lo que permita el espacio. Luego el árbitro toma un cartón grande con doce cuadrados dibujados, de unos 7,5 cm de lado si es al aire libre, o de 4 a 5 cm si es bajo techo. El árbitro tiene unos cuantos discos de papel negro (de poco más de 1 cm de diámetro) y alfileres, y pega una media docena en su cartón, repartidos donde quiera. Levanta el cartón para que los scouts puedan verlo. Ellos se acercan de a poco y, a medida que lo ven, marcan sus cartones con el mismo dibujo de puntos. Gana el que lo logra desde más lejos del árbitro. Se dan cinco puntos por cada punto bien marcado y se descuenta un punto por cada 5 cm que esté más cerca que el que estuvo más lejos. Esto enseña a ver de lejos.
-
-**"VISTA RÁPIDA"** también se puede enseñar con el mismo material: se deja que los scouts se acerquen bastante y se les muestra el cartón solo cinco segundos, para que marquen sus cartones de memoria. Gana el que acierta más.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

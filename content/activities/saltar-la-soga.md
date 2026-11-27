@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,17 +144,24 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Saltar la Soga!
+# Saltar la Soga
 
 ## Resumen
-B-P explica cómo saltar bien: parado derecho, hombros abajo, cayendo en puntas de pie sin hacer ruido y con un saltito entre salto y salto. Primero con dos compañeros que giran una soga larga; después cada uno con la suya, girándola hacia atrás. La meta del original: treinta saltos seguidos.
+Un ejercicio de la Primera Estrella de los lobatos: saltar la soga girándola hacia atrás. B-P les explica a los chicos cómo hacerlo bien.
 
 ## Desarrollo
-1. Para quien nunca saltó: dos compañeros giran una soga larga y el lobato aprende a entrar y saltar en el momento justo.
-2. Postura: parado derecho, hombros abajo, la punta de los pies tocando la soga.
-3. Cuando la soga pasa sobre la cabeza, se da un saltito intermedio; así se mantiene el ritmo.
-4. Después, cada uno con su soga, empezando con la soga adelante y la espalda siempre derecha. Hay que caer en puntas de pie, "como una cabra de montaña", sin golpear con los talones.
-5. Desafío: treinta saltos seguidos girando la soga hacia atrás, como pedía la prueba de la Primera Estrella.
+**Por qué hacia atrás:** el que gira la soga hacia adelante tiende a encorvar los hombros y meter las puntas de los pies para adentro, y así no se hace ningún bien y hasta se puede hacer mal. Girándola hacia atrás, la espalda queda derecha.
+
+1. Se busca una soga. No tiene que ser una cara con mangos de madera, pero tampoco demasiado fina ni liviana.
+2. Si el chico nunca saltó, al principio dos amigos le giran la soga, una en cada punta, y él se concentra en aprender a saltar bien y en el momento justo.
+3. Se para bien derecho, con los hombros abajo y las puntas de los pies casi tocando la soga. Cuando la soga le pasa por arriba de la cabeza, salta un poquito hacia afuera.
+4. Entre salto y salto grande hace un saltito chico, mientras la soga está arriba. Eso lo ayuda a mantener el equilibrio y el ritmo.
+5. Después prueba girar la soga solo. Empieza con la soga adelante y mantiene la espalda derecha todo el tiempo.
+6. Tiene que caer en puntas de pie, sin golpe, «ágil como una cabra de montaña», y no sobre los talones «como un elefante».
+
+**La prueba:** para la Primera Estrella hay que saltar treinta veces seguidas, hacia atrás y solo. B-P recomienda practicar en casa.
+
+**Consejo del original:** algunos chicos creen que saltar la soga no es para ellos, pero los lobatos son más sensatos: saben que los futbolistas y los boxeadores usan este ejercicio para ponerse en forma.
 
 ## Cierre
 - ¿Cuántos saltos seguidos lograste? ¿Y la próxima vez?
@@ -172,17 +180,8 @@ Stand straight upright, shoulders down, your toes just touching the rope. Are yo
 Now try turning the rope yourself. Start with it in front of you and keep your back straight all the time. Don't land like an elephant on your heels — practise being as nimble as a mountain goat (if you can) and make no thump at all by jumping on your toes. You will have to skip thirty times, backwards and alone, for your First Star, so I should take care to practise at home.
 Some boys may think that skipping is girlish, but Cubs are more sensible than that. They know that footballers and boxers use this sort of exercise to help make them fit.
 
-**Versión en español:**
-
-**SALTAR LA SOGA**
-Es decir, saltar girando la soga hacia atrás. El chico que gira la soga hacia adelante, con las puntas de los pies para adentro y los hombros encorvados, no se va a hacer mucho bien y hasta se puede hacer mal.
-Buscá tu soga —no tiene que ser una linda y cara con mangos de madera, pero no debería ser demasiado fina ni liviana— y probá. Si nunca aprendiste a saltar, al principio pediles a dos amigos que te giren la soga y poné toda la cabeza en aprender a saltar bien y en el momento justo.
-Parate bien derecho, con los hombros abajo y la punta de los pies apenas tocando la soga. ¿Listo? ¡Bien! Ahí pasa por arriba de tu cabeza. Ahora saltá, un poquito hacia afuera. Hacé un saltito entre cada salto grande —cuando la soga está sobre tu cabeza—; eso te va a ayudar a mantenerte firme y a tiempo.
-Ahora probá girar la soga vos mismo. Empezá con la soga adelante y mantené la espalda derecha todo el tiempo. No caigas sobre los talones como un elefante: practicá ser tan ágil como una cabra de montaña (si podés) y no hagas ningún ruido, saltando en puntas de pie. Para tu Primera Estrella vas a tener que saltar treinta veces, hacia atrás y solo, así que yo practicaría en casa.
-Algunos chicos pueden pensar que saltar la soga es de chicas, pero los lobatos son más sensatos. Saben que los futbolistas y los boxeadores usan este ejercicio para ponerse en forma.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

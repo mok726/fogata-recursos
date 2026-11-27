@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Saltar en un Pie y Atrapar la Pelota"
+title: "Saltar en un Pie y Tirar la Pelota"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saltar-en-un-pie-y-la-pelota/"
@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,16 +144,26 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Saltar en un Pie y Atrapar la Pelota!
+# Saltar en un Pie y Tirar la Pelota
 
 ## Resumen
-B-P propone saltar en un pie, en puntas, "como un pájaro y no como un elefante", en un recorrido en forma de ocho (pie derecho en la curva a la derecha, izquierdo en la otra), y practicar tirar la pelota con las dos manos para no crecer "de un solo lado", atrapando con las manos en forma de cuenco.
+Dos ejercicios de la Primera Estrella de los lobatos: saltar en un pie y tirar y atajar una pelota. B-P se los explica directamente a los chicos.
 
 ## Desarrollo
-1. Marquen un recorrido en forma de ocho de unos 23 metros.
-2. Cada uno lo recorre saltando en un pie: el derecho en la curva hacia la derecha y el izquierdo en la curva hacia la izquierda, siempre en puntas.
-3. En parejas a unos 9 metros, tiren la pelota primero con la derecha y después con la izquierda. El compañero la atrapa con las manos en forma de cuenco, acompañando el golpe hacia atrás.
-4. B-P pedía acertar 4 de 6 tiros con cada mano y atrapar 4 de 6. Anoten sus resultados y vuelvan a probar otro día.
+**Saltar en un pie**
+
+1. Saltar en un pie es cuestión de práctica. Hay que saltar en puntas de pie, livianito, «como un pájaro y no como un elefante», y no con el pie plano.
+2. El ejercicio enseña a mantener el equilibrio. Se marca en el suelo un recorrido en forma de ocho.
+3. En la curva que dobla a la derecha se salta con la pierna derecha, y en la que dobla a la izquierda, con la izquierda.
+4. Para pasar la prueba hay que recorrer unos 23 metros saltando en un pie por ese ocho. Akela (el dirigente de la Manada) les muestra cuánto es esa distancia.
+
+**Tirar y atajar la pelota**
+
+1. Hay que practicar mucho tirar con la mano izquierda (o con la que menos se usa), porque con la otra seguramente ya sale fácil. La prueba pide las dos manos para que las dos se ejerciten y nadie crezca «medio torcido para un lado».
+2. Para atajar, se ponen las manos en forma de cuenco. Cuando la pelota llega, se llevan un poco hacia atrás y al mismo tiempo se la agarra. Con las manos planas la pelota rebota; con las manos muy separadas se escapa por el medio.
+3. Hay que mirar la pelota desde que sale de la mano del otro y moverse hacia donde va a caer, sin quedarse quieto esperando que el otro haga todo el trabajo.
+
+**La prueba:** tirarle la pelota a un compañero que está a unos 9 metros, primero con la derecha y después con la izquierda, de modo que la ataje cuatro de seis veces. Y después, atajar cuatro de seis veces una pelota que te tiran desde unos 9 metros, con una mano o con las dos.
 
 ## Cierre
 - ¿Con qué mano tirás mejor? ¿Qué podés hacer para mejorar la otra?
@@ -167,15 +178,8 @@ Hopping is a matter of practice. Try to hop like a bird and not like an elephant
 Throwing and catching a ball is a matter of practice and good eyes. Practise hard with your left hand at throwing, you will probably find it quite easy with your right. The reason that the test asks you to throw with both hands is so that both hands can get exercise, and you don't grow up sort of one-sided, as you might if you only used the right hand.
 When you try to catch a ball, make a cup of your hands, and when the ball strikes them draw them back a bit and grip hold of the ball at the same time. If you hold them out flat, the ball will bounce out again; if you hold them wide apart the ball will slip through. Watch the ball from the time it leaves the other fellow's hand and move to where you think it is going to land. Do not stand still all the time and expect him to do all the hard work for you. The test for the First Star is to throw the ball first with the right and then with the left to a boy ten yards away, so that he catches it four times out of six. Also in your turn to catch a ball thrown to you from ten yards away four times out of six, with either or both hands.
 
-**Versión en español:**
-
-**SALTAR EN UN PIE Y TIRAR LA PELOTA**
-Saltar en un pie es cuestión de práctica. Tratá de saltar como un pájaro y no como un elefante. Acá también tenés que saltar en puntas de pie y no con el pie plano. Este ejercicio te enseña a mantener el equilibrio, y tenés que probar saltar en un pie por un recorrido en forma de ocho, con la pierna derecha cuando doblás a la derecha y con la izquierda cuando doblás a la izquierda. Para pasar la prueba vas a tener que saltar en un pie unos 23 metros por un recorrido en forma de ocho. Pedile a Akela que te muestre cuánto es eso.
-Tirar y atrapar una pelota es cuestión de práctica y de buena vista. Practicá mucho tirar con la mano izquierda; con la derecha probablemente te resulte bastante fácil. La razón por la que la prueba pide tirar con las dos manos es que las dos se ejerciten y no crezcas medio torcido para un lado, como podría pasarte si usaras solo la derecha.
-Cuando quieras atrapar una pelota, hacé un cuenco con las manos y, cuando la pelota las golpee, llevalas un poco hacia atrás y agarrá la pelota al mismo tiempo. Si las tenés planas, la pelota va a rebotar; si las tenés muy separadas, se va a escapar entre ellas. Mirá la pelota desde que sale de la mano del otro y movete hacia donde creés que va a caer. No te quedes quieto todo el tiempo esperando que el otro haga todo el trabajo difícil por vos. La prueba de la Primera Estrella es tirar la pelota, primero con la derecha y después con la izquierda, a un chico que está a unos 9 metros, de modo que la atrape cuatro de seis veces. Y, a tu turno, atrapar cuatro de seis veces una pelota que te tiran desde unos 9 metros, con una mano o con las dos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

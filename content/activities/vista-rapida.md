@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Vista Rápida"
+title: "El Juego de la Vista Rápida"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vista-rapida/"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - juego-scout
   - observacion
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -137,19 +141,25 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Vista Rápida!
+# El Juego de la Vista Rápida
 
 ## Resumen
-Uno de los juegos de observación de Seton. Cada jugador tiene un tablero de 5 × 5 casilleros, cinco nueces y cinco piedritas. Uno arma un dibujo en su tablero y el otro lo mira **cinco segundos**. Después se tapa y el segundo tiene que reproducirlo de memoria en su propio tablero. Suma un punto por cada pieza bien puesta y resta uno por cada pieza mal puesta. Se van turnando. Es primo del Juego de Kim, pero entrena la memoria de las posiciones.
+Un juego de a dos para entrenar la vista y la memoria: hay que copiar un dibujo después de verlo solo cinco segundos.
 
 ## Desarrollo
-1. Armen las parejas con sus dos tableros y sus piezas.
-2. El jugador A arma un dibujo con sus cinco nueces y sus cinco piedritas sin que B mire.
-3. B mira el tablero durante cinco segundos exactos. Después se tapa.
-4. B reproduce el dibujo en su propio tablero.
-5. Se destapa y se cuenta: +1 por cada pieza en el lugar correcto, −1 por cada pieza en un lugar equivocado.
-6. Cambian de rol. Juegan cinco rondas cada uno.
-7. Variante: bajen a tres segundos o agranden el tablero a 6 × 6.
+1. Se preparan dos tableros iguales de unos 30 centímetros de lado. Cada uno se divide en 25 casilleros, cinco por cinco, como un tablero de ajedrez chico.
+2. Se consiguen diez nueces y diez piedritas.
+3. Un jugador recibe un tablero, cinco nueces y cinco piedritas. Sin que el otro mire, las pone en los casilleros que quiera, formando el dibujo que se le ocurra.
+4. Cuando está listo, el otro jugador mira el tablero durante cinco segundos. Después se tapa.
+5. El segundo jugador, de memoria, tiene que armar el mismo dibujo en su propio tablero con las otras cinco nueces y cinco piedritas.
+6. Se destapa el primer tablero y se comparan.
+7. Después se cambian los papeles, y así se van turnando.
+
+**Puntaje:** se suma un punto por cada pieza bien puesta y se resta uno por cada pieza mal puesta.
+
+El original no dice cómo se gana; una opción es jugar varias vueltas y que gane el que más puntos junta.
+
+**Consejo del original:** este juego desarrolla de forma maravillosa la capacidad de ver y memorizar rápido.
 
 ## Cierre
 - ¿Qué truco usaron para recordar? (Formas, líneas, diagonales.)
@@ -176,16 +186,8 @@ each that was wrong. They take turn and turn about.
 This game is a wonderful developer of the power to see and memorize
 quickly.
 
-**Versión en español:**
-
-**El juego de la vista rápida**
-
-Hacé dos tableros de unos treinta centímetros de lado y dividí cada uno en veinticinco casilleros; conseguí diez nueces y diez piedritas. Dale a un jugador un tablero, cinco nueces y cinco piedritas. Él las pone en los casilleros formando el dibujo que quiera y, cuando está listo, el otro jugador puede mirarlo durante cinco segundos. Después se tapa y, de memoria, el segundo jugador tiene que reproducir el dibujo en su propio tablero. Cuenta un punto por cada pieza bien puesta y resta uno por cada pieza mal puesta. Se van turnando.
-
-Este juego desarrolla de forma maravillosa la capacidad de ver y memorizar rápido.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Refranes del Tiempo: ¿Ciencia o Mito?"
+title: "Sabiduría del Tiempo"
 duration: "45 min +"
 duration_detail: "45 minutos + observación durante el campamento"
 layout: "layouts/activity.njk"
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - clima
   - tiempo
@@ -73,7 +74,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -150,18 +154,36 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información (académicas, científicas, artísticas, populares, empíricas, ancestrales, etc.) y las aplico de manera crítica y creativa en función de la necesidad y los contextos.
 ---
 
-# ¡Refranes del Tiempo: ¿Ciencia o Mito?!
+# Sabiduría del Tiempo
 
 ## Resumen
-Ernest Thompson Seton juntó los refranes del tiempo que usaban cazadores y campesinos: *«Cielo rojo a la noche, alegría del pastor; cielo rojo a la mañana, el pastor se alarma»*, «Golondrinas que vuelan bajo, señal de lluvia», «Círculo alrededor de la luna, tormenta». Algunos tienen una buena explicación científica y otros son puro mito. La patrulla los clasifica, investiga y los pone a prueba anotando el cielo y el tiempo durante un campamento.
+Una colección de refranes y creencias populares para pronosticar el tiempo, tal como los juntó un manual de 1920 en Estados Unidos. Muchos tienen algo de cierto y otros son pura tradición. Se pueden leer con el grupo y, durante un campamento, ir comprobando cuáles se cumplen.
 
 ## Desarrollo
-1. Repartí tarjetas con refranes del texto. Cada patrulla los clasifica en tres grupos: «creemos que es verdad», «creemos que es mito» y «no sabemos».
-2. Investiguen algunos: ¿por qué el cielo rojo al atardecer suele anunciar buen tiempo en latitudes medias? ¿Qué es el halo de la luna? ¿Por qué las golondrinas vuelan bajo cuando baja la presión?
-3. Ojo con el viento: los refranes son del este de EE. UU. ¿Qué viento trae lluvia o frío donde vivimos? Pregunten a alguien del lugar.
-4. Durante el campamento, anoten tres veces por día: cielo, nubes, viento, temperatura y lo que pasó después.
-5. Al final, revisen: ¿qué refranes se cumplieron?
-6. Armen el «refranero del tiempo» de la patrulla, con los refranes que sí funcionan en su zona.
+**Refranes del original (en traducción):**
+- Cuando hay rocío en el pasto, la lluvia no va a llegar. Cuando el pasto está seco a la noche, esperá lluvia antes del amanecer. Cuando el pasto está seco a la mañana, esperá lluvia antes de la noche.
+- Tres días de lluvia vacían cualquier cielo.
+- Un cielo profundo y claro, de un azul sin una mancha, trae tormenta en uno o dos días.
+- Cuando el viento viene del este, no es bueno ni para el hombre ni para la bestia.
+- Cuando el viento viene del norte, los viejos no deberían salir de casa.
+- Cuando el viento viene del sur, le sopla la carnada a la boca de los peces.
+- Cuando el viento viene del oeste, es el mejor de todos los vientos.
+- Si el cielo se abre y se cierra, es señal segura de que te vas a mojar. (Otra versión: «Abre y cierra, seguro que llueve». Y otra más: «Se aclara para poder llover».)
+- Tarde roja y mañana gris, el viajero sigue camino. Tarde gris y mañana roja, el viajero se vuelve a la cama.
+- Cielo rojo a la mañana, el pastor se previene; cielo rojo a la noche, el pastor se alegra.
+- Si el sol se pone nublado el viernes, seguro que el domingo está despejado.
+- Si un gallo canta parado en un cerco o en un lugar alto, va a despejar. Si canta en el suelo, no cuenta.
+- Entre las once y las dos se sabe qué va a hacer el tiempo. Lluvia antes de las siete, despejado antes de las once.
+- Niebla a la mañana, día de sol.
+- Si despeja durante la noche, pronto vuelve a llover.
+- Cuando el sol «toma agua» (se ven rayos de sol entre las nubes), es señal segura de lluvia.
+- Un círculo alrededor de la luna anuncia tormenta: cuantas estrellas haya dentro del círculo, tantos días faltan para que llueva.
+- Un calor repentino trae truenos. Una tormenta que viene contra el viento siempre es tormenta eléctrica.
+- El cuclillo anuncia lluvia cuando su canto es largo y fuerte; lo mismo la ranita de los árboles.
+- Golondrinas que vuelan bajo, señal de lluvia; si vuelan alto, va a despejar.
+- La lluvia sigue al viento, y la ráfaga fuerte llega justo antes del chaparrón.
+
+**Ojo con los vientos:** además de los refranes en rima, el original dice que el viento del este trae lluvia, el del oeste trae tiempo claro, luminoso y fresco, el del norte trae frío y el del sur trae calor (aclarando que es en la costa atlántica de Estados Unidos). Todo eso vale para allá. En la Argentina es distinto, porque estamos en el hemisferio sur: el viento norte suele traer calor y humedad, el pampero (del sudoeste) trae frío y limpia el cielo, y la sudestada trae lluvias largas. Comparar los refranes del libro con los nuestros es una buena charla para el grupo.
 
 ## Cierre
 - ¿Qué refrán les sorprendió que tuviera explicación científica?
@@ -255,88 +277,8 @@ Swallows flying low is a sign of rain; high, of clearing weather.
 The rain follows the wind, and the heavy blast is just before the
 shower.
 
-**Versión en español:**
-
-**SABIDURÍA DEL TIEMPO**
-
-Cuando hay rocío en el pasto,
-la lluvia no va a llegar.
-Cuando el pasto está seco a la noche,
-esperá lluvia antes del amanecer.
-Cuando el pasto está seco a la luz de la mañana,
-esperá lluvia antes de la noche.
-
-Tres días de lluvia vacían cualquier cielo.
-
-Un cielo profundo y claro, de un azul sin manchas,
-cría tormentas en un día o dos.
-
-Cuando el viento viene del este,
-no es bueno ni para el hombre ni para la bestia.
-Cuando el viento viene del norte,
-los viejos no deberían salir.
-Cuando el viento viene del sur,
-le sopla la carnada a la boca de los peces.
-Cuando el viento viene del oeste,
-es el mejor de todos los vientos.
-
-Si se abre y se cierra,
-es señal segura de que se moja.
-(Otra versión)
-Abre y cierra,
-seguro que llueve.
-(Otra más)
-Aclara para ver llover.
-
-Tarde roja y mañana gris
-mandan al viajero a seguir.
-Tarde gris y mañana roja
-mandan al viajero a la cama.
-
-Cielo rojo a la mañana, el pastor se alarma;
-cielo rojo a la noche, alegría del pastor.
-
-Si el sol se pone nublado el viernes, seguro que el domingo está despejado.
-
-Si un gallo canta parado en un cerco o en un lugar alto, va a aclarar. Si canta en el suelo, no cuenta.
-
-Entre las once y las dos
-se sabe qué va a hacer el tiempo.
-
-Lluvia antes de las siete, despejado antes de las once.
-
-Niebla a la mañana, día de sol.
-
-[…]
-
-Si aclara durante la noche, pronto va a volver a llover.
-
-Sol que toma agua, señal segura de lluvia.
-
-Un círculo alrededor de la luna quiere decir «tormenta». Cuantas estrellas haya dentro del círculo, tantos días faltan para que llueva.
-
-Calor repentino trae truenos.
-
-Una tormenta que viene contra el viento siempre es tormenta eléctrica.
-
-El viento del este trae lluvia.
-
-El viento del oeste trae tiempo claro, luminoso y fresco.
-
-El viento del norte trae frío.
-
-El viento del sur trae calor. (En la costa atlántica).
-
-Todos los cazadores creen que el cuclillo, o «cuervo de la lluvia» (las dos especies), anuncia lluvia cuando su «cou, cou, cou» es largo y fuerte.
-
-Lo mismo la ranita de zarzal, que canta antes de la lluvia.
-
-Golondrinas que vuelan bajo son señal de lluvia; alto, de que va a aclarar.
-
-La lluvia sigue al viento, y la ráfaga fuerte llega justo antes del chaparrón.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

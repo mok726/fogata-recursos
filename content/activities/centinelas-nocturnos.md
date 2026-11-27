@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Centinelas Nocturnos"
+title: "Patrulla Nocturna"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/centinelas-nocturnos/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - nocturno
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,16 +144,20 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Centinelas Nocturnos!
+# Patrulla Nocturna
 
 ## Resumen
-Una práctica para aprender a ver y oír de noche. Unos centinelas, quietos o caminando, vigilan con un silbato. Los demás tratan de acercarse sin ser oídos. Cuando un centinela oye algo, silba: todos se quedan quietos y el árbitro le pregunta de dónde vino el ruido. Si acierta, gana el centinela. Si un explorador llega a unos 15 m sin ser visto, deja un pañuelo, se retira y hace ruido para que el árbitro venga a comprobarlo.
+Un juego de noche para entrenar el oído y la vista: unos hacen de centinelas y otros tratan de acercarse sin que los descubran.
 
 ## Desarrollo
-1. Ubicá a los centinelas y explicá los límites.
-2. Los exploradores salen desde lejos.
-3. Al oír un ruido, el centinela silba. Todos quedan quietos y el árbitro verifica la dirección.
-4. El explorador que llega a 15 m deja su pañuelo, se retira y hace ruido para avisar.
+1. El que dirige pone algunos centinelas en distintos puntos. Pueden quedarse parados o caminar por su lugar. Cada uno tiene un silbato; si no hay, da la alarma con la voz.
+2. Los demás scouts hacen de «enemigos»: salen a acercarse a los centinelas a escondidas, arrastrándose o caminando en silencio.
+3. Si un centinela oye un ruido, toca el silbato o llama en voz alta. En ese momento todos los que se están acercando tienen que quedarse quietos, acostados en el suelo, donde estén.
+4. El árbitro va hasta el centinela y le pregunta de qué lado vino el ruido. Si acierta la dirección, gana el centinela.
+5. Si uno de los que se acercan logra llegar a unos 15 metros del centinela sin que lo descubran, deja ahí en el suelo algún objeto suyo, por ejemplo un pañuelo, y se vuelve arrastrando sin ser oído.
+6. Después hace un ruido a propósito para que el centinela dé la alarma. Cuando llega el árbitro, le muestra el objeto que dejó y le explica cómo llegó hasta ahí.
+
+**Cómo se gana:** el centinela gana si acierta de qué lado vino el ruido. El original no dice qué gana el que logra dejar su objeto; una opción es darle un punto.
 
 ### Variante: Apagar el Farol
 En el centro hay un farol a pilas encendido, cuidado por 3 a 5 guardianes con linternas que no pueden alejarse más de 5 m. Los atacantes salen desde unos 40 m y avanzan agachados o arrastrándose. Los guardianes prenden la linterna un momento cada vez que oyen algo: si iluminan a un atacante y **dicen su nombre**, ese atacante vuelve a la salida. Gana quien llega al farol y lo apaga. Nada de fuego: farol o lámpara a pilas.
@@ -182,14 +190,8 @@ the ground at that point, and creeps away again. Then he makes a noise
 for the sentry to fire at, and when the umpire comes up, he can explain
 what he has done._
 
-**Versión en español:**
-
-**PATRULLA NOCTURNA.**
-
-Practiquen a los scouts en oír y ver de noche, apostando algunos centinelas, que tienen que quedarse parados o caminar, armados con rifles y balas de fogueo, o con silbatos. Hay que mandar a otros scouts como enemigos a acecharlos y matarlos. Si un centinela oye un ruido, dispara, llama o silba. Los scouts tienen que detenerse enseguida y quedarse quietos en el suelo. El árbitro va hasta el centinela y le pregunta de qué dirección vino el ruido, y si acierta, gana el centinela. Si el que acecha logra arrastrarse hasta 15 yardas del centinela sin ser visto, deja algún objeto, como un pañuelo, en el suelo en ese punto, y se vuelve arrastrando. Después hace un ruido para que el centinela le dispare, y cuando llega el árbitro, puede explicar lo que hizo.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

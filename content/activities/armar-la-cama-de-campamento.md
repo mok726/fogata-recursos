@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Armar la Cama de Campamento"
+title: "Cómo Armar tu Cama"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/armar-la-cama-de-campamento/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -147,17 +148,20 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Armar la Cama de Campamento!
+# Cómo Armar tu Cama
 
 ## Resumen
-"Es una gran cosa saber armar la cama de manera que a la mañana sigas tapado", dice B-P. Primero la manta de piso con el lado brillante contra el suelo, encima el colchón de paja, y después dos frazadas dobladas y encastradas, de modo que queden dos capas abajo y dos arriba; los pies se doblan y se sujetan con un alfiler. El "pie tierno" que solo se tapa arriba pasa frío por la humedad del suelo.
+Cómo armar la cama de campamento de modo que a la mañana sigas tapado y no pases frío.
 
 ## Desarrollo
-1. Pregunten: ¿de dónde viene más frío a la noche, de arriba o del suelo?
-2. Cada uno extiende su nylon o lona y encima el aislante (hoy reemplaza al colchón de paja).
-3. Dobla una frazada por la mitad a lo largo. Dobla la otra igual y la pone debajo de la mitad de arriba de la primera, con los bordes contra el doblez de la otra. Al meterse en el medio quedan dos capas abajo y dos arriba.
-4. Doblan los pies hacia abajo y los sujetan con alfileres de gancho.
-5. Prueben acostarse y darse vuelta: ¿se desarma? Si tienen bolsa de dormir, vean cómo sumar una frazada abajo.
+1. Primero extendé en el suelo la lona o el nylon de piso, con el lado impermeable (el brillante) contra la tierra.
+2. Encima va el colchón. En el original era un jergón, una bolsa de tela rellena de paja; hoy puede ser una colchoneta o un aislante.
+3. Agarrá una frazada y doblala por la mitad, a lo largo. Doblá la segunda de la misma manera.
+4. Meté la segunda frazada entre las dos mitades de la primera, de modo que sus bordes queden contra el doblez de la otra. Así las dos frazadas quedan encastradas una en la otra.
+5. Te metés en el medio. Quedan dos capas de frazada abajo tuyo y dos arriba, y como cada frazada está doblada, no se abren aunque te muevas: no te podés «caer» de la cama.
+6. Para que no se te enfríen los pies, doblá la parte de abajo de las frazadas hacia arriba y sujetala con un alfiler de gancho.
+
+**Por qué funciona:** el frío y la humedad suben del suelo. Con dos capas de frazada y un buen colchón abajo vas a estar calentito, mucho más que el «pie tierno» (el novato) que cree que alcanza con taparse bien arriba y deja que la humedad y el aire le entren por abajo.
 
 ## Cierre
 - ¿Por qué B-P insiste en el abrigo de abajo?
@@ -173,14 +177,8 @@ HOW TO MAKE YOUR BED
 It is a great thing to be able to make your bed so that in the morning you find yourself still covered over. First put your groundsheet down with the shiny side on the ground, then put the palliasse with the straw in it on top. Take one blanket and fold it in halves, then fold the other one the same way and put it under the top half of the other with its edges against the other's fold — you get in the middle and you have two thicknesses of blanket under you and two over you. If you look at the drawing carefully you will see that you can't fall out, and your toes won't get cold if you fold the bottom over and pin it.
 With the two thicknesses of blanket and a properly filled palliasse under you, you'll be as warm as toast and far happier than any tenderfoot Tim who thinks that things over you are all you need, and lets all the damp and draught in to chill him!
 
-**Versión en español:**
-
-**CÓMO ARMAR TU CAMA**
-Es una gran cosa saber armar la cama de manera que a la mañana sigas tapado. Primero poné la manta de piso con el lado brillante contra el suelo, y encima el colchón relleno de paja. Tomá una frazada y doblala por la mitad; después doblá la otra de la misma manera y ponela debajo de la mitad de arriba de la primera, con los bordes contra el doblez de la otra. Te metés en el medio y tenés dos capas de frazada abajo y dos arriba. Si mirás bien el dibujo, vas a ver que no te podés caer, y los dedos de los pies no se te van a enfriar si doblás la parte de abajo y la sujetás con un alfiler.
-Con las dos capas de frazada y un colchón bien relleno abajo, vas a estar calentito como una tostada y mucho más contento que cualquier Tim pie tierno que cree que lo único que hace falta es lo que va arriba, ¡y deja entrar toda la humedad y las corrientes de aire que lo enfrían!
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

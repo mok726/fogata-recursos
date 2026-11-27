@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,23 +146,31 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡El Gran Aullido!
+# El Gran Aullido
 
 ## Resumen
-La Manada forma la Roca del Consejo y el círculo de parada. Cuando llega Akela, todos se agachan como lobos, aúllan su saludo y prometen hacer lo mejor. Es la ceremonia que abre las reuniones de Manada desde 1916.
+El Gran Aullido es el saludo con el que la Manada de lobatos recibe a Akela, el dirigente que la conduce. B-P lo tomó de *El libro de la selva*, de Kipling: los lobos se sentaban en círculo alrededor de la Roca del Consejo y, cuando Akela, el viejo lobo jefe, subía a la roca, todos levantaban la cabeza y le aullaban la bienvenida. El original explica también las formaciones que se usan con el saludo.
 
 ## Preparación
 1. Marcá en el piso un círculo chico de unos tres pasos de diámetro (la Roca del Consejo), con piedras, estacas o tiza. En el centro puede ir el mástil o el tótem.
 2. Practicá antes las voces de "¡Manada, Manada, Manada!", "Alerta" y "Descanso".
 
 ## Desarrollo
-1. Desde cualquier lugar, Akela llama "¡Manada, Manada, Manada!". Todos contestan "¡Manada!" y corren a formar el círculo alrededor de Akela. Si Akela dice "¡Manada!" una sola vez, significa silencio.
-2. A la voz de "Formen el círculo de parada", cada uno se toma de las manos con quienes tiene al lado y tiran hacia afuera hasta formar un círculo grande.
-3. Todos se agachan sobre los talones, con las dos "patas delanteras" en el piso entre los pies y las rodillas abiertas.
-4. Cuando Akela entra al círculo, levantan la cabeza y aúllan todos juntos, estirando cada palabra: "¡A-ke-la! ¡Ha-a-a-re-mos lo me-e-e-jor!". La palabra "mejor" va fuerte, corta y todos a la vez, y al decirla se paran de un salto con dos dedos de cada mano hacia arriba, a los costados de la cabeza, como orejas de lobo.
-5. Con las manos arriba, quien guía grita: "¡Siem-pre, siem-pre, siem-pre, siem-pre!" (en el original, "Dyb-dyb-dyb-dyb", Do Your Best).
-6. Después del cuarto llamado, todos bajan la mano izquierda, dejan la derecha haciendo el saludo y responden "¡Mejor, mejor, mejor, mejor!" (en el original, "Dob-dob-dob-dob", We'll Do Our Best). Después del cuarto, bajan la derecha y quedan en posición de alerta, esperando indicaciones.
-7. Repitan agachándose de nuevo hasta que salga parejo y con ganas.
+**La Roca del Consejo.** En el lugar de reunión se marca un círculo chico de unos tres pasos de ancho, con piedras, estacas o tiza, con el mástil o el tótem de la Manada en el centro. Ese es el Círculo de la Roca.
+
+**El Círculo de Parada.** Con la Manada en el Círculo de la Roca, el dirigente ordena «¡Formen el círculo de parada!». Cada lobato toma de la mano a los de los costados y todos tiran hacia afuera hasta formar un círculo grande. Este círculo se usa para el Gran Aullido, las danzas de la selva y las reuniones.
+
+**El llamado.** Cuando el dirigente grita «¡Manada, Manada, Manada!», todos dejan lo que están haciendo, contestan «¡Manada!» y corren a formar el Círculo de Parada a su alrededor. Si grita «¡Manada!» una sola vez, quiere decir «¡Silencio!»: todos se quedan quietos y escuchan. Solo los dirigentes (los Viejos Lobos) pueden llamar así; el seisenero (el chico que guía una seisena, el grupito de seis) puede llamar a la suya por su color.
+
+**Alerta y descanso.** En «¡Alerta!», el lobato se para derecho, talones juntos, brazos a los costados, pecho adelante, cabeza alta y mirada al frente. En «¡Descanso!», separa los pies, junta las manos atrás y puede mirar alrededor.
+
+**Cómo se hace el Gran Aullido:**
+1. La Manada forma el círculo corriendo (un lobato nunca camina, corre).
+2. Todos se agachan en cuclillas, con las rodillas abiertas y las dos manos («patas delanteras») apoyadas en el piso entre los pies.
+3. Cuando Akela entra al círculo, todos levantan la cabeza y aúllan, estirando cada palabra: «¡A-ke-la! ¡Haaa-reee-mos lo meee-JOR!». La palabra «mejor» se grita corta, fuerte y todos juntos, y en ese momento se ponen de pie de un salto con dos dedos de cada mano hacia arriba, a los costados de la cabeza, como orejas de lobo. Las dos manos significan que el lobato va a hacer lo mejor con las dos manos, no con una sola.
+4. Con las manos arriba, el lobato que guía grita: «¡Dyb, dyb, dyb, dyb!». Son las iniciales, en inglés, de *Do Your Best*: «Hacé lo mejor», que es el lema del lobato.
+5. Después del cuarto «dyb», todos bajan de golpe la mano izquierda, dejan la derecha haciendo el saludo de lobato y contestan: «¡Haremos! ¡Dob, dob, dob, dob!», iniciales de *We'll Do Our Best*: «Haremos lo mejor».
+6. Después del cuarto «dob», bajan la mano derecha, quedan en posición de Alerta y esperan órdenes.
 
 ## Cierre
 - ¿Qué quiere decir hacer lo mejor "con las dos manos", como explica B-P?
@@ -207,41 +216,8 @@ Then every Cub after the fourth "dyb" drops his left hand smartly to his side an
 After the fourth "dob" each Cub drops his right hand smartly to his side and stands at the "Alert" and waits for orders.
 Now squat down again and see how well you can do the Grand Howl to the Old Wolf.
 
-**Versión en español:**
-
-**LA ROCA DEL CONSEJO Y LOS CÍRCULOS**
-Cuando la manada de lobos se reunía en la selva, Akela, el viejo lobo, se paraba sobre una gran roca en el medio, y la manada se sentaba en círculo alrededor.
-Lo mismo con nuestra Manada de Lobatos: podemos marcar la roca con un círculo chico de piedras, de estacas o con tiza, así: [diagrama]
-El Círculo de la Roca mide unos tres pasos de diámetro, con el mástil o el Tótem en el centro.
-
-**PARA FORMAR EL CÍRCULO DE PARADA**
-Cuando la Manada está formada en el Círculo de la Roca, el Jefe de Manada da la orden "Formen el círculo de parada", y cada lobato se toma de la mano con los de cada lado y tiran hacia afuera hasta formar un círculo grande.
-Este círculo se usa para el Gran Aullido, para las Danzas de la Selva y para las reuniones.
-
-**LA REUNIÓN DE LA SELVA**
-Estés haciendo lo que estés haciendo, en el momento en que oís el llamado "Manada — Manada — Manada", cada lobato contesta enseguida gritando "¡Manada!" y corre a formar el Círculo de Parada alrededor del Jefe de Manada. Si el Jefe llama "¡Manada!" una sola vez, quiere decir "¡Silencio!", y todos tienen que dejar lo que están haciendo y escuchar.
-Nadie puede llamar "¡Manada!" salvo un Viejo Lobo. El seisenero puede llamar a su seisena por el color de la seisena.
-
-**LA POSICIÓN DE ALERTA**
-Acordate: cuando te ordenan "Alerta", el lobato se para derecho como un soldado, con los talones juntos, las manos a los costados, el pecho adelante, la cabeza alta y los ojos mirando al frente, a ningún otro lado.
-Cuando se da la orden "Descanso", te parás con los pies separados y las manos tomadas detrás de la espalda, y entonces podés mirar alrededor todo lo que quieras.
-
-**EL GRAN AULLIDO**
-Los lobos se sentaban todos en círculo alrededor de la roca del consejo y, cuando Akela, el viejo lobo, jefe de la manada, ocupaba su lugar en la roca, todos levantaban la cabeza y le aullaban su bienvenida.
-Cuando tu Viejo Lobo, Akela —es decir, tu Jefe de Manada u otro dirigente—, llega a la reunión, lo saludás agachándote en círculo como hacen los lobos jóvenes y dándole el Gran Aullido de los Lobatos.
-Así que formen un círculo (¡rápido, un lobato nunca camina, corre!).
-Después agachate sobre los talones, con las dos patas delanteras en el piso entre los pies y las rodillas abiertas hacia los costados, así: [ilustración]
-Entonces, cuando el Viejo Lobo llega a la Manada, los lobos jóvenes levantan la cabeza y aúllan. Pero su aullido significa algo. Quieren darle la bienvenida y, al mismo tiempo, mostrar que están listos para obedecer sus órdenes.
-El llamado de la Manada en todo el mundo es "Haremos lo mejor"; así que cuando tu Jefe de Manada entra al círculo, levantás el mentón y, todos juntos, aullás, haciendo de cada palabra un aullido largo: "¡A-ke-la! — Ha-a-a-re-e-mos lo-o-o me-e-e-JOR". Gritá la palabra "mejor" seca, fuerte, corta y todos juntos; y al mismo tiempo parate de un salto con dos dedos de cada mano apuntando hacia arriba a cada lado de la cabeza, para que parezcan dos orejas de lobo.
-Así se hace. ¿Y qué quiere decir?
-Quiere decir que vas a hacer lo mejor con LAS DOS manos, no con una sola como la mayoría de los chicos, que solo usan la derecha. Tu mejor esfuerzo va a valer el doble que el de cualquier chico común. "Hacé lo mejor" es el lema del lobato.
-Después mantené las dos manos arriba mientras el lobato que guía le grita a la Manada, con toda la voz: "Dyb-dyb-dyb-dyb" (que quiere decir "Hacé lo mejor").
-Entonces cada lobato, después del cuarto "dyb", baja de golpe la mano izquierda al costado y, dejando la derecha en saludo, con dos dedos arriba pero ahora separados haciendo el saludo, chilla "Ha-a-remos" y ladra "Dob-dob-dob-dob" ("Haremos lo mejor").
-Después del cuarto "dob", cada lobato baja de golpe la mano derecha al costado, queda en posición de alerta y espera órdenes.
-Ahora agáchense de nuevo y vean qué tan bien les sale el Gran Aullido al Viejo Lobo.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Knots, Splices and Rope Work - A. Hyatt Verrill (1912)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - empalme
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Knots, Splices and Rope Work"
+  - title: "Knots, Splices and Rope Work (impreso original)"
+    author: "A. Hyatt Verrill"
+    year: 1912
+  - title: "Knots, Splices and Rope Work (versión alternativa en línea)"
     author: "A. Hyatt Verrill"
     year: 1912
     series: "Project Gutenberg, eBook #13510"
@@ -136,23 +140,35 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Empalme Corto y Gaza!
+# Empalme Corto y Gaza
 
 ## Resumen
-Un empalme une dos cuerdas trenzando sus cordones entre sí, sin nudo. Queda más prolijo y casi no engorda la cuerda. Verrill explica el **empalme corto**: se abren las puntas, se enfrentan y cada cordón pasa por debajo de un cordón de la otra cuerda. La **gaza** es lo mismo, pero la punta se dobla y se teje en su propio firme para hacer un ojo fijo. Es un desafío de paciencia para Scouts y mayores.
+Una técnica de cabuyería: unir dos sogas, o hacer un ojo en la punta de una, entrelazando sus cordones en lugar de atar un nudo.
 
 ## Preparación
 1. Prepará la cuerda de tres cordones. Si es sintética, sellá las puntas de los cordones con calor después de abrirlas (con supervisión adulta).
 2. Probá vos el empalme antes, para poder ayudar.
 
 ## Desarrollo
-1. Abrí unos 15 cm de la punta de cada cuerda y atá con hilo donde termina la parte abierta, para que no siga abriéndose. Atá o encintá la punta de cada cordón.
-2. Enfrentá las dos cuerdas de modo que los cordones de una queden intercalados con los de la otra.
-3. Con el pasador, abrí un cordón de la otra cuerda y pasá por debajo el primer cordón: pasa por encima del cordón que tiene al lado y por debajo del siguiente. Seguí con los otros dos cordones.
-4. Hacé lo mismo del otro lado. Repetí dos o tres pasadas en cada lado, siempre «por encima de uno, por debajo del siguiente».
-5. Para afinar, cortá la mitad de las hebras de cada cordón antes de la última pasada. Apretá, hacé rodar el empalme bajo la mano y cortá las puntas.
-6. Gaza: abrí la punta de una cuerda, doblala para formar un ojo del tamaño que quieras y tejé los cordones en el propio firme, igual que en el empalme.
-7. Prueba: tirá fuerte entre dos personas. ¿Aguanta?
+**Para qué sirve.** Un empalme queda más prolijo que un nudo y, cuando la soga tiene que pasar por una roldana o una polea, muchas veces es la única forma de unir dos sogas o arreglar una que se cortó. Con práctica, se hace casi tan rápido como un nudo.
+
+**Términos:** los *cordones* son las tres partes retorcidas que forman la soga; las *hebras* son los hilos que forman cada cordón; *ligar* es atar con hilo fino para que algo no se abra; el *pasador* es un punzón de madera o metal para abrir los cordones (sirve también un palo con punta); el *firme* es la parte larga de la soga, la que no se está trabajando.
+
+**Empalme corto:**
+
+1. Destorcé la punta de cada soga unos 10 a 15 centímetros. Justo donde termina la parte destorcida, ligá con hilo para que no se siga abriendo, y ligá también la punta de cada cordón para que no se deshilache. Si tenés, pasales grasa o cera para que queden lisos.
+2. Enfrentá las dos puntas de modo que los cordones de una soga se intercalen con los de la otra, como los dedos de dos manos que se entrelazan.
+3. Con el pasador, abrí un cordón de la segunda soga y pasá por debajo un cordón de la primera. Hacé lo mismo con el segundo y el tercer cordón.
+4. Ahora hacé lo mismo al revés: abrí los cordones de la primera soga, debajo de la ligada, y pasá por ahí los cordones de la segunda.
+5. Destorcé un poco los seis cordones que quedan sueltos, cortá más o menos la mitad de las hebras de cada uno y ligá de nuevo las puntas.
+6. Pasá estos cordones afinados por debajo de los cordones enteros de la otra soga, dos o tres vueltas más.
+7. Apretá todo lo más fuerte que puedas y cortá las puntas que sobresalen.
+
+Si querés un empalme muy prolijo, andá afinando los cordones de a poco a medida que avanzás: así queda apenas más grueso que la soga.
+
+**La dificultad:** lograr que nunca pasen dos cordones por debajo del mismo cordón de la otra soga. La regla del original es que el primer cordón pasa por encima del cordón que tiene al lado, por debajo del siguiente y sale entre ese y el que sigue. En las pasadas siguientes, cada cordón pasa por encima de uno y por debajo del próximo. Conviene mirarlo en un dibujo o que alguien lo muestre.
+
+**Gaza (ojo empalmado):** se hace igual que el empalme corto, pero con una sola soga. Se destuerce la punta, se dobla formando un ojo del tamaño que quieras y los cordones se pasan por entre los cordones del firme de la misma soga.
 
 ## Cierre
 - ¿Qué ventajas tiene un empalme frente a un nudo?
@@ -211,16 +227,8 @@ short splice, but instead of splicing the two ends together, the end
 of the rope is unlaid and then bent around and spliced into its own
 strands of the standing part, as shown in the illustration.
 
-**Versión en español:**
-
-En muchos casos, empalmar es más útil y mejor que atar o unir cuerdas con nudos, y un buen empalme siempre se ve más prolijo y marinero que un nudo, por bien hecho que esté. Alguien que sabe empalmar hace un empalme casi tan rápido como una persona común ata un nudo seguro, y en muchos casos, cuando la cuerda tiene que pasar por roldanas o motones, el empalme es imprescindible para unir dos cuerdas o las dos partes de una cuerda cortada. El más simple de todos los empalmes se llama «empalme corto» (Fig. 106). Se hace así: destorcé las puntas de la cuerda unos centímetros y atalas con hilo para que no se sigan abriendo, como se ve en *A*, *A*; atá también la punta de cada cordón para que no se deshilache, y engrasá o encerá los cordones hasta que queden lisos y parejos. Ahora juntá las dos puntas de las cuerdas como se ve en *B*, *B*. Después, con un pasador o un palo con punta, abrí el cordón 1 *c* y pasá por ahí el cordón *A* de la otra cuerda; después abrí el cordón 2 y pasá por él el siguiente cordón de la otra cuerda, y lo mismo con el tercer cordón. A continuación abrí los cordones de la otra cuerda, debajo de la atadura, y pasá los cordones de la primera cuerda como antes, 3 *A*, *B*. Las cuerdas se verán ahora como en la Fig. 106, *D*. Ahora destorcé los seis cordones, cortá más o menos la mitad de las hebras de cada uno y atá las puntas como antes; pasá estos cordones afinados por debajo de los cordones enteros de la cuerda (los de la izquierda por debajo de los de la cuerda de la derecha, y al revés) durante dos o tres vueltas, y después cortá las puntas que sobresalen, después de apretar todo lo más que puedas. Si querés un empalme muy prolijo, afiná los cordones de a poco a medida que avanzás; así queda un empalme apenas más grueso que la cuerda original. La única dificultad que vas a encontrar al hacer este empalme es lograr que los cordones se junten de modo que dos cordones no pasen por debajo del mismo cordón de la otra cuerda. Para evitarlo, recordá que *el primer cordón tiene que pasar por encima del cordón que tiene al lado, por debajo del segundo y salir entre el segundo y el tercero*. En las pasadas siguientes los cordones pasan *por encima* del tercero y *por debajo* del cuarto; pero las figuras lo dejan perfectamente claro.
-
-[…]
-
-Una «gaza» (Fig. 108) es muy fácil de hacer y es útil y práctica de muchísimas maneras. Se hace igual que el empalme corto, pero en vez de empalmar dos puntas entre sí, la punta de la cuerda se abre, se dobla y se empalma en los cordones de su propio firme, como se ve en la ilustración.
-
 ---
-**Fuente:** A. Hyatt Verrill, en *Knots, Splices and Rope Work* (A. Hyatt Verrill, 1912). Dominio público. Texto tomado de Project Gutenberg, eBook #13510: https://www.gutenberg.org/ebooks/13510
+**Fuente:** A. Hyatt Verrill, en *Knots, Splices and Rope Work* (A. Hyatt Verrill, 1912), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #13510: https://www.gutenberg.org/ebooks/13510
 
 **Traducción:** Fogata de Recursos (2026).
 

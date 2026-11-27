@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - escucha
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -132,12 +136,23 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Contar las Palabras!
+# Contar las Palabras
 
 ## Resumen
-Alguien lee en voz alta media página de un libro, a velocidad normal. Los demás tratan de contar las palabras mientras escuchan. Gana quien más se acerca al número real. B-P comenta que sorprende lo distintas que salen las estimaciones.
+Un juego tranquilo de atención y cálculo, para hacer en el local o en un fogón.
 
 > **Nota para el educador:** antes de jugar, contá las palabras del texto. Es un buen ejercicio de concentración para cortar la energía antes de una charla.
+
+## Desarrollo
+1. Alguien lee en voz alta media página de un libro, a una velocidad normal, ni muy rápido ni muy lento.
+2. Mientras lee, todos los demás tratan de contar cuántas palabras dice, sin anotar y sin mirar el texto.
+3. Al terminar, cada uno dice su número. Después se cuentan las palabras de verdad en el libro.
+
+**Cómo se gana:** gana el que dijo el número más cercano al real. Vas a ver que los cálculos de unos y otros son sorprendentemente distintos.
+
+## Cierre
+- ¿Quién se acercó más al número real? ¿Qué truco usó para contar?
+- ¿Les costó contar y entender lo que se leía al mismo tiempo?
 
 ## Texto original completo de la actividad
 
@@ -149,12 +164,8 @@ members of the company try to count his words. The persons who comes the
 nearest to the truth in his estimate is judged the victor. It is
 astonishing how widely these estimates vary.
 
-**Versión en español:**
-
-**CONTAR LAS PALABRAS.** Que alguien lea en voz alta media página de un libro, pronunciando las palabras con rapidez moderada. Mientras lee, los presentes tratan de contar sus palabras. Gana quien más se acerca a la verdad con su estimación. Es asombroso lo mucho que varían estas estimaciones.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campamento Limpio, sin Dejar Rastro"
+title: "Higiene del Campamento"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/campamento-limpio-sin-dejar-rastro/"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - higiene
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -149,18 +153,30 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Campamento Limpio, sin Dejar Rastro!
+# Higiene del Campamento
 
 ## Resumen
-Hace un siglo, el manual ya pedía algo que hoy se llama «No Dejar Rastro»: *«Sea que acampes solo para almorzar o todo el verano, no dejes ningún rastro de que estuviste ahí»*. Algunos de sus métodos eran quemar latas, enterrar botellas y echar querosén en el pozo de basura. Hoy están mal. Otros siguen vigentes, como ubicar la letrina más abajo y lejos del agua, taparla con tierra y dejar el lugar más limpio que como lo encontraste. La patrulla lee el texto, separa lo que sigue vigente de lo que cambió y arma las reglas de higiene de su propio campamento.
+Un texto de época sobre cómo mantener limpio el campamento y dejar el lugar como lo encontramos. La idea central sigue vigente; algunos métodos de 1920 hoy se hacen distinto, y se indica cuáles.
 
 ## Desarrollo
-1. Leé el texto original por partes. Después de cada parte, la patrulla dice: «¿sigue igual, cambió o se prohíbe?».
-2. Hagan dos columnas en un afiche: «Igual que en 1920» (letrina lejos del agua y más abajo, tapar con tierra, no dejar rastro, apagar bien el fuego) y «Hoy lo hacemos distinto» (no se quema ni se entierra basura: se separa y se lleva; no se usan químicos en pozos).
-3. Midan con una soga 60 metros desde el agua: es la distancia mínima para la letrina y para lavar.
-4. Si el campamento no tiene baños, armen la letrina siguiendo las normas del lugar y con supervisión adulta.
-5. Al final del campamento, pasen en línea por todo el terreno juntando hasta el último papelito.
-6. Dejen anotadas las reglas de higiene acordadas para el próximo campamento.
+**La idea.** El original dice que no hay nada más limpio y sano que un bosque que nadie estropeó, y pocas cosas más feas que un campamento «chancho», con aguas sucias tiradas, latas y botellas rotas por el suelo y restos de comida pudriéndose al sol y llenándose de moscas, que después contagian enfermedades. El autor cuenta que vio un lugar hermoso convertido en pocos meses en un foco de enfermedades por un grupo de hacheros descuidados.
+
+**Los residuos:**
+1. Los restos de comida que atraen moscas se sacan enseguida del campamento.
+2. El original indicaba quemar la basura de la cocina, quemar las latas vacías y tirarlas a un pozo para la basura, tapado con tierra para que no se críen mosquitos después de la lluvia, y echarle querosén al pozo o quemarlo seguido. Ese pozo iba del lado de abajo del campamento, donde no pudiera contaminar el agua.
+3. **Hoy se hace distinto:** no se quema ni se entierra la basura. Todo lo que se lleva al campamento se vuelve a llevar al terminar: latas, botellas, papeles, plásticos y restos de comida van en bolsas a un lugar donde los recojan.
+
+**La letrina:**
+1. Una de las primeras tareas al llegar es cavar la zanja de la letrina y armarle un cerramiento alrededor, con arbustos, una lona o un pequeño reparo.
+2. Va más abajo que el campamento, lejos del agua, del lado contrario al que viene el viento, y a unos 60 metros de las carpas de dormir y de la cocina.
+3. Las zanjas se cavan de unos 1,20 m de largo, 30 cm de ancho y 60 cm de profundidad. Se calcula unos 15 cm de largo por persona por día.
+4. Después de cada uso se tapa con tierra suelta. El original dice que la cal no aleja a las moscas: es mejor mucha tierra.
+5. Al levantar el campamento, todas las zanjas se rellenan y se les vuelven a poner los panes de pasto encima.
+
+**Antes de irse:**
+1. Asegurarse por completo de que el fuego quedó apagado.
+2. Recorrer el lugar y juntar todo: papeles, hilos, latas, botellas, restos de comida.
+3. El original propone imitar a los animales, que escarban la tierra y tapan lo que dejan, y ser por lo menos tan limpios como ellos. La meta: que no quede ninguna señal de que estuvimos ahí, ni para un almuerzo ni para todo un verano.
 
 ## Cierre
 - ¿Qué les sorprendió del texto de hace cien años?
@@ -236,42 +252,8 @@ _Be absolutely certain that you have extinguished your fire._
 You should take pride in leaving your camp site so clean that not one
 evidence of your camping remains except the ashes of the fire.
 
-**Versión en español:**
-
-**Higiene del campamento**
-
-«No hay nada más limpio, más dulce y más sano que un bosque que el hombre no estropeó, y pocos lugares son más repugnantes que un campamento "chancho", con aguas sucias tiradas por todos lados, latas vacías y botellas rotas desparramadas por el suelo, y restos orgánicos pudriéndose al sol, criando microbios que después reparten los enjambres de moscas. Vi uno de los jardines de la naturaleza, un lugar de descanso ideal, convertido en pocos meses por una cuadrilla de hacheros en una abominación y un foco de peste donde la tifoidea y la disentería se vengaron de forma mortal.
-
-»*Destruí enseguida todos los residuos que atraigan moscas.* O enterralos donde no puedan llegar.
-
-»El fuego es el desinfectante absoluto. Quemá todos los residuos sólidos de la cocina a medida que se juntan. Cuando se vacía una lata de comida, tirala al fuego y quemala, después echala en un pozo que hayas cavado para las aguas sucias y la basura que no se quema, y tapala con tierra o ceniza para que no se críen mosquitos ahí después de una lluvia.
-
-»El pozo tiene que estar del lado de abajo del campamento, donde no pueda contaminar el agua. Echale querosén o quemalo seguido con un fuego de ramas. * * *»
-
-**La letrina**
-
-Una de las primeras tareas del campamentista es cavar una zanja para la letrina y ponerle una mampara alrededor. La letrina tiene que estar más abajo que el campamento, lejos del agua y del lado opuesto al que llegan los vientos dominantes, a unos sesenta metros de las carpas de dormir y del comedor. Como mampara y reparo se pueden usar arbustos o un toldo. Un pequeño cobertizo sirve muy bien. Cavá zanjas de un metro veinte de largo, treinta centímetros de ancho y sesenta de profundidad. Calculá quince centímetros de largo por día por scout. Tapá con tierra fresca después de usarla. Es indispensable rellenar y volver a cubrir con pasto todas las zanjas que se caven. Sea que acampes solo para almorzar o todo el verano, no dejes ningún rastro de que estuviste ahí. Acordate de los animales, que escarban la tierra y tapan lo que dejan, y sé por lo menos tan limpio como ellos.
-
-La cal no aleja las moscas. Es mejor mucha tierra fresca.
-
-[…]
-
-**La limpieza**
-
-*¡Esto es importante!* Si dejás tu lugar de campamento lleno de latas, papeles, etc., le vas a arruinar ese lugar a los próximos campamentistas.
-
-Quemá todos los papeles y piolines.
-
-Enterrá las latas y las botellas vacías.
-
-Enterrá los restos de comida y la basura.
-
-*Asegurate por completo de haber apagado el fuego.*
-
-Tenés que estar orgulloso de dejar tu lugar de campamento tan limpio que no quede ninguna prueba de que acampaste ahí, salvo las cenizas del fuego.
-
 ---
-**Fuente:** Horace Kephart, Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 
