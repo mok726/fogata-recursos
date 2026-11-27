@@ -27,7 +27,8 @@ age_group:
   - "scouts"
 
 # ========== LOGÍSTICA ==========
-materials: []
+materials:
+  - "Un silbato"
 tools: []
 responsible:
   - "Scouter"
@@ -129,21 +130,21 @@ rama_rovers:
 
 # La Rueda que Gira
 
-## De qué se trata
-Se forma una ronda doble. Los de adentro se agarran de las manos; los de afuera ponen las manos en los hombros del que tienen adelante. Todos giran hacia la derecha saltando, mirando al centro. Cuando suena el silbato, los de afuera tienen que pasar enseguida al compañero siguiente, sin que la ronda se detenga.
+## Resumen
+Se forma una ronda doble. Los de adentro se agarran de las manos; los de afuera ponen las manos en los hombros del que tienen adelante. Todos giran hacia la derecha saltando, mirando al centro. La ronda de afuera tiene un jugador de más. Cuando suena el silbato, los de afuera tienen que pasar enseguida al compañero siguiente, sin que la ronda se detenga, y el que se queda sin lugar pasa al centro a dar las órdenes.
 
-## Cómo se juega
-1. Formen una ronda doble: una ronda adentro y otra afuera, cada uno detrás de un compañero.
-2. Los de adentro se agarran de las manos. Los de afuera apoyan las manos en los hombros del de adelante.
-3. A la orden, todos giran hacia la derecha, de costado y saltando, mirando siempre al centro.
-4. Cuando suena el silbato, los de afuera sueltan y se pasan al siguiente compañero de la derecha, sin que la ronda se frene.
+## Desarrollo
+1. Formen una ronda doble: una ronda adentro y otra afuera. La ronda de afuera tiene un jugador más que la de adentro: cada uno de afuera se para detrás de un compañero de adentro, y el que sobra se queda suelto, en un hueco de la ronda de afuera.
+2. Los de adentro se agarran de las manos. Los de afuera apoyan las manos en los hombros del de adelante; el suelto acompaña la ronda sin agarrarse de nadie.
+3. El que dirige se para en el centro con el silbato. A la orden, todos giran hacia la derecha, de costado y saltando, mirando siempre al centro.
+4. Cuando suena un silbato, todos los de afuera, también el suelto, sueltan y corren a ponerse detrás del siguiente compañero de la derecha, sin que la ronda se frene.
 5. Con dos silbatos, se cambia el sentido de giro.
-6. Si alguien se queda sin lugar, pasa adentro a dar las órdenes.
+6. Como afuera hay un jugador más que lugares, en cada cambio alguien se queda sin compañero adelante. Ese jugador pasa al centro, toma el silbato y da las órdenes. El que estaba en el centro se suma a la ronda de afuera como el nuevo jugador suelto.
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para no chocarse?
 
-## Notas para educadores
+## Notas para el educador
 - Con música o una canción, queda como una danza de fogón.
 
 ---

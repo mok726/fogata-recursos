@@ -131,22 +131,22 @@ rama_rovers:
 
 # Mensajeros Sigilosos
 
-## De qué se trata
+## Resumen
 Cuatro mensajeros de una patrulla se ubican en distintos puntos del salón. Los demás se sientan en el medio como vigías. El que dirige le dice un mensaje al primer mensajero, que lo lleva arrastrándose hasta el segundo, como si estuviera acechando, y se lo susurra. Así hasta el último. Los vigías anotan cada ruido. Gana la patrulla que llega con el mensaje exacto y con menos ruidos.
 
-## Cómo se juega
-1. Cuatro mensajeros se reparten por el salón, lejos entre sí.
-2. El resto de las patrullas se sienta en el centro: son los vigías.
-3. El que dirige le susurra al primer mensajero: «Los yaguaretés cruzan el río antes del amanecer».
+## Desarrollo
+1. Las patrullas juegan por turnos. En cada turno, una patrulla elige a cuatro mensajeros, y esos cuatro se reparten por el salón, lejos entre sí.
+2. El resto de las patrullas se sienta en el centro: son los vigías. Cuando termina el turno, juega la patrulla siguiente y la que jugó pasa a ser vigía.
+3. El que dirige le susurra al primer mensajero un mensaje, que es distinto para cada patrulla. Por ejemplo: «Los yaguaretés cruzan el río antes del amanecer».
 4. El mensajero va hasta el segundo arrastrándose o en cuatro patas, en silencio, y le susurra el mensaje.
-5. Cada vez que un vigía escucha un ruido, levanta la mano y se anota un punto en contra.
+5. Cada vez que un vigía escucha un ruido, levanta la mano, y la patrulla que está jugando se anota un punto en contra.
 6. El último mensajero dice el mensaje en voz alta. Se compara con el original.
 7. Gana la patrulla con el mensaje más exacto y menos puntos en contra. Importa más el silencio y la exactitud que la velocidad.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte del mensaje se perdió? ¿En qué momento?
 
-## Notas para educadores
+## Notas para el educador
 - Para cada patrulla, un mensaje distinto pero del mismo largo y con alguna palabra que se pueda confundir («tres» y «trenes»).
 
 ---

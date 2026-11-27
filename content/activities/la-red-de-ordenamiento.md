@@ -139,19 +139,30 @@ rama_rovers:
 
 # La Red de Ordenamiento
 
-## De qué se trata
-Las computadoras a veces ordenan muchas cosas al mismo tiempo, en paralelo. Para verlo, se dibuja en el piso con tiza una red de ordenamiento para seis personas: seis caminos que se cruzan en círculos. Cada uno lleva un número. Caminan por la red y en cada círculo se encuentran dos: comparan, el más chico sale por la izquierda y el más grande por la derecha. Al final de la red, todos salen ordenados, sin importar cómo entraron.
+## Resumen
+Las computadoras a veces ordenan muchas cosas al mismo tiempo, en paralelo. Para verlo, se dibuja en el piso con tiza una red de ordenamiento para seis personas: seis caminos que se juntan de a dos en círculos, que se llaman nodos. Cada uno lleva un número. Caminan por la red y en cada círculo se encuentran dos: comparan, el más chico sale por la izquierda y el más grande por la derecha. Al final de la red, todos salen ordenados, sin importar cómo entraron.
 
 ## Preparación
-1. Dibujá en el piso la red de ordenamiento para seis (el modelo está en la página de CS Unplugged). Que sea grande: cada círculo a unos dos pasos del siguiente.
+1. Dibujá con tiza, en un extremo del espacio, una fila de seis casillas de entrada, una al lado de la otra y separadas por un metro. Numeralas del 1 al 6, de izquierda a derecha, mirando hacia donde se va a caminar.
+2. Del otro lado, a unos 12 metros, dibujá seis casillas de salida iguales, también numeradas del 1 al 6 de izquierda a derecha.
+3. Uní cada casilla de entrada con la de salida del mismo número con una línea recta: son los seis caminos.
+4. Ahora dibujá los nodos. Un nodo es un círculo grande puesto entre dos caminos: los dos caminos se desvían hacia el círculo, se juntan ahí y vuelven a salir hacia sus lugares. En el nodo, el que tiene el número menor sigue por la salida de la izquierda (el camino de número más bajo) y el que tiene el número mayor sigue por la de la derecha (el camino de número más alto).
+5. Los nodos van en cinco filas, separadas por unos dos pasos. En cada fila, los caminos que no tienen nodo siguen derecho:
+   - Fila 1: un nodo entre los caminos 1 y 2, otro entre el 3 y el 4, y otro entre el 5 y el 6.
+   - Fila 2: un nodo entre el 1 y el 3, otro entre el 2 y el 5, y otro entre el 4 y el 6.
+   - Fila 3: igual que la fila 1 (1 con 2, 3 con 4 y 5 con 6).
+   - Fila 4: un nodo entre el 2 y el 3, y otro entre el 4 y el 5. Los caminos 1 y 6 siguen derecho.
+   - Fila 5: un solo nodo, entre el 3 y el 4.
+6. En la fila 2 algunas líneas se cruzan sin que haya un círculo. Ahí no pasa nada: cada uno sigue por su línea. Para que no se confundan, dibujá los nodos bien grandes y, si podés, con otro color de tiza.
+7. En total son 12 nodos. Antes de jugar, probá la red vos con seis tarjetas, para verificar que salen ordenadas.
 
-## Cómo se juega
+## Desarrollo
 1. Seis chicos reciben una tarjeta con un número y se paran en los casilleros de entrada, en cualquier orden.
 2. Caminen por su camino hasta el primer círculo. Ahí se van a encontrar con otro compañero.
-3. Comparen sus números: el más chico sigue por la salida de la izquierda y el más grande por la de la derecha.
+3. Comparen sus números: el más chico sigue por la salida de la izquierda y el más grande por la de la derecha. Si en una fila su camino no tiene nodo, sigan derecho hasta la fila siguiente.
 4. Esperen en cada círculo a que llegue su compañero: no se adelanten.
 5. Sigan hasta el final.
-6. Miren los números al salir: ¿están ordenados?
+6. Cuando todos llegan a las casillas de salida, miren los números: ¿quedaron ordenados de menor a mayor, del 1 al 6?
 7. Prueben con otro orden de entrada, y después contra reloj: ¿qué patrulla lo hace más rápido sin equivocarse?
 
 ### Variante: Palabras
@@ -160,11 +171,11 @@ Usen palabras y ordénenlas alfabéticamente, o tarjetas con fechas de la histor
 ### Variante: Al revés
 ¿Qué pasa si en cada círculo el más grande va a la izquierda?
 
-## Para cerrar
+## Cierre
 - ¿Por qué siempre salen ordenados?
 - ¿Qué tareas se hacen más rápido si las hacen varios a la vez? ¿Cuáles no?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Varias comparaciones ocurren al mismo tiempo en distintos círculos: eso es el «procesamiento en paralelo», que hace que las computadoras actuales sean tan rápidas.
 

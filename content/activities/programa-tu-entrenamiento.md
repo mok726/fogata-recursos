@@ -139,26 +139,26 @@ rama_rovers:
 
 # Programá tu Entrenamiento
 
-## De qué se trata
+## Resumen
 Las computadoras siguen instrucciones escritas en un lenguaje de programación. Cada patrulla inventa el suyo: tarjetas con dibujos de ejercicios (saltar, correr en el lugar, sentadillas, atrapar una pelotita), una tarjeta de «Empezar» y una de «Repetir». Con esas tarjetas arman un programa de entrenamiento y otra patrulla lo tiene que ejecutar al pie de la letra.
 
-## Cómo se juega
+## Desarrollo
 1. Entre todos, piensen ejercicios que se puedan hacer en el lugar: saltos de estrella, correr en el lugar, sentadillas, salto de esquí.
-2. Cada patrulla dibuja una tarjeta por ejercicio, más una de «Empezar» y una de «Repetir ×2» y «Repetir ×3».
-3. Armen un programa: pongan las tarjetas en fila. Por ejemplo: Empezar, 5 saltos, Repetir ×3 (10 pasos corriendo, 2 sentadillas).
+2. Cada patrulla dibuja una tarjeta por ejercicio, con la cantidad de veces (por ejemplo, «5 saltos»). Además prepara una tarjeta de «Empezar», una de «Repetir ×2», otra de «Repetir ×3» y dos de «Fin de repetir».
+3. Armen un programa poniendo las tarjetas en fila, en el orden en que se hacen. Para repetir una parte, pongan una tarjeta de «Repetir» justo antes de los ejercicios que se repiten y una de «Fin de repetir» justo después: todo lo que queda entre esas dos tarjetas se hace las veces que dice la de «Repetir». Por ejemplo: Empezar, 5 saltos, Repetir ×3, 10 pasos corriendo, 2 sentadillas, Fin de repetir. Ese programa quiere decir que se hacen 5 saltos una vez y después tres veces seguidas los 10 pasos corriendo y las 2 sentadillas.
 4. Calculen: ¿cuántos saltos y sentadillas en total va a hacer el que siga el programa?
-5. Cámbienle el programa a otra patrulla. Esa patrulla lo ejecuta exactamente como está.
+5. Intercambien el programa con otra patrulla: cada una ejecuta el programa de la otra exactamente como está escrito.
 6. ¿Hicieron la cantidad que calculaba la patrulla que lo escribió?
 
-## Reglas
+### Reglas
 - Que los ejercicios sean posibles para todos.
 - Nada de programas de 100 flexiones: el usuario es un amigo.
 
-## Para cerrar
+## Cierre
 - ¿Para qué sirve la tarjeta de «Repetir»? ¿Cuántas tarjetas se ahorraron?
 - ¿Qué pasó cuando una tarjeta no se entendía?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Un «bucle» es una parte del programa que se repite. Es una de las ideas más importantes de la programación.
 

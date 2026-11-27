@@ -29,6 +29,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - "Una pelota vieja rellena con trapos o una soga enrollada y atada (que pese uno o dos kilos)"
+  - "Una segunda pelota pesada parecida, que se distinga de la primera (para la carrera con dos pelotas)"
 tools: []
 responsible:
   - "Scouter"
@@ -130,28 +131,30 @@ rama_rovers:
 
 # La Pelota Pesada
 
-## De qué se trata
-Todos en una ronda grande. El primero sostiene la pelota pesada contra el pecho y la empuja con las dos manos hacia el siguiente, que la recibe también contra el pecho. Así da toda la vuelta. Con dos pelotas que arrancan en lados opuestos, gana la que alcanza a la otra.
+## Resumen
+Los jugadores forman una ronda grande. El primero sostiene la pelota pesada contra el pecho y la empuja con las dos manos hacia el siguiente, que la recibe también contra el pecho, y así la pelota da toda la vuelta. Para competir se usan dos pelotas: la ronda se divide en dos equipos, cada equipo tiene su pelota, las dos arrancan en lados opuestos de la ronda y viajan en el mismo sentido. Gana el equipo cuya pelota alcanza a la del otro.
 
 ## Preparación
 1. Armá la pelota pesada: una pelota de fútbol vieja rellena con trapos, o una soga gruesa enrollada en bollo y bien atada.
 
-## Cómo se juega
+## Desarrollo
 1. Formen una ronda grande, con dos pasos entre cada uno.
 2. El primero sostiene la pelota contra el pecho, con los codos abiertos.
 3. La empuja estirando los brazos, hacia el pecho del de al lado.
 4. El que la recibe la frena contra el pecho, flexionando los brazos, y la pasa igual.
 5. Cuando da toda la vuelta, se cambia de sentido.
-6. Con dos pelotas: arrancan en lados opuestos. Gana la mitad de la ronda cuya pelota alcanza a la otra.
+6. Para la carrera con dos pelotas, dividan la ronda en dos mitades: cada mitad es un equipo y tiene su pelota. El primer jugador de cada equipo arranca con la pelota de su equipo, así que las dos pelotas empiezan en lados opuestos de la ronda.
+7. A la orden, las dos pelotas se pasan en el mismo sentido (por ejemplo, las dos hacia la derecha). Cada pelota pasa por todos los jugadores de la ronda, de los dos equipos, y todos tienen que pasar las dos pelotas lo mejor posible.
+8. **Cómo se gana:** gana el equipo cuya pelota alcanza a la otra, es decir, la que llega a las manos de un jugador que todavía tiene la pelota del otro equipo.
 
-## Reglas
+### Reglas
 - Siempre de pecho a pecho, nunca por arriba de la cabeza.
 - El que la va a recibir tiene que estar mirando.
 
-## Para cerrar
+## Cierre
 - ¿Qué músculos trabajaron? ¿Cómo se puede recibir algo pesado sin lastimarse?
 
-## Notas para educadores
+## Notas para el educador
 - Que la pelota no pese más de dos kilos. Un poquito alcanza: cansa rápido.
 
 ---

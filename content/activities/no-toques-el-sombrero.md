@@ -130,24 +130,24 @@ rama_rovers:
 
 # No Toques el Sombrero
 
-## De qué se trata
+## Resumen
 Todos se agarran de las manos en ronda alrededor de un sombrero puesto en el piso. A la orden, tiran y empujan con los brazos para que otro jugador toque el sombrero. El que lo toca, sale. Gana el último.
 
-## Cómo se juega
+## Desarrollo
 1. Pongan el sombrero en el centro y formen una ronda chica alrededor, agarrados de las manos.
 2. A la orden, todos tiran para un lado y para el otro, intentando que otro toque el sombrero con el pie.
 3. El que lo toca sale de la ronda. También sale el que se suelta.
 4. La ronda se vuelve a cerrar y se sigue.
 5. Gana el último que queda.
 
-## Reglas
+### Reglas
 - Se tira de las manos, no se empuja con el cuerpo ni se patea.
 - Nada de tirones bruscos.
 
-## Para cerrar
+## Cierre
 - ¿Qué hicieron para no tocarlo? ¿Se aliaron con alguien?
 
-## Notas para educadores
+## Notas para el educador
 - Con más de diez jugadores, armá dos rondas.
 
 ---

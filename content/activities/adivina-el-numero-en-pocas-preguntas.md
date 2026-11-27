@@ -136,10 +136,10 @@ rama_rovers:
 
 # Adiviná el Número en Pocas Preguntas
 
-## De qué se trata
+## Resumen
 Uno piensa un número del 1 al 100. Los demás preguntan un número y solo pueden recibir tres respuestas: «más alto», «más bajo» o «¡ese!». Si se pregunta al azar, puede tardar muchísimo. Pero si siempre se pregunta el número del medio de lo que queda, nunca hacen falta más de siete preguntas. Así buscan las computadoras en listas ordenadas: se llama búsqueda binaria.
 
-## Cómo se juega
+## Desarrollo
 1. Uno piensa un número del 1 al 100 y lo anota sin mostrarlo.
 2. Los demás, por turno, preguntan un número. El que pensó contesta «más alto», «más bajo» o «¡ese!».
 3. Cuenten cuántas preguntas hicieron falta.
@@ -154,11 +154,11 @@ Uno piensa un número del 1 al 100. Los demás preguntan un número y solo puede
 ### Variante: Diccionario
 Busquen una palabra en un diccionario de papel con la misma estrategia: abrir por la mitad, después por la mitad de la mitad…
 
-## Para cerrar
+## Cierre
 - ¿Por qué partir por la mitad funciona tan bien?
 - ¿Funcionaría si los números estuvieran desordenados?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 
 ---
