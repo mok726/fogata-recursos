@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ha Llegado un Barco Cargado de…"
+title: "El Alfabeto del Barco"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ha-llegado-un-barco-cargado/"
@@ -9,13 +9,13 @@ summary: "Contestar rápido sobre un barco con palabras de una letra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,27 +132,41 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Ha Llegado un Barco Cargado de…
+# El Alfabeto del Barco
 
-## De qué se trata
-El que dirige elige una letra, por ejemplo la M. Después va preguntando en ronda: «¿Cómo se llama el barco?» («La Mariposa»), «¿Cómo se llama el capitán?» («Martín»), «¿A dónde va?» («A Mendoza»), «¿Qué lleva?» («Mandarinas»). Todas las respuestas tienen que empezar con esa letra. El que no contesta rápido o se equivoca pasa al último lugar.
+## Resumen
+Un juego de ronda para pensar rápido palabras con una letra.
 
-## Cómo se juega
-1. Siéntense en ronda. El que dirige dice la letra: «¡Con la M!».
-2. Le pregunta al primero: «¿Cómo se llama el barco?». Tiene que contestar enseguida con algo que empiece con M.
-3. Al segundo: «¿Y el capitán?». Al tercero: «¿A dónde va?». Al cuarto: «¿Qué lleva?». Al quinto: «¿De dónde viene?».
-4. Cuando se terminan las preguntas, se empieza otra vez con otra letra.
-5. El que tarda más de cinco segundos o dice algo que no empieza con la letra, se pasa al último lugar de la ronda.
-6. Gana el que logra quedar en el primer lugar al final.
+## Desarrollo
+1. Los jugadores se sientan en ronda. El que dirige dice una letra, por ejemplo la «M».
+2. Le pregunta al primero: «¿Cómo se llama el barco?». Tiene que contestar enseguida con un nombre que empiece con M: «La Mariposa».
+3. Al segundo: «¿Cómo se llama el capitán?» («Martín»). Al tercero: «¿A dónde va?» («A Mendoza»). Al cuarto: «¿Qué lleva?» («Mandarinas»). Y así siguiendo la ronda, con otras preguntas.
+4. Cuando hace falta, el que dirige cambia la letra.
+5. El que se equivoca o no contesta pasa al último lugar de la ronda.
+
+**Cómo se gana:** gana el que está en el primer lugar al terminar.
 
 ### Variante: El barco del campamento
 Todo lo que lleva el barco tiene que servir para el campamento: con la M, «mochilas», «mate», «mantas».
 
-## Para cerrar
+## Cierre
 - ¿Qué letras fueron las más difíciles?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego conocido en muchos países de habla hispana con distintos nombres. Ideal para esperar el colectivo o la comida.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHIP'S ALPHABET.**
+
+Players in circle. Leader names a letter (say) “C.” He then asks the first player “Name of the ship? “ who answers with any reasonable name starting with “ C.” Second player is asked “Name of the captain? Where to? What cargo? etc., and so on round the circle, the letter being changed as necessary. Any player making a mistake, or failing to reply, goes to the bottom.
+
 ---
-**Fuente:** inspirada en el juego «Ship's Alphabet» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 18, «Ship's Alphabet». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

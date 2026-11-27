@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - tesoro
   - pistas
   - deduccion
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,7 +144,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Manuscrito Roto!
+# El Manuscrito Roto
 
 ## Resumen
 Se esconde un tesoro y se escribe en un papel cómo llegar. El papel se rompe a lo largo por la mitad y cada una de dos patrullas recibe una parte. Con media frase en cada renglón, cada patrulla tiene que deducir el camino. Como en un banco donde cada empleado tiene una llave y hacen falta las dos para abrir la caja fuerte.
@@ -151,11 +154,17 @@ Se esconde un tesoro y se escribe en un papel cómo llegar. El papel se rompe a 
 2. Rompé la hoja a lo largo, a mano y de forma irregular.
 
 ## Desarrollo
-1. Contá la historia: un viejo tesoro de contrabandistas y una llave rota en dos para que nadie la use solo.
-2. Cada patrulla recibe su mitad.
-3. Cada una intenta deducir el recorrido y buscar el tesoro.
-4. Pueden negociar o espiar al otro equipo, pero no sacarle el papel.
-5. Gana quien encuentra el tesoro primero.
+Un juego de búsqueda entre dos patrullas: cada una tiene solo la mitad de las indicaciones para llegar a un tesoro escondido.
+
+**La historia:** en algún lugar de los alrededores hay un escondite secreto donde se cree que unos viejos contrabandistas dejaron un tesoro. La única pista es un papel con las indicaciones para llegar, que se rompió en dos a propósito, por seguridad. Es como en un banco donde dos empleados tienen cada uno una llave y hacen falta las dos juntas para abrir la caja fuerte. Dos grupos consiguieron cada uno una mitad del papel y los dos quieren llegar al tesoro.
+
+1. Antes del juego, el que dirige esconde el «tesoro» en algún lugar de la zona.
+2. En un papel escribe cómo llegar hasta ahí desde el punto de partida: por dónde ir, qué referencias buscar, cuántos pasos dar.
+3. Rompe el papel por el medio, de arriba abajo y de forma irregular, de modo que cada mitad tenga solo la mitad de cada renglón.
+4. Le da una mitad a cada una de las dos patrullas que compiten.
+5. Cada patrulla trata de adivinar las palabras que le faltan, interpretar las indicaciones y encontrar el escondite con lo que tiene.
+
+**Cómo se gana:** gana la patrulla que encuentra primero el tesoro.
 
 ### Variante: Cooperativa
 Las dos patrullas tienen que juntar sus mitades para llegar. Gana el grupo si lo encuentran antes de un tiempo límite.
@@ -172,15 +181,12 @@ Las dos patrullas tienen que juntar sus mitades para llegar. Gana el grupo si lo
 
 A secret hiding, place is known to exist somewhere in the neighborhood, but the only clue to it is a torn piece of paper upon which the key to it was once written. (A description of the way to the spot could be written on a piece of paper, and then the paper torn down the middle roughly, and half given to each of two competing patrols.) The key was torn in two purposely for safety, just as in a bank the two chief clerks each have a key, but it needs both keys together to open the safe. Two parties have got hold of this; key, and each with their half are trying to find the spot, because some old smugglers' treasure is thought to be hidden there.
 
-**Versión en español:**
-
-**EL MANUSCRITO ROTO.**
-
-Se sabe que en algún lugar de los alrededores hay un escondite secreto, pero la única pista para encontrarlo es un trozo de papel roto en el que una vez se escribió la clave. (Se puede escribir en un papel una descripción del camino hasta el lugar, y después romper el papel por el medio de forma irregular y darle una mitad a cada una de dos patrullas que compiten). La clave se rompió en dos a propósito, por seguridad, así como en un banco cada uno de los dos empleados principales tiene una llave, pero hacen falta las dos llaves juntas para abrir la caja fuerte. Dos grupos consiguieron esta clave, y cada uno, con su mitad, trata de encontrar el lugar, porque se cree que ahí está escondido el tesoro de unos viejos contrabandistas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. III (Tracking Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. III (Tracking Games), juego 3: «The Torn Manuscript». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

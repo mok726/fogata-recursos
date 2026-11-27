@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Caza de Espías en Bici"
+title: "Caza de Espías"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/caza-de-espias-en-bici/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bicicleta
   - rastreo
   - persecucion
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,25 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Caza de Espías en Bici!
+# Caza de Espías
 
 ## Resumen
 Dos espías salen en bici dejando un rastro de papel cada unos 90 m. Cuando les conviene, esconden las bicis cerca del camino y siguen a pie, dejando una señal de que dejaron el camino. Tienen que esconderse un cuarto de hora y después recuperar las bicis y volver a la base. Los perseguidores los buscan, intentan encontrar sus bicis y cuidan las propias.
 
 ## Desarrollo
-1. Mostrales a los perseguidores en el mapa el punto donde se vio por última vez a los espías.
-2. Los espías salen y dejan un rastro de papel discontinuo, cada unos 90 m.
-3. Esconden las bicis cerca del camino (conviene seguir un trecho dejando rastro para no delatar el escondite) y dejan una señal de que salieron del camino.
-4. A pie ya no dejan rastro. Tienen que aguantar 15 minutos y volver a la base con las bicis.
-5. Para atraparlos hay que tocarlos, o pasarlos en bici si van pedaleando. Los perseguidores cuidan sus propias bicis.
+Una persecución en bicicleta: dos espías escapan dejando un rastro de papel, y los demás tienen que alcanzarlos.
+
+1. La historia es esta: dos espías escaparon en bicicleta del cuartel. Se los vio por última vez pedaleando por el camino, unos 800 metros más adelante. Ese punto se les muestra en el mapa a los perseguidores, que también van en bicicleta.
+2. Desde ese punto, los espías tienen que dejar un rastro de papel, no continuo, sino cada unos 100 metros.
+3. Como dejar el rastro los demora, seguramente los van a alcanzar pronto. Por eso tienen que elegir un buen lugar junto al camino para esconder sus bicicletas.
+4. Cuando dejan el camino, tienen que marcar con una señal que se fueron del camino. Conviene que antes corran un trecho a pie por el camino, siguiendo con el rastro, para no mostrar dónde quedaron escondidas las bicicletas.
+5. Fuera del camino ya no dejan más rastro. Tienen que mantenerse libres durante un cuarto de hora y después recuperar sus bicicletas y volver al cuartel sin que los atrapen.
+6. Los perseguidores buscan a los espías y, si encuentran sus bicicletas, se las quedan. Al mismo tiempo tienen que cuidar que los espías no les saquen las suyas.
+7. Para capturar a un espía hay que tocarlo de verdad o, si va en bicicleta, pasarlo en el camino.
+
+**Cómo se gana:** los espías ganan si vuelven al cuartel sin ser atrapados; los perseguidores, si los capturan.
+
+Lo ideal es jugarlo con unos diez scouts.
 
 ## Cierre
 - ¿Dónde escondieron las bicis? ¿Cómo las encontraron?
@@ -165,15 +176,12 @@ Dos espías salen en bici dejando un rastro de papel cada unos 90 m. Cuando les 
 
 Two spies have escaped from headquarters on cycles, and were last seen riding at a point about half-a-mile further along the road. (This should be shown on the map to the Scouts who are to give chase on their cycles.) From that point the spies have to leave a paper trail, not continuous, but occurring every hundred yards. The spies, being handicapped by their paper, will probably be soon overtaken, so they must choose a good spot by the road in which to conceal their cycles, and when they leave the road they must leave signs to that effect (they had better run some way along the road still leaving the trail, so as not to show the hiding-place of their cycles to their pursuers). When they have left the road, they need leave no further trail, but their object is to remain at large for a quarter of an hour and then recover their cycles and get back to headquarters without being caught by their pursuers. The pursuers should search for the spies and capture their cycles if they can find them, at the same time guarding their own cycles from being stolen by the spies. To capture the spies the pursuers must actually touch them, or if they are on cycles, ride past them on the road. (About ten Scouts make the beat number for this game.)
 
-**Versión en español:**
-
-**CAZA DE ESPÍAS.**
-
-Dos espías escaparon en bicicleta del cuartel, y se los vio por última vez pedaleando en un punto a una media milla más adelante por el camino. (Esto hay que mostrarlo en el mapa a los scouts que van a perseguirlos en sus bicicletas). Desde ese punto, los espías tienen que dejar un rastro de papel, no continuo, sino cada cien yardas. Los espías, con la desventaja del papel, seguramente serán alcanzados pronto, así que tienen que elegir un buen lugar junto al camino para esconder sus bicicletas, y cuando dejan el camino tienen que dejar señales de que lo hicieron (mejor que corran un trecho por el camino dejando todavía el rastro, para no mostrar a sus perseguidores el escondite de las bicicletas). Una vez fuera del camino, no tienen que dejar más rastro, pero su objetivo es quedar libres durante un cuarto de hora y después recuperar sus bicicletas y volver al cuartel sin ser atrapados por sus perseguidores. Los perseguidores tienen que buscar a los espías y capturar sus bicicletas si las encuentran, cuidando al mismo tiempo de que los espías no les roben las suyas. Para capturar a los espías, los perseguidores tienen que tocarlos de verdad, o si van en bicicleta, pasarlos en el camino. (Unos diez scouts es la cantidad ideal para este juego).
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VI (Cyclists' Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VI (Cyclists' Games), juego 5: «Hunting the Spies». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

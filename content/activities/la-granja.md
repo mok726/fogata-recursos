@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Granja"
+title: "El Corral"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-granja/"
@@ -9,13 +9,13 @@ summary: "Encontrar a tu pareja de animal solo por el ruido."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,25 +133,37 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Granja
+# El Corral
 
-## De qué se trata
-El que dirige reparte papelitos en secreto: dos vacas, dos gallinas, dos perros, dos chanchos, dos patos. A la orden, todos hacen el ruido de su animal y caminan buscando a su pareja. Cuando se encuentran, se sientan juntos. ¡Puede haber un burro solo rebuznando!
+## Resumen
+Un juego de ruidos de animales: cada uno tiene que encontrar a su pareja imitando el sonido que le tocó.
 
-## Cómo se juega
-1. Cada uno recibe un papelito y lo lee sin mostrarlo.
-2. Todos se mezclan por el salón. Si quieren, se vendan los ojos y caminan despacio.
-3. A la orden, todos hacen el ruido de su animal: ¡muuu!, ¡cocoroco!, ¡guau!
-4. Caminan escuchando hasta encontrar a alguien que haga el mismo ruido.
-5. Cuando se encuentran, se agarran de la mano y se sientan.
-6. Las últimas parejas en encontrarse cuentan una adivinanza o hacen una prenda simpática.
+## Desarrollo
+1. Los jugadores se ubican en ronda alrededor del salón.
+2. El que dirige le dice a cada uno, en secreto al oído, el nombre de un pájaro o de un animal: vaca, perro, gallo, pato, gato, oveja… Cada animal se le da a dos jugadores, que forman una pareja sin saberlo.
+3. A la señal, todos hacen el sonido de su animal y caminan por el salón buscando a quien hace el mismo sonido.
+4. Cuando dos jugadores se encuentran, se van a sentar juntos.
+5. Para que sea más divertido, el que dirige puede darle el «burro» a un solo jugador. Ese jugador nunca va a encontrar pareja y se va a quedar solo rebuznando hasta el final.
 
-## Para cerrar
+## Cierre
 - ¿Qué animal fue el más difícil de imitar?
 
-## Notas para educadores
+## Notas para el educador
 - El burro solitario es un chiste del juego original: elegí a alguien que lo disfrute.
 - Sirve para armar parejas para la actividad siguiente.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FARMYARD.**
+
+Players in circle round room are each in secret allotted names of some bird or animal, two players to each animal. On word to go each makes his appropriate noise and tries to find his pair. Pairs, when “found,” go and sit down. Donkey may be allotted to one only, who is therefore left alone braying.
+
 ---
-**Fuente:** inspirada en el juego «Farmyard» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 24, «Farmyard». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pelota Sentados"
+title: "Pelota Empujada"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pelota-sentados/"
@@ -9,13 +9,13 @@ summary: "Hacer goles sin levantarse de la silla."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,21 +134,38 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Pelota Sentados
+# Pelota Empujada
 
-## De qué se trata
-Los jugadores se sientan en dos filas de sillas enfrentadas, a un metro y medio, intercalando a los dos equipos. En cada punta, entre las filas, hay un arquero. Hay que palmear la pelota por el piso para hacerle gol al arquero contrario. Nadie se puede levantar.
+## Resumen
+Un juego de pelota en el que todos juegan sentados: hay que hacer pasar la pelota más allá del arquero del otro equipo, pegándole solo con la mano abierta.
 
-## Cómo se juega
-1. Pongan dos filas de sillas mirándose. Siéntense alternando: uno de cada equipo.
-2. En cada punta del pasillo se sienta un arquero.
-3. El que dirige tira la pelota al medio del pasillo.
-4. Con la mano abierta, palmean la pelota por el piso hacia el arco contrario.
-5. No se puede levantar la cola de la silla ni patear.
-6. Es gol cuando la pelota pasa al lado del arquero contrario. Gana el equipo con más goles.
+## Desarrollo
+1. Se ponen sillas en dos filas, una frente a otra, a unos 1,20 m de distancia, de modo que en el medio quede un pasillo.
+2. Se arman dos equipos y los jugadores se sientan alternados: uno de un equipo, uno del otro, y así. Ningún jugador tiene a un compañero de su equipo sentado al lado.
+3. Cada equipo designa un arquero. Los dos arqueros se sientan uno en cada punta del pasillo.
+4. Se pone en el pasillo una pelota (que se juega por el piso) o un globo.
+5. Cada equipo trata de hacer pasar la pelota más allá del arquero rival, dándole palmadas con la mano abierta.
+6. Nadie se puede levantar de la silla, y a la pelota solo se le puede pegar con la mano abierta: no se vale patearla ni agarrarla.
 
-## Para cerrar
+**Cómo se gana:** cada vez que la pelota pasa al arquero rival es un gol. Gana el equipo que hace más goles.
+
+## Cierre
 - ¿Ayudaba estar sentado entre dos rivales o complicaba?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHOVE BALL.**
+
+Two teams. Players sit in two rows on chairs about 4 feet apart, in such a way that no player has one of his own side on either side of him. Each side appoints a goalkeeper, who sits in the space at the end of the
+
+rows. Each team tries to pat a ball (along the floor) or a balloon past the other side’s goalkeeper. No player may rise from his chair, the ball may only be patted with the open hand.
+
 ---
-**Fuente:** inspirada en el juego «Shove Ball» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 62, «Shove Ball». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

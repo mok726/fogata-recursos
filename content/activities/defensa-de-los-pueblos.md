@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Defensa de los Pueblos"
+title: "De Wet"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/defensa-de-los-pueblos/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bicicleta
   - estrategia
   - gran-juego
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,7 +141,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Defensa de los Pueblos!
+# De Wet
 
 ## Resumen
 Una patrulla hace de asaltantes, otra de guarnición y las otras dos de columna de auxilio. En el mapa se marcan tres "pueblos" que la guarnición cuida de a dos. Si los asaltantes entran a un pueblo, uno de la guarnición va en bici a buscar a la columna de auxilio y el otro vigila. Si los asaltantes se quedan media hora sin que llegue un auxilio más fuerte, el pueblo cae.
@@ -148,11 +151,21 @@ Una patrulla hace de asaltantes, otra de guarnición y las otras dos de columna 
 2. Marcá tres pueblos (más si hay más patrullas) y el lugar central de la columna de auxilio.
 
 ## Desarrollo
-1. La guarnición pone dos jugadores en cada pueblo. La columna de auxilio espera en el centro mirando las señales.
-2. Los asaltantes eligen a qué pueblo ir. Les conviene dividirse y llegar desde direcciones distintas.
-3. Cuando entran a un pueblo, la guarnición se retira: uno va a buscar al auxilio y el otro vigila. A cualquiera de los dos lo pueden capturar dos asaltantes.
-4. Si los asaltantes ocupan el pueblo media hora, cae. Si llega un auxilio más numeroso, tienen que retirarse.
-5. Gana el bando con más pueblos al final.
+Un gran juego en bicicleta, con cuatro patrullas: un grupo de saqueadores trata de tomar pueblos, y los demás los defienden.
+
+El nombre viene de una guerra en Sudáfrica (1899-1902): De Wet era un general bóer famoso por sus ataques rápidos y sorpresivos, y Kitchener el general británico que lo perseguía.
+
+1. Se juega con cuatro patrullas, o se divide la tropa en cuatro partes iguales. Una hace de «De Wet» (los atacantes), otra de guarnición (los guardias de los pueblos) y las otras dos forman la columna de auxilio de Kitchener.
+2. En el mapa se marca una zona con muchos caminos y senderos para andar en bicicleta. Tiene que tener unos 2,5 km² por cada dos scouts de la columna de auxilio.
+3. Se eligen tres lugares, mejor si son pueblos (más si juegan más de cuatro patrullas). La guarnición pone dos scouts en cada uno.
+4. La columna de auxilio se ubica en el centro de la zona y está atenta a las señales de las guarniciones.
+5. Cuando De Wet entra en un pueblo, los dos guardias tienen que retirarse porque son menos. Uno pedalea rápido a buscar a la columna de auxilio; el otro se queda vigilando a De Wet.
+6. A cualquiera de los dos guardias lo pueden capturar dos hombres de De Wet.
+7. Si De Wet ocupa un pueblo durante media hora, el pueblo queda destruido. Pero si se acerca una columna de auxilio más numerosa que él, tiene que retirarse.
+
+**Cómo se gana:** De Wet gana según cuántos pueblos destruye.
+
+**Consejo del original:** para que no lo sigan, a De Wet le conviene dividir su grupo y que todos se reúnan en el pueblo que van a atacar, entrando por lados distintos.
 
 ## Cierre
 - ¿Cómo se comunicaban la guarnición y la columna?
@@ -170,15 +183,12 @@ Una patrulla hace de asaltantes, otra de guarnición y las otras dos de columna 
 
 FOUR patrols can take part in this game, or the force must be divided into four equal parts. One patrol acts as De Wet, one as garrison, and the rest as Kitchener's relief column. An area on the map is marked off, containing about one square mile to every two Scouts in the relief column-and this area should be plentifully supplied with roads and tracks along which cycles can be ridden. Three spots, preferably villages, should be chosen (or a larger number if more than four patrols are taking part); these are to be guarded by the garrison patrol, two Scouts at each spot. De Wet's object is to destroy as many villages as possible. When he enters a village, the two Scouts acting as garrison must retreat before his greater number-one should cycle as fast as he can to fetch the relief column, while the other stays to watch De Wet's movements. Either of them can be captured by any two of De Wet's men. If De Wet can remain in occupation of the village for half an hour the village is destroyed, but he must retreat if a relief column approaches stronger than his force. The relief column should take up its position in the center of the area and look out for signals from the garrisons. De Wet should prevent them following him by dividing his party, giving them instructions to all meet at the village to be attacked, but enter from different directions.
 
-**Versión en español:**
-
-**DE WET.**
-
-Pueden participar cuatro patrullas, o hay que dividir la fuerza en cuatro partes iguales. Una patrulla hace de De Wet, otra de guarnición, y el resto de columna de auxilio de Kitchener. Se marca en el mapa una zona de alrededor de una milla cuadrada por cada dos scouts de la columna de auxilio, y esa zona debería tener muchos caminos y senderos por donde se pueda andar en bicicleta. Se eligen tres lugares, de preferencia pueblos (o más si participan más de cuatro patrullas), que cuidará la patrulla de guarnición, dos scouts en cada lugar. El objetivo de De Wet es destruir la mayor cantidad posible de pueblos. Cuando entra en un pueblo, los dos scouts de la guarnición tienen que retirarse ante su número mayor: uno debe pedalear lo más rápido que pueda a buscar a la columna de auxilio, mientras el otro se queda vigilando los movimientos de De Wet. A cualquiera de los dos lo pueden capturar dos hombres de De Wet. Si De Wet logra ocupar el pueblo durante media hora, el pueblo queda destruido, pero tiene que retirarse si se acerca una columna de auxilio más fuerte que su fuerza. La columna de auxilio debería ubicarse en el centro de la zona y estar atenta a las señales de las guarniciones. De Wet debería impedir que lo sigan dividiendo a su grupo, con la instrucción de que todos se reúnan en el pueblo que se va a atacar, pero entrando desde direcciones distintas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VI (Cyclists' Games), juego 1. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VI (Cyclists' Games), juego 1: «De Wet». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

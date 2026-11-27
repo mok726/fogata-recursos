@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Margarita en la Cinchada"
+title: "Cinchada de Margaritas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-margarita-en-la-cinchada/"
@@ -9,13 +9,13 @@ summary: "Hacer una margarita mientras el otro tira de la soga."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,29 +136,40 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# La Margarita en la Cinchada
-
-## De qué se trata
-Dos jugadores agarran la misma soga, uno de cada punta. A la orden, cada uno intenta hacer una margarita en su mitad de la soga. El otro puede tirar y mover la soga para molestarlo, pero sin dar tirones fuertes. Gana el primero que termina una margarita bien hecha.
+# Cinchada de Margaritas
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
-1. Las parejas agarran la soga, uno de cada punta, y la estiran a medias.
-2. A la orden, los dos empiezan a hacer una margarita en su mitad.
-3. Se puede tirar y mover la soga, siempre suave.
-4. El que termina levanta la mano y no suelta la soga.
-5. El que dirige revisa la margarita. Si está bien, gana. Si está mal, sigue el juego.
+## Resumen
+Un duelo de a dos: cada uno tiene que hacer una margarita en su punta de la soga mientras el otro tira.
 
-## Reglas
-- Nada de tirones fuertes: nadie se puede caer.
+## Desarrollo
+1. La margarita es un nudo que sirve para acortar una soga sin cortarla: se hacen dos pliegues en la soga, formando una especie de «S», y cada punta del pliegue se asegura con una vuelta.
+2. Dos jugadores agarran una soga, cada uno de una punta, como en una cinchada.
+3. A la orden, cada uno trata de hacer una margarita en su lado de la soga antes que el otro.
+4. Se vale tirar, aflojar, sacudir la soga y todo lo que haga falta para que al otro le cueste hacer su nudo.
 
-## Para cerrar
+**Cómo se gana:** gana el primero que termina una margarita bien hecha.
+
+## Cierre
 - ¿Para qué sirve la margarita? ¿Por qué aguanta solo si la soga está tensa?
 
-## Notas para educadores
+## Notas para el educador
 - La margarita es un nudo para acortar sin cortar (ver la ficha Margarita: Acortar sin Cortar). Este juego muestra muy bien que se deshace si la soga se afloja.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHEEPSHANK TUG-OF-WAR.**
+
+Two players hold either end of a rope, each tries to tie a sheepshank in his end before the other. Any amount of pulling, etc., is allowed.
+
 ---
-**Fuente:** inspirada en el juego «Sheepshank Tug-of-War» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 13, «Sheepshank Tug-of-war». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

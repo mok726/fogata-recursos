@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Rosa de los Vientos Humana"
+title: "Puntos Cardinales"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/rosa-de-los-vientos-humana/"
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - orientacion
   - puntos-cardinales
   - brujula
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Rosa de los Vientos Humana!
+# Puntos Cardinales
 
 ## Resumen
 Se arma una estrella de ocho bastones en el piso, con uno apuntando al norte. Cada jugador se para en la punta de un bastón y representa ese punto cardinal. El dirigente nombra dos puntos y esos jugadores cambian de lugar corriendo por afuera del círculo.
@@ -149,11 +152,18 @@ Se arma una estrella de ocho bastones en el piso, con uno apuntando al norte. Ca
 1. Con la brújula, ubicá el norte y armá la estrella de ocho bastones (N, NE, E, SE, S, SO, O, NO). En interior, dibujala con tiza.
 
 ## Desarrollo
-1. Cada jugador se para en la punta de un bastón.
-2. El dirigente nombra dos puntos, por ejemplo "¡Sudeste y Norte!", y esos dos cambian de lugar.
-3. Hay que ir por afuera del círculo, sin cruzar los bastones.
-4. Pierde un punto quien se mueve sin que lo nombren, va a un lugar equivocado o duda. Con tres puntos perdidos sale del juego.
-5. Con los lugares vacíos se pone más difícil. Para avanzados, usá 16 puntos.
+Un juego para aprender los puntos cardinales: los jugadores forman una rosa de los vientos y tienen que cambiar de lugar rápido y sin equivocarse.
+
+1. Se ponen ocho bastones en el suelo en forma de estrella, todos saliendo del mismo centro. Uno de ellos tiene que apuntar exactamente al norte (se puede averiguar con una brújula). En el salón, las líneas se pueden dibujar con tiza en el piso.
+2. Un jugador se para en la punta de afuera de cada bastón. Cada uno representa uno de los ocho puntos principales: norte (N), noreste (NE), este (E), sudeste (SE), sur (S), sudoeste (SO), oeste (O) y noroeste (NO).
+3. El dirigente nombra dos puntos cualquiera, por ejemplo «¡Sudeste y norte!». Los dos jugadores que están en esos puntos tienen que cambiar de lugar enseguida.
+4. Para cambiar de lugar no se pueden cruzar los bastones: hay que ir por afuera del círculo de jugadores.
+5. Pierde un punto el que se mueve sin que lo nombren, el que va a un lugar equivocado o, incluso, el que duda.
+6. El que pierde tres puntos sale del juego. Con el tiempo van quedando lugares vacíos, y eso hace todo un poco más difícil para los que quedan.
+
+**Cómo se gana:** gana el último que queda en la rosa de los vientos.
+
+**Con dieciséis puntos (variante del original):** para hacerlo más difícil se usan dieciséis puntos en vez de ocho (sumando, por ejemplo, nor-noreste, este-noreste, etc.).
 
 ## Cierre
 - ¿Qué puntos les costaron más?
@@ -169,15 +179,12 @@ This game will be found excellent practice in learning the points of the compass
 
 Eight staves are arranged in star fashion on the ground all radiating from the center. One staff should point due North. One Scout now takes up his position at the outer end of each staff, and represents one of the eight principal points of the compass. The Scoutmaster now calls out any two points, such as SE and N., and the two Scouts concerned must immediately change places. Any one moving out of place without his point being named, or moving to a wrong place or even hesitating, should lose a mark. When changing places, Scouts must not cross the staves, but must go outside the circle of players. when three marks have been lost the Scout should fall out. As the game goes on blank spaces will occur. These will make it slightly more difficult for the remaining boys. To make the game more difficult sixteen points may be used instead of eight. When played indoors the lines of the compass may be drawn in chalk on the floor.
 
-**Versión en español:**
-
-**PUNTOS CARDINALES.**
-
-Este juego es una práctica excelente para aprender los puntos de la brújula. Se disponen ocho bastones en el suelo en forma de estrella, todos saliendo del centro. Un bastón tiene que apuntar exactamente al norte. Un scout se ubica en la punta exterior de cada bastón y representa uno de los ocho puntos principales de la brújula. El jefe de tropa nombra dos puntos cualesquiera, por ejemplo SE y N, y los dos scouts correspondientes tienen que cambiar de lugar enseguida. Quien se mueva sin que lo nombren, vaya a un lugar equivocado o incluso dude, debería perder un punto. Al cambiar de lugar, los scouts no pueden cruzar los bastones: tienen que ir por afuera del círculo de jugadores. Cuando un scout pierde tres puntos, sale del juego. A medida que avanza el juego quedarán espacios vacíos, que lo harán un poco más difícil para los que quedan. Para hacerlo más difícil, se pueden usar dieciséis puntos en lugar de ocho. Si se juega en interior, las líneas de la brújula se pueden dibujar con tiza en el piso.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 20. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 20: «Compass Points». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

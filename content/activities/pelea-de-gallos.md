@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - fuerza
   - equilibrio
   - duelo
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,16 +142,25 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Pelea de Gallos!
+# Pelea de Gallos
 
 ## Resumen
 Dos jugadores se ponen en cuclillas, con un bastón pasado por detrás de las rodillas y sostenido con los brazos por delante de las piernas. Así, saltando, cada "gallo" intenta hacer perder el equilibrio al otro.
 
 ## Desarrollo
-1. Cada uno se pone en cuclillas y pasa el bastón por detrás de las rodillas, con los brazos por delante de las piernas sosteniéndolo.
-2. A la señal, los gallos se mueven a saltitos e intentan voltear al otro empujando con el cuerpo.
-3. Pierde el que cae o suelta el bastón.
-4. Se puede armar un torneo por patrullas.
+Un juego de lucha en parejas, muy divertido de mirar: cada «gallo» salta agachado tratando de voltear al otro.
+
+En la forma más común de la pelea de gallos, cada jugador se sienta en el piso con las rodillas dobladas, pasa un bastón por debajo de las rodillas y lo sujeta abrazándose las piernas, con las manos entrelazadas por delante. Así queda «atado» como un ovillo.
+
+En esta forma, que propone el original:
+
+1. Los dos combatientes, en vez de sentarse, se ponen en cuclillas, siempre con el bastón detrás de las rodillas y por delante de los brazos, como en la forma común.
+2. Se ubican frente a frente.
+3. A la señal, cada uno avanza a saltitos y trata de empujar al otro con el cuerpo para hacerle perder el equilibrio.
+
+**Cómo se gana:** gana el gallo que logra voltear a su rival.
+
+**Consejo del original:** es muy cómico ver a cada gallo saltando de un lado a otro; mostrales la postura antes de empezar para que todos la entiendan.
 
 ## Cierre
 - ¿Qué técnica sirvió más: fuerza o equilibrio?
@@ -164,15 +176,12 @@ Dos jugadores se ponen en cuclillas, con un bastón pasado por detrás de las ro
 
 Cock-fighting always proves amusing, and our illustration shows a way of playing the game, which may be new to some of you. Instead of sitting on the floor, with staff under knees and hands clasped round legs in the usual manner, the two combatants get into a squatting position, with the staff held as usual. The picture shows this quite clearly. It is then very comical to see each "cock" hopping about and endeavoring to upset his opponent.
 
-**Versión en español:**
-
-**PELEA DE GALLOS.**
-
-La pelea de gallos siempre resulta divertida, y nuestra ilustración muestra una forma de jugarla que puede ser nueva para algunos de ustedes. En vez de sentarse en el piso, con el bastón debajo de las rodillas y las manos cruzadas alrededor de las piernas como es habitual, los dos combatientes se ponen en cuclillas, sosteniendo el bastón como siempre. El dibujo lo muestra muy claramente. Es muy cómico ver entonces a cada "gallo" saltando de un lado a otro tratando de voltear a su rival.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 8. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 8: «Cock-fighting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Palabra que Falta"
+title: "Palabras que Faltan"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-palabra-que-falta/"
@@ -9,13 +9,13 @@ summary: "Encontrar todas las palabras que completan una frase."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,20 +134,32 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Palabra que Falta
+# Palabras que Faltan
 
-## De qué se trata
-El que dirige lee frases con un hueco: «El scout se lastimó el pie y se fue…». Cada uno escribe todas las palabras que podrían completarla y que tengan sentido: rengueando, despacito, saltando, al botiquín… Gana el que tiene más palabras válidas.
+## Resumen
+Un juego de palabras: hay que completar frases.
 
-## Cómo se juega
-1. Cada uno tiene papel y lápiz.
-2. El que dirige lee la frase dos veces, diciendo «¡piiip!» en lugar de la palabra que falta.
-3. Hay un minuto para escribir todas las palabras que pueden ir en el hueco.
-4. Se leen las listas. Cada palabra que tiene sentido suma un punto; las que nadie más pensó suman dos.
-5. Se sigue con otra frase.
+## Desarrollo
+1. El que dirige lee frases a las que les falta una palabra. Por ejemplo: «El scout se lastimó el pie y se fue…».
+2. Cada jugador escribe una palabra que entre en el hueco, o varias: «sonriendo», «silbando», «rengueando», «al botiquín».
 
-## Para cerrar
+**Cómo se gana:** cada palabra que tenga sentido vale un punto. Gana el que tiene más.
+
+## Cierre
 - ¿Qué palabra los sorprendió? ¿Cambia mucho la frase con cada palabra?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**MISSING WORDS.**
+
+Leader reads out a series of sentences, each with a word missing. Players write down a word that will fit in the blank, or even several alternative words. E.g. “The Scout hurt his foot and ......” Smiled, whistled, limped, died, etc. etc.
+
 ---
-**Fuente:** inspirada en el juego «Missing Words» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 100, «Missing Words». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Dónde Está mi Zapatilla?"
+title: "Carrera del Zapato Perdido"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-mi-zapatilla/"
@@ -9,13 +9,13 @@ summary: "Encontrar tus zapatillas en una montaña y atarlas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,27 +132,42 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¿Dónde Está mi Zapatilla?
+# Carrera del Zapato Perdido
 
-## De qué se trata
-Todos se sacan las zapatillas y se mezclan en una montaña en la otra punta. A la orden, corren en medias, buscan las suyas, se las ponen, se atan bien los cordones y vuelven corriendo a la salida.
+## Resumen
+Una carrera cómica: hay que encontrar los propios zapatos en una montaña de calzado mezclado y ponérselos bien.
 
-## Cómo se juega
-1. Todos se sacan las zapatillas y las llevan a la otra punta. El que dirige las mezcla en una montaña.
-2. Todos se paran en la línea de salida, en medias.
-3. A la orden, corren a la montaña y buscan sus zapatillas.
-4. Se las ponen y se atan los cordones con moño, bien atados.
-5. Vuelven corriendo. Gana el primero que llega con sus dos zapatillas bien atadas.
+## Desarrollo
+1. Antes del día del juego, se avisa a todos que vengan con los zapatos del uniforme o con zapatillas, así todos los pares se parecen bastante.
+2. Todos se sacan el calzado y se lo junta en una pila, bien mezclado, en la otra punta del salón.
+3. Los jugadores se ponen en la línea de salida, descalzos o en medias.
+4. A la señal, todos corren hasta la pila, buscan sus propios zapatos, se los ponen y se los atan bien.
+5. Mientras buscan, no se vale revolear lejos los zapatos de los demás.
+6. Cuando un jugador tiene los dos zapatos puestos y atados, vuelve corriendo a la línea de salida.
 
-## Reglas
-- No se pueden tirar lejos las zapatillas de los demás.
+**Cómo se gana:** gana el primero que vuelve al punto de partida con sus propios zapatos puestos y bien atados.
 
-## Para cerrar
+## Cierre
 - ¿Cómo reconocieron las suyas? ¿Alguno las tenía con nombre?
 
-## Notas para educadores
+## Notas para el educador
 - Ideal para lobatos que están aprendiendo a atarse los cordones.
 - Un buen momento para recordar que en campamento todo va con nombre.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOST BOOT RACE.**
+
+All players are warned to wear uniform boots or shoes (gym. shoes). All these shoes are jumbled in a heap at the end of the room, players race to the heap, and first player to return to the starting-point wearing his own shoes, properly tied, wins.
+
+Other players’ shoes must not be thrown too far afield.
+
 ---
-**Fuente:** inspirada en el juego «Lost Boot Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 44, «Lost Boot Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

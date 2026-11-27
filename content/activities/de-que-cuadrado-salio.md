@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿De Qué Cuadrado Salió?"
+title: "¿Qué Cuadrado?"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-que-cuadrado-salio/"
@@ -9,13 +9,13 @@ summary: "Recordar en qué casillero estaba cada objeto."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,27 +133,40 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¿De Qué Cuadrado Salió?
+# ¿Qué Cuadrado?
 
-## De qué se trata
-Sobre la mesa hay una cuadrícula y en cada casillero, un objeto. Todos miran 45 segundos. Después el que dirige saca todo y va mostrando los objetos de a uno: el primero que diga bien de qué casillero salió, suma un punto.
+## Resumen
+Un juego de memoria visual.
 
-## Cómo se juega
-1. Pongan la cuadrícula en la mesa, con un objeto en cada casillero. Todos alrededor.
-2. Miren 45 segundos sin tocar.
-3. El que dirige saca todos los objetos.
-4. Levanta uno: «¿De qué casillero salió esta llave?».
-5. El primero que levanta la mano y dice el número correcto suma un punto. Cada jugador tiene una sola chance por objeto.
-6. Gana el que suma más puntos.
+## Desarrollo
+1. Sobre una mesa se dibujan varios cuadraditos (con tiza o con cinta) y se pone un objeto chico dentro de cada uno.
+2. Los jugadores miran la mesa durante unos 45 segundos.
+3. Después el que dirige saca todos los objetos de la mesa.
+4. Los muestra de a uno y pregunta: «¿De qué cuadrado salió?».
+
+**Cómo se gana:** el primer equipo o jugador que dice bien de qué cuadrado salió cada objeto suma un punto. Cada jugador tiene un solo intento por objeto. Gana el mejor total.
 
 ### Variante: Más difícil
 Usá una cuadrícula de 5 x 5 con objetos parecidos entre sí, por ejemplo, ocho piedras y ocho hojas distintas.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron para recordar? ¿Armaron una historia, contaron filas, agruparon las cosas?
 
-## Notas para educadores
+## Notas para el educador
 - Es una variante del Juego de Kim que, además del objeto, pide recordar la posición.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHICH SQUARE?**
+
+A number of small squares are marked out on a table, and a small object placed in each; the players look at the table for about ¾ of a minute and then all the objects are moved off the table. Leader holds up each object in turn, and the first team or player to correctly name the square it came out of scores a point. Only one guess per player per object. Best total wins.
+
 ---
-**Fuente:** inspirada en el juego «Which Square?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 90, «Which Square?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

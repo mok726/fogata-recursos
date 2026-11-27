@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Preguntas Scouts"
+title: "Preguntas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preguntas-scouts/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - preguntas
   - cultura-general
   - vida-scout
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,7 +141,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Preguntas Scouts!
+# Preguntas
 
 ## Resumen
 Los scouts se sientan y el dirigente o el guía les hace preguntas por turno: de la zona, de geografía, de vida scout. Cada respuesta correcta suma un punto. B-P dice que no solo pone a prueba lo que saben, sino que les suma información útil e interesante.
@@ -147,10 +150,17 @@ Los scouts se sientan y el dirigente o el guía les hace preguntas por turno: de
 1. Prepará preguntas de tu lugar, como las del original pero actualizadas. Por ejemplo: ¿Cuándo nació Baden-Powell? (22 de febrero de 1857). ¿Por qué el scout usa la flor de lis? ¿Dónde queda la sede de tu organización scout nacional? ¿Qué colectivo o tren te lleva al centro? ¿Cómo se llega desde tu ciudad hasta la capital de tu provincia? ¿Qué pide la especialidad de...?
 
 ## Desarrollo
-1. Se sientan en ronda o en fila.
-2. El dirigente hace una pregunta a cada uno por turno.
-3. Respuesta correcta: un punto. Si no sabe, puede pasar la pregunta al siguiente.
-4. Gana quien suma más puntos.
+Un juego de preguntas de cultura general, ideal para una reunión en el local.
+
+1. Los jugadores se sientan en el piso o en bancos.
+2. El dirigente o el guía de patrulla le hace una pregunta a cada uno, por turno.
+3. Cada respuesta correcta vale un punto.
+
+**Cómo se gana:** gana el que suma más puntos.
+
+**Las preguntas:** el original aclara que cambian según el lugar. A una tropa inglesa de 1921 le preguntaron cosas de su país (qué significa una sigla, en qué línea de tren está una estación, cómo se viaja entre dos ciudades), de las especialidades scouts (qué pide la prueba de la especialidad de Bombero), de la historia scout (cuándo es el cumpleaños de Baden-Powell, por qué el scout usa la flor de lis, dónde está la sede de la asociación scout) y hasta qué tenía la tapa de la última revista scout. Para un grupo de hoy, armá preguntas parecidas pero de tu ciudad, de tu país y de tu grupo scout.
+
+**Consejo del original:** la próxima vez que no sepan qué hacer en el local, prueben este juego. No solo pone a prueba lo que saben, sino que además les suma información útil e interesante.
 
 ### Variante: Por patrullas
 Cada patrulla prepara diez preguntas para la otra.
@@ -167,15 +177,12 @@ Cada patrulla prepara diez preguntas para la otra.
 
 The Scouts all sit down, either on the floor or on forms, and the Scoutmaster or Patrol-leader asks each boy in turn various questions on subjects of general knowledge. A mark is given for each correct answer, and the boy who gains the most marks naturally win the game. The questions would vary, of course, according to locality, but here are some which one troop were asked. What does K.C.B. mean? On what railway is Peterborough Station ? How would you get from London to Torquay ? What is the test for the Fireman's Badge ? When is the Chief Scout's birthday ? When is Trafalgar Day ? Why does a Scout wear the fleur-de-lis ? Where are the Headquarters of the Boy Scouts' Association ? What was last week's cover of THE SCOUT ? Next time you want something to do at your clubroom, try this game. Not only will it test your knowledge, it will also increase your stock of useful and interesting information.
 
-**Versión en español:**
-
-**PREGUNTAS.**
-
-Los scouts se sientan todos, en el piso o en bancos, y el jefe de tropa o el guía le hace a cada chico por turno distintas preguntas de cultura general. Se da un punto por cada respuesta correcta, y el chico que suma más puntos, naturalmente, gana el juego. Las preguntas variarán, por supuesto, según el lugar, pero estas son algunas que se le hicieron a una tropa: ¿Qué significa K.C.B.? ¿En qué ferrocarril está la estación de Peterborough? ¿Cómo irías de Londres a Torquay? ¿Qué pide la prueba de la especialidad de Bombero? ¿Cuándo es el cumpleaños del Jefe Scout? ¿Cuándo es el Día de Trafalgar? ¿Por qué el scout usa la flor de lis? ¿Dónde está la sede de la Asociación de Boy Scouts? ¿Qué tenía la tapa de THE SCOUT de la semana pasada? La próxima vez que no sepan qué hacer en el local, prueben este juego. No solo pondrá a prueba lo que saben, sino que además aumentará su reserva de información útil e interesante.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 15. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 15: «Questions». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

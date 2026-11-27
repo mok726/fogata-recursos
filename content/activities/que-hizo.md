@@ -9,13 +9,13 @@ summary: "Recordar en orden las acciones de un compañero."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,20 +136,32 @@ rama_rovers:
 
 # ¿Qué Hizo?
 
-## De qué se trata
-Un jugador se para en el centro y hace seis o siete acciones simples: camina cinco pasos, saca un lápiz, le saca punta, se sienta en el piso, silba una canción, se ata un cordón. Después se juega un rato a algo movido. Al volver, cada patrulla escribe exactamente qué hizo y en qué orden.
+## Resumen
+Un juego de observación de acciones.
 
-## Cómo se juega
-1. El que dirige le pasa en secreto la lista de acciones a un jugador.
-2. El jugador hace las acciones en el centro, una vez y sin apuro.
-3. Todos juegan cinco minutos a algo movido para distraerse.
-4. Cada patrulla se sienta y escribe todas las acciones, en orden y con detalles.
-5. Se leen los informes y el jugador vuelve a hacer las acciones para comparar.
-6. Gana el informe más completo y en el orden correcto.
+## Desarrollo
+1. Un jugador se para en el centro del salón y hace algunas acciones simples, una detrás de otra. Por ejemplo: camina seis pasos, saca un lápiz, saca el sacapuntas, le saca punta al lápiz, se sienta en el piso y silba una canción.
+2. Durante unos momentos se hace algo que distraiga mucho a todos.
+3. Después, cada equipo o jugador trata de contar exactamente qué hizo y en qué orden.
 
-## Para cerrar
+**Cómo se gana:** gana el informe más exacto.
+
+## Cierre
 - ¿Qué acciones se olvidaron todos?
 - ¿Por qué los testigos de un hecho a veces cuentan cosas distintas?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT DID HE DO?**
+
+One player stands in the centre of the room and makes a few simple actions (e.g. walk six paces, take out pencil, open knife, sharpen pencil, sit on floor, whistle a tune). After a few moments, violent distraction each team or player tries to give an accurate report of what was done.
+
 ---
-**Fuente:** inspirada en el juego «What Did He Do?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 103, «What Did He Do?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

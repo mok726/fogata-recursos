@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera de Carretillas"
+title: "Posta de la Carretilla"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-de-carretillas/"
@@ -9,13 +9,13 @@ summary: "Correr una posta haciendo de carretilla."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,28 +132,39 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Carrera de Carretillas
+# Posta de la Carretilla
 
-## De qué se trata
-La patrulla se divide en parejas. Uno apoya las manos en el piso y el otro lo agarra de las piernas: es la carretilla. Así van hasta una marca y vuelven, y sale la pareja siguiente. A la vuelta cambian de lugar.
+## Resumen
+Una carrera de postas de a dos, en la que uno hace de carretilla y el otro la empuja.
 
-## Cómo se juega
-1. La patrulla se divide en parejas, de tamaño parecido.
-2. La primera pareja se pone en posición: uno con las manos en el piso y el otro lo agarra de las piernas, a la altura de las rodillas.
-3. A la orden, avanzan: la carretilla camina con las manos y el que empuja camina despacio.
-4. En la marca, cambian de lugar y vuelven.
-5. Al llegar, sale la pareja siguiente.
-6. Gana la primera patrulla que termina.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-## Reglas
-- El que sostiene marca el ritmo de la carretilla, nunca más rápido.
-- Si la carretilla dice «¡Pará!», se para.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Enfrente se marca un punto de vuelta.
+2. Uno de la pareja es la carretilla: se pone en el suelo apoyado en las manos. El otro le agarra las piernas, a la altura de los tobillos o las rodillas, y se las sostiene debajo de los brazos, a los costados del cuerpo.
+3. A la señal, la primera pareja de cada equipo avanza así: la carretilla camina con las manos y el compañero la sigue sosteniéndole las piernas.
+4. Van hasta el punto marcado y vuelven, y entonces sale la pareja siguiente.
 
-## Para cerrar
+**Cómo se gana:** gana el primer equipo en el que pasaron todas las parejas.
+
+## Cierre
 - ¿Qué fue más difícil, ser carretilla o empujar?
 
-## Notas para educadores
+## Notas para el educador
 - Armá parejas de peso y tamaño parecidos, y que el recorrido sea corto.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHEELBARROW RELAY.**
+
+Teams in file, players in pairs. One player of each pair walks on his hands, the other holding his legs under his arms. Each pair in turn goes to a given point and back. First team to finish wins.
+
 ---
-**Fuente:** inspirada en el juego «Wheelbarrow Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 42, «Wheelbarrow Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

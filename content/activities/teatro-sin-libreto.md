@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Teatro sin Libreto"
+title: "Obras Improvisadas"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/teatro-sin-libreto/"
@@ -9,13 +9,13 @@ summary: "Actuar una obra improvisada, sin diálogos escritos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,26 +134,38 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Teatro sin Libreto
+# Obras Improvisadas
 
-## De qué se trata
-Cada patrulla piensa una historia corta, con principio, problema y final, y reparte los personajes. No escriben los diálogos: los inventan mientras actúan. Dos de los más grandes llevan la escena para que no se pierda. Con práctica, se puede armar una obra con un solo ensayo.
+## Resumen
+Una obra de teatro improvisada.
 
-## Cómo se juega
-1. La patrulla elige una historia simple. Por ejemplo: «La patrulla llega al campamento y se da cuenta de que se olvidó la carpa».
-2. Divide la historia en tres momentos: el comienzo, el problema y cómo lo resuelven.
-3. Reparte los personajes. Cada uno piensa cómo es el suyo: si es miedoso, mandón, distraído.
-4. Eligen a dos que van a llevar la escena: si la historia se traba, ellos la empujan.
-5. Hacen un ensayo corto, sin escribir nada.
-6. Actúan delante de los demás.
+## Desarrollo
+1. Entre todos se piensa un argumento sencillo: quiénes son los personajes y qué les pasa. Pero no se escriben los diálogos.
+2. Se elige el elenco. Dos de los más grandes llevan la improvisación: van guiando la obra e inventando sobre la marcha.
+3. La obra se representa para divertir a los demás.
 
-## Para cerrar
+**Para qué sirve:** con la práctica, en poco tiempo se va a poder armar una obra así con un solo ensayo y presentarla en un fogón o ante un público de afuera, con éxito.
+
+## Cierre
 - ¿Qué fue lo más difícil de improvisar? ¿Y lo más divertido?
 - ¿Qué hicieron cuando a alguien no se le ocurría qué decir?
 
-## Notas para educadores
+## Notas para el educador
 - Con práctica, esto alimenta los fogones del campamento sin necesidad de preparar libretos.
 - Cuidá que el humor no sea a costa de nadie del grupo.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**IMPROMPTU POTTED PLAYS.**
+
+A plot with the necessary characters is thought out, but no parts are written. A cast is chosen, with two seniors to lead the gagging, and the play is performed to amuse the rest. In a short time it will be possible to put one on with only one rehearsal, for an outside audience, and have a real success.
+
 ---
-**Fuente:** inspirada en el juego «Impromptu Potted Plays» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 79, «Impromptu Potted Plays». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

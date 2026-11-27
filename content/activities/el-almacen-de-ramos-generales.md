@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Almacén de Ramos Generales"
+title: "Negocios"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-almacen-de-ramos-generales/"
@@ -9,13 +9,13 @@ summary: "Correr al negocio correcto con la palabra justa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -125,28 +131,39 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Almacén de Ramos Generales
+# Negocios
 
-## De qué se trata
-Cada dirigente es un negocio: la panadería, la ferretería, la verdulería, la librería. Los jugadores están numerados. El que dirige dice un negocio, una letra, hace una pausa y dice un número. Los que tienen ese número piensan algo que se venda en ese negocio con esa letra y corren a decírselo al dirigente. El primero suma 1 punto, el segundo 2… Gana el que tenga menos puntos al final.
+## Resumen
+Un juego de correr y pensar a la vez.
 
-## Cómo se juega
-1. Cada dirigente se para en un rincón y dice qué negocio es.
-2. Los lobatos se reparten números: puede haber dos o tres con el mismo número, de seisenas distintas.
-3. El que dirige grita: «¡Verdulería… con la P…!», espera un poquito y dice: «¡Tres!».
-4. Los que tienen el número 3 piensan algo de verdulería que empiece con P (papa, pera, puerro) y corren a decírselo al «verdulero».
-5. El primero que llega con una palabra que vale suma 1 punto; el segundo, 2; el tercero, 3.
-6. Gana el que tenga menos puntos al final.
+## Desarrollo
+1. Cada dirigente (o ayudante) se para en un lugar distinto del salón: cada uno es un negocio (almacén, ferretería, librería, verdulería, farmacia…). Los jugadores se ubican alrededor del salón, numerados.
+2. El que dirige dice el nombre de un negocio y una letra, **hace una pausa** y después dice un número. Por ejemplo: «Ferretería… con C… ¡número 3!».
+3. Los jugadores que tienen ese número piensan algo que empiece con esa letra y que se venda en ese negocio («clavos»), y apenas lo tienen, corren hasta el dirigente que es ese negocio y se lo dicen.
+4. El primero que llega con una respuesta correcta se anota 1 punto; el segundo, 2; y así.
 
-## Reglas
-- La pausa antes del número es para que todos piensen, no solo los que van a correr.
-- Si la palabra no vale, se vuelve y se intenta otra.
+**Cómo se gana:** gana el que tiene el total **más bajo** al final.
 
-## Para cerrar
+**Nota del original:** la pausa es fundamental, para que todos piensen y no solo corran.
+
+## Cierre
 - ¿Qué negocios hay en el barrio del local? ¿Cuáles ya casi no se ven?
 
-## Notas para educadores
+## Notas para el educador
 - Podés cambiar los negocios por lugares del campamento: la intendencia, la enfermería, la cocina de patrulla.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHOPS.**
+
+Players round room, all Scouters are various shops. Leader calls out name of shop, a letter, PAUSES, and then a number. Players of that number, as soon as they have thought of something beginning with that letter which is sold by that particular shop, run to that shop and tell the Scouter “in charge.” First scores 1 and second 2, etc. Lowest total at end wins. N.B. The pause is essential to make all think.
+
 ---
-**Fuente:** inspirada en el juego «Shops» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 109, «Shops». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

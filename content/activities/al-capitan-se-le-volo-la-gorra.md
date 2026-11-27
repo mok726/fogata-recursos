@@ -1,21 +1,21 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Al Capitán se le Voló la Gorra"
+title: "El Cura de la Parroquia"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/al-capitan-se-le-volo-la-gorra/"
-description: "Juego de ronda con números y diálogo rápido: el capitán acusa a alguien de tener su gorra y hay que contestar sin trabarse."
+description: "Juego de ronda con números y diálogo rápido: «Al cura de la parroquia se le perdió el sombrero…», y el acusado tiene que contestar sin trabarse."
 summary: "Contestar rápido cuando te nombran en la ronda."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,28 +132,50 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Al Capitán se le Voló la Gorra
+# El Cura de la Parroquia
 
-## De qué se trata
-En ronda, cada jugador tiene un número. El 1 es el Capitán y el 2, el Grumete. El Capitán dice: «Al Capitán se le voló la gorra. Unos dicen esto, otros dicen aquello, pero yo digo que la tiene el 7». El 7 tiene que contestar al instante: «¿Yo? ¡No, señor!». «¿Vos sí, señor!». «¡Yo no, señor!». «¿Y quién, entonces?». «¡El 4!». Y el 4 tiene que seguir. El que tarda baja al último número y todos los demás suben uno.
+## Resumen
+Un juego de ronda con un diálogo que hay que decir sin trabarse.
 
-## Cómo se juega
-1. Siéntense en ronda y numérense: 1 es el Capitán, 2 el Grumete, después 3, 4, 5…
-2. Ensayen el diálogo una vez, todos juntos.
-3. El Capitán arranca: «Al Capitán se le voló la gorra. Unos dicen esto, otros dicen aquello, pero yo digo que la tiene el 7». Y empieza a contar rápido hasta diez.
-4. El 7 contesta: «¿Yo? ¡No, señor!». Capitán: «¡Vos sí, señor!». El 7: «¡Yo no, señor!». Capitán: «¿Y quién, entonces?». El 7: «¡El 4!» (o «¡el Grumete!», o «¡el Capitán!»).
-5. Ahora el diálogo sigue con el 4, que contesta lo mismo.
-6. El que tarda, se traba o dice un número que no existe, pasa al último lugar. Todos los que estaban después de él suben un número… ¡y cambian de número!
-7. La meta es llegar a ser Capitán.
+## Desarrollo
+1. Los jugadores se sientan en ronda y se numeran. El n.º 1 es además «el Cura» y el n.º 2, «el Sacristán».
+2. El Cura empieza: «Al cura de la parroquia se le perdió el sombrero. Unos dicen esto y otros dicen aquello, pero yo digo que lo tiene el n.º 7» (o el número que quiera). Y enseguida empieza a contar rápido hasta diez.
+3. Antes de que llegue a diez, el n.º 7 tiene que contestar: «¿Yo, señor? No, señor».
+4. El Cura: «Sí, señor, usted, señor».
+5. El n.º 7: «Yo no, señor».
+6. El Cura: «¿Quién, entonces, señor?».
+7. El n.º 7 nombra a otro: «El n.º 4» (o «el Cura», o «el Sacristán»). Y ahora el diálogo sigue con el n.º 4.
+8. El que no contesta a tiempo o se traba pasa al último lugar de la ronda. Todos los que estaban después de él suben un lugar y toman el número nuevo, así que hay que estar atento porque los números cambian.
+
+**Cómo se gana:** la meta es llegar a ser el Cura y quedarse ahí.
+
+**Mateo, Marcos (variante del original):** los jugadores en ronda, numerados. Los números 1, 2, 3 y 4 se llaman además Mateo, Marcos, Lucas y Juan. Mateo empieza diciendo: «Mateo al 7». El 7 tiene que decir enseguida: «El 7 al…» y otro número o nombre, y así. El que no contesta enseguida pasa al último lugar y los demás suben, con su número o nombre nuevo.
 
 ### Variante: Animales
 En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡Hornero a Yaguareté!» y el Yaguareté sigue «¡Yaguareté a Carpincho!». El que tarda va al último lugar y todos los demás cambian de animal.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: el diálogo o acordarse del número nuevo?
 
-## Notas para educadores
+## Notas para el educador
 - Como los números cambian todo el tiempo, todos tienen que estar atentos aunque no les toque.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PRIEST OF THE PARISH.**
+
+Players in circle and numbered, Nos. 1 and 2 are also “Priest and Beadle.” Priest starts by saying “The priest of the parish has lost his hat, some say this and some say that, but I say No. (say) 7,” and starts to count ten fast. No. 7 should at once say “No sir, not I sir.” Priest replies “Yes sir, you sir.” No. 7 says “Not I sir.” Priest says “Who then sir ?” No. 7 then passes it on to anyone he likes by number or he may say “priest “ or “beadle.” Any not replying before ten is reached goes to the bottom, all move up and take new numbers.
+
+**MATTHEW, MARK.**
+
+Players in circle numbered from one. Numbers 1, 2, 3, 4, are also Matthew, Mark, Luke and John. Matthew starts by saying “ Matthew to . . . “ (some other number or name) ....... say 7. That one should at once say “7 to .......“ (another number or name); and so on. Any player failing to pick it up at once goes to the bottom, the others move up and take their new numbers or names.
+
 ---
-**Fuente:** inspirada en el juego «Priest of the Parish / Matthew, Mark» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 13, «Priest of the Parish» y n.º 11, «Matthew, Mark». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

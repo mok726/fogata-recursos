@@ -9,13 +9,13 @@ summary: "Correr atados de a dos, al mismo ritmo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,28 +136,46 @@ rama_rovers:
 
 # Carrera de Tres Piernas
 
-## De qué se trata
-Se forman parejas que se paran una al lado de la otra y se atan la pierna de adentro, a la altura del tobillo y de la rodilla. Así corren hasta una marca y vuelven, y sale la pareja siguiente.
+## Resumen
+La clásica carrera de a dos con una pierna atada a la del compañero, como si entre los dos tuvieran tres piernas.
 
-## Cómo se juega
-1. Cada patrulla se divide en parejas.
-2. Cada pareja se ata con pañuelos la pierna de adentro: uno en el tobillo y otro arriba de la rodilla.
-3. Practiquen antes: «¡Pierna atada! ¡Pierna suelta!».
-4. A la orden, la primera pareja corre hasta la marca y vuelve.
-5. Sale la siguiente pareja.
-6. Gana la primera patrulla en la que corrieron todas las parejas.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-### Variante: Muchas piernas
-Toda la patrulla en fila, de costado, cada uno atado a los vecinos. Así tienen que dar una vuelta a un recorrido.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Enfrente se marca un punto de vuelta.
+2. Los dos de cada pareja se paran uno al lado del otro. Se atan juntas las piernas de adentro (la derecha de uno con la izquierda del otro) a la altura de la rodilla y del tobillo, con pañuelos o tiras de tela.
+3. A la señal, la primera pareja corre así, atada, hasta el punto marcado y vuelve.
+4. Cuando llega, sale la segunda pareja, y así hasta que pasaron todas.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todas las parejas.
+
+**Carrera de muchas piernas (variante del original):** cada equipo se para en una fila, todos uno al lado del otro. Cada jugador se ata las piernas, a la altura de la rodilla y del tobillo, con las de los compañeros que tiene a cada costado. Así, atados, todo el equipo corre un recorrido fijado. Gana el primer equipo que termina entero, sin desatarse ni romper la fila.
 
 ### Variante: Cuatro piernas con cucharas
 Tríos atados, y los de las puntas llevan una papa en una cuchara.
 
-## Para cerrar
+## Cierre
 - ¿Qué funcionó mejor: contar en voz alta, mirar los pies o abrazarse?
 
-## Notas para educadores
+## Notas para el educador
 - El juego habla de ponerse de acuerdo: preguntá qué hicieron las parejas que no se cayeron.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**THREE-LEGGED RACE.**
+
+Teams divided into pairs of players, each pair having their inner legs, as they stand side by side, tied together at the knee and ankle. Each pair run to a given point and back in this position, the second pair starting as the first finishes. Team to finish first wins.
+
+**MANY-LEGGED RACE.**
+
+Teams in line, with each player’s legs tied at the knee and ankle to those of the players on either side of him. In this formation they race round a given course. First team to finish intact wins.
+
 ---
-**Fuente:** inspirada en el juego «Three-Legged Race / Many-Legged Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 46, «Three-legged Race» y n.º 47, «Many-legged Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

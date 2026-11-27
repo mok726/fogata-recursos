@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Campanita"
+title: "El Vendedor de Panecillos"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-campanita/"
@@ -9,13 +9,13 @@ summary: "Atrapar al de la campanita con los ojos vendados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,24 +134,33 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Campanita
+# El Vendedor de Panecillos
 
-## De qué se trata
-Todos se vendan los ojos menos uno, que tiene una campanita. Tiene que hacerla sonar sin parar mientras se mueve por el salón, y los vendados intentan tocarlo guiándose por el sonido. El que lo toca, se queda con la campanita.
+## Resumen
+Un juego a ciegas para atrapar a alguien guiándose solo por el oído.
 
-## Cómo se juega
-1. Despejen el salón: nada de sillas ni mesas en el medio.
-2. Todos se vendan los ojos, menos uno, que tiene la campanita.
-3. El de la campanita la hace sonar todo el tiempo y camina por el salón.
-4. Los vendados caminan despacio, con las manos adelante, y tratan de tocarlo.
-5. El que lo toca se saca la venda y se queda con la campanita.
+## Desarrollo
+1. Todos los jugadores menos uno se vendan los ojos y se reparten por el salón.
+2. El jugador que no tiene los ojos vendados lleva una campanita y la tiene que hacer sonar todo el tiempo, sin parar, mientras se mueve por el salón.
+3. Los vendados, guiándose por el sonido, tratan de tocarlo.
+4. El de la campanita trata de escaparse de todos, esquivándolos sin dejar de tocar la campanita.
+5. Cuando alguien lo toca, ese jugador pasa a tener la campanita y el otro se venda los ojos.
 
-## Reglas
-- Se camina, no se corre.
-- Un dirigente sin venda controla que nadie choque contra las paredes.
-
-## Para cerrar
+## Cierre
 - ¿Por qué cuesta tanto saber de dónde viene un sonido?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**MUFFIN MAN.**
+
+All players except one are blindfold, the one has a bell which he must ring continually as he moves about the room trying to avoid being touched by one of the others.
+
 ---
-**Fuente:** inspirada en el juego «Muffin Man» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 22, «Muffin Man». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

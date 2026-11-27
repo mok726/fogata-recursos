@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Esto Me Recuerda a…"
+title: "Recuerdos"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/esto-me-recuerda-a/"
@@ -9,13 +9,13 @@ summary: "Encadenar ideas y después recorrerlas hacia atrás."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,24 +132,38 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Esto Me Recuerda a…
+# Recuerdos
 
-## De qué se trata
-El primero dice: «Pensé en una pava». El siguiente: «Eso me recuerda al mate». El otro: «Eso me recuerda a mi abuela»… Después de una o dos vueltas, el que dirige grita «¡Para atrás!» y, en el mismo orden, cada uno tiene que decir la cadena al revés hasta llegar a la pava.
+## Resumen
+Un juego de memoria en ronda, con ideas encadenadas.
 
-## Cómo se juega
-1. En ronda, el primero dice: «Pensé en…» y una cosa.
-2. El de su derecha dice: «Eso me recuerda a…» y lo primero que se le ocurre.
-3. Se sigue así una o dos vueltas.
-4. El que dirige grita: «¡Para atrás!».
-5. El último que habló repite lo que dijo y dice lo anterior, el siguiente sigue, y así hasta volver a la primera palabra.
-6. El que se olvida o se equivoca pierde una vida. Con tres, sale.
+## Desarrollo
+1. Los jugadores se sientan en ronda.
+2. El primero dice: «Pensé en una pava».
+3. El siguiente dice algo que esa palabra le recuerda: «Eso me recuerda al vapor». El siguiente: «Eso me recuerda a un tren», y así dando la vuelta.
+4. Después de una o dos vueltas, el que dirige dice: «¡Desenrollen!». Entonces, en el mismo orden de la ronda, hay que repetir la cadena al revés, desde la última palabra hasta volver a «pava».
+5. El que se equivoca o se olvida pierde una vida.
 
-## Para cerrar
+**Cómo se gana:** gana el que pierde menos vidas.
+
+## Cierre
 - ¿Qué asociaciones fueron las más raras? ¿Quién las puede explicar?
 
-## Notas para educadores
+## Notas para el educador
 - Las asociaciones dicen mucho de cada uno: si alguna toca algo sensible, seguí sin detenerte en ella.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**REMINDERS.**
+
+Players in circle, one player starts by saying (say) “I've thought of a kettle,” the next might say “That reminds me of steam,” and so on. After one or two rounds the leader says “unwind” and the players in the same order repeat the list from the other end back to “kettle,” any failing losing a life.
+
 ---
-**Fuente:** inspirada en el juego «Reminders» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 102, «Reminders». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

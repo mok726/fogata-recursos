@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Polo de Cucharas"
+title: "Pelota de Piso, o Polo"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/polo-de-cucharas/"
@@ -9,13 +9,13 @@ summary: "Hacer goles sentado en una silla, con una cuchara."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,25 +135,34 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Polo de Cucharas
+# Pelota de Piso, o Polo
 
-## De qué se trata
-Las sillas son los caballos. Cada jugador está sentado y no se puede levantar. Le pega a la pelota con una cuchara de madera para hacer gol en el arco contrario. Prohibido patear.
+## Resumen
+Un polo de salón: los jugadores «montan» en sillas como si fueran caballos y le pegan a una pelota de tenis con una cuchara, como si fuera el taco de polo.
 
-## Cómo se juega
-1. Pongan las sillas mezclando los dos equipos por todo el salón, a un metro unas de otras.
-2. Marquen un arco en cada punta.
-3. Todos se sientan con su cuchara.
-4. El que dirige tira la pelota en el medio.
-5. Le pegan con la cuchara para mandarla al arco contrario. Hay que quedarse siempre sentado.
-6. Gol: la pelota entra en el arco. Gana el equipo con más goles en diez minutos.
+## Desarrollo
+1. Se marca un arco en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
+2. Cada jugador va «montado» en una silla, sentado a caballo, y se desplaza arrastrándola o dando saltitos con ella. Lleva una cuchara en la mano, que es su taco.
+3. Se pone una pelota de tenis en el centro. Los jugadores le pegan con la cuchara para llevarla hasta el arco del otro equipo.
+4. No se permite patear la pelota ni cargar contra los otros, es decir, empujarlos o chocarlos a propósito.
 
-## Reglas
-- No se patea ni se levanta la cola de la silla.
-- La cuchara nunca sube por arriba de la rodilla.
+**Cómo se gana:** gana el equipo que hace más goles.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pasaban la pelota entre compañeros?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FLOOR BALL, OR POLO.**
+
+A goal is marked at each end of the room, each team is mounted on chairs, with a spoon as a polo stick. They try to propel a tennis ball through the other goal. Kicking or charging is not allowed.
+
 ---
-**Fuente:** inspirada en el juego «Floor Ball, or Polo» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 48, «Floor Ball, or Polo». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

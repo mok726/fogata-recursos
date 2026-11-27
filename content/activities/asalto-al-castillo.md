@@ -9,13 +9,13 @@ summary: "Meter a toda la patrulla adentro del castillo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,23 +134,34 @@ rama_rovers:
 
 # Asalto al Castillo
 
-## De qué se trata
-Una ronda agarrada de las manos es el castillo. Una patrulla de afuera tiene que meter a todos sus integrantes adentro, pasando por abajo o entre los brazos, sin romper la ronda a la fuerza. Se toma el tiempo. Después asalta otra patrulla.
+## Resumen
+Un juego de equipos en el que hay que meterse adentro de una ronda que defiende su «castillo».
 
-## Cómo se juega
-1. Todos menos una patrulla forman una ronda agarrada de las manos: es el castillo.
-2. La patrulla asaltante se pone afuera.
-3. A la orden, intentan entrar pasando por abajo de los brazos, cuando la ronda se descuida.
-4. La ronda sube y baja los brazos para defenderse, pero no puede patear, empujar ni achicarse.
-5. Cuando el último de la patrulla está adentro, se para el tiempo.
-6. Cada patrulla asalta por turno. Gana la que entró más rápido.
+## Desarrollo
+1. La mayoría de los jugadores forma una ronda tomados de las manos: son las murallas del castillo.
+2. Un equipo se queda afuera: son los que asaltan.
+3. A la señal, el equipo de afuera trata de meter a todos sus integrantes adentro de la ronda, pasando por arriba o por debajo de los brazos, o metiéndose por donde puedan.
+4. Los de la ronda tratan de impedirlo sin soltarse las manos.
+5. El que dirige toma el tiempo desde la señal hasta que entra el último del equipo.
+6. Después el equipo que asaltó pasa a formar la ronda y sale otro equipo a asaltar. Así hasta que asaltaron todos los equipos.
 
-## Reglas
-- No se rompe la cadena a la fuerza.
-- Nada de tirarse de cabeza: se entra agachado o gateando.
+**Cómo se gana:** gana el equipo que logró meter a todos sus integrantes en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué estrategia usaron? ¿Entraron todos juntos o de a uno?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STORM THE CASTLE.**
+
+Players form a circle, hands joined, one team outside. Team getting all its members in quickest wins. Teams “storm” in turn.
+
 ---
-**Fuente:** inspirada en el juego «Storm the Castle» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 8, «Storm the Castle». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

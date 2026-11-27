@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Anillo Viajero"
+title: "Pasar el Anillo por el Hilo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-anillo-viajero/"
@@ -9,13 +9,13 @@ summary: "Descubrir dónde está el anillo que viaja por la soga."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,23 +134,37 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Anillo Viajero
+# Pasar el Anillo por el Hilo
 
-## De qué se trata
-La soga forma un círculo que todos sostienen con las dos manos. En la soga hay un anillo que se pasa de mano en mano, a escondidas. Todos hacen como que lo están pasando. El del medio tiene que descubrir quién lo tiene. Cuando lo descubre, el que lo tenía pasa al medio.
+## Resumen
+Un juego de ronda para disimular: los jugadores se pasan un anillo por un hilo y uno en el centro tiene que descubrir quién lo tiene.
 
-## Cómo se juega
-1. Enhebren el anillo en la soga y aten las puntas. Todos agarran la soga con las dos manos, en ronda.
-2. Uno se pone en el medio y cierra los ojos mientras se empieza a pasar el anillo.
-3. Todos mueven las manos por la soga todo el tiempo, como si tuvieran el anillo.
-4. El del medio abre los ojos y mira. Cuando cree que sabe, señala una mano: «¡Ahí!».
-5. Si tiene razón, el que tenía el anillo pasa al medio. Si no, se sigue.
+## Desarrollo
+1. Se pasa un anillo por un hilo o un cordón largo y se atan las puntas, para formar un círculo.
+2. Los jugadores se ponen en ronda, mirando hacia adentro, y sostienen el hilo con las dos manos, con los puños cerrados sobre el hilo.
+3. Uno se pone en el centro.
+4. Los de la ronda se van pasando el anillo por el hilo, de mano en mano, de un lado al otro, escondiéndolo dentro de los puños. Todos mueven las manos todo el tiempo, como si lo estuvieran pasando, para despistar.
+5. El del centro trata de atrapar el anillo: cuando cree que sabe dónde está, toca o agarra las manos de un jugador.
+6. Si el anillo está en esas manos, ese jugador pasa al centro.
 
-## Para cerrar
+## Cierre
 - ¿En qué se nota cuando alguien tiene el anillo?
 
-## Notas para educadores
+## Notas para el educador
 - Es parecido al «anillo» o «la sortijita» que se juega en los cumpleaños.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING RING ON CORD.**
+
+A piece of string in a circle with a ring on it, players holding string. One in centre tries to catch ring which is passed to and fro about circle. Player in whose hands it is caught goes to centre.
+
 ---
-**Fuente:** inspirada en el juego «Passing Ring on Cord» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 29, «Passing Ring on Cord». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Globo"
+title: "Posta del Globo a Palmadas"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-globo/"
@@ -9,13 +9,13 @@ summary: "Llevar un globo por el aire sin que toque el piso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,27 +134,48 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta del Globo
+# Posta del Globo a Palmadas
 
-## De qué se trata
-Cada jugador da la vuelta a un recorrido llevando un globo en el aire a palmaditas. Si el globo toca el piso, vuelve a empezar desde la salida.
+## Resumen
+Una carrera de postas con globos: hay que llevar el globo por el aire a palmadas, sin que toque el suelo.
 
-## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El primero tira el globo para arriba.
-3. A la orden, avanza dándole palmaditas para que no caiga.
-4. Da la vuelta a la marca y vuelve.
-5. Si toca el piso, vuelve a la salida.
-6. Le pasa el globo al siguiente sin agarrarlo. Gana la primera patrulla que termina.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-### Variante: Con bastón
-El globo se lleva empujándolo con un bastón scout, sin tocarlo con las manos.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido. Cada equipo tiene un globo chico inflado.
+2. A la señal, el primero de cada equipo lleva el globo por todo el recorrido dándole palmaditas para que siga en el aire.
+3. Si el globo toca el suelo, el jugador tiene que volver a empezar desde la salida.
+4. Al volver, le pasa el globo al siguiente.
 
-### Variante: El rebaño
-Toda la patrulla junta arrea un rebaño de cinco globos, soplando y abanicando, por un recorrido en zigzag hasta un corral (una caja). Si un globo se escapa del recorrido, vuelve al principio.
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
-## Para cerrar
+**Posta del globo y el bastón (variante del original):** cada jugador, por turno, lleva un globo inflado por el recorrido guiándolo con un bastón scout, empujándolo con la punta. Para hacerlo más difícil se puede agregar que el globo no puede tocar el suelo; si lo toca, el jugador empieza de nuevo.
+
+**Carrera del pastor (variante del original):** cada equipo tiene un «rebaño» de varios globos inflados y lo tiene que llevar por un recorrido en zigzag, abanicando, soplando o de la forma que fije el que dirige. Al final del recorrido hay una caja, que es el corral. Si un globo se sale de los límites del recorrido, tiene que volver a empezar. Gana el primer equipo que mete todo su rebaño en el corral.
+
+## Cierre
 - ¿Qué fue más difícil: controlar el globo o ir rápido?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON PATTING RELAY.**
+
+Teams in file; each team has a small balloon, which every player in turn pats round a given course. If the balloon touches the ground the player must start again. First team to finish wins.
+
+**BALLOON AND STAFF RELAY.**
+
+Teams in file; each player in turn guides an inflated balloon round a given course with a Scout staff. To make it more difficult it may be said that the balloon must not touch the ground; penalty, start again.
+
+**SHEPHERD’S RACE.**
+
+Each team by fanning, blowing, or any other means laid down, guide a herd of inflated balloons round a zig-zag course. Any balloon going out of bounds must start again. First team penning all its herd in a box wins.
+
 ---
-**Fuente:** inspirada en el juego «Balloon Patting Relay / Balloon and Staff Relay / Shepherds Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 82, «Balloon Patting Relay» y n.º 110, «Balloon and Staff Relay» y n.º 111, «Shepherd’s Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

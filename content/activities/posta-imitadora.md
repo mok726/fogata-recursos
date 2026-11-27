@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta Imitadora"
+title: "Posta de «Hacé Esto»"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-imitadora/"
@@ -9,13 +9,13 @@ summary: "Correr y copiar el gesto del que dirige."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -125,22 +131,36 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta Imitadora
+# Posta de «Hacé Esto»
 
-## De qué se trata
-El que dirige hace un gesto: se sienta en el piso, cruza las piernas y se rasca la cabeza. Cada jugador, por turno, corre hasta una marca, hace exactamente lo mismo y vuelve a tocar al siguiente. Si no lo hizo igual, vuelve a la marca.
+## Resumen
+Una carrera de postas de atención y memoria: hay que copiar exactamente lo que hizo el que dirige.
 
-## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El que dirige muestra el gesto. Todos lo miran bien.
-3. A la orden, el primero corre hasta la marca.
-4. Ahí hace el gesto completo, igualito.
-5. Un controlador mira: si está bien, vuelve corriendo y toca al siguiente. Si no, lo repite.
-6. Gana la primera patrulla que termina.
-7. En la vuelta siguiente, el gesto es otro, más largo o más difícil.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-## Para cerrar
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo, a cierta distancia, se marca un lugar (con una tiza, un pañuelo o una piedra).
+2. El que dirige, delante de todos, hace una acción bastante simple o una serie corta de acciones: por ejemplo, se sienta en el piso, cruza las piernas y se rasca la cabeza.
+3. A la señal, el primero de cada equipo corre hasta el lugar marcado, hace exactamente lo mismo que hizo el que dirige y vuelve corriendo para largar al siguiente.
+4. Así siguen hasta que pasaron todos.
+
+**Cómo se gana:** gana el primer equipo que termina.
+
+## Cierre
 - ¿Qué gestos costaba más recordar?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DO THIS RELAY.**
+
+Leader does some fairly simple action (e.g. sit on floor, cross legs, scratch head). Each player in turn runs to a prearranged spot, does exactly the same action, and returns to send off the next player.
+
 ---
-**Fuente:** inspirada en el juego «Do This Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 10, «Do This Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

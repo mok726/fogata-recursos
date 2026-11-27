@@ -9,13 +9,13 @@ summary: "Pasar por el túnel cada vez con más compañeros enganchados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,19 +133,34 @@ rama_rovers:
 
 # Posta de la Víbora
 
-## De qué se trata
-Un jugador de cada patrulla se para lejos, con las piernas abiertas, como un arco. El primero corre, pasa por debajo y vuelve. Entonces el segundo lo agarra de la cintura y pasan los dos. Después tres, y así, hasta que pasa toda la víbora. Al final, el del arco se engancha en la cola.
+## Resumen
+Una carrera en la que el equipo va creciendo como una víbora, y cada vuelta pasa entre las piernas de un compañero.
 
-## Cómo se juega
-1. Uno de cada patrulla se para a unos 10 metros con las piernas bien abiertas.
-2. A la orden, el primero corre, pasa gateando por debajo de las piernas y vuelve.
-3. El segundo lo agarra de la cintura y van los dos.
-4. Cada vuelta se engancha uno más. ¡La víbora crece!
-5. En la última vuelta, el que hacía de arco se engancha atrás.
-6. Gana la primera víbora que vuelve completa y sin soltarse.
+## Desarrollo
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Un jugador de cada equipo se para a cierta distancia delante de su fila, con las piernas bien abiertas: hace de arco.
+3. A la señal, el primero de cada equipo corre, pasa por debajo, entre las piernas del arco, y vuelve hasta su fila.
+4. Ahí, el segundo lo agarra de la cintura y los dos juntos vuelven a correr y pasar entre las piernas del arco.
+5. Al volver, se engancha el tercero, y así. Cada vuelta la víbora es más larga, hasta que todo el equipo corre agarrado de la cintura.
+6. En la última pasada, el que hace de arco también se engancha al final de la víbora.
 
-## Para cerrar
+**Cómo se gana:** gana el primer equipo que termina con todos enganchados.
+
+## Cierre
 - ¿Qué pasaba cuando la víbora era larga?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SNAKE RELAY.**
+
+Teams in file; one player from each team stands some distance away in front of his team with feet astride. First player of each team runs between his legs and returns to his team, where the second player clasps him by the waist, and both run through the legs, and so on till all the team are running clasping each others’ waists. First team to finish wins. The player forming the arch joins on as his team passes the last time.
+
 ---
-**Fuente:** inspirada en el juego «Snake Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 74, «Snake Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

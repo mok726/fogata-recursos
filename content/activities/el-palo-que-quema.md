@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Palo que Quema"
+title: "Pasar el Palo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-palo-que-quema/"
@@ -9,13 +9,13 @@ summary: "No quedarse con el palo cuando suena el silbato."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,24 +134,39 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Palo que Quema
+# Pasar el Palo
 
-## De qué se trata
-La ronda se pasa un palo de mano en mano. El que dirige está de espaldas y toca el silbato cuando quiere. El que tiene el palo en ese momento pone las manos atrás: en la vuelta siguiente no lo recibe y se lo saltean, pero no sale. Se juega hasta que quedan solo dos con las manos adelante.
+## Resumen
+Un juego de ronda en el que nadie quiere quedarse con el palo cuando suena el silbato.
 
-## Cómo se juega
-1. Siéntense en ronda. Uno arranca con el palo.
-2. Se pasa el palo de mano en mano, rápido, siempre para el mismo lado.
-3. El que dirige, de espaldas a la ronda, toca el silbato cuando quiere.
-4. El que tiene el palo en la mano cuando suena el silbato pone las manos atrás y se queda en la ronda.
-5. Desde ese momento, el palo le pasa por arriba: el de antes se lo da al de después.
-6. Se sigue hasta que quedan solo dos con las manos adelante. Esos dos ganan.
+## Desarrollo
+1. Los jugadores forman una ronda y se van pasando un palo (puede ser un bastón scout) de mano en mano, de uno al siguiente.
+2. El que dirige, de espaldas a la ronda o sin mirar, toca el silbato cuando quiere.
+3. El que tiene el palo en la mano en ese momento pone las manos atrás de la espalda y las deja ahí por el resto del juego.
+4. No sale del juego: se queda en su lugar en la ronda, pero ya no recibe el palo. En todas las vueltas siguientes, cuando el palo llega a él, se lo saltea y se lo pasa al siguiente que todavía tiene las manos adelante.
+5. Se sigue jugando hasta que quedan solo dos jugadores pasándose el palo.
 
-### Variante: El sombrero
-En vez de un palo, se pasa un sombrero que cada uno tiene que ponerle en la cabeza al de al lado. El que lo tiene puesto o en la mano cuando suena el silbato, se sienta en el centro.
+**Pasá el sombrero (otro juego del original, parecido):** los jugadores forman una ronda. Uno agarra un sombrero (o una gorra) y se lo pone en la cabeza al de al lado; ese se lo saca y se lo pone al siguiente, y así toda la ronda. Cuando suena el silbato, el que tiene el sombrero en la mano o puesto en la cabeza se sienta y sale del juego. Hay que fijarse que el sombrero se ponga de verdad en cada cabeza y no se pase simplemente de mano en mano. Gana el último que queda.
 
-## Para cerrar
+## Cierre
 - ¿Qué hacían cuando sentían que estaba por sonar el silbato?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING THE STICK.**
+
+Players in circle pass a stick round one to another, whoever is holding it when the whistle blows puts his hands behind his back and is missed next time the stick comes round but does not fall out. Continue till only two are left.
+
+**PASS THE HAT.**
+
+Players in circle; one takes a hat and puts it on to the head of the next and so on round the circle. The player holding the hat, or having it on his head when the whistle goes, sits down. Last in wins. It must be seen that the hat is really put on each head and not merely passed from hand to hand.
+
 ---
-**Fuente:** inspirada en el juego «Passing the Stick / Pass the Hat» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Passing the Stick» y n.º 40, «Pass the Hat». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

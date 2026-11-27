@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pasos y Rumbos"
+title: "Pasos"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasos-y-rumbos/"
@@ -9,13 +9,13 @@ summary: "Dar los pasos justos en el rumbo justo y no ser encontrado."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,21 +135,40 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Pasos y Rumbos
+# Pasos
 
-## De qué se trata
-Un jugador está en el centro con los ojos vendados. Los demás, de a uno, se acercan y el que dirige les dice en voz baja un rumbo y una cantidad de pasos: «Noreste, seis pasos». Se alejan así, en silencio, y se quedan con los pies quietos. Al final, el vendado tantea hasta tocar a alguien y tiene que adivinar quién es.
+## Resumen
+Un juego a ciegas en el que hay que encontrar a los compañeros y reconocerlos solo con las manos.
 
-## Cómo se juega
-1. El que dirige marca dónde está el Norte. Uno se pone en el centro y se venda los ojos.
-2. De a uno, cada jugador se para al lado del vendado y recibe en secreto un rumbo y una cantidad de pasos (entre 3 y 9).
-3. Da todos los pasos seguidos en ese rumbo. Si se equivoca de rumbo, pierde una vida.
-4. Cuando todos se ubicaron, pueden agacharse pero no mover los pies.
-5. El vendado camina tanteando hasta tocar a alguien y, solo tocando la ropa y el pelo, dice quién es.
-6. Si acierta, cambian de lugar. Si no, sigue buscando.
+## Desarrollo
+1. Un jugador, el ciego, se para en el centro con los ojos vendados.
+2. Los demás, de a uno, se le acercan. El que dirige le dice a cada uno, en voz baja, una cantidad de pasos, cualquier número entre 3 y 9.
+3. El jugador tiene que dar todos esos pasos seguidos, en la dirección que quiera, alejándose del ciego. Cuando termina, se queda quieto en ese lugar.
+4. Una vez que ya se ubicaron todos, el ciego sale a tantear hasta tocar a alguno.
+5. Los jugadores se pueden agachar para esquivarlo, pero no pueden mover los pies del lugar donde quedaron.
+6. Cuando el ciego toca a alguien, trata de reconocerlo por el tacto y dice su nombre. Si acierta, cambian de lugar: el que fue reconocido pasa a ser el ciego y se empieza de nuevo. Si se equivoca, sigue buscando hasta acertar.
 
-## Para cerrar
+**Pasos con brújula (variante del original):** se juega igual, pero a cada jugador se le dice, además de la cantidad de pasos, una dirección de la brújula (por ejemplo, «cinco pasos al Este»). Antes de empezar, el que dirige muestra dónde quedan los puntos cardinales. Si un jugador sale para el lado equivocado, pierde una vida. El que pierde tres vidas paga una prenda al final del juego.
+
+## Cierre
 - ¿Cómo saben para dónde queda el Noreste si solo conocen el Norte?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STEPS.**
+
+One player is blindfold, each other player in turn comes up to him and is allotted a certain number of steps (any number between 3 and 9), which must all be taken at once in any direction. When all have gone the blind player feels about till he touches one, who he tries to identify by feel. If he is right they change places and start again, if wrong he goes on till he is right. A player after taking his steps may bend down but may not move his feet.
+
+**COMPASS STEPS.**
+
+Played just as the above except that each player is given a compass direction as well as a number of steps. If he fails to go in the right direction he loses a life, and after three lives is executed by bending down back to the rest about 15 yards away while each player not to be executed has a shot with a soft ball (tennis ball).
+
 ---
-**Fuente:** inspirada en el juego «Steps / Compass Steps» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 4, «Steps» y n.º 4, «Compass Steps». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - estrategia
   - patrulla
   - mensajes
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Unir las Fuerzas!
+# Unir las Fuerzas
 
 ## Resumen
 La tropa se divide en cuatro. Las patrullas 1 y 2 son aliadas y salen de puntos opuestos; las patrullas 3 y 4, juntas, quedan en el medio. Los aliados tienen que reunir todas sus fuerzas; el bando del medio, que los dobla en número, tiene que impedirlo hasta que se termine el tiempo.
@@ -150,10 +153,17 @@ La tropa se divide en cuatro. Las patrullas 1 y 2 son aliadas y salen de puntos 
 2. Fijá un tiempo límite y la forma de capturar (tocar al rival).
 
 ## Desarrollo
-1. Las patrullas 1 y 2 van a sus puntos de salida. La 3 y la 4 se quedan en la base.
-2. A la señal, los aliados mandan exploradores y mensajeros para ubicar al enemigo y contactarse entre sí.
-3. El bando del medio corta las comunicaciones, tiende emboscadas y captura tocando.
-4. Si los aliados se reúnen completos, ganan. Si el bando del medio lo impide hasta el final del tiempo, gana el bando del medio.
+Un juego de campo para toda la tropa: dos patrullas aliadas tratan de juntarse, y las otras dos, que están en el medio, tratan de impedirlo.
+
+1. La tropa se divide en cuatro grupos iguales; si tiene cuatro patrullas, mejor.
+2. La patrulla 1 va hasta un punto convenido, a un kilómetro y medio más o menos. La patrulla 2 se aleja la misma distancia, pero en la dirección exactamente opuesta.
+3. Las patrullas 3 y 4 se quedan juntas en la base, en el medio, formando una sola fuerza.
+4. Las patrullas 1 y 2 son ejércitos aliados, y cada una está en guerra con la fuerza que tiene en el medio. Su objetivo es juntarse sin chocarse con el enemigo, que tiene el doble de jugadores que cada una de ellas.
+5. Para eso, mandan exploradores y mensajeros a averiguar dónde está el enemigo y a ponerse en contacto con sus aliados.
+6. Las patrullas 3 y 4 tienen que impedir esa unión: cortar todos los intentos de comunicación y, si pueden, rodear o emboscar a una de las patrullas aliadas y capturarla, para que la unión sea imposible.
+7. Antes de empezar se fija un tiempo límite.
+
+**Cómo se gana:** si las patrullas 1 y 2 logran esquivar al enemigo y juntarse completas, ganan ellas. Si las patrullas 3 y 4 impiden la unión hasta que se termina el tiempo, la victoria es suya.
 
 ## Cierre
 - ¿Cómo se pusieron de acuerdo los aliados sin verse?
@@ -169,15 +179,12 @@ La tropa se divide en cuatro. Las patrullas 1 y 2 son aliadas y salen de puntos 
 
 The troop should be divided into four equal sections (if it consists of four patrols, so much the better). Patrol No. 1 proceeds to an agreed spot perhaps a mile distant, while Patrol No. 2 is dispatched an equal distance in exactly the opposite direction, the rest of the troop (Patrols 3 and 4) remain at the base as a united force. The game now begins:- Patrols I and 2 represent allied armies each at warfare with the force lying between them, namely, the united Patrols 3 and 4. The supreme object of the allies is to effect a junction of their forces without coming into contact with the enemy, who outnumber either force by two to one. Accordingly they send out Scouts and dispatch-runners to ascertain the position of the enemy, and also to get into touch with their friends. If they are successful in evading their mutual enemy, and in joining up their full forces, then they are considered winners. On the other hand, the whole duty of the combined patrols is to prevent this junction from taking place by hindering all attempts at communication, and, if possible, by surrounding or ambushing one or other of the allies, and by capturing them, making a union impossible. If they succeed in preventing a junction until the time limit has expired they claim the victory.
 
-**Versión en español:**
-
-**UNIR LAS FUERZAS.**
-
-La tropa se divide en cuatro secciones iguales (si tiene cuatro patrullas, mejor). La patrulla n.º 1 va hasta un punto convenido, quizás a una milla, mientras la n.º 2 sale a la misma distancia en la dirección exactamente opuesta; el resto de la tropa (patrullas 3 y 4) queda en la base como una fuerza unida. Ahora empieza el juego: las patrullas 1 y 2 representan ejércitos aliados, cada uno en guerra con la fuerza que está entre ellos, es decir, las patrullas 3 y 4 unidas. El objetivo supremo de los aliados es reunir sus fuerzas sin entrar en contacto con el enemigo, que supera a cada uno de ellos dos a uno. Para eso mandan exploradores y mensajeros a averiguar la posición del enemigo y también a ponerse en contacto con sus amigos. Si logran eludir al enemigo común y reunir todas sus fuerzas, se los considera ganadores. Por el contrario, la tarea de las patrullas combinadas es impedir esa reunión obstaculizando todos los intentos de comunicación y, si es posible, rodeando o emboscando a uno u otro de los aliados y capturándolos, para hacer imposible la unión. Si logran impedir la reunión hasta que se termine el tiempo, se adjudican la victoria.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 13. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 13: «Joining Forces». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

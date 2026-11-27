@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pasala con los Pies"
+title: "Posta de Pasar la Pelota con los Pies"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasala-con-los-pies/"
@@ -9,13 +9,13 @@ summary: "Pasar la pelota de punta a punta solo con los pies."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,37 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Pasala con los Pies
+# Posta de Pasar la Pelota con los Pies
 
-## De qué se trata
-La patrulla en fila, uno al lado del otro y separados por un metro. El primero tiene la pelota apoyada entre los pies. Hay que pasarla de uno a otro solo con los pies hasta el final de la fila. Si se escapa, el que la perdió la busca con las manos, vuelve a su lugar y la pasa con los pies.
+## Resumen
+Una carrera de pases en la que la pelota recorre la fila usando solo los pies.
 
-## Cómo se juega
-1. Cada patrulla se pone en fila, de costado, a un metro de distancia.
-2. El primero apoya la pelota en el piso, entre sus pies.
-3. A la orden, se la pasa con los pies al de al lado, que la recibe con los pies.
-4. Así hasta el final de la fila.
-5. Si se escapa, el que la perdió la busca con las manos, vuelve a su lugar y la pasa con los pies.
-6. Gana la primera patrulla que la lleva hasta la punta y la trae de vuelta.
+## Desarrollo
+1. Cada equipo se forma en una fila, uno al lado del otro, con unos 90 cm entre jugador y jugador.
+2. El primer jugador de cada equipo tiene una pelota apoyada entre los pies, sobre los empeines (la parte de arriba del pie).
+3. A la señal, se la pasa al compañero de al lado usando solo los pies, sin tocarla con las manos. Ese la recibe con los pies y se la pasa al siguiente, y así a lo largo de la fila.
+4. Si la pelota se escapa, el jugador que tuvo la culpa la puede ir a buscar y traerla con las manos. Pero tiene que volver a su lugar y desde ahí pasarla otra vez con los pies, como siempre.
+
+**Cómo se gana:** gana el primer equipo que lleva la pelota de una punta de la fila a la otra.
 
 ### Variante: Sentados
 Más difícil: todos sentados en el piso y la pelota agarrada entre los dos pies.
 
-## Para cerrar
+## Cierre
 - ¿Qué técnica de pase funcionó mejor?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING BALL WITH FEET RELAY.**
+
+Teams in line about 3 feet between each player. The first player of each team has a ball resting between his feet on the insteps. Each player passes the ball on to his neighbour, using only his feet in the process; if the ball rolls away it may be recovered by the player at fault with his hands, but must pass it on in the usual way after regaining his place. First team to pass the ball from one end to the other wins.
+
 ---
-**Fuente:** inspirada en el juego «Passing Ball with Feet Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 54, «Passing Ball with Feet Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

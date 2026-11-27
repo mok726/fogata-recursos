@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Mula Ciega"
+title: "Carrera de la Mula Ciega"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-mula-ciega/"
@@ -9,13 +9,13 @@ summary: "Guiar a la mula vendada solo con las riendas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,26 +135,40 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Mula Ciega
+# Carrera de la Mula Ciega
 
-## De qué se trata
-La patrulla se divide en parejas. Uno es la mula: tiene los ojos vendados y una soga alrededor de la cintura como riendas. El otro, el arriero, la guía desde atrás con las riendas por un recorrido en zigzag. No puede hablar: solo tirar suave de las riendas.
+## Resumen
+Una carrera de postas de a dos: uno hace de mula con los ojos vendados y el otro la conduce con riendas, sin hablar.
 
-## Cómo se juega
-1. Cada patrulla se divide en parejas y arma el recorrido en zigzag con conos o mochilas.
-2. La mula se venda los ojos. El arriero le pasa la soga por la cintura y agarra las dos puntas como riendas.
-3. Se ponen de acuerdo en las señales: tirar de la punta derecha es ir a la derecha, de las dos es frenar.
-4. A la orden, la primera pareja hace el recorrido. El arriero no puede hablar.
-5. Al volver, le pasan las riendas a la pareja siguiente.
-6. Gana la primera patrulla que termina.
+## Desarrollo
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Se marca un recorrido en zigzag que sale y vuelve al mismo lugar, por ejemplo entre sillas o mochilas.
+2. En cada pareja, uno es la mula: tiene los ojos vendados y lleva atadas unas riendas, que son una soga pasada por delante del cuerpo. El otro es el conductor, que va detrás agarrando las riendas.
+3. A la señal, el conductor de la primera pareja guía a su mula por todo el recorrido, tirando de las riendas para un lado o para el otro, hasta que vuelven al lugar de la mula en la fila.
+4. El conductor no le puede hablar a la mula: solo la puede guiar con las riendas.
+5. Después se le ponen las riendas a la mula de la pareja siguiente, y así hasta que pasaron todas.
 
-## Reglas
-- Las riendas van flojas y se tira suave, nunca de golpe.
-- La soga nunca se pone en el cuello.
+**Cómo se gana:** gana el primer equipo en el que pasaron todas las parejas.
 
-## Para cerrar
+**Reventar el globo (variante del original):** al terminar el recorrido, la mula tiene que reventar un globo sentándose encima o pisándolo, guiada por su conductor. Después se sigue igual que antes.
+
+## Cierre
 - ¿Cómo se sintieron siendo la mula? ¿Y siendo el arriero?
 - ¿Qué hace falta para confiar en alguien que te guía?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND MULE RACE.**
+
+Teams in file, divided into pairs of players; one of each pair is blindfold, and is driven with rope reins round a zig-zag course back to his place by the other of the pair. The reins are then fixed to the next mule, and so on. No speaking to the mule by the driver is allowed.
+
+Variation.—-On completing the course tile mule is made to burst a balloon by sitting (or stepping) on it. Then as before.
+
 ---
-**Fuente:** inspirada en el juego «Blind Mule Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 112, «Blind Mule Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Béisbol de Nudos"
+title: "Rounders de Nudos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/beisbol-de-nudos/"
@@ -9,13 +9,13 @@ summary: "Hacer el nudo y llegar a la base antes que los fildeadores."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -131,29 +137,48 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Béisbol de Nudos
-
-## De qué se trata
-Se juega como el béisbol, pero con sogas. El lanzador dice un nudo y le tira una soga a cualquier fildeador. Al mismo tiempo, el bateador corre a la primera base y hace ese mismo nudo con su soga. Si llega a la base con el nudo bien hecho antes que el fildeador lleve su soga anudada, se queda. Si el fildeador llega primero, el bateador queda afuera.
+# Rounders de Nudos
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Marcá un rombo con cuatro bases, a unos 15 metros entre sí.
 
-## Cómo se juega
-1. Un equipo batea y otro está en el campo. El lanzador está en el medio.
-2. El lanzador dice en voz alta un nudo y le tira una soga a un fildeador. Cada vez, a uno distinto.
-3. El bateador corre a la primera base haciendo el nudo con su soga.
-4. El fildeador hace el nudo y le lleva la soga anudada a la primera base.
-5. Si el bateador llega con el nudo bien hecho antes que el fildeador, se queda en la base. Si no, queda afuera.
-6. Si el bateador no sabe hacer el nudo, queda afuera. Si el fildeador no sabe, el equipo bateador suma una carrera.
-7. Cada bateador que vuelve a la base de inicio suma una carrera. Tres afuera y se cambia de equipo.
+## Resumen
+Se juega como el rounders, pero sin bate ni pelota: en vez de pegarle a la pelota, hay que hacer un nudo.
 
-## Para cerrar
+## Desarrollo
+El rounders es el juego inglés del que viene el béisbol. Se juega en una cancha con cuatro bases (postes o marcas) dispuestas en ronda, más un lugar para batear. Un equipo batea y el otro está en el campo. Cada bateador, después de batear, corre de base en base. El que da la vuelta completa y llega a la cuarta base anota un punto, que se llama «rounder». El que llegó a una base se queda ahí, y cuando batea el siguiente compañero puede seguir corriendo a las bases siguientes. Cuando todos los del equipo que batea quedaron afuera, los equipos cambian de papel.
+
+1. Se arma la cancha. Hay un lanzador (del equipo del campo) y un bateador (del equipo que batea), y los dos tienen una soga.
+2. El lanzador dice el nombre de un nudo y le tira una soga a cualquier jugador del campo.
+3. Al mismo tiempo, el bateador y ese jugador del campo hacen el nudo que se dijo.
+4. El bateador, con su nudo hecho, corre hacia la primera base. El del campo, con su nudo hecho, lleva o tira la soga a la primera base para sacarlo, como si fuera la pelota.
+5. Si el bateador llega primero con el nudo bien hecho, se queda en la base. Si la soga del campo, bien atada, llega antes, el bateador queda afuera.
+6. Si el bateador no puede hacer el nudo, queda afuera.
+7. Si el del campo no puede hacer el nudo, el equipo que batea suma un rounder, pase lo que pase.
+8. Si los del campo quieren, con una soga bien atada pueden sacar a un jugador que está en la segunda o la tercera base, como en el rounders.
+9. Los del campo tienen que recibir la soga por turno, no solo el que mejor hace los nudos.
+
+**Puntaje:** gana el equipo que anota más rounders.
+
+## Cierre
 - ¿Cómo se organizaron los fildeadores?
 
-## Notas para educadores
+## Notas para el educador
 - La regla de que la soga vaya a un fildeador distinto cada vez es clave: hace que todos practiquen, no solo los que saben.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KNOTTING ROUNDERS.**
+
+Rounders, but no bat or ball. Pitcher and batter have ropes. Pitcher calls name of a knot and throws rope to any fielder. If batter reaches 1st base with knot right, he stays there; if fielder’s rope, tied right, gets there first, batter out; if batter cannot tie knot, out; if fielder cannot tie it, one rounder to batting side, whatever else happens. A correctly knotted rope may run out a player on 2nd or 3rd base, as in rounders, if fielders wish. The fielders must get the rope in turn, not only the best knotter.
+
 ---
-**Fuente:** inspirada en el juego «Knotting Rounders» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 22, «Knotting Rounders». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

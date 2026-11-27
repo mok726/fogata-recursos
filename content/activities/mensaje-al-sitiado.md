@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mensaje al Sitiado"
+title: "Llevar el Mensaje"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/mensaje-al-sitiado/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - mensajes
   - acecho
 
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,7 +140,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Mensaje al Sitiado!
+# Llevar el Mensaje
 
 ## Resumen
 Un mensajero tiene que llevar un mensaje a un lugar "sitiado". Lleva una cinta larga prendida al hombro. Los sitiadores saben desde qué lado y a qué hora sale, y tratan de arrancarle la cinta antes de que llegue.
@@ -147,11 +150,18 @@ Un mensajero tiene que llevar un mensaje a un lugar "sitiado". Lleva una cinta l
 2. Elegí un punto de salida a buena distancia y avisá a los sitiadores la hora y la dirección general.
 
 ## Desarrollo
-1. El mensajero se prende la cinta al hombro y sale a la hora acordada. Los sitiadores no pueden ver la salida.
-2. Los sitiadores se reparten como quieran para cortarle el paso.
-3. Para atraparlo tienen que arrancarle la cinta del hombro.
-4. Si llega a la zona protegida con la cinta puesta, gana el mensajero.
-5. Se repite con otro mensajero.
+Un juego de exploración: un mensajero tiene que llevar un mensaje a un lugar «sitiado» (rodeado por el enemigo) y los demás tratan de interceptarlo.
+
+1. Se elige el lugar sitiado, que es el «cuartel»: un pueblo, una casa o alguien parado en un punto convenido.
+2. Se elige el punto de salida del mensajero, a un kilómetro y medio, más o menos, del cuartel.
+3. Alrededor del cuartel se marca una zona de unos 300 metros que es de los defensores. El enemigo no puede entrar ahí. Los límites se fijan antes de empezar.
+4. Se elige a un scout como mensajero. Lleva prendido al hombro un trapo de color de al menos 60 cm de largo, y tiene que llegar al cuartel con el trapo en su lugar.
+5. El resto hace de enemigo. Saben desde qué lado y a qué hora sale el mensajero, y pueden organizarse como quieran para atraparlo, pero no pueden mirar cuando sale.
+6. Para atrapar al mensajero, el enemigo tiene que sacarle el trapo del hombro.
+
+**Cómo se gana:** el mensajero gana si llega al cuartel con el trapo. El enemigo gana si se lo saca antes.
+
+**En la ciudad (variante del original):** se puede jugar en una ciudad, eligiendo una casa como punto de salida y otra como cuartel. El mensajero puede disfrazarse como quiera, siempre que lleve el trapo prendido al hombro.
 
 ### Variante: En la ciudad
 Con chicos más grandes y adultos acompañando, se puede jugar entre dos casas o puntos de un barrio tranquilo. El mensajero puede disfrazarse como quiera, siempre que lleve la cinta a la vista.
@@ -172,15 +182,12 @@ Con chicos más grandes y adultos acompañando, se puede jugar entre dos casas o
 
 A Scout is chosen to carry a dispatch to a besieged place which may be a real village or house, or somebody stationed at an appointed spot. The dispatch-runner must wear a, colored rag, at least two feet long, pinned to his shoulder, and with this in its proper place he must reach his goal. The enemy besieging the place must prevent him reaching the headquarters, but cannot, of course, go within the lines of the supposed defenders (i.e. within 300 yards of the headquarters-certain boundaries should be decided upon beforehand). To catch him the enemy must take the rag from his shoulder. They know he starts from a certain direction at a certain time, the spot should be a mile or so from the besieged townand they may take any steps to capture him they like, except that they may not actually witness his departure from the starting-place. The game may be played in a town with two houses chosen as startingplace and besieged town respectively, and the dispatch-runner can adopt any disguise (except that of a woman), so long as he wears the rag pinned to his shoulder.
 
-**Versión en español:**
-
-**LLEVAR EL MENSAJE.**
-
-Se elige a un scout para llevar un mensaje a un lugar sitiado, que puede ser un pueblo o una casa de verdad, o alguien ubicado en un punto convenido. El mensajero tiene que llevar un trapo de color, de al menos dos pies (60 cm) de largo, prendido al hombro, y con él en su lugar debe llegar a destino. El enemigo que sitia el lugar tiene que impedirle llegar al cuartel, pero no puede, por supuesto, entrar dentro de las líneas de los supuestos defensores (es decir, a menos de 300 yardas del cuartel; hay que fijar los límites de antemano). Para atraparlo, el enemigo tiene que quitarle el trapo del hombro. Saben que sale desde cierta dirección a cierta hora (el punto de salida debería estar a una milla o algo así del pueblo sitiado) y pueden hacer lo que quieran para capturarlo, salvo presenciar su salida. El juego se puede hacer en una ciudad, eligiendo dos casas como punto de salida y pueblo sitiado, y el mensajero puede usar cualquier disfraz (salvo el de mujer), siempre que lleve el trapo prendido al hombro.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 3: «Dispatch Running». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»). Se sacó la prohibición de «disfrazarse de mujer», que hoy no tiene sentido.
 
 ---

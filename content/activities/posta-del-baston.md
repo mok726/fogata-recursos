@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Bastón"
+title: "La Carrera de los Bastones"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-baston/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - posta
   - carrera
   - patrullas
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,26 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Posta del Bastón!
+# La Carrera de los Bastones
 
 ## Resumen
 Cuatro patrullas: A y B, frente a frente a unos 15 m, juegan contra C y D, ubicadas igual al costado. El dirigente se para en el centro y les da un bastón a los primeros de A y de C. Cada uno corre hasta la fila de enfrente, entrega el bastón y sale. El bastón va y viene entre las filas. El último de cada lado lo lleva al dirigente: gana el que llega primero.
 
 ## Desarrollo
-1. Ubicá las cuatro filas formando un rectángulo y parate en el medio.
-2. Dale un bastón al primero de A y al primero de C.
-3. A la señal, cada uno corre a la fila de enfrente, entrega el bastón al primero y se retira.
-4. El que recibe corre a la fila de enfrente, y así sigue.
-5. El último de cada lado le lleva el bastón al dirigente. Gana el que llega primero.
+Una carrera de postas para cuatro patrullas, que juegan de a dos contra las otras dos pasándose un bastón de un lado al otro.
+
+1. Se llama a las patrullas A, B, C y D. A y B forman un equipo; C y D forman el otro.
+2. A y B se forman frente a frente, a 15 metros de distancia, cada patrulla en fila india (un jugador detrás del otro).
+3. C y D hacen lo mismo, al costado, a por lo menos 4,5 metros de A y B. Así quedan A y C de un lado, una al lado de la otra, y B y D enfrente.
+4. El que dirige se para en el medio del rectángulo que forman las cuatro filas. Le da un bastón al primer jugador de A y al primero de C.
+5. A la señal, esos dos corren lo más rápido que pueden hasta el primer jugador de la patrulla que tienen enfrente (el de A hasta B, el de C hasta D), le entregan el bastón y salen del juego.
+6. El que recibió el bastón corre hasta la fila de enfrente y se lo da al siguiente jugador de esa patrulla, y también sale del juego. Así el bastón va y viene hasta que corrieron todos.
+7. El último jugador de cada equipo, en lugar de entregar el bastón en la otra fila, se lo lleva al que dirige, en el centro.
+8. Cada jugador se tiene que quedar completamente quieto en su lugar hasta recibir el bastón. Los dos equipos tienen que tener la misma cantidad de jugadores.
+
+**Cómo se gana:** gana el equipo cuyo último corredor le entrega primero el bastón al que dirige.
+
+**Con obstáculos (variante del original):** al aire libre se le saca más jugo si los que corren tienen que cruzar una zanja, un cerco o algún otro obstáculo en el camino.
 
 ### Variante: Con obstáculos
 Al aire libre, poné un obstáculo en el camino: un tronco bajo, una soga para pasar por abajo.
@@ -168,15 +180,12 @@ Al aire libre, poné un obstáculo en el camino: un tronco bajo, una soga para p
 
 Two patrols play together against the other two. We will call them A, B, C, and D. A and B face each other, with a distance of fifty feet between them, the boys standing one behind the other. C and D do the same, taking their position at least fifteen feet to the side of their opponents. The Scoutmaster, or whoever directs the game, stands in the center of the parallelogram which is thus formed. This is shown quite clearly in the picture. He hands a staff to the first boy of each of the patrols standing side by side. Upon a given signal these two run as quickly as they can to the boys heading the other two patrols, hand them the staves, and retire from the game. The two who now have the staves return them to the first of the remaining Scouts of the other patrols, after which they retire from the game, and so on. The game is continued until all the boys have run with the staves. The object is to see which two of the patrols can finish first. The last boy on either side carries the staff to the Scoutmaster in the center. Of course, that side wins whose last boy gets to the Scoutmaster first. Naturally, you must remember to have the same number of boys on both sides, and each must stand perfectly still until he has received the staff. If you play this game outdoors, you can get more fun out of it by arranging so that a ditch, fence, or other obstacle has to be crossed by the boys who run with the staves.
 
-**Versión en español:**
-
-**LA CARRERA DE LOS BASTONES (PARA CUATRO PATRULLAS).**
-
-Dos patrullas juegan juntas contra las otras dos. Las llamaremos A, B, C y D. A y B se ubican frente a frente, con una distancia de cincuenta pies (15 m) entre ellas, los chicos parados uno detrás del otro. C y D hacen lo mismo, ubicándose al menos a quince pies (4,5 m) al costado de sus rivales. El jefe de tropa, o quien dirija el juego, se para en el centro del paralelogramo que así se forma. Esto se ve con toda claridad en el dibujo. Le da un bastón al primer chico de cada una de las patrullas que están una al lado de la otra. A una señal, estos dos corren lo más rápido que pueden hasta los chicos que encabezan las otras dos patrullas, les dan los bastones y se retiran del juego. Los dos que ahora tienen los bastones se los devuelven al primero de los scouts que quedan en las otras patrullas, después se retiran del juego, y así sucesivamente. El juego sigue hasta que todos los chicos corrieron con los bastones. El objetivo es ver cuáles dos patrullas terminan primero. El último chico de cada lado le lleva el bastón al jefe de tropa en el centro. Por supuesto, gana el lado cuyo último chico llega primero al jefe. Naturalmente, hay que acordarse de tener la misma cantidad de chicos en los dos lados, y cada uno tiene que quedarse completamente quieto hasta recibir el bastón. Si juegan este juego al aire libre, le pueden sacar más jugo haciendo que los chicos que corren con los bastones tengan que cruzar una zanja, un cerco u otro obstáculo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 12. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 12: «The Staff Run (for Four Patrols)». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---
