@@ -2439,9 +2439,9 @@ sections: {
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
-    "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
+    "Nudos, amarres, pionerismo, campamento, cocina, refugios, orientación, señales y juegos: técnicas de manuales scouts clásicos puestas al día y fichas nuevas.",
   summary:
-    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de *Horace Kephart* y *Ernest Thompson Seton*, **Knots, Splices and Rope Work** de *A. Hyatt Verrill* (1912) y **Shelters, Shacks and Shanties** de *Daniel Carter Beard* (1914). \n\n<p>Los amarres y el armado de carpa vienen de la **Pathfinder Wiki*, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de *Horace Kephart* y *Ernest Thompson Seton*, **Knots, Splices and Rope Work** de *A. Hyatt Verrill* (1912) y **Shelters, Shacks and Shanties** de *Daniel Carter Beard* (1914). \n\n<p>Los amarres y el armado de carpa vienen de la **Pathfinder Wiki*, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.\n\n<p>Las secciones J, K y L son fichas nuevas, sin texto original: juegos de orientación inspirados en la cartilla **50 Juegos de Orientación & Topografía** de *Juan Manuel Lourenço*, pionerismo adaptado del blog **Ropes and Poles** (CC BY-NC-SA) y cocina de campamento propia.",
   logo: "/imagenes/insignias/tecnicascout.png",
   hero_image: "/imagenes/insignias/tecnicascout-hero.jpg",
   sources: [
@@ -2468,12 +2468,20 @@ sections: {
     {
       name: "ASDE - Scouts de España, Manual básico de Orientación (CC BY-NC)",
       url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17495/Manual-basico-de-Orientacion_2020.pdf"
+    },
+    {
+      name: "Juan Manuel Lourenço, «50 Juegos de Orientación & Topografía» (cartilla de campo, 2019)",
+      url: ""
+    },
+    {
+      name: "Ropes and Poles, blog de pionerismo scout de Sudáfrica (CC BY-NC-SA 2.5)",
+      url: "https://ropesandpoles.blogspot.com/"
     }
   ],
   license: {
     type: "Dominio público, CC BY-SA 4.0 y CC BY-NC-SA 4.0",
     url: "",
-    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las fichas de orientación de ASDE - Scouts de España (CC BY-NC) se publican con CC BY-NC-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
+    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las fichas de orientación de ASDE - Scouts de España (CC BY-NC) se publican con CC BY-NC-SA 4.0. Las fichas de juegos de orientación (sección J) y de cocina de campamento (sección L) son propias, con CC BY-NC-SA 4.0. Las de pionerismo (sección K) adaptan el blog Ropes and Poles (CC BY-NC-SA 2.5) y se publican con CC BY-NC-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
   },
   attribution: {
     organization: "Fogata de Recursos",
@@ -2524,6 +2532,18 @@ sections: {
     I: {
       title: "Primeros Auxilios: Qué Hacer",
       description: "Evaluación inicial, hemorragias, calor y frío, atragantamiento, quemaduras, infarto y ACV, golpes en la cabeza, columna, esguinces y fracturas. Se practican con un instructor con formación reconocida; no reemplazan un curso."
+    },
+    J: {
+      title: "Juegos de Orientación",
+      description: "Juegos de mesa y de terreno para aprender la rosa de los vientos, leer mapas, seguir rumbos y organizar carreras de orientación (inspirados en la cartilla de Juan Manuel Lourenço)."
+    },
+    K: {
+      title: "Pionerismo e Ingeniería Scout",
+      description: "Construcciones sin nudos, catapultas, maquetas, control y ajuste de amarres, y cómo funcionan las fuerzas en una estructura (adaptado del blog Ropes and Poles)."
+    },
+    L: {
+      title: "Cocina de Campamento",
+      description: "Planificar el menú, cocinar en las brasas, en una vara, en una naranja o en un horno de cartón, con higiene y con el calentador seguro."
     }
   }
 },
@@ -2896,6 +2916,75 @@ sections: {
     D: {
       title: "Nuestra Región",
       description: "Investigar los pueblos originarios, la historia y las costumbres del lugar donde vivimos."
+    }
+  }
+},
+
+{
+  id: "juegosscouts",
+  name: "Juegos Scouts Clásicos",
+  description:
+    "Juegos de patrulla, de ronda, de postas, de observación y de interior, traducidos de los grandes libros de juegos scouts de los años veinte.",
+  summary:
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Reúne juegos inspirados en dos clásicos de dominio público: **Gilcraft's Book of Games** (1928), del equipo de formación de *The Boy Scouts Association*, y **Sixty Indoor Games for Scouts**, de *J. B. Collyns* (década de 1920). \n\n<p>Los juegos de Gilcraft (secciones A a F) están traducidos fielmente del impreso original de 1928, que es de dominio público; solo se pasaron las medidas a metros, se cambiaron algunos términos por los que se usan hoy en la Argentina y se sumaron preparación, preguntas de cierre y notas para educadores. Cada ficha trae el texto original en inglés. Los de Collyns (sección G) son fichas propias inspiradas en el libro. Se dejaron afuera los juegos de golpes, de fuerza bruta o que hoy no son seguros, y los que ya estaban en Fogata con otro nombre. \n\n<p>Los juegos de *Scouting Games* y de *Escultismo para Muchachos* de B-P están en las insignias de Baden-Powell.",
+  logo: "/imagenes/insignias/juegosscouts.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A lively group of scouts aged 8 to 16 playing a team game on a sunny grass field, some running in a relay, others in a big circle laughing, a leader with a whistle, tents and trees in the background.",
+  sources: [
+    {
+      name: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928), impreso original en dominio público. Versión en línea: The Canadian Sea Scouts Homeport",
+      url: "http://www.seascouts.ca/"
+    },
+    {
+      name: "J. B. Collyns, Sixty Indoor Games for Scouts (Brown, Son & Ferguson, Glasgow) – «The Dump» en Scoutscan",
+      url: "http://www.thedump.scoutscan.com/"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Gilcraft's Book of Games (1928) es de dominio público: sus juegos se publican traducidos, con el texto original en inglés. Las fichas de la sección G (Collyns) son propias de Fogata de Recursos y se publican con CC BY-NC-SA 4.0; esa misma licencia cubre los agregados de Fogata (preparación, cierre y notas) en todas las fichas."
+  },
+  attribution: {
+    organization: "Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir según la edad, el lugar y el momento de la reunión.",
+    rules: [
+      "Respetá las notas de seguridad de cada juego",
+      "Adaptá las reglas a la edad y al espacio: si un juego no funciona, cambialo"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Sentidos y Observación",
+      description: "Juegos de Kim, de oído, de olfato, de memoria y de mirar con atención."
+    },
+    B: {
+      title: "Ingenio y Palabras",
+      description: "Juegos de adivinar, de palabras, de mímica y de pensar rápido."
+    },
+    C: {
+      title: "Juegos en Ronda",
+      description: "Juegos para toda la Manada o la Tropa en círculo, de reacción y de atención."
+    },
+    D: {
+      title: "Juegos por Equipos",
+      description: "Juegos de patrulla contra patrulla, de estrategia y de cooperación."
+    },
+    E: {
+      title: "Postas y Carreras",
+      description: "Carreras de relevos, postas con desafíos y juegos de velocidad."
+    },
+    F: {
+      title: "Juegos de Técnica Scout",
+      description: "Juegos para practicar nudos, rumbos, señales y otras técnicas jugando."
+    },
+    G: {
+      title: "Juegos de Interior",
+      description: "Juegos para el local scout o un salón, cuando llueve o no hay patio (J. B. Collyns)."
     }
   }
 },
@@ -3318,14 +3407,60 @@ sections: {
       description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
+},
+
+{
+  id: "desenchufada",
+  name: "Computación Desenchufada",
+  description:
+    "Descubrir cómo piensan las computadoras sin usar ninguna: números binarios, imágenes, errores, programación, búsqueda y ordenamiento, jugando con cartas, tiza y el cuerpo.",
+  summary:
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Las actividades están adaptadas de **CS Unplugged**, un proyecto del *Computer Science Education Research Group* de la *Universidad de Canterbury* (Nueva Zelanda) que enseña las ideas de la informática sin computadoras. \n\n<p>No hace falta saber de computación: alcanza con cartas, papel cuadriculado, tiza y ganas de jugar. Sirven para trabajar el ODS 9 (industria, innovación e infraestructura) y para que los chicos entiendan la tecnología que usan todos los días.",
+  logo: "/imagenes/insignias/desenchufada.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 8 to 14 in a bright scout hall playing with large cards showing dot patterns and walking along chalk lines drawn on the floor, a grid of black and white squares on a poster, no computers anywhere, cheerful daylight.",
+  sources: [
+    {
+      name: "CS Unplugged – Computer Science Education Research Group, Universidad de Canterbury (CC BY-SA 4.0)",
+      url: "https://www.csunplugged.org/es/topics/"
+    }
+  ],
+  license: {
+    type: "CC BY-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    note: "Las lecciones de CS Unplugged se publican con CC BY-SA 4.0. Las fichas están redactadas de nuevo y adaptadas por Fogata de Recursos, y se comparten con la misma licencia. No incluyen el texto original."
+  },
+  attribution: {
+    organization: "CS Unplugged (Universidad de Canterbury) y Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: elegí las que se adapten a la edad. Varias se pueden encadenar (por ejemplo, las cartas binarias antes de los mensajes en binario).",
+    rules: [
+      "No hace falta ninguna computadora",
+      "Respetá las notas de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Números y Mensajes",
+      description: "Cómo guarda los números y las letras una computadora, y cómo se da cuenta de los errores."
+    },
+    B: {
+      title: "Imágenes",
+      description: "Píxeles y compresión: cómo se guarda una foto con números."
+    },
+    C: {
+      title: "Programar sin Computadora",
+      description: "Robots humanos, instrucciones exactas, errores y bucles."
+    },
+    D: {
+      title: "Buscar y Ordenar",
+      description: "Búsqueda binaria, árboles de búsqueda y redes de ordenamiento."
+    }
+  }
 }
-
-
-
-
-
-
-
 
   ];
 };

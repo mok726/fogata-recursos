@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,17 +142,20 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡En el Estanque!
+# En el Estanque
 
 ## Resumen
-Todos alrededor de un círculo marcado. Con "¡Al estanque!" saltan adentro y con "¡A la orilla!" saltan afuera. Si ya están donde dice la orden, no se mueven, y las órdenes trampa ("¡A la estanca!", "¡En la orilla!") se ignoran. Gana quien se equivoca menos.
+Un juego de atención: hay que obedecer solo las órdenes justas y no caer en las trampas.
 
 ## Desarrollo
-1. Marcá un círculo en el piso. Todos se paran afuera, justo detrás de la línea, alrededor de Akela.
-2. Con "¡Al estanque!", todos saltan adentro. Con "¡A la orilla!", saltan afuera.
-3. Si dan la orden de donde ya están, nadie se mueve.
-4. Las órdenes parecidas ("¡En el estanque!", "¡Al charco!", "¡A la estanca!") son trampas y se ignoran.
-5. Cada error suma un punto en contra; gana quien tenga menos.
+1. Se dibuja en el piso un círculo grande con tiza (o con una soga). Adentro del círculo es «el estanque»; afuera es «la orilla».
+2. Los lobatos se paran en ronda, justo afuera de la línea, mirando hacia adentro. Un dirigente (un Viejo Lobo) se pone en el centro.
+3. Cuando el dirigente grita «¡Al estanque!», todos saltan adentro del círculo. Cuando grita «¡A la orilla!», todos saltan afuera.
+4. Si el dirigente grita «¡Al estanque!» cuando ya están adentro, nadie se mueve. Lo mismo si grita «¡A la orilla!» cuando ya están afuera.
+5. El dirigente mezcla órdenes falsas, como «¡Sobre el estanque!» o «¡En la orilla!». Esas no se obedecen: son trampas para hacerlos equivocar.
+6. Cada vez que alguien salta cuando no debía, o no salta cuando debía, se le cuenta un error.
+
+**Cómo se gana:** gana el lobato que comete menos errores.
 
 ## Cierre
 - ¿Qué trampa los hizo equivocar más?
@@ -163,12 +167,8 @@ Todos alrededor de un círculo marcado. Con "¡Al estanque!" saltan adentro y co
 
 In the Pond. — Cubs form a circle round an Old Wolf just outside a chalk line. When the Old Wolf gives the order "In the Pond," all jump in. On the order "On the Bank," all jump out. If the order "In the Pond" is given when all are inside the circle, none must move, and none must move if when you are on the bank the order "On the Bank" is given. Such orders as "On the Pond" or "In the Bank" must be ignored, as they are traps set to catch you. The Cub with the least mistakes wins.
 
-**Versión en español:**
-
-**En el estanque.** Los lobatos forman un círculo alrededor de un Viejo Lobo, justo afuera de una línea de tiza. Cuando el Viejo Lobo da la orden "¡Al estanque!", todos saltan adentro. Con la orden "¡A la orilla!", todos saltan afuera. Si se da la orden "¡Al estanque!" cuando todos están adentro del círculo, nadie tiene que moverse, y nadie tiene que moverse si, estando en la orilla, se da la orden "¡A la orilla!". Órdenes como "¡Sobre el estanque!" o "¡En la orilla!" se tienen que ignorar, porque son trampas para hacerte equivocar. Gana el lobato que comete menos errores.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

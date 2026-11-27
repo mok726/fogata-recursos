@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Empujón"
+title: "Scrum"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-empujon/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - fuerza
   - equipo
 
@@ -65,10 +66,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -135,16 +138,21 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Empujón!
+# Scrum
 
 ## Resumen
 Dos equipos en fila, enfrentados en el medio del espacio, cada uno tomado de la cintura para formar un bloque. Al silbato, se inclinan y empujan con los hombros hasta hacer retroceder al otro unos 5 m. Se juega al mejor de tres.
 
 ## Desarrollo
-1. Cada equipo forma una línea y se toman de la cintura.
-2. Se enfrentan sobre la línea del medio.
-3. Al silbato, empujan hombro contra hombro (no con la cabeza).
-4. Gana el que hace retroceder al otro unos 5 m. Al mejor de tres.
+Un juego de fuerza en equipo, parecido al «scrum» del rugby: dos líneas se empujan hasta que una retrocede.
+
+1. Se arman dos equipos. Cada uno se forma en una línea, hombro con hombro, y las dos líneas se paran frente a frente en el medio del salón.
+2. Los jugadores de cada línea se toman de la cintura unos a otros, para que la línea quede compacta.
+3. Cuando suena el silbato, las dos líneas se inclinan hacia adelante y empujan de forma pareja contra la otra con los hombros y la cabeza.
+4. Se sigue empujando hasta que una de las líneas retrocede unos 5,5 metros desde el lugar de partida. Esa línea pierde ese «scrum».
+5. Se juega tres veces.
+
+**Cómo se gana:** gana el equipo que gana dos de los tres scrums.
 
 ## Cierre
 - ¿Qué ayudó más: la fuerza o empujar todos juntos?
@@ -161,15 +169,12 @@ Dos equipos en fila, enfrentados en el medio del espacio, cada uno tomado de la 
 
 Two teams of Scouts form up in line and stand face to face across the middle of the room. The Scouts grasp one another round the waist in order to make each line compact. When the whistle is blown, the opposing teams lean towards one another, and push steadily with their heads -and shoulders until one line is driven back six yards from the starting place, This is done three times, and the winning team is the one which gains two "scrums" out of the three.
 
-**Versión en español:**
-
-**SCRUM.**
-
-Dos equipos de scouts forman en línea y se paran frente a frente atravesando el medio del salón. Los scouts se toman unos a otros de la cintura para que cada línea quede compacta. Cuando suena el silbato, los equipos rivales se inclinan uno hacia el otro y empujan de forma pareja con la cabeza y los hombros hasta que una línea retrocede seis yardas (5,5 m) desde el lugar de partida. Esto se hace tres veces, y gana el equipo que gana dos "scrums" de los tres.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. XII (Games for Strength), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. XII (Games for Strength), juego 3: «Scrum». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

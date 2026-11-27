@@ -1,0 +1,175 @@
+---
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Tim el Novato"
+duration: "15 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/me-fui-de-campamento-y-lleve/"
+description: "Juego de memoria en cadena: cada uno repite todo lo que dijeron los anteriores y agrega una cosa más a la mochila."
+summary: "Recordar en orden todo lo que hay en la mochila de la ronda."
+
+# ========== AUTORÍA Y FUENTES ==========
+author:
+  - Gilcraft (The Boy Scouts Association)
+source:
+  - Gilcraft's Book of Games (1928)
+
+# ========== IMAGEN Y ESTADO ==========
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
+branch:
+  - "Comunidad"
+age: "7-14 años"
+age_group:
+  - "manada"
+  - "scouts"
+
+# ========== LOGÍSTICA ==========
+materials: []
+tools: []
+responsible:
+  - "Scouter"
+prep_time: "10 minutos"
+participants: "5-30"
+location: "Interior o exterior"
+space_required: "Lugar para una ronda sentada"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
+sdgs:
+  - 3
+
+# ========== INSIGNIAS / CÓDIGO ==========
+activity_badges:
+  - "juegosscouts"
+activity_code: "juegosscouts-B09"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
+tags:
+  - "juego-scout"
+  - "gilcraft"
+  - "dominio-publico"
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
+    url: "http://www.seascouts.ca/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
+    year: 1928
+  - entity: "Mariano S. Cosentino"
+    role: "Traducción, adaptación y compilación para publicación WEB"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5
+reflective_component: 2
+active_component: 1
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1
+complexity_organizer: 1
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner. Scouts in uniform sitting in a circle outdoors next to a packed backpack, one counting items on their fingers while the others listen attentively. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+activity_type:
+  - "Juego"
+category:
+  - "Juegos scouts"
+skills:
+  - "Comunicación"
+  - "Observación"
+
+# ========== VALORES SCOUT ==========
+scout_values:
+  - "Optimismo y Alegría"
+scout_method:
+  - "Aprender Haciendo"
+  - "Sistema de Equipos"
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # Castores no tienen competencias definidas
+rama_lobatos:
+  - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
+  - 32  # Me intereso por aprender cosas nuevas.
+rama_scouts:
+  - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 52  # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+rama_caminantes:
+  - 11  # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 48  # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+---
+
+# Tim el Novato
+
+## Resumen
+Un juego de memoria en ronda.
+
+## Desarrollo
+1. Los jugadores se sientan en ronda.
+2. El primero dice: «Tim el Novato se fue de campamento y llevó…» y nombra un objeto: «una carpa».
+3. El segundo repite la frase completa y agrega otro objeto: «Tim el Novato se fue de campamento y llevó una carpa y una linterna».
+4. El tercero repite todo y agrega un objeto más, y así sigue la ronda, con la lista cada vez más larga.
+5. El que se olvida un objeto o los dice en otro orden, sale. El que dirige va anotando la lista en un papel para controlar.
+
+**Cómo se gana:** gana el último que queda.
+
+### Variante: Solo cosas útiles
+Solo valen cosas que de verdad hay que llevar al campamento. Si alguien dice «una heladera», el grupo decide si se acepta.
+
+### Variante: Con gestos
+Cada cosa se dice con un gesto. Ayuda mucho a recordar.
+
+## Cierre
+- ¿Qué cosas de la lista sí hay que llevar al campamento? ¿Cuáles faltaron?
+
+## Notas para el educador
+- Al final, usá la lista para revisar entre todos qué lleva una buena mochila.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TENDERFOOT TIM.**
+
+Players in circle. One starts by saying “Tenderfoot Tim went to camp and took ...,” mentioning some object. No. 2 repeats No. 1’s statement and adds another object, and so on. Each falls out as he fails to repeat the list. Last in wins; a list should be kept by the leader on paper.
+
+---
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 23, «Tenderfoot Tim». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

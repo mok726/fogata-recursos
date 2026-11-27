@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Defendé el Balde"
+title: "Pegale al Balde"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/defende-el-balde/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - pelota
   - equilibrio
   - punteria
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,16 +144,21 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Defendé el Balde!
+# Pegale al Balde
 
 ## Resumen
 Un jugador se sube a un balde dado vuelta con un palo en la mano. Los demás tratan de pegarle al balde con la pelota y él lo defiende con el palo. Si le pegan al balde, el que tiró pasa a ser el defensor. Si el defensor se cae, lo reemplaza el último que tiró. La pelota siempre se tira desde donde quedó.
 
 ## Desarrollo
-1. Se sortea quién arranca sobre el balde.
-2. Los demás tiran desde donde cae la pelota cada vez.
-3. El defensor la desvía con el palo.
-4. Si la pelota pega en el balde, el que la tiró pasa a defender. Si el defensor se cae, pasa el último que tiró.
+Un juego de puntería y defensa: uno parado sobre un balde lo defiende con un palo y los demás tratan de pegarle con la pelota.
+
+1. Hace falta un balde, una pelota de tenis o de goma y un palo de unos 45 cm de largo.
+2. Puede jugar cualquier cantidad de jugadores. Primero se decide quién defiende el balde.
+3. Se da vuelta el balde, boca abajo, y el defensor se sube encima con el palo en la mano.
+4. Los demás se ponen alrededor y tratan de pegarle al balde con la pelota. El defensor, sin bajarse, la desvía con el palo para que no le pegue.
+5. La pelota siempre se vuelve a tirar desde el lugar donde cayó después de que el defensor la golpeó. El que está más cerca la levanta y tira desde ahí.
+6. Cuando un jugador le pega al balde, pasa a ser el defensor.
+7. Si el defensor pierde el equilibrio y se cae del balde, su lugar lo ocupa el último que tiró la pelota.
 
 ## Cierre
 - ¿Cómo hacías para no perder el equilibrio al pegarle?
@@ -165,15 +173,12 @@ Un jugador se sube a un balde dado vuelta con un palo en la mano. Los demás tra
 
 Here is a game which causes no end of fun. All that is required to play the game is a pail, a tennis or rubber ball, and a piece of wood about eighteen inches long. Any number can play, but to start you must decide who is to occupy the bucket first. Then turn the bucket upside down, and the chosen player, holding the piece of wood in his hand, mounts it. The rest of the players have to try to hit the bucket with the ball, whilst the one on it has to defend it and prevent the ball from hitting it. When the pail is hit, the player who hit it takes the place of the one on the pail. If the one on the pail loses his balance and falls off, the player who threw the ball last takes his place. By the way, the ball must be thrown from the spot where it falls after the defender has hit it.
 
-**Versión en español:**
-
-**PEGALE AL BALDE.**
-
-Este es un juego que da muchísima diversión. Todo lo que hace falta para jugarlo es un balde, una pelota de tenis o de goma y un trozo de madera de unas dieciocho pulgadas (45 cm) de largo. Puede jugar cualquier cantidad, pero para empezar hay que decidir quién ocupa primero el balde. Entonces se da vuelta el balde y el jugador elegido, con el trozo de madera en la mano, se sube. El resto de los jugadores tiene que tratar de pegarle al balde con la pelota, mientras el que está arriba tiene que defenderlo e impedir que la pelota le pegue. Cuando le pegan al balde, el jugador que le pegó ocupa el lugar del que está en el balde. Si el que está en el balde pierde el equilibrio y se cae, el jugador que tiró la pelota por última vez ocupa su lugar. De paso: la pelota tiene que tirarse desde el lugar donde cae después de que el defensor la golpeó.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 25. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 25: «Hit the Bucket». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

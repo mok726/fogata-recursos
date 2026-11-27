@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Nudos de la Primera y Segunda Estrella"
+title: "El Uso de los Nudos"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/nudos-de-la-primera-y-segunda-estrella/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -148,17 +149,25 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Nudos de la Primera y Segunda Estrella!
+# El Uso de los Nudos
 
 ## Resumen
-"¡Qué torpes son los chicos comunes para atar nudos!", dice B-P: hacen un enredo que no se puede desatar o que se suelta justo cuando tiene que aguantar. Para la Primera Estrella pedía el nudo llano (paquetes y vendas) y la vuelta de escota (unir dos cuerdas), y para la Segunda el ballestrinque y el as de guía. Consejo: aprender con cuerda, que te lo muestre alguien y, cuando creas que ya sabés, probar a oscuras.
+Un texto de B-P para los lobatos que explica por qué hay que saber hacer bien los nudos y cuáles se aprenden para la Primera y la Segunda Estrella (las dos etapas de progresión de la manada).
 
 ## Desarrollo
-1. Muestren el nudo llano y para qué sirve (atar paquetes y vendas). Cada uno lo practica hasta hacerlo sin mirar. Comparen con el nudo "de vaca", que se suelta.
-2. Sigan con la vuelta de escota para unir dos cuerdas, sobre todo si son de distinto grosor.
-3. Para los más avanzados: ballestrinque alrededor de un palo y as de guía (una gaza que no se corre).
-4. Desafío de B-P: hacer cada nudo con los ojos vendados. "Vas a descubrir que no sos tan bueno como creías."
-5. Postas: cada seisena pasa por una posta por nudo y un seisenero o un lobato que ya sabe le enseña al resto.
+**La idea del original:**
+1. B-P empieza con el relato de un accidente: desde un puente bajaron cuerdas para rescatar a unas personas, pero las cuerdas no tenían ninguna gaza (un lazo fijo, que no se cierra) para pasársela por el cuerpo o meter los brazos o las piernas. Como esas personas no sabían hacer un as de guía ni un nudo simple con gaza, no pudieron salvarse.
+2. Por eso, todo lobato tiene que saber hacer nudos como corresponde. B-P se burla de los chicos que hacen un enredo de cuerda que después no se puede desatar, pero que, en cuanto se lo tira, se corre y se suelta justo cuando tiene que aguantar. Eso no le sirve ni a un marinero ni a un constructor de puentes.
+3. Los nudos son fáciles de aprender, y el que los sabe se los puede enseñar a otros.
+
+**Cómo se practica:**
+1. Hay que usar cuerda o cordón, no hilo fino.
+2. Cuando alguien ya se cree un experto, que pruebe hacerlos a oscuras o con los ojos vendados. Seguramente descubre que no es tan bueno como creía. Y no siempre hay luz cuando hace falta un nudo: a la noche se puede caer una carpa, se puede soltar un caballo o puede hacer falta achicar la vela de un barco.
+3. Es difícil aprender un nudo leyendo un libro si nunca hiciste uno, así que lo mejor es pedirle a Akela (el dirigente de la manada) o al seisenero que lo muestre.
+
+**Primera Estrella:** dos nudos muy útiles. Según los epígrafes de los dibujos del original, son el **nudo llano**, para atar paquetes y vendas, y la **vuelta de escota**, para unir dos cuerdas o para atar una cuerda a una gaza. También aparece el **nudo simple**, que sirve para hacer una gaza grande, pero B-P avisa que es un «nudo de torpe»: muy fácil de hacer y muy difícil de desatar.
+
+**Segunda Estrella:** dos nudos más, que no son difíciles pero conviene que te los muestren: el **ballestrinque** y el **as de guía**.
 
 ## Cierre
 - ¿Qué nudo te costó más? ¿Para qué te puede servir cada uno?
@@ -186,24 +195,8 @@ In your First Star you learned two very useful knots. Here are pictures of two m
 They are neither of them very difficult, but it will be much easier for you to learn them if Akela or your Sixer show you how.
 [Captions:] Clove Hitch. Bowline.
 
-**Versión en español:**
-
-**PARA QUÉ SIRVEN LOS NUDOS**
-[…] Cuando bajaron las cuerdas desde el puente, tendrían que haber tenido una o dos gazas atadas para que las personas rescatadas se las pasaran alrededor del cuerpo o metieran las piernas o los brazos. Pero las cuerdas no tenían gazas, y la gente, que no sabía hacer un as de guía ni un nudo simple con gaza, no pudo salvarse.
-Todo lobato tiene que saber atar nudos como corresponde.
-¡Qué torpes son los chicos comunes para atar nudos! Hacen una especie de enredo de hilo o de cuerda que seguramente nunca van a poder desatar, pero que en cuanto se lo tira, de alguna manera se corre y se suelta, ¡justo cuando querés que aguante! Eso no le serviría nunca a un marinero ni a un constructor de puentes.
-Los nudos son muy fáciles de aprender, y en cuanto los sepas vas a poder enseñárselos a otros.
-Para tu Primera Estrella tenés que aprender dos de los más útiles. Para aprenderlos usá cuerda o cordón, no hilo, y en cuanto te creas un genio de los nudos, ¡probá hacerlos a oscuras o con los ojos vendados! Seguramente vas a descubrir que no sos tan bueno como creías.
-Pero acordate de que no siempre vas a tener luz de día cuando necesites atar un nudo. El viento puede voltearte la carpa a la noche, o se te puede soltar el caballo, o puede haber que achicar la vela; vas a tener muchas ocasiones de atar cuerdas a oscuras, y entonces vas a estar contento de haber aprendido antes.
-Es difícil seguir una explicación de un libro si nunca hiciste un nudo, así que pedile a Akela o a tu seisenero que te muestre cómo se hacen.
-[Epígrafes:] El nudo simple, también para hacer una gaza grande, es un nudo de torpe: muy fácil de atar, pero difícil de desatar. El nudo llano es para atar paquetes y vendas. La vuelta de escota es para unir dos cuerdas y para atar una cuerda a una gaza.
-**MÁS NUDOS**
-En tu Primera Estrella aprendiste dos nudos muy útiles. Acá tenés los dibujos de dos más que tenés que aprender antes de ganar tu Segunda Estrella.
-Ninguno es muy difícil, pero te va a resultar mucho más fácil aprenderlos si te los muestran Akela o tu seisenero.
-[Epígrafes:] Ballestrinque. As de guía.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,16 +147,23 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Decir la Hora!
+# Decir la Hora
 
 ## Resumen
-B-P cuenta que antes nadie necesitaba saber la hora exacta y hoy sí. Explica la aguja chica (horas), la grande (minutos) y cómo cada número marca cinco minutos, y desafía: "¿Qué hora es si la aguja chica está entre el 3 y el 4 y la grande en el 5?". Después propone fabricarse un reloj con agujas que se muevan.
+Una actividad del *Wolf Cub's Handbook* para que los lobatos aprendan a leer la hora en un reloj de agujas y, de paso, a ser útiles a los demás.
 
 ## Desarrollo
-1. Repasen: 60 segundos son un minuto, 60 minutos una hora, 24 horas un día.
-2. Cada uno fabrica su reloj: un plato de cartón con los doce números, las rayitas de los minutos y dos agujas de cartulina (una corta y una larga) unidas al centro con un broche mariposa.
-3. Expliquen cómo cada número marca cinco minutos: el 2 son "y diez", el 3 "y cuarto", el 6 "y media", el 9 "menos cuarto".
-4. Juego: el educador dice una hora y todos la marcan; después al revés, uno marca y los demás adivinan. Resuelvan el desafío de B-P (las tres y veinticinco).
+B-P empieza con una idea para charlar: hace mucho tiempo, cuando la gente pasaba el día cazando, comiendo y descansando, nadie necesitaba saber la hora exacta. Hoy tenemos tantas cosas que hacer que necesitamos saberla «al segundo».
+
+1. **Repasen las medidas del tiempo.** 60 segundos hacen un minuto, 60 minutos hacen una hora y 24 horas hacen un día con su noche.
+2. **Miren juntos un reloj de agujas** (uno de pared, o un dibujo grande). Tiene dos agujas, una grande y una chica, doce números y sesenta rayitas alrededor.
+3. **La aguja chica marca la hora.** Se mueve despacio, y el número al que apunta (o al que tiene más cerca) es la hora.
+4. **La aguja grande marca los minutos.** Se mueve mucho más rápido: da toda la vuelta, pasando por las sesenta rayitas, mientras la chica avanza de un número al siguiente.
+5. **Cada número vale cinco minutos para la aguja grande.** Así no hay que contar rayitas: en el 2 son las «y diez» (dos veces cinco); en el 3, las «y cuarto»; en el 6, las «y media»; en el 9, las «menos cuarto»; en el 8, las «menos veinte» (faltan cuatro veces cinco minutos para la hora siguiente).
+6. **Hagan preguntas de práctica.** Por ejemplo: si la aguja chica está entre el 3 y el 4 y la grande en el 5, ¿qué hora es? Son las tres y veinticinco.
+7. **Cada lobato se fabrica un reloj de juguete** con agujas que se muevan; por ejemplo, un plato de cartón con los números escritos y dos agujas de cartulina sujetas en el centro con un broche mariposa. Con ese reloj, uno pone una hora y el otro la tiene que decir.
+
+B-P cierra con la razón para aprender: así, cuando una persona mayor que no ve bien te pregunte la hora, vas a poder decírsela en vez de contestar «no sé».
 
 ## Cierre
 - ¿Qué hora es si la aguja chica está entre el 7 y el 8 y la grande en el 4?
@@ -179,20 +187,8 @@ The twelve figures really only mark the hours, but, because it would be such a n
 Can you tell me what the time would be if the little hand was between 3 and 4 and the big hand at 5? Why, twenty-five past three, of course.
 Now make yourself a model clock with hands that move. You'll soon be an expert, and when a poor old lady who can't see very well asks you what the time is you'll be able to tell her and not have to say, "I don't know."
 
-**Versión en español:**
-
-**DECIR LA HORA**
-Hace mucho, cuando casi todo el tiempo de un hombre se le iba en atrapar, cazar y comer su cena, y en descansar después de todo eso, nadie necesitaba saber la hora exacta del día o de la noche. Ahora la gente tiene tantas cosas que hacer que necesita saber la hora "al segundo".
-Si aprendiste las medidas en la escuela, sabrás que 60 segundos hacen un minuto, 60 minutos una hora y 24 horas un día con su noche.
-Acá hay un reloj. Vas a ver que tiene dos agujas (una grande y una chica), doce números y sesenta rayitas.
-La aguja chica se mueve despacio alrededor del reloj y, cuando apunta a un número o cerca de él, ese número es la hora del día o de la noche. (Si mirás otra vez el dibujo, vas a ver que la aguja chica apunta cerca del 12.)
-La aguja grande se mueve mucho más rápido, porque marca los minutos y tiene que pasar por las sesenta rayitas —de doce a doce— mientras la chica va de un número al siguiente.
-En realidad los doce números marcan solo las horas, pero, como sería muy molesto contar las rayitas cada vez que queremos saber cuántos minutos faltan o pasaron de una hora, los relojeros los ordenaron de manera que cada uno marque cinco minutos: el 2 es dos veces cinco minutos después de la hora, es decir, "y diez"; el 8 es cuatro veces cinco minutos antes de la hora siguiente, es decir, "menos veinte". El 3 es un cuarto de sesenta minutos (tres veces cinco), "y cuarto"; el 6, "y media", y el 9, "menos cuarto".
-¿Me podés decir qué hora sería si la aguja chica estuviera entre el 3 y el 4 y la grande en el 5? Las tres y veinticinco, por supuesto.
-Ahora fabricate un reloj de juguete con agujas que se muevan. Enseguida vas a ser un experto, y cuando una señora mayor que no ve bien te pregunte la hora, vas a poder decírsela y no vas a tener que responder "no sé".
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contrabandistas de la Costa"
+title: "Contrabandistas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contrabandistas-de-la-costa/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - agua
   - estrategia
   - contrabandistas
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,17 +142,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Contrabandistas de la Costa!
+# Contrabandistas
 
 ## Resumen
 Un grupo de contrabandistas llega "desde el mar" e intenta desembarcar su carga (un ladrillo por persona), esconderla en la "cueva" y volver a su bote. Los vigías se reparten a lo largo de la costa. Cuando uno ve el desembarco, da la alarma y junta al resto: el ataque solo vale si hay en el lugar al menos tantos vigías como contrabandistas.
 
 ## Desarrollo
-1. Marcá la costa, la cueva y el punto del "bote".
-2. Los vigías se reparten de a uno a lo largo de la costa; el resto de su grupo espera en su campamento hasta la alarma.
-3. Los contrabandistas eligen dónde desembarcar.
-4. El vigía que los ve da la alarma (silbato) y junta a los suyos.
-5. Para capturar hay que tener en el lugar al menos tantos vigías como contrabandistas. Si la carga llega a la cueva y los contrabandistas vuelven al bote, ganan.
+Un juego de día o de noche entre contrabandistas que desembarcan y guardacostas que vigilan.
+
+1. Se arman dos grupos: los contrabandistas y los guardacostas.
+2. El original no dice cómo se marca el terreno, así que el grupo lo acuerda antes de empezar. Por ejemplo: una línea larga (un camino, un alambrado o una hilera de árboles) hace de costa; todo lo que queda de un lado es el «mar», y en el mar se marca un punto que es el «bote», desde donde salen los contrabandistas y adonde tienen que volver. Del lado de tierra, cerca de la costa, se marca la base llamada «la Cueva de los Contrabandistas».
+3. Cada contrabandista lleva su mercadería: un ladrillo. Tienen que salir del bote, cruzar la costa («desembarcar») en el punto que elijan, esconder la mercadería en la cueva y volver al bote.
+4. Los guardacostas se reparten para vigilar la costa, que es larga. Algunos quedan como vigías solitarios, cada uno en su punto.
+5. El resto de los guardacostas espera acampado en su puesto. No se puede mover hasta que un vigía dé la alarma.
+6. Apenas un vigía ve desembarcar a los contrabandistas, da la alarma y junta al resto para atacar.
+7. El ataque solo vale si en ese lugar hay por lo menos tantos guardacostas como contrabandistas.
+8. El original tampoco explica en qué consiste el ataque. El grupo lo acuerda antes: por ejemplo, que un contrabandista queda atrapado cuando lo toca un guardacostas (siempre que haya en ese lugar al menos tantos guardacostas como contrabandistas), y que el atrapado entrega su ladrillo y sale del juego.
+
+**Cómo se gana:** los contrabandistas ganan si esconden la mercadería en la cueva y se vuelven a ir; los guardacostas, si llegan a tiempo y en número suficiente para atraparlos.
 
 ## Cierre
 - ¿Dónde estaba el hueco en la vigilancia?
@@ -168,15 +178,12 @@ Un grupo de contrabandistas llega "desde el mar" e intenta desembarcar su carga 
 
  One party of smugglers from the sea endeavor to land and conceal their goods (a brick per man) in a base called the "Smugglers' Cave," and get away in their boat again. Another party of "preventive men" is distributed to watch the coast a long distance with single Scouts. go soon as one preventive man sees the smugglers land he gives the alarm, and collects the rest to attack, but the attack cannot be successful unless there are at least as many preventive men on the spot as smugglers. The preventive men must remain bivouacked at their station until the alarm is given by the look-out men.
 
-**Versión en español:**
-
-**CONTRABANDISTAS (PARA DE NOCHE O DE DÍA).**
-
-Un grupo de contrabandistas que viene del mar intenta desembarcar y esconder su mercadería (un ladrillo por hombre) en una base llamada "la Cueva de los Contrabandistas", y volver a irse en su bote. Otro grupo de "guardacostas" se reparte para vigilar la costa a lo largo de una gran distancia, con scouts solos. Apenas un guardacostas ve que los contrabandistas desembarcan, da la alarma y junta al resto para atacar, pero el ataque no puede tener éxito si no hay en el lugar al menos tantos guardacostas como contrabandistas. Los guardacostas tienen que quedarse acampados en su puesto hasta que los vigías den la alarma.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. X (Seamanship Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. X (Seamanship Games), juego 3: «Smugglers». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Emboscadas"
+title: "Práctica de Emboscadas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/emboscadas/"
@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,17 +144,19 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Emboscadas!
+# Práctica de Emboscadas
 
 ## Resumen
-La Manada se divide en dos. Un grupo se adelanta y se esconde entre los arbustos al costado del camino. El otro lo sigue y nombra a todos los que puede ver sin salir del camino. Después se cambian los roles, cada vez con menos tiempo para esconderse.
+Un juego de escondida durante una caminata, para aprender a ocultarse rápido y a mirar con atención.
 
 ## Desarrollo
-1. Dividí la Manada en dos grupos.
-2. El primer grupo se adelanta por el camino y se esconde a los costados (arbustos, árboles, pastos altos).
-3. El segundo grupo avanza por el camino y nombra en voz alta a cada lobato que logra ver, sin salir del camino.
-4. Se cambian los roles. Al principio den tiempo para esconderse; después, cada vez menos.
-5. Variante de B-P: cuando alguien se aleja un momento, el resto se esconde lo más rápido posible para que, al volver, el grupo haya "desaparecido".
+1. La Manada se divide en dos grupos.
+2. El primer grupo sale adelante por el camino y, en algún punto, sus integrantes se esconden a los costados: detrás de arbustos, árboles, pastos altos o lo que haya.
+3. El segundo grupo viene después, caminando por el camino. Sin salir del camino, tienen que descubrir a los escondidos: cuando ven a uno, lo nombran en voz alta y ese queda descubierto.
+4. Cuando se termina, se cambian los papeles: el grupo que buscaba ahora sale adelante a esconderse. Se sigue así, alternando, todo el tiempo que quieran.
+5. Las primeras veces se les da a los que se esconden bastante tiempo para acomodarse. Con la práctica tienen que lograr esconderse cada vez más rápido.
+
+**Consejo del original:** cuando alguien se aparta un momento del grupo, los demás pueden aprovechar para esconderse todos lo más rápido posible, de modo que al volver encuentre que el grupo desapareció como por arte de magia. A los lobatos esto siempre les divierte.
 
 ## Cierre
 - ¿Qué escondites funcionaron mejor? ¿Por qué?
@@ -170,13 +173,8 @@ La Manada se divide en dos. Un grupo se adelanta y se esconde entre los arbustos
 4. Practice in Ambushing. — The Pack splits up into two parties, one of which goes out in advance and hides in bushes, etc., by the roadside. The other party follows, and calls out those Cubs whom they can see without leaving the road. They continue as long as desired; one party alternately hiding and seeking. At first, time should be given for the hiders to arrange themselves; later they should be able to do so quickly.
 Opportunity can always be taken when someone drops out for the rest of the party to get under cover as quickly as possible, so that when he returns the party has disappeared as if by magic. This always causes fun with the Cubs.
 
-**Versión en español:**
-
-**4. Práctica de emboscadas.** La Manada se divide en dos grupos; uno se adelanta y se esconde entre los arbustos, etc., al costado del camino. El otro grupo lo sigue y nombra en voz alta a los lobatos que puede ver sin salir del camino. Siguen todo lo que quieran, con un grupo escondiéndose y el otro buscando, alternadamente. Al principio hay que darles tiempo a los que se esconden para acomodarse; más adelante tienen que poder hacerlo rápido.
-Siempre se puede aprovechar cuando alguien se aparta para que el resto del grupo se ponga a cubierto lo más rápido posible, de modo que cuando vuelve el grupo desapareció como por arte de magia. Eso siempre les divierte a los lobatos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

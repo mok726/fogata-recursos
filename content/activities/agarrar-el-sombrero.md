@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agarrar el Sombrero"
+title: "Agarrá el Sombrero"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agarrar-el-sombrero/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - reflejos
   - duelo
   - patrullas
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,17 +142,22 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Agarrar el Sombrero!
+# Agarrá el Sombrero
 
 ## Resumen
 Un sombrero en el piso. Un jugador de cada patrulla se inclina sobre él, cada uno con la mano derecha por encima y la izquierda por debajo de los brazos del otro. Hay que levantar el sombrero con la izquierda y escaparse antes de que el otro te dé una palmada en la espalda con la derecha. El que gana toma prisionero al otro.
 
 ## Desarrollo
-1. Se pone el sombrero en el piso y sale un jugador de cada patrulla.
-2. Se inclinan sobre el sombrero, cruzando los brazos como se explica.
-3. Cada uno trata de levantarlo y escapar sin recibir la palmada en la espalda.
-4. El que lo logra toma prisionero al rival.
-5. Sigue hasta que una patrulla capture a toda la otra, o a la mitad.
+Un duelo de rapidez entre dos patrullas: hay que levantar un sombrero del piso y escaparse antes de que el rival te pegue en la espalda.
+
+1. Se pone un sombrero (o una gorra) en el piso, en el medio del salón. Cada patrulla se ubica de un lado.
+2. Sale al frente un scout de cada patrulla. Los dos se ponen frente a frente, con el sombrero entre ellos, y se inclinan hacia adelante.
+3. Cada uno pone la mano derecha por encima de los brazos del rival y la mano izquierda por debajo. Así quedan como trabados, cada uno con un brazo arriba y otro abajo del otro.
+4. Lo que hay que hacer es levantar el sombrero con la mano izquierda y escaparse con él antes de que el otro te pegue en la espalda con la mano derecha.
+5. El que lo logra (o sea, el que se escapa con el sombrero sin que le peguen, o el que le pega en la espalda al que lo agarró) gana el duelo y toma prisionero al rival. El prisionero pasa al lado de la patrulla que lo capturó.
+6. Después sale otra pareja, y así sucesivamente.
+
+**Cómo se gana:** el juego sigue hasta que una patrulla tomó prisioneros a todos los de la otra, o a la mitad, según lo que se haya acordado antes de empezar.
 
 ## Cierre
 - ¿Ganó el más rápido o el más astuto?
@@ -164,15 +172,12 @@ Un sombrero en el piso. Un jugador de cada patrulla se inclina sobre él, cada u
 
 A hat is placed on the floor. One Scout from each patrol comes forward. Both lean over towards the hat, each placing his right hand over and his left hand under the arms of his opponent. The thing to do is to remove the hat with the left hand and get away with it before the other fellow hits you on the back with his right hand. The one who succeeds in doing this takes his unsuccessful opponent prisoner. The game is continued until one patrol has made prisoners of all, or half, of the opposing patrol.
 
-**Versión en español:**
-
-**AGARRÁ EL SOMBRERO (PARA DOS PATRULLAS).**
-
-Se pone un sombrero en el piso. Sale al frente un scout de cada patrulla. Los dos se inclinan hacia el sombrero, cada uno con la mano derecha por encima y la izquierda por debajo de los brazos del rival. Lo que hay que hacer es levantar el sombrero con la mano izquierda y escaparse con él antes de que el otro te pegue en la espalda con la mano derecha. El que lo logra toma prisionero al rival que no lo logró. El juego sigue hasta que una patrulla tomó prisioneros a todos, o a la mitad, de la patrulla rival.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 11. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 11: «Take the Hat (for Two Patrols)». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

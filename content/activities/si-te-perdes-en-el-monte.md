@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - seguridad
   - perdido
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -145,23 +149,27 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
-# ¡Si Te Perdés en el Monte!
+# Si Te Perdés en el Monte
 
 ## Resumen
-«No estás perdido; lo que se perdió es la carpa», empieza Seton. El peligro de verdad no es el frío ni el hambre, sino **el miedo**, que te quita el juicio y las fuerzas. Sus consejos: subir a un lugar alto a buscar una referencia, gritar y esperar, hacer señales y, sobre todo, mantener la calma y ayudar a que te encuentren. Con las reglas actuales de búsqueda y rescate, el mensaje se resume en **quedate en un lugar, abrazá un árbol y hacé señales**. La Manada y la patrulla lo aprenden con una charla y un simulacro.
+Un texto para leer y charlar con la patrulla antes de una salida: qué hacer si una se pierde en el monte. La idea central es que perderse no es grave si se mantiene la calma.
 
 ## Preparación
 1. Prepará tarjetas con situaciones: «se hizo de noche», «me separé del grupo en la caminata», «no veo a nadie y escucho un silbato lejos».
 2. Elegí un sector seguro y delimitado para el simulacro.
 
 ## Desarrollo
-1. Leé el texto de Seton y la frase de la carpa. ¿Qué quiere decir?
-2. Las tres cosas seguras de Seton: no estás tan lejos como creés, tus amigos te van a encontrar pronto y podés ayudarlos haciendo señales. Repítanlas.
-3. Regla actual: **quedate en un lugar**. Si te movés, cuesta más encontrarte. Para la Manada, «abrazá un árbol»: elegí un árbol y quedate con él.
-4. Señales: tres silbatos cortos (señal de auxilio) y esperar. Atar algo de color fuerte en una rama a la vista. De noche, una linterna.
-5. Hacerse cómodo: sentarse sobre algo aislante, abrigarse, tomar agua si tenés.
-6. Simulacro: cada uno, por turnos, se «pierde» en el sector delimitado, aplica las reglas y el grupo lo busca siguiendo los silbatos.
-7. Los que buscan responden con un silbato largo («te escuchamos») y van en grupo, sin separarse.
+**Lo primero.** El original cita un dicho de los pueblos originarios de Norteamérica: «No estás perdido; lo que se perdió es la carpa». No es grave, salvo que hagas alguna tontería.
+
+1. Subí a una loma, a un árbol o a otro lugar alto y buscá alguna referencia que esté cerca del campamento.
+2. Acordate de tres cosas: no estás tan lejos del campamento como creés; tus amigos te van a encontrar pronto; y la mejor forma de ayudarlos es hacer señales.
+3. Lo peor que podés hacer es asustarte. El peligro de verdad no es tanto el frío o el hambre sino el miedo, que te hace perder el juicio y las fuerzas. Mantené la calma y todo va a salir bien.
+4. Si hay nieve, podés volver siguiendo tus propias huellas.
+5. Si no ves ninguna referencia, buscá el humo del fogón del campamento.
+6. Gritá cada tanto y esperá: aunque hayan pasado horas, puede que tus amigos estén lo bastante cerca para oírte. Si tenés silbato, tocalo dos veces seguidas desde tu lugar alto, esperá y escuchá. Repetilo varias veces y esperá bastante, quizás una hora.
+7. Si así no llega ayuda, el original indica hacer una señal de auxilio: dos fuegos con mucho humo (echándoles hojas verdes y madera podrida), separados por lo menos 15 metros para que el viento no los mezcle. Dos señales seguidas, dos silbatos o dos humos, quieren decir «estoy en problemas». Los del campamento, al verlas, contestan con un solo humo, que quiere decir «el campamento está acá».
+
+**En una palabra:** mantené la calma, ponete cómoda, dejá un registro de tu recorrido y ayudá a tus amigos a encontrarte.
 
 ## Cierre
 - ¿Qué es lo más difícil cuando uno se pierde? ¿Cómo se maneja el miedo?
@@ -217,30 +225,8 @@ one smoke, which means "Camp is here."
 In a word, "keep cool, make yourself comfortable, leave a record of your
 travels, and help your friends to find you."
 
-**Versión en español:**
-
-**SI TE PERDÉS EN EL BOSQUE**
-
-Si llegás a perder el camino, lo primero que tenés que recordar es lo que dice el indio: «No estás perdido; lo que se perdió es la carpa». No es grave. No puede serlo, salvo que hagas alguna tontería.
-
-Lo primero y más natural es subir a una loma, a un árbol o a otro mirador alto, y buscar alguna referencia cerca del campamento. Podés estar segura de esto:
-
-No estás ni cerca de tan lejos del campamento como creés.
-
-Tus amigos te van a encontrar pronto.
-
-Los podés ayudar mejor haciendo señales.
-
-Lo peor que podés hacer es asustarte. El enemigo verdaderamente peligroso no es tanto el frío o el hambre como el miedo. Es el miedo el que le roba el juicio y la fuerza de las piernas al que anda perdido; es el miedo el que convierte una experiencia pasajera en una tragedia final. Solo mantené la calma y todo va a salir bien.
-
-Si hay nieve en el suelo, podés seguir tus propias huellas para volver.
-
-Si no ves ninguna referencia, buscá el humo del fuego. Gritá de vez en cuando y esperá; porque, aunque hayas estado afuera durante horas, es muy posible que tus amigos estén a una distancia en que te puedan oír. Si tenés un arma, dispará dos veces seguidas desde tu mirador alto, después esperá y escuchá. Hacelo varias veces y esperá bastante, quizás una hora. Si así no llega ayuda, mandá una señal de auxilio, es decir, hacé dos fuegos con humo, sofocando dos fuegos vivos con hojas verdes y madera podrida, y mantenelos por lo menos a quince metros uno del otro, porque si no el viento los va a confundir. Dos disparos o dos humos se entienden en general como «estoy en problemas». Los que están en el campamento, al ver esto, tienen que hacer un humo, que quiere decir «el campamento está acá».
-
-En una palabra: «mantené la calma, ponete cómodo, dejá un registro de tu recorrido y ayudá a tus amigos a encontrarte».
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

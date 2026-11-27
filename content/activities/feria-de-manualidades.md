@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manualidades
   - reciclaje
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,16 +144,18 @@ rama_rovers:
   - 19   # Tomo decisiones económicas (y financieras) que acompañen mi proyecto de vida de manera consciente y responsable.
 ---
 
-# ¡Feria de Manualidades!
+# Feria de Manualidades
 
 ## Resumen
-Para un grupo o varios grupos juntos: un concurso del mejor objeto hecho por un scout con materiales que cuesten casi nada. Se hace una exposición con números y escenas a cargo de los scouts, se cobra la entrada y al final se rematan los objetos. Ganan los que consiguen el precio más alto.
+Una actividad para una tropa o para varias tropas juntas: un concurso de objetos hechos por los scouts, con exposición y remate final para juntar fondos.
 
 ## Desarrollo
-1. Anunciá el concurso y su regla de costo máximo (hoy, materiales reciclados o de costo mínimo).
-2. Cada scout trabaja en su objeto durante algunas semanas.
-3. Organicen la feria: exposición, números artísticos y entrada.
-4. Cierren con el remate. Ganan los objetos mejor pagados.
+1. Se anuncia un concurso con un buen premio para el mejor objeto hecho por un scout. La condición es que los materiales cuesten muy poco: se fija de antemano un tope bajo de gasto. Para participar se cobra una inscripción chica.
+2. Los scouts preparan sus objetos.
+3. Se arma una exposición con todo lo que hicieron. Se la acompaña con números y escenas a cargo de los scouts (teatro, canciones, demostraciones). Se cobra entrada en la puerta.
+4. Al final se rematan los objetos: el público ofrece dinero por cada uno y se lo lleva el que más paga.
+
+**Cómo se gana:** los premios son para los objetos por los que se pagó más en el remate.
 
 ## Cierre
 - ¿Qué aprendieron haciendo algo con casi nada?
@@ -171,16 +177,8 @@ the scouts, and take money at the doors.
 At the end sell the articles by auction: the articles which fetch the
 highest prices win the prizes.
 
-**Versión en español:**
-
-**PARA UNA TROPA O VARIAS TROPAS.** Ofrezcan un buen premio al mejor objeto hecho por un scout con materiales que no hayan costado más de 2 chelines. Inscripción en el concurso: 3 peniques.
-
-Hagan una exposición con estos objetos, junto con números y escenas a cargo de los scouts, etc., y cobren entrada en la puerta.
-
-Al final, vendan los objetos en subasta: ganan los premios los objetos por los que se paga más.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

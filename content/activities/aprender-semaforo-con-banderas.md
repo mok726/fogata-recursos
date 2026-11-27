@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprender Semáforo con Banderas"
+title: "Señales en Semáforo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-semaforo-con-banderas/"
@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,18 +146,37 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Aprender Semáforo con Banderas!
+# Señales en Semáforo
 
 ## Resumen
-B-P propone aprender el semáforo de a poco: primero la postura (firme, de frente, brazos rígidos), después las letras por "círculos" (A a G con un solo brazo, H a N con los dos, etc.) y armando palabras fáciles con las primeras letras. Las letras que se confunden tienen nombres de señalero.
+Cómo enseñarles a los lobatos el alfabeto semáforo: un código para mandar mensajes a alguien que está lejos y no nos oye, poniendo los brazos (o dos banderas) en distintas posiciones, una por letra.
 
 ## Desarrollo
-1. Explicá para qué sirve una señal: mandar un mensaje a alguien que no te oye, así que tiene que ser lo más claro posible.
-2. Practiquen la postura: parados firmes, pies un poco separados, de frente al receptor, banderines tomados abajo con el índice a lo largo del palo, brazos siempre rígidos.
-3. Primer círculo: A a G. Hasta la D (arriba de la cabeza) con el brazo derecho; el resto con el izquierdo. Armen palabras con esas letras (en castellano, por ejemplo: CAE, DEGA, FE) y que otro lobato las lea.
-4. Segundo círculo: H a N (sin J), con el brazo derecho en la posición de A y el izquierdo girando. Tercero: O a S, con el derecho en B. Sigan así, como las agujas de un reloj.
-5. Practiquen leer: pares enfrentados, uno manda una palabra corta y el otro la lee. Al final de cada palabra, banderines cruzados adelante (posición de listo); entre letras, una pausa quieta.
-6. Consejo de B-P: si no te acordás la letra siguiente, quedate quieto en la anterior; no muevas los brazos como molino.
+B-P les dice a los lobatos que lo importante no es solo saber cada letra, sino hacerla muy clara y prolija, para que el que mira la pueda leer. El original también trae el código Morse, pero aclara que no hace falta aprender los dos: conviene que el Akela (el jefe de la Manada) elija uno y que toda la Manada use el mismo.
+
+**Los nombres de las letras.** Para no confundir letras que suenan parecido cuando se dicen en voz alta (la B con la D o la V, la M con la N), los señaleros les dan nombres especiales. B-P usaba los de su época («Ack» para la A, «Beer» para la B, «Monkey» para la M…). Hoy se usa el alfabeto internacional: Alfa, Bravo, Charlie, Delta, Eco… Así, «GATO» se deletrea «Golf, Alfa, Tango, Oscar». A los chicos les divierte, porque los que no saben señales no entienden de qué hablan.
+
+**Cómo pararse, antes de aprender letras:**
+1. Parate firme, con los pies un poco separados y bien de frente al que recibe.
+2. Si usás banderas, agarrá cada palo bien abajo, junto a la tela, con el dedo índice estirado a lo largo del palo, de modo que el palo siga la línea del brazo.
+3. Mantené los brazos bien rectos: que no se doblen y que los palos no bailen.
+4. Cada brazo puede ir en siete direcciones distintas (abajo en diagonal, horizontal, arriba en diagonal, derecho arriba…). Aprendé a hacerlas bien y con energía. Cuando un brazo no se usa, queda colgando derecho hacia abajo.
+5. Al practicar, girá siempre como las agujas del reloj, empezando con la mano derecha.
+
+**El alfabeto, por «círculos»:**
+1. **Primer círculo, de la A a la G (un solo brazo).** Con el brazo derecho: A abajo en diagonal, B horizontal, C arriba en diagonal, D derecho arriba de la cabeza. Con el brazo izquierdo: E arriba en diagonal, F horizontal, G abajo en diagonal. B-P pide aprender estas siete letras perfectamente antes de seguir. Ya con ellas se arman palabras cortas (por ejemplo DEBE, CEBA, CAFE, BEBA). Que unos lobatos las hagan y otros las lean, así se acostumbran a verlas desde enfrente, donde todo aparece al revés.
+2. **Segundo círculo, de la H a la N.** El brazo derecho se queda fijo en la posición de la A y el izquierdo va girando, cruzando por delante del pecho: H (izquierdo en la dirección de la B), I (en la de la C), K (en la de la D), L (en la de la E), M (en la de la F) y N (en la de la G). La J no está en este círculo: viene después.
+3. **Tercer círculo, de la O a la S.** El brazo derecho se queda en la posición de la B y el izquierdo gira: O (C), P (D), Q (E), R (F), S (G). Así se sigue: el brazo derecho avanza despacio, como la aguja chica del reloj, y el izquierdo rápido, como la grande.
+4. **Cuarto círculo.** El derecho en la C: T (izquierdo en la D), U (en la E). Acá hay que pensar y no seguir de memoria «como una oveja»: después de la U no viene la V sino la Y (izquierdo en la F) y después la señal de «anular» (izquierdo en la G), que quiere decir «tachá eso, está mal».
+5. **Quinto círculo.** El derecho sube derecho arriba de la cabeza: con el izquierdo en la E se hace el «signo numérico» (avisa que vienen números), con el izquierdo en la F se hace la J (que también sirve de «signo alfabético», o sea, vuelven las letras) y con el izquierdo en la G, la V.
+6. **Sexto y séptimo círculo.** W (izquierdo en la F y derecho en la E) y X (en la G y en la E); y por último la Z (en la G y en la F). B-P no quiere que los lobatos manden números todavía, pero sí que conozcan los signos numérico y alfabético.
+
+**Cómo practicar:**
+1. Una vez sabido el alfabeto, todo es práctica. A un lobato no se le piden frases largas, ni a mucha distancia, ni rápido: solo que sepa bien las letras y que mande y lea palabras simples despacio.
+2. El error más común: mover los brazos para todos lados mientras uno piensa la letra siguiente. Así nadie puede leer el mensaje. Si acabás de hacer la P y no te acordás de la N, quedate quieto en la P hasta acordarte, y después hacé la N con calma pero firme. Al que lee no le molesta esperar, pero no entiende nada si agitás los brazos como un molino.
+3. Entre letra y letra de una misma palabra, no bajes los brazos: quedate un momento quieto en cada letra y pasá a la siguiente. Al terminar cada palabra, bajá las banderas de golpe a la «posición de listo», cruzadas delante tuyo.
+
+**Consejo del original:** desde el principio, «Hacé lo mejor» por señalar bien. No vale hacer una letra de cualquier manera porque «es solo práctica».
 
 ## Cierre
 - ¿Qué letras les cuestan más?
@@ -194,35 +214,8 @@ The third circle — O to S — here your right arm sticks at the B position, wh
 Once you know the alphabet and how to make the letters, all you need is practice. You are not asked to send long sentences, or to send over long distances, or at a high speed. All that is expected of you is that you should know your alphabet really well and read and send simple words slowly. But you must remember that before long you will be a Scout, and a lot will be expected of you in the signalling line. So keep it up and always try and do your best to remember all the letters. A silly thing Cubs often do when they are signalling, and which makes it impossible for anyone to read their messages, is to waggle their arms about while they think how to send the next letter. This looks foolish, to start with. Now if you have just sent P, and the next letter is N, don't start waving your arms like windmills, wondering where they must stop to make N. Keep quite still at P till you remember how to make N, and then make it calmly, but briskly. The other fellow won't mind a breathing space while you think — but he can't tell what on earth you mean if you wave your arms all over the place!
 When you have got as far as sending words, there is this to remember. At the end of every word bring your flags down sharply to the ready position — that is, crossed in front of you. But don't come down to the ready position after each letter in the word — keep still and pause for a moment at the letter made, before going on.
 
-**Versión en español:**
-
-**SEÑALES**
-Ahora llegamos a un tema grande: vamos a aprender a hacer señales, y es algo en lo que los lobatos de todo el reino están demostrando que son muy buenos. Los scouts parecen aprender señales el doble de rápido que los soldados. Las guías aprenden más rápido que los scouts, y los lobatos aprenden más rápido que las guías, los scouts o los soldados.
-Lo importante es no solo saber cómo se hace cada letra, sino hacerla muy clara y correctamente, para que los compañeros a quienes se la mandás puedan leerla. Así que tenés que cuidar mucho cómo te parás y poner los brazos exactamente en la posición correcta.
-Más abajo vas a encontrar notas sobre señales en semáforo y en Morse, pero no se espera que aprendas las dos. Mejor preguntale a Akela cuál vas a hacer, porque es mejor que toda la Manada use una sola.
-
-**SEMÁFORO**
-Antes de empezar a aprender señales en semáforo, tenés que pensar bien qué significa hacer señales. Significa que mandás un mensaje a alguien que está fuera del alcance de tu voz. Es muy difícil dar un mensaje realmente claro, con detalles, a alguien sin poder hablarle.
-Así que tu trabajo es hacerlo con los brazos o con las banderas de la forma más clara posible, haciéndole lo más fácil posible a la otra persona entenderte. Entonces, desde el principio, Hacé lo Mejor para señalar bien; no pienses que podés mandar una letra de cualquier manera solo porque estás practicando.
-Cuando hacés señales, es muy divertido aprender los nombres que los señaleros les dan a las letras. Por ejemplo, la A siempre se llama "Ack"; así nunca se confunde con la J ni con la I. Además, si alguien te grita la letra B, se puede confundir fácilmente con D, T, P o V, así que los señaleros siempre la llaman "Beer". La M y la N se confunden muy fácilmente, así que la M se llama "Monkey", y entonces no hay confusión posible. Solo unas pocas letras tienen nombres especiales; todas las demás se dicen de la forma común.
-Esta es la lista de las que tienen nombres especiales:
-la A se llama Ack; la B, Beer; la C, Charlie; la D, Don; la E, Edward; la H, Harry; la I, Ink; la J, Johnny; la M, Monkey; la P, Pip; la Q, Queen; la S, Sugar; la T, Tock; la V, Vick.
-Son bastante fáciles de aprender y es divertido, porque la gente que no sabe señales no entiende de qué estás hablando. Por ejemplo, si deletrearas CAT ("gato") dirías "Charlie, Ack, Tock", y DOG ("perro") lo deletrearías "Don, O, G".
-Antes de preocuparte por qué letra o palabra estás mandando, aprendé a pararte y a poner los brazos correctamente.
-1. Parate firme, con los pies un poco separados y bien de frente al receptor.
-2. Si usás banderas, agarrá los palos con firmeza, bien abajo junto a la bandera, con el índice apuntando a lo largo de la bandera y el palo apoyado a lo largo del brazo.
-3. Mantené siempre los brazos bien rígidos; no los dejes doblarse ni que los palos se bamboleen.
-4. Conocé las siete posiciones distintas en que se puede usar cada bandera por separado, y sabé hacer los movimientos con corrección y energía.
-5. Al practicar los movimientos, girá siempre como el reloj, es decir, empezando con la mano derecha.
-Ahora que sabés cómo hacer señales, es hora de aprender el alfabeto en semáforo. Esto significa hacer realmente lo mejor y poner toda la cabeza. Mirá la página siguiente.
-El primer círculo —de la A a la G— lo hacés todo con la mano derecha hasta la D (que es derecho arriba de la cabeza), y el resto con la izquierda. Aprendé estas siete letras perfectamente, al derecho y al revés, antes de aprender cualquier otra. Hasta podés armar palabras fáciles con ellas, como BAG, FAG, FED, CAGE, DEAF. Hacelas y pedile a otros lobatos que las lean, y pediles que hagan algunas para que vos las leas, así te acostumbrás a verlas al revés. Cuando estés bien seguro de estas letras, seguí.
-El segundo círculo —de la H a la N— vas a ver que lleva los dos brazos: el derecho como si hicieras la A y el izquierdo cruzado sobre el pecho. Después vas girando el brazo izquierdo mientras mantenés el derecho bien quieto. Así hacés H, I, K, L, M, N. (Fijate que la J queda afuera de este círculo; viene después.) Practicalas igual que la A a la G, y después pasá al siguiente.
-El tercer círculo —de la O a la S—: acá el brazo derecho se queda en la posición de la B, mientras el izquierdo gira. Seguís así, moviendo siempre el brazo derecho despacio (como la aguja chica del reloj) y el izquierdo rápido (como la grande). Es muy simple hasta que llegás a la U, en el cuarto círculo. Después de la U empiezan las dificultades. ¡Acá tenés que pensar, y no seguir a ciegas como una oveja! Después de la U, en lugar de la V, como esperarías, viene la Y (¡quién sabe por qué!), y después "Borrar o anular" (que significa "tachar porque está mal"). Después subí la mano derecha arriba de la cabeza y la siguiente en su lugar: ahora empezás el quinto círculo y estás haciendo una señal llamada "signo numérico" (que significa números). Después la J (que también significa signo alfabético). Después la V, la W, la X y la Z, que siguen muy simples en el sexto y séptimo círculos. No quiero que mandes números hasta que seas scout, pero podés aprender los signos numérico y alfabético del quinto círculo.
-Una vez que sabés el alfabeto y cómo se hacen las letras, lo único que necesitás es práctica. No te piden mandar oraciones largas, ni a grandes distancias, ni muy rápido. Lo único que se espera es que sepas el alfabeto muy bien y que leas y mandes palabras simples despacio. Pero acordate de que dentro de poco vas a ser scout, y en materia de señales se va a esperar mucho de vos. Así que seguí practicando y tratá siempre de hacer lo mejor para recordar todas las letras. Una tontería que los lobatos hacen muchas veces al señalar, y que hace imposible que alguien lea sus mensajes, es menear los brazos mientras piensan cómo mandar la letra siguiente. Para empezar, queda ridículo. Si acabás de mandar la P y la letra siguiente es la N, no empieces a agitar los brazos como un molino preguntándote dónde tienen que parar para hacer la N. Quedate bien quieto en la P hasta que te acuerdes cómo se hace la N, y entonces hacela con calma pero con energía. Al otro no le molesta una pausa mientras pensás, ¡pero no puede adivinar qué querés decir si agitás los brazos por todos lados!
-Cuando ya llegues a mandar palabras, hay que recordar esto: al final de cada palabra, bajá las banderas de golpe a la posición de listo, es decir, cruzadas adelante tuyo. Pero no bajes a la posición de listo después de cada letra de la palabra: quedate quieto y hacé una pausa breve en la letra hecha antes de seguir.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

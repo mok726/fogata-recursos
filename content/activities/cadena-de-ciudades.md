@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - geografia
@@ -65,7 +66,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -131,12 +135,28 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Cadena de Ciudades!
+# Cadena de Ciudades
 
 ## Resumen
-Dos grupos frente a frente, cada uno con un líder que recibe las ideas de su grupo en susurros. El líder de un grupo dice una ciudad. El otro líder tiene unos 15 segundos para decir otra que empiece con la última letra de la anterior. Si no responde a tiempo, el otro líder elige a un jugador del grupo contrario para pasarlo a su equipo y empieza una nueva cadena. Se puede jugar con personajes famosos, que es más difícil.
+Un juego de palabras por equipos: hay que nombrar ciudades que empiecen con la última letra de la ciudad que dijo el otro equipo.
 
 > **Nota para el educador:** buena excusa para aprender geografía. Se puede limitar a ciudades de tu país o de un continente.
+
+## Desarrollo
+1. Los jugadores se dividen en dos grupos, uno frente al otro.
+2. Cada grupo elige un jefe. Los demás le pueden soplar ideas al jefe, pero solo en voz baja.
+3. En el medio se para un árbitro con un reloj. Cada equipo tiene 15 segundos, o menos, para contestar.
+4. El jefe de un equipo empieza diciendo el nombre de una ciudad, por ejemplo «Córdoba».
+5. Dentro del tiempo, el jefe del otro equipo tiene que decir una ciudad que empiece con la última letra de la anterior: con la «a» de Córdoba, por ejemplo, «Azul». Después el primer equipo sigue con la «l»: «Lules». Y así sigue la cadena.
+6. Si un jefe no contesta a tiempo, el jefe contrario elige a un jugador del equipo que falló y se lo lleva a su propio equipo. Después ese mismo jefe, el que eligió al jugador, empieza una cadena nueva con otra ciudad.
+
+**Cómo se gana:** el original no lo dice; se puede jugar hasta que un equipo se quede sin jugadores, o un tiempo fijo, y gana el que tiene más.
+
+**Personajes famosos (variante del original):** se juega igual, pero con nombres de personas famosas. Es más difícil.
+
+## Cierre
+- ¿Qué ciudades no conocían? ¿Saben dónde quedan?
+- ¿Qué les ayudó a pensar rápido cuando les tocaba?
 
 ## Texto original completo de la actividad
 
@@ -159,16 +179,8 @@ player from his opponent's side, and in his turn starts a new chain. The
 game can be played also with the names of famous persons, but this is
 harder.
 
-**Versión en español:**
-
-**CADENAS DE CIUDADES.** Ubiquen a los jugadores en dos grupos, uno frente al otro. Cada grupo tiene que elegir un líder, con quien los integrantes de su bando se comunican en susurros. En el centro hay un árbitro, que con su reloj le da a cada bando un cuarto de minuto, o menos, para responder.
-
-El líder de un bando empieza diciendo una ciudad, por ejemplo New York. Dentro del tiempo fijado, el líder del bando contrario tiene que decir una ciudad que empiece con la última letra de New York, como Kalamazoo; y así sigue, con cada líder aprovechando el ingenio de todo su grupo para ayudarse.
-
-Cuando un líder no responde a tiempo, el líder contrario elige a un jugador del bando oponente y, a su vez, empieza una cadena nueva. El juego también se puede jugar con nombres de personas famosas, pero es más difícil.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

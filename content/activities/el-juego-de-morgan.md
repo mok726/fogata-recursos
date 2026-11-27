@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,22 +141,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Juego de Morgan!
+# El Juego de Morgan
 
 ## Resumen
-Una variante del Juego de Kim para jugar en la calle o al aire libre. Los participantes van hasta un cartel, lo miran durante un minuto y vuelven para contar todo lo que había. Baden-Powell lo tomó de la 21.ª Compañía de la Boys' Brigade de Dublín.
+Un juego de observación y memoria para la ciudad: hay que mirar un minuto una pared llena de carteles y después contar todo lo que había.
 
 ## Preparación
 1. Elegí un cartel, una vidriera o un afiche con bastante información, a cierta distancia del punto de reunión. Si no hay uno adecuado, prepará un afiche con dibujos, palabras y números.
 2. Ubicá a un adulto junto al cartel para tomar el tiempo.
 
 ## Desarrollo
-1. Los participantes van (o corren, si el lugar es seguro) hasta el cartel.
-2. Cada uno lo mira durante un minuto.
-3. Vuelven al punto de reunión y cuentan, de a uno o por escrito, todo lo que había en el cartel.
-4. Gana quien recuerda más detalles correctos.
+El nombre viene del grupo que lo inventó: B-P cuenta que lo jugaba la 21.ª Compañía de la Boys' Brigade de Dublín, un movimiento juvenil cristiano de la época.
 
-## Variantes
+1. El que dirige elige una cartelera o una pared con afiches y publicidades, a una distancia razonable del local. Antes del juego, manda allá a un árbitro para que espere y tome los tiempos.
+2. A la orden, los scouts salen corriendo hasta la cartelera.
+3. Al llegar, cada uno tiene un minuto para mirarla, controlado por el árbitro.
+4. Después vuelve corriendo al local y le cuenta al instructor todo lo que había en la cartelera: qué avisos, qué decían, de qué colores, qué dibujos o fotos tenían.
+
+El original no dice cómo se gana; una opción es que gane el que recuerda más avisos con más detalle.
+
+### Variantes
 - Jugarlo por patrullas: la patrulla arma un informe en conjunto.
 - Usar una vidriera: qué productos había, cuántos, de qué color y a qué precio.
 
@@ -181,18 +189,8 @@ already posted to time them. They are each allowed to look at this for
 one minute, and then to run back to headquarters and report to the
 instructor all that was on the hoarding in the way of advertisements.
 
-**Versión en español:**
-
-**EL JUEGO DE MORGAN**
-
-(Jugado por la 21.ª Compañía de la Boys' Brigade de Dublín.)
-
-**EN LA CIUDAD.**
-
-Se ordena a los scouts correr hasta una cartelera determinada, donde ya hay un árbitro apostado para tomarles el tiempo. A cada uno se le permite mirarla durante un minuto, y luego tiene que volver corriendo al local e informar al instructor todo lo que había en la cartelera en materia de avisos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

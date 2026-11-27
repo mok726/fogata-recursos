@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,17 +146,20 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡El Juego de Kim para Lobatos!
+# El Juego de Kim para Lobatos
 
 ## Resumen
-La seisena se sienta alrededor de una bandeja con hasta doce objetos y los mira un minuto (o mientras alguien cuenta hasta cincuenta). Se tapa la bandeja y cada uno anota todo lo que recuerda. B-P da un truco: fijarse primero en los objetos fáciles de olvidar.
+La versión para lobatos del clásico juego de memoria. Se llama así por Kim, el chico de la novela de Rudyard Kipling, que se entrenaba para ser espía con un juego parecido.
 
 ## Desarrollo
-1. Juntá en una bandeja (o en un círculo en el piso) hasta doce objetos: botones, lápiz, birome, fósforo, caja de fósforos, cortaplumas cerrado, etc.
-2. La seisena mira un minuto, o mientras alguien cuenta hasta cincuenta.
-3. Tapá la bandeja. Cada uno anota en un papel todos los objetos que recuerda.
-4. Destapá y cuenten aciertos.
-5. Truco de B-P: al mirar, fijate enseguida en los objetos que más fácil se olvidan (el botón chiquito, la caja de fósforos) y dejá que los llamativos se recuerden solos.
+1. Se juntan en una bandeja, o dentro de un círculo marcado en el piso, varios objetos chicos, no más de doce. Por ejemplo: botones, lápiz, lapicera, sacapuntas, goma, una llave, un clip, una moneda.
+2. La seisena (el grupito de seis lobatos) se sienta alrededor, donde todos puedan ver bien la bandeja.
+3. Miran los objetos durante un minuto, o mientras el que dirige cuenta hasta cincuenta.
+4. Se tapa la bandeja y cada uno escribe en un papel la lista de todos los objetos que recuerda.
+
+El original no dice cómo se gana; una opción es que gane el que anota más objetos bien.
+
+**Consejo del original:** apenas te toque mirar la bandeja, fijate cuáles son los objetos que te sería fácil olvidar, y grabátelos especialmente; los fáciles se van a recordar solos. Por ejemplo, un cortaplumas o un objeto grande se recuerdan sin esfuerzo, pero un botón de tela o una cosa chiquita se te escapan enseguida. Este truco sirve para cualquier juego de observación y memoria.
 
 ## Cierre
 - ¿Les sirvió el truco de B-P?
@@ -174,17 +178,8 @@ Collect on a tray (or on a circle on the floor) a number of articles—buttons, 
 When you are given your look at the tray, notice at once which are the objects you would be likely to forget, and stick them in your memory, specially, leaving the easy ones to look after themselves. For instance, the Scout knife and ink-pot will stand out in your memory by themselves, while the linen button, the nib, and the match-box would slip out very easily.
 The same thing applies to any other game of observation and memory.
 
-**Versión en español:**
-
-**JUEGOS PARA JUGAR**
-**1. El Juego de Kim.**
-El Juego de Kim no es difícil, y solo hace falta práctica para que te salga bien. Lo podés jugar con tu seisena.
-Juntá en una bandeja (o en un círculo en el piso) varios objetos —botones, cuchillos, lápiz, lapicera, fósforo, plumín, tintero, caja de fósforos, etc.—, no más de doce cosas. Hacé que tu seisena se siente alrededor, donde pueda ver la bandeja, y dejá que la miren durante un minuto, o hasta que cuentes cincuenta. Tapá la bandeja y hacé una lista de todos los objetos en un papel.
-Cuando te toque mirar la bandeja, fijate enseguida cuáles son los objetos que podrías olvidar y grabátelos especialmente en la memoria, dejando que los fáciles se cuiden solos. Por ejemplo, el cortaplumas scout y el tintero se van a destacar solos en tu memoria, mientras que el botón de tela, el plumín y la caja de fósforos se te escaparían muy fácilmente.
-Lo mismo vale para cualquier otro juego de observación y memoria.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

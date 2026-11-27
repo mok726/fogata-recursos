@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - juego-scout
   - punteria
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -139,18 +143,27 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Pato en la Piedra!
+# Pato en la Piedra
 
 ## Resumen
-Seton lo presenta como «un buen juego de los abuelos». El guardián pone su pato encima de una piedra o tocón. Los demás tiran sus patos desde la línea de tiro, a unos cinco metros, para derribarlo. Después tienen que ir a buscar su pato y volver a la línea sin que el guardián los toque. Pasada la línea muerta no se puede tocar el pato con las manos, solo empujarlo con el pie. Si el guardián toca a alguien, ese pasa a ser el guardián. Si alguien derriba el pato, el guardián no puede tocar a nadie hasta volver a ponerlo.
+Un juego de puntería y de correr, de los de toda la vida: cada uno tira su piedra para voltear la del guardián y después tiene que recuperarla sin que lo toquen.
 
 ## Desarrollo
-1. Marcá la base (tocón o ladrillo), una «línea muerta» que pase por la base y una línea de tiro paralela a unos 4-5 metros.
-2. El guardián pone su pato sobre la base y se queda cerca.
-3. Los demás, desde la línea de tiro, tiran sus patos por turnos para derribarlo.
-4. Para recuperar su pato, cada jugador puede ir a buscarlo, pero si está pasando la línea muerta solo lo puede empujar con el pie hasta la línea. Si lo toca con la mano más allá, el guardián lo puede tocar.
-5. Si el guardián toca a alguien que no llegó a la línea de tiro, ese pasa a ser el guardián.
-6. Si alguien derriba el pato, el guardián no puede tocar a nadie hasta que lo vuelva a poner en la base: es el momento de recuperar los patos.
+**Los términos del juego:**
+- **El pato:** es la piedra de cada jugador, grande, lisa y más o menos redonda, de unos 12 a 15 cm. Cada uno usa siempre la misma durante todo el juego.
+- **La piedra base:** es donde se apoya el pato del guardián. Puede ser una roca baja, un bloque, un tronco cortado o una lomita, en terreno plano.
+- **La línea muerta:** una línea que se marca en el suelo pasando justo por la piedra base, de costado a costado.
+- **La línea de tiro:** otra línea paralela a la primera, a unos 4,5 metros, desde donde se tira. Detrás de ella, nadie puede ser tocado.
+- **El guardián:** el que «la tiene». Cuida la piedra base.
+
+**Cómo se juega:**
+1. El guardián pone su pato encima de la piedra base y se queda cerca.
+2. Los demás se paran detrás de la línea de tiro y, por turno, tiran su pato para tratar de voltear el del guardián.
+3. Después de tirar, cada uno tiene que recuperar su pato, que en general quedó tirado más allá de la línea muerta.
+4. **Cuándo puede tocar el guardián:** solo mientras su propio pato está arriba de la piedra base, y solo a un jugador que levantó o tocó con la mano su pato cuando ese pato estaba más allá de la línea muerta. Desde ese momento lo puede tocar hasta que el jugador llegue de vuelta a la línea de tiro. El que es tocado pasa a ser el nuevo guardián.
+5. Para no correr ese riesgo, el jugador puede arrimar su pato con los pies, empujándolo hasta la línea muerta, pero no más allá. Mientras lo mueve con los pies, el guardián no lo puede tocar.
+6. Después, dice el original, el jugador «espera la oportunidad» para escaparse con su pato hasta la línea de tiro. El original no dice si al levantarlo justo sobre la línea muerta el guardián ya lo puede tocar; una opción es tomarlo así: levantarlo sobre la línea muerta es seguro, pero conviene esperar a que el guardián esté lejos o con su pato caído, porque si el pato se escapa otra vez más allá de la línea y lo toca con la mano, ya puede ser tocado.
+7. Cuando alguien voltea el pato del guardián con un tiro limpio, el guardián no puede tocar a nadie hasta que lo vuelva a poner sobre la piedra base. Ese es el momento más seguro: casi todos lo aprovechan para levantar sus patos, aunque estén más allá de la línea muerta, y volver corriendo a la línea de tiro.
 
 ## Cierre
 - ¿Qué estrategia funcionó mejor: tirar rápido o esperar?
@@ -191,24 +204,8 @@ If the duck is knocked off by anyone in fair firing, the keeper is
 powerless till he has replaced it. Meantime, most of the players have
 secured their ducks and got back safely to the firing line.
 
-**Versión en español:**
-
-**Pato en la piedra**
-
-Este es un buen juego de los abuelos.
-
-Cada jugador tiene una piedra grande, lisa y más o menos redonda, de unos doce a quince centímetros. Ese es su pato. Se queda con él para siempre.
-
-La piedra base es cualquier roca baja, bloque, tocón, bulto o lomita en terreno plano. Se traza una línea muerta que pasa por la piedra base, y otra paralela, a unos cinco metros, como línea de tiro.
-
-El que «la tiene», o «guardián», pone su pato encima de la piedra base. Los demás se paran en la línea de tiro y tiran sus patos al del guardián. No pueden levantarlos ni tocarlos con las manos cuando están más allá de la línea muerta. Si alguno lo hace, el guardián lo puede tocar (salvo que llegue a la línea de tiro) y mandarlo a cumplir el puesto de guardián en la piedra.
-
-Pero pueden ir empujando sus patos con los pies hasta la línea muerta, no más allá, y después esperar el momento para escaparse de vuelta a la línea de tiro, donde están a salvo en todo momento.
-
-Si alguien derriba el pato tirando como corresponde, el guardián no puede hacer nada hasta que lo vuelva a poner en su lugar. Mientras tanto, la mayoría de los jugadores recuperaron sus patos y volvieron a salvo a la línea de tiro.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Rastrear por el Olor"
+title: "Rastrear por el Olfato"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/rastrear-por-el-olor/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - noche
   - olfato
   - fuego
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,23 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Rastrear por el Olor!
+# Rastrear por el Olfato
 
 ## Resumen
 Una patrulla "enemiga" acampó en un lugar y encendió un fuego para cocinar. Al escuchar ruidos sospechosos, lo apaga, pero no puede frenar el humo. En una noche oscura y sin viento, los demás tienen que llegar hasta ella guiándose por el olor, mientras la patrulla escondida se queda completamente quieta.
 
 ## Desarrollo
-1. Elegí un lugar abierto y una noche calma.
-2. Un adulto prepara un fogón chico, en un lugar habilitado, y lo humedece para que largue humo.
-3. La patrulla escondida se queda quieta y en silencio junto al fuego.
-4. Los demás salen desde distintos puntos y avanzan guiándose por el olfato.
-5. Gana el primero o la primera patrulla que llega.
+Un juego nocturno para aprender a orientarse con el olfato: hay que encontrar un «campamento enemigo» siguiendo el olor del humo.
+
+La historia del juego es esta: una patrulla enemiga acampó en un lugar y, creyéndose segura, prendió un fuego para cocinar. Pero su centinela oyó ruidos sospechosos, así que apagaron el fuego. Lo que no pudieron frenar fue el humo, y por ese olor los van a encontrar.
+
+1. Se elige una noche tranquila, sin viento, pero oscura, y un lugar bastante abierto.
+2. Un grupo hace de patrulla enemiga y se ubica en un punto que los demás no conocen.
+3. Junto a ese grupo, el dirigente hace humo con papel madera que se quema lentamente dentro de una lata.
+4. El resto de los jugadores sale a buscar el campamento guiándose solo por el olor del humo.
+5. Mientras tanto, el grupo acampado se queda absolutamente quieto y en silencio.
+
+**Cómo se gana:** el juego termina cuando los rastreadores llegan al campamento; si juegan por patrullas, gana la primera en llegar.
 
 ## Cierre
 - ¿A qué distancia empezaste a sentir el olor?
@@ -168,15 +177,12 @@ Una patrulla "enemiga" acampó en un lugar y encendió un fuego para cocinar. Al
 
 Tracking by smell at night is a very important part of scouting. An enemy's patrol has encamped at a certain spot, and thinking all safe light a fire and prepare a meal. But the sentry reports suspicious signs and sounds, so they immediately damp the fire, but cannot stop the smoke. This should be carried out on a calm but dark night in a fairly open spot-the smoke can be caused by smoldering brown paper or damp gunpowder in a tin. The others have-to reach the spot by smell, while the encamped party lie absolutely still.
 
-**Versión en español:**
-
-**RASTREAR POR EL OLFATO.**
-
-Rastrear por el olfato de noche es una parte muy importante de la exploración. Una patrulla enemiga acampó en cierto lugar y, creyendo que todo es seguro, enciende un fuego y prepara una comida. Pero el centinela informa señales y ruidos sospechosos, así que enseguida humedecen el fuego, pero no pueden frenar el humo. Esto debería hacerse en una noche calma pero oscura, en un lugar bastante abierto; el humo se puede producir quemando lentamente papel madera o pólvora húmeda en una lata. Los demás tienen que llegar al lugar por el olfato, mientras el grupo acampado se queda absolutamente quieto.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VIII (Night Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VIII (Night Games), juego 3: «Tracking by Smell». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - ballestrinque
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -137,18 +141,36 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Cerco de Cuerda de la Patrulla!
+# El Cerco de Cuerda de la Patrulla
 
 ## Resumen
-Dos nudos para atar una cuerda a un poste o a un árbol. Los **dos medios cotes** se hacen rápido y se desatan fácil. El **ballestrinque** agarra firme y no se corre de costado. Con ellos se arma un cerco de cuerda para el campamento: la punta se ata al primer árbol con medio cote y se sigue con ballestrinques en los demás. Para cerrar se hace la «baranda humana» del manual. Cada scout hace un as de guía en su cuerda, del tamaño de la mano. Le une con vuelta de escota la cuerda de quien está a su derecha, y entre todos forman una línea.
+Una técnica de nudos para armar entre todos una baranda o cerco de cuerda, por ejemplo para marcar un límite o contener a la gente. Se usan cuatro nudos: el as de guía, la vuelta de escota, el medio cote y el ballestrinque.
 
 ## Desarrollo
-1. Dos medios cotes: pasá el chicote por debajo y alrededor del poste, alrededor del firme y por debajo de sí mismo. Repetí una segunda vez sobre el firme.
-2. Ballestrinque: pasá el chicote alrededor del poste, por encima del firme, otra vuelta alrededor del poste y por debajo del firme. Metelo por la vuelta de abajo y apretá.
-3. Práctica: cada uno ata los dos nudos a un árbol o estaca, y después en una rama horizontal.
-4. Cerco de campamento: con una cuerda larga, atá la punta al primer árbol con medio cote y seguí con ballestrinques en los demás árboles para marcar un sector (por ejemplo, la zona del fuego).
-5. Baranda humana: cada scout hace un as de guía del tamaño de la mano en su cuerda, ata con vuelta de escota la cuerda de su vecino de la derecha y sostiene su tramo usando el lazo como manija.
-6. Caminen juntos por el terreno sin que la línea se corte. Después, desarmen todo y dejen los árboles como estaban.
+Para leer los pasos conviene saber dos palabras de nudos: el **chicote** es la punta libre de la cuerda, con la que se trabaja, y el **firme** es el resto de la cuerda, la parte que no se mueve.
+
+**Cerco hecho con las personas:**
+1. Cada scout hace un as de guía en la punta de su cuerda, con un lazo lo bastante grande como para pasar la mano.
+2. En ese lazo ata, con una vuelta de escota, la cuerda de su compañero de la derecha.
+3. Así queda una cuerda larga, y cada uno la sostiene en su lugar agarrando su as de guía como si fuera una manija.
+
+**Dos medios cotes:** sirven para atar la punta de una cuerda a un palo o un poste. Se desatan fácil. Se usan para tirar de algo, para atar las cuerdas de un toldo o la driza (la cuerda) de una bandera. Para hacerlo:
+1. Tomá el chicote con la mano derecha.
+2. Pasalo por debajo y alrededor del palo.
+3. Después pasalo alrededor del firme.
+4. Metelo por debajo de sí mismo, de modo que forme una curva por la que sale el firme. Ese es el primer medio cote.
+5. Repetí lo mismo para el segundo medio cote, pero esta vez alrededor del firme en lugar del palo.
+
+**Ballestrinque** (también llamado nudo de los constructores): sirve para atar la punta de una cuerda a un poste o un árbol. Sostiene firme y no se corre de costado. Es útil para atar un animal, un bote, la cuerda de un toldo o los vientos de la carpa. Para hacerlo:
+1. Tomá el chicote con la mano derecha.
+2. Pasalo alrededor del poste.
+3. Cruzalo por encima del firme.
+4. Seguí dando la vuelta alrededor del poste.
+5. Pasalo por debajo del firme.
+6. Subí el chicote metiéndolo por la vuelta de abajo.
+7. Apretá.
+
+**Cerco atado a árboles o postes:** donde hay árboles o postes, se ata la punta de la cuerda al primero con un medio cote y después se la sujeta a cada uno de los siguientes con un ballestrinque.
 
 ## Cierre
 - ¿Cuándo conviene el ballestrinque y cuándo los dos medios cotes?
@@ -216,48 +238,8 @@ Slip the end up through the lower loop;
 
 Pull tight.
 
-**Versión en español:**
-
-Cuando un grupo de scouts hace una baranda de cuerda, cada una hace un as de guía en la punta de su cuerda, lo bastante grande como para pasar la mano, le ata con una vuelta de escota la cuerda de su vecina de la derecha y sostiene su parte de la línea usando el as de guía de su cuerda como manija.
-
-[Ilustración: 4. Dos medios cotes]
-
-Los dos medios cotes se usan para asegurar una punta de cuerda a un palo, un poste, etc. Es un nudo que se desata fácil. Se usa para arrastrar, para sujetar las cuerdas de un toldo, las drizas de una bandera, etc.
-
-Para hacer un medio cote:
-
-Tomá el chicote con la mano derecha;
-
-Pasalo por debajo y alrededor del palo;
-
-Alrededor del firme;
-
-Por debajo de sí mismo, formando un seno del que sale el firme. Repetí lo mismo para el segundo medio cote, usando el firme en lugar del palo.
-
-[Ilustración: 5. Ballestrinque]
-
-El ballestrinque, que también se llama nudo de los constructores, sirve para asegurar una punta de cuerda, generalmente a un poste o a un árbol. Este nudo sostiene firme y no se corre de costado. Es útil para atar un animal o un bote. Puede usarse para sujetar la cuerda de un toldo, los vientos de la carpa, para atar entablillados o para asegurar la punta de una venda cuando se usa para sujetar a una persona que delira.
-
-Donde hay árboles o postes se puede hacer un cerco o baranda atando la punta de la cuerda al primer árbol con un medio cote y usando después un ballestrinque en los demás árboles o postes.
-
-Para atar el ballestrinque:
-
-Tomá el chicote con la mano derecha;
-
-Pasalo alrededor del poste;
-
-Por encima del firme;
-
-Seguí alrededor del poste;
-
-Por debajo del firme;
-
-Pasá el chicote hacia arriba por la vuelta de abajo;
-
-Apretá.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

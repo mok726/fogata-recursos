@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - buena-accion
   - servicio
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,15 +144,18 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Caballeros Andantes!
+# Caballeros Andantes
 
 ## Resumen
-Los scouts salen solos, en parejas o en patrulla a buscar a quién ayudar. En la ciudad, personas que necesiten una mano; en el campo, pasan por casas o chacras y ofrecen hacer tareas sin cobrar. Al volver, cuentan por su honor qué hicieron. Se puede jugar como **carrera de buenas acciones**.
+Una actividad de servicio: los scouts salen, como los caballeros andantes de los cuentos, que recorrían los caminos buscando a quién ayudar, a hacer buenas acciones y después cuentan lo que hicieron.
 
 ## Desarrollo
-1. Acordá zona, horario y reglas (de a dos como mínimo, nunca entrar a una casa).
-2. Cada grupo sale a buscar oportunidades de ayudar.
-3. Al volver, cada uno cuenta qué hizo. Se confía en su palabra.
+1. Los scouts salen de a dos o en patrulla, a una zona que el dirigente acordó de antemano.
+2. **En la ciudad:** buscan a personas que necesiten una mano, como alguien mayor cargando bolsas, una persona con chicos que no puede con todo, o un vecino que necesita ayuda con algo sencillo.
+3. **En el campo:** pasan por las chacras o casas de la zona y ofrecen hacer pequeñas tareas, gratis.
+4. Al volver, cada scout cuenta, bajo su palabra de honor, qué hizo.
+
+**Carrera de la buena acción (variante del original):** la misma actividad se puede hacer como carrera. El original no lo dice; una opción es que gane la patrulla que haga más buenas acciones en un tiempo fijado.
 
 ## Cierre
 - ¿Cómo reaccionó la gente? ¿Les costó ofrecer ayuda?
@@ -168,12 +175,8 @@ and report, on their honour, what they have done. If in the country call
 at any farms or cottages and ask to do odd jobs--for nothing. The same
 can be made into a race called a "Good Turn" race.
 
-**Versión en español:**
-
-**"CABALLERÍA ANDANTE."** Los scouts salen solos, en parejas o como patrulla. Si es en una ciudad, a buscar mujeres o niños que necesiten ayuda, y volver e informar, por su honor, lo que hicieron. Si es en el campo, pasar por chacras o casas y pedir hacer changas, gratis. Lo mismo se puede convertir en una carrera llamada carrera de "buenas acciones".
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

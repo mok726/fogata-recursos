@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Expediciones de \"Como Si\""
+title: "Expediciones"
 duration: "2 a 3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/expediciones-de-como-si/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -151,20 +152,28 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Expediciones de "Como Si"!
+# Expediciones
 
 ## Resumen
-B-P propone que los picnics y salidas al campo sean una gran fantasía: la Manada es un grupo de náufragos o una expedición exploradora, y toda la comunicación se hace con banderines y silbato. Incluye la práctica de señales de silbato con la Manada dispersa en un campo.
+Una forma de convertir una salida al campo en una gran aventura imaginaria, y de practicar de paso las señales con silbato.
 
 ## Preparación
 1. Elegí la historia: náufragos en una isla, expedición al Polo, exploradores de la selva.
 2. Acordá las señales de silbato y de brazos (alerta: un toque largo; reunión; dispersarse; alto) y una señal de "como estaban" (dos toques cortos).
 
 ## Desarrollo
-1. Antes de salir, contá la historia y repasá las señales. Solo los adultos (o quien tenga ese rol) usan el silbato.
-2. Practiquen en el campo: los lobatos se dispersan y obedecen enseguida cada señal. Akela observa y nombra al último en reaccionar. Después de cada orden, la señal de "como estaban".
-3. Durante la salida, toda comunicación entre grupos se hace con banderines o silbato, dentro de la historia (avisar que se encontró agua, que hay que reunirse, que se vio "tierra").
-4. Al final, reunión con merienda y relato de la aventura.
+**La expedición.** Un picnic o una salida se puede vivir como un gran juego de «como si»: la Manada se convierte, por ejemplo, en un grupo de marineros náufragos, en una expedición de exploradores o en una patrulla que cruza un territorio desconocido. Durante toda la aventura, las órdenes al grupo se dan con banderas de señales o con el silbato, como si fuera una expedición de verdad.
+
+**Práctica de señales:**
+
+1. Los lobatos se dispersan por un campo.
+2. El Jefe de Manada da una señal con el silbato o con un movimiento (por ejemplo, con el brazo), y todos tienen que obedecerla enseguida.
+3. El Jefe mira con atención y puede decir en voz alta el nombre del último que obedeció. Eso ayuda a que todos estén atentos.
+4. Conviene acordar una señal de «como estaban» (por ejemplo, dos toques cortos) para dar después de cada orden, y que todos vuelvan a lo que hacían.
+
+**Las señales con silbato** las da el Jefe de Manada o el seisenero (el chico que guía una seisena, el pequeño grupo dentro de la Manada). Los lobatos no tocan el silbato cuando se les ocurre: en un juego al aire libre eso provoca confusiones y hasta peleas. Pero todos tienen que saber qué quiere decir cada señal.
+
+**La más importante es la señal de alerta:** un toque largo. Cuando suena, se deja lo que se esté haciendo y se obedece al instante.
 
 ## Cierre
 - ¿Qué señales funcionaron mejor? ¿Cuáles se confundieron?
@@ -185,16 +194,8 @@ For simple practice of the sound and movement signals the Cubs should be scatter
 SOUND SIGNALS
 These are made by means of a whistle. You don't generally make them — it's usually your Cubmaster. There is nothing so annoying in field games and practices as a Cub or Scout who thinks he may send whistle signals whenever he likes! It often causes mistakes and even ructions. But you must know exactly what he means when your Sixer or Cubmaster gives an order by whistle. Most important of all, learn the alert whistle, and leap to obey it at once, whatever you may be doing. It is one long blast.
 
-**Versión en español:**
-
-**Expediciones.** Los picnics y las salidas al campo se pueden vivir como un gran "como si". La Manada se convierte en un grupo de marineros náufragos, una tribu de pieles rojas, una expedición exploradora, un grupo de soldados británicos en país enemigo. Toda la comunicación con este grupo se tiene que hacer con banderas de señales, silbato, etc.
-Para practicar simplemente las señales sonoras y de movimiento, los lobatos se dispersan por un campo mientras el Jefe de Manada da la señal, que hay que obedecer enseguida. Él tiene que observar con atención, y puede decir en voz alta el nombre (o el número) del último lobato en obedecer la orden. Eso ayuda a estar atentos. Sería buena idea acordar alguna señal de "como estaban", para dar después de que se obedeció cada orden (digamos, dos toques cortos).
-
-**SEÑALES SONORAS**
-Se hacen con un silbato. Por lo general no las hacés vos: normalmente las hace tu Jefe de Manada. ¡No hay nada tan molesto en los juegos y prácticas de campo como un lobato o un scout que cree que puede tocar el silbato cuando se le antoja! Muchas veces provoca errores y hasta líos. Pero tenés que saber exactamente qué quiere decir tu seisenero o tu Jefe cuando da una orden con el silbato. Lo más importante de todo: aprendé el silbato de alerta, y saltá a obedecerlo enseguida, estés haciendo lo que estés haciendo. Es un toque largo.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

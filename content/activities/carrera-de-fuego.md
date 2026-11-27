@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera de Fuego"
+title: "Carrera para Encender Fuego"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-de-fuego/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - fuego
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,10 +144,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Carrera de Fuego!
+# Carrera para Encender Fuego
 
 ## Resumen
-Una competencia clásica de campamento. Cada patrulla junta la leña, arma el fuego y lo enciende. Gana la primera que logra que arda el tronco que entregó el árbitro.
+Una carrera para practicar cómo encender un fuego rápido y bien: no alcanza con hacer llama, hay que lograr que prenda un leño de verdad.
 
 ## Preparación
 1. Verificá que el lugar esté habilitado para hacer fuego y que no haya prohibición por riesgo de incendio.
@@ -152,10 +156,11 @@ Una competencia clásica de campamento. Cada patrulla junta la leña, arma el fu
 4. Antes del juego, enseñá a armar el fuego: yesca, ramitas finas, ramas más gruesas y leña.
 
 ## Desarrollo
-1. A la señal, cada patrulla junta el material (solo ramas caídas y secas).
-2. Arman el fuego y lo encienden, con una cantidad limitada de fósforos (por ejemplo, tres).
-3. El árbitro entrega a cada patrulla un tronco o leño. Gana la primera patrulla que logra que arda.
-4. Al final, todas apagan su fuego con agua y revuelven las cenizas hasta que estén frías al tacto.
+1. El árbitro le da a cada jugador, o a cada patrulla, un leño, todos parecidos.
+2. A la señal, cada uno junta el material que necesita para el fuego: yesca (pasto seco, hojitas, corteza fina), ramitas finas y leña más gruesa.
+3. Arma el fuego, lo enciende y lo va alimentando hasta que el leño que le dio el árbitro quede prendido y ardiendo.
+
+**Cómo se gana:** gana el primero que logra que el leño del árbitro arda.
 
 ## Cierre
 - ¿Qué les funcionó para que el fuego prendiera rápido?
@@ -171,12 +176,8 @@ Una competencia clásica de campamento. Cada patrulla junta la leña, arma el fu
 FIRE-LIGHTING RACE.--To collect material, lay, and light a fire till the
 log given by umpire is alight.
 
-**Versión en español:**
-
-**CARRERA DE FUEGO.** Juntar el material, armar y encender un fuego hasta que arda el leño que da el árbitro.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - agua
   - botes
   - tesoro
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -142,17 +145,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Isla del Tesoro!
+# La Isla del Tesoro
 
 ## Resumen
 Hay un tesoro escondido en una isla o un tramo de costa, y quien lo escondió dejó un mapa con pistas (rumbos de brújula, marcas). El mapa está escondido cerca del desembarco. Las patrullas, por turno, reman desde cierta distancia, desembarcan, encuentran el mapa y después el tesoro. Gana la que vuelve con el tesoro en menos tiempo.
 
 ## Desarrollo
-1. Escondé el tesoro y, cerca del desembarco, el mapa con las pistas.
-2. Cada patrulla sale remando desde el punto de partida, con cronómetro.
-3. Desembarca, busca el mapa y sigue las pistas hasta el tesoro, cuidando de no dejar huellas que ayuden a los que vienen detrás.
-4. Vuelve remando con el tesoro. Se esconden de nuevo el mapa y el tesoro para la patrulla siguiente.
-5. Gana el menor tiempo.
+Un juego de búsqueda en el agua: cada patrulla rema hasta una isla, encuentra un mapa y con él descubre un tesoro.
+
+**La historia:** se sabe que hay un tesoro escondido en una isla o en un tramo de costa, y el que lo escondió dejó un mapa con pistas para encontrarlo.
+
+1. Se delimita la isla o el tramo de costa donde se va a jugar.
+2. El que dirige esconde el tesoro y prepara un mapa con pistas para llegar a él: rumbos de brújula, marcas que deja la marea, referencias del lugar, etc.
+3. Esconde el mapa en algún lugar cerca del sitio donde se desembarca.
+4. Las patrullas juegan por turno. Cada una sale remando desde un punto fijo, desembarca, busca el mapa y con él encuentra el tesoro. Después vuelve al punto de partida.
+5. Hay que tener cuidado de no dejar huellas cerca del tesoro, porque si no, las patrullas siguientes lo encuentran enseguida.
+6. Cuando una patrulla termina, se vuelven a esconder el mapa y el tesoro para la siguiente.
+
+**Cómo se gana:** se toma el tiempo de cada patrulla. Gana la que vuelve al punto de partida con el tesoro en menos tiempo.
+
+**En un río (variante del original):** se puede jugar en un río, y las patrullas tienen que cruzarlo remando para buscar el tesoro en la otra orilla.
 
 ### Variante: En tierra
 Sin botes, la "travesía" puede ser cruzar un puente o recorrer un sendero hasta una zona marcada como "isla".
@@ -171,15 +183,12 @@ Sin botes, la "travesía" puede ser cruzar un puente o recorrer un sendero hasta
 
 A treasure is known to be hidden upon a certain island or bit of shore marked off, and the man who hid it left a map with clues for finding it (compass directions, tide marks, etc.). This map is hidden somewhere near the landing-place; the patrols come in turn to look for it-they have to row from a certain distance, land, find the map, and finally discover the treasure. They should be careful to leave no foottracks, etc., near the treasure, because then the patrols that follow them will easily find it. The map and treasure are to be hidden afresh for the next patrol when they have been found. The patrol wins which return to the starting-place with the treasure in the shortest time. (This can be played on a river, the patrols having to row across the river to find the treasure.)
 
-**Versión en español:**
-
-**LA ISLA DEL TESORO.**
-
-Se sabe que hay un tesoro escondido en cierta isla o en un pedazo de costa delimitado, y el hombre que lo escondió dejó un mapa con pistas para encontrarlo (rumbos de brújula, marcas de la marea, etc.). Este mapa está escondido en algún lugar cerca del desembarcadero; las patrullas van por turno a buscarlo: tienen que remar desde cierta distancia, desembarcar, encontrar el mapa y finalmente descubrir el tesoro. Tienen que tener cuidado de no dejar huellas, etc., cerca del tesoro, porque si no, las patrullas que los siguen lo van a encontrar fácilmente. Cuando las encontraron, el mapa y el tesoro se vuelven a esconder para la patrulla siguiente. Gana la patrulla que vuelve al punto de partida con el tesoro en el menor tiempo. (Esto se puede jugar en un río: las patrullas tienen que cruzar el río remando para encontrar el tesoro).
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. X (Seamanship Games), juego 2. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. X (Seamanship Games), juego 2: «Treasure Island». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

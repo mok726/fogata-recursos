@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - juego-scout
   - juego-nocturno
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -140,22 +144,22 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Fuego Fatuo!
+# Fuego Fatuo
 
 ## Resumen
-Un juego nocturno del Boy Scouts Handbook. Dos scouts salen en una dirección con una linterna. Dos minutos después sale la patrulla a perseguirlos. Los de la linterna tienen que mostrar la luz **por lo menos una vez por minuto**, y el resto del tiempo la tapan. Se turnan para llevarla, y el que no la lleva puede mezclarse entre los perseguidores sin que lo reconozcan y relevar a su compañero cuando está en apuros. Los dos pueden ser atrapados, y conviene que acuerden señales secretas entre ellos.
+Un juego nocturno de persecución a campo traviesa. Se llama así por el «fuego fatuo», esa lucecita que, según las leyendas, aparece y desaparece de noche en el campo y nadie logra alcanzar.
 
 ## Preparación
 1. Elegí un terreno conocido, sin pozos, alambrados, agua ni barrancas, y marcá los límites. Recorrelo de día con el grupo.
 2. Acordá una señal de fin de juego (por ejemplo, un silbato largo y luces de los adultos encendidas).
 
 ## Desarrollo
-1. Formá la pareja «fuego fatuo» con la linterna y un pañuelo distinto. Que acuerden sus señales secretas (un silbido, una palabra).
-2. La pareja sale en una dirección. Dos minutos después sale la patrulla perseguidora.
-3. Regla: la linterna se muestra al menos una vez por minuto (un adulto controla el tiempo de lejos).
-4. Para atrapar a alguien de la pareja, hay que tocarlo. El que no lleva la luz puede mezclarse con los perseguidores y relevar al compañero.
-5. El juego termina cuando se atrapa a los dos, o a los 15 minutos. Cambian los roles.
-6. Al terminar, todos se reúnen en el punto de encuentro y se cuentan.
+1. Dos scouts salen en una dirección convenida, llevando una linterna o un farol a pilas que se pueda tapar.
+2. Dos minutos después, sale el resto de la patrulla o de la tropa a perseguirlos.
+3. El que lleva la luz tiene que mostrarla por lo menos una vez por minuto. El resto del tiempo la mantiene tapada.
+4. Los dos perseguidos se turnan para llevar la luz y así se pueden ayudar cuando uno está en apuros. Cualquiera de los dos puede ser atrapado.
+5. El que no lleva la luz muchas veces puede mezclarse con los perseguidores sin que lo reconozcan, y acercarse a su compañero para tomar la luz cuando lo tienen acorralado.
+6. Antes de salir, los dos tienen que ponerse de acuerdo en algunos llamados o señales para comunicarse entre ellos sin que los demás entiendan.
 
 ### Variante: La Luciérnaga
 Nombre con que se conoce una versión más simple: la luciérnaga se esconde, quieta o moviéndose despacio, y prende la linterna 2 o 3 segundos cada tanto. Los demás la buscan y la tocan. Sirve para empezar con la Manada, en un terreno chico.
@@ -190,14 +194,8 @@ with the pursuers without being recognized and relieve his friend when
 he is being hard pressed. They should arrange certain calls or signals
 between themselves.
 
-**Versión en español:**
-
-**Fuego fatuo**
-
-Este juego se hace a campo traviesa, de noche. Dos scouts salen en una dirección dada con un farol encendido. Pasados dos minutos, la patrulla o la tropa sale a perseguirlos. El que lleva el farol tiene que mostrar la luz por lo menos una vez por minuto, y taparla el resto del tiempo. Los dos scouts se turnan para llevar la luz, y así pueden relevarse en las dificultades, pero cualquiera de los dos puede ser atrapado. El scout que no lleva la luz muchas veces puede mezclarse con los perseguidores sin que lo reconozcan y relevar a su amigo cuando lo tienen acorralado. Tienen que acordar ciertos llamados o señales entre ellos.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

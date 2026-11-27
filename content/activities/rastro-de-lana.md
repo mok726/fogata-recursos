@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Rastro de Lana"
+title: "Juntar Lana"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/rastro-de-lana/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rastreo
   - observacion
 
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Rastro de Lana!
+# Juntar Lana
 
 ## Resumen
 Se marca un rastro con trozos de lana, algunos en el suelo y otros atados a tranqueras, cercos y ramas bajas, cada unos 20 m. Dos o más patrullas lo siguen y juntan la lana. Cuando un scout ve una, grita el llamado de su patrulla para avisar dónde sigue el rastro. Gana la patrulla que junta más.
@@ -148,10 +151,18 @@ Se marca un rastro con trozos de lana, algunos en el suelo y otros atados a tran
 1. Pedí permiso al dueño del terreno. Recorré el camino atando la lana: no toda en el suelo, también a la altura de los ojos y más arriba.
 
 ## Desarrollo
-1. Las patrullas salen por el rastro al mismo tiempo o con unos minutos de diferencia.
-2. Quien ve una lana grita el llamado de su patrulla y se la entrega a su guía. Fuera de eso, nadie puede gritar el llamado.
-3. Las patrullas se abren en abanico para no perder el rastro.
-4. Al final, gana la patrulla con más trozos. Se suman puntos por la buena organización.
+Un juego de rastreo a campo traviesa: las patrullas siguen un rastro hecho con trocitos de lana y tratan de juntar la mayor cantidad posible.
+
+1. Antes del juego, el dirigente corta algunas madejas de lana en trozos de unos 30 cm. Sirve la lana más barata, pero que no sea de colores muy llamativos, para que cueste un poco verla.
+2. Con esos trozos marca el rastro a campo traviesa, dejando unos 18 metros entre uno y otro. No los pone todos en el suelo: ata algunos a tranqueras, alambrados y cercos, a ramas bajas de los árboles, y en lugares así.
+3. Hay que pedir permiso antes a los dueños de los campos por los que pasa el rastro. Las patrullas tienen la orden estricta de cerrar todas las tranqueras después de pasar y de no atravesar los cercos rompiéndolos.
+4. Se larga a dos o más patrullas sobre el rastro. Tienen que seguirlo lo más rápido posible y, al mismo tiempo, juntar todos los trozos de lana.
+5. Cuando un jugador encuentra un trozo, da en voz alta el llamado de su patrulla (el grito o sonido propio de cada patrulla, por ejemplo el de su animal). Así todos, de las dos patrullas, saben dónde se vio el rastro por última vez. Después le entrega enseguida la lana a su guía.
+6. Mientras dura el rastreo, nadie puede dar el llamado de su patrulla salvo cuando encontró el rastro.
+
+**Cómo se gana:** gana la patrulla cuyo guía juntó más trozos de lana al final del recorrido. También se dan puntos por el ingenio de la patrulla para desplegarse y aprovechar bien a todos sus integrantes.
+
+**Consejo del original:** el juego le permite al dirigente ver quiénes son los mejores rastreadores. Si el rastro está bien pensado, pone a prueba la astucia de todos. Además, como las señales no están solo en el suelo, los chicos aprenden a mirar también hacia arriba y no a ir siempre con la nariz pegada al piso.
 
 ## Cierre
 - ¿Dónde estaban las lanas más difíciles de ver?
@@ -167,15 +178,12 @@ Se marca un rastro con trozos de lana, algunos en el suelo y otros atados a tran
 
 Cut up some skeins of wool into pieces about a foot long - the cheapest kind will do, but do not select very bright colors. With this lay the trail across country. It goes without saying that the permission of the farmers over whose land you travel is first obtained, and patrols are given strict orders to shut all gates after them, and not to break through fences. Do not put all the wool on the ground, but tie some of the pieces to gates and hedges, on low branches of trees, and so on, leaving about twenty yards between each piece. Then two or more patrols are started on the trail, the idea being to follow the trail as expeditiously as possible, and at the same time to collect all the pieces of wool. When a Scout sees a piece he gives his patrol-call loudly in order that the rest of the boys of both patrols may know where the trail was last sighted, and he at once hands over the wool he has found to his Patrol- leader. While the scouting is in progress no boy may give his patrol-car except when he has hit off the trail. The patrol wins whose leader has at the end of the run collected most pieces of wool. Marks will also be given for ingenuity displayed by the Scouts in spreading out and making the best use of their numbers. This game gives a good opportunity for the Scoutmaster to notice who are the best individual trackers. If the trail is ingeniously laid the resourcefulness of the Scouts will be put to a severe test. This form of scouting has one great advantage over the use of tracking irons. The signs to be found are not all on the ground, so Scouts learn to look upward for signs and not keep their noses always on the ground.
 
-**Versión en español:**
-
-**JUNTAR LANA.**
-
-Corten algunas madejas de lana en trozos de un pie (30 cm) de largo, más o menos; sirve la más barata, pero no elijan colores muy vivos. Con esto marquen el rastro a campo traviesa. Ni hace falta decir que primero hay que pedir permiso a los dueños de los campos que se van a cruzar, y que las patrullas tienen la orden estricta de cerrar todas las tranqueras al pasar y de no atravesar los cercos rompiéndolos. No pongan toda la lana en el suelo: aten algunos trozos a tranqueras y cercos, a ramas bajas de los árboles, etc., dejando unas veinte yardas (unos 18 m) entre cada trozo. Después se larga a dos o más patrullas por el rastro, con la idea de seguirlo lo más rápido posible y, al mismo tiempo, juntar todos los trozos de lana. Cuando un scout ve un trozo, da en voz alta el llamado de su patrulla, para que el resto de los chicos de las dos patrullas sepa dónde se vio el rastro por última vez, y enseguida le entrega la lana encontrada a su guía. Mientras dura el rastreo, ningún chico puede dar el llamado de su patrulla salvo cuando encuentra el rastro. Gana la patrulla cuyo guía haya juntado más trozos de lana al final del recorrido. También se dan puntos por el ingenio que muestren los scouts para desplegarse y aprovechar mejor su cantidad. Este juego le da al jefe de tropa una buena oportunidad de ver quiénes son los mejores rastreadores. Si el rastro está bien pensado, la capacidad de los scouts se pondrá seriamente a prueba. Esta forma de rastreo tiene una gran ventaja sobre el uso de hierros de rastreo: las señales no están todas en el suelo, así que los scouts aprenden a mirar hacia arriba en busca de señales y no a ir siempre con la nariz pegada al suelo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. III (Tracking Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. III (Tracking Games), juego 5: «Wool Collecting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

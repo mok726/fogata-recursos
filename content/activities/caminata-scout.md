@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Caminata Scout: Paso, Ritmo y Bolsillos"
+title: "Orden de Marcha y Paso Scout"
 duration: "Medio día"
 layout: "layouts/activity.njk"
 permalink: "/activities/caminata-scout/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -63,6 +63,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - caminata
   - excursion
@@ -75,7 +76,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -146,22 +150,35 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Caminata Scout: Paso, Ritmo y Bolsillos!
+# Orden de Marcha y Paso Scout
 
 ## Resumen
-El manual da consejos que siguen sirviendo. Por la ruta se camina **en fila india por el lado izquierdo**. Se arranca despacio y se va al ritmo del más lento («despacio y tranquilo se llega lejos en el día»). En las subidas, pasos cortos, y no se corre en las bajadas. La comida se reparte entre todos y las manos van libres. Para volver cansados está el **paso scout**: alternar pasos caminando y pasos corriendo. Y toda caminata necesita un objetivo: contar árboles o aves, o llegar a un lugar histórico. La patrulla la planifica y la hace.
+Consejos prácticos para salir de caminata con la patrulla: cómo marchar por el camino, cómo usar el «paso scout» para cansarse menos y qué conviene llevar.
 
 ## Preparación
 1. Elegí un recorrido corto y seguro. El manual recomienda no planificar demasiada distancia para el tiempo disponible, y para la Manada conviene ir por senderos o veredas.
 2. Avisá a las familias el recorrido y el horario.
 
 ## Desarrollo
-1. Planificación: la patrulla elige un objetivo para la caminata (aves, árboles, un lugar histórico del barrio) y arma la lista de «bolsillos»: vaso o botella, mapa, brújula, cuchillo (para scouts), fósforos y cuaderno, como dice el manual, más silbato y celular.
-2. Antes de salir, revisen entre todos la mochila de cada uno: manos libres y peso repartido.
-3. Orden de marcha: por la ruta, en fila india por la izquierda, de frente al tránsito. El más lento va adelante y marca el ritmo.
-4. Paso scout: en un tramo seguro, prueben alternar 20 pasos caminando y 20 corriendo. Cronometren cuánto tardan en hacer 1 km.
-5. Respiración: prueben la del manual (inspirar en cinco pasos, retener cinco, soltar en cinco).
-6. En el destino: cumplan el objetivo y anoten lo que encontraron. A la vuelta, comparen el tiempo real con el planificado.
+**El orden de marcha:**
+1. En el campo, aunque el camino sea poco transitado, se camina en fila india, uno detrás de otro, por el lado izquierdo del camino, de frente a los autos que vienen. Así se evita el peligro del tránsito.
+2. No hace falta ir al mismo paso, y se puede charlar, reírse y cantar.
+3. Solo se puede romper la fila en el bosque o en el campo, lejos del camino, donde no hay peligro.
+
+**El paso scout:**
+1. Es una forma de caminar y correr que sirve para aguantar más en distancias largas: se dan cierto número de pasos caminando, enseguida el mismo número corriendo, y así se va alternando.
+2. Si se alternan 50 pasos caminando y 50 corriendo, sin parar, durante doce minutos, se recorre una milla (1,6 km). Es una buena forma de medir distancias.
+3. Para una caminata común conviene alternar de a 20 pasos.
+4. Sirve sobre todo a la vuelta, cuando ya están cansadas: hace que el camino parezca más corto.
+
+**Otros consejos del original:**
+1. Empezar despacio y llevar el ritmo de la más lenta del grupo: «despacio y tranquilo se llega lejos».
+2. Practicar la respiración profunda: inspirar durante cinco pasos, retener el aire contando cinco y soltarlo contando otros cinco.
+3. En las subidas, pasos cortos. En las bajadas, no correr: después duelen las piernas.
+4. La comida se reparte entre todas, y cada una la lleva en la mochila, en la espalda, para tener las manos libres. Es un error salir con los brazos cargados.
+5. No planear una distancia demasiado larga: además de ir y volver, hay que tener tiempo para cocinar, comer y disfrutar. Para una salida con noche afuera, cargando el equipo, conviene un lugar a no más de 3 km.
+6. En los bolsillos conviene llevar un vaso o jarrito, una carta topográfica de la zona, una brújula chica, una navaja y una piedra para afilarla, una caja de fósforos o un encendedor, y una libreta con lápiz.
+7. Darle a la caminata un objetivo concreto: contar cuántas clases de árboles, flores o pájaros encuentran; practicar cómo encender fuego para cocinar o juntar material para la cama, donde esté permitido; o ir hasta un lugar histórico. Casi no hay pueblo que no tenga algún lugar ligado a la historia del país.
 
 ## Cierre
 - ¿Llegamos en el tiempo que planificamos? ¿Por qué sí o por qué no?
@@ -231,32 +248,8 @@ as balsam, etc. Inquire for points of historical interest and make them
 the goal of the hike. There is hardly a town that has not some place
 connected with the early history of the nation.
 
-**Versión en español:**
-
-*Orden de marcha*. En el campo, incluso por caminos poco usados, caminá en fila india por el lado izquierdo del camino. La ventaja de esta formación es que se evita todo peligro del tránsito que pasa en cualquier sentido. *No* hace falta llevar el paso, y se puede charlar, reír, cantar, etc. Solo se da permiso para romper esta formación en el bosque o en el campo, donde no hay peligro.
-
-Para volver a casa, usá el paso scout si estás cansada. Ayuda a que la distancia parezca más corta.
-
-El *paso scout* es una forma de caminar y correr que sirve para aguantar más cuando se recorre una distancia larga. Consiste en dar cierto número de pasos caminando, seguidos enseguida por el mismo número de pasos corriendo, volver a caminar, y así sucesivamente. El número de pasos puede variar según el lugar, el tipo de camino y el objetivo de la caminata. Cincuenta pasos caminando y cincuenta corriendo, alternando sin parar durante doce minutos, te hacen recorrer una milla (1,6 km), y esta es una de las medidas de distancia que conviene conocer. Para el uso común en las caminatas es preferible usar veinte pasos corriendo y veinte caminando.
-
-[…]
-
-Empezá la caminata despacio. Mantené el ritmo de la más lenta del grupo. «Despacio y tranquilo se llega lejos en el día». Practicá la respiración profunda. Inspirá durante cinco pasos, retené el aire contando cinco y soltalo contando otra vez cinco.
-
-Hacé pasos cortos en las subidas. No corras en las bajadas. Da rigidez, y para eso el mejor remedio es un baño caliente y otra caminata al día siguiente.
-
-Cuando se lleva el almuerzo, hay que repartirlo entre la tropa. Cada scout tiene que llevar su mochila en la espalda, para tener las manos libres. Es un gran error salir de caminata con los brazos cargados.
-
-No planifiques una distancia demasiado grande para el tiempo que tenés. Acordate de que, además del tiempo para ir y volver, querés disfrutar cocinando y comiendo, y para las dos cosas hace falta tiempo. Para una caminata con noche afuera, cuando llevás el equipo, elegí un lugar a no más de tres kilómetros.
-
-Cosas buenas para llevar en el bolsillo son un vaso, un mapa topográfico (diez centavos), una brújula de bolsillo, un cuchillo de campamento, una piedrita para afilarlo, una caja de fósforos y un cuaderno con lápiz.
-
-Planificá un objetivo concreto para la caminata. Anotá cuántas clases de árboles, flores silvestres o aves podés encontrar.
-
-Practicá hacer fuegos para cocinar, o juntar material para una cama, como ramas de abeto, etc. Preguntá por lugares de interés histórico y hacelos la meta de la caminata. Casi no hay pueblo que no tenga algún lugar vinculado con la historia temprana de la nación.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

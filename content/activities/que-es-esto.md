@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +61,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - observacion
   - plantas
   - botanica
@@ -71,10 +72,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -143,17 +146,25 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡¿Qué Es Esto?!
+# ¿Qué Es Esto?
 
 ## Resumen
 Dos scouts recorren un camino dejando señales con tiza (números, palabras, dibujos de animales) y un signo especial que significa "¿Qué es esto?", puesto en un árbol, una planta o un objeto. Los demás salen diez minutos después, anotan todas las señales que ven y, en cada signo especial, escriben qué es la cosa marcada: "un roble", "una reja de hierro".
 
 ## Desarrollo
-1. Los dos scouts, mejor si saben de plantas, salen y dejan sus señales. Los palitos con el signo se clavan junto a plantas donde no se puede usar tiza.
-2. El resto sale diez minutos después, en grupo o separados, con cuaderno y lápiz.
-3. Cada uno anota las señales que ve y, en los signos "¿Qué es esto?", el nombre de lo marcado. No vale ayudarse.
-4. Se dan puntos por señal anotada y por cada respuesta correcta.
-5. Al terminar, se borran todas las marcas de tiza.
+Un juego de observación en recorrido: hay que encontrar y anotar las señales que dejaron dos compañeros, y reconocer los objetos marcados con una señal especial.
+
+1. Dos jugadores (si es posible, que tengan la especialidad de Naturalista) salen primero. Por el camino van dejando señales con tiza en los árboles o en la vereda: un número, una palabra, el dibujo de un animal o de un pájaro. También pueden dibujarlas en la tierra, en el barro o en las barrancas.
+2. Antes de salir, los dos acuerdan una señal poco común que quiere decir «¿Qué es esto?», por ejemplo un círculo atravesado por una línea. La dibujan sobre algunos objetos: un árbol, una reja, una planta. Donde no se puede marcar con tiza, clavan o atan un pedacito de madera con esa señal dibujada.
+3. Unos diez minutos después sale el resto de la tropa, todos juntos o por separado, con cuaderno y lápiz.
+4. Cada uno anota en su cuaderno todas las señales que ve.
+5. Cuando encuentra la señal «¿Qué es esto?», tiene que anotar qué es la cosa que la lleva, por ejemplo «un roble», «un sauce» o «una reja de hierro».
+6. Cada uno trabaja por su cuenta: no vale ayudarse.
+7. Al terminar el juego, hay que volver a borrar todas las marcas de tiza, y cuidar de no ensuciar ni dañar la propiedad privada.
+
+**Puntaje:** se dan puntos por la cantidad de señales observadas y por cada respuesta correcta a las señales «¿Qué es esto?».
+
+**Consejo del original:** además de ser muy entretenido, el juego desarrolla la observación, ejercita la memoria y sirve para aprender botánica.
 
 ## Cierre
 - ¿Qué plantas o árboles reconocieron?
@@ -169,15 +180,12 @@ Dos scouts recorren un camino dejando señales con tiza (números, palabras, dib
 
 Two Scouts (preferably ones with the Naturalist Badge) start out and make certain signs such as a number, word, sketch of animal or bird, etc., with chalk on trees or the pavement. Signs or sketches may also be made in the dust or mud, on the ground or on banks. The two Scouts should also decide upon an uncommon sign to signify "What is it ?" such as a circle with a line drawn through it Pieces of wood bearing this sign may be taken out and stuck in plants and places where it is impossible to chalk the sign. The remainder of the troop start out say ten minutes after the first two, either as a body or separately, and take notebooks and pencils with them. The game consists of entering in their notebooks the signs which they observe. Where the "What is it ?" sign is noticed they must mark in their books the nature of the article which bears the sign, such as "An Oak," or "An Iron Fence," etc. There must be no co-operation between one another. Marks should be given according to the number of signs, etc., observed, and for the correct answers to the " What is it ? " sign. Besides being very interesting this game develops observation powers, strengthens the memory and is a good botany instruction. When the game is over all chalk marks should be rubbed out, and care must be taken not to deface private property.
 
-**Versión en español:**
-
-**¿QUÉ ES ESTO?**
-
-Dos scouts (de preferencia con la especialidad de Naturalista) salen y hacen ciertas señales, como un número, una palabra, el dibujo de un animal o un pájaro, etc., con tiza en los árboles o en la vereda. Las señales o dibujos también se pueden hacer en el polvo o en el barro, en el suelo o en las barrancas. Los dos scouts deberían acordar además una señal poco común que signifique "¿Qué es esto?", como un círculo atravesado por una línea. Se pueden llevar trozos de madera con esta señal para clavarlos en plantas y lugares donde es imposible marcar con tiza. El resto de la tropa sale, digamos, diez minutos después que los dos primeros, en grupo o por separado, con cuadernos y lápices. El juego consiste en anotar en el cuaderno las señales que observan. Donde ven la señal "¿Qué es esto?", tienen que anotar qué es el objeto que la lleva, por ejemplo "un roble" o "una reja de hierro", etc. No puede haber colaboración entre ellos. Se dan puntos según la cantidad de señales observadas y por las respuestas correctas a la señal "¿Qué es esto?". Además de ser muy interesante, este juego desarrolla la capacidad de observación, fortalece la memoria y es una buena enseñanza de botánica. Cuando termina el juego, hay que borrar todas las marcas de tiza y cuidar de no dañar la propiedad privada.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 23. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 23: «What Is It ?». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

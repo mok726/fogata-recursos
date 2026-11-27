@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -139,16 +140,22 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Juego de las Flechas!
+# El Juego de las Flechas
 
 ## Resumen
-La Manada se sienta en ronda y Akela, en el centro, hace preguntas de lo que vienen aprendiendo. Cada vez que alguien no sabe, recibe una "flecha": primero cruza un brazo como si lo tuviera en cabestrillo, después el otro, después se arrodilla y a la cuarta se acuesta "muerto".
+Un juego de preguntas en ronda para repasar lo que se está aprendiendo, por ejemplo nudos o la bandera.
 
 ## Desarrollo
-1. Todos en ronda; Akela en el centro.
-2. Akela pregunta a uno por vez, dando la vuelta, sobre lo que la Manada está aprendiendo.
-3. Primera respuesta que no sale: cruza un brazo como si estuviera en cabestrillo. Segunda: cruza el otro. Tercera: se arrodilla. Cuarta: se acuesta y queda "muerto".
-4. Gana quien queda en pie al final, o se juega una cantidad fija de vueltas.
+Se llama así porque cada pregunta que el lobato no sabe contestar es como una flecha que lo «hiere».
+
+1. Los lobatos se sientan en ronda y el dirigente se sienta en el medio.
+2. El dirigente va haciendo preguntas, dando la vuelta, a un lobato por vez, sobre los temas que están aprendiendo: nudos, la prueba de la bandera, etc.
+3. Si un lobato no contesta bien su primera pregunta, cruza un brazo sobre el pecho, como si lo tuviera en cabestrillo.
+4. Si falla la segunda, cruza también el otro brazo.
+5. Si falla la tercera, se arrodilla.
+6. Si falla la cuarta, se acuesta en el piso y queda fuera del juego.
+
+El original no dice cómo se gana ni cuándo termina; una opción es hacer una cantidad fija de vueltas de preguntas y que gane el que queda «sano», o el que recibió menos flechas, al terminar.
 
 ## Cierre
 - ¿Qué preguntas costaron más? ¿Las repasamos?
@@ -164,14 +171,8 @@ GAME: THE ARROWS GAME
 (So called because the questions represent the arrows with which the Cub gets wounded.)
 The Cubs sit round in a ring, while the Cubmaster sits in the middle. The Cubmaster then asks questions round on the knots, flag test, etc. If a boy fails to answer the first question put to him, he folds one arm, as if it was in a sling. If he fails to answer the second, he folds the other. When he fails the third time he kneels, and at the fourth he lies down and is "dead."
 
-**Versión en español:**
-
-**JUEGO: EL JUEGO DE LAS FLECHAS**
-(Se llama así porque las preguntas representan las flechas con las que el lobato queda herido.)
-Los lobatos se sientan en ronda y el Jefe de Manada se sienta en el medio. Entonces el Jefe va haciendo preguntas, dando la vuelta, sobre los nudos, la prueba de la bandera, etc. Si un chico no responde la primera pregunta que le hacen, dobla un brazo, como si lo tuviera en cabestrillo. Si no responde la segunda, dobla el otro. Cuando falla por tercera vez se arrodilla, y a la cuarta se acuesta y queda "muerto".
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

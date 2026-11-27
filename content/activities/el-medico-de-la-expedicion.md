@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Médico de la Expedición"
+title: "Hacer de Médico"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-medico-de-la-expedicion/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - primeros-auxilios
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,16 +140,19 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡El Médico de la Expedición!
+# Hacer de Médico
 
 ## Resumen
-Cada scout, por turno, hace de médico de una expedición con unos pocos remedios. Le traen tres pacientes seguidos, cada uno con una enfermedad o lesión distinta, y tiene que decir o mostrar qué tratamiento haría.
+Una práctica de *Scouting for Boys* para que cada scout se imagine lejos de todo, sin médico cerca, y tenga que decidir qué hacer con una persona enferma o lastimada.
 
 ## Desarrollo
-1. Prepará tarjetas con casos acordes a lo que saben: corte, quemadura, esguince, insolación, picadura, ampolla, desmayo.
-2. Los "pacientes" actúan el caso.
-3. El "médico" pregunta, examina y atiende o explica qué haría y a quién llamaría.
-4. El resto observa y al final comenta.
+1. Cada scout, por turno, hace de explorador que está en un lugar alejado, con un botiquín de unos pocos remedios y elementos simples.
+2. Le traen tres «pacientes», uno después del otro. Son compañeros que actúan una enfermedad o una lesión distinta cada uno.
+3. El scout tiene que decir, o mostrar, qué haría con cada paciente.
+
+El original no dice cómo se gana; una opción es que el que dirige evalúe qué tan bien respondió cada scout ante los tres casos.
+
+En el original, el scout aconsejaba o mostraba el tratamiento que se usaba en 1908. Hoy se enseña distinto: consultá un curso de primeros auxilios vigente, y usá esta práctica para repasar lo que ahí se aprendió (por ejemplo, cómo pedir ayuda, cómo dar aviso y qué hacer mientras llega).
 
 ## Cierre
 - ¿Qué caso fue más difícil? ¿Cuándo hay que pedir ayuda profesional sí o sí?
@@ -161,12 +168,8 @@ a few simple remedies. Three patients are brought to him in succession
 to be treated, each having a different disease or injury. He has to
 advise or show what treatment should be carried out.
 
-**Versión en español:**
-
-**"Médico"**: cada scout, por turno, hace de explorador o misionero con unos pocos remedios simples. Le traen tres pacientes seguidos para que los atienda, cada uno con una enfermedad o lesión distinta. Tiene que aconsejar o mostrar qué tratamiento habría que hacer.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

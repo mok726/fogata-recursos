@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - oficios
   - vocacion
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,16 +140,16 @@ rama_rovers:
   - 18   # Desarrollo habilidades para el mundo laboral.
 ---
 
-# ¡Visita a Talleres y Fábricas!
+# Visita a Talleres y Fábricas
 
 ## Resumen
-B-P cuenta que un dirigente de Exeter logró mucho llevando a sus chicos a conocer las fábricas de la ciudad. Todos tomaban notas y hacían croquis durante la visita, y en la reunión siguiente los pasaban en limpio y contaban lo que habían visto.
+Una actividad para desarrollar la observación y la curiosidad: la patrulla o la tropa visita fábricas y talleres de la ciudad y después cuenta lo que vio. B-P la cuenta como el ejemplo de un dirigente de Exeter, una ciudad de Inglaterra, el señor G. L. Boundy, al que le dio muy buen resultado con sus chicos.
 
 ## Desarrollo
-1. Coordiná la visita con un taller, fábrica, cooperativa o emprendimiento.
-2. Antes, cada patrulla prepara preguntas.
-3. Durante la visita, toman notas y hacen croquis.
-4. En la reunión siguiente, cada patrulla presenta lo que vio.
+1. El dirigente organiza visitas a distintas fábricas o talleres de la zona y lleva a los chicos en grupos.
+2. Durante el recorrido, cada uno lleva libreta y lápiz. Toma notas de lo que ve y explica la gente que trabaja ahí, y hace dibujos rápidos de las máquinas, los productos o los pasos del trabajo.
+3. En la reunión siguiente, cada uno pasa en limpio sus notas y sus dibujos.
+4. Después, cada uno (o cada patrulla) cuenta a los demás lo que vio: qué se fabrica, cómo, con qué materiales y qué le llamó la atención.
 
 ## Cierre
 - ¿Qué oficio no conocían? ¿Cuál les gustaría probar?
@@ -164,12 +168,8 @@ different factories in Exeter. They all take notes and rough drawings as
 they go along and reproduced them the following meeting, and report on
 what they have seen.
 
-**Versión en español:**
-
-El señor G. L. Boundy, de Exeter, tuvo mucho éxito en desarrollar la inteligencia de sus muchachos llevando grupos a conocer las distintas fábricas de Exeter. Todos toman notas y hacen dibujos rápidos durante el recorrido, los pasan en limpio en la reunión siguiente e informan sobre lo que vieron.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

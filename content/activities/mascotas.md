@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -151,16 +152,20 @@ rama_rovers:
   - 37 # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
-# ¡Mascotas!
+# Mascotas
 
 ## Resumen
-Para B-P, tener una mascota, aunque sea chica, ayuda a estudiar y entender a los animales. Primero hay que pedir permiso en casa. Recuerda la Ley Scout ("un Scout es amigo de los animales") y pide practicarla siendo amable con todos los animales, alimentando a la mascota a horario ("a vos te gusta comer a tu hora, ¿no?") y manteniéndola limpia, a ella y a su lugar.
+Una charla de B-P para los lobatos sobre cómo cuidar una mascota, pensada como primer paso para conocer a los animales y para cumplir la Ley Scout.
 
 ## Desarrollo
-1. En ronda, cada uno cuenta qué mascota tiene o conoce. Los que no tienen pueden elegir la de un familiar, un vecino o una mascota de la Manada (peces, plantas no: ¡un animal!).
-2. Cada uno completa su ficha de cuidado: qué come, cuándo, cómo se limpia su lugar, qué necesita para estar sano (vacunas, paseos, juego).
-3. Durante unas semanas, el lobato se hace cargo de una tarea de cuidado (darle de comer a horario, limpiar, pasearlo con un adulto) y la anota.
-4. En la puesta en común, cuentan qué aprendieron observando a su animal: qué le gusta, cómo muestra miedo o alegría.
+La idea del original es esta:
+
+1. Tener una mascota, aunque sea chiquita, ayuda mucho a estudiar y entender cómo viven y cómo se comportan los animales y las aves. Para empezar alcanza con algo chico, como unos ratoncitos o un cobayo.
+2. Antes de traer un animal a casa, claro, hay que preguntarles a los padres.
+3. Una de las Leyes Scouts dice que «el Scout es amigo de los animales». Los lobatos se van preparando para cuando sean scouts siendo amables con todos los animales que se cruzan.
+4. El que tiene una mascota tiene muchas cosas para hacer por ella: darle de comer siempre a horario (como dice B-P, «a vos te gusta comer a tu hora, ¿no?»), y mantener limpios al animal y al lugar donde vive.
+
+En la reunión se puede leer el texto con la manada y charlar: quién tiene mascota, qué necesita cada animal y qué tareas hace cada uno para cuidarlo.
 
 ## Cierre
 - ¿Qué aprendiste de tu mascota que antes no sabías?
@@ -177,13 +182,8 @@ Para B-P, tener una mascota, aunque sea chica, ayuda a estudiar y entender a los
 PETS
 It will help you to study and understand the ways of animals and birds if you can keep a pet, even if it is only a small one to start with such as mice or a guinea-pig. You must ask your mother about it first, of course. One of the Scout Laws is that "a Scout is a friend to animals," so get ready for the time when you will be a Scout by being kind to any animals you meet. If you have a pet, there is a lot you can do for it, such as punctual feeding (you like your own food regularly, don't you?), keeping it and its living-place clean, and so on.
 
-**Versión en español:**
-
-**MASCOTAS**
-Te va a ayudar a estudiar y entender las costumbres de los animales y de las aves tener una mascota, aunque al principio sea una chica, como unos ratoncitos o un cobayo. Primero, claro, tenés que preguntarle a tu mamá. Una de las Leyes Scouts dice que "el Scout es amigo de los animales", así que preparate para cuando seas Scout siendo amable con todos los animales que encuentres. Si tenés una mascota, hay mucho que podés hacer por ella, como darle de comer a horario (a vos te gusta comer a tu hora, ¿no?), mantenerla limpia a ella y a su lugar, etc.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

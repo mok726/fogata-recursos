@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - orientacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,20 +142,23 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Encontrá el Norte!
+# Encontrá el Norte
 
 ## Resumen
-Un juego rápido de orientación. Sin brújula ni celular, cada participante apoya su bastón en el piso apuntando hacia donde cree que está el norte (o el sur). El árbitro compara con la brújula y gana quien más se acerca.
+Un juego para aprender a orientarse sin brújula.
 
 ## Preparación
 1. Antes, repasá con el grupo cómo orientarse sin instrumentos: por dónde sale y se pone el sol, la sombra al mediodía, las estrellas de noche.
 2. Ubicá a los participantes separados unos 25 m.
 
 ## Desarrollo
-1. Cada uno apoya su bastón en el piso apuntando al norte (o al sur), sin usar ningún instrumento.
-2. El árbitro compara cada bastón con la brújula.
-3. Gana quien más se acerca.
-4. Se puede jugar de día con sol, en días nublados y de noche.
+1. Los scouts se ubican separados entre sí, a unos 25 metros uno de otro, para que no se copien.
+2. Cada uno, sin usar ningún instrumento, apoya su bastón en el suelo apuntando hacia donde cree que está el norte exacto (o el sur, si así lo pide el árbitro). Pueden guiarse por el sol, las estrellas, el paisaje o lo que sepan.
+3. El árbitro pasa con una brújula y compara la dirección de cada bastón con el norte verdadero.
+
+**Cómo se gana:** gana el que más se acerca.
+
+**Consejo del original:** conviene jugarlo de noche y en días nublados, además de en días de sol, para practicar distintas formas de orientarse.
 
 ## Cierre
 - ¿Qué pista usaste para decidir?
@@ -170,12 +177,8 @@ north (or south), without using any instrument. The umpire compares each
 stick with the compass; the one who guesses nearest wins. This is a
 useful game to play at night or on sunless days as well as sunny days.
 
-**Versión en español:**
-
-**ENCONTRÁ EL NORTE.** Se ubica a los scouts a unos veinticinco metros uno de otro, y cada uno apoya su bastón en el piso apuntando a lo que considera el norte exacto (o el sur), sin usar ningún instrumento. El árbitro compara cada bastón con la brújula; gana el que más se acerca. Es un juego útil para jugar de noche o en días sin sol, además de en días soleados.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

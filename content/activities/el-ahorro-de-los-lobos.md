@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Ahorro de los Lobos"
+title: "El Ahorro"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-ahorro-de-los-lobos/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -148,17 +149,17 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡El Ahorro de los Lobos!
+# El Ahorro
 
 ## Resumen
-Para B-P, ahorrar es cuidar todo lo que uno tiene: la comida, la ropa, las cosas y la plata. Propone que la Manada fabrique sus cosas (sogas, banderas) en vez de comprarlas, no desperdiciar comida y ahorrar "por tu propio esfuerzo", separando algo de la plata de cada semana en vez de gastarla en golosinas. Lo ilustra con los lobos del norte, que en otoño guardan comida bajo la nieve para el invierno.
+Una charla del *Wolf Cub's Handbook* sobre el ahorro: cuidar lo que uno tiene y guardar para cuando haga falta. Se puede contar en el Consejo o antes de una actividad de reciclado o de fabricar materiales.
 
 ## Desarrollo
-1. Cuenten la historia de los lobos que esconden la caza bajo la nieve antes del invierno (se puede narrar con voz baja, como un cuento de la Selva).
-2. Pregunten: ¿qué guardan los lobos? ¿Para qué? ¿Qué podemos "guardar" nosotros además de plata? (comida que no se tira, ropa que se cuida, cosas que se arreglan).
-3. Hagan una lista de cosas que la Manada podría fabricar en vez de comprar.
-4. Cada uno decora una alcancía y escribe una meta: para qué quiere ahorrar y cuánto puede separar cada semana.
-5. Al mes, conversen cómo les fue.
+1. **La prueba.** Una de las pruebas del lobato pide «entender qué es el ahorro en todas las cosas y ponerlo en práctica». B-P cuenta que la palabra inglesa para ahorro, *thrift*, es también el nombre de una florcita de las costas frías, la clavelina de mar, que vive y alegra el paisaje con muy poca tierra y con vientos fuertes.
+2. **Cuidar lo que tenés.** Ahorrar es cuidar la comida, la ropa, tus cosas y tu plata. Es mucho mejor fabricar tus propios juguetes (por ejemplo, espadas de juego) que comprarlos o esperar que te los regalen. La Manada entera también puede fabricar sus cosas, como sogas para saltar o banderas de señales. Hay que cuidar el uniforme y la ropa para no darles trabajo a otros, y no desperdiciar la comida.
+3. **El refrán.** «Cuidá tus monedas y se van a convertir en billetes.» B-P cuenta la historia de Astor, que de chico hacía silbatos y flautas, los vendía por unas monedas y las guardaba en el banco; con los años juntó mucho y llegó a ser uno de los hombres más ricos del mundo.
+4. **El relato de los lobos.** B-P resume una historia del libro *Northern Trails*, de W. J. Long. En otoño, los lobos jóvenes tienen comida de sobra: cazan gansos que duermen en la orilla, patos, peces y hasta focas. Pero los lobos no son tontos: saben que se viene el invierno, con todo nevado y los ríos congelados, y que entonces va a ser muy difícil encontrar comida. Por eso, mientras hay abundancia, los lobos viejos les enseñan a los cachorros a guardar la carne en grietas entre las rocas y a taparla con nieve, para que no la encuentren otros animales y se mantenga fría hasta que la necesiten.
+5. **La enseñanza.** El lobato tiene que hacer lo mismo: si puede ganar algo de plata, guardarla en una caja de ahorros o alcancía en vez de gastarla, porque pueden venir tiempos difíciles. Y tiene que ser «por su propio esfuerzo»: no vale pedirle a la mamá unas monedas para guardar. Se ahorra separando todas las semanas una parte de la plata que te dan, en vez de comprar golosinas, o haciendo algún trabajito para alguien.
 
 ## Cierre
 - ¿Qué es más fácil: gastar o ahorrar? ¿Por qué?
@@ -191,29 +192,8 @@ Here they piled snow over the meat after pushing it into a cranny between rocks,
 And that is just what the boy Wolf Cub should do. If he finds he can earn money at any time, he should do his best to earn as much as possible and then to put it safely away in the Savings Bank and not to spend it. He should remember, like the wolves did, that some day bad times may come when he may want to use his supply, and if he has carefully stored it in this way he will be ready to meet hard times.
 It is not enough for you to go to your mother and ask her to give you sixpence to put in the Bank. You should have saved "by your own efforts," that is, by putting aside something regularly out of your weekly pocket money instead of buying sweets. Or perhaps you can do some jobs of work for someone, and earn a little money in that way. Then you will be able to go on saving up your money bit by bit, until you have quite a nice sum in the Savings Bank "for a rainy day."
 
-**Versión en español:**
-
-**AHORRO**
-La prueba siguiente tal vez sea un poco difícil de entender, porque te pide "comprender el significado del ahorro en todas las cosas y ponerlo en práctica".
-En realidad, la palabra inglesa para ahorro, "thrift", nos llegó de Islandia, y la gente de esa isla sabe lo que es ahorrar y es fuerte, robusta e independiente. Hay una florcita, la clavelina de mar, que en inglés se llama "thrift" justamente porque puede vivir y alegrar a otros con su aspecto en lugares donde hay muy poca tierra y soplan vientos duros y fríos.
-Así que tenés que aprender a cuidar todo lo que tenés: tu comida, tu ropa, tus cositas y tu plata. Por ejemplo, es mucho más lindo si podés hacer tus propias espadas y las otras cosas con las que jugás, en vez de comprarlas en un negocio o esperar que alguien te las regale. Del mismo modo, la Manada entera puede fabricar sus cosas —sogas para saltar, banderas de señales, etc.— en vez de comprarlas. Tenés que estar orgulloso de tu uniforme y de tu ropa, y no estropearlos sin necesidad dándoles siempre trabajo a otros para lavarlos y arreglarlos. La comida no se desperdicia.
-Cuidá tus monedas y pronto se van a convertir en billetes.
-Un hombre llamado Astor, cuando era chico, aprendió a hacer silbatos y flautas, que vendía por unas monedas. Ponía sus monedas en el banco, y en pocos años se encontró con que se habían convertido en billetes; y al final llegó a ser uno de los hombres más ricos del mundo.
-En *Northern Trails*, de W. J. Long, se cuenta cómo los lobos jóvenes, en otoño, conseguían más comida de la que podían comer. Había chorlos para atrapar y patos y gansos para acechar. A la noche, los gansos se posaban en un banco de arena, bien lejos de las rocas y los arbustos o de cualquier cosa que pudiera esconder a un enemigo, y ahí se dormían en grupitos sobre la orilla abierta.
-A medida que oscurecía, cuatro formas sombrías se estiraban desde la sombra más cercana y avanzaban arrastrándose hacia el banco de arena con la lenta paciencia de las horas.
-Arrastrándose cada vez más despacio y más bajo, las sombras se acercaban poco a poco a la bandada, hasta que de golpe había una carrera, un estruendo terrible de alas golpeando el agua y el grito ronco y sobresaltado de los gansos asustados.
-Un minuto después, las cuatro sombras volvían trotando al bosque, cada una con una carga sobre los hombros y las mandíbulas bien apretadas sobre el cuello de un buen ganso.
-A veces, cuando querían una pelea emocionante, los lobos atacaban a alguna de las grandes focas que salían a tomar sol en las rocas. Los lobos se metían arrastrándose entre las focas y el mar, para que, cuando se diera la alarma, las focas encontraran cortada la retirada mientras se arrastraban torpemente hacia el agua.
-Un lobo casi nunca agarra y sujeta a su enemigo; en general lo muerde y lo hiere una y otra vez hasta matarlo. Pero en este caso tenía que sujetar fuerte a su presa para que no se escapara al mar, y las focas gruñían y mordían con furia, así que los lobos la pasaban movida.
-Pero con toda esa abundancia de gansos, patos, peces y focas, los lobos tenían en realidad más comida de la que podían comer.
-Pero los lobos no son tontos. Sabían que se venía el invierno, cuando toda la tierra iba a quedar cubierta de nieve y los ríos congelados, y que entonces les iba a costar muchísimo encontrar algo para comer.
-Así que aprovecharon mientras duraba lo bueno. Cazaron toda la comida que pudieron, y los lobos viejos les enseñaron a los cachorros, después de cazar día y noche, a arrastrar sus presas a escondites seguros entre las rocas.
-Ahí, después de meter la carne en una grieta entre las rocas, la tapaban con nieve, y así evitaban que el olor guiara a otros animales a desenterrarla y, al mismo tiempo, la mantenían fría y congelada hasta que la necesitaran.
-Y eso es justamente lo que debería hacer el chico lobato. Si en algún momento puede ganar plata, tendría que hacer todo lo posible por ganar lo más que pueda y después guardarla segura en la caja de ahorros y no gastarla. Tendría que recordar, como hicieron los lobos, que algún día pueden venir tiempos malos en los que quiera usar su reserva, y si la guardó con cuidado de esta manera, va a estar preparado para enfrentar los tiempos difíciles.
-No alcanza con ir a pedirle a tu mamá unas monedas para poner en el banco. Tenés que haber ahorrado "por tu propio esfuerzo", es decir, separando algo regularmente de tu plata de cada semana en vez de comprar golosinas. O tal vez puedas hacer algún trabajito para alguien y ganar un poco de plata así. Entonces vas a poder ir ahorrando de a poco, hasta tener una buena suma en la caja de ahorros "para los días de lluvia".
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

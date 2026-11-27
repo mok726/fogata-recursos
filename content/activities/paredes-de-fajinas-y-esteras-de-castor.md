@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Paredes de Fajinas y Esteras de Castor"
+title: "La Estera de Castor y la Choza de Fajinas"
 duration: "2 a 3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/paredes-de-fajinas-y-esteras-de-castor/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Shelters, Shacks and Shanties - Daniel Carter Beard (1914)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - refugio
@@ -73,7 +74,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Shelters, Shacks and Shanties"
+  - title: "Shelters, Shacks and Shanties (impreso original)"
+    author: "Daniel Carter Beard"
+    year: 1914
+  - title: "Shelters, Shacks and Shanties (versión alternativa en línea)"
     author: "Daniel Carter Beard"
     year: 1914
     series: "Project Gutenberg, eBook #28255"
@@ -144,24 +148,37 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Paredes de Fajinas y Esteras de Castor!
+# La Estera de Castor y la Choza de Fajinas
 
 ## Resumen
-Beard inventó dos refugios pensados para lugares donde no se pueden cortar árboles grandes. La **estera de castor**: un marco de palos sobre el suelo, una capa gruesa de ramaje «tejado» como la cama, y otro marco igual atado encima; así cada pared o techo se arma cómodo en el suelo y queda casi impermeable. La **choza de fajinas**: atados de ramitas del mismo tamaño que se apilan como ladrillos, trabando las juntas, sujetos con estacas. Con cañas, restos de poda o juncos secos, la patrulla arma un panel y un tramo de pared, y descubre por qué un trabajo así se hace en equipo.
+Dos maneras de construir una choza de campamento con ramas finas, sin necesidad de voltear árboles grandes, tomadas de un libro de construcciones de campamento de 1914.
 
 ## Preparación
 1. Conseguí el material con anticipación: restos de poda del parque, cañas o juncos secos. No se corta nada vivo para esta actividad.
 2. Repasá con la patrulla el amarre o los nudos para atar dos palos (sección A).
 
 ## Desarrollo
-1. Leé el texto de Beard. Dividí la patrulla en dos equipos: «castores» (panel) y «albañiles» (pared de fajinas).
-2. Castores: armen un marco rectangular de palos en el suelo y átenlo en las esquinas.
-3. Castores: cubran el marco con capas de cañas o ramitas, de abajo hacia arriba, cada fila tapando la base de la anterior, como tejas.
-4. Castores: aten un segundo marco igual encima, apretando el relleno. Levanten el panel y pruébenlo con agua.
-5. Albañiles: armen atados de ramitas del mismo tamaño, bien apretados con hilo.
-6. Albañiles: apilen los atados como ladrillos, trabando las juntas (que nunca queden en línea), y sostengan la pared con estacas a los dos lados. Rellenen los huecos con ramitas finas para nivelar.
-7. Junten las dos partes: ¿el panel sirve de techo sobre la pared? ¿Qué hay que ajustar?
-8. Desarmen y guarden el material para otra actividad, o devuélvanlo al lugar donde estaba.
+**La estera de castor.** Es una técnica para armar cada pared en el suelo, como si fuera un panel, y después pararla. Se llama así porque queda tupida como el trabajo de un castor.
+1. Cortá los palos del largo que necesites para el marco de una pared y atalos entre sí. El original usa raicillas verdes o tiras de corteza flexible; se puede usar cualquier atadura natural resistente o cordel.
+2. Sobre ese marco, acostado en el suelo, armá un colchón de ramaje (ramitas con hojas), como una cama de ramas: en filas, de modo que cada fila de arriba tape a la de abajo, como las tejas de una casa. Así, cuando la pared esté parada, el agua escurre hacia afuera.
+3. Encima del ramaje atá un segundo marco igual al primero, para que el relleno quede apretado entre los dos. Esa pared ya está lista.
+4. Hacé de la misma manera las otras paredes y el techo.
+5. Después solo queda parar los paneles y atarlos entre sí para armar la choza.
+
+La gran ventaja es que es mucho más fácil techar en el suelo que sobre paredes ya paradas, y que el panel terminado queda tan compacto que casi no pasa el agua.
+
+**La choza de fajinas.** Una **fajina** es un atado de ramitas. Esta choza está pensada para lugares donde no hay árboles grandes pero sí abundan los arbustos, las cañas, los sauces bajos u otro monte bajo.
+1. Juntá una buena cantidad de ramitas y, con un cordel o una atadura improvisada, armá atados todos del mismo tamaño.
+2. Usá esos atados como si fueran ladrillos o piedras para levantar la pared. Colocalos «trabando las juntas», es decir, que la unión entre dos atados de una fila quede sobre el medio de un atado de la fila de abajo, nunca en línea continua.
+3. Sostené la pared con estacas clavadas a los costados.
+4. Usá ramaje, ramitas chicas con sus hojas, como si fuera el cemento: sirve para nivelar los atados y que no se bamboleen sobre el suelo desparejo.
+5. Para las ventanas y la puerta, dejá el hueco y poné varas atravesadas por arriba. Sobre esas varas se siguen apoyando los atados. En la ventana, otras varas puestas sobre las fajinas sirven de alféizar firme.
+
+El autor aclara que conviene pensar en «ramitas» más que en palos: los palos más gruesos son duros y difíciles de manejar.
+
+**El techo.** Sobre las paredes se puede poner un techo de estera de castor, o un marco cubierto con palitos y, encima, una capa de paja, pasto seco, juncos o ramaje que haga escurrir la lluvia.
+
+**Por qué recomienda estas chozas el original:** no hace falta voltear ni un árbol grande ni un árbol joven valioso. Se pueden hacer con las ramas bajas, cortadas bien al ras del tronco para no dañar el árbol. Y la choza de fajinas se puede volver permanente revocándola por fuera y por dentro con barro o arcilla, hasta convertirla en una choza de adobe.
 
 ## Cierre
 - ¿Qué fue más difícil: el panel o la pared? ¿Por qué?
@@ -236,26 +253,8 @@ camp by plastering the outside with soft mud or clay and treating the
 inside walls in the same manner, thus transforming it into an adobe
 shack.
 
-**Versión en español:**
-
-**Estera de castor**
-
-El campamento de estera de castor es nuevo y, en condiciones favorables, bueno. Cortá los palos del largo que necesites para el marco de las paredes y atalos con las raicillas verdes del alerce americano o con tiras de corteza de asimina, olmo, cedro o la corteza interna del castaño (A, fig. 22); después hacé una cama de cualquier ramaje que tengas a mano, pero armala como se explicó para las camas de abeto (fig. 7). Por supuesto, vas a techar de manera que, cuando la pared esté parada, quede tejada como una casa, con las filas de arriba tapando las de abajo. Después atá un marco igual sobre el marco relleno de ramaje y la pared está terminada (B, fig. 22). Hacé la otra pared o las otras paredes y el techo (C, fig. 22) de la misma manera, y después levantar la choza es muy sencillo (fig. 22, y E, fig. 22).
-
-La gran ventaja de este refugio es que es mucho más fácil techar en el suelo que sobre paredes paradas, y además, una vez terminado, queda tan compacto que es prácticamente impermeable.
-
-**Choza de fajinas**
-
-La choza de fajinas también es un estilo nuevo de campamento, pensado para lugares donde no se puede cortar madera grande, pero donde abundan más o menos los sauces enanos, las cañas de bambú, los alisos u otro monte bajo. Juntá de ahí una buena provisión de ramitas y, con un hilo improvisado, atalas en atados del mismo tamaño. Usá estos atados como usarías piedras para construir una pared, y colocalos trabando las juntas, es decir, de modo que las juntas nunca queden en una línea continua. Sostené la pared con estacas como muestra la fig. 26. Usá ramaje, ramitas chicas con sus hojas, en lugar de mortero o cemento, para nivelar los atados y evitar que se balanceen sobre superficies desparejas. Las puertas y ventanas no son un problema que no pueda resolver hasta el más novato. La fig. 27 muestra la abertura de la ventana y también cómo se puede afirmar el alféizar poniendo varas encima de las fajinas. También se ponen varas sobre la puerta, para apoyar encima los atados de fajinas o ramitas. Seguramente «ramitas» es la mejor palabra para usar aquí, porque «fajinas» podría hacer pensar en palos más grandes, que pueden ser duros, tercos y difíciles de manejar.
-
-**Techos**
-
-Después de levantar las paredes, se les puede poner encima un techo de estera de castor, o un techo hecho sobre un marco como el de la fig. 28, cubierto con palitos y encima un techado de paja, heno, juncos (figs. 66 y 69) o ramaje que escurra la lluvia.
-
-Una gran ventaja que recomienda los campamentos de estera de castor y de fajinas a los amantes de la naturaleza y a los estudiosos de la silvicultura es que no hace falta voltear ni destruir un solo árbol grande ni un árbol joven valioso para conseguir el material necesario para el campamento. Los dos se pueden hacer en tierras de bosque usando las ramas bajas de los árboles, que, cortadas como corresponde al ras del tronco (fig. 121), no dañan los árboles en pie. La choza de fajinas se puede convertir en un campamento permanente revocando el exterior con barro blando o arcilla y tratando igual las paredes interiores, con lo que se transforma en una choza de adobe.
-
 ---
-**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914). Dominio público. Texto tomado de Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
+**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
 
 **Traducción:** Fogata de Recursos (2026).
 

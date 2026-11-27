@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuchillo y Hacha sin Accidentes"
+title: "Precaución en el Uso del Cuchillo y el Hacha"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuchillo-y-hacha-sin-accidentes/"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - cuchillo
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -146,22 +150,31 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
-# ¡Cuchillo y Hacha sin Accidentes!
+# Precaución en el Uso del Cuchillo y el Hacha
 
 ## Resumen
-El manual da reglas cortas y claras. Para el cuchillo: tallar siempre hacia afuera, los dedos detrás del filo y preguntarse todo el tiempo *«si este cuchillo se resbala, ¿me puede cortar los dedos?»*. Para el hacha: nunca apoyar el pie en lo que se corta, pensar adónde iría un golpe que rebota y cortar siempre sobre un tajo, donde además el hacha queda clavada cuando no se usa. La patrulla aprende las reglas y las practica tallando y partiendo leña chica, con supervisión.
+Unas reglas básicas para usar el cuchillo y el hacha en campamento sin lastimarse. Conviene enseñarlas mostrando cada una con la herramienta en la mano.
 
 ## Preparación
 1. Delimitá con una soga un sector de herramientas: solo entra quien está usando una.
 2. Revisá que los cuchillos tengan traba y que el hacha tenga el cabo firme.
 
 ## Desarrollo
-1. Leé las reglas del cuchillo. Cada uno repite en voz alta la pregunta clave.
-2. Mostrá cómo se pasa un cuchillo (cerrado, o con el mango hacia el otro) y cómo se abre y cierra con los dedos lejos del filo.
-3. Práctica: tallen una punta en una rama verde, siempre hacia afuera y sentados, con espacio alrededor («círculo de seguridad»: brazo extendido más el cuchillo).
-4. Afilado: mostrá cómo se afila con la piedra. Un cuchillo afilado es más seguro que uno desafilado, porque no hay que hacer fuerza.
-5. Hacha: con el tajo y la hachuela, mostrá cómo partir palitos para astillas apoyándolos de punta sobre el tajo, sin sostenerlos con la mano en la línea del golpe.
-6. Cada scout parte tres palitos bajo supervisión. Al terminar, el hacha queda clavada en el tajo o enfundada.
+**El cuchillo:**
+1. Tallá siempre hacia afuera, alejando el filo de tu cuerpo.
+2. Mantené los dedos detrás del filo, nunca delante.
+3. Preguntate todo el tiempo: «Si se me resbala el cuchillo, ¿me puede cortar los dedos?».
+4. Aprendé a afilar tu cuchillo y mantenelo siempre afilado (un cuchillo sin filo se resbala más).
+
+**El tronco de cortar:** es lo primero que hace falta en un campamento. Es un tronco grueso y firme, apoyado en el suelo, sobre el que se corta la leña. Cuando no se usa, el hacha se deja siempre clavada en ese tronco: así todos saben dónde está y nadie se lastima con ella, ni personas ni animales.
+
+**El hacha:** es una herramienta muy peligrosa. Un golpe de refilón, es decir, un golpe que resbala en la madera y se desvía, puede causar una herida muy grave.
+1. No pises el palo que estás cortando.
+2. Pensá siempre hacia dónde iría el hacha si el golpe resbala, y mantené los pies lejos de ese lugar.
+3. Para partir palitos cortos para encender el fuego, sostenelos acostados sobre el tronco de cortar, agarrados de una punta, y clavá el filo en la otra punta.
+4. No sostengas el palo parado con una mano mientras lo partís.
+5. Cortá o partí la leña chica siempre sobre el tronco de cortar o sobre un leño. Nunca dejes que el hacha pegue en la tierra, porque una piedra escondida puede arruinarle el filo.
+6. No dejes el hacha afuera en una noche de mucha helada: el frío puede volver quebradizo el acero y el filo puede saltar en el primer nudo de la madera que golpees a la mañana.
 
 ## Cierre
 - ¿Cuál de las reglas les parece la más importante?
@@ -217,42 +230,8 @@ the chopping block and strike the blade into the other end.
 5. Cut or split small wood on a chopping block or log. Never let the axe
 strike into the ground, as a hidden stone may ruin the edge.
 
-**Versión en español:**
-
-**Precauciones con el cuchillo y el hacha**
-
-*El cuchillo*
-
-1. Tallá siempre hacia afuera.
-
-2. Mantené los dedos detrás del filo.
-
-3. Repetite todo el tiempo: «Si este cuchillo se resbala, ¿me puede cortar los dedos?».
-
-4. Aprendé a afilar tu cuchillo y mantenelo afilado.
-
-*El tajo*
-
-«Lo primero que hace falta en un campamento es un tajo. El hacha, cuando no se usa, tiene que estar siempre clavada en ese tajo, donde uno la encuentra cuando la necesita y donde no va a lastimar a nadie ni a los perros».
-
-*El hacha*
-
-«No dejes el hacha afuera en una noche muy fría; la helada la volvería quebradiza, y el acero podría astillarse en el primer nudo que golpees a la mañana siguiente....»
-
-El hacha es una herramienta muy peligrosa, y un golpe que rebota te puede dejar lisiado para toda la vida.
-
-1. No pongas el pie sobre el palo que estás cortando.
-
-2. Tené siempre presente adónde puede ir el hacha si el golpe rebota, y mantené el pie lejos de ese peligro.
-
-3. Para partir palitos cortos para astillas, sostenelos de una punta apoyados de plano sobre el tajo y clavá el filo en la otra punta.
-
-4. No sostengas el palo parado con una mano mientras lo partís.
-
-5. Cortá o partí la leña chica sobre un tajo o un tronco. Nunca dejes que el hacha pegue en el suelo, porque una piedra escondida le puede arruinar el filo.
-
 ---
-**Fuente:** Girl Scouts of the USA, Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

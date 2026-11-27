@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - cuerdas
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -132,23 +136,30 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Las Partes de la Cuerda y el Remate!
+# Las Partes de la Cuerda y el Remate
 
 ## Resumen
-Antes de aprender nudos conviene hablar el mismo idioma. Todo nudo se explica con tres partes de la cuerda: el **chicote** (la punta con la que se trabaja), el **seno** (la curva que se forma al doblar la cuerda sobre sí misma) y el **firme** (la parte larga que no se usa). Después, cada protagonista remata las dos puntas de su propia cuerda con hilo para que no se deshilachen. Esa cuerda la va a usar en todas las fichas de nudos.
+Dos cosas básicas para trabajar con cuerdas: cómo se llaman sus partes, para entender las explicaciones de cualquier nudo, y cómo rematar una punta para que no se deshilache.
 
 ## Preparación
 1. Cortá un trozo de cuerda por persona y quemá o encintá provisoriamente las puntas para que no se abran antes de rematarlas.
 2. Prepará hilo encerado (o piolín) en trozos de unos 35 cm.
 
 ## Desarrollo
-1. Mostrá una cuerda larga y señalá el chicote, el seno y el firme. Pedí que cada uno los marque en su cuerda.
-2. Juego rápido: decí un nombre («¡seno!», «¡chicote!») y todos tienen que levantar esa parte de su cuerda.
-3. Remate: formá con el hilo un lazo de unos 5 cm y apoyalo a lo largo de la punta de la cuerda, dejando el extremo del hilo 2-3 cm más allá de la punta.
-4. Enrollá la parte larga del hilo bien apretada sobre la cuerda y el lazo, de afuera hacia adentro, sin tapar del todo el lazo.
-5. Pasá el extremo del hilo por el lazo que quedó libre.
-6. Tirá de la otra punta del hilo: el lazo se mete debajo de las vueltas y queda trabado. Cortá las puntas al ras.
-7. Repetí en la otra punta de la cuerda.
+**Las tres partes de una cuerda:**
+1. **El chicote:** la punta de la cuerda, la parte que se mueve y con la que se va haciendo el nudo.
+2. **El seno:** la curva o «U» que se forma al doblar la cuerda sobre sí misma y sostenerla así.
+3. **El firme:** la parte larga de la cuerda, la que queda quieta y no se usa para hacer el nudo.
+
+**Cómo rematar la punta de una cuerda scout:**
+1. Tomá un trozo de hilo blando de unos 30 a 35 cm.
+2. En una punta del hilo hacé un lazo (un seno) de unos 5 cm.
+3. Apoyá el lazo a lo largo de la cuerda, cerca de la punta, de manera que la puntita del hilo sobresalga 2 o 3 cm más allá del extremo de la cuerda.
+4. Con la parte larga del hilo, enrollá la cuerda y el lazo juntos, con vueltas bien apretadas y pegadas una a la otra, avanzando hacia el lazo.
+5. Dejá sin tapar la puntita del lazo. Pasá por adentro de él el extremo del hilo con el que venías enrollando.
+6. Tirá de la otra punta del hilo, la que sobresalía del extremo de la cuerda. Así el lazo se mete por debajo de las vueltas y arrastra con él el extremo que pasaste.
+
+Como el hilo queda trabado debajo de las vueltas, se pueden cortar las dos puntas al ras de la cuerda.
 
 ## Cierre
 - ¿Por qué conviene que todos usemos los mismos nombres para las partes de la cuerda?
@@ -197,38 +208,8 @@ Pull the other end of the twine and draw the loop under the binding.
 As the twine will be held fast, the ends can be cut off close to the
 rope.
 
-**Versión en español:**
-
-**Partes de la cuerda**
-
-Las tres partes de una cuerda son:
-
-1. El chicote, la parte con la que se guía el nudo;
-
-2. El seno, una curva que se forma doblando la cuerda sobre sí misma y sosteniéndola en su lugar;
-
-3. El firme, la parte larga de la cuerda que no se usa al hacer un nudo.
-
-[…]
-
-*Para rematar las puntas de una cuerda scout de modo que no se deshilachen:*
-
-Tomá un trozo de hilo suave de treinta o treinta y cinco centímetros;
-
-Hacé un lazo de cinco centímetros en una punta;
-
-Apoyá el lazo sobre la cuerda, con el extremo del hilo sobresaliendo dos o tres centímetros más allá de la punta de la cuerda;
-
-Uní la cuerda y el lazo enrollando el hilo a su alrededor, bien apretado y con las vueltas juntas;
-
-Pasá el extremo por el lazo, que no tiene que quedar tapado del todo por las vueltas;
-
-Tirá de la otra punta del hilo y llevá el lazo por debajo de las vueltas.
-
-Como el hilo queda trabado, las puntas se pueden cortar al ras de la cuerda.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

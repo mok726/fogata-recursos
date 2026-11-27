@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fútbol de Soplido"
+title: "Soplar la Pelota"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/futbol-de-soplido/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - interior
   - juego-de-mesa
   - risa
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,16 +142,23 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Fútbol de Soplido!
+# Soplar la Pelota
 
 ## Resumen
 Dos equipos se arrodillan o sientan en las puntas de una mesa larga. La pelotita va en el centro y cada equipo sopla para tirarla por la punta contraria. Si cae por los costados, vuelve al centro. B-P dice que desarrolla los pulmones, pero sobre todo la compostura: gana el que sopla sin reírse de las caras de enfrente.
 
 ## Desarrollo
-1. Cada equipo se ubica en una punta de la mesa, sentado o arrodillado.
-2. Se pone la pelotita en el centro y a la señal todos soplan.
-3. Si cae por la punta contraria, punto. Si cae por un costado, vuelve al centro.
-4. Juega a un número de puntos o a tiempo.
+Un juego de mesa en el que dos equipos tratan de sacar una pelotita de ping-pong por la punta del rival, solo soplando.
+
+1. Se usa una mesa de unos 1,80 metros de largo. Los jugadores se dividen en dos equipos y cada uno se ubica en una punta. Lo mejor es jugar arrodillados o sentados alrededor de la mesa.
+2. Se pone una pelota de ping-pong, o cualquier pelota muy liviana, en el centro de la mesa.
+3. A la señal, cada equipo sopla para que la pelota caiga por la punta del otro equipo.
+4. Si la pelota se cae por uno de los costados, no cuenta: se la vuelve a poner en el centro.
+5. Cuesta más de lo que parece, porque hay que soplar sin reírse de las caras que ponen los de enfrente.
+
+**El objetivo:** hacer caer la pelota por la punta del equipo contrario.
+
+**Con arcos (variante del original):** para cinco jugadores por equipo se marca un arco en cada punta de la mesa. Cada equipo tiene un arquero que defiende su arco, dos delanteros ubicados en la punta contraria para soplar hacia el arco rival y dos defensores que soplan la pelota hacia sus delanteros.
 
 ### Variante: Con arcos
 Se marcan arcos en las puntas y cada equipo (de cinco) tiene arquero, dos delanteros cerca del arco rival y dos defensores que les pasan la pelotita.
@@ -167,15 +177,12 @@ Se marcan arcos en las puntas y cada equipo (de cinco) tiene arquero, dos delant
 
 The players divide into two sides and take their positions at each end of a wooden table about 6 feet long. A ping-pong ball (or any light celluloid ball) is placed in the center, and each side tries to blow it off the table at the other end-if it goes off the sides it does not count, but is put back in the center again. The game soon develops strong lungs, but needs composure just as much-because the best player is the one who can blow without laughing at the faces of those opposite him as they blow. It is best to play kneeling or sitting round the table. A more complicated way for five players a side is to have a goal at each end marked on the table; then each side has a goalkeeper, two forwards, stationed at the other end to blow into the enemy's goal, and two backs to pass the ball to their forwards.
 
-**Versión en español:**
-
-**SOPLAR LA PELOTA.**
-
-Los jugadores se dividen en dos bandos y se ubican en cada punta de una mesa de madera de unos 6 pies (1,80 m) de largo. Se pone una pelota de ping-pong (o cualquier pelota liviana de celuloide) en el centro, y cada bando trata de tirarla soplando por la otra punta; si cae por los costados no cuenta, y se la vuelve a poner en el centro. El juego enseguida desarrolla pulmones fuertes, pero exige compostura en igual medida, porque el mejor jugador es el que puede soplar sin reírse de las caras que ponen los de enfrente al soplar. Lo mejor es jugar arrodillados o sentados alrededor de la mesa. Una forma más complicada, para cinco jugadores por bando, es marcar un arco en cada punta de la mesa; entonces cada bando tiene un arquero, dos delanteros ubicados en la otra punta para soplar al arco enemigo y dos defensores para pasarles la pelota a sus delanteros.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 12. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 12: «Blow Ball». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

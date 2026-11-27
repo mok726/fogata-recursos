@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Puestos de Luz"
+title: "Puestos Nocturnos"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/puestos-de-luz/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - noche
   - linterna
   - persecucion
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Puestos de Luz!
+# Puestos Nocturnos
 
 ## Resumen
 Varias parejas, los "puestos", se ubican lejos de la salida con linternas. No se pueden mover, pero muestran o tapan su luz cuando quieren. Diez minutos después sale el corredor, con un farol siempre encendido, a buscarlos. Uno o dos minutos más tarde salen los scouts, que intentan atrapar al corredor y a los puestos. Cuando el corredor encuentra un puesto, este apaga su luz y vuelve a la salida.
 
 ## Desarrollo
-1. Los puestos salen en parejas y se ubican a más de unos 400 m de la salida (o la distancia que permita el terreno).
-2. A los diez minutos sale el corredor con su farol, que no puede tapar.
-3. Uno o dos minutos después salen los scouts a cazar.
-4. Los puestos muestran su luz cuando creen que el corredor está cerca, cuidando de no delatarse ante los scouts. No se pueden llamar a los gritos.
-5. Cuando el corredor encuentra todos los puestos, vuelve. Nadie puede quedarse esperando cerca de la salida.
+Un juego nocturno con linternas: un corredor tiene que descubrir unos puestos escondidos en la oscuridad, mientras otro grupo intenta atrapar a todos.
+
+Hay tres papeles:
+- Los **puestos**: parejas que se esconden con una linterna y no se pueden mover de su lugar.
+- El **corredor**: el que sale a encontrar a los puestos, con una linterna o farol a pilas que siempre tiene que llevar prendido.
+- Los **cazadores** (en el original, «los scouts»): todos los demás, que salen a atrapar tanto al corredor como a los puestos.
+
+1. Las parejas de puestos (dos o más, según cuántos jueguen) salen con una linterna común y se ubican a no menos de 400 metros del punto de partida, u otra distancia que se acuerde.
+2. Unos diez minutos después sale el corredor, con su farol prendido. No lo puede tapar ni apagar.
+3. Uno o dos minutos más tarde salen los cazadores.
+4. Los puestos pueden mostrar o tapar su luz cuando quieran. La idea es prenderla cuando creen que el corredor anda cerca, para que los encuentre, pero cuidándose de que no los vean los cazadores.
+5. Ni los puestos ni el corredor pueden llamarse a los gritos entre ellos.
+6. Cuando el corredor encuentra un puesto, esa pareja apaga su luz y vuelve al punto de partida. Cuando el corredor encontró todos los puestos, también vuelve.
+7. Los cazadores no pueden quedarse esperando cerca del punto de partida: tienen que mantenerse a más de la distancia que se acuerde, unos 100 metros según el terreno.
 
 ## Cierre
 - ¿Cuándo convenía mostrar la luz?
@@ -166,15 +178,12 @@ Varias parejas, los "puestos", se ubican lejos de la salida con linternas. No se
 
 Two or more Scouts (according to number taking part) go out in pairs with ordinary bicycle or similar lamps, and take up positions not nearer than 1/4 mile (or other agreed distance) from starting-point. They are called outposts, and must not move their ground, but may show or conceal their light as they think best. One Scout goes out, say, ten minutes later carrying a hurricane lamp to discover the outposts. He is called the runner and must not hide his light. One or two minutes later the remainder start out to chase and capture both the runner and outposts. They are called Scouts. Outposts and runners must not call to one another. Outposts show their light when they think the runner is near, but must be careful not to betray their position to the Scouts. As soon as the runner finds an outpost these extinguish their light and make for the starting-point. When the runner has discovered all outposts he does the same. No Scout may remain nearer the starting-point than agreed distance - 100 yards or so, according to circumstances.
 
-**Versión en español:**
-
-**PUESTOS NOCTURNOS.**
-
-Dos o más scouts (según cuántos participen) salen de a dos con faroles comunes de bicicleta o similares, y se ubican a no menos de 1/4 de milla (u otra distancia acordada) del punto de partida. Se llaman puestos, y no pueden moverse de su lugar, pero pueden mostrar o tapar su luz como les parezca mejor. Un scout sale, digamos, diez minutos más tarde llevando un farol de tormenta para descubrir los puestos. Se lo llama el corredor y no puede tapar su luz. Uno o dos minutos más tarde sale el resto a perseguir y capturar tanto al corredor como a los puestos. Se los llama scouts. Los puestos y los corredores no pueden llamarse entre sí. Los puestos muestran su luz cuando creen que el corredor está cerca, pero tienen que cuidarse de no delatar su posición a los scouts. Apenas el corredor encuentra un puesto, estos apagan su luz y se dirigen al punto de partida. Cuando el corredor descubrió todos los puestos, hace lo mismo. Ningún scout puede quedarse más cerca del punto de partida que la distancia acordada: 100 yardas o algo así, según las circunstancias.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VIII (Night Games), juego 6. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VIII (Night Games), juego 6: «Night Outposts». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

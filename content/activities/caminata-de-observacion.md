@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Caminata de Observación"
+title: "Caminatas de Observación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/caminata-de-observacion/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -147,19 +148,28 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Caminata de Observación!
+# Caminatas de Observación
 
 ## Resumen
-La Manada sale a caminar con una lista de cosas para observar, cada una con su puntaje (más puntos para lo difícil de ver). Cada lobato que ve algo se lo dice en voz baja a Akela, que lo anota. Al final se suman los puntos.
+Una salida con la Manada en la que se suman puntos por descubrir ciertas cosas en el camino. Entrena la atención y el ojo.
 
 ## Preparación
 1. Armá la lista según el lugar. Ejemplo para el barrio: caballo o perro rengo, 8; nido, 5; bandada de siete pájaros, 3; piedra con forma de huevo, 3; veleta, 1; prenda roja, 1; jacarandá o tilo, 1.
 
 ## Desarrollo
-1. Explicá la lista y los puntos antes de salir.
-2. Durante la caminata, cada lobato que ve algo de la lista se lo dice en voz baja a Akela (para no avivar a los demás).
-3. Akela anota los puntos al lado del nombre.
-4. Al volver se suman los puntos y se anuncia al ganador.
+1. Antes de salir, el Viejo Lobo (el dirigente) arma una lista de cosas para encontrar y cuántos puntos vale cada una. Las más difíciles de ver valen más. El original propone, por ejemplo:
+   - un caballo que renguea: 8 puntos;
+   - una urraca (acá puede ser un hornero o un benteveo): 3 puntos;
+   - una bandada de siete pájaros: 3 puntos;
+   - una piedrita con forma de huevo de pájaro: 3 puntos;
+   - un roble: 1 punto;
+   - una prenda roja: 1 punto;
+   - una veleta (la flecha de metal que gira sobre los techos para mostrar de dónde viene el viento): 1 punto.
+2. Se sale a caminar por la ciudad o por el campo.
+3. Cuando un lobato ve algo de la lista, se lo dice al oído al Viejo Lobo, para que los demás no se enteren. El Viejo Lobo le anota los puntos.
+4. Al final de la caminata se suman los puntos de cada uno.
+
+**Cómo se gana:** gana el que juntó más puntos.
 
 ## Cierre
 - ¿Qué cosa nadie encontró? ¿Por qué?
@@ -184,23 +194,8 @@ and so on.
 Each boy on seeing an object that counts will report to the Old Wolf in a whisper, and the marks due will be recorded against his name.
 At the end of the walk these will be totted up and the winner will be declared.
 
-**Versión en español:**
-
-**CAMINATAS DE OBSERVACIÓN**
-Llevá a la Manada a caminar por la ciudad o el campo y asigná puntos a ciertas cosas que se vean en el camino. Por ejemplo:
-caballo rengo, 8 puntos;
-urraca, 3 puntos;
-bandada de siete pájaros, 3 puntos;
-piedra con forma de huevo de pájaro, 3 puntos;
-roble, 1 punto;
-prenda roja, 1 punto;
-veleta, 1 punto;
-y así.
-Cada chico que ve algo que cuenta se lo informa al Viejo Lobo en voz baja, y los puntos se anotan al lado de su nombre.
-Al final de la caminata se suman y se declara al ganador.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Caminar como Aguatero"
+title: "Caminar"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/caminar-como-aguatero/"
@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,16 +144,21 @@ rama_rovers:
   - 14 # Reconozco, acepto y valoro mi cuerpo y el de los demás en su integralidad.
 ---
 
-# ¡Caminar como Aguatero!
+# Caminar
 
 ## Resumen
-B-P distingue a los que caminan de los que "se arrastran" encorvados mirando el piso. Para practicar la postura, propone caminar con un peso de medio kilo sobre la cabeza, como los aguateros: si te encorvás, se cae.
+Un desafío para lobatos: aprender a caminar derechos, con buena postura, llevando un peso en equilibrio sobre la cabeza.
 
 ## Desarrollo
-1. Hablen de la diferencia entre caminar derecho y encorvado: el que camina derecho, con paso elástico, ve mucho más que el piso.
-2. Cada uno se pone en la cabeza un saquito de arena o de porotos (nada duro ni que se rompa).
-3. Caminen un recorrido con hombros derechos y mentón apenas levantado. ¿Quién llega más lejos sin que se caiga?
-4. Hagan carreras de relevos o recorridos con curvas. Si cuesta mucho, B-P sugiere probar con la gorra puesta.
+1. **La idea.** B-P dice que algunos caminan y otros «se arrastran»: el que camina bien va derecho, con paso elástico y mirando alrededor; el encorvado lleva los hombros caídos y, como mira el suelo, se pierde todo lo que pasa.
+2. **El desafío.** Cada lobato consigue algo de alrededor de medio kilo que no sea muy duro ni muy firme, por ejemplo una bolsita de arena o de porotos, y se lo pone apoyado en la cabeza.
+3. Después camina lo más lejos que pueda sin que se le caiga. Si se encorva, enseguida se le cae; si camina con los hombros derechos y el mentón un poco levantado, puede llegar muy lejos.
+4. Si cuesta mucho porque la cabeza es redonda, se puede probar con la gorra de lobato puesta.
+5. Se pueden imitar las imágenes de los aguateros, la gente que en muchos países lleva el agua en cántaros sobre la cabeza. Pero no con la mejor jarra de la casa, que sería una travesura de duende, sino con algo que no se rompa ni lastime si se cae.
+
+B-P les dice que, practicando, pueden llegar a competir con el vendedor ambulante de su época, que llevaba la bandeja de bollos sobre la cabeza por la calle.
+
+**Cómo se gana:** el original no lo plantea como competencia; si se quiere, gana el lobato que recorre más distancia sin que se le caiga el peso.
 
 ## Cierre
 - ¿Qué cambió en tu postura para que no se cayera el peso?
@@ -169,15 +175,8 @@ Some fellows walk, others slouch! Which do you do? You can tell walkers from slo
 Try walking with a weight upon your head. Get a weight of about a pound — not anything too stiff or too solid — and see how far you can walk with it flat on your head. If you slouch it will soon be on the floor, but if you walk with your shoulders straight and your chin slightly up — well, there's no knowing how soon you'll be able to rival a muffin man! If you find it very difficult, because you've got a funny shaped head, try it with your Cub cap on!
 Perhaps you have seen pictures of water-carriers in the East. Imitate them — no, not with the aid of Mother's best bedroom jug, that would be a Boggart's trick, but with something that will not hurt if it falls on the ground.
 
-**Versión en español:**
-
-**CAMINAR**
-¡Algunos caminan y otros se arrastran encorvados! ¿Vos qué hacés? En cuanto los ves juntos, distinguís a los que caminan de los encorvados. El que camina va derecho, tiene un paso elástico y una mirada inteligente. El encorvado tiene los hombros caídos y parece aburrido, porque, mientras avanza, nunca ve mucho más que el suelo.
-Probá caminar con un peso sobre la cabeza. Conseguí un peso de alrededor de medio kilo —que no sea algo demasiado duro ni sólido— y fijate qué tan lejos podés caminar con él apoyado en la cabeza. Si te encorvás, enseguida va a estar en el piso, pero si caminás con los hombros derechos y el mentón un poco levantado... ¡quién sabe qué tan pronto vas a poder competir con el vendedor de bollos! Si te resulta muy difícil porque tenés la cabeza de forma rara, ¡probá con la gorra de lobato puesta!
-Tal vez viste imágenes de aguateros de Oriente. Imitalos, pero no con la mejor jarra del dormitorio de tu mamá —eso sería una travesura de duende—, sino con algo que no lastime si se cae al suelo.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

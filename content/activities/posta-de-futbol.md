@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - posta
   - pelota
   - futbol
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,16 +143,23 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Posta de Fútbol!
+# Posta de Fútbol
 
 ## Resumen
 Cada equipo tiene su arco y un punto de vuelta a varios metros. El primero lleva la pelota con el pie desde el arco hasta la vuelta y vuelve a meterla en el arco. Entonces sale el segundo, y así todos. Gana el equipo que termina primero.
 
 ## Desarrollo
-1. Armá un arco y un punto de vuelta para cada equipo.
-2. El primero de cada equipo sale con la pelota en el pie desde el arco.
-3. Da la vuelta y mete la pelota de nuevo en el arco.
-4. Sale el siguiente. Gana el equipo que termina primero.
+Una carrera de postas en la que cada jugador lleva la pelota con el pie, ida y vuelta, y termina haciendo un gol.
+
+En una carrera de **postas** (o relevos) cada jugador del equipo hace el recorrido por turno, y recién cuando termina uno sale el siguiente.
+
+1. Se arman dos equipos (o bandos) iguales. Cada uno tiene un arco, que puede ser dos piedras, dos mochilas o dos estacas. Los jugadores de cada equipo se forman detrás de su arco.
+2. A varios metros de cada arco se marca un punto de vuelta, por ejemplo una estaca o un banderín.
+3. A la señal, el primer jugador de cada equipo sale llevando la pelota con el pie desde su arco hasta el punto de vuelta, lo rodea y vuelve llevándola de la misma forma.
+4. Al llegar, tiene que meter la pelota por el mismo arco del que salió.
+5. Recién cuando hizo el gol, sale el segundo jugador y repite todo el recorrido. Así siguen hasta que pasan todos.
+
+**Cómo se gana:** gana el equipo que termina primero.
 
 ## Cierre
 - ¿Qué convenía: ir rápido o con la pelota controlada?
@@ -162,15 +172,12 @@ Cada equipo tiene su arco y un punto de vuelta a varios metros. El primero lleva
 
 This is a relay game, where the first scout of each side starts kicking the ball from his goal to a turning-point several yards away, then kicks the ball back through the goal that he started from. When he has kicked a goal the second scout repeats the performance of the first, and each scout repeats the performance. The side that finishes first wins the race.
 
-**Versión en español:**
-
-**POSTA DE FÚTBOL.**
-
-Es un juego de postas en el que el primer scout de cada bando empieza llevando la pelota con el pie desde su arco hasta un punto de vuelta a varias yardas, y después la lleva de vuelta y la mete por el arco desde el que salió. Cuando metió el gol, el segundo scout repite lo que hizo el primero, y así cada scout repite el recorrido. Gana el bando que termina primero.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juego 8. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IX (Winter Games), juego 8: «Soccer Relay». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

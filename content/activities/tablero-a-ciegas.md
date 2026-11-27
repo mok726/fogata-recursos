@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tablero a Ciegas"
+title: "Una Carrera de Obstáculos"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tablero-a-ciegas/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - ojos-vendados
   - punteria
 
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,16 +143,24 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Tablero a Ciegas!
+# Una Carrera de Obstáculos
 
 ## Resumen
 Sobre una mesa larga se dibujan círculos de distintos tamaños, cada uno con un número. A unos 20 m, un jugador se venda, gira tres veces y camina hasta la mesa. Al llegar apoya el dedo: si cae dentro de un círculo, suma ese número.
 
 ## Desarrollo
-1. Dibujá en la mesa círculos a distancias irregulares, con números (los más chicos, más puntos).
-2. El jugador se venda, gira tres veces y camina hacia la mesa.
-3. Al llegar, apoya un dedo sin tantear. Si está dentro de un círculo, suma ese número.
-4. Cada uno tiene una cantidad fija de turnos. Gana el que suma más.
+Una carrera a ciegas hacia una mesa con círculos numerados: hay que llegar y apoyar el dedo en el número más alto posible.
+
+El original lo llama «carrera de obstáculos» porque la mesa es el obstáculo: lo difícil es llegar hasta ella y acertar sin ver.
+
+1. Sobre una mesa larga (por ejemplo, la mesa del comedor del campamento) se dibujan varios círculos, separados a distancias irregulares. Dentro de cada círculo se escribe un número distinto.
+2. A unos 23 metros de la mesa se marca la línea de partida.
+3. A un jugador se le vendan los ojos en la línea de partida, se lo hace girar tres veces sobre sí mismo y se lo deja caminar hacia la mesa.
+4. Cuando llega, tiene que apoyar los dedos sobre la mesa.
+5. Si apoya los dedos dentro de un círculo, suma ese número. Si cae afuera de los círculos, no suma nada.
+6. Cada jugador tiene la misma cantidad de turnos.
+
+**Cómo se gana:** gana el que suma más puntos en la cantidad de turnos acordada.
 
 ## Cierre
 - ¿Llegaste derecho a la mesa? ¿Por qué se desvía uno al caminar con los ojos cerrados?
@@ -166,15 +177,12 @@ Sobre una mesa larga se dibujan círculos de distintos tamaños, cada uno con un
 
 An obstacle race is always popular; the difficulty generally is to get satisfactory obstacles. The picture here shows a long table, which can be obtained from the mess tent. On this a number of circles are drawn at irregular distances. A mark is made, say twenty-five yard, off, and a Scout is blindfolded, turned thrice round, and is allowed to make for the table. Each circle has a different number within it, and when the Scout reaches the table he has to put his fingers on it. If he places his fingers inside a circle, that number is added to his score; otherwise be gets nothing. The idea of the game is to score as many as possible in a given number of turns.
 
-**Versión en español:**
-
-**UNA CARRERA DE OBSTÁCULOS.**
-
-Una carrera de obstáculos siempre es popular; la dificultad, en general, es conseguir obstáculos adecuados. El dibujo muestra una mesa larga, que se puede conseguir en la carpa comedor. Sobre ella se dibujan varios círculos a distancias irregulares. Se hace una marca a, digamos, veinticinco yardas (unos 23 m), y a un scout se le vendan los ojos, se lo hace girar tres veces y se le permite ir hacia la mesa. Cada círculo tiene un número distinto adentro, y cuando el scout llega a la mesa tiene que apoyar los dedos en ella. Si apoya los dedos dentro de un círculo, ese número se suma a su puntaje; si no, no recibe nada. La idea del juego es sumar la mayor cantidad posible en una cantidad dada de turnos.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 22. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 22: «An Obstacle Race». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

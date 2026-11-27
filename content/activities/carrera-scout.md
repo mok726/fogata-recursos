@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - orientacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Carrera Scout!
+# Carrera Scout
 
 ## Resumen
-Una carrera con tres puestos. En cada uno, el árbitro da el rumbo de brújula hacia un grupo de personas a lo lejos, y el participante tiene que escribir un informe sobre ese grupo antes de seguir. Gana quien combina velocidad y buenos informes.
+Una carrera de observación: además de correr rápido, hay que mirar bien y escribir un buen informe de lo que se vio.
 
 ## Preparación
 1. Ubicá tres grupos (personas o parejas) a distintas distancias del punto de partida, cada uno vestido distinto y con algún objeto (bastón, mochila, diario). Pediles una postura que los distinga, por ejemplo, con una rodilla en el piso.
@@ -150,14 +154,18 @@ Una carrera con tres puestos. En cada uno, el árbitro da el rumbo de brújula h
 3. Prepará la planilla de puntaje.
 
 ## Desarrollo
-1. Los participantes corren al puesto 1. Ahí el árbitro les da el rumbo de brújula del grupo que tienen que observar.
-2. Al ver el grupo, cada uno escribe un informe con:
-   1. cuántas personas hay;
-   2. cómo están vestidas o cómo se las reconoce;
-   3. su posición respecto de alguna referencia cercana;
-   4. a qué distancia están.
-3. Corren al puesto siguiente y repiten. Al final llevan los informes a la meta.
-4. Puntaje: 5 puntos por cada informe completo y correcto (15 en total). Se descuenta 1 punto cada diez segundos de demora respecto del primero, y puntos o medios puntos por errores u omisiones.
+**Preparación:**
+1. El que dirige elige un circuito en forma de vuelta, de unos 400 metros, con tres puntos de control y, si se puede, algunos obstáculos para saltar.
+2. Ubica a tres personas o grupos lejos del circuito, a entre 300 y 1.100 metros del punto de partida. Cada grupo tiene que estar vestido de forma lo más distinta posible y llevar algún objeto diferente: un bastón, un bulto, un diario, etc.
+3. Si hay otra gente por la zona, se les pide a estos grupos que se pongan con una rodilla en el suelo o en alguna postura que los distinga de la gente que pasa.
+
+**Desarrollo:**
+1. Los competidores salen y corren hasta el punto 1. Ahí el árbitro les dice hacia qué rumbo de la brújula está el grupo que tienen que observar (por ejemplo, «al noreste»).
+2. Cada competidor busca ese grupo con la vista y escribe un informe que diga: cuántos son; cómo están vestidos o cómo se los reconoce; dónde están respecto de alguna referencia cercana (un árbol, una casa, un alambrado); y a qué distancia calcula que están de donde él está parado.
+3. Después corre al punto 2, donde le indican otro grupo, y hace lo mismo. Y así con el punto 3.
+4. Al final corre hasta la meta y entrega su informe.
+
+**Puntaje:** cada descripción correcta y completa de un grupo vale 5 puntos, así que el máximo es 15. Se descuenta 1 punto por cada 10 segundos que alguien llegue después del primero en entregar el informe. También se descuentan puntos o medios puntos por errores u omisiones en el informe.
 
 ## Cierre
 - ¿Qué fue más difícil: correr, orientarse o informar?
@@ -201,23 +209,8 @@ deducted for every ten seconds later than the first boy handing in his
 report at the winning post. Marks or half marks deducted for mistakes or
 omissions in reports.
 
-**Versión en español:**
-
-**CARRERA SCOUT.** El instructor ubica a tres personas o grupos, cada grupo vestido de forma lo más distinta posible y llevando objetos diferentes (como un bastón, un bulto, un diario, etc.), a distancias de 300 a 1.200 metros del punto de partida. Si hay otras personas cerca, se les puede pedir a estos grupos que se pongan con una rodilla en el piso o que adopten alguna postura parecida, para distinguirlos de los transeúntes. Arma un circuito de tres puntos para que corran los competidores, de unos 400 metros, con algunos saltos si es posible.
-
-Los competidores salen y corren al punto 1. Ahí el árbitro les dice la dirección de brújula del grupo sobre el que tienen que informar. Cada competidor, al ver ese grupo, escribe un informe que indique:
-
-1. Cuántos hay en el grupo.
-2. Cómo están vestidos o cómo se los reconoce.
-3. Su posición respecto de alguna referencia cercana.
-4. La distancia desde su propia posición.
-
-Después corre al punto siguiente y repite lo mismo con otro grupo, y así sucesivamente; y finalmente corre con su informe hasta la meta.
-
-*Puntaje.* Puntaje completo, 5 por cada descripción correcta y completa de un grupo, es decir, un total de 15 puntos para el recorrido. Se descuenta un punto por cada diez segundos de demora respecto del primer chico que entrega su informe en la meta. Se descuentan puntos o medios puntos por errores u omisiones en los informes.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Serpiente Cambia la Piel"
+title: "Despellejar la Serpiente"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-serpiente-cambia-la-piel/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - cooperativo
   - destreza
   - fila
@@ -66,10 +67,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,17 +142,21 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡La Serpiente Cambia la Piel!
+# Despellejar la Serpiente
 
 ## Resumen
 Los jugadores en fila india. Cada uno pasa la mano derecha entre sus piernas y se la toma el de atrás con la izquierda. El primero empieza a caminar hacia atrás, pasando por encima del segundo; el segundo hace lo mismo con el tercero, y así, hasta que el primero queda último. Bien rápido, parece una serpiente cambiando la piel.
 
 ## Desarrollo
-1. Se ponen en fila india, todos mirando para el mismo lado.
-2. Cada uno pasa la mano derecha entre las piernas hacia atrás y toma con la izquierda la mano del de adelante.
-3. El último se acuesta boca arriba. El de adelante camina hacia atrás pasando por encima de él y se acuesta detrás, y así toda la fila, sin soltarse.
-4. Después se levantan en orden inverso, hasta que la fila quede en pie y dada vuelta.
-5. Se puede cronometrar o competir entre patrullas.
+Una prueba de agilidad para toda la patrulla: la fila, tomada de las manos, se da vuelta entera sin soltarse, como una serpiente que cambia la piel.
+
+1. Los scouts se paran en fila india, uno detrás del otro, todos mirando para el mismo lado.
+2. Cada uno se agacha un poco, pasa la mano derecha hacia atrás por entre sus piernas y, con la izquierda, agarra la mano derecha del que tiene adelante. Así toda la fila queda unida.
+3. Sin soltarse, el primero de la fila camina hacia atrás y pasa con las piernas abiertas por encima del segundo, que se agacha para dejarlo pasar.
+4. El segundo hace lo mismo con el tercero, y así sigue toda la fila, uno después del otro.
+5. Al final, el que era el primero queda último, y la fila terminó dada vuelta.
+
+**Consejo del original:** hecho rápido, parece de verdad una serpiente cambiando la piel.
 
 ## Cierre
 - ¿Qué fue lo más difícil para no soltarse?
@@ -167,15 +174,12 @@ Los jugadores en fila india. Cada uno pasa la mano derecha entre sus piernas y s
 
 The scouts stand in single file. Each scout puts his right hand between his legs, which is grasped by the one behind. Then the first scout walks backwards, straddling No. 2. No. 2 repeats the movement, straddling No. 3, and so on, until the scout that was first is in the last position. It is a clever gymnastic stunt, and done quickly represents a snake shedding its skin.
 
-**Versión en español:**
-
-**DESPELLEJAR LA SERPIENTE.**
-
-Los scouts se paran en fila india. Cada scout pasa la mano derecha entre las piernas, y el que está detrás se la toma. Entonces el primer scout camina hacia atrás, pasando a horcajadas por encima del n.º 2. El n.º 2 repite el movimiento, pasando a horcajadas por encima del n.º 3, y así hasta que el scout que era el primero queda en la última posición. Es una proeza gimnástica ingeniosa, y hecha rápido representa a una serpiente cambiando la piel.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juego 7. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IX (Winter Games), juego 7: «Skin the Snake». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

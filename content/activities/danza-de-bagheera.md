@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,18 +144,24 @@ rama_rovers:
   - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
-# ¡La Danza de Bagheera!
+# La Danza de Bagheera
 
 ## Resumen
-Desde el círculo de parada, todos se mueven agachados como panteras, descubren un ciervo imaginario en el centro, retroceden para no espantarlo y lo acechan arrastrándose cada vez más despacio. A la voz de "¡Ahora!", saltan sobre él y vuelven a su lugar.
+Una danza de la Manada en la que todos imitan a Bagheera, la pantera negra de *El libro de la selva*, cazando un ciervo.
 
 ## Desarrollo
-1. Formen el círculo de parada. Expliquen que en el centro va a aparecer un ciervo imaginario.
-2. Todos avanzan en ronda, agachados, mirando a derecha e izquierda buscando una presa. Hay que copiar todo lo que hace quien guía.
-3. De golpe aparece la presa: todos se agachan y miran hacia el centro. En silencio se ponen en cuatro patas, giran hacia el centro y retroceden unos pasos para no espantar al ciervo.
-4. Empiezan a arrastrarse despacio hacia el centro. Cuanto más cerca, más pegados al piso y más lento.
-5. Cerca del centro se quedan quietos, acostados, hasta que quien guía dice "¡Ahora!". Entonces saltan hacia adelante con un grito sobre el ciervo imaginario.
-6. Se separan hacia afuera y vuelven saltando a su lugar en el círculo, haciendo como que llevan y muerden pedazos de carne.
+**El personaje:** Bagheera podía trepar a los árboles y moverse de noche entre las sombras, en silencio y sin que la vieran. Era una cazadora astuta y hábil, valiente y resistente. Aunque podía ser feroz, tenía buen corazón, y fue la que le enseñó a Mowgli a cazar y a conseguir su comida. En esta danza cada lobato se convierte en pantera.
+
+1. La Manada forma el Círculo de Parada, la ronda grande en la que se forma para empezar las ceremonias. Uno hace de guía de la danza.
+2. Todos caminan en ronda, agachados, mirando a derecha e izquierda como buscando una presa.
+3. De pronto aparece la presa: todos se agachan en cuclillas y giran la cabeza hacia el centro de la ronda, donde tienen que imaginar un ciervo pastando.
+4. Para que no los vea, se ponen despacio en cuatro patas mirando al centro y retroceden gateando unos pasos, para no espantarlo.
+5. Después todos empiezan a arrastrarse despacio hacia el centro. Cuanto más se acercan, más se pegan al suelo y más lento van.
+6. Cuando están cerca, se quedan todos acostados y quietos, hasta que el guía dice «¡Ahora!».
+7. Entonces todos saltan hacia adelante con un grito sobre el ciervo imaginario, lo atrapan y lo despedazan.
+8. Después se abren hacia afuera y vuelven saltando a sus lugares en el Círculo de Parada, como llevando y mordiendo pedazos imaginarios de carne.
+
+Durante toda la danza, cada lobato tiene que mirar al guía y hacer enseguida lo mismo que él.
 
 ## Cierre
 - ¿Qué cosas hace un buen cazador para que no lo descubran?
@@ -174,17 +181,8 @@ For the Bagheera Dance each Cub becomes a panther.
 The Pack being in the Parade Circle, each Cub moves along in a crouching position, looking out to the right and left for game to hunt. Suddenly game is in sight. Every Cub squats down, turning his head and gazing towards the centre of the circle, where he must imagine there is a deer feeding. In order not to be seen, he quietly gets on to all fours, and turns towards the centre, and then crawls backwards a few paces, in order to get a little further away from the deer, so as not to frighten him. Then every Cub begins to crawl slowly towards the centre. As they get nearer, all creep closer to the ground and more slowly. When they get near, all lie flat till the leader says "Now!" when they all spring forward on to the imaginary deer with a yell, seize him and tear him to pieces. They all fall outwards and run jumping back to their places in the Parade Circle, carrying and biting imaginary lumps of deer meat.
 During the dance every Cub must watch the leader, and instantly do the same thing as he does.
 
-**Versión en español:**
-
-**LA DANZA DE BAGHEERA**
-BAGHEERA era la pantera negra que podía trepar a los árboles o deslizarse en silencio, sin que nadie la viera, entre las sombras de la noche. Era el cazador astuto y hábil, valiente y resistente.
-Aunque podía ser feroz y terrible cuando quería, tenía buen corazón, y le enseñó a Mowgli a cazar y a conseguir su comida.
-Para la Danza de Bagheera cada lobato se convierte en pantera.
-Con la Manada en el Círculo de Parada, cada lobato avanza agachado, mirando a derecha e izquierda en busca de una presa. De pronto aparece la presa. Cada lobato se agacha, gira la cabeza y mira hacia el centro del círculo, donde tiene que imaginar que hay un ciervo pastando. Para que no lo vean, se pone despacio en cuatro patas, gira hacia el centro y después retrocede gateando unos pasos, para alejarse un poco más del ciervo y no espantarlo. Entonces cada lobato empieza a arrastrarse despacio hacia el centro. A medida que se acercan, todos se pegan más al piso y van más lento. Cuando están cerca, se quedan todos acostados hasta que el líder dice "¡Ahora!"; entonces saltan todos hacia adelante con un grito sobre el ciervo imaginario, lo atrapan y lo despedazan. Todos se separan hacia afuera y vuelven saltando a sus lugares en el Círculo de Parada, llevando y mordiendo pedazos imaginarios de carne de ciervo.
-Durante la danza, cada lobato tiene que mirar al líder y hacer enseguida lo mismo que él.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

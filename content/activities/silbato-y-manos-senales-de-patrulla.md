@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - senales
   - silbato
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -140,18 +144,36 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Silbato y Manos: Señales de Patrulla!
+# Silbato y Manos: Señales de Patrulla
 
 ## Resumen
-Con un silbato y las manos se puede dirigir a un grupo grande a distancia, sin gritar. Un silbato largo quiere decir «¡Atención!» y dos cortos, «Todo bien». Varios largos y lentos: «Dispérsense». Varios cortos y rápidos: «¡Reúnanse!». Tres cortos y uno largo llaman a los guías de patrulla. Con la mano: arriba quieta es «¡Alto!», agitada de lado a lado arriba es «Vengan acá» y señalar es «Vayan para allá». Se aprenden y se practican en un juego, hasta que salen solas.
+Un código de señales para que el dirigente y los guías de patrulla puedan dar órdenes a distancia, sin gritar, con el silbato, con la mano o con el banderín. Conviene enseñarlas y practicarlas en la reunión hasta que todos las reconozcan al instante.
 
 ## Desarrollo
-1. Enseñá las señales de silbato y de mano de a dos o tres por vez.
-2. Juego «Lo que dice el silbato»: el grupo se mueve libre por el campo. El educador usa solo el silbato o las manos y todos tienen que responder. El que se equivoca hace una prenda divertida o suma un punto.
-3. Regla del original: cuando suena el silbato, se responde al instante y corriendo, sin importar qué se esté haciendo.
-4. Señal de «te escucho»: cuando alguien te da una orden de lejos, levantá la mano a la altura de la cabeza mientras escuchás. Si no escuchás, quedate quieto sin hacer señas.
-5. Para Scouts: señales del explorador con el bastón (encontré, encontré lejos, encontré cerca, nada a la vista). Uno sale a explorar y le avisa a su patrulla.
-6. Acuerden qué señales va a usar el grupo en las salidas y en el campamento.
+**Señales de silbato**
+1. Un toque largo: «Silencio», «Atención», «Esperen mi próxima señal».
+2. Dos toques cortos: «Todo bien».
+3. Varios toques largos y lentos: «Salgan», «Aléjense», «Avancen», «Despliéguense», «Dispérsense».
+4. Varios toques cortos y fuertes: «Reúnanse», «Acérquense», «Fórmense», y también «Peligro» o «Alarma».
+5. Tres toques cortos y uno largo, del jefe de tropa: «Guías de patrulla, vengan acá».
+
+Cualquier señal de silbato se obedece al instante y a la carrera, sin importar qué se esté haciendo.
+
+**Señales con la mano o el banderín** (los guías pueden hacerlas con el banderín de patrulla)
+- Mano o banderín moviéndose de lado a lado delante de la cara: «No», «No importa», «Como estaban».
+- Brazo en alto, bien estirado, moviéndolo como si empujara hacia adelante: «Despliéguense», «Vayan más lejos».
+- Brazo en alto, moviéndolo rápido de lado a lado: «Acérquense», «Reúnanse», «Peligro», «Hay animales en el camino».
+- Mano o banderín apuntando hacia un lado: «Vayan para allá».
+- Puño cerrado o banderín subiendo y bajando rápido: «Apúrense», «Corran». Si a la vez se hace el gesto de llamar o de empujar, se entiende «apúrense para acá» o «para allá».
+- Mano levantada sobre la cabeza, con la palma hacia adelante: «Alto».
+
+Cuando el jefe le grita algo a un scout que está lejos, el scout mantiene la mano levantada a la altura de la cabeza mientras escucha bien. Si no escucha, se queda quieto sin hacer seña, y el jefe repite más fuerte o le hace señas para que se acerque.
+
+**Señales con el bastón** (para el scout que sale a explorar a la vista de su patrulla)
+- Bastón horizontal con las dos manos sobre la cabeza: «Encontré».
+- Lo mismo, subiéndolo y bajándolo despacio: «Encontré, pero está lejos».
+- Lo mismo, subiéndolo y bajándolo rápido: «Encontré, y está cerca».
+- Bastón vertical sobre la cabeza: «Nada a la vista».
 
 ## Cierre
 - ¿Qué señal les resultó más útil?
@@ -234,54 +256,8 @@ close by."
 
 The staff held straight up over the head means, "Nothing in sight."
 
-**Versión en español:**
-
-**Señales de silbato**
-
-1. Un silbato largo quiere decir «Silencio», «Atención», «Esperen mi próxima señal». También, que se llega a una estación.
-
-2. Dos silbatos cortos quieren decir «Todo bien».
-
-3. Una serie de silbatos largos y lentos quiere decir «Salgan», «Aléjense», o «Avancen», «Despliéguense», «Dispérsense».
-
-4. Una serie de silbatos cortos y fuertes quiere decir «Reúnanse», «Acérquense», «Vengan», «Fórmense», «Peligro», «Alarma».
-
-5. Tres silbatos cortos seguidos de uno largo del jefe de tropa llaman a los guías de patrulla, es decir, «Guías, vengan acá».
-
-Cualquier señal de silbato se obedece al instante y a la carrera, lo más rápido que puedas, sin importar qué otra tarea estés haciendo en ese momento.
-
-**Señales con la mano o la bandera**
-
-Señales con la mano, que los guías de patrulla también pueden hacer con sus banderines cuando haga falta:
-
-La mano agitada varias veces delante de la cara, de lado a lado, o la bandera agitada horizontalmente, de lado a lado, delante de la cara, quiere decir «No», «No importa», «Como estaban».
-
-La mano o la bandera en alto, agitada como empujando hacia adelante, con el brazo bien estirado, o una serie de silbatos lentos, quiere decir «Despliéguense», «Vayan más lejos», «Dispérsense».
-
-La mano o la bandera en alto, agitada rápido de lado a lado, con el brazo bien estirado, o una serie de silbatos cortos y rápidos, quiere decir «Acérquense», «Reúnanse», «Vengan acá», «Peligro», «Ganado en la vía».
-
-La mano o la bandera señalando en cualquier dirección quiere decir «Vayan en esa dirección».
-
-La mano cerrada o la bandera subida y bajada rápido varias veces quiere decir «Apúrense», «Corran».
-
-El movimiento, empujando o llamando, indica si es «Apúrense para acá» o «Apúrense para allá».
-
-La mano (o la bandera) levantada derecha sobre la cabeza, con la palma hacia adelante, quiere decir «Paren», «Alto».
-
-Cuando un jefe grita una orden o un mensaje a un scout que está a cierta distancia, el scout, si escucha lo que se dice, tiene que mantener la mano levantada a la altura de la cabeza todo el tiempo. Si no puede escuchar, tiene que quedarse quieto sin hacer ninguna seña. El jefe entonces repite más fuerte, o le hace señas al scout para que se acerque.
-
-Las siguientes señales las hace un scout con su bastón cuando lo mandan a reconocer el terreno a la vista de su patrulla, y tienen este significado:
-
-El bastón sostenido horizontal, es decir, nivelado, con las dos manos sobre la cabeza, quiere decir «Encontré».
-
-Lo mismo, pero con el bastón subido y bajado despacio, quiere decir «Encontré, pero está muy lejos».
-
-Lo mismo, con el bastón subido y bajado rápido, quiere decir «Encontré, y está cerca».
-
-El bastón sostenido derecho sobre la cabeza quiere decir «Nada a la vista».
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

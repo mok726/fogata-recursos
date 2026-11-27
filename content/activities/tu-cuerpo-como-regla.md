@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tu Cuerpo como Regla"
+title: "Medidas Personales Útiles"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-cuerpo-como-regla/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - orientacion
   - medidas
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -139,21 +143,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Tu Cuerpo como Regla!
+# Medidas Personales Útiles
 
 ## Resumen
-El manual propone llevar siempre encima una regla: el propio cuerpo. Sirven el largo del dedo, el palmo (de la punta del meñique a la del pulgar, con la mano abierta), la distancia de la nariz a la punta de los dedos con el brazo estirado y la **brazada**, que es más o menos igual a la altura. Y sobre todo el **paso**: se camina varias veces un tramo medido, se saca el promedio y se calcula cuánto mide un paso y cuánto se tarda. Cada protagonista arma su tarjeta de medidas personales y la pone a prueba.
+Una actividad para que cada una conozca las medidas de su propio cuerpo y las use como regla cuando no tiene un metro a mano. La idea es medir una vez con un metro de verdad, anotar los resultados y después usarlos para estimar.
 
 ## Preparación
 1. Medí y marcá un tramo recto de 100 m (el manual usa 220 yardas, un octavo de milla, unos 200 m).
 
 ## Desarrollo
-1. De a dos, medí con la cinta tu dedo (de la punta al nudillo, con el dedo doblado), tu palmo, tu brazada y tu altura. ¿Se cumple que la brazada es igual a la altura?
-2. Anotá todo en una «tarjeta de medidas personales».
-3. El paso: caminá el tramo de 100 m a tu ritmo normal, contando los pasos y midiendo el tiempo. Repetilo al menos cuatro veces.
-4. Sacá el promedio de pasos y de tiempo. Dividí 100 m por los pasos: ese es el largo de tu paso.
-5. Desafío: el educador marca objetos y cada uno estima su largo o su distancia usando sus medidas. Después se mide con la cinta. Gana quien se acerca más.
-6. Probá el paso en una subida o en terreno barroso. ¿Cambia?
+1. **El dedo.** Medí tu dedo mayor desde la punta hasta el nudillo del dorso de la mano, con el dedo doblado: sostené la punta de la cinta métrica contra la punta del dedo con el pulgar de la misma mano y estirala por encima del dedo doblado hasta el nudillo. En un adulto promedio da unos 11 centímetros. Sirve para largos cortos. También podés medir el pulgar, de la punta a la primera articulación.
+2. **De la nariz a la mano.** Girá la cabeza bien hacia la izquierda y estirá el brazo derecho hacia el otro lado, a la altura del hombro. Con la mano izquierda sostené la punta de una cinta o una soga contra la nariz, y con la derecha estirala hasta la punta del pulgar. Marcala con un alfiler y medila. En un adulto da cerca de un metro (el original lo compara con la yarda, unos 91 cm). Sirve para medir telas o sogas largas: se va pasando de a un tramo.
+3. **El palmo.** Abrí la mano bien plana y medí de la punta del meñique a la punta del pulgar. Con eso podés medir una mesa, un estante o un palo.
+4. **La altura de una persona.** De la coronilla al mentón hay más o menos un noveno de la altura total. Y con los brazos abiertos, de punta a punta de los dedos, se mide más o menos lo mismo que la altura.
+5. **El paso.** Marcá con cuidado 200 metros (o usá una distancia conocida) y recorrela caminando normal, por lo menos ocho veces, no todas el mismo día. Cada vez anotá cuántos pasos diste y cuánto tardaste.
+6. Sumá los pasos y dividí por la cantidad de veces: es tu número promedio de pasos. Dividí la distancia por ese número: es el largo de tu paso. Hacé lo mismo con los minutos para saber cuánto tardás.
+7. Con eso podés estimar distancias contando pasos, si el terreno es abierto, plano y firme. En subida, en bajada o con barro, el paso se acorta y hay que corregir.
+
+**Consejo del original:** ninguno de estos métodos es exacto, pero son formas útiles de medir *aproximadamente*, con una regla que siempre tenés encima.
 
 ## Cierre
 - ¿Qué medida personal te resultó más útil?
@@ -228,22 +235,8 @@ None of the above methods for measuring are scientific, therefore are
 not accurate, but they are useful ways of measuring _approximately_
 lengths and distances by means of a guide always at hand.
 
-**Versión en español:**
-
-**MEDIDAS PERSONALES ÚTILES**
-
-A veces es muy cómodo medir el largo de una cinta, un encaje u otra tela sin usar regla ni cinta métrica; pero ¿qué podemos usar en su lugar? Mirá tu pulgar: ¿cuánto mide desde la punta hasta la primera articulación? ¿Y el dedo mayor, desde la punta hasta el nudillo del dorso de la mano? ¿No son casi once centímetros y medio, o un octavo de yarda? Eso es lo que mide el dedo de una persona adulta promedio. Para conocer el largo exacto de tu dedo, sostené la punta de una cinta métrica contra la punta del dedo con el pulgar de la misma mano y estirá la cinta sobre el dedo doblado hasta el nudillo. Es una medida muy útil para largos cortos.
-
-Otra medida, para largos mayores, es la distancia desde la punta de la nariz, con la cabeza girada bien hacia un costado, hasta la punta del pulgar con el brazo estirado desde el hombro hacia el lado opuesto. Medí y averiguá esta distancia sosteniendo con la mano izquierda la punta de una cinta, una tira o una soga contra la punta de la nariz, con la cabeza girada hacia la izquierda, y con la mano derecha recorré con los dedos el borde de la cinta hasta estirarla a lo largo del brazo. Marcá la cinta con un alfiler donde la sostienen el pulgar y el índice derechos y medí con una vara o una regla la distancia desde la punta de la cinta hasta el alfiler. Este largo va a ser más o menos igual a la unidad de largo que se usa en este país. Cuando midas un largo grande de tela, usá el punto que sostiene la mano derecha como punto de partida para la mano izquierda.
-
-Si sabés la distancia entre la punta del meñique y la punta del pulgar cuando están bien separados, con la palma de la mano plana, podés medir una distancia como el largo de una mesa, un estante, un palo, etc. Para estimar la altura de una persona, acordate de que la distancia desde la coronilla hasta el mentón es más o menos un noveno de la altura del cuerpo. La distancia entre las puntas de los dedos mayores, con los brazos estirados desde los hombros, es más o menos igual a la altura del cuerpo.
-
-Otra medida personal que vale la pena es el largo de tu paso promedio, o sea, la distancia desde la punta de un zapato hasta la punta del otro cuando caminás a tu ritmo natural. También es útil saber el número promedio de pasos que das al caminar una distancia determinada, como una milla, y el tiempo que te lleva. Toda esta información se puede conseguir de forma muy simple. Medí con la mayor exactitud posible 220 yardas (unos 200 metros), que es un octavo de milla, o tomá una distancia conocida, y recorrela con pasos de ida y de vuelta por lo menos ocho veces, pero no todas el mismo día. Cada vez, anotá el número de pasos y el tiempo que tardaste en recorrer la distancia. Dividí la suma de los pasos por el número de veces que la recorriste y el resultado es el número promedio de pasos para esa distancia. Después dividí toda la distancia por el número promedio de pasos y obtenés el largo promedio de tu paso. Dividí la suma de los minutos que tardaste en recorrer la distancia por el número de veces que la recorriste y obtenés el tiempo promedio que necesitás para caminarla. Cuando conocés el largo promedio de tu paso, podés estimar con bastante exactitud la distancia entre dos puntos contando los pasos, si el terreno es abierto, plano y firme. Si es en subida o en bajada, si el terreno está barroso o pesado, o si hay otras causas que frenan la marcha, hay que hacer una corrección.
-
-Ninguno de estos métodos de medición es científico, así que no son exactos, pero son formas útiles de medir *aproximadamente* largos y distancias con una guía que siempre tenés a mano.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

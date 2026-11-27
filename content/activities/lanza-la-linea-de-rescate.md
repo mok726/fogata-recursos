@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lanzá la Línea de Rescate"
+title: "Lanzar el Squaler"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lanza-la-linea-de-rescate/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - salvamento
   - primeros-auxilios
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,16 +141,23 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Lanzá la Línea de Rescate!
+# Lanzar el Squaler
 
 ## Resumen
-Se clava en el suelo, a unos 18 m, un blanco de tamaño real con la cabeza y los brazos de una persona que se ahoga. Cada uno, por turno, lanza una línea con peso desde detrás de una raya. Gana quien la tira más lejos, siempre que la soga caiga sobre el blanco, donde el náufrago la podría agarrar. Lo mismo se practica con un salvavidas.
+Un ejercicio de salvamento: tirar una línea de rescate lo más lejos posible, pero con puntería, para que una persona que se está ahogando la pueda agarrar.
 
 ## Desarrollo
-1. Prepará el blanco y marcá la raya de tiro.
-2. Enseñá a adujar (enrollar) la soga y a sostener la punta libre.
-3. Cada uno tira por turno. Puntúa solo si la soga cae sobre el blanco.
-4. Repitan con el salvavidas.
+**Qué es el «squaler».** Es el nombre que le daba B-P a una línea de rescate con peso: una caña de unos 48 cm de largo, con unos 800 g de plomo (o de otro peso) en la base, y atada en la otra punta una soga de salvamento fina y resistente. El peso hace que la caña vuele lejos y arrastre la soga.
+
+1. **El blanco:** se clava en el suelo, a unos 18 metros, un muñeco de tamaño natural que representa la cabeza y los brazos de una persona que se ahoga. Puede ser un poste con un travesaño (los brazos) y una cabeza arriba.
+2. Se marca una raya en el suelo. Cada participante tira por turno desde detrás de esa raya. Puede tirar parado o tomando carrera.
+3. Para que el tiro valga, la soga tiene que caer sobre alguna parte del muñeco, de modo que la persona que se ahoga la podría agarrar.
+
+**Cómo se gana:** gana el que tira más lejos, siempre que la soga haya caído sobre el muñeco.
+
+**Para practicar más (variante del original):** se pueden hacer eliminatorias de a dos para encontrar al que tira peor, así es el que más practica.
+
+**Con salvavidas (variante del original):** se practica de la misma manera tirando un salvavidas.
 
 ## Cierre
 - ¿Por qué es mejor tirar algo que meterse al agua?
@@ -174,16 +185,8 @@ Or have heats to find out who is the worst thrower.
 
 Practise throwing a life-belt in the same way.
 
-**Versión en español:**
-
-**LANZAR EL "SQUALER".**
-
-El "squaler" es un pedazo de caña de 19 pulgadas de largo, con 1 3/4 libras de plomo en la base, al que se ata en la otra punta una línea de salvamento de cáñamo italiano de seis hebras. El blanco es un travesaño con una cabeza, de tamaño natural, que representa la cabeza y los brazos de un hombre que se ahoga, clavado en el suelo a veinte yardas. Cada competidor tira por turno desde detrás de una raya marcada en el suelo; puede tirar parado o corriendo. Gana quien tira más lejos, siempre que la línea caiga sobre alguna parte del muñeco, de modo que el hombre que se ahoga la pueda agarrar. O hagan eliminatorias para encontrar al que tira peor.
-
-Practiquen tirar un salvavidas de la misma manera.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

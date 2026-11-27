@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Shelters, Shacks and Shanties - Daniel Carter Beard (1914)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - refugio
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Shelters, Shacks and Shanties"
+  - title: "Shelters, Shacks and Shanties (impreso original)"
+    author: "Daniel Carter Beard"
+    year: 1914
+  - title: "Shelters, Shacks and Shanties (versión alternativa en línea)"
     author: "Daniel Carter Beard"
     year: 1914
     series: "Project Gutenberg, eBook #28255"
@@ -143,23 +147,34 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Refugio de Tres Horquetas y Alero!
+# Refugio de Tres Horquetas y Alero
 
 ## Resumen
-Beard propone dos refugios que cualquier patrulla puede armar en una tarde. El **«Scout-Master»**: tres palos con horqueta trabados entre sí, que se paran solos, con ramas o palos apoyados alrededor. Y el **alero Adirondack**: dos postes con horqueta, un travesaño y palos inclinados, abierto al frente como una carpa de alero. A veces se arman dos enfrentados con el fuego en el medio (a distancia segura). La patrulla los construye con material muerto, los techa y los pone a prueba con un balde de agua.
+Dos refugios de ramas que Dan Beard explica en su libro: uno con forma de carpa india, que él llama «el Scout-Master», y el alero o «Adirondack», que es como medio techo apoyado en un travesaño. Una **horqueta** es un palo que termina en forma de Y; el **ramaje** son ramas con hojas que se usan como techo, como si fueran tejas.
 
 ## Preparación
 1. Conseguí o juntá de antemano palos muertos con horqueta y palos rectos. Si en el lugar no se puede juntar nada, llevá cañas o palos de poda.
 2. Repasá los nudos de la sección A: ballestrinque y as de guía alcanzan para atar el travesaño.
 
 ## Desarrollo
-1. Leé el texto de Beard y mostrá las figuras. Dividí a la patrulla: la mitad arma el Scout-Master y la mitad el alero.
-2. Scout-Master: traben las tres horquetas en la punta hasta que el trípode se pare solo. Apoyen alrededor palos o ramas muertas, con la parte gruesa arriba.
-3. Alero: claven o apuntalen dos postes con horqueta, apoyen el travesaño en las horquetas y átenlo. Apoyen palos inclinados contra el travesaño y crucen otros horizontales encima.
-4. Techen: cañas, paja u hojas secas, empezando por abajo y subiendo, cada fila tapando la base de la anterior, con las puntas hacia abajo. Si usan un toldo, átenlo sobre la estructura.
-5. Prueba de lluvia: rieguen el techo con la regadera o el balde. ¿Entra agua? ¿Por dónde? Corrijan.
-6. Prueba de viento: ¿hacia dónde quedó abierto el alero? ¿Coincide con el viento? Si no, ¿qué cambiarían?
-7. Desarmen, devuelvan el material y dejen el lugar como estaba.
+**El Scout-Master (con tres horquetas)**
+
+1. Se buscan tres palos largos con horqueta en la punta y se paran inclinados, trabando las horquetas entre sí, de modo que los tres se sostengan solos, como un trípode.
+2. Sobre ese armazón se apoyan ramas con la parte gruesa hacia arriba, todas alrededor. Otra opción es apoyar varios palos derechos y después techarlos con ramaje, o cubrirlos con trozos de corteza colocados como tejas, uno encimado sobre el otro.
+3. Se puede hacer chico, para un solo chico, o grande, para varias personas.
+4. Para techar sirven ramas de pino u otras coníferas, totora, juncos, cualquier pasto de tallo largo u hojas de palmera.
+
+**El Adirondack (alero)**
+
+Es un refugio abierto por delante, parecido a una carpa de un solo faldón. El libro cuenta que ya lo usaba Daniel Boone, un explorador de Kentucky, mucho antes de que lo hicieran famoso los veraneantes de las montañas Adirondack, en Estados Unidos.
+
+1. Se clavan dos postes con horqueta, separados, y se apoya un palo travesaño sobre las dos horquetas.
+2. Contra ese travesaño se apoyan varios palos inclinados hasta el suelo, del lado de atrás.
+3. Sobre esos palos inclinados se atan o se apoyan otros palos horizontales, como los listones de un techo.
+4. Se techa con ramaje, empezando desde abajo y con las puntas de las ramas hacia abajo, para que el agua escurra. Encima se ponen otros palos para que el viento no se lleve las ramas.
+5. A veces se pone un tronco al pie de los palos inclinados, o varios troncos a los costados, y el espacio entre ellos se rellena con ramas finas para hacer el piso.
+
+**Variante del original:** a veces se arman dos aleros enfrentados, con un espacio en el medio para el fogón.
 
 ## Cierre
 - ¿Qué refugio resistió mejor la prueba de lluvia? ¿Por qué?
@@ -209,20 +224,8 @@ on top of it. Sometimes a log is put at the bottom of the slanting poles
 and sometimes more logs are placed as shown in Figs. 15 and 16 and the
 space between them floored with balsam or browse.
 
-**Versión en español:**
-
-**El Scout-Master**
-
-O tomá tres palos con horqueta (A, B y C, fig. 12) y trabá las horquetas entre sí para que se paren como muestra la fig. 12. Sobre esta estructura apoyá ramas con la parte gruesa hacia arriba, como en el refugio de la derecha (fig. 13), o poné varios palos como en la figura de la izquierda (fig. 12) y techalos con ramaje como en el refugio de la izquierda de la fig. 13, o tomá corteza de olmo, de picea o de abedul y colocala como tejas, como en la fig. 14. Estos refugios se pueden hacer para un solo chico o lo bastante grandes para varios hombres. Se pueden techar con ramas de abeto, picea, pino o tsuga, o con totoras, juncos (ver figs. 66 y 69) o cualquier pasto de tallo largo u hojas de palmito.
-
-[…]
-
-**El Adirondack**
-
-El siguiente refugio es el que se conoce como refugio Adirondack, que es un alero abierto al frente, como una carpa «Baker» o «Dan Beard». Aunque popularmente se lo llama campamento Adirondack, es anterior a la época en que los Adirondacks se pusieron de moda como lugar de veraneo. Daniel Boone solía hacer un campamento así en los bosques de Kentucky. El alero o campamento Adirondack es fácil de hacer y muy popular. A veces se arman dos enfrentados, con un espacio abierto en el medio para el fuego. Pero la forma habitual es parar dos postes como en la fig. 15, poner un travesaño en las horquetas y apoyar palos contra ese travesaño (fig. 16). Sobre estos palos se ponen otros en horizontal y el techo se cubre de ramaje con el método de la fig. 6, pero aquí las puntas del ramaje tienen que apuntar hacia abajo y quedar sujetas con otros palos encima (fig. 10). A veces se pone un tronco al pie de los palos inclinados, y a veces más troncos, como en las figs. 15 y 16, y el espacio entre ellos se cubre de abeto o de ramaje como piso.
-
 ---
-**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914). Dominio público. Texto tomado de Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
+**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Elegir el Lugar del Campamento"
+title: "Lugar de Campamento"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/elegir-el-lugar-del-campamento/"
@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - planificacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -145,22 +149,33 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Elegir el Lugar del Campamento!
+# Lugar de Campamento
 
 ## Resumen
-Horace Kephart, el gran campamentista que cita el manual, da una lista de lo que tiene que tener un buen lugar de campamento: agua limpia, leña que arda bien y un lugar plano pero elevado, que drene y quede lejos de una crecida. Suma sol de mañana, brisa en verano, reparo del viento en invierno y privacidad. El manual agrega cómo ubicar las carpas: separadas, en lugar seco, con sol de mañana y sombra a la tarde, lejos del agua y de la letrina. Con esa lista, cada patrulla recorre un terreno, elige su sitio y lo defiende frente a las demás.
+Una guía para elegir bien dónde acampar y cómo ubicar las carpas al llegar. Sirve para charlarla con los chicos antes de una salida, o para recorrer un terreno y evaluarlo juntos.
 
 ## Preparación
 1. Elegí un terreno con algunos lugares buenos y otros malos (un bajo que se inunda, una pendiente, debajo de un árbol con ramas secas).
 2. Prepará una planilla con la lista de Kephart y los criterios para las carpas.
 
 ## Desarrollo
-1. Leé la lista en voz alta y pedí ejemplos: ¿cómo se ve un lugar que se inunda? ¿Qué es una marca de crecida?
-2. Cada patrulla recorre el terreno durante 20 minutos y puntúa al menos tres lugares posibles con la planilla.
-3. Elijan uno y marquen con estacas o banderines dónde irían las carpas, la cocina, el fuego, el agua y la letrina.
-4. Usen la brújula para ubicar el este (sol de mañana) y la dirección del viento más frecuente.
-5. Ronda de visitas: cada patrulla presenta su elección y las demás le hacen preguntas.
-6. Desarmen las marcas al terminar.
+**Lo que tiene que tener un buen lugar de campamento**, según el original:
+
+1. **Agua potable** cerca.
+2. **Leña que arda bien.** En tiempo frío tiene que haber bastante leña caída y sana (no podrida).
+3. **Un lugar abierto y plano** para las carpas y el fuego, pero un poco más alto que lo que lo rodea, para que el agua de lluvia escurra sola. Tiene que quedar bien por encima de cualquier crecida repentina de un arroyo cercano: fíjense en las marcas que dejaron crecidas anteriores (ramas, basura o barro pegados en los troncos y las orillas).
+4. **Sol directo durante parte del día,** sobre todo a primera hora de la mañana.
+5. **Viento:** en verano conviene que llegue la brisa; en tiempo frío, que haya reparo contra el viento que sopla más seguido en la zona.
+6. **Privacidad:** que no sea un lugar de paso.
+
+Para pasar una sola noche, con agua, leña y buen drenaje alcanza. Para un campamento fijo, de varios días, hay que tener en cuenta todos los puntos.
+
+**Al llegar al campamento:**
+
+1. Apenas se decide el lugar, se ubican las carpas. Si el grupo es grande, conviene planificarlo antes de llegar.
+2. Cada carpa queda a unos 7 u 8 metros de la siguiente, en un lugar seco, donde el agua escurra fácil si llueve.
+3. Conviene orientarla para que tenga sol a la mañana y sombra a la tarde.
+4. Las carpas se ponen a cierta distancia de la fuente de agua y de la letrina.
 
 ## Cierre
 - ¿Qué requisito les resultó más difícil de cumplir?
@@ -215,34 +230,8 @@ in case of rain, and so placed as to have the sun in the morning and the
 shade in the afternoon. Each tent should be trenched and placed some
 distance from the water supply and from the latrine.
 
-**Versión en español:**
-
-**Lugar de campamento**
-
-«Lo esencial de un buen lugar de campamento es esto:
-
-1. Agua pura.
-
-2. Leña que arda bien. En tiempo frío tiene que haber abundante leña caída sana, o algunos árboles de madera dura en pie que no sean demasiado grandes para voltearlos con facilidad.
-
-3. Un lugar abierto, lo bastante plano para la carpa y el fuego, pero más alto que lo que lo rodea, para que tenga buen drenaje natural. Tiene que quedar bien por encima de cualquier desborde repentino de un arroyo cercano. Fijate en las marcas de crecidas anteriores....
-
-7. Sol directo durante parte del día, sobre todo a primera hora de la mañana.
-
-8. En verano, que le llegue la brisa que haya; en tiempo frío, reparo contra el viento dominante.
-
-9. Privacidad.
-
-»Agua, leña y buen drenaje pueden ser todo lo que necesitás para una sola noche, pero para un campamento fijo también hay que tener en cuenta los demás puntos.
-
-[…]
-
-**Al llegar al campamento**
-
-En cuanto se decide el lugar de campamento, ubicá la carpa. (Cuando el grupo es numeroso, esto conviene hacerlo de antemano). Cada carpa tiene que quedar a unos siete u ocho metros de la siguiente, en un lugar seco y fácil de drenar si llueve, y ubicada de modo que tenga sol a la mañana y sombra a la tarde. Cada carpa tiene que tener su zanja y quedar a cierta distancia de la fuente de agua y de la letrina.
-
 ---
-**Fuente:** Horace Kephart, Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

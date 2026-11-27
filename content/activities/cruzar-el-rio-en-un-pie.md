@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cruzar el Río en un Pie"
+title: "Saltar en un Pie"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cruzar-el-rio-en-un-pie/"
@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,15 +142,17 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Cruzar el Río en un Pie!
+# Saltar en un Pie
 
 ## Resumen
-Se marca un río en el piso con piedras y un vado. Cada lobato tiene que cruzar de una punta a la otra saltando en un pie, sin descansar en ninguna de las dos orillas.
+Una prueba de equilibrio y resistencia para lobatos: cruzar un «río» saltando en un solo pie, sin parar.
 
 ## Desarrollo
-1. Marquen un "río" en el piso con dos orillas, algunas "piedras" y un "vado" (una zona más ancha y baja).
-2. Cada lobato cruza de una punta a la otra saltando en un pie, sin parar ni apoyar el otro pie en ninguna orilla.
-3. Prueben ida en un pie y vuelta en el otro. Agreguen piedras más separadas para hacerlo más difícil.
+1. Se marca en el suelo un «río»: dos líneas que hacen de orillas, con algunas «piedras» para pisar (dibujadas con tiza o marcadas con aros o cartones) y un «vado», que es una parte poco profunda por donde se puede cruzar.
+2. El lobato se para en una orilla y tiene que cruzar hasta la otra saltando en un pie, de punta a punta.
+3. No puede descansar en ninguna de las dos orillas: tiene que seguir saltando todo el tiempo, sin apoyar el otro pie.
+
+**Cómo se cumple:** la prueba está aprobada si cruza de una punta a la otra saltando sin parar ni apoyar el otro pie.
 
 ## Cierre
 - ¿Con qué pie saltás mejor?
@@ -160,12 +163,8 @@ Se marca un río en el piso con piedras y un vado. Cada lobato tiene que cruzar 
 
 6. Hopping. — A "river" is marked on the ground, with stepping-stones, and a ford; the Cub has to hop across from one end to the other. He must not rest at all on either bank, but keep hopping all the time.
 
-**Versión en español:**
-
-**6. Saltar en un pie.** Se marca un "río" en el suelo, con piedras para cruzar y un vado; el lobato tiene que cruzarlo saltando en un pie de una punta a la otra. No puede descansar en ninguna de las dos orillas, sino seguir saltando todo el tiempo.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

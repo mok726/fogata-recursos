@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Incursión al Puerto"
+title: "Incursión Naval"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/incursion-al-puerto/"
@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -66,11 +67,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -142,16 +143,16 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Incursión al Puerto!
+# Incursión Naval
 
 ## Resumen
-Una puerta abierta es la entrada del puerto. Dos lobatos con los ojos vendados, uno a cada lado, son los barcos de guardia. El resto son barcos enemigos que intentan entrar de a uno sin ser oídos. Si un centinela toca o señala a alguien, ese queda afuera.
+Un juego de sigilo bajo techo: hay que pasar por una puerta sin que los guardias con los ojos vendados lo noten.
 
 ## Desarrollo
-1. Elegí una puerta abierta o un pasaje angosto: es la entrada del puerto.
-2. Dos lobatos con los ojos vendados se paran uno a cada lado: son los barcos de guardia.
-3. El resto, de a uno, intenta entrar al puerto sin que los centinelas lo oigan.
-4. Si un centinela oye a alguien y lo toca o lo señala, ese queda capturado. Al final, roten los centinelas.
+1. Una puerta abierta representa la entrada de un puerto.
+2. Dos lobatos con los ojos vendados se paran uno a cada lado de la puerta: son los barcos de guardia, los centinelas del puerto.
+3. Los demás lobatos son los barcos enemigos. De a uno, tratan de entrar al puerto pasando por la puerta, lo más en silencio que puedan.
+4. Si un centinela oye a alguien y lo atrapa, ese barco queda capturado.
 
 ## Cierre
 - ¿Qué hacían los que pasaban sin ser oídos?
@@ -165,13 +166,8 @@ Una puerta abierta es la entrada del puerto. Dos lobatos con los ojos vendados, 
 3. The "Naval Raid" Game. — An open door represents the harbour entrance, two blindfolded Cubs, one on each side, the British cruisers.
 The other Cubs — the enemy vessels — try to enter the harbour one by one through the door so quietly as not to be caught by the sentinels.
 
-**Versión en español:**
-
-**3. El juego de la "Incursión naval".** Una puerta abierta representa la entrada del puerto; dos lobatos con los ojos vendados, uno a cada lado, son los cruceros británicos.
-Los demás lobatos —los barcos enemigos— tratan de entrar al puerto de a uno por la puerta, tan en silencio que los centinelas no los atrapen.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

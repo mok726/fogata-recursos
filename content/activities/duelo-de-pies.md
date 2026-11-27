@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Duelo de Pies"
+title: "Lucha de Pies"
 duration: "10 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/duelo-de-pies/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - equilibrio
   - duelo
 
@@ -65,10 +66,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,16 +140,20 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Duelo de Pies!
+# Lucha de Pies
 
 ## Resumen
 Dos jugadores frente a frente, con las manos atrás, parados en un solo pie. Con la pierna que tienen en el aire, cada uno intenta empujar al otro hasta que apoye el segundo pie.
 
 ## Desarrollo
-1. Se ponen frente a frente con las manos en la espalda.
-2. Levantan un pie.
-3. Con la pierna libre empujan la pierna del otro, sin patear.
-4. Pierde el que apoya el pie o se cae.
+Un duelo de equilibrio para dos, parados en una pierna.
+
+1. Dos jugadores se paran frente a frente, con las manos en la espalda.
+2. Cada uno se para sobre una sola pierna.
+3. A la señal, cada uno trata de hacerle perder el equilibrio al otro empujándolo con la pierna que tiene levantada.
+4. No se vale usar las manos.
+
+**Cómo se gana:** pierde el que apoya el otro pie en el suelo o se cae.
 
 ## Cierre
 - ¿Qué te ayudó a mantener el equilibrio?
@@ -163,15 +170,12 @@ Dos jugadores frente a frente, con las manos atrás, parados en un solo pie. Con
 
 Two boys stand facing each other with their hands behind their backs. They have to stand on one leg, and each tries to push the other over with the leg he is not standing on.
 
-**Versión en español:**
-
-**LUCHA DE PIES.**
-
-Dos chicos se paran frente a frente con las manos en la espalda. Tienen que pararse en una pierna, y cada uno trata de voltear al otro empujando con la pierna sobre la que no está parado.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. XII (Games for Strength), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. XII (Games for Strength), juego 4: «Feet Wrestling». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

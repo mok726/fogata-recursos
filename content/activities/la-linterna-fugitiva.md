@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Linterna Fugitiva"
+title: "El Preso Fugado"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-linterna-fugitiva/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - noche
   - oido
   - linterna
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Linterna Fugitiva!
+# El Preso Fugado
 
 ## Resumen
 Un fugitivo se esconde en un bosque. Tiene que mostrar una luz cada tanto y tocar el silbato en los intervalos, alternando. La tropa rodea el bosque y avanza en silencio, usando ojos y oídos, para encontrarlo. Si no están atentos, el fugitivo se les escapa y aparece su luz detrás de ellos.
@@ -149,10 +152,21 @@ Un fugitivo se esconde en un bosque. Tiene que mostrar una luz cada tanto y toca
 1. Practicá antes un poco de "orden abierto": de noche los chicos tienden a amontonarse en vez de mantener distancia pareja.
 
 ## Desarrollo
-1. El fugitivo se mete en el bosque con su linterna y su silbato.
-2. La tropa rodea el bosque, bien espaciada, y avanza en silencio.
-3. El fugitivo enciende la luz un instante cada minuto o dos, y toca el silbato en el medio.
-4. Gana la tropa si lo atrapan; gana el fugitivo si logra salir del cerco.
+Un juego nocturno para buscar en la oscuridad a un preso que se escapó y que, de vez en cuando, se delata con una luz.
+
+**La historia:** un preso se escapó de la cárcel y lleva una linterna. Una noche oscura les avisan a los scouts que lo vieron en un bosque cercano.
+
+1. Un jugador, o mejor un dirigente, hace de preso y se esconde en el bosque con una linterna apagada.
+2. La tropa sale enseguida y rodea el bosque.
+3. En silencio, los scouts avanzan y tratan de encontrarlo usando lo mejor posible los ojos y los oídos.
+4. El preso tiene la linterna apagada, pero está obligado a prenderla un instante por lo menos una vez cada tres minutos.
+5. Si los scouts no son muy despiertos, lo más probable es que se les escape entre ellos, y a los pocos minutos vean la lucecita titilando detrás.
+
+**Cómo se gana:** los scouts ganan si encuentran al preso. Si se escapa del cerco, gana el preso.
+
+**Luz y silbato (variante del original):** se le da al preso una linterna y un silbato, y tiene que prender la luz y tocar el silbato alternadamente cada uno o dos minutos. Así los scouts tienen que usar dos sentidos al mismo tiempo: la vista y el oído.
+
+**Consejo del original:** antes conviene practicar un rato el «orden abierto», es decir, avanzar en línea, separados unos de otros a una distancia pareja. De noche los chicos tienden a amontonarse en vez de mantenerse separados.
 
 ## Cierre
 - ¿Qué ayudó más: la vista o el oído?
@@ -170,15 +184,12 @@ Un fugitivo se esconde en un bosque. Tiene que mostrar una luz cada tanto y toca
 
 A CONVICT has escaped from prison, and, being an inveterate smoker, the first thing he does is to buy a large supply of cigarettes and matches. On a dark night a message is brought to the Scouts that he has been seen in a wood close by, still smoking. The troop at once turn out, and, enclosing the wood, silently try to find their man by using their eyes, ears, and noses, as well as they can. The man, who is playing the part of the convict, is obliged to keep his cigarette in full view all the time, and strike a match at least once every three minutes. Unless the Scouts are very sharp, the chances are that he will slip through, and they will, after a few minutes, see the match flickering away behind them. The " convict " must not, of course, be a Scout, for, if he were, he would not smoke or give himself away like that. An hour or two spent in practicing some " extended order " drill will make the troop far more efficient in work like this, for boys invariably tend to crowd together on a dark night instead of keeping an equal distance apart. A good variation of the game, if no smoker is at hand, is to supply the convict with a box of matches and a whistle, and make him strike a match and blow whistle alternately every minute or two minutes, so that two different tracking senses are needed at the same time seeing and hearing.
 
-**Versión en español:**
-
-**EL FUMADOR FUGADO (por Percy Hill).**
-
-Un preso se escapó de la cárcel y, como es un fumador empedernido, lo primero que hace es comprar una buena provisión de cigarrillos y fósforos. Una noche oscura les llega a los scouts el mensaje de que lo vieron en un bosque cercano, todavía fumando. La tropa sale enseguida y, rodeando el bosque, trata en silencio de encontrar a su hombre usando lo mejor que puede los ojos, los oídos y la nariz. El hombre que hace de preso está obligado a tener el cigarrillo siempre a la vista y a encender un fósforo al menos una vez cada tres minutos. Salvo que los scouts sean muy despiertos, lo más probable es que se les escurra, y después de unos minutos vean el fósforo titilando detrás de ellos. El "preso", por supuesto, no puede ser un scout, porque si lo fuera no fumaría ni se delataría así. Una o dos horas de práctica de orden abierto harán que la tropa sea mucho más eficaz en un trabajo como este, porque los chicos tienden siempre a amontonarse en una noche oscura en vez de mantener una distancia pareja. Una buena variante del juego, si no hay ningún fumador a mano, es darle al preso una caja de fósforos y un silbato, y hacerlo encender un fósforo y tocar el silbato alternadamente cada uno o dos minutos, de modo que hagan falta dos sentidos de rastreo al mismo tiempo: la vista y el oído.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VIII (Night Games), juego 1. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VIII (Night Games), juego 1: «The Escaped Smoker - by Percy Hill». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»). El preso fumador del original se cambió por un preso con linterna, sin cigarrillos ni fósforos.
 
 ---

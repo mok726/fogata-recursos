@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - emergencias
   - barrio
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,16 +144,16 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Mapa de Emergencias del Barrio!
+# Mapa de Emergencias del Barrio
 
 ## Resumen
-B-P pide que los scouts sepan dónde están, cerca de su casa y de su local, las bocas de incendio, los puestos de policía, las alarmas, los cuarteles de bomberos, las ambulancias, los hospitales y las farmacias, y que lo aprendan por sí mismos.
+Una práctica para que los scouts conozcan su barrio y sepan, ante una emergencia, adónde ir o a quién llamar.
 
 ## Desarrollo
-1. Repartí un mapa del barrio por patrulla.
-2. Cada patrulla recorre una zona y marca lo que encuentra, con un color por tipo de servicio.
-3. Al volver, unan los mapas en uno solo y agreguen los teléfonos de emergencia.
-4. Peguen el mapa en el local.
+1. El dirigente les enseña a los scouts dónde están los lugares y servicios de emergencia más cercanos al local y a sus casas: las bocas de incendio (hidrantes), las comisarías y puestos de policía, los cuarteles de bomberos, las bases de ambulancias, los hospitales y las salitas de salud.
+2. Después, cada scout tiene que aprender por su cuenta a fijarse y recordar dónde están todas las farmacias, comisarías, cuarteles de bomberos, hospitales y demás servicios de los lugares por donde anda.
+
+El original no dice cómo practicarlo; una opción es recorrer el barrio y marcar cada lugar en un croquis o plano.
 
 ## Cierre
 - ¿Cuánto tardarían en llegar al hospital más cercano? ¿Cuál es el número de emergencias?
@@ -170,14 +174,8 @@ Make them learn for themselves to notice and remember the whereabouts of
 all chemists' shops, fire alarms, police fixed points, ambulances, etc.,
 etc.
 
-**Versión en español:**
-
-Enseñen a los scouts a conocer la ubicación de las bocas de incendio e hidrantes cercanos, puestos de policía, alarmas de incendio, cuarteles de bomberos, ambulancias, hospitales, etc.
-
-Que aprendan por sí mismos a notar y recordar dónde están todas las farmacias, alarmas de incendio, puestos fijos de policía, ambulancias, etc.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Trabalenguas Encadenado"
+title: "Un Juego de Memoria"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/trabalenguas-encadenado/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - memoria
   - trabalenguas
   - ronda
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,7 +141,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Trabalenguas Encadenado!
+# Un Juego de Memoria
 
 ## Resumen
 Quien dirige dice "Un único unicornio" a su vecino, y la frase pasa por toda la ronda. Cuando vuelve, la repite y agrega la segunda: "Dos dóciles dromedarios dormidos". Así cada vuelta, hasta diez. El que se equivoca o se olvida sale de la ronda. B-P aseguraba que nadie llega a diez.
@@ -148,11 +151,29 @@ Quien dirige dice "Un único unicornio" a su vecino, y la frase pasa por toda la
 2. 1. Un único unicornio. 2. Dos dóciles dromedarios dormidos. 3. Tres tristes tigres trotando. 4. Cuatro carpinchos comiendo calabazas calientes. 5. Cinco simpáticos sapitos saltando sobre sillas. 6. Seis serios señores sentados sobre sus sombreros. 7. Siete sabios sordos silbando sin sonido. 8. Ocho osos ocupados ordenando ollas. 9. Nueve nutrias nadando nerviosas en la noche. 10. Diez dinosaurios distraídos desayunando dulce de leche.
 
 ## Desarrollo
-1. Se sientan en ronda. Quien dirige le dice la primera fórmula al de al lado.
-2. Cada uno se la pasa al siguiente hasta que vuelve a quien dirige.
-3. Quien dirige repite todo lo anterior y agrega la fórmula siguiente.
-4. El que se olvida o se equivoca sale de la ronda.
-5. Gana el último que queda, o el grupo si llegan a diez.
+Un juego de memoria en ronda: una cadena de frases que se va alargando y que todos tienen que repetir completa.
+
+1. Los jugadores se sientan en ronda. Uno hace de líder y se aprende de memoria la lista de frases que va más abajo.
+2. El líder se da vuelta hacia su vecino y le dice la primera frase: «Un viejo búho».
+3. El vecino se la repite al que tiene al lado, y así da toda la vuelta a la ronda hasta llegar otra vez al líder.
+4. El líder repite la primera frase y le agrega la segunda: «Un viejo búho. Dos tentadores sapos mansos». Esto también da toda la vuelta.
+5. En cada vuelta, el líder agrega una frase nueva, hasta llegar a la décima.
+6. El que se olvida una parte o se equivoca, sale de la ronda.
+
+**Cómo se gana:** queda el que logra repetir todo sin equivocarse. El original asegura que ningún grupo llega nunca hasta la décima frase.
+
+**La lista:** en inglés, cada frase es un trabalenguas en el que casi todas las palabras empiezan con la misma letra que el número. En castellano no se puede traducir igual; esta es la traducción de la lista:
+
+1. Un viejo búho.
+2. Dos tentadores sapos mansos.
+3. Tres renacuajos temblorosos, tremendos, terribles.
+4. Cuatro tipos gordos, quisquillosos, frívolos y fantásticos.
+5. Cinco flamencos llameantes y aleteantes pescando ranas.
+6. Seis senadores serios y de mal humor, muy buenos para hablar, parados, gritando con fuerza: «Más o menos».
+7. Siete serafines serenos volando veloces hacia el sol, cantando: «Digan, hermanas».
+8. Ocho editores mayores, enérgicos, efusivos, eruditos y emprendedores comiendo ansiosos bayas de saúco.
+9. Nueve millonarios lindos, prolijos, notables, buenos vecinos, marineros y cabeceando, acercándose al norte de Normandía.
+10. Diez vagabundos altos, harapientos, llorosos y turbulentos, hablando a los gritos por trompetas de lata.
 
 ### Variante: Inventada
 Que cada patrulla invente su propia lista del 1 al 10 y la juegue otra patrulla.
@@ -189,35 +210,12 @@ Nine nice, neat, notable, neighborly, nautical, nodding nabobs nearing northern 
 
 Ten tall, tattered, tearful, turbulent tramps, talking tumultuously through tin trumpets.
 
-**Versión en español:**
-
-**UN JUEGO DE MEMORIA.**
-
-Para jugar bien a este juego es necesario que uno de los jugadores, que hace de líder, memorice la lista de palabras y frases que se da más abajo. El líder se dirige a su vecino y le dice: "Un viejo búho". Este se dirige a su vecino y le dice la misma fórmula. Así da toda la vuelta del círculo hasta llegar otra vez al líder, que la repite y agrega la fórmula: "Dos tentadores sapos mansos". Otra vez da la vuelta, y otra, y cada vez el líder agrega una fórmula nueva, hasta repetirlo todo, hasta diez. Es seguro, sin embargo, que ningún grupo llegará nunca tan lejos. Los que se olvidan una parte de la fórmula salen del círculo. Esta es la lista completa (en inglés, cada fórmula es un juego de palabras que empiezan con la misma letra que el número, por eso no se puede traducir literalmente):
-
-Un viejo búho.
-
-Dos tentadores sapos mansos.
-
-Tres renacuajos temblorosos, tremendos, terribles.
-
-Cuatro tipos gordos, quisquillosos, frívolos y fantásticos.
-
-Cinco flamencos llameantes y aleteantes pescando ranas.
-
-Seis senadores saturninos de lengua de plata, parados, gritando con fuerza: "Más o menos".
-
-Siete serafines serenos volando veloces hacia el sol, cantando: "Digan, hermanas".
-
-Ocho editores mayores, enérgicos, efusivos, eruditos y emprendedores comiendo ansiosos bayas de saúco.
-
-Nueve nababs lindos, prolijos, notables, buenos vecinos, marineros y cabeceando, acercándose al norte de Normandía.
-
-Diez vagabundos altos, harapientos, llorosos y turbulentos, hablando a los gritos por trompetas de lata.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 14. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 14: «A Memory Game». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

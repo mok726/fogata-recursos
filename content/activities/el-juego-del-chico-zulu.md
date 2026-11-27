@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,10 +147,10 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡El Juego del Chico Zulú!
+# El Juego del Chico Zulú
 
 ## Resumen
-Un lobato hace del chico zulú de la historia que B-P cuenta en el libro: lleva un gorro de papel blanco y sale con diez minutos de ventaja a esconderse en un área marcada. La Manada sale en parejas a buscarlo, rastreándolo, y solo una pareja junta puede sacarle el gorro. Si aguanta una hora con el gorro puesto, gana.
+Un juego de búsqueda por el barrio o el campo: un lobato se esconde con un gorro de papel blanco y la Manada, de a parejas, tiene que encontrarlo y sacarle el gorro.
 
 ## Preparación
 1. Definí el área de juego con límites claros (en el original, unos 550 m alrededor de un punto conocido; para lobatos, mejor un parque o predio cerrado).
@@ -157,11 +158,18 @@ Un lobato hace del chico zulú de la historia que B-P cuenta en el libro: lleva 
 3. Contá la prueba del chico zulú: para hacerse hombre, lo pintaban de blanco y lo mandaban a sobrevivir solo en el monte hasta que se le fuera la pintura.
 
 ## Desarrollo
-1. El chico zulú se pone el gorro de papel blanco, que no se puede sacar en todo el juego.
-2. Sale a esconderse con diez minutos de ventaja dentro del área.
-3. El resto se divide en parejas, que salen en distintas direcciones a buscarlo. Pueden seguir sus huellas o preguntar a los adultos de los puntos fijos si vieron a alguien con un gorro blanco.
-4. Si lo encuentran, lo persiguen hasta sacarle el gorro. Tienen que estar los dos de la pareja juntos: uno solo no puede capturarlo.
-5. Si el chico zulú conserva el gorro durante una hora, gana. Al final, todos vuelven al punto de reunión y se cuenta a cada uno.
+El original lo presenta así: un lobato es el «chico zulú», al que se pinta de blanco y se larga al monte para que la tribu lo cace. Los zulúes son un pueblo del sur de África. En el juego, como dice el mismo original, no se pinta a nadie: el chico lleva un gorro blanco de papel en lugar de la pintura, y eso es lo que hay que capturar.
+
+1. **El chico zulú.** Se elige a un lobato para que sea el chico zulú. Se pone un gorro de papel blanco de tres puntas (se hace con una hoja doblada) y no se lo puede sacar en todo el juego.
+2. **La «selva».** Es la zona de juego: el campo o las calles hasta unos 550 metros a la redonda de un punto que todos conozcan, como la iglesia, la escuela o un árbol alto.
+3. **La ventaja.** A una hora fijada, el chico zulú sale a esconderse. Tiene diez minutos de ventaja.
+4. **La cacería.** Después, la Manada (la «tribu») se divide en parejas, que salen en distintas direcciones a buscarlo. Pueden seguirle el rastro o preguntarles a los que pasan si vieron a un chico con un gorro blanco.
+5. **La captura.** Si lo encuentran, lo pueden perseguir hasta sacarle el gorro. Pero tienen que hacerlo los dos de la pareja juntos: un lobato solo no lo puede capturar.
+6. **Reglas para el que se esconde.** No puede meterse en casas ni edificios donde viva gente, salvo que se haya acordado antes que sí. Tiene que tener el gorro puesto todo el tiempo.
+
+**Cómo se gana:** si el chico zulú consigue que no le saquen el gorro durante una hora, gana el juego. El original no dice nada más; se entiende que, si una pareja se lo saca antes, gana esa pareja.
+
+**Qué quitamos del original:** la pintura blanca (el propio original ya la cambia por el gorro) y la regla de que el chico zulú puede subirse a un carro o carruaje de cualquier tipo para escapar, porque hoy equivaldría a subirse a un vehículo.
 
 ## Cierre
 - ¿Qué pistas sirvieron para encontrarlo?
@@ -187,21 +195,8 @@ But the pair of hunters must be there together to do it; he cannot be captured b
 The white boy must not hide in any inhabited building unless a rule is made allowing it, but he may ride in a cart or carriage of any kind, and he must keep his hat on all the time.
 If he succeeds in keeping his hat uncaptured for an hour, he wins the game.
 
-**Versión en español:**
-
-**JUEGO DEL CHICO ZULÚ**
-Un lobato es el chico zulú, al que pintan de blanco y largan al monte para que la tribu lo cace.
-En lugar de pintarlo de blanco, en nuestro juego lleva un gorro tricornio blanco hecho de papel, que no se puede sacar durante el juego.
-A cierta hora se lo manda a la selva a esconderse. La "selva" es el campo o las calles en unos 550 metros en cualquier dirección alrededor de un punto central bien conocido, como la iglesia, la escuela, un árbol alto, etc.
-Se le dan diez minutos de ventaja para alejarse y esconderse.
-Después la tribu (o la manada) se divide en parejas, que salen en distintas direcciones a cazarlo.
-Pueden seguirle el rastro o preguntar a los que pasan si vieron a un chico con un gorro tricornio blanco; y si lo encuentran, pueden perseguirlo hasta capturarle el gorro.
-Pero la pareja de cazadores tiene que estar junta para hacerlo; no puede capturarlo un lobato solo.
-El chico blanco no puede esconderse en ningún edificio habitado salvo que se haga una regla que lo permita, pero puede subirse a un carro o carruaje de cualquier tipo, y tiene que llevar el gorro puesto todo el tiempo.
-Si consigue que no le capturen el gorro durante una hora, gana el juego.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

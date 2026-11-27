@@ -1712,7 +1712,7 @@ else {
       // sumando). Las que todavía no tienen actividades
       // («Próximamente») van al final, con el mismo criterio.
       if (kind === "badge") {
-        const PROPIAS = ["badenpowell", "badenpowellmanada", "tecnicascout", "vial", "tradiciones", "general"];
+        const PROPIAS = ["badenpowell", "badenpowellmanada", "tecnicascout", "juegosscouts", "vial", "tradiciones", "general"];
         const rank = entry => {
           const id = String(entry.id);
           const org = String((entry.attribution && entry.attribution.organization) || "");

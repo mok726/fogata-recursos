@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,16 +141,29 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Las Vidrieras!
+# Las Vidrieras
 
 ## Resumen
-El adulto lleva a la patrulla por una calle con seis negocios y les da medio minuto frente a cada vidriera. Después, lejos de ahí, cada uno escribe de memoria lo que vio en dos de ellas. Bajo techo, cada participante entra solo medio minuto a una habitación y después enumera lo que había.
+Un juego de observación y memoria que se juega por la calle, mirando vidrieras, o bajo techo, mirando una habitación.
 
 ## Desarrollo
-1. **Vidrieras:** recorran seis negocios, medio minuto en cada uno.
-2. Aléjense un poco y repartí papel y lápiz. Pedí que anoten lo que había en, por ejemplo, la tercera y la quinta vidriera.
-3. Gana quien anota más objetos correctos.
-4. **Variante bajo techo:** cada uno entra solo medio minuto a una habitación y al salir dicta todo lo que vio. Para puntuar, armá antes una lista de los objetos con una columna por participante.
+**Al aire libre, en la ciudad:**
+1. El que dirige lleva a la patrulla por una calle y pasa frente a seis negocios. En cada vidriera se detienen medio minuto para mirar.
+2. Después se alejan un poco, para que nadie pueda volver a mirar.
+3. El que dirige le da a cada uno un lápiz y una tarjeta y le pide que escriba de memoria lo que vio en dos de los negocios, por ejemplo el tercero y el quinto. (También puede preguntarles de a uno y anotar él.)
+
+El original no dice si se avisa antes de qué negocios se va a preguntar; una opción es no avisarlo, así todos tienen que mirar bien las seis vidrieras.
+
+**Cómo se gana:** gana el que anota bien más objetos.
+
+**Consejo del original:** conviene hacer enfrentamientos de a dos, en los que el que pierde vuelve a competir contra otro, hasta llegar al que observa peor. Así los que más necesitan practicar son los que más juegan.
+
+**Bajo techo (variante del original):**
+1. Cada scout, de a uno, entra a una habitación durante medio minuto.
+2. Cuando sale, el que dirige le pide que diga todos los muebles y objetos que notó, y los anota.
+3. Para llevar el puntaje fácilmente, el que dirige hace antes una lista de los objetos que hay en la habitación, con una columna para cada scout. Va marcando lo que cada uno nombró y al final suma cada columna.
+
+Gana el que notó más cosas.
 
 ## Cierre
 - ¿Qué trucos usaron para recordar (agrupar, contar, inventar una historia)?
@@ -181,20 +198,8 @@ The simplest way of scoring is to make a list of the articles in the
 room on your scoring paper with a column for marks for each scout
 against them, which can then easily be totalled up at foot.
 
-**Versión en español:**
-
-**VIDRIERAS (al aire libre, en la ciudad).**
-
-El árbitro lleva a una patrulla por una calle, pasando frente a seis negocios. Les da medio minuto en cada uno y después, tras alejarlos cierta distancia, le da a cada chico un lápiz y una tarjeta y le pide que escriba de memoria (o él mismo anota) lo que notaron en, digamos, el tercer y el quinto negocio. Gana quien anota correctamente más objetos. Es una práctica útil enfrentar a un chico con otro en eliminatorias, en las que el perdedor vuelve a competir hasta llegar al peor. Así los scouts más flojos son los que más practican.
-
-**JUEGO PARECIDO (bajo techo).**
-
-Hacé entrar a cada scout, de a uno, a una habitación durante medio minuto; cuando sale, anotá la lista de muebles y objetos que notó. Gana el que notó más.
-
-La forma más simple de llevar el puntaje es hacer una lista de los objetos de la habitación en tu planilla, con una columna de puntos para cada scout al lado, que después se suma fácilmente al pie.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

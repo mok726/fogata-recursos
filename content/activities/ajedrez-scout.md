@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - mapas
   - estrategia
   - juego-de-mesa
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,7 +144,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Ajedrez Scout!
+# Ajedrez Scout
 
 ## Resumen
 Se dibuja un mapa grande de los alrededores, con caminos, senderos y pasos. Las fichas representan scouts. Un mensajero intenta ir de un punto a otro del mapa y la patrulla enemiga trata de atraparlo. Solo se mueve por los caminos marcados.
@@ -151,11 +154,19 @@ Se dibuja un mapa grande de los alrededores, con caminos, senderos y pasos. Las 
 2. Fijá cuánto avanza cada ficha por turno (por ejemplo, 3 cm).
 
 ## Desarrollo
-1. Un jugador mueve al mensajero; otro, o varios, mueven a la patrulla enemiga.
-2. El mensajero avanza una distancia por turno; los enemigos, la mitad (van caminando).
-3. Solo se puede mover por caminos y pasos marcados.
-4. Para atraparlo, dos enemigos tienen que quedar a dos turnos de distancia, acorralándolo.
-5. Si el mensajero llega a destino, gana.
+Un juego de mesa scout: sobre un mapa grande de la zona se mueven fichas que representan a los scouts, y un mensajero trata de llegar a destino sin que lo atrape una patrulla enemiga.
+
+1. Primero se dibuja un mapa o plano a mano alzada de los alrededores del local, a una escala muy grande. Se puede hacer con tiza en el piso, en una mesa o en la pared, y conviene dejarlo fijo para usarlo muchas veces.
+2. En el mapa se marcan todos los senderos y caminos. Si la zona es de campo, se marcan también los potreros y, con cuidado, los huecos de los alambrados y los lugares por donde se puede pasar.
+3. Cada «scout» se representa con una ficha: sirven piezas comunes de ajedrez o, si el mapa está en la pared, banderitas para clavar.
+4. En cada turno, cada ficha avanza unos 2 o 3 cm (u otra distancia, según la escala del mapa). Las fichas solo se pueden mover por los senderos y caminos marcados.
+5. El mejor juego es este: un jugador mueve a un mensajero, que tiene que ir de un lugar a otro del mapa. Otro jugador mueve a la patrulla enemiga, que trata de alcanzarlo.
+6. Los enemigos solo pueden «caminar»: en cada turno avanzan la mitad de lo que avanza el mensajero.
+7. Para capturar al mensajero, dos scouts enemigos tienen que llegar a quedar a dos turnos de distancia de él, arrinconándolo.
+
+**Cómo se gana:** el mensajero gana si llega a destino; la patrulla, si lo captura antes.
+
+Con el mismo mapa y las mismas fichas se pueden inventar muchos otros juegos scouts.
 
 ## Cierre
 - ¿Qué camino eligió el mensajero y por qué?
@@ -169,15 +180,12 @@ Se dibuja un mapa grande de los alrededores, con caminos, senderos y pasos. Las 
 
 The first thing needed is a rough map or plan of the surrounding country, on a very large scale. It can be chalked on the floor or a table in the clubroom, or on the wall, and be kept permanently. On the map should be marked all paths and roads, and if in the country, the fields, with the gaps in the hedges and places to get through carefully marked. Then something is needed to represent Scouts'; ordinary chessmen will do, or if the map is on the wall, small flags to stick in the wall. With these, various kinds of Scouting games can be played. Each " Scout " can move one inch (or other distance according to the scale of the map) each turn. The best game is for one dispatch runner to try and get from one place to another on the map without being overtaken by the enemy, one patrol, who should only be allowed to walk (i.e. go half the distance which the runners allowed to go each turn). To capture him two Scouts should get within two turns of him, by driving him into a comer. They can, of course, only go along the recognized paths and tracks,
 
-**Versión en español:**
-
-**AJEDREZ SCOUT.**
-
-Lo primero que hace falta es un mapa o plano a mano alzada de los alrededores, a escala muy grande. Se puede dibujar con tiza en el piso o en una mesa del local, o en la pared, y dejarlo fijo. En el mapa hay que marcar todos los senderos y caminos y, si es en el campo, los potreros, con los huecos de los cercos y los lugares por donde se puede pasar bien marcados. Después hace falta algo que represente a los "scouts"; sirven piezas comunes de ajedrez o, si el mapa está en la pared, banderitas para clavar en ella. Con esto se pueden jugar distintos juegos scouts. Cada "scout" puede moverse una pulgada (u otra distancia según la escala del mapa) por turno. El mejor juego es que un mensajero intente ir de un lugar a otro del mapa sin que lo alcance el enemigo, una patrulla, a la que solo se le permite caminar (es decir, avanzar la mitad de la distancia que puede avanzar el mensajero en cada turno). Para capturarlo, dos scouts tienen que quedar a dos turnos de él, arrinconándolo. Por supuesto, solo pueden moverse por los senderos y huellas reconocidos.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 3: «Scout's Chess». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

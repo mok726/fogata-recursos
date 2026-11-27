@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Margarita: Acortar sin Cortar"
+title: "Margarita"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/margarita-acortar-sin-cortar/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - margarita
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -133,18 +137,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Margarita: Acortar sin Cortar!
+# Margarita
 
 ## Resumen
-La margarita sirve para acortar una cuerda por un rato sin cortarla, por ejemplo un viento de carpa demasiado largo. También permite dejar fuera de uso un tramo gastado de la cuerda. Se recoge el sobrante en dos senos largos y se traba cada uno con un medio cote. Aguanta mientras la cuerda esté tensa.
+La margarita es un nudo para acortar una cuerda por un rato sin tener que cortarla ni desatarla de donde está. Sirve, por ejemplo, para tensar un viento de carpa que quedó flojo o para achicar una cuerda de remolque.
 
 ## Desarrollo
-1. Con las manos cruzadas, tomá la cuerda y recogé el sobrante pasando las manos una al lado de la otra: quedan dos senos largos.
-2. Sostené los dos senos con una mano.
-3. Hacé un seno chico en la cuerda, entre un seno largo y la punta, y pasá el seno largo por ese seno chico.
-4. Repetí en el otro extremo y tensá la cuerda.
-5. Prueba práctica: acortá con una margarita el viento de una carpa, o una cuerda tensa entre dos puntos. ¿Qué pasa si la cuerda se afloja?
-6. Variante del manual: si ninguna punta está atada, hacé la margarita y pasá cada punta por el seno más cercano para que no se desarme.
+Antes de empezar, dos palabras: el **seno** es la curva o «U» que se forma cuando doblás la cuerda sobre sí misma, y el **sobrante** es la parte de cuerda que está de más y queda floja.
+
+1. Cruzá las manos y agarrá la cuerda con las dos.
+2. Recogé el sobrante deslizando las manos una al lado de la otra, en sentido contrario. Así la cuerda queda doblada en tres tramos, como una «S» alargada, con dos lazos largos, uno en cada punta.
+3. Sostené firme esos dos lazos largos con una sola mano, para que no se desarme.
+4. Con la otra mano, en el tramo de cuerda que va entre uno de los lazos y la punta de la cuerda, hacé un seno chico (una vuelta de la cuerda sobre sí misma).
+5. Pasá el lazo largo por adentro de ese seno.
+6. Hacé exactamente lo mismo en el otro extremo.
+
+El nudo se mantiene en su lugar mientras la cuerda esté tensa; si se afloja, se puede soltar solo.
+
+**Si ninguna de las dos puntas está atada:** cuando la cuerda está suelta de los dos lados, hacé la margarita igual y, al final, pasá cada punta de la cuerda por el seno que le queda más cerca. Así queda trabada aunque nadie la tense.
 
 ## Cierre
 - ¿Qué ventaja tiene acortar una cuerda en vez de cortarla?
@@ -181,32 +191,8 @@ The knot will stay in place so long as the rope is taut.
 If it is necessary to shorten a rope when neither end is held fast, make
 the Sheep-shank and pass each end through the bight nearest to it.
 
-**Versión en español:**
-
-[Ilustración: 6. Margarita]
-
-La margarita sirve para recoger el sobrante o acortar una cuerda por un tiempo. Se usa en los vientos de las carpas y en las cuerdas de remolque.
-
-Para hacer la margarita:
-
-Cruzá las manos y tomá la cuerda;
-
-Recogé el sobrante pasando las manos una al lado de la otra;
-
-Sostené firmemente los dos lazos largos con una mano;
-
-Hacé un seno en la cuerda, entre el lazo y la punta;
-
-Pasá el lazo por el seno;
-
-Hacé lo mismo en el otro extremo.
-
-El nudo se mantiene en su lugar mientras la cuerda esté tensa.
-
-Si hace falta acortar una cuerda cuando ninguna de las puntas está atada, hacé la margarita y pasá cada punta por el seno que le queda más cerca.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

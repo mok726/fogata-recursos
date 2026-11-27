@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - patrulla
 
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Columnas Volantes!
+# Columnas Volantes
 
 ## Resumen
 Un mensajero avisa que una fuerza amiga está aislada a cierta distancia. Entre el campamento y esa fuerza hay puestos enemigos. Cada patrulla tiene que llegar lo antes posible sin que ningún puesto la vea.
@@ -150,10 +153,16 @@ Un mensajero avisa que una fuerza amiga está aislada a cierta distancia. Entre 
 3. Hacé un croquis simple del terreno para cada guía.
 
 ## Desarrollo
-1. Explicá la situación a los guías y dales el croquis.
-2. Las patrullas salen a la vez o con unos minutos de diferencia.
-3. Cuando un puesto ve a un scout, toca el silbato y anota de qué patrulla es. Ese scout queda capturado.
-4. Gana la patrulla que llega primero al punto de socorro con más integrantes sin ser vistos.
+Un juego de avance sin ser visto: cada patrulla tiene que llegar a un punto pasando entre los vigías del enemigo.
+
+1. Pueden competir varias patrullas. La historia es esta: una fuerza amiga está en problemas y necesita ayuda. Un mensajero militar que va de paso llega al campamento scout.
+2. El mensajero (lo hace el dirigente) le explica rápido la situación a cada guía y le muestra un mapa a mano alzada: la fuerza en apuros está a unos 3 km por cierto camino, y entre el campamento y esa fuerza están los puestos de vigilancia del enemigo.
+3. La fuerza en apuros se representa con un punto bien visible del terreno.
+4. Los puestos enemigos son personas con banderas rojas ubicadas a lo largo del camino.
+5. Cada guía tiene que llevar a su patrulla hasta la fuerza en apuros lo más rápido posible y sin que la vean.
+6. Cuando un vigía ve a algún scout, toca el silbato y ese scout queda capturado. Otra opción es que el vigía anote a qué patrulla pertenece el scout que vio, y se le descuenta a esa patrulla.
+
+**Cómo se gana:** gana la patrulla que llega en el menor tiempo sin que hayan visto a ninguno de sus scouts.
 
 ## Cierre
 - ¿Les convino ir juntos o separados?
@@ -169,15 +178,12 @@ Un mensajero avisa que una fuerza amiga está aislada a cierta distancia. Entre 
 
 For any number of patrols to compete. A force is in need of help, and a military motorist on his way to the nearest garrison comes across a Scouts' camp. He gives to each Patrol-leader a hasty idea of the situation and shows him a rough map explaining that the distressed force is two miles along a certain road, and between the Scouts' camp and that force are the enemy's out- posts. The Patrol-leaders are to take their patrols in the shortest time to the force in distress without being seen by the enemy. The distressed force should be represented by any conspicuous spot, and the enemy's outposts by people with red flags stationed on the road between the Scouts' camp and the other force. As soon as they see any of the patrols they should blow a whistle, and those scouts are to be considered captured (or else they may notice to which patrol the Scouts they have seen belong and count it against them). The patrol which gets to the distressed force in the shortest time, and without any of its Scouts being seen wins.
 
-**Versión en español:**
-
-**COLUMNAS VOLANTES.**
-
-Para que compitan varias patrullas. Una fuerza necesita ayuda, y un motorista militar que va hacia la guarnición más cercana se encuentra con un campamento scout. Le da a cada guía una idea rápida de la situación y le muestra un mapa a mano alzada, explicándole que la fuerza en apuros está a dos millas por cierto camino, y que entre el campamento scout y esa fuerza están los puestos avanzados del enemigo. Los guías tienen que llevar a sus patrullas en el menor tiempo hasta la fuerza en apuros sin ser vistos por el enemigo. La fuerza en apuros puede estar representada por cualquier punto bien visible, y los puestos enemigos, por personas con banderas rojas ubicadas en el camino entre el campamento y la otra fuerza. Apenas ven a alguna de las patrullas, tocan un silbato y esos scouts se consideran capturados (o bien pueden anotar a qué patrulla pertenecen los scouts que vieron y contarlo en su contra). Gana la patrulla que llega a la fuerza en apuros en el menor tiempo y sin que se vea a ninguno de sus scouts.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 6. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 6: «Flying Columns». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---
