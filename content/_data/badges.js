@@ -2529,6 +2529,10 @@ sections: {
       title: "Primeros Auxilios y Emergencias",
       description: "Actividades propias para prepararse ante una emergencia sin tratamientos: botiquín, pedir ayuda, llamar al 107 o al 911, la cadena de ayuda, señales de auxilio y emergencias del hogar."
     },
+    I: {
+      title: "Primeros Auxilios: Qué Hacer",
+      description: "Evaluación inicial, hemorragias, calor y frío, atragantamiento, quemaduras, infarto y ACV, golpes en la cabeza, columna, esguinces y fracturas. Se practican con un instructor con formación reconocida; no reemplazan un curso."
+    },
     J: {
       title: "Juegos de Orientación",
       description: "Juegos de mesa y de terreno para aprender la rosa de los vientos, leer mapas, seguir rumbos y organizar carreras de orientación (inspirados en la cartilla de Juan Manuel Lourenço)."
