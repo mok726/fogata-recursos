@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - orientacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Calcular Distancias!
+# Calcular Distancias
 
 ## Resumen
-Una patrulla se ubica en distintos puntos del terreno y otra la observa desde lejos. En cada puesto, las parejas tienen que decir cuántas personas ven, a qué distancia están, en qué dirección y cómo están vestidas. Entrena la estimación de distancias y el uso de la brújula.
+Un juego en recorrido para aprender a calcular a ojo a qué distancia están las personas, a orientarse con brújula y a observar rápido.
 
 ## Preparación
 1. Ubicá a los integrantes de una patrulla en distintos lugares del terreno, algunos contra fondos que los disimulen y otros bien visibles.
@@ -150,14 +154,18 @@ Una patrulla se ubica en distintos puntos del terreno y otra la observa desde le
 3. Medí de antemano las distancias reales para poder corregir.
 
 ## Desarrollo
-1. Las parejas de la otra patrulla salen de a una. En el primer puesto solo reciben el rumbo de brújula del siguiente.
-2. En cada puesto, la pareja tiene un minuto para anotar:
-   - cuántas personas ve;
-   - a qué distancia están;
-   - en qué dirección (rumbo de brújula);
-   - cómo están vestidas.
-3. Tienen medio minuto para correr de un puesto al siguiente.
-4. Ganan las mejores respuestas entregadas dentro del tiempo.
+1. **El «enemigo».** Una patrulla hace de enemigo. El que dirige ubica a sus integrantes en distintos lugares y direcciones, con fondos diferentes (contra un árbol, contra el cielo, contra un pastizal), pensando en el color de su ropa: algunos se van a ver fácil y otros, no.
+2. **Las estaciones.** Se marcan tres puntos de observación, o estaciones, separados por unos 270 metros entre sí.
+3. **Los observadores.** Otra patrulla hace las observaciones. Sus scouts salen de a dos, por turno.
+4. En la primera estación, a la pareja solo se le da el rumbo de brújula hacia la estación siguiente (en qué dirección tiene que ir).
+5. En cada estación, la pareja tiene un minuto para observar al enemigo y anotar cuatro cosas:
+   - cuántos enemigos se ven;
+   - a qué distancia está cada uno;
+   - en qué dirección de la brújula están;
+   - cómo están vestidos.
+6. Después corre hasta la estación siguiente siguiendo el rumbo, y tiene medio minuto para cada tramo de carrera.
+
+**Cómo se gana:** ganan las mejores respuestas, siempre que la pareja haya cumplido los tiempos.
 
 ## Cierre
 - ¿Qué distancias estimaron mejor? ¿Cuáles les costaron?
@@ -185,12 +193,8 @@ win provided they are within the specified time. The time allowed should
 be one minute for observation at each station, and half a minute for
 each bit of running.
 
-**Versión en español:**
-
-**CALCULAR DISTANCIAS.** Tomá una patrulla y ubicá a sus integrantes en distintas direcciones y contra distintos fondos, según el color de su ropa; después tomá otra patrulla para que estime la distancia a esos puntos. Se envía a dos competidores por vez a tres puntos distintos. En el primer punto solo se les da el rumbo de brújula del siguiente, que está a unos trescientos metros, y así sucesivamente. En cada punto, cada pareja de scouts observa sobre el enemigo: primero, cuántos se ven; segundo, a qué distancia están; tercero, en qué dirección de brújula; cuarto, cómo están vestidos. Ganan las mejores respuestas, siempre que estén dentro del tiempo fijado. El tiempo permitido debe ser de un minuto para observar en cada puesto y de medio minuto para cada tramo de carrera.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

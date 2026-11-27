@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,16 +144,21 @@ rama_rovers:
   - 24 # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
 ---
 
-# ¡La Danza de Baloo!
+# La Danza de Baloo
 
 ## Resumen
-En el círculo de parada, la Manada marcha en fila como Baloo, el oso que enseñaba la Ley de la Selva: lento, orgulloso, con la panza afuera, mientras dice la Ley de la Manada en voz alta. A la señal, todos se frenan, giran hacia adentro y quedan en alerta.
+Una danza corta de la Manada en la que todos imitan a Baloo, el oso, mientras repiten la Ley del Lobato.
 
 ## Desarrollo
-1. Formen el círculo de parada.
-2. A la voz de "¡Baloo!", todos giran a la derecha y siguen a quien guía, marchando muy lento y tieso, orgullosos, con la panza adelante, los codos para afuera, el mentón en alto y mirando a izquierda y derecha con aire importante.
-3. Mientras marchan, dicen la Ley de la Manada en voz alta para que todos la escuchen.
-4. A la señal de alto, se frenan, giran hacia el centro, vuelven a ser ellos mismos y quedan en posición de alerta hasta la próxima indicación.
+**El personaje:** en *El libro de la selva*, Baloo es el oso que le enseñaba a Mowgli la Ley de la Selva. Era un viejo bonachón y grandote, muy parecido a un policía corpulento.
+
+1. La Manada forma el Círculo de Parada, la ronda grande en la que se forma para las ceremonias. Uno hace de guía.
+2. Cuando se da la orden «¡Baloo!», todos giran a la derecha y siguen al guía.
+3. Marchan muy despacio y tiesos, orgullosos como un pavo real: la panza para adelante, los codos para afuera, el mentón en alto, mirando a izquierda y derecha con aire de importancia.
+4. Mientras marchan, dicen en voz alta las dos partes de la Ley del Lobato, para que todos las conozcan: «El lobato escucha al Viejo Lobo; el lobato no se escucha a sí mismo».
+5. Cuando el dirigente da la señal u orden de alto, todos se detienen enseguida, giran hacia el centro y vuelven a ser ellos mismos: se quedan firmes, en posición de alerta, hasta recibir la próxima orden.
+
+Si se quiere, se puede acompañar con música; el original sugiere «The Teddy Bears' Picnic» o el «Coro de los policías» de la opereta *Los piratas de Penzance*.
 
 ## Cierre
 - ¿Quién era Baloo y qué le enseñaba a Mowgli?
@@ -173,16 +179,8 @@ When therefore the order "Baloo" is given, every Cub will turn to the right and 
 When the Cubmaster gives the signal or order to halt, the Cubs at once stop, turn inwards, and become themselves, standing strictly at the "Alert" till they get further orders.
 (Music, if desired — "The Teddy Bear Picnic"; or the "Policeman's Chorus," Pirates of Penzance.)
 
-**Versión en español:**
-
-**LA DANZA DE BALOO**
-Ahora vamos a formar el Círculo de Parada y a probar la danza de Baloo, el oso. Era el animal de *El libro de la selva* que le enseñaba la Ley de la Selva a Mowgli. Era un viejo bonachón y corpulento, muy parecido a un policía grandote.
-Entonces, cuando se da la orden "Baloo", cada lobato gira a la derecha y sigue a su líder, marchando muy lento y tieso, orgulloso como un pavo real, con la panza adelante y los codos para afuera, el mentón en alto, mirando a izquierda y derecha con aire altanero; y mientras avanza dice en voz alta las dos Leyes del Lobato, para que todos las conozcan: "El lobato escucha al Viejo Lobo; el lobato no se escucha a sí mismo".
-Cuando el Jefe de Manada da la señal u orden de alto, los lobatos se detienen enseguida, giran hacia adentro y vuelven a ser ellos mismos, quedando firmes en posición de alerta hasta recibir nuevas órdenes.
-(Música, si se quiere: "The Teddy Bears' Picnic", o el "Coro de los policías" de *Los piratas de Penzance*.)
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

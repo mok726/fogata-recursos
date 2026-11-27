@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - juego-scout
   - orientacion
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -144,22 +148,34 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Búsqueda del Tesoro!
+# La Búsqueda del Tesoro
 
 ## Resumen
-El manual dice que la búsqueda del tesoro «necesita observación y habilidad para rastrear», y que puede jugarla cualquier cantidad de personas. Propone tres formas. Con **pistas escritas** que llevan de un lugar a otro («Andá al oeste y revisá la tercera tranquera al norte del arroyo»). Con **marcas de colores** cada pocos metros, con pistas falsas para que no sea solo seguir al de adelante. Y con **descripciones del camino** distintas para cada patrulla, que llegan todas al mismo lugar. Quien llega primero no tiene que delatar el escondite.
+Un juego de observación y rastreo en el que hay que llegar a un tesoro escondido siguiendo pistas. Pueden jugar prácticamente cualquier cantidad de chicos. El original propone tres formas de jugarlo.
 
 ## Preparación
 1. Elegí la modalidad según la edad: marcas de colores para Manada, pistas escritas con rumbos de brújula para Scouts y mayores.
 2. Prepará el recorrido y escondé el tesoro. Para pistas escritas, prepará versiones distintas por patrulla en algún punto, para que no se sigan entre sí.
 
 ## Desarrollo
-1. Modalidad 1, pistas escritas: cada patrulla recibe la primera pista. Cada pista lleva a la siguiente y necesita algo de habilidad para entenderla (un rumbo de brújula, una cantidad de pasos, una adivinanza). Salen cada diez minutos.
-2. Modalidad 2, marcas de colores: cintas o lanas atadas cada pocos metros. Al final de las marcas, el tesoro está escondido a cierta distancia. Agregá pistas falsas que vuelven al principio.
-3. Modalidad 3, descripciones: cada patrulla recibe una descripción distinta del camino («Andá al árbol más alto del campo, de ahí 100 pasos al norte, después caminá derecho hacia el tanque de agua...»). Todas llegan al mismo lugar después de un recorrido parecido.
-4. Regla del manual: la primera patrulla que llega al lugar no tiene que avisarles a las demás. Busca el tesoro con disimulo.
-5. Al final, el tesoro se comparte entre todos.
-6. Las patrullas recogen todas las marcas en el camino de vuelta.
+**1. Pistas escritas en cadena.**
+1. Se esconde el tesoro. Los scouts saben qué es lo que buscan.
+2. Se les da la primera pista, y cada pista lleva a la siguiente. Por ejemplo: en un poste de tranquera dice «Andá al oeste y revisá la tercera tranquera del lado norte del arroyo»; en esa tranquera hay una señal scout que apunta a un cartel donde dice «Seguí rumbo sur-sudeste hasta el poste de luz número 28», y así.
+3. Las pistas tienen que estar escritas de modo que haga falta pensar un poco para entenderlas, y los puntos tienen que estar lejos unos de otros, que no se vea uno desde el otro.
+4. Se puede jugar como competencia entre patrullas, haciéndolas salir cada diez minutos. Para que las de atrás no sigan simplemente a la primera, en alguna pista se puede dejar una orden distinta para cada patrulla.
+
+**2. Rastro de maderitas de colores.**
+1. Se atan trocitos de madera pintada a tranqueras, cercos, ramas, etc., cada 3 metros más o menos, marcando un camino.
+2. Donde se terminan las marcas, los jugadores ya saben que el tesoro está escondido a no más de tantos metros de ahí.
+3. Para que no sea solo «seguir al que va adelante», se pueden hacer varios rastros que lleguen al mismo punto, y también rastros falsos que dan la vuelta y vuelven al principio.
+
+**3. Descripción del camino.**
+1. A cada jugador o patrulla se le da por escrito la descripción de un camino, y cada uno puede ser un poco distinto. Por ejemplo: «Andá al árbol más alto de tal campo, de ahí caminá cien metros al norte y después andá derecho hacia la torre de la iglesia, que te va a quedar a la izquierda».
+2. La descripción tiene que obligar a pasar por cada punto en orden, para que nadie corte camino.
+3. Todos los caminos tienen que ser igual de largos y terminar en el mismo lugar, donde está el tesoro.
+4. El primero que llega no tiene que dejar que los demás se den cuenta de que ese es el lugar: tiene que buscar el tesoro de la forma más disimulada posible.
+
+El original no dice cómo se gana; una opción es que gane el primero (o la primera patrulla) que encuentra el tesoro.
 
 ## Cierre
 - ¿Qué pista fue la más difícil de resolver?
@@ -215,22 +231,8 @@ the treasure is hidden. The first to arrive at that spot should not
 let the others know it is the spot, but should search for the treasure
 in as casual a manner as possible.
 
-**Versión en español:**
-
-**La búsqueda del tesoro**
-
-La búsqueda del tesoro necesita observación y habilidad para rastrear, y prácticamente cualquier cantidad de personas puede participar.
-
-A continuación se dan varias formas de jugarla.
-
-1. Se esconde el tesoro y los scouts saben qué es; se les da la primera pista, y a partir de ella se pueden seguir todas las demás. Esas pistas podrían ser (a) escritas en un poste de tranquera: «Andá al oeste y revisá la tercera tranquera del lado norte del arroyo»; (b) en esa tranquera, un signo scout que apunta a un cartel donde está escrito: «Seguí rumbo sur-sudeste hasta el poste de telégrafo n.º 28», y así sucesivamente. Las pistas tienen que estar redactadas de modo que haga falta algo de habilidad para entenderlas, y los distintos puntos tienen que ser difíciles de alcanzar uno desde el otro. Este método podría usarse como competencia entre patrullas, haciéndolas salir cada diez minutos, y en alguna pista en particular podría haber órdenes distintas para cada patrulla, para que las de atrás no sigan a la primera.
-
-2. Las pistas pueden ser trocitos de madera de colores atados a tranqueras, cercos, etc., cada tres metros más o menos, que van en cierta dirección, y cuando se terminan las pistas hay que saber que el tesoro está escondido a tantos metros. Para que esto no se convierta en un simple «seguí al líder», se podrían hacer varias pistas que lleven al mismo punto, y se podrían hacer pistas falsas, que solo llevan de vuelta al punto de partida.
-
-3. A cada competidor o patrulla se le podría dar una descripción del camino (quizás a cada uno de un camino un poco distinto); la descripción tiene que obligar a ir a cada lugar por turno, y evitar los atajos de esta forma: «Andá al árbol más alto de cierto campo, de ahí caminá cien metros al norte y después caminá derecho hacia la torre de una iglesia que va a quedar a tu izquierda», etc. Todas las descripciones tienen que llevar, con un recorrido igual, a cierto lugar donde está escondido el tesoro. El primero que llegue a ese lugar no tiene que dejar que los demás sepan que es el lugar, sino que tiene que buscar el tesoro de la forma más disimulada posible.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

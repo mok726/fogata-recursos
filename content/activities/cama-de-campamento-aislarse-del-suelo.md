@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cama de Campamento: Aislarse del Suelo"
+title: "Camas de Abeto Balsámico"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cama-de-campamento-aislarse-del-suelo/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Shelters, Shacks and Shanties - Daniel Carter Beard (1914)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - dormir
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Shelters, Shacks and Shanties"
+  - title: "Shelters, Shacks and Shanties (impreso original)"
+    author: "Daniel Carter Beard"
+    year: 1914
+  - title: "Shelters, Shacks and Shanties (versión alternativa en línea)"
     author: "Daniel Carter Beard"
     year: 1914
     series: "Project Gutenberg, eBook #28255"
@@ -143,23 +147,36 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Cama de Campamento: Aislarse del Suelo!
+# Camas de Abeto Balsámico
 
 ## Resumen
-Daniel Carter Beard, uno de los fundadores de los Boy Scouts de América, decía que si no dormís bien en el campamento «la culpa es del cocinero», siempre que hayas hecho bien la cama. Su secreto: mucho material, y colocado como las tejas de un techo, de la cabecera a los pies, con las puntas hacia la cabeza. La lección de fondo sigue vigente: **el suelo te roba el calor mucho más rápido que el aire**. Con esa idea, la patrulla prueba qué aísla mejor y arma una cama tejada con material muerto.
+Cómo armar un colchón de ramitas para dormir cómodo y aislado del suelo, según un libro de campamento de 1914. El autor usaba ramas de abeto balsámico, un árbol de los bosques de Canadá y Estados Unidos, pero explica que sirve cualquier rama verde y flexible.
 
 ## Preparación
 1. Buscá un lugar con hojarasca o pinocha caída. Si no hay, llevá una bolsa de paja.
 2. Separá cuatro «estaciones» para probar: suelo pelado, lona sola, colchoneta aislante, capa gruesa de hojas secas.
 
 ## Desarrollo
-1. Leé el texto de Beard y preguntá: ¿para qué sirve la cama? ¿Para estar blandos o para no tener frío?
-2. Cada protagonista se sienta dos minutos en cada estación, con la mano apoyada en el piso. ¿Dónde siente frío antes? Si hay termómetro, midan la temperatura del suelo y de la superficie de cada capa.
-3. Expliquen lo que pasó: el suelo frío y húmedo se lleva el calor del cuerpo; el aire atrapado entre hojas o en la espuma lo frena.
-4. Armen una cama como la de Beard con material muerto: una capa de base con lo más grueso y encima capas más finas, de la cabecera a los pies, cada capa tapando la base de la anterior, como tejas.
-5. Si el material está húmedo, pongan la lona entre las hojas y la bolsa de dormir, como hacía Beard con su manta de goma.
-6. Prueben acostarse. ¿Cuánto espesor hace falta para no sentir el suelo? (Suele ser más del que uno cree: Beard dice «no ahorres material».)
-7. Al terminar, devuelvan las hojas al lugar y dejen el suelo como estaba.
+**Hoy:** en la mayoría de los parques, reservas y campings no se pueden cortar ramas vivas, y lo habitual es usar un aislante o una colchoneta. Esta técnica se aprende como técnica de campamento y se aplica solo donde esté permitido.
+
+**Juntar las ramitas:**
+1. Se juntan ramitas de distintos largos: las más largas, de unos 45 cm, para la base; las más cortas, de 25 a 30 cm, para la capa de arriba.
+2. Hay que juntar mucho. El autor cuenta que muchas veces, por estar demasiado cansado para armar bien la cama, durmió sobre una capa finita y se levantó con los huesos doloridos.
+3. No conviene cortarlas a hachazos, porque la rama rebota y te pega en la cara. Con el cuchillo se puede, pero es lento y salen ampollas. Lo mejor es quebrarlas a mano, de a una: el pulgar arriba, apuntando hacia la punta de la rama, y el índice y el mayor abajo. Se aprieta con el pulgar y, con un giro de muñeca, la ramita se quiebra limpia.
+
+**Llevarlas:**
+1. Antes se prepara un palo de madera dura y verde, de 1,20 a 1,50 m de largo, que en la base tenga una horqueta de unos 15 cm (para que las ramas no se salgan) y con la otra punta afilada.
+2. Cada vez que juntás un puñado de ramitas, lo ensartás en el palo, como si fueran pescados, poniendo las bases de cada puñado en distintas direcciones.
+3. Cuando está lleno, te lo cargás al hombro. Así se lleva una cantidad sorprendente. Si tenés una soga, otra forma es poner las ramas sobre un lazo de la soga, pasar las dos puntas por el lazo y cargarte el atado a la espalda.
+
+**Limpiarse las manos:** al terminar, las manos quedan pegoteadas de resina. Un poco de grasa o manteca la ablanda, y después sale con agua y jabón.
+
+**Armar la cama:**
+1. Extendé una capa de las ramitas más largas en el suelo. Empezá por la cabecera y avanzá hacia los pies, poniéndolas como las tejas de un techo: cada ramita con la punta hacia la cabecera, tapando la base de la anterior.
+2. Seguí poniendo capas hasta que el colchón sea tan grueso que quede blando, y terminá con las ramitas cortas.
+3. Tapalo con una frazada. Como almohada, usá la bolsa con la campera, la ropa de repuesto y el buzo.
+
+**Otros materiales (del original):** donde no hay abetos ni pinos, se puede hacer un buen colchón con ramitas verdes de cualquier árbol que sean elásticas, armado de la misma manera. Encima se pone una capa gruesa de pasto seco, paja u hojas secas; o incluso de plantas verdes, siempre que se cubran con una lona o un nylon para que la humedad no pase. El autor cuenta que una vez lo hizo con flores silvestres y que fue una de las camas más cómodas de su vida: una verdadera «cama de flores».
 
 ## Cierre
 - ¿Qué aisló mejor? ¿Por qué?
@@ -246,32 +263,8 @@ keep out the moisture from the green stuff and on top of this made my bed
 with my other blankets. It was as comfortable a couch as I have ever slept
 on; in fact, it was literally a bed of flowers.
 
-**Versión en español:**
-
-**Camas de abeto balsámico**
-
-La cama de abeto balsámico se hace con las ramitas chicas de ese árbol. Al juntarlas, conseguí ramitas de distintos largos, desde unos 45 cm (para la base de la cama) hasta 25 o 30 cm (para la capa de arriba). Si querés descansar bien, no ahorres en la cantidad que juntás; muchas veces me dolieron los huesos por estar demasiado cansado para hacer bien la cama e intentar dormir sobre una capa finita de ramas.
-
-Si intentás cortar las ramas de abeto a golpes, se van a vengar rebotando y pegándote en la cara. Las podés cortar con el cuchillo, pero es un trabajo lento y te va a ampollar las manos. Tomá ramita por ramita con el pulgar y los dedos (el pulgar arriba, apuntando hacia la punta de la rama, y el índice y el mayor debajo); apretá hacia abajo con el pulgar y, con un giro de muñeca, vas a quebrar las ramitas como si fueran boquillas de pipa. La fig. 3 muestra dos vistas de las manos en la posición correcta para quebrar las ramitas fácil y limpio. La de la izquierda muestra la mano vista desde arriba; la de la derecha, vista de costado.
-
-**Cómo cargar las ramas**
-
-Después de juntar un puñado de ramas, ensartalas en un palo que hayas preparado antes (fig. 4). Este palo tiene que ser de madera dura verde y fuerte, de 1,20 a 1,50 m de largo, con una horqueta de unos 15 cm en el extremo grueso para que las ramas no se salgan, y con punta en el otro extremo para poder atravesar fácilmente un puñado de ramas. Ensartá las ramas en el palo como ensartarías pescados, pero de a un puñado por vez, dejando que las bases apunten en distintas direcciones. Es asombrosa la cantidad de ramas que se pueden cargar ensartadas así y con el palo al hombro, como en la fig. 5. Si tenés una soga para atar, poné las ramas sobre una vuelta de la soga, como en la fig. 6, pasá los dos extremos por la vuelta y colgate el atado a la espalda.
-
-**Limpiate las manos**
-
-Cuando termines de juntar el material para la cama vas a tener las manos cubiertas de una savia pegajosa y, aunque van a dar lástima, un poco de grasa o manteca de cocina va a ablandar la resina para que puedas sacarla con agua y jabón.
-
-**Cómo hacer la cama**
-
-Para hacer la cama, extendé en el suelo una capa de las ramas más grandes; empezá por la cabecera y colocalas como tejas hasta los pies, con las puntas hacia la cabecera, tapando las bases de la fila anterior (fig. 7). Seguí así hasta que el colchón tenga el espesor suficiente para ser un lecho blando donde puedas dormir tan cómodo como en tu casa. Tapá el colchón con una manta y usá de almohada la bolsa con el saco, la ropa de repuesto y el suéter. Y si después no dormís bien, la culpa es del cocinero.
-
-**Otras camas**
-
-Si te toca acampar en una región donde no hay abeto, tsuga ni pino, podés hacer un buen colchón de resortes juntando ramitas verdes de cualquier árbol que sean flexibles y elásticas. Armá el colchón como ya se explicó. Encima poné una capa gruesa de heno, paja u hojas secas, o incluso material verde, siempre que tengas una manta de goma o un poncho impermeable para taparlo. En Kentucky hice un colchón así y cubrí las ramas con una capa gruesa de flores violetas de vernonia; encima extendí una manta de goma del ejército para que no pasara la humedad del material verde, y sobre ella hice la cama con mis otras mantas. Fue uno de los lechos más cómodos en los que dormí; de hecho, fue literalmente un lecho de flores.
-
 ---
-**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914). Dominio público. Texto tomado de Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
+**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
 
 **Traducción:** Fogata de Recursos (2026).
 

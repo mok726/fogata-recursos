@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuál Pesa Más?"
+title: "Lo que Pesan"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-pesa-mas/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - estimacion
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -133,10 +137,17 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡¿Cuál Pesa Más?!
+# Lo que Pesan
 
 ## Resumen
-Antes de jugar, juntá seis objetos lo más distintos posible en tamaño, forma y material, pero que pesen exactamente lo mismo (por ejemplo, un balde de madera, una olla de lata y un pedazo de plomo). Pedí a cada uno que los ordene del más pesado al más liviano. Casi todos van a pensar que el más grande es el más pesado.
+Un concurso corto para llenar un rato libre en una reunión o un fogón: ordenar objetos por su peso, cuando en realidad todos pesan lo mismo.
+
+## Desarrollo
+1. Antes de la reunión, los organizadores juntan seis objetos lo más distintos posible en tamaño, forma y material, pero que pesen todos lo mismo, por ejemplo medio kilo cada uno. Pueden ser un balde con un poco de arena, una olla, un paquete de yerba, una piedra, un frasco con agua y un trozo de metal. Hay que pesarlos con cuidado.
+2. Se llama de a uno a distintos participantes y se les pide que ordenen los seis objetos del más pesado al más liviano, levantándolos con las manos.
+3. Casi todos van a pensar que el objeto más grande es el más pesado. Cuando todos hayan pasado, se revela que pesan lo mismo.
+
+**Cómo se gana:** el original no da puntaje. Se puede dar por ganador al que más dude o al que diga que pesan igual.
 
 ## Cierre
 - ¿Por qué nos engaña el tamaño? ¿Dónde más juzgamos por la apariencia?
@@ -156,12 +167,8 @@ them to arrange these six articles in the order of their weight. Of
 course, almost every one will think the large article to be the
 heaviest.
 
-**Versión en español:**
-
-**SU PESO.** Este concurso es un buen recurso para llenar algún intervalo en sus reuniones. Que la comisión junte de antemano seis objetos, lo más distintos posible en tamaño, forma y material, pero que pesen cada uno una libra. Pueden tomar, por ejemplo, un balde de madera, una olla de lata y un pedazo de plomo. Llamen a distintas personas de los presentes y pídanles que ordenen estos seis objetos según su peso. Por supuesto, casi todos van a pensar que el objeto más grande es el más pesado.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

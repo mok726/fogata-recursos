@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -72,11 +73,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -149,20 +150,36 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡¿Qué Es? Gusto, Olfato, Tacto y Oído!
+# ¿Qué Es? Gusto, Olfato, Tacto y Oído
 
 ## Resumen
-Cuatro estaciones con los ojos vendados: probar sabores, oler bolsitas, tocar bolsitas con cosas adentro y adivinar ruidos. Gana quien reconoce más.
+Cuatro juegos cortos para entrenar los sentidos: con los ojos vendados, hay que adivinar qué es cada cosa probando, oliendo, tocando o escuchando. Se pueden jugar por separado o uno detrás de otro.
 
 ## Preparación
 1. Prepará las cuatro estaciones. Para el olfato, poné las bolsitas en fila, a unos 60 cm entre sí.
 2. Preguntá antes por alergias e intolerancias alimentarias.
 
 ## Desarrollo
-1. **Gusto:** con los ojos vendados, cada uno prueba una pizca de cada sabor. Gana quien reconoce más.
-2. **Olfato:** cada lobato tiene 5 segundos para oler cada bolsita. Al terminar, dice o escribe los olores en orden.
-3. **Tacto:** con los ojos vendados, en ronda, se pasan las bolsitas y tocan su contenido sin mirar.
-4. **Oído:** con los ojos vendados, Akela hace ruidos: inflar una rueda de bici, cerrar una puerta, arrastrar una silla. Gana quien adivina más.
+**¿Qué es? (Gusto)**
+1. A todos los lobatos que juegan se les vendan los ojos.
+2. Cada uno prueba, de a una, varias cosas de sabor conocido y dice qué cree que es. El original propone cosas de sabor fuerte como menta, regaliz, queso, comino o cebolla.
+**Cómo se gana:** gana el que reconoce más.
+
+**¿Qué es? (Olfato)**
+1. Se ponen en fila varias bolsas de papel iguales, a unos 60 cm una de otra. En cada una hay algo con olor distinto: café, cebolla, cuero, hojas de rosa, cáscara de naranja, yerba, etc.
+2. Cada lobato recorre la fila y tiene cinco segundos en cada bolsa para olerla, sin mirar.
+3. Cuando terminó, escribe o le dice al dirigente qué había en cada bolsa, en el orden correcto.
+**Cómo se gana:** el original no lo dice; una opción es que gane el que acierta más, en el orden correcto.
+
+**¿Qué es? (Tacto)**
+1. Los lobatos se sientan en ronda con los ojos vendados.
+2. Se pasan de mano en mano varias bolsas de papel con algo adentro, como arroz, terrones de azúcar o té en hebras. Cada uno toca la bolsa por fuera y trata de reconocer qué tiene.
+**Cómo se gana:** gana el que reconoce más.
+
+**¿Qué es? (Oído)**
+1. Todos los lobatos tienen los ojos vendados.
+2. Un dirigente hace varios ruidos, uno por vez: inflar la rueda de una bicicleta con el inflador, cerrar una puerta, arrastrar una silla por el piso, etc.
+**Cómo se gana:** gana el que adivina más ruidos.
 
 ## Cierre
 - ¿Qué sentido tenés más entrenado? ¿Cuál menos?
@@ -179,15 +196,8 @@ What is it (Smell)? — A number of paper bags are put in a row two feet apart. 
 What is it (Touch)? — All Cubs taking part are blindfolded. A number of paper bags with objects inside, such as rice, lump sugar, tea, etc., are passed round the circle. The Cub who recognizes the most wins.
 What is it (Hearing)? — All Cubs taking part are blindfolded. An Old Wolf then makes a number of noises, such as pumping up the tyre of a bicycle, shutting a door, scraping a chair on the floor, etc., and the Cub who guesses the most correctly wins.
 
-**Versión en español:**
-
-**¿Qué es? (Gusto).** Todos los lobatos que juegan tienen los ojos vendados. Después cada uno prueba varios sabores conocidos. Gana el lobato que reconoce más. Algunas cosas de sabor fuerte: menta, regaliz, queso, alcaravea, cebolla, etc.
-**¿Qué es? (Olfato).** Se ponen en fila varias bolsas de papel, a sesenta centímetros una de otra. Cada una tiene adentro una cosa distinta con olor, como café, tabaco, cebolla, cuero, hojas de rosa, cáscara de naranja, etc. El lobato tiene cinco segundos en cada una para olerla. Cuando las probó todas, las escribe o se las dice al Viejo Lobo en el orden correcto.
-**¿Qué es? (Tacto).** Todos los lobatos que juegan tienen los ojos vendados. Se pasan por la ronda varias bolsas de papel con objetos adentro, como arroz, terrones de azúcar, té, etc. Gana el lobato que reconoce más.
-**¿Qué es? (Oído).** Todos los lobatos que juegan tienen los ojos vendados. Un Viejo Lobo hace varios ruidos, como inflar la rueda de una bicicleta, cerrar una puerta, arrastrar una silla por el piso, etc., y gana el lobato que adivina más.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

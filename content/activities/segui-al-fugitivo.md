@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -133,18 +137,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Seguí al Fugitivo!
+# Seguí al Fugitivo
 
 ## Resumen
-El fugitivo escapa dejando caer un grano cada tres pasos. Un minuto después lo persiguen todos. Su cómplice (el árbitro) le dijo antes adónde tiene que llegar. Si llega más de ocho minutos antes que sus perseguidores, sin que lo toquen, gana él.
+Un juego de rastreo: un jugador escapa dejando un rastro de granos y los demás lo persiguen siguiendo ese rastro.
 
 ## Desarrollo
-1. El árbitro le dice en secreto al fugitivo el punto de llegada.
-2. El fugitivo sale y deja caer un grano cada tres pasos.
-3. Un minuto después salen los perseguidores siguiendo los granos.
-4. Si lo tocan, ganan ellos. Si llega con más de ocho minutos de ventaja, gana el fugitivo. Si nadie llega al punto, empate.
+1. Se elige a un jugador para que sea el fugitivo. Lleva en la mano una bolsita con granos de maíz o arvejas secas.
+2. Antes de salir, el árbitro, que hace de «cómplice» del fugitivo, le dice en secreto a qué lugar tiene que llegar. Ahí lo espera el árbitro.
+3. El fugitivo sale corriendo o caminando, y cada tres pasos deja caer un grano. Esos granos son el rastro.
+4. Un minuto después salen los demás jugadores, los perseguidores, siguiendo los granos para encontrarlo.
+5. Los perseguidores tratan de alcanzarlo y tocarlo antes de que llegue a destino.
+6. Si los perseguidores pierden el rastro y nunca llegan hasta el árbitro, no gana nadie.
 
-> **Nota para el educador:** en el original es un "asesino" que escapa con un puñal y los granos representan gotas de sangre. Para chicos alcanza con un fugitivo, un ladrón de tesoros o un animal escapado; el juego no cambia. Juntá los granos que sobren o usá algo biodegradable.
+**Cómo se gana:** el fugitivo gana si llega al lugar donde está el árbitro sin que lo toquen y con más de ocho minutos de ventaja sobre los perseguidores.
+
+El original no dice qué pasa si los perseguidores lo tocan, o si el fugitivo llega pero con menos de ocho minutos de ventaja. Una opción es que en esos casos ganen los perseguidores, siempre que lleguen siguiendo el rastro.
+
+## Cierre
+- ¿Qué señales del rastro fueron más fáciles de ver? ¿Cuáles se perdieron?
+- ¿Qué hizo el fugitivo para despistarlos?
 
 ## Texto original completo de la actividad
 
@@ -158,12 +170,8 @@ by Indian corn or peas) which fall at every third pace. His confederate
 there without being touched by his pursuers, over eight minutes ahead of
 them, he wins. If they never reach his confederate, neither side wins.
 
-**Versión en español:**
-
-**"SEGUIR AL ASESINO."** El asesino escapa después de apuñalar a su víctima, llevando en la mano el puñal que gotea. Los demás salen un minuto después a rastrearlo por las gotas de sangre (representadas por maíz o arvejas), que caen cada tres pasos. Su cómplice (el árbitro) le dice de antemano hacia dónde dirigirse, y si llega ahí sin que lo toquen sus perseguidores, con más de ocho minutos de ventaja, gana. Si nunca llegan hasta su cómplice, no gana ninguno de los dos bandos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

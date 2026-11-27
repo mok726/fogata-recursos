@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Derribá el Tronco"
+title: "Derribá el Taco"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/derriba-el-tronco/"
@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -63,11 +64,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -139,16 +140,20 @@ rama_rovers:
   - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
-# ¡Derribá el Tronco!
+# Derribá el Taco
 
 ## Resumen
-Se pone un tronco parado en el centro. La Manada forma una ronda alrededor, tomada de las manos, y cada uno tira para hacer que alguien choque y tumbe el tronco. Quien lo tumba sale, hasta que queda el ganador.
+Un juego de fuerza en ronda: todos tiran para que otro tumbe un taco que está en el medio.
 
 ## Desarrollo
-1. Paren un tronco o taco de madera de unos 50-60 cm (que se caiga fácil pero se pueda saltar), o pongan una pelota.
-2. Formen una ronda alrededor, tomados de las manos.
-3. A la señal, tiran fuerte para arrastrar a alguien sobre el tronco. Hay que esquivarlo o saltarlo.
-4. Quien lo tumba sale. Se vuelve a parar el tronco y se sigue hasta que queda uno solo.
+En inglés el juego se llama *Knock the Blob*; el «blob» es simplemente el bulto que hay que voltear, en este caso un taco de madera.
+
+1. En el centro se para un taco de madera de unos 60 cm de alto, apoyado de punta, de modo que se caiga fácil si alguien lo toca, pero que un chico lo pueda saltar por encima. Si no hay taco, sirve una pelota de fútbol.
+2. Los lobatos forman una ronda alrededor del taco, tomados de las manos.
+3. A la señal, todos tiran y empujan con fuerza, sin soltarse, para hacer que algún compañero de la ronda pise o choque el taco y lo tumbe. Cada uno, al mismo tiempo, trata de no ser él quien lo voltea: puede esquivarlo o saltarlo.
+4. El que tumba el taco (o toca la pelota) sale del juego. Se vuelve a parar el taco y se sigue jugando.
+
+**Cómo se gana:** el último que queda en la ronda es el ganador.
 
 ## Cierre
 - ¿Qué servía más: la fuerza o la agilidad?
@@ -163,13 +168,8 @@ Se pone un tronco parado en el centro. La Manada forma una ronda alrededor, toma
 GAME: KNOCK THE BLOB
 Set up a block of wood on end, about two feet high, so as to be easily knocked over, but which a boy can skip over; or a football will do. The Cubs form a circle round it, and, hand-in-hand, they try by pulling hard to drag one or other of their number on to knock over the block. If they succeed, out he goes till the final winner is found.
 
-**Versión en español:**
-
-**JUEGO: DERRIBÁ EL TRONCO**
-Paren un taco de madera de unos sesenta centímetros de alto, que se pueda tumbar fácilmente pero que un chico pueda saltar; también sirve una pelota de fútbol. Los lobatos forman una ronda alrededor y, tomados de las manos, tratan, tirando fuerte, de arrastrar a alguno de ellos para que tumbe el taco. Si lo consiguen, ese sale, hasta que queda el ganador final.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

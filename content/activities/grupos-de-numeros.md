@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - matematica
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -133,12 +137,28 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Grupos de Números!
+# Grupos de Números
 
 ## Resumen
-Cada uno lleva en el pecho una tarjeta con un número del 10 al 24 (puede haber repetidos). El líder grita un número, por ejemplo 80. Todos corren a formar un grupo cuya suma dé exactamente ese número. El primer grupo que lo logra se presenta y cada integrante recibe un papelito. Los demás grupos se deshacen y el líder canta otro número. Gana quien junta más papelitos.
+Un juego rápido de cálculo mental y de moverse en grupo, bueno para muchos participantes.
 
 > **Nota para el educador:** el original pide 180 con números del 10 al 24, lo que exige grupos grandes. Con chicos, empezá con sumas chicas (40-60). Para hacerlo más difícil, B-P sugiere poner los números en la espalda.
+
+## Desarrollo
+1. A cada participante se le da una tarjeta con un número escrito bien grande, que se prende en el pecho a la vista de todos. Los números van del 10 al 24, así que va a haber muchos repetidos.
+2. El que dirige grita un número, por ejemplo 180.
+3. Enseguida, todos corren a juntarse en grupos, tratando de formar uno en el que la suma de las tarjetas dé exactamente 180.
+4. El primer grupo que lo logra se presenta ante el que dirige, que comprueba la suma y le da un papelito a cada integrante.
+5. En ese momento se deshacen todos los demás grupos a medio formar, que no suman nada, y el que dirige grita un número nuevo.
+6. Se repite unas cuantas veces.
+
+**Cómo se gana:** al final, gana la persona que juntó más papelitos.
+
+**Más difícil (variante del original):** se usan números más altos y las tarjetas se prenden en la espalda en lugar del pecho, así cada uno tiene que pedirle a otro que le diga su número.
+
+## Cierre
+- ¿Qué hicieron para armar rápido los grupos?
+- ¿Alguien se quedó afuera? ¿Cómo se sintió y cómo lo podríamos evitar?
 
 ## Texto original completo de la actividad
 
@@ -162,14 +182,8 @@ slips is adjudged the winner. If you want to make this game very
 difficult, use higher numbers, and attach them to the backs instead of
 the fronts, of the members.
 
-**Versión en español:**
-
-**GRUPOS DE NÚMEROS.** Denle a cada persona un número, impreso en letra grande en una tarjeta que se prende bien a la vista sobre el pecho. Los números van del 10 al 24, así que por supuesto va a haber muchos repetidos. Hay un líder, que empieza el juego gritando un número, como 180. Enseguida los jugadores, lo más rápido posible, se agrupan, tratando de formar un grupo cuya suma dé 180. Apenas se forma un grupo así, se presenta ante el líder, y a cada integrante de ese grupo ganador se le da un papelito.
-
-Apenas un grupo formó 180 y recibió su premio, los grupos a medio formar se disuelven, porque no cuentan para nada, y el líder canta un número nuevo. Después de hacer esto unas cuantas veces, gana la persona que juntó más papelitos. Si quieren que el juego sea muy difícil, usen números más altos y pónganlos en la espalda de los participantes en lugar de en el pecho.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - plantas
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,10 +144,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Carrera de Plantas!
+# Carrera de Plantas
 
 ## Resumen
-Los participantes salen a buscar la muestra de una planta que pidió el árbitro y vuelven lo antes posible. Se pone a prueba lo que saben de plantas y la memoria de dónde vieron cada una.
+Una carrera que pone a prueba cuánto conocen los scouts de plantas y cuánto se acuerdan de dónde las vieron.
 
 ## Preparación
 1. Recorré antes el lugar y anotá qué plantas hay. Elegí las que vas a pedir: por ejemplo, una hoja de un árbol determinado, un fruto, una flor o una semilla.
@@ -151,10 +155,11 @@ Los participantes salen a buscar la muestra de una planta que pidió el árbitro
 3. Marcá los límites del área.
 
 ## Desarrollo
-1. El árbitro nombra (o muestra) la planta que hay que buscar.
-2. Los participantes, solos, en parejas o por patrulla, salen a buscar una muestra y vuelven.
-3. Gana quien vuelve primero con la muestra correcta.
-4. Al terminar, se repasan las muestras: nombre de la planta, si es nativa o exótica, para qué la usan las personas o los animales.
+1. El que dirige elige una planta y les dice a los scouts qué tienen que traer. Tiene que ser algo que haga pensar, por ejemplo una ramita de una especie concreta, un brote, una flor o una marca particular de un árbol. El original propone una ramita de tejo, un brote de acebo, la marca en forma de herradura que deja la hoja en la rama del castaño de Indias o una rosa silvestre; acá pueden ser, por ejemplo, una flor de ceibo, una hoja de eucalipto o una ramita de sauce.
+2. A la señal, los scouts salen a pie o en bicicleta, en la dirección que quieran.
+3. Cada uno tiene que acordarse de dónde vio una planta de esa clase, ir hasta allí lo más rápido posible y volver con la muestra.
+
+**Cómo se gana:** gana el primero que vuelve con la muestra correcta.
 
 ## Cierre
 - ¿Cuáles reconociste enseguida? ¿Cuáles no conocías?
@@ -179,14 +184,8 @@ knowledge of plants and will test their memory as to where they noticed
 one of the kind required, and will also make them quick in getting there
 and back.
 
-**Versión en español:**
-
-**CARRERA DE PLANTAS.**
-
-Hacé salir a tus scouts, en bicicleta o a pie, en la dirección que quieran, a conseguir una muestra de la planta que se les pida, por ejemplo una ramita de tejo, un brote de acebo, la marca en herradura de un castaño, una rosa silvestre o algo por el estilo, lo que vos ordenes, de manera que se ponga a prueba su conocimiento de las plantas y su memoria sobre dónde vieron una de la clase pedida, y que además se vuelvan rápidos para ir y volver.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

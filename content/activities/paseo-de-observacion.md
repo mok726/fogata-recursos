@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - observacion
   - ciudad
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,23 +144,26 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Paseo de Observación!
+# Paseo de Observación
 
 ## Resumen
-Es la práctica base que B-P propone para enseñar a observar, antes de los juegos. La primera vez el adulto acompaña y muestra cómo hacerlo; después la patrulla sale sola y, al volver, responde preguntas.
+Una práctica de B-P para entrenar la observación durante una caminata, en la ciudad o en el campo, de a poco y con preguntas al volver.
 
 ## Desarrollo
-**En la ciudad**
-1. Caminen por una calle y fíjense en los tipos de negocios, en orden. Después, en sus nombres.
-2. Miren una vidriera dos minutos y recuerden lo que había. Después, varias seguidas con medio minuto cada una.
-3. Fíjense en edificios de referencia, cantidad de calles que cruzan, nombres de calles, vehículos y personas (ropa, rasgos, forma de caminar).
-4. Que aprendan dónde quedan las farmacias, las alarmas de incendio, la comisaría, las ambulancias, etc.
+**En la ciudad:**
+1. Primero, los chicos caminan por una calle y se fijan en los distintos tipos de negocios que van pasando. Al final tienen que recordarlos en el orden correcto.
+2. Después hacen lo mismo con los nombres de los negocios.
+3. Después miran una vidriera durante dos minutos y tienen que recordar lo que había. Por último, miran varias vidrieras seguidas, medio minuto cada una.
+4. También tienen que fijarse en los edificios que se destacan, porque sirven de puntos de referencia; en cuántas calles salen de la que están recorriendo; en los nombres de otras calles; en los vehículos que pasan; y, sobre todo, en las personas: cómo están vestidas, sus rasgos, cómo caminan. Y en números como las patentes de los autos.
+5. La primera vez el dirigente los acompaña para mostrarles cómo se hace. Después los manda solos y, cuando vuelven, les hace preguntas.
+6. Con el tiempo, que aprendan por su cuenta a saber dónde quedan las farmacias, los cuarteles de bomberos, las comisarías, los hospitales y salitas de primeros auxilios del barrio.
 
-**En el campo**
-1. Señalen referencias lejanas (cerros, torres) y cercanas (árboles, piedras, tranqueras, edificios raros).
-2. Fíjense en caminos, cercos, cultivos, árboles, aves, animales, huellas, personas, vehículos y olores.
-3. Después, la patrulla hace sola un recorrido. Al volver, se le hacen unas seis preguntas, de a uno o por escrito.
-4. Antes de que salgan, dejá en el camino marcas, botones o fósforos para que los encuentren y los traigan.
+**En el campo:**
+1. El dirigente sale a caminar con la patrulla y les enseña a fijarse en referencias lejanas que se destacan, como cerros o campanarios, y en referencias más cercanas, como edificios raros, árboles, piedras o tranqueras.
+2. También en los caminos secundarios y senderos, los tipos de alambrados o cercos, los cultivos, los distintos árboles, aves, animales y huellas, las personas y los vehículos. Y en los olores particulares: de plantas, de animales, de estiércol.
+3. Después los manda a hacer un recorrido determinado. Cuando vuelven, o los examina de a uno, de palabra, o los reúne a todos y les da unas seis preguntas escritas sobre cosas que tendrían que haber notado.
+
+**Consejo del original:** la práctica vale más si antes el dirigente deja algunas marcas chicas en el suelo, o deja tirados botones u otros objetos chicos, para que los chicos los vean o los levanten y los traigan. Así se acostumbran a mirar el suelo cerca de ellos y no solo las cosas lejanas.
 
 ## Cierre
 - ¿Qué vieron hoy que nunca habían notado?
@@ -210,28 +217,8 @@ small marks in the ground beforehand, or leave buttons or matches, etc.,
 for the boys to notice or to pick up and bring in (as a means of making
 them examine the ground close to them as well as distant objects).
 
-**Versión en español:**
-
-**EN LA CIUDAD:** Primero hacé practicar a tus chicos caminando por una calle para que noten los distintos tipos de negocios a medida que pasan y los recuerden en el orden correcto al final.
-
-Después, que noten y recuerden los nombres de los negocios.
-
-Después, que noten y recuerden el contenido de una vidriera después de mirarla dos minutos. Por último, que noten el contenido de varias vidrieras seguidas, con medio minuto en cada una.
-
-Los chicos también tienen que notar los edificios importantes como puntos de referencia; la cantidad de calles que salen de la que están usando; los nombres de otras calles; detalles de los caballos y vehículos que pasan; y, sobre todo, detalles de las personas: ropa, rasgos, forma de caminar; números de autos, de policías, etc.
-
-La primera vez acompañalos para mostrarles cómo hacerlo; después mandalos solos y, cuando vuelvan, haceles preguntas, como se indica más abajo.
-
-Que aprendan por sí mismos a notar y recordar dónde están todas las farmacias, alarmas de incendio, puestos fijos de policía, ambulancias, etc.
-
-**EN EL CAMPO:** Saquen a la patrulla a caminar y enseñen a los chicos a notar rasgos lejanos destacados como referencias, como cerros, campanarios, etc., y como referencias más cercanas cosas como edificios curiosos, árboles, piedras, tranqueras, etc. Caminos secundarios o senderos, tipo de cercos, cultivos; distintos tipos de árboles, aves, animales, huellas, etc.; también personas, vehículos, etc. También cualquier olor particular de plantas, animales, estiércol, etc.
-
-Después mandalos a hacer un recorrido determinado y, cuando vuelvan, hacelos pasar de a uno y examinalos de palabra, o hacelos pasar a todos y que escriban sus respuestas a, digamos, seis preguntas que les hagas sobre ciertas cosas que deberían haber notado.
-
-La práctica gana valor si hacés de antemano algunas marcas chicas en el suelo, o dejás botones o fósforos, etc., para que los chicos los noten o los levanten y los traigan (como forma de hacerlos examinar el suelo cercano además de los objetos lejanos).
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

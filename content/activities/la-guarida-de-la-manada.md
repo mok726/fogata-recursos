@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Guarida de la Manada"
+title: "La Guarida del Lobato"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-guarida-de-la-manada/"
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -151,22 +152,31 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡La Guarida de la Manada!
+# La Guarida del Lobato
 
 ## Resumen
-B-P cuenta cómo era la cueva de un lobo y propone que los lobatos se hagan su propia guarida: con arpillera cosida, atada de un lado a un cerco y sostenida del otro con dos palos, decorada con animales de la selva. Puertas adentro, cada seisena arregla y decora su rincón del local.
+Una charla de B-P sobre las guaridas de los lobos, y una propuesta para que los lobatos se hagan su propio refugio o decoren su rincón en el local de la Manada.
 
 ## Preparación
 1. Elegí un lugar con un cerco, una baranda o un árbol donde atar un lado de la lona.
 2. Si es puertas adentro, acordá con el grupo qué rincón le toca a cada seisena y qué se puede colgar.
 
 ## Desarrollo
-1. Contá la historia de la cueva del lobo que visitó B-P y la de Mowgli en la cueva, a salvo de Shere Khan.
-2. **Afuera:** cosan con hilo grueso varias bolsas de arpillera hasta formar una lona grande (o usen una lona).
-3. Aten firme un extremo a un cerco o baranda y levanten el otro con dos palos clavados o sostenidos con vientos.
-4. Decórenla pintando lobos y otros animales de la selva.
-5. **Adentro:** cada seisena arregla su rincón para que quede lo más lindo posible: separadores de arpillera pintados, tarjetas con los colores de la seisena, imágenes de los animales de la selva. Al final de la reunión se guarda todo.
-6. Inviten a las otras seisenas a visitar la guarida.
+**La historia que cuenta B-P.** Una vez se metió gateando en la cueva de un lobo. Era una cueva baja, debajo de una roca, en el costado de una barranca de tierra seca. La entrada era tan baja que el lobo apenas podía pasar, y por eso adentro estaba protegido del mal tiempo, de las miradas y de cualquier animal grande. Era como la cueva de *El libro de la selva*, donde Shere Khan, el tigre, no podía entrar a buscar a Mowgli y solo podía mirar furioso desde afuera. En el fondo, detrás de una piedra, B-P encontró una cuevita más chica que habían excavado los lobos jóvenes: su propio hogar. Ese es el ejemplo para los lobatos: aprender a hacerse un refugio propio, seco y cómodo, en vez de comprarlo hecho.
+
+**Cómo hacer una guarida al aire libre** (en un patio o jardín):
+1. Juntá bolsas viejas de arpillera y coselas entre sí con hilo grueso hasta tener una lona grande.
+2. Atá un extremo bien firme a un cerco o a un seto, y levantá el otro extremo con dos palos o varas.
+3. Si querés, pintá sobre la arpillera lobos y otros animales de la selva.
+4. Sirve para resguardarse del sol fuerte y para jugar adentro, pero no para dormir, porque no frena la lluvia. Dormir afuera de verdad viene después, cuando sean scouts.
+
+**Ojo con las cuevas.** B-P aclara que una cueva es cómoda para un lobo, pero no para una persona: son húmedas, oscuras y poco sanas. Ningún scout de verdad cava una cueva para acampar, y al menos un scout murió porque se le derrumbó encima mientras la cavaba.
+
+**Guaridas bajo techo.** Si cada seisena tiene un rincón o un pedazo de pared en el local:
+1. Pueden separarlo con tiras de arpillera pintadas con árboles y animales de la selva.
+2. Pueden colgar láminas de los animales de la selva, tarjetas pintadas con los colores de la seisena y recortes de revistas.
+3. Piensen entre todos cómo aprovechar mejor el espacio, aunque haya que descolgar todo y guardarlo al terminar la reunión.
+4. El seisenero (el lobato que encabeza la seisena) habla con Akela (el jefe de la Manada) para ver qué se puede hacer.
 
 ## Cierre
 - ¿Por qué es mejor hacer tu propio refugio que comprar uno hecho?
@@ -198,29 +208,8 @@ Also one Boy Scout, at least, has been killed by such a cave falling in on him w
 LAIRS INDOORS
 I expect many of you have got a corner of the Pack Den, or a bit of wall, which belongs specially to your own Six. If you have, it's up to you to make it look as cubby and bright as possible. If you have a corner, perhaps you will be allowed to screen it off with lengths of sacking, painted with trees and jungle animals. Put your thinking caps on and see how you can use best the space that has been given to you. You can get sets of pictures of the jungle animals, and special cards to paint your Six colours on, and you can cut interesting bits out of the illustrated papers. In fact, there are lots of things you can do to make your Pack Den look a real Den, even though you may have to take the things down after your meeting and stow them away. Get your Sixer to talk to Akela about what can be done.
 
-**Versión en español:**
-
-**LA GUARIDA DEL LOBATO**
-Una vez me metí gateando en la cueva de un lobo para ver en qué clase de lugar vivía. Era una cueva baja bajo una roca saliente, en el costado de una barranca de tierra seca. El agujero era en parte natural y en parte excavado por los lobos.
-Una vez adentro, el lobo quedaba bien protegido del mal tiempo, de las miradas y del ataque de cualquier animal grande, porque la entrada era tan baja que apenas podía meterse él mismo gateando.
-No era muy distinta de la cueva de lobos que describe *El libro de la selva*, adonde llegó Shere Khan tratando de agarrar a Mowgli, a quien los lobos habían rescatado de él.
-Los lobos y Mowgli estaban a salvo dentro de la cueva, pero la entrada era demasiado baja para que el señor Tigre entrara, así que solo podía mirarlos furioso desde afuera.
-En la cueva de lobos que examiné había una piedra que sobresalía en la pared del fondo de la guarida, y detrás de esa piedra encontré una segunda cuevita que habían excavado, evidentemente, los lobos jóvenes; así se habían hecho un pequeño hogar propio.
-Bueno, ese es un ejemplo para ustedes, lobatos. Tendrían que ser capaces de hacerse hogares secos y cómodos cuando salen al bosque o al campo. Es mucho más divertido hacerse el propio refugio que comprarlo hecho.
-Pueden empezar haciendo uno en su propio jardín.
-
-**CÓMO HACER UNA GUARIDA**
-El tipo de refugio que hagas depende del material que tengas para hacerlo.
-Uno muy sencillo se puede hacer con bolsas viejas, que cosés con hilo grueso hasta tener una lona de arpillera bastante grande. Después, si atás un extremo firme a un cerco o a un seto y levantás el otro con dos palos o varas, vas a tener una guarida espléndida para ir cuando el sol pega fuerte, y podés jugar a toda clase de juegos adentro. También podés decorarla con dibujos pintados de lobos y otros animales de la selva sobre la arpillera. No te va a servir para pasar la noche porque no frena la lluvia, pero cuando crezcas y seas scout vas a poder dormir afuera muchas veces, y eso es muy divertido.
-Dije que la guarida de un lobo de verdad es una cueva muy cómoda; y lo es, para un lobo, pero no para una persona.
-Las cuevas por lo general son húmedas, oscuras y "terrosas", y por eso no son sanas. Los novatos a menudo excavan cuevas para acampar, pero ningún scout de verdad lo hace nunca: sabe que vivir en un lugar así enseguida te enferma.
-Además, por lo menos un scout murió porque una cueva así se le derrumbó encima mientras la excavaba.
-
-**GUARIDAS PUERTAS ADENTRO**
-Me imagino que muchos de ustedes tienen un rincón del local de la Manada, o un pedazo de pared, que es especialmente de su seisena. Si es así, depende de ustedes que se vea lo más acogedor y alegre posible. Si tienen un rincón, tal vez les permitan separarlo con tiras de arpillera pintadas con árboles y animales de la selva. Pónganse a pensar y vean cómo aprovechar mejor el espacio que les dieron. Pueden conseguir colecciones de imágenes de los animales de la selva y tarjetas especiales para pintar los colores de la seisena, y pueden recortar cosas interesantes de las revistas ilustradas. En fin, hay muchas cosas que pueden hacer para que el local de la Manada parezca una guarida de verdad, aunque tengan que descolgar todo después de la reunión y guardarlo. Pídanle a su seisenero que hable con Akela sobre lo que se puede hacer.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - cocina
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -147,23 +151,41 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Guiso y Pan de Campamento!
+# Guiso y Pan de Campamento
 
 ## Resumen
-Dos recetas sencillas del manual. Un **guiso**: se dora la carne en la sartén, se ablandan las verduras y todo va a la olla con agua, sal y un espesante de harina. Y el **pan de bizcocho**, «el pan clásico de campamento, porque se hornea rápido», que viene de Kephart: harina, polvo de hornear, sal, grasa y agua. Se cocina en una sartén tapada y se sabe que está listo cuando un palito sale limpio del centro. La patrulla planifica las compras y las cantidades, se reparte los puestos y cocina.
+Dos recetas clásicas de cocina de campamento: un guiso que se cocina lento y un pan rápido, hecho con polvo de hornear.
 
 ## Preparación
 1. Con la patrulla, calculen cantidades para el grupo y armen la lista de compras.
 2. Repartan los puestos: cocina del guiso, pan, fuego, higiene y lavado (podés usar la ficha «La Patrulla Pino»).
 
 ## Desarrollo
-1. Lavado de manos y mesa de trabajo limpia antes de empezar.
-2. Guiso: cortá la carne en trozos chicos y dorala en la sartén con un poco de aceite. Pasala a la olla con agua que la cubra.
-3. Cortá las verduras chicas, ablandalas unos minutos en la sartén y sumalas a la olla. Salá y cociná a fuego suave una media hora.
-4. Espesá con harina disuelta en agua fría y seguí cocinando, con agua suficiente para que no se seque.
-5. Pan: mezclá la harina con el polvo de hornear y la sal. Frotá la grasa con las manos hasta que no queden grumos (el original avisa que «es un poco aburrido, pero no lo evites»). Sumá el agua de a poco hasta tener una masa firme.
-6. Poné la masa en la sartén aceitada, tapala y cociná a fuego bajo, dándola vuelta a mitad de cocción. Probá con un palito en el centro: si sale limpio, está listo. El manual dice que el pan caliente se parte con la mano, nunca se corta.
-7. Coman juntos y después laven con la ficha «Lavar los Platos en Campamento».
+**Guiso:**
+
+1. Cortá la carne en trozos chicos y dorala en una sartén con un poco de grasa.
+2. Sacala y pasala a una olla con agua suficiente para cubrirla.
+3. Cortá las verduras en trozos chicos y ponelas unos minutos en la sartén, lo justo para que se ablanden. Pasalas a la olla.
+4. Condimentá con sal y pimienta y cociná media hora.
+5. Espesá con harina disuelta en agua.
+6. Agregá agua suficiente para que el guiso no se seque, tapá bien la olla y enterrala en un horno de pozo caliente durante dos o tres horas, para que se cocine despacio. El horno de pozo se prepara antes: se cava un pozo un poco más grande que la olla, se hace adentro un buen fuego hasta que quede una cama de brasas, se apoya la olla tapada sobre las brasas, se la rodea y se la cubre con más brasas y, por último, se tapa todo con tierra para que conserve el calor.
+
+**Pan de campamento.** Es el pan típico de campamento porque se hornea rápido. Es muy rico caliente, pero enseguida se seca y no se guarda. Para cuatro personas:
+
+- 3 pintas de harina (unos 1,4 litros de harina, más o menos 800 gramos);
+- 3 cucharaditas colmadas de polvo de hornear;
+- 1 cucharadita colmada de sal;
+- 2 cucharadas colmadas de grasa fría (de cerdo, de panceta o la que soltó la carne);
+- un poco menos de medio litro de agua fría.
+
+1. Mezclá bien, con una cuchara grande o una paleta de madera, primero el polvo de hornear con la harina y después la sal.
+2. Agregá la grasa fría y frotala con la harina hasta que no queden grumos ni grasa pegada en el fondo. Es un poco aburrido, pero no te lo saltees.
+3. Agregá el agua y trabajá con la cuchara hasta tener una masa bastante firme. La cantidad de agua depende de la harina, y la fuerza del polvo de hornear depende de la marca: seguí lo que diga el envase.
+4. Engrasá la fuente, poné la masa y horneá.
+5. Cuando creas que está, pinchá el centro con una astilla o un palito: si sale sin masa pegada, está listo.
+6. El pan caliente se parte con la mano, nunca con cuchillo.
+
+**Consejo del original:** si sobra pan y se seca, rocialo con un poco de agua y calentalo bien. Esto se puede hacer una sola vez.
 
 ## Cierre
 - ¿Les alcanzaron las cantidades? ¿Sobró o faltó?
@@ -209,18 +231,8 @@ the hand, never cut.
 "To freshen any that is left over and dried out, sprinkle a little water
 over it and heat through. This can be done but once."
 
-**Versión en español:**
-
-*Guiso*. Cortá la carne en trozos chicos, dorala en la sartén (usá la grasa que soltó), sacala y ponela en la olla con agua suficiente para cubrir el guiso. Cortá las verduras en trozos chicos, ponelas en la sartén unos minutos, lo justo para ablandarlas, pasalas a la olla, condimentá con sal y pimienta, cociná media hora, agregá un espesante de harina (agua y harina), cubrí con agua suficiente para que el guiso no se seque y enterralo en un horno caliente dos o tres horas.
-
-[…]
-
-«*Pan de bizcocho*. Es el pan clásico de campamento, porque se hornea rápido. Es rico mientras está caliente, pero enseguida se seca y no se conserva. Para cuatro: tres pintas de harina, tres cucharaditas colmadas de polvo de hornear, una cucharadita colmada de sal, dos cucharadas colmadas de grasa fría y una pinta escasa de agua fría. La cantidad de agua varía según la calidad de la harina. Los polvos de hornear varían en fuerza; seguí las indicaciones de la lata. Mezclá bien, con una cuchara grande o una paleta de madera, primero el polvo de hornear con la harina y después la sal. Frotá en la mezcla la grasa fría (puede ser grasa de cerdo, grasa fría de panceta o la que soltó la carne) hasta que no queden grumos ni grasa pegada en el fondo del recipiente. Es un poco aburrido, pero no lo evites. Después agregá el agua y trabajá con la cuchara hasta tener una masa bastante firme. Tené la fuente engrasada. Pasá el pan a la fuente y horneá. Probá el centro del pan con una astilla cuando creas que está listo. Cuando no se pega masa, sacá el pan. Todos los panes calientes se parten con la mano, nunca se cortan.
-
-»Para refrescar el que sobró y se secó, rociale un poco de agua y calentalo bien. Esto se puede hacer una sola vez.»
-
 ---
-**Fuente:** Girl Scouts of the USA, Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

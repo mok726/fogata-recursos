@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -144,17 +145,20 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Acecho del Ciervo!
+# Acecho del Ciervo
 
 ## Resumen
-Akela hace de ciervo: se queda parado y a veces se mueve. La Manada intenta llegar hasta él sin ser vista; a quien ve, lo hace parar. Al tiempo, gana el que quedó más cerca. En la variante, el árbitro tiene los ojos vendados y hay que llegar sin hacer ruido sobre ramitas y piedras.
+Un juego para aprender a acercarse sin ser visto, como un cazador que se acerca a un ciervo.
 
 ## Desarrollo
-1. Akela (el ciervo) se para en un lugar abierto. No se esconde, y de vez en cuando se mueve y mira alrededor.
-2. La Manada sale desde lejos; cada uno elige su manera de acercarse sin ser visto.
-3. Cuando el ciervo ve a alguien, lo señala y ese se para: queda eliminado.
-4. Cuando Akela dice "¡Tiempo!", todos se paran donde están. Gana el más cercano.
-5. **Variante (pisar sin ruido):** el árbitro tiene los ojos vendados en un terreno con ramitas y piedritas. Cada lobato sale por turno desde unos 90 metros y tiene un minuto y medio para acercarse. Si el árbitro lo oye, lo frena. Gana quien llega más cerca.
+1. El Jefe de Manada hace de «ciervo». No se esconde: se queda parado en un lugar abierto y de vez en cuando se mueve o gira para mirar a su alrededor.
+2. Toda la Manada sale desde lejos a buscarlo. Cada lobato trata, a su manera, de acercarse al ciervo sin que lo vea: escondiéndose detrás de árboles o matas, agachándose, arrastrándose.
+3. En cuanto el ciervo ve a un lobato, lo señala y le indica que se ponga de pie: ese lobato falló y se queda parado donde está.
+4. Después de un rato, el Jefe grita «¡Tiempo!». Todos se paran en el lugar al que llegaron.
+
+**Cómo se gana:** gana el lobato que quedó más cerca del ciervo.
+
+**Pisar sin hacer ruido (variante del original):** el mismo juego sirve para aprender a pisar suave. Esta vez el árbitro tiene los ojos vendados, y conviene jugarlo en un lugar con ramitas secas, piedras o ripio en el suelo, que hacen ruido al pisarlos. Cada lobato, por turno, sale desde unos 90 metros y tiene que acercarse al «enemigo ciego» bastante rápido, en más o menos un minuto y medio. Cuando el árbitro oye un paso, lo dice y señala: el lobato queda frenado ahí. Gana el que llega más cerca del árbitro antes de que lo oigan.
 
 ## Cierre
 - ¿Qué técnica funcionó mejor para no ser visto?
@@ -170,16 +174,8 @@ The same game may be played to test Cubs in stepping lightly.
 The umpire is blindfolded. The practice is best carried out where there are dry twigs, stones, gravel, etc., lying about.
 Each Cub starts in turn to stalk the blind enemy, beginning at a point 100 yards away, and he must do it fairly fast — say, in one minute and a half. The Cub who succeeds in getting nearest to the umpire before being heard and stopped wins.
 
-**Versión en español:**
-
-**2. Acecho del ciervo.** El Jefe de Manada hace de ciervo: no se esconde, sino que se queda parado y de vez en cuando se mueve. Toda la Manada sale a buscar al ciervo; cada uno trata a su manera de llegar hasta él sin ser visto. En cuanto el ciervo ve a un lobato, le indica que se pare porque falló.
-Después de cierto tiempo, el Jefe grita "¡Tiempo!" y todos se paran en el lugar al que llegaron, y gana el más cercano al ciervo.
-El mismo juego se puede usar para probar a los lobatos en pisar suavemente.
-El árbitro tiene los ojos vendados. La práctica sale mejor donde hay ramitas secas, piedras, grava, etc., tiradas por el suelo.
-Cada lobato sale por turno a acechar al enemigo ciego, empezando desde un punto a unos 90 metros, y tiene que hacerlo bastante rápido, digamos en un minuto y medio. Gana el lobato que consigue llegar más cerca del árbitro antes de que lo oiga y lo frene.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -66,11 +67,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,19 +144,28 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Carrera de Puntos Cardinales!
+# Carrera de Puntos Cardinales
 
 ## Resumen
-Se marca un círculo con los ocho puntos de la rosa de los vientos, con una flecha en el norte (bien orientada con brújula). Un lobato se para en cada punto y uno queda afuera. Akela nombra dos puntos: esos dos cambian de lugar y el de afuera intenta ganarles uno. Antes, B-P explica cómo orientarse con la brújula y con el sol.
+Cómo enseñarles a los lobatos los puntos cardinales y un juego de corridas para practicarlos.
 
 ## Preparación
 1. Con una brújula, marcá un círculo grande con los ocho puntos (N, NE, E, SE, S, SO, O, NO) y una flecha en el norte.
 
 ## Desarrollo
-1. Explicá la brújula: la aguja siempre señala el norte; mirando al norte, el sur queda atrás, el este a la derecha y el oeste a la izquierda. Sin brújula, el sol sale por el este y se pone por el oeste.
-2. Un lobato en cada punto; uno queda afuera, en el centro.
-3. Akela nombra dos puntos ("¡Noreste y suroeste!"). Esos dos cambian de lugar corriendo, y el del centro intenta llegar antes a uno de los puntos libres.
-4. Quien se queda sin punto pasa al centro.
+**Lo que se explica primero:**
+1. Cuando a un scout lo mandan con un mensaje, muchas veces le dicen «andá hacia el norte» o «andá hacia el este». Así se orientan los marineros, los soldados y los scouts, por eso hay que saber los puntos cardinales.
+2. La brújula es como un reloj chiquito, pero con una sola aguja, que siempre apunta al norte. Si mirás hacia donde apunta la aguja, estás mirando al norte. Si das media vuelta, mirás al sur. El este y el oeste también son opuestos. Mirando al norte, el este queda a tu derecha y el oeste a tu izquierda.
+3. Sin brújula, el sol ayuda. El original trae un versito: «De todos los astros del cielo, el Sol es el mejor: sale por el Este y se pone por el Oeste». Si te levantás temprano y ves por dónde sale, sabés dónde está el este.
+4. Al mediodía, en Argentina, el sol está hacia el norte. (B-P escribía en Inglaterra, en el hemisferio norte, donde al mediodía el sol está hacia el sur.)
+5. Entre los cuatro puntos principales hay otros cuatro, fáciles de recordar: noreste (NE), sureste (SE), suroeste (SO) y noroeste (NO).
+
+**El juego:**
+1. Se marca un círculo grande en el suelo y, sobre él, los ocho puntos cardinales. El norte se marca con una punta de flecha.
+2. Se pone un lobato en cada punto, y uno más queda «afuera», sin lugar.
+3. El Akela grita dos puntos, por ejemplo «¡Noreste y Sur!».
+4. Los dos lobatos que están en esos puntos tienen que cambiarse de lugar corriendo.
+5. Mientras tanto, el que está afuera trata de llegar antes a uno de esos dos lugares libres. El original no dice qué pasa después; una opción es que, si lo logra, el que se quedó sin lugar pase a estar afuera para la ronda siguiente.
 
 ## Cierre
 - ¿Qué puntos les cuestan más?
@@ -179,22 +189,8 @@ Then halfway between each of the four main points there are four others which ar
 GAMES
 Compass running points. — Mark out a circle on the ground, and the eight points on it, the north being marked with the arrow head. Place a Cub at each point, and one "out." Akela calls out two points and the Cubs at those two points have to change places before the Cub who is "out" can reach one of the points.
 
-**Versión en español:**
-
-**LOS PUNTOS CARDINALES**
-Cuando te mandan con un mensaje o un despacho, muchas veces te van a decir que vayas en cierta dirección, como "Andá hacia el norte" o "Andá hacia el este". Así se guían siempre los marineros, los soldados y los scouts; así que tenés que tratar de aprender los puntos cardinales. La brújula es un cuadrante chiquito como un reloj, pero tiene una sola aguja, y esa aguja siempre señala el norte. Si mirás hacia donde señala la aguja, estás mirando al norte, y si después te das vuelta y mirás exactamente para el otro lado, estás mirando al sur. El sur está exactamente opuesto al norte, y el este exactamente opuesto al oeste. Cuando mirás al norte, el este te queda a la derecha y el oeste a la izquierda.
-Esos son los cuatro puntos cardinales: Norte, Sur, Este, Oeste.
-Si no tenés brújula, podés saber las distintas direcciones por el sol.
-De los astros del cielo, el Sol es el mejor;
-sale por el Este y se pone por el Oeste.
-Si te levantás temprano y ves por dónde sale, sabés dónde está el este. Al mediodía, el sol está justo al sur.
-Además, a mitad de camino entre cada uno de los cuatro puntos principales hay otros cuatro, que se recuerdan fácil: NE, SE, SO y NO.
-
-**JUEGOS**
-**Carrera de puntos cardinales.** Marcá un círculo en el suelo con los ocho puntos, señalando el norte con la punta de una flecha. Poné un lobato en cada punto y uno "afuera". Akela nombra dos puntos, y los lobatos de esos dos puntos tienen que cambiar de lugar antes de que el lobato que está "afuera" llegue a uno de los puntos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - exhibicion
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,20 +140,23 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Seguí al Líder!
+# Seguí al Líder
 
 ## Resumen
-Con muchos chicos, B-P lo propone como exhibición: todos en fila, al trote y de vez en cuando levantando las rodillas, con música, siguen al líder, que dibuja figuras. De noche, cada uno lleva un farolito en la punta de su bastón y se apagan las luces.
+Una exhibición de marcha para hacer con muchos chicos a la vez, por ejemplo en un acto o una fiesta del grupo: todos siguen en fila a un líder que va dibujando figuras con el recorrido.
 
 ## Desarrollo
-1. Formá una fila larga detrás del líder.
-2. El líder trota y dibuja figuras: espiral, giros en las esquinas, doble zigzag, molino.
-3. Variá con "rodillas arriba" y cambios de ritmo.
-4. Terminá antes de que se canse el grupo: B-P avisa que el error más común es alargarlo demasiado.
+1. Los chicos se forman en una fila larga, uno detrás del otro, detrás del líder.
+2. El líder arranca a un trote suave y los demás lo siguen exactamente por donde pasa. De vez en cuando hace «rodillas arriba» (trotar levantando bien las rodillas) y todos lo imitan.
+3. Se acompaña con música.
+4. El líder va armando figuras con la fila. Entre las más vistosas que da el original están: la espiral (la fila se va enrollando hacia el centro y después se desenrolla), los giros en las esquinas y el doble zigzag, y el molino (la fila gira como las aspas de un molino).
+5. También se puede hacer de noche, con cada chico llevando un farol a pilas en la punta de su bastón. Si es adentro de un edificio, se apagan todas las luces y solo se ven los faroles moviéndose.
 
-> **Nota para el educador:** es ideal para cerrar un fogón o abrir una velada con la Manada.
+**Consejo del original:** el error más común es estirar el ejercicio demasiado, hasta que se cansan el público y los que marchan. Conviene cortarlo mientras todavía está lindo.
 
-> **Nota de seguridad:** de noche, nada de velas con fuego: usá farolitos de LED o linternas. Terreno sin pozos.
+## Cierre
+- ¿Qué figura salió mejor? ¿Cuál costó más?
+- ¿Qué tiene que hacer cada uno para que la fila no se corte?
 
 ## Texto original completo de la actividad
 
@@ -165,12 +172,8 @@ performers. Among the most effective figures are the following:
 
 zig-zag.]
 
-**Versión en español:**
-
-**"SEGUIR AL LÍDER."** Con una gran cantidad de chicos, esto se puede convertir en una exhibición muy vistosa, y es fácil de hacer: a trote suave, y de vez en cuando con "rodillas arriba", con acompañamiento musical. También se puede hacer de noche, con cada chico llevando un farolito chino en la punta de su bastón. Si es en un edificio, por supuesto, se apagarían todas las luces. Un error habitual es mantener el ejercicio demasiado tiempo, hasta que cansa al público y a los participantes. Entre las figuras más vistosas están las siguientes: [ilustraciones: la espiral; giro en las esquinas y doble zigzag; el molino].
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contrabandistas en la Frontera"
+title: "Contrabandistas por la Frontera"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contrabandistas-en-la-frontera/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,10 +141,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Contrabandistas en la Frontera!
+# Contrabandistas por la Frontera
 
 ## Resumen
-La "frontera" es un camino de tierra o arena donde las huellas se ven bien. Una patrulla la vigila. La otra patrulla, los contrabandistas, cruza toda junta o dispersa hacia la "ciudad". Solo uno lleva la carga, y tiene una suela distinta. Cuando un centinela ve su huella, da la alarma y todos lo persiguen.
+Un juego de rastreo entre dos patrullas: unos vigilan una frontera y los otros la cruzan; entre ellos hay un contrabandista que deja huellas especiales y hay que seguirlo.
 
 ## Preparación
 1. Marcá la frontera (unos 400 m), la ciudad (a unos 800 m de la frontera) y el punto de partida de los contrabandistas del otro lado.
@@ -148,10 +152,20 @@ La "frontera" es un camino de tierra o arena donde las huellas se ven bien. Una 
 3. La patrulla guardiana pone centinelas en la frontera y una reserva a mitad de camino.
 
 ## Desarrollo
-1. Los centinelas caminan por su tramo y no pueden correr hasta que haya alarma.
-2. Los contrabandistas cruzan como quieran: juntos, separados, caminando o corriendo.
-3. Cuando un centinela ve la huella marcada, toca el silbato y empieza a seguirla. La reserva se suma.
-4. Si atrapan al contrabandista antes de que llegue a la ciudad, ganan los guardianes. Si llega, gana él.
+**El terreno:**
+- La «frontera» es una franja de unos 350 a 400 metros de largo donde las huellas se vean bien: un camino de tierra, un sendero ancho o un trecho de arena.
+- El «pueblo» es la base a la que quieren llegar los contrabandistas. Está a unos 800 metros de la frontera y se marca con árboles, construcciones o banderines.
+
+**Desarrollo:**
+1. Una patrulla vigila la frontera. Pone centinelas a lo largo del camino, y el resto queda de reserva a mitad de camino entre la frontera y el pueblo.
+2. La otra patrulla, los contrabandistas, se junta a unos 800 metros del otro lado de la frontera.
+3. Solo uno de ellos es el contrabandista de verdad, y lleva en los pies algo que deja una huella especial que se reconoce (el original habla de «hierros de rastreo», unas piezas que se ataban a la suela). Puede ser, por ejemplo, una tablita o una suela con un dibujo propio atada al calzado. Los centinelas saben cómo es esa huella, pero no saben quién la lleva.
+4. Los contrabandistas cruzan la frontera como quieran: de a uno, todos juntos o desparramados, caminando, corriendo o a «paso scout» (alternando unos pasos corriendo y otros caminando). Todos tratan de llegar al pueblo.
+5. Los centinelas caminan de un lado a otro de su tramo mirando el suelo. No pueden correr hasta que se dé la alarma.
+6. Apenas un centinela ve la huella del contrabandista, le hace la señal de alarma a la reserva y sale a seguir el rastro lo más rápido que puede. La reserva se suma para cortarle el paso.
+7. Para atraparlo, hay que tocarlo antes de que llegue al pueblo.
+
+**Cómo se gana:** si el contrabandista entra al pueblo sin que lo toquen, está a salvo y gana su patrulla. Si lo atrapan antes, gana la patrulla de la frontera.
 
 ## Cierre
 - ¿Cómo se repartieron la vigilancia?
@@ -186,14 +200,8 @@ thereupon co-operate with them and try to catch the smuggler before he
 can reach the town. Once within the boundary of the town he is safe and
 wins the game.
 
-**Versión en español:**
-
-**"CONTRABANDISTAS EN LA FRONTERA."**
-
-La "frontera" es una franja de terreno de unas cuatrocientas yardas de largo, preferentemente un camino, un sendero ancho o un pedazo de arena, donde las huellas se ven fácilmente. Una patrulla vigila la frontera con centinelas apostados a lo largo del camino y una reserva más hacia adentro, más o menos a mitad de camino entre la "frontera" y la "ciudad". La "ciudad" es una base marcada con árboles, edificios o banderas, etc., a una media milla de la frontera. Una patrulla enemiga de contrabandistas se reúne a una media milla del otro lado de la frontera. Todos cruzan la frontera en la formación que quieran, de a uno o juntos o dispersos, y se dirigen a la ciudad caminando, corriendo o a paso scout. Se supone que solo uno de ellos lleva contrabando, y usa hierros de rastreo, así que los centinelas caminan por su tramo (no pueden correr hasta después de la "alarma") esperando las huellas del contrabandista. Apenas un centinela ve la huella, da la señal de alarma a la reserva y empieza a seguir el rastro lo más rápido que puede. La reserva colabora con ellos y trata de atrapar al contrabandista antes de que llegue a la ciudad. Una vez dentro de los límites de la ciudad, está a salvo y gana el juego.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

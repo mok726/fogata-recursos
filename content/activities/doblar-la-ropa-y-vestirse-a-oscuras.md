@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Doblar la Ropa y Vestirse a Oscuras"
+title: "Doblar la Ropa"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/doblar-la-ropa-y-vestirse-a-oscuras/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,16 +146,20 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Doblar la Ropa y Vestirse a Oscuras!
+# Doblar la Ropa
 
 ## Resumen
-El lema "Siempre Listos" vale también para la ropa: B-P cuenta que soldados, marineros, bomberos y policías la dejan doblada y en orden para encontrarla a oscuras y vestirse rápido. Además, doblar bien permite guardar todo en poco lugar, algo que hace falta para el campamento.
+Una charla y práctica para que los lobatos aprendan a doblar y ordenar su ropa, y a vestirse rápido aunque esté oscuro.
 
 ## Desarrollo
-1. Cuenten por qué los bomberos dejan la ropa lista antes de dormir.
-2. Cada equipo dobla su muda y la apila en el orden en que se la va a poner (lo que va primero, arriba).
-3. Carrera: un lobato por equipo, con los ojos vendados, se pone la muda encima de su ropa lo más rápido posible. Después prueban con una pila desordenada y comparan el tiempo.
-4. Segundo desafío: guardar la muda doblada en una mochila chica. ¿Quién la hace entrar toda?
+B-P lo relaciona con el lema scout, «Siempre Listos»: estar preparado para cumplir con tu deber a cualquier hora del día o de la noche.
+
+1. **La idea.** Los bomberos, los soldados, los marineros y todos los que pueden tener que salir de golpe en mitad de la noche dejan su ropa ordenada en un lugar fijo. Así la encuentran enseguida, aun a oscuras, y se visten rápido. Los lobatos y los scouts tienen que hacer lo mismo: doblar la ropa y apilarla en el orden en que se la van a poner (lo primero que te ponés, arriba).
+2. **La práctica.** Cada uno practica algunas veces saltar de la cama y vestirse a oscuras. Enseguida se van a dar cuenta de cuánto más rápido es cuando la ropa está lista, en vez de tener que buscarla en medio del desorden. B-P dice que algún día eso puede servir para salvar una vida.
+3. **Doblar chiquito.** Los soldados y los marineros tienen que guardar todas sus cosas (ropa, cepillo, jabón y demás) en una mochila o bolsa muy chica. Para que entre todo, doblan cada prenda muy prolija y apretada. En el campamento pasa lo mismo: hay que saber doblar y guardar todo en poco espacio. Se puede practicar armando una mochila.
+4. **La costumbre.** No se puede hacer bien si no tenés la costumbre, así que conviene doblar siempre la ropa también en casa.
+
+B-P agrega dos razones más: la ropa bien cuidada dura más y queda mejor puesta, y si estás lejos de casa y necesitás que te manden algo, podés decir exactamente dónde está, porque tenés tu cuarto ordenado.
 
 ## Cierre
 - ¿Qué diferencia hubo entre la pila ordenada y la desordenada?
@@ -178,22 +183,8 @@ You cannot do this well unless you are in the habit of always folding your thing
 And it is good for the clothes. They keep in much better condition, and they look much better on you when they have been carefully kept in this way.
 Also, if you should be away from home, and you want one or other of your things sent to you, you can tell other people exactly where to find them when you have everything in good order in your own room.
 
-**Versión en español:**
-
-**DOBLAR LA ROPA**
-El lema del Scout es "Siempre Listos", que quiere decir estar listo para cumplir con tu deber a cualquier hora del día o de la noche.
-Los soldados y los marineros, los bomberos y los policías, y todos los que tienen que estar listos para salir a cualquier hora de la noche, se acostumbran a dejar la ropa bien ordenada en su lugar, para encontrarla enseguida, aun a oscuras, y ponérsela rápido.
-Los Scouts y los Lobatos tienen que hacer lo mismo, y cuidar de doblarla y apilarla en el orden en que se la van a poner.
-Tendrías que practicar algunas veces saltar de la cama y ponerte la ropa a oscuras, y vas a ver enseguida cuánto más rápido lo hacés si la tenés lista, en vez de tener que buscarla en medio del desorden.
-Algún día eso puede servir para salvar una vida.
-Además, los marineros y los soldados tienen que guardar su ropa en muy poco espacio. Un soldado, como sabés, lleva en la espalda, en su mochila, una muda de ropa y toda clase de otras cosas, como cepillos, navajas, jabón, etc. Para que todo entre en tan poco lugar, tienen que doblar cada prenda muy prolija y muy apretada; si no, no entra.
-Así que, si vas a ir de campamento, vas a tener que saber doblar y guardar tus cosas de la misma manera, en poco espacio.
-No lo vas a poder hacer bien si no tenés la costumbre de doblar siempre tus cosas con prolijidad, así que tendrías que hacerlo con tu ropa en tu casa.
-Y es bueno para la ropa. Se conserva mucho mejor, y te queda mucho mejor cuando la cuidaste así.
-También, si estás lejos de casa y querés que te manden alguna de tus cosas, podés decirles exactamente dónde encontrarla si tenés todo bien ordenado en tu cuarto.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

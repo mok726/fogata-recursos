@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Preparar y Encender un Fuego"
+title: "Encender Fuegos"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preparar-y-encender-un-fuego/"
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -73,11 +74,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -150,17 +151,27 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Preparar y Encender un Fuego!
+# Encender Fuegos
 
 ## Resumen
-B-P dice que el fuego al aire libre es para cuando sean Scouts y que, hasta entonces, en las exploraciones conviene dejárselo a un Viejo Lobo; pero que los lobatos sí pueden practicar a preparar y encender el fuego de la casa. Primero se limpia el hogar y se separan los carbones a medio quemar de la ceniza. Los principiantes ponen mucho papel, poca madera y mucho carbón; él propone bollos sueltos de papel, ramitas secas armadas "como ladrillos" para que entre aire, trozos chicos de carbón puestos con la mano, encender con un solo fósforo y no irse hasta que prenda bien.
+Un texto de B-P para que los lobatos aprendan a armar y encender un fuego dentro de casa, en un hogar o una estufa a leña. El fuego al aire libre, aclara el original, lo van a aprender cuando sean scouts; mientras tanto, en las salidas lo enciende un dirigente.
 
 ## Desarrollo
-1. Limpiar el hogar: sacar la ceniza vieja y barrer.
-2. Separar la ceniza de los carbones a medio quemar con una rejilla, como hacía B-P: la ceniza se tira y los carbones se guardan para el fuego.
-3. Armar el fuego: bollos y tiras sueltas de papel abajo (sin exagerar), encima ramitas secas bien armadas para que no se aplasten y dejen pasar el aire, y después trozos chicos de carbón o leña puestos con la mano.
-4. Encender el papel a lo largo de la base con un solo fósforo. ¡Nadie se va hasta que la madera y el carbón hayan prendido bien! Recién entonces se agrega más combustible y los carbones que se guardaron.
-5. Si la leña está húmeda, probar los trucos de B-P: virutas de un palito seco o un papel manteca usado.
+**1. Limpiá el hogar.** Sacá las cenizas del fuego anterior y barré bien. Pero no tires todo: separá los pedazos de carbón o de leña a medio quemar y tirá solo la ceniza en polvo. Esos restos, mezclados con el combustible nuevo, dan mucho calor y ahorran plata. El truco del original: si no tenés un tamiz, usá una rejilla de alambre; echá las cenizas encima, dejá que la ceniza fina pase para tirarla y guardá los pedazos que quedan arriba.
+
+**2. Armá bien el fuego.** Si lo armás mal no prende y hay que hacer todo de nuevo. El error típico de los principiantes es poner demasiado papel, muy poca leña fina y demasiado combustible grueso. Hay que empezar con poco, porque el peso de lo grueso aplasta el fuego y lo ahoga.
+1. Rompé un diario y hacé bollos flojos y tiras largas retorcidas. Ponelos en el fondo, sin exagerar con el papel.
+2. Encima poné, muy livianas, ramitas secas (las de madera blanda son las mejores). Acomodalas firmes, como si construyeras con ladrillos, para que no se desarmen cuando pongas lo más grueso y para que quede mucho espacio por donde entre el aire.
+3. Agregá pedazos chicos de carbón o leña, de a uno y con la mano. No eches el combustible con la pala ni pongas polvo o restos al principio.
+
+**3. Encendelo y vigilalo.** Prendé el papel a lo largo de todo el fondo, con un solo fósforo. Quedate mirando hasta que la leña haya prendido bien: no te vayas esperando que salga solo. Cuando ya arde bien, podés agregar más combustible y los restos que separaste de las cenizas viejas.
+
+**Si tenés que encenderlo con leña húmeda o material malo** (un lobato no se tiene que dejar vencer):
+- Conseguí aunque sea un pedacito de madera seca y cortalo en virutas, como hace un scout para encender un fuego al aire libre.
+- Empezá un fuego bien chico, con papel, virutas y unas ramitas. Cuando prenda, vas agregando ramas y combustible de a poco.
+- Un cabo de vela ayuda, pero es un desperdicio y hace mal olor.
+- El papel manteca en el que venía envuelta la manteca prende muy lindo: vale la pena guardarlo para esto.
+- El original también menciona el papel manchado de querosén, pero avisa que se prende de golpe, y que nunca hay que echar querosén al fuego.
 
 ## Cierre
 - ¿Qué pasó en los fuegos que no prendieron? ¿Mucho papel, poca madera, mucho peso?
@@ -187,23 +198,8 @@ Beginners generally put too much paper, too little wood, and too much coal on at
 Tear up a newspaper and roll into loose balls and long, loose screws, and lay these in the bottom of the grate — but don't use too much paper. Get some dry sticks — white wood is best — and lay these very lightly on the paper; build them up firmly (as if you were building with bricks), so that they will not fall in and crush down when the coal is added, but will allow plenty of air to get in.
 Now add small pieces of coal, putting them on carefully with your fingers. Don't shovel coal on, or put on dust and cinders to start with. When all is ready, set fire to the paper all along the bottom of the grate — using one match. Watch your fire until it is burning up well, and the wood has caught — don't go away and hope for the best! Once the wood and coal are well alight you can add coal with the shovel, and also the cinders you picked out of the old ashes. But it is possible you may be expected, at times, to light a fire with damp wood or hard old pea-sticks, bad coal, coke and cinders, in a bad fireplace. This is difficult, but a Cub must not let himself be beaten. Here are a few tips. Try and get hold of just one little piece of dry wood. Cut this up into shavings, as a Scout does to light a fire in the open. Start quite a small fire, with paper and your shavings and a few sticks; this is sure to catch, and you can add sticks and coal gradually. A candle end is, of course, a help — but one doesn't expect a Cub to have to use that — it is wasteful, for one thing, and makes a beastly smell! A very good tip is to get hold of the grease-proof paper the butter or margarine has been wrapped in — that starts a lovely blaze; it is really worth saving it up for the job! Or old paper the paraffin oil can has been standing on is very good — but take care, as it blazes up very easily, and never pour paraffin on the fire.
 
-**Versión en español:**
-
-**ENCENDER FUEGOS**
-Es mucho más divertido encender un fuego al aire libre que adentro, y algún día, cuando seas Scout, vas a aprender a hacerlo bien. Hasta entonces, mejor dejáselo a uno de los Viejos Lobos cuando salgan de exploración.
-Pero preparar y encender un fuego adentro requiere práctica, si se quiere que arda rápido y bien, así que eso lo podés practicar mientras sos lobato.
-Antes que nada, tenés que limpiar la parrilla de la estufa, sacar las cenizas del fuego anterior y barrer bien el hogar.
-Mucha gente desperdicia bastante combustible tirando los carbones a medio quemar. Tendrías que separar todos esos carbones y tirar solo la ceniza en polvo.
-Los carbones a medio quemar mezclados con carbón nuevo dan mucho calor extra y ahorran plata.
-Te paso un truco que uso para separar la ceniza de los carbones.
-Si no tenés un tamiz, usá una rejilla vieja de alambre de las que protegen la estufa. Echá con la pala todas las cenizas encima, dejá que la ceniza pase para tirarla a la basura y guardá los carbones que quedan para el fuego.
-Al armar el fuego, tené mucho cuidado de hacerlo bien; si no, no va a prender y vas a tener que armarlo todo de nuevo.
-En general, los principiantes ponen al principio demasiado papel, muy poca madera y demasiado carbón. Para empezar hace falta poca cantidad, sobre todo de carbón, porque su peso aplasta el fuego y lo ahoga.
-Rompé un diario y hacé bollos sueltos y tiras largas retorcidas, y ponelos en el fondo de la parrilla, pero sin usar demasiado papel. Conseguí unas ramitas secas —la madera blanca es la mejor— y ponelas muy livianas sobre el papel; armalas firmes (como si construyeras con ladrillos), para que no se caigan ni se aplasten cuando agregues el carbón, y para que entre mucho aire.
-Ahora agregá trozos chicos de carbón, poniéndolos con cuidado con los dedos. No eches carbón con la pala ni pongas polvo ni carbonilla al principio. Cuando todo esté listo, prendé el papel a lo largo de todo el fondo de la parrilla, usando un solo fósforo. Vigilá el fuego hasta que arda bien y la madera haya prendido: ¡no te vayas esperando que todo salga bien! Una vez que la madera y el carbón estén bien encendidos, podés agregar carbón con la pala, y también los carbones que separaste de las cenizas viejas. Pero puede pasar que alguna vez tengas que encender un fuego con leña húmeda o ramas viejas y duras, carbón malo, coque y carbonilla, en una mala estufa. Es difícil, pero un lobato no se tiene que dejar vencer. Te doy algunos consejos. Tratá de conseguir aunque sea un pedacito de madera seca. Cortalo en virutas, como hace un Scout para encender un fuego al aire libre. Empezá un fuego bien chico, con papel, tus virutas y unas ramitas; seguro que va a prender, y podés ir agregando ramas y carbón de a poco. Un cabo de vela, claro, ayuda, pero no se espera que un lobato tenga que usarlo: para empezar, es un desperdicio, ¡y hace un olor horrible! Un muy buen truco es conseguir el papel manteca en que venía envuelta la manteca o la margarina: hace una llama hermosa; ¡vale la pena guardarlo para eso! También sirve mucho el papel viejo sobre el que estuvo apoyada la lata de querosén, pero cuidado, porque se prende muy fácil, y nunca eches querosén al fuego.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

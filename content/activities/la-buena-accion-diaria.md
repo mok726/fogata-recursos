@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - buena-accion
   - habitos
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,19 +143,22 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡La Buena Acción Diaria!
+# La Buena Acción Diaria
 
 ## Resumen
-Tres prácticas de B-P para que la buena acción diaria se vuelva costumbre:
-1. **El nudo:** cada mañana, un nudo en la punta del pañuelo, que se desata recién después de hacer la buena acción del día.
-2. **Pequeñas ayudas:** cosas simples al alcance de todos: sacar cáscaras resbalosas de la vereda, cerrar tranqueras, no pisar cultivos, ayudar a personas mayores a cargar cosas, juntar papeles de la calle.
-3. **Un invitado:** que cada scout traiga a la reunión, como invitado, a un chico que nadie conozca, para que juegue y escuche historias.
+Ideas de B-P para que la buena acción de todos los días se vuelva un hábito, y una propuesta para traer a alguien nuevo a la reunión.
 
 ## Desarrollo
-1. Explicá el nudo y empiecen esa misma semana.
-2. Hagan entre todos una lista de buenas acciones posibles en su barrio.
-3. Cada tanto, una ronda breve para contar (sin obligar) qué hicieron.
-4. Programen una reunión de puertas abiertas con invitados.
+**Buenas acciones chicas que se pueden hacer siempre** (las del original, adaptadas a hoy):
+- Echar arena o tierra donde el piso está congelado o resbaloso, para que nadie se caiga.
+- Sacar de la vereda las cáscaras de naranja o de banana, porque hacen resbalar a la gente.
+- En el campo, no dejar tranqueras abiertas, no dañar alambrados ni cercos y no caminar por encima de los sembrados.
+- Ayudar a las personas mayores a llevar cosas pesadas hasta su casa (el original habla de acarrear agua o leña).
+- Ayudar a mantener limpia la calle juntando papeles.
+
+**Cómo se usa en el grupo:**
+1. El dirigente les propone a todos los scouts que cada mañana se hagan un nudo en la punta de la pañoleta. El nudo es un recordatorio: no se desata hasta haber hecho la buena acción del día. Se sigue así hasta que hacer una buena acción todos los días ya les salga solo.
+2. Otra vez, el dirigente le pide a un scout que traiga como invitado a la reunión a un chico o una chica que no conoce a nadie del grupo, para que juegue en los juegos y escuche las historias de campamento.
 
 ## Cierre
 - ¿Qué buena acción les costó más? ¿Cuál notó alguien?
@@ -176,16 +183,8 @@ habit with him._
 _Make a scout bring in a boy, who is a total stranger, as his guest for
 the evening to play in club games, and hear camp yarns, etc._
 
-**Versión en español:**
-
-Otras formas de hacer buenas acciones son cosas chicas como estas: echar arena en un camino helado donde los caballos pueden resbalar; sacar las cáscaras de naranja o de banana de la vereda, porque pueden hacer caer a la gente; no dejar tranqueras abiertas, no dañar cercos ni caminar sobre los cultivos en el campo; ayudar a las personas mayores a sacar agua o a llevar leña a sus casas; ayudar a mantener limpias las calles juntando papeles.
-
-Hacé que cada scout se haga un nudo en la corbata todas las mañanas como recordatorio para cumplir con su idea de hacer una buena acción cada día, hasta que se le vuelva un hábito.
-
-Hacé que un scout traiga a un chico totalmente desconocido como invitado a la reunión, para que juegue en los juegos del grupo, escuche historias de campamento, etc.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

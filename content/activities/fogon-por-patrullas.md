@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - fogon
   - campamento
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -142,15 +146,16 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Fogón por Patrullas!
+# Fogón por Patrullas
 
 ## Resumen
-Alrededor del fogón se pueden hacer canciones, recitados y pequeñas obras. B-P pide dos cosas: que **todos** aporten algo, se crean artistas o no, y que cada noche del campamento una patrulla distinta esté a cargo del programa, así lo prepara durante el día.
+Una forma de organizar los fogones de un campamento para que todos participen.
 
 ## Desarrollo
-1. Antes del campamento, asigná una noche a cada patrulla.
-2. Durante el día, la patrulla de turno prepara el programa y reparte qué hace cada uno.
-3. A la noche, la patrulla conduce el fogón. Todos aportan algo, aunque sea chico.
+1. Alrededor del fogón se presentan canciones, recitados, pequeñas obras de teatro y otros números.
+2. Cada scout tiene que aportar algo al programa, se crea artista o no. Nadie queda solo de espectador.
+3. A cada patrulla se le asigna una noche del campamento para que se encargue de armar la función de esa noche.
+4. Así cada patrulla sabe de antemano cuándo le toca y puede preparar sus números con tiempo.
 
 ## Cierre
 - ¿Qué fue lo mejor del fogón? ¿Qué cambiarían para la próxima?
@@ -169,12 +174,8 @@ programme, whether he thinks he is a performer or not. A different
 patrol may be told off for each night of the week to provide for the
 performance; they can thus prepare it beforehand.
 
-**Versión en español:**
-
-Alrededor del fogón se pueden presentar canciones, recitados, pequeñas obras, etc., y a todo scout hay que hacerlo contribuir con algo al programa, se crea artista o no. Se puede asignar una patrulla distinta a cada noche de la semana para que prepare la función; así la pueden preparar de antemano.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

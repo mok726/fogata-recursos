@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ropa en Llamas"
+title: "Cómo Salvar a una Persona que se Está Quemando"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ropa-en-llamas/"
@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -147,16 +148,26 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Ropa en Llamas!
+# Cómo Salvar a una Persona que se Está Quemando
 
 ## Resumen
-B-P explica que el fuego no puede seguir sin aire: si a alguien se le prende la ropa, hay que taparlo enseguida y bien apretado con un saco, una frazada o una alfombra. Si la persona corre, el fuego se aviva; hay que hacerla acostar, envolverla y apagar el fuego, y después ir a buscar ayuda. En las prácticas pedía simular la alarma y que cada chico lo hiciera de verdad para que le quedara grabado.
+Una práctica de B-P para que los lobatos sepan qué hacer si a alguien se le prende fuego la ropa, y la tengan tan ensayada que les salga sola.
 
 ## Desarrollo
-1. Expliquen por qué correr aviva el fuego (más aire) y por qué taparlo lo apaga (sin aire).
-2. Practiquen la regla de hoy: **Pará, tirate y rodá**, tapándote la cara con las manos. Cada uno se cuelga cintas "llama" y rueda sobre el pasto hasta que se le caigan.
-3. Simulacro como proponía B-P: el educador da la alarma, "¡fuego en la ropa de Juan!". Juan para y se tira; un compañero lo cubre con la manta desde el cuello hacia los pies (para alejar las llamas de la cara) y otro corre a buscar a un adulto.
-4. Roten hasta que todos hayan hecho cada papel.
+**La idea:** el fuego no puede seguir sin aire. Cuanto más aire o viento recibe, más fuerte arde. Por eso, si alguien se prende fuego y sale corriendo, las llamas crecen enseguida.
+
+**Qué hacer, según el original:**
+
+1. Lo primero es hacer que la persona se tire al suelo y no corra.
+2. Enseguida se la tapa lo más rápido y lo más apretado posible con lo que haya a mano: una campera, una frazada o una alfombra, y se la envuelve para ahogar el fuego.
+3. Después se va a buscar ayuda.
+
+**La práctica:**
+
+1. Sin aviso, el dirigente da la alarma: «¡A tal chico se le prendió la ropa!». No hay fuego de verdad, es un simulacro.
+2. Los lobatos que están cerca hacen que se acueste y lo envuelven con lo más cercano que encuentren: una frazada, una campera, las camperas de otros chicos, una alfombra.
+3. Que cada lobato lo practique haciéndolo como si fuera de verdad: B-P dice que es la manera de que se les grabe en la cabeza y en la memoria.
+4. El original terminaba la práctica atendiendo al «paciente» como si tuviera una quemadura y limpiando y vendando un dedo cortado. Hoy se enseña distinto: consultá un curso de primeros auxilios vigente.
 
 ## Cierre
 - ¿Qué es lo primero que hay que hacer? ¿Y lo que nunca hay que hacer?
@@ -178,18 +189,8 @@ Have an alarm that one boy is on fire: roll him up in nearest material available
 Practise each boy at doing the thing as being the real way to impress it on their minds and memories.
 Treat the patient as for a burn. Clean and bandage cut finger.
 
-**Versión en español:**
-
-**CÓMO SALVAR A UNA PERSONA QUE SE ESTÁ QUEMANDO**
-Si ves que a alguien se le prende fuego la ropa, acordate de que lo primero que hay que hacer es taparlo lo más rápido y lo más apretado posible con tu saco, una frazada o una alfombra. El fuego no puede seguir sin aire; cuanto más aire o viento le des, mejor arde.
-Si una persona a la que se le prendió la ropa empieza a correr, el fuego se aviva enseguida. Tenés que hacerla acostar, envolverla enseguida y bien apretada en una frazada, y ahogar el fuego. Después, andá a buscar ayuda.
-**PRÁCTICAS**
-Den la alarma de que a un chico se le prendió fuego la ropa: envuélvanlo con lo que tengan más a mano, una frazada, un saco o las camperas de otros chicos, una alfombra, etc.
-Que cada chico practique haciéndolo como si fuera de verdad, que es la manera de que se le grabe en la cabeza y en la memoria.
-Traten al paciente como si tuviera una quemadura. Limpien y venden un dedo cortado.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

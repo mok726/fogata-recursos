@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -66,11 +67,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,21 +142,27 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Juego de las Banderas!
+# El Juego de las Banderas
 
 ## Resumen
-Cada seisena dibuja tarjetas con banderas o partes de banderas, y algunas falsas. En relevos, cada lobato corre, mira una tarjeta y la deja en el casillero que corresponde. Al final, Akela revisa y ve qué seisena acertó más.
+Una carrera de postas entre seisenas para repasar lo que aprendieron sobre la bandera.
 
 ## Preparación
 1. En el original, las tarjetas tienen las cruces que forman la bandera británica (Inglaterra, Escocia, Irlanda) más dibujos falsos. Elegí una versión local: por ejemplo, la bandera nacional y las de provincias o países vecinos, o los distintos símbolos patrios.
 2. Que cada seisena dibuje antes su juego de tarjetas (eso ya es parte de la actividad).
 
 ## Desarrollo
-1. Cada seisena forma en fila. Frente al seisenero, las tarjetas mezcladas boca abajo.
-2. Al otro extremo, frente a cada seisena, marquen cuatro casilleros con tiza: tres con los nombres de las banderas elegidas y uno que dice "Falsa".
-3. A la voz de "¡Ya!", el seisenero corre, toma la tarjeta de arriba, la mira, la deja en el casillero que cree correcto, vuelve y toca al siguiente.
-4. Siguen hasta que todas las tarjetas están en los casilleros.
-5. Akela revisa y decide qué seisena jugó mejor.
+En el original, los lobatos antes fabricaron unas tarjetas con dibujos de las partes de la bandera británica: la cruz de Inglaterra, la de Escocia y la de Irlanda, más algunas tarjetas «falsas» con dibujos que no corresponden a ninguna. Con esas tarjetas se juega.
+
+1. Cada seisena (el grupito de seis lobatos) recibe un paquete de tarjetas mezcladas.
+2. Las seisenas se forman en fila india. Las tarjetas se ponen boca abajo, en pila, delante del seisenero, que es el primero de la fila.
+3. En el otro extremo del local, frente a cada seisena, se dibujan con tiza cuatro casilleros en el piso: en el original se llaman Inglaterra, Escocia, Irlanda y «Falsa».
+4. A la voz de «¡Ya!», el seisenero sale corriendo con la tarjeta de arriba, la mira, la deja en el casillero que le corresponde y vuelve corriendo a tocar al siguiente de la fila.
+5. El siguiente hace lo mismo, y así hasta que todas las tarjetas quedan en los casilleros.
+
+**Cómo se gana:** al final, Akela (el dirigente) revisa los casilleros de cada seisena, cuenta cuántas tarjetas están bien puestas y decide cuál jugó mejor.
+
+**Para nosotros:** las tarjetas y los casilleros se pueden armar con lo que la Manada esté aprendiendo sobre la Bandera Argentina y otras banderas (por ejemplo: Bandera Argentina, bandera de la provincia, bandera del grupo y «Falsa»), siempre con un casillero para las tarjetas falsas.
 
 ## Cierre
 - ¿Qué banderas conocían y cuáles aprendieron hoy?
@@ -171,13 +178,8 @@ Cada seisena dibuja tarjetas con banderas o partes de banderas, y algunas falsas
 THE FLAG GAME
 When you have finished these cards, you can play a game with them with the other Sixes. Each Six has a packet of the cards, which are shuffled up into any order. The Sixes get into file, and the cards are put in front of the Sixer, face downwards. At the other end of the Den, four squares are chalked on the floor opposite each Six. One is called England, another Scotland, another Ireland, and the fourth is called "Sham." On the word "Go," the Sixer runs out, picks up the top card, looks at it, takes it to the squares and puts it in whichever square he thinks is the right one. He then runs back and touches the next Cub, who does just the same thing. This goes on until all the cards are in the squares. Then I expect Akela will look at the cards and see whether you have all put them in the right squares, and will decide which Six played best.
 
-**Versión en español:**
-
-**EL JUEGO DE LAS BANDERAS**
-Cuando terminen estas tarjetas, pueden jugar un juego con ellas con las otras seisenas. Cada seisena tiene un paquete de tarjetas, que se mezclan en cualquier orden. Las seisenas forman en fila, y las tarjetas se ponen boca abajo delante del seisenero. En el otro extremo del local se dibujan con tiza en el piso cuatro casilleros frente a cada seisena. Uno se llama Inglaterra, otro Escocia, otro Irlanda y el cuarto se llama "Falsa". A la voz de "¡Ya!", el seisenero sale corriendo, toma la tarjeta de arriba, la mira, la lleva a los casilleros y la pone en el que cree correcto. Después vuelve corriendo y toca al siguiente lobato, que hace exactamente lo mismo. Así siguen hasta que todas las tarjetas están en los casilleros. Después, supongo, Akela mirará las tarjetas, verá si las pusieron todas en los casilleros correctos y decidirá qué seisena jugó mejor.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

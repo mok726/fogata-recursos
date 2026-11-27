@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - fuerza
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -135,17 +139,34 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Juegos de Fuerza!
+# Juegos de Fuerza
 
 ## Resumen
-Dos juegos que B-P propone para desarrollar la fuerza:
-- **La Lucha:** dos jugadores, frente a frente, entrelazan los dedos con los brazos abiertos, apoyan pecho contra pecho y empujan hasta llevar al otro contra la pared o detrás de una línea.
-- **Empuje de Muñecas:** solo, cruzando las muñecas y empujando una contra la otra; o de a dos, muñeca contra muñeca, tratando de girar al otro hacia atrás.
+Dos ejercicios de fuerza que propone B-P, uno de a dos y otro que se puede hacer solo o en pareja.
 
 ## Desarrollo
-1. Formá parejas de tamaño y fuerza parecidos.
-2. Empiecen con duelos muy cortos y vayan alargando con los días.
-3. El empuje de muñecas en solitario se hace un minuto por vez, varias veces al día.
+**La lucha (de a dos):**
+
+1. Dos jugadores se paran frente a frente, a un metro más o menos.
+2. Extienden los brazos a los costados y se toman de las manos, entrelazando los dedos.
+3. Se inclinan uno hacia el otro hasta que se tocan los pechos.
+4. Empujan pecho contra pecho, tratando de hacer retroceder al otro hasta la pared de la habitación o hasta una línea marcada en el piso.
+
+**Cómo se gana:** gana el que lleva al otro hasta la pared o la línea.
+
+B-P cuenta que al principio basta una lucha muy corta para quedar agitado, pero con unos días de práctica se aguanta mucho más.
+
+**Empuje de muñecas (solo):**
+
+1. Parate con los dos brazos hacia adelante, más o menos a la altura de la cintura.
+2. Cruzá las muñecas, de modo que una mano quede con los nudillos hacia arriba y la otra con los nudillos hacia abajo. Cerrá los puños.
+3. La mano de abajo empuja hacia arriba y la de arriba empuja hacia abajo, las dos lo más fuerte que puedas.
+4. Después de mucha resistencia, dejá que la de abajo vaya subiendo a la de arriba hasta la altura de la frente.
+5. Después dejá que la de arriba vaya bajando a la de abajo, que sigue resistiendo todo el tiempo.
+
+**Consejo del original:** estos ejercicios parecen chiquitos, pero hechos con toda la fuerza trabajan casi todo el cuerpo. No hay que hacerlos mucho tiempo seguido, sino un minuto por vez, varias veces en el día.
+
+**Empuje de muñecas de a dos (variante del original):** dos chicos se paran medio de costado, uno frente al otro. Cada uno estira el brazo más cercano al otro y apoya su muñeca contra la del compañero. Empujan, y cada uno trata de hacer girar al otro hacia atrás.
 
 ## Cierre
 - ¿Qué sintieron en el cuerpo? ¿Cómo cambia con la práctica?
@@ -189,22 +210,8 @@ each putting out the wrist nearest to his opponent, at arm's length;
 pressing it against the other's wrist and trying to turn him round
 backwards.
 
-**Versión en español:**
-
-**"LA LUCHA."** Dos jugadores se paran frente a frente, a una yarda más o menos, extienden los brazos a los costados, entrelazan los dedos de las dos manos y se inclinan uno hacia el otro hasta que se tocan los pechos; empujan pecho contra pecho y ven quién logra llevar al otro hasta la pared de la habitación o hasta una línea de meta. Al principio basta con una lucha muy corta para que el corazón bombee, pero después de practicar unos días el corazón se fortalece y pueden seguir un buen rato.
-
-**"EMPUJE DE MUÑECAS"**, de a uno solo. Parate con los dos brazos hacia adelante, más o menos a la altura de la cintura, y cruzá las muñecas de modo que una mano quede con los nudillos hacia arriba y la otra con los nudillos hacia abajo. Cerrá los puños.
-
-Ahora hacé que la mano de abajo empuje hacia arriba y la de arriba empuje hacia abajo.
-
-Empujá con las dos muñecas lo más fuerte que puedas, de a poco, y solo después de mucha resistencia dejá que la de abajo empuje a la de arriba hasta quedar frente a tu frente; después dejá que la de arriba empuje a la de abajo hacia abajo, mientras la de abajo resiste todo el tiempo.
-
-Estos dos ejercicios, aunque parecen chicos y simples, si se hacen con todas tus fuerzas desarrollan la mayoría de los músculos del cuerpo, y sobre todo los del corazón. No hay que hacerlos demasiado tiempo seguido, sino a intervalos frecuentes durante el día, un minuto más o menos.
-
-El **"EMPUJE DE MUÑECAS"** también lo pueden jugar dos chicos parados medio de frente, cada uno extendiendo la muñeca más cercana al otro, con el brazo estirado, apoyándola contra la muñeca del otro y tratando de hacerlo girar hacia atrás.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

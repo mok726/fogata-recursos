@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Preparar la Mochila"
+title: "Cómo Armar tu Mochila"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preparar-la-mochila/"
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -77,11 +78,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -154,16 +155,39 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# ¡Preparar la Mochila!
+# Cómo Armar tu Mochila
 
 ## Resumen
-B-P aconseja ensayar en casa antes del día de armar la mochila: escribir la lista, "convertir la cama en un negocio" con todo a la vista y guardar en orden. Lo que se usa último va al fondo (zapatillas, traje de baño, muda, pijama y frazadas, con lo frágil en el medio) y arriba la manta de piso y el impermeable, con la toalla y lo de higiene justo debajo. Y todo marcado con el nombre.
+Un texto de B-P para los lobatos que van a su primer campamento: qué llevar y en qué orden guardarlo. Se puede usar como actividad en casa o en la reunión antes de salir.
 
 ## Desarrollo
-1. Lean juntos la lista de B-P y actualícenla: ¿qué falta hoy? (linterna, cantimplora, gorro, protector solar, repelente).
-2. Cada seisena despliega el equipo sobre una mesa "como en un negocio".
-3. Carrera de mochilas: cada seisena carga la mochila en el orden de B-P. Después el educador grita "¡Llueve!": ¿quién saca primero el impermeable sin vaciar todo?
-4. Revisen que cada cosa tenga nombre.
+**1. Hacé un ensayo antes.** Conviene probar en casa antes del día de salida. Tal vez descubrís que necesitás una mochila o un bolso más grande, y es mejor saberlo a tiempo para conseguir uno.
+
+**2. Escribí tu lista y armá «el negocio».** Aunque el dirigente de la manada te haya dado una lista, escribí la tuya. Después convertí la cama en un negocio: poné todo arriba, como en un mostrador. Más o menos esto:
+- dos frazadas (las de lana abrigan más que las lisas);
+- pijama, o una remera abrigada para dormir;
+- zapatillas para los juegos;
+- un pantalón corto y una remera viejos, para gastar en los juegos y el trabajo del campamento;
+- una camiseta y medias de repuesto;
+- otro par de zapatillas o zapatos;
+- algunos pañuelos;
+- un abrigo o un impermeable, y un buzo o pulóver para la noche;
+- toalla, jabón, una toallita, cepillo y pasta de dientes;
+- peine o cepillo de pelo;
+- malla;
+- una libretita para anotar lo que gastás, y papel y sobres para escribirles a los de tu casa contando cómo te va;
+- plato hondo (o dos), jarro, cuchillo, tenedor y cuchara. Como en el campamento te da un hambre bárbara, B-P recomienda los enlozados, que no se rompen si alguien se sienta encima;
+- si la manada no tiene y van a dormir en carpa, un aislante o manta para el piso, que sea bueno.
+
+B-P agrega, en broma, que conviene convencer al seisenero de llevar un espejo, para poder peinarse sin que la raya parezca un rayo.
+
+**3. Guardá todo en orden.** Algunos chicos ponen el abrigo abajo de todo y, cuando llueve, tienen que vaciar la mochila para sacarlo. El orden que propone el original es:
+1. Abajo, las zapatillas y la malla.
+2. Después, la muda de ropa, el pijama y las frazadas, con lo que se pueda romper envuelto en el medio.
+3. Más arriba, la toalla y las cosas de higiene. El jabón, en una bolsita impermeable: ¡nunca adentro del jarro, que después el té tiene gusto a jabón!
+4. Bien arriba, la manta de piso y, si entra, el impermeable.
+
+**4. Marcá tus cosas** con tu nombre, para saber cuáles son tuyas y cuáles no.
 
 ## Cierre
 - ¿Qué pasaría si el impermeable está en el fondo?
@@ -200,33 +224,8 @@ By this time the bed looks fairly full and you wonder how ever you are going to 
 Some boys put their overcoat in their kit bag first and then get mad because it rains and they have to empty everything out to get it. Start with your gym shoes and swimming costume, then the change of clothes, pyjamas, and blankets — with anything that might get broken in the middle. It is best to have a little waterproof bag for your soap — don't pack the carbolic in your mug, it makes the tea taste funny! Right on the top have your ground sheet and (if you have room) your mackintosh, and just underneath your towel and washing things.
 Don't forget to mark your things, so that you can see which are yours and which aren't.
 
-**Versión en español:**
-
-**CÓMO PREPARAR TU EQUIPO**
-Es una muy buena idea hacer un ensayo de verdad en casa antes de que llegue el día de armar la mochila: tal vez descubras que necesitás una mochila más grande, y conviene saberlo a tiempo para comprar o pedir prestada una.
-Escribí una lista de lo que creés que vas a necesitar, aunque tengas una lista de tu Jefe de Manada como guía; después convertí tu cama en un negocio y poné todas las cosas sobre el mostrador. Vas a tener algo así:
-Dos frazadas (las de lana son mejores que las lisas).
-Pijama o una camisa abrigada para dormir.
-Un par de zapatillas para los juegos.
-Un pantalón corto y una camisa viejos para gastar en los juegos y el trabajo del campamento.
-Una camiseta de repuesto y medias de repuesto.
-Un par de botas o zapatos de repuesto.
-Algunos pañuelos.
-Un abrigo o impermeable.
-Un saco o pulóver para ponerte arriba del buzo a la noche, además del impermeable o el abrigo.
-Una toalla, jabón (el carbólico es el mejor), una toallita, un cepillo de dientes y pasta o polvo dental.
-Un cepillo y un peine.
-Una malla.
-Una libretita para anotar cuánto gastás, y papel y sobres para contar en casa cómo te va.
-Conviene recordar que en el campamento te da un hambre terrible, así que llevá un plato (o dos) y un jarro, cuchillo, tenedor y cuchara; los platos hondos y jarros enlozados son los mejores porque no se rompen si algún distraído se sienta encima.
-Si la Manada no tiene mantas de piso y acampan en carpas, vas a tener que conseguir una, y que sea buena.
-Convencé a tu seisenero de que sea buena gente y lleve un espejo, así podés hacerte la raya del pelo sin que parezca un rayo.
-A esta altura la cama está bastante llena y te preguntás cómo vas a meter todo en una mochila.
-Algunos chicos ponen primero el abrigo en la mochila y después se enojan porque llueve y tienen que vaciar todo para sacarlo. Empezá por las zapatillas y la malla, después la muda de ropa, el pijama y las frazadas, con lo que se pueda romper en el medio. Lo mejor es tener una bolsita impermeable para el jabón: ¡no metas el jabón carbólico en el jarro, que el té queda con gusto raro! Bien arriba poné la manta de piso y (si hay lugar) el impermeable, y justo debajo la toalla y las cosas de higiene.
-No te olvides de marcar tus cosas, para saber cuáles son tuyas y cuáles no.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

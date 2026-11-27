@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - astronomia
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,10 +144,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Mirar las Estrellas!
+# Mirar las Estrellas
 
 ## Resumen
-Una actividad simple para una noche despejada de campamento. Cada participante, por separado, busca algunas estrellas y constelaciones, y se las señala al educador cuando pasa. Sirve para aprender a orientarse de noche.
+Una práctica nocturna para que cada scout aprenda a encontrar solo algunas estrellas y constelaciones que sirven para orientarse.
 
 ## Preparación
 1. Elegí una noche despejada y un lugar sin luces cerca.
@@ -151,10 +155,10 @@ Una actividad simple para una noche despejada de campamento. Cada participante, 
 3. Llevá linternas con luz roja (o tapadas con papel celofán rojo) para no perder la adaptación a la oscuridad.
 
 ## Desarrollo
-1. Ubicá a los participantes separados, cada uno en su lugar, mirando al cielo.
-2. Dales unos minutos para que se acostumbren a la oscuridad.
-3. Pasá por cada uno y pedile que te señale las estrellas o constelaciones acordadas.
-4. Para los más grandes: que además indiquen el sur usando la Cruz del Sur (prolongando su eje mayor unas cuatro veces y media y bajando en vertical hasta el horizonte).
+1. Elegí una noche despejada y salí al aire libre con los scouts.
+2. Ubicá a cada uno en un lugar distinto, separado de los demás, para que no se copien ni se ayuden.
+3. Cada scout tiene que encontrar en el cielo las estrellas que se practicaron. El original pide la Estrella Polar y Orión; desde la Argentina la Estrella Polar no se ve, así que la reemplazamos por la Cruz del Sur, que es la que usamos para ubicar el sur. Orión se ve muy bien en las noches de verano.
+4. El dirigente va pasando por donde está cada uno, y el scout le señala dónde están las estrellas que encontró.
 
 ## Cierre
 - ¿Qué estrellas pudiste encontrar? ¿Cuáles te costaron?
@@ -173,12 +177,8 @@ STAR-GAZING.--Take out the scouts on clear nights and post them
 separately, and let each find the North Star and Orion, etc., and point
 them out to you as you come round.
 
-**Versión en español:**
-
-**MIRAR LAS ESTRELLAS.** Llevá a los scouts afuera en noches despejadas, ubicalos por separado, y que cada uno encuentre la Estrella Polar, Orión, etc., y te las señale cuando pasás.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

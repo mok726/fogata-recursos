@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - dibujo
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -134,12 +138,25 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡Artistas!
+# Artistas
 
 ## Resumen
-Sentados alrededor de una mesa. El de la punta dibuja una figura o una cara en trazos firmes y separados, en un orden raro, para que durante un buen rato no se sepa qué es. Cada jugador mira lo que dibuja el de su derecha y lo copia trazo por trazo. Al final, se comparan todos los dibujos con el original.
+Un juego de mesa, tranquilo, para entrenar la observación: hay que copiar un dibujo trazo por trazo sin saber qué es.
 
 > **Nota para el educador:** cuantos más jugadores, más divertida la deformación. Se puede hacer por patrullas, en ronda.
+
+## Desarrollo
+1. Los jugadores se sientan alrededor de una mesa, cada uno con papel y lápiz.
+2. Uno de ellos es el «artista» principal. Dibuja algo común, como una figura o una cabeza, con trazos separados y bien marcados.
+3. El truco es que hace los trazos en un orden raro, para que durante un buen rato nadie se dé cuenta de qué está dibujando.
+4. Cada jugador mira lo que dibuja el que tiene a su derecha y lo copia, trazo por trazo. Así el dibujo va pasando de uno a otro alrededor de la mesa.
+5. Cuando el artista termina su dibujo, se comparan todas las copias con el original.
+
+**Cómo se gana:** el original no da puntaje; gana, si se quiere, el que hizo la copia más parecida. Lo divertido es ver cómo cambia el dibujo a medida que pasa de mano en mano.
+
+## Cierre
+- ¿Qué tan parecidos quedaron los dibujos al original? ¿En qué trazo se empezó a deformar?
+- ¿Qué pasa con un mensaje o una noticia cuando pasa de mano en mano?
 
 ## Texto original completo de la actividad
 
@@ -154,12 +171,8 @@ player looks over to see what the man on his right is drawing and copies
 it stroke by stroke. When the right-hand artist has finished his
 picture, compare all the rest with it.
 
-**Versión en español:**
-
-**"ARTISTAS."** Los jugadores se sientan alrededor de una mesa, cada uno con papel y lápiz. El de la derecha dibuja una figura o una cabeza común, en trazos firmes y separados, haciendo los trazos en un orden poco habitual para que durante mucho rato sea difícil ver qué está dibujando. Cada jugador mira lo que dibuja el que tiene a su derecha y lo copia trazo por trazo. Cuando el artista de la derecha termina su dibujo, comparen todos los demás con el suyo.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

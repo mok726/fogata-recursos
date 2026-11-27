@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - gran-juego
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,10 +142,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Araña y la Mosca!
+# La Araña y la Mosca
 
 ## Resumen
-Un gran juego para la tarde de campamento. Una patrulla, la "araña", se esconde en un área con límites claros. Un cuarto de hora después sale la otra, la "mosca", a buscarla. Las dos anotan a quién ven del otro bando, y cada informe suma puntos.
+Un juego de rastreo y escondite en un terreno grande: un equipo, la «araña», se esconde, y el otro, la «mosca», tiene que encontrarlo antes de que se acabe el tiempo.
 
 ## Preparación
 1. Elegí el área (la "telaraña"), explicá sus límites y fijá la hora de fin.
@@ -149,10 +153,14 @@ Un gran juego para la tarde de campamento. Una patrulla, la "araña", se esconde
 3. Si podés, asigná un adulto a cada bando.
 
 ## Desarrollo
-1. La patrulla "araña" sale primero y elige dónde esconderse.
-2. Un cuarto de hora después sale la patrulla "mosca" a buscarla. Puede separarse, pero todo lo que descubra se lo tiene que contar a su guía.
-3. Las arañas anotan el nombre de cada mosca que ven. Las moscas anotan el nombre de cada araña que ven y su escondite exacto.
-4. Si al llegar la hora las moscas no encontraron a la araña, gana la araña. Los adultos asignan puntos por cada informe correcto.
+1. El que dirige elige un sector del campo o del barrio de alrededor de un kilómetro y medio de lado. Ese sector es la «telaraña»: se explican bien sus límites a todos y se fija la hora exacta en que termina el juego.
+2. Se arman dos bandos: una patrulla (o media patrulla) es la araña y la otra es la mosca. Los dos bandos se tienen que poder distinguir de lejos, con colores distintos o vestidos de otra manera (por ejemplo, un bando con buzo y el otro sin buzo).
+3. Con cada bando va un árbitro, que acompaña y controla lo que pasa.
+4. Sale primero la araña y elige un lugar dentro de la telaraña para esconderse.
+5. Un cuarto de hora después sale la mosca a buscarla. Sus integrantes se pueden separar como quieran, pero todo lo que descubren se lo tienen que contar a su guía de patrulla.
+6. Mientras dura el juego, las arañas anotan los nombres de los integrantes de la mosca que alcanzan a ver. Las moscas anotan los nombres de las arañas que ven y el lugar exacto donde están escondidas.
+
+**Cómo se gana:** si cuando se cumple el tiempo (unas dos horas, por ejemplo) la mosca no descubrió a la araña, gana la araña. Además, los árbitros dan puntos por cada uno de esos informes bien anotados, de los dos lados.
 
 ## Cierre
 - ¿Qué estrategia usó cada bando?
@@ -189,22 +197,8 @@ hiding-place. Marks will be awarded by the umpires for each such report.
 The two sides should wear different colours, or be differently dressed
 (_e.g._, one side in shirt-sleeves).
 
-**Versión en español:**
-
-**"LA ARAÑA Y LA MOSCA."** Se elige un sector del campo o de la ciudad, de alrededor de un kilómetro y medio de lado, como telaraña; se describen sus límites y se fija una hora en la que terminan las operaciones.
-
-Una patrulla (o media patrulla) es la "araña", que sale y elige un lugar donde esconderse.
-
-La otra patrulla (o media patrulla) sale un cuarto de hora después como "mosca", a buscar a la "araña". Pueden dispersarse como quieran, pero tienen que contarle a su guía todo lo que descubran.
-
-Va un árbitro con cada bando.
-
-Si dentro del tiempo fijado (digamos unas dos horas) la mosca no descubrió a la araña, gana la araña. Las arañas anotan los nombres de los integrantes de la patrulla mosca que ven; del mismo modo, las moscas anotan los nombres de las arañas que ven y su escondite exacto. Los árbitros dan puntos por cada uno de esos informes.
-
-Los dos bandos deben llevar colores distintos o vestirse de manera diferente (por ejemplo, un bando en mangas de camisa).
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

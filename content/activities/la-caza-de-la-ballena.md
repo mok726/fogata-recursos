@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Caza de la Ballena"
+title: "Una Caza de Ballenas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-caza-de-la-ballena/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - nautica
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,17 +143,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Caza de la Ballena!
+# Una Caza de Ballenas
 
 ## Resumen
-Un tronco con cabeza y cola es la ballena. Cada bote, tripulado por una patrulla (el guía de capitán, uno de arponero y los demás remando), sale de su puerto. El primero que llega la arponea y la remolca. El otro la alcanza, la arponea también y se arma una cinchada en el agua. B-P remarca que gana la tripulación que trabaja con disciplina, en silencio y atenta al capitán.
+Un juego de remo en el que dos botes compiten por llevar una «ballena» (un tronco) a su propio puerto. Sirve, sobre todo, para mostrar el valor de la disciplina en un equipo.
 
 ## Desarrollo
-1. Ubicá los dos puertos y soltá la ballena a mitad de camino.
-2. A la señal, los botes salen.
-3. El primer arponero en alcance la engancha y su bote la remolca.
-4. El segundo bote la engancha también y tira hacia su puerto.
-5. Gana el bote que lleva la ballena a su puerto.
+1. **La ballena:** es un tronco grande, al que se le da una forma tosca de cabeza y de cola para que parezca una ballena.
+2. **Los botes:** juegan dos botes, cada uno con una patrulla. El guía de patrulla es el capitán; el subguía va en la proa (la punta delantera) como arponero; el resto de la patrulla rema.
+3. **Los puertos:** cada bote tiene su puerto, un punto fijo de la orilla. Los dos puertos están a un kilómetro y medio, más o menos, uno del otro.
+4. El árbitro lleva la ballena y la suelta en el agua a mitad de camino entre los dos puertos.
+5. A una señal, los dos botes salen remando a toda velocidad hacia la ballena.
+6. El arponero que primero llega a la distancia justa le engancha el «arpón» (un gancho atado a una soga), y el bote da la vuelta enseguida y empieza a remolcar la ballena hacia su puerto.
+7. El otro bote lo persigue. Cuando lo alcanza, su arponero también engancha la ballena, el bote da la vuelta y trata de remolcarla hacia su propio puerto.
+8. Así los dos botes quedan haciendo una cinchada en el agua.
+
+**Cómo se gana:** gana el bote que logra llevar la ballena a su puerto; a veces el mejor bote termina arrastrando también al bote rival.
+
+**Consejo del original:** la disciplina, el silencio total y la atención a las órdenes del capitán son lo que más ayuda a ganar. B-P aclara que el juego se parece a uno que describe Ernest Thompson Seton en su libro sobre los «Indios del Bosque» (*The Birchbark Roll of the Woodcraft Indians*).
 
 ## Cierre
 - ¿Cómo se coordinaron los remos? ¿Qué pasó cuando todos hablaban a la vez?
@@ -184,14 +195,8 @@ the game. It shows, above all things, the value of discipline. The game
 is similar to one described in E. Thompson Seton's "Birchbark of the
 Woodcraft Indians."
 
-**Versión en español:**
-
-**CAZA DE LA BALLENA.**
-
-La ballena se hace con un tronco grande, con una cabeza y una cola de forma tosca para que parezca una ballena. Normalmente la caza la hacen dos botes, cada uno tripulado por una patrulla: el guía hace de capitán, el subguía de proel o arponero y el resto de la patrulla de remeros. Cada bote pertenece a un puerto distinto, y los dos puertos están a una milla, más o menos, uno del otro. El árbitro lleva la ballena y la suelta a mitad de camino entre los dos puertos, y a una señal los dos botes salen a toda velocidad para ver quién llega primero a la ballena. El arponero que llega primero a distancia de tiro clava su arpón, y el bote da la vuelta enseguida y remolca la ballena hasta su puerto. El segundo bote lo persigue y, cuando alcanza al otro, también arponea la ballena, da la vuelta y trata de remolcarla de vuelta a su puerto. Así los dos botes hacen una cinchada y, al final, el mejor bote remolca la ballena, y quizás también al bote rival, hasta su puerto. Se va a ver que la disciplina, el silencio estricto y la atención a las órdenes del capitán son puntos muy fuertes para ganar el juego. Muestra, sobre todo, el valor de la disciplina. El juego es parecido a uno descripto en el "Birchbark of the Woodcraft Indians" de E. Thompson Seton.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

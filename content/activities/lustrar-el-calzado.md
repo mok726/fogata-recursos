@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lustrar el Calzado"
+title: "Limpiar Botas o Zapatos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lustrar-el-calzado/"
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -73,11 +74,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -150,16 +151,27 @@ rama_rovers:
   - 1  # Sostengo y promuevo hábitos de higiene y alimentación saludables.
 ---
 
-# ¡Lustrar el Calzado!
+# Limpiar Botas o Zapatos
 
 ## Resumen
-A B-P le gusta lustrar sus propias botas: "hay una gran satisfacción en sacarles brillo con tu propio trabajo". Lista los seis elementos que hacen falta, el orden de uso y un consejo para el campo: las botas de campamento no se lustran, se engrasan, también en las costuras y en la suela.
+Una tarea práctica para que cada lobato aprenda a limpiar y cuidar su propio calzado. B-P cuenta que, igual que tender su cama o doblar su ropa, le gustaba limpiar sus propias botas: da mucha satisfacción sacarles brillo con el propio trabajo.
 
 ## Desarrollo
-1. Cada uno trae su calzado. Se cubren las mesas con diarios.
-2. Siguiendo el orden de B-P: raspar el barro con el palito, cepillar la tierra con el cepillo duro, aplicar la pomada, sacar brillo con el cepillo suave y terminar con el trapo.
-3. Para las botas de campamento: en vez de lustrarlas, frotar grasa en todo el cuero, sobre todo en las costuras, con un cepillo de dientes viejo. Si se quiere tener los pies secos, también la suela.
-4. Comparen el antes y el después.
+**Qué hace falta:**
+1. Un cuchillo viejo sin filo o una espátula, para raspar el barro.
+2. Un cepillo duro, para sacar la tierra.
+3. Un cepillo para pasar la pomada.
+4. Una lata de pomada de zapatos (betún).
+5. Un cepillo suave, para sacar brillo.
+6. Un trapo suave, para lustrar.
+
+**Cómo se hace:**
+1. Raspá el barro con el cuchillo viejo o la espátula.
+2. Cepillá el calzado con el cepillo duro hasta sacar toda la tierra.
+3. Con el otro cepillo, frotá la pomada por todo el cuero.
+4. Sacale brillo con el cepillo suave y terminá de lustrar con el trapo.
+
+**Para el campo y el campamento (variante del original):** las botas que se usan en el campo no conviene lustrarlas, sino engrasarlas. Con un cepillo de dientes viejo se frota grasa por todo el calzado, sobre todo en las costuras. Sirve cualquier grasa: aceite, vaselina o sebo. Si querés tener los pies secos, engrasá también la suela, no solo la parte de arriba.
 
 ## Cierre
 - ¿Cómo te sentís con el calzado que lustraste vos?
@@ -184,23 +196,8 @@ The thing for boot-cleaning is to have:
 If you are using boots for rough country wear, or for camp, the best way to clean them is not to polish them, but to rub grease all over them, and especially into the seams, with an old toothbrush. Any grease will do — oil, vaseline, tallow, or mutton fat.
 If you want to keep dry-footed, don't forget to grease the soles as well as the uppers.
 
-**Versión en español:**
-
-**LIMPIAR BOTAS O ZAPATOS**
-Igual que tender mi cama o doblar mi ropa, me gusta limpiar mis propias botas.
-Hay una gran satisfacción en sacarles un buen brillo con tu propio trabajo. Es casi tan agradable como pulir bronces con una lata de "Brasso" y un trapo suave.
-Para limpiar botas hay que tener:
-1. Un cuchillo viejo para raspar el barro.
-2. Un cepillo duro para sacar la tierra.
-3. Un cepillo para frotar el betún.
-4. Una lata de betún.
-5. Un cepillo suave para sacar brillo.
-6. Un trapo suave para lustrar.
-Si usás las botas para andar por el campo o para campamento, la mejor manera de cuidarlas no es lustrarlas, sino frotarlas enteras con grasa, sobre todo en las costuras, con un cepillo de dientes viejo. Sirve cualquier grasa: aceite, vaselina, sebo o grasa de cordero.
-Si querés tener los pies secos, no te olvides de engrasar la suela además de la parte de arriba.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

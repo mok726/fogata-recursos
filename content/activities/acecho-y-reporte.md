@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Acecho y Reporte"
+title: "Acecho e Informe"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/acecho-y-reporte/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - acecho
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,10 +144,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Acecho y Reporte!
+# Acecho e Informe
 
 ## Resumen
-El árbitro se queda en un lugar abierto. Los participantes se acercan escondidos, observan todo lo que hace y, al final, lo informan. Suman puntos por cada acción que reportan bien y pierden puntos cada vez que el árbitro los ve.
+Un juego al aire libre para practicar acercarse sin ser visto y, al mismo tiempo, observar con atención todo lo que hace otra persona.
 
 ## Preparación
 1. Elegí un lugar abierto para el árbitro, rodeado de arbustos, árboles o desniveles para esconderse.
@@ -151,11 +155,17 @@ El árbitro se queda en un lugar abierto. Los participantes se acercan escondido
 3. Pensá de antemano unas diez acciones simples: sentarse, arrodillarse, mirar con binoculares, sacar un pañuelo, sacarse la gorra un rato, caminar en círculo varias veces.
 
 ## Desarrollo
-1. El árbitro manda a cada participante o pareja en una dirección distinta, a buena distancia.
-2. Cuando agita el banderín, todos se esconden y empiezan a acercarse sin ser vistos, observando lo que hace.
-3. El árbitro va haciendo sus acciones y mira hacia todos lados. Cada vez que ve a alguien, le descuenta 2 puntos.
-4. Cuando vuelve a agitar el banderín, todos se paran y vuelven.
-5. Cada uno informa lo que vio, por escrito o de palabra. Suma 3 puntos por cada acción bien informada.
+1. El árbitro se ubica en un lugar abierto, donde lo puedan ver desde lejos.
+2. Manda a cada scout, o a cada pareja, en una dirección distinta, a unos 800 metros.
+3. Cuando el árbitro agita un banderín, empieza el juego. Todos se esconden y empiezan a acercarse a él a escondidas, arrastrándose o agachados, y observando todo lo que hace.
+4. Mientras tanto, el árbitro hace pequeñas acciones para que tengan algo que observar: se sienta, se arrodilla, mira con largavistas, saca el pañuelo, se saca el sombrero un rato, camina en círculo unas cuantas veces, etc.
+5. Al mismo tiempo vigila en todas las direcciones. Cada vez que ve a un scout, le descuenta 2 puntos.
+6. Cuando el árbitro vuelve a agitar el banderín, todos se levantan y vuelven.
+7. Cada uno, por turno, cuenta todo lo que vio hacer al árbitro, de palabra o en un informe escrito, según lo que se haya pedido antes de empezar.
+
+**Puntaje:** cada acción informada correctamente vale 3 puntos. Cada vez que el árbitro vio al scout, se le restan 2.
+
+**Consejo del original:** ahorra tiempo que el árbitro prepare de antemano una planilla de puntaje, con el nombre de cada scout, una columna para cada una de sus acciones con los puntos que ganó cada uno, y otra columna para los puntos descontados por dejarse ver.
 
 ## Cierre
 - ¿Qué fue más difícil: no ser visto o recordar todo lo que pasó?
@@ -187,14 +197,8 @@ beforehand, giving the name of each scout, and a number of columns
 showing each act of his and what mark that scout wins, also a column of
 deducted marks for exposing themselves.
 
-**Versión en español:**
-
-**ACECHO E INFORME.**
-
-El árbitro se ubica en un lugar abierto y manda a cada scout o pareja de scouts en direcciones distintas, a unos ochocientos metros. Cuando agita un banderín, que es la señal para empezar, todos se esconden y luego avanzan acechándolo, arrastrándose hacia él y observando todo lo que hace. Cuando vuelve a agitar el banderín, se levantan, vuelven y cada uno, por turno, informa todo lo que hizo, ya sea entregando un informe escrito o de palabra, según se ordene. Mientras tanto, el árbitro vigila en todas las direcciones y, cada vez que ve a un scout, le quita dos puntos. Él, por su parte, hace pequeñas acciones, como sentarse, arrodillarse y mirar con largavistas, usar el pañuelo, sacarse el sombrero un rato, caminar en círculo unas cuantas veces, para darles a los scouts algo que observar e informar sobre él. A los scouts se les dan tres puntos por cada acción informada correctamente. Ahorra tiempo que el árbitro prepare de antemano una tarjeta de puntaje con el nombre de cada scout y varias columnas que muestren cada una de sus acciones y los puntos que gana cada scout, y también una columna de puntos descontados por dejarse ver.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

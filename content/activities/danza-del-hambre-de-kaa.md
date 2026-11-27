@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Danza del Hambre de Kaa"
+title: "La Danza del Hambre de Kaa, la Pitón"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/danza-del-hambre-de-kaa/"
@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,21 +142,35 @@ rama_rovers:
   - 36 # Asumo un estilo de vida en coherencia con mis creencias y valores.
 ---
 
-# ¡La Danza del Hambre de Kaa!
+# La Danza del Hambre de Kaa, la Pitón
 
 ## Resumen
-La Manada forma una fila tomada de los hombros: es Kaa, la pitón, que se desliza en ocho y se enrosca en espiral siseando. A la voz de "¡Bandar-log!", la fila se rompe y cada uno hace de mono distraído. A la voz de "¡Kaa!", los monos quedan petrificados y la serpiente se los traga uno por uno hasta volver a formarse y dormirse.
+Una danza de la Manada en la que todos forman a Kaa, la gran pitón de *El libro de la selva*, y después se convierten en los Bandar-log, los monos alocados que Kaa hipnotiza y se come.
 
 ## Preparación
 1. Contá la historia de Kaa y los Bandar-log (los monos que no tienen ley y se olvidan de todo). Elegí quién hace de cabeza de Kaa.
 
 ## Desarrollo
-1. Todos forman una fila detrás de la cabeza de Kaa, tomando de los hombros a quien tienen adelante, y la siguen a donde vaya, lo más lento posible y al mismo paso.
-2. La cabeza se desliza dibujando un ocho y después enrosca la cola en un círculo cada vez más chico; luego gira y sale desenroscándose (la "espiral"). Todos sisean todo el tiempo y arrastran los pies sin hacer ruido, como una víbora entre el pasto.
-3. A la voz de "¡Bandar-log!", la serpiente se desarma y cada uno corre haciendo de mono: va apurado y se olvida a dónde iba, se rasca, se persigue la cola, trepa ramas imaginarias, mira las estrellas. Nadie se interesa en lo que hacen los demás, y todos repiten el grito de los monos: "¡Gurruk, gurruk, jau, jau, gurruk!".
-4. A la voz de "¡Kaa!", los monos quedan petrificados. La cabeza de Kaa se para con los brazos estirados, pulgares enganchados y cabeza gacha, y se balancea despacio. Sisea una vez y todos los monos dan un paso adelante sin querer.
-5. Kaa señala a un mono, que pasa gateando entre sus piernas (queda "tragado") y se engancha detrás. Así va tragando a varios; el resto se acomoda despacio detrás, como cola.
-6. Cuando están todos, la serpiente da una vuelta pesada en círculo y se acuesta a dormir la siesta: con pasos cortos, empezando por la cola, cada uno baja despacio y arrastra suavemente al de adelante. Los tres primeros se balancean un momento con la cabeza mirando alrededor y, al final, también se acuestan.
+**Primera parte: la serpiente.**
+1. El guía de la danza es la cabeza de Kaa. Todos los demás se ponen en fila detrás de él, cada uno con las manos sobre los hombros del de adelante: son el cuerpo y la cola.
+2. La serpiente sigue a la cabeza a donde vaya, lo más despacio posible, y cada uno lleva el paso del de adelante.
+3. La cabeza se desliza en silencio haciendo un recorrido en forma de ocho. Después enrosca la cola en una ronda cada vez más chica, como un caracol, hasta que gira y vuelve a salir desenroscándose. Esa figura es la que los scouts llaman «la espiral».
+4. Todo el tiempo, todos sisean y caminan arrastrando los pies sin hacer ruido, para que la serpiente entera suene como una víbora que se desliza entre el pasto. De vez en cuando hacen un siseo más fuerte, que es como las serpientes llaman a sus amigas.
+
+**Segunda parte: los monos.**
+1. Cuando Kaa terminó de enroscarse y desenroscarse, el guía da la orden «¡Bandar-log!». La serpiente se desarma y cada uno hace de mono a su manera.
+2. Los monos hacen cualquier tontería, sin ningún sentido y sin prestarle atención a lo que hacen los demás: uno sale corriendo como si tuviera algo urgente y de golpe se sienta a mirar el cielo; otro baila en cuatro patas dando vueltas; otro se persigue la cola; otro trepa ramas imaginarias y se sienta a rascarse; otro da una vuelta carnero; otro camina apurado, se para, se olvida adónde iba, se rasca la cabeza y sale para otro lado. Hay que estar muy ocupado todo el tiempo y cambiar de tontería.
+3. Mientras tanto, todos hacen el grito de los monos: «¡Gurruk, gurruk, jau, jau, gurruk!».
+
+**Tercera parte: Kaa come.**
+1. De pronto el guía grita «¡Kaa!». Los monos se quedan duros de miedo, porque saben muy bien lo que les va a hacer su terrible enemigo.
+2. El guía se para con los brazos estirados hacia adelante, los pulgares enganchados, la cabeza baja, y balancea el cuerpo despacio de un lado a otro, como hipnotizándolos.
+3. Sisea una vez, y todos los monos dan un paso adelante sin querer.
+4. Señala a uno. El mono asustado pasa gateando entre las piernas del guía: así queda «tragado», y se pone detrás de él como en la primera parte.
+5. Así se van tragando, uno por uno, unos doce monos, que vuelven a formar el cuerpo de Kaa. Los demás se van poniendo despacio atrás, como la cola.
+6. Cuando están todos, la serpiente da una vuelta pesada en ronda y se echa a dormir después del banquete. Mientras la cabeza se enrosca en una ronda bastante cerrada, todos dan pasos cortos.
+7. Para acostarse, empieza la cola: el último se agacha muy despacio y, como tiene las manos sobre los hombros del de adelante, lo va llevando hacia abajo, y así sigue la cadena hasta que todo el cuerpo queda acostado, menos los tres primeros.
+8. Esos tres, con la cabeza de Kaa adelante, se balancean un momento mientras la cabeza mira para todos lados, y al final también se echan a descansar.
 
 ## Cierre
 - ¿Qué les pasaba a los Bandar-log por no tener ley ni prestar atención?
@@ -180,22 +195,8 @@ The Cub who forms Kaa's head stands up with arms outstretched, thumbs clasped, h
 This is done by all lying down one after the other, starting with the tail.
 As soon as the head of Kaa has wound round into a fairly close circle, each Cub must take short steps. The last Cub in the tail then sinks down very slowly; the pressure of his hands upon the shoulders of the Cub in front draws him down also, until all the body of Kaa is lying down except the front three. These three, led by the head of Kaa, sway for a moment, the head looking round and about, before finally sinking to rest.
 
-**Versión en español:**
-
-**LA DANZA DEL HAMBRE DE KAA, LA PITÓN**
-El líder es la cabeza de Kaa, y el resto de la Manada se pone en fila detrás, cada uno tomando al lobato que tiene adelante; siguen a la cabeza a donde vaya, moviéndose lo más lento posible y llevando el paso del de adelante.
-La cabeza se desliza en silencio por un recorrido en forma de ocho y después enrosca la cola en un círculo cada vez más chico, hasta que gira y vuelve a salir por la figura que los scouts llaman "la espiral".
-Cada lobato sisea durante toda la danza y camina arrastrando los pies sin hacer el menor ruido, para que todo el cuerpo suene como una víbora que se desliza entre el pasto, haciendo de vez en cuando el siseo más fuerte con el que las serpientes llaman a sus amigas.
-Cuando Kaa terminó de enroscarse y desenroscarse, el líder da la orden "Bandar-log", y enseguida la serpiente se desarma y cada lobato corre a su manera, imitando a los monos.
-Uno corre como si tuviera un asunto urgente en cierta dirección y de golpe se para, se sienta y mira el cielo. Otro baila en cuatro patas dando vueltas y vueltas sin ningún motivo. Otro se persigue la cola. Otros trepan ramas imaginarias y se sientan a rascarse a mitad de camino. Uno corre sin parar dibujando un ocho. Otro se acerca gateando a un enemigo imaginario y de repente se sienta y mira las estrellas. Otro corre detrás de su cola, camina unos pasos y vuelve a correr detrás de su cola. Otro va dando brincos, levanta una pajita imaginaria, la examina y sigue brincando. Otro da una vuelta carnero, se sienta y se rasca. Otro camina muy apurado unos pasos como si tuviera algo importante que hacer, se para, se olvida a qué iba, se rasca la cabeza, sale rápido en otra dirección y vuelve a hacer lo mismo.
-En fin, hacé cualquier tontería como las que hacen los monos, pero no te intereses para nada en lo que hacen los demás. Estate muy ocupado todo el tiempo y hacé las distintas cosas una tras otra. Todo el tiempo seguí dando el grito de los monos. Todos van a estar en una gran confusión haciendo tonterías sin sentido y, al mismo tiempo, van a dar el grito de los monos: "Gurruk, gurruk, jau, jau, gurruk".
-De pronto el líder grita "¡Kaa!". Los monos se quedan helados de horror, porque saben demasiado bien lo que su terrible enemigo les va a hacer.
-El lobato que es la cabeza de Kaa se para con los brazos estirados, los pulgares enganchados y la cabeza gacha, y balancea el cuerpo despacio de un lado a otro. Sisea una vez y todos los monos dan un paso adelante sin querer. Señala a uno. La víctima asustada avanza gateando entre sus piernas y queda "tragada", y después se pone en fila detrás del líder, como en la primera parte de la danza. Unos doce monos pasan así, uno detrás de otro, y vuelven a formar el cuerpo de Kaa; los demás se mueven despacio hacia atrás y retoman sus lugares como cola. Cuando están todos unidos, la serpiente da una vuelta pesada en círculo y después se acuesta y se duerme después de su comilona.
-Esto se hace acostándose todos uno tras otro, empezando por la cola.
-En cuanto la cabeza de Kaa se enroscó en un círculo bastante cerrado, cada lobato tiene que dar pasos cortos. Entonces el último de la cola baja muy despacio; la presión de sus manos sobre los hombros del de adelante lo lleva también hacia abajo, hasta que todo el cuerpo de Kaa queda acostado salvo los tres primeros. Esos tres, guiados por la cabeza de Kaa, se balancean un momento, con la cabeza mirando a un lado y a otro, antes de echarse por fin a descansar.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

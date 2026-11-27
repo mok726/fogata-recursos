@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -148,22 +149,30 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Centinela!
+# Centinela
 
 ## Resumen
-Dos seisenas (rojos y azules). Cada bando tiene un centinela que camina de un lado a otro con un cartel colgado y lo cambia cada diez vueltas. El otro bando se acerca sin ser visto para anotar los dibujos, mientras ambos intentan capturarse sacándose la lana del brazo. Gana el bando con más dibujos bien anotados. B-P lo usa para hablar del trabajo aburrido que alguien hace por los demás.
+Un juego de seisenas en el que uno hace de centinela, una tarea aburrida pero necesaria, mientras los demás se acercan a espiarlo sin que los vean. En el original viene con una historia para contar antes de jugar.
 
 ## Preparación
 1. Prepará dos juegos de 6 cartones con dibujos simples y distintos (círculo, cruz, flecha, estrella, etc.).
 2. Marcá dos recorridos de unos 10 metros, bien visibles, uno para cada centinela.
 
 ## Desarrollo
-1. Contá la idea de B-P: el centinela hace un trabajo aburrido para que los demás puedan dormir tranquilos, y lo hace porque es su deber.
-2. Repartí lana roja a un bando y azul al otro, atada al brazo.
-3. Un centinela rojo camina en su recorrido con un cartel colgado. Cada diez idas y vueltas se lo cambia por otro, hasta pasar los seis. Lo mismo hace un centinela azul en el suyo.
-4. Akela decide cuántos de cada bando van a espiar al centinela rival y cuántos a capturar enemigos.
-5. Los espías se acercan sin ser vistos y anotan los dibujos en orden. Cualquiera puede capturar a un rival sacándole la lana del brazo; quien la pierde queda fuera de juego. Los centinelas no capturan ni pueden ser capturados.
-6. Al final, el árbitro junta los informes: cada dibujo bien anotado vale un punto para su bando. Por honor, nadie compara su informe con otros.
+**La historia (para contar antes):** B-P cuenta la historia de un joven soldado francés que estaba de guardia en un bosque, de noche, y de pronto se vio rodeado por el enemigo, que le dijo que si hablaba no viviría. Si se quedaba callado se salvaba; pero gritó la alarma con todas sus fuerzas, y así salvó a su regimiento a costa de su vida. B-P usa la historia para explicar que un scout está dispuesto a pasar dificultades por sus compañeros, y que muchas veces lo que le toca es un trabajo aburrido: hacer guardia mientras los otros duermen, lavar las ollas después de la cena, limpiar el local o cambiar una lamparita, sin decir «no es mi trabajo». En este juego el centinela hace la parte aburrida porque es su deber.
+
+**El juego:**
+1. Juegan dos seisenas (los grupos chicos de la Manada). Una lleva una lana roja atada en el brazo y la otra, una lana azul.
+2. Un lobato rojo hace de centinela. Se lo pone en un lugar donde se lo vea bien desde todos lados, y camina sin parar de un lado a otro en un tramo de unos 10 metros.
+3. Lleva colgado del cuello, sobre el pecho, como un cartel de hombre sándwich, un cartón de por lo menos 30 por 30 centímetros con un dibujo. Tiene seis cartones, cada uno con un dibujo distinto y sencillo. Cada vez que hace diez idas y vueltas, cambia el cartón por el siguiente.
+4. Los lobatos azules tienen que acercarse arrastrándose, sin que los vean, y anotar en un papel los dibujos a medida que van apareciendo.
+5. Al mismo tiempo, en otro lugar, un lobato azul hace de centinela con otros seis dibujos, y los rojos lo espían a él.
+6. Los centinelas solo caminan y cambian los cartones. Los demás, en cambio, pueden atraparse entre sí arrancándole la lana del brazo al rival. El que pierde la lana queda eliminado hasta el final del juego.
+7. Akela decide cuántos lobatos de cada bando se dedican a atrapar a los rivales y cuántos van a espiar al centinela del otro bando.
+
+**Puntaje:** al final, el árbitro junta todos los informes. Cada dibujo bien anotado vale un punto para el bando. Los lobatos se comprometen por su honor a no copiarse los informes entre ellos.
+
+**Consejo del original:** puede parecer que el centinela la pasa mal, pero es una buena práctica para aprender a hacer su parte por los demás aunque no sea divertida. Él simplemente va a decir: «Es parte del trabajo de todos los días».
 
 ## Cierre
 - ¿Cómo se sintieron los centinelas? ¿Estuvo bien que les tocara la parte aburrida?
@@ -203,35 +212,8 @@ At the end of the game, the umpire takes in all the reports and counts up how ma
 Perhaps some of you may think the sentry will have rather a poor time, but it is good practice for him in learning to do his share of the work for others without getting much fun out of it for himself. He will just say:
 "It's all in the day's work."
 
-**Versión en español:**
-
-**JUEGO: "CENTINELA"**
-Se acordarán de la historia del joven soldado francés que estaba de guardia en el bosque una noche oscura, cuando de pronto se encontró rodeado por el enemigo. Le apretaron una bayoneta contra el pecho y una voz áspera le susurró al oído:
-"¡Una palabra y estás muerto!".
-Quedándose quieto y sin hacer nada podía salvar su vida; pero tomó aire y dio la alarma con todas sus fuerzas.
-Mientras yacía en el suelo, muriendo, y oía los clarines tocar alarma y el ruido del regimiento corriendo a las armas, supo que al dar su vida había salvado a sus compañeros; así que murió feliz.
-De la misma manera, todo hombre que es explorador, soldado o scout tiene que Estar Preparado para pasar peligros y penurias por sus compañeros; y a veces, incluso, tiene que estar dispuesto, como el joven soldado, a morir por ellos.
-Muchas veces, además, lo que tiene que hacer por ellos es un trabajo muy aburrido y sin interés.
-Al final de un largo día de marcha, con los pies doloridos y el cuerpo cansado, tiene que hacer su turno de guardia alrededor del campamento mientras sus amigos duermen. Por agotado que esté, sigue vigilando por si aparecen enemigos, fieras u otros peligros, porque sabe que sus compañeros duermen porque confían en que él está alerta.
-Y jamás se le ocurriría despertar al siguiente de guardia un minuto antes de la hora, porque ningún buen scout es un vago. Mucho más a menudo trata de hacer más de lo que le toca por los demás.
-Es lo mismo si está arriesgando la vida por sus compañeros o lavando las ollas después de la cena para ellos. Siempre está listo y dispuesto a hacer cosas que un vago dejaría murmurando "¡No es mi trabajo!".
-De la misma manera, un lobato, acá en casa, siempre está listo para hacer su parte del trabajo por la Manada: fregar el piso del local, cambiar una lamparita o lo que haga falta.
-Este es un juego en el que un chico hace el trabajo aburrido de "centinela", mientras los demás la pasan más activos y divertidos. Lo hace porque es su deber.
-Juegan dos seisenas. Los lobatos de un bando llevan un hilo de lana roja atado al brazo, y los otros, lana azul.
-A un lobato rojo se le da un lugar desde donde se lo vea bien desde todos lados. Camina sin parar de un lado a otro en un recorrido de unos diez metros.
-En el pecho, colgado del cuello como un cartel de hombre-sándwich, lleva un cartón de no menos de treinta centímetros de lado, con un dibujo.
-Cada vez que completa diez recorridos, lo cambia por otro dibujo. Tiene en total seis cartones con un dibujo distinto en cada uno, que podrían ser algo así [dibujos].
-Los lobatos azules tienen que acercarse arrastrándose sin ser vistos y anotar por escrito los dibujos a medida que aparecen.
-En otro recorrido, un lobato azul hace de centinela de la misma manera con otra serie de dibujos, y los lobatos rojos lo espían y hacen un informe.
-Los centinelas no hacen nada más que caminar de un lado a otro y cambiar sus cartones, pero el resto puede capturarse entre sí arrancándose la lana de color del brazo.
-En cuanto un chico pierde la lana está "muerto" y queda fuera de acción el resto del juego.
-No hay límite sobre dónde se ubican los lobatos, pero Akela decide cuántos lobatos se destinan a capturar al otro bando y cuántos van a espiar al centinela enemigo y leer sus señales o carteles.
-Al final del juego, el árbitro recoge todos los informes y cuenta cuántos son correctos. Cada uno de los seis dibujos que esté bien anotado en el informe de un lobato vale un punto para su bando, y los lobatos se comprometen por su honor a no comparar sus informes entre sí.
-Tal vez algunos piensen que el centinela la va a pasar bastante mal, pero es una buena práctica para que aprenda a hacer su parte del trabajo por los demás sin sacar mucha diversión para sí mismo. Él simplemente va a decir:
-"Es parte del trabajo de todos los días".
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

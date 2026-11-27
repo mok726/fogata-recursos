@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Travesía"
+title: "En Travesía"
 duration: "Una jornada"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-travesia/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - expedicion
   - caminata
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -143,17 +147,18 @@ rama_rovers:
   - 37   # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
-# ¡La Travesía!
+# En Travesía
 
 ## Resumen
-Una travesía en la que cada scout lleva su equipo y su comida, todos en fila, con un explorador unos 200 m adelante que encuentra el camino y deja señales. En el camino hay que resolver obstáculos: armar un puente sobre un arroyo o una balsa, o un piso de ramas en un terreno pantanoso, y dejar señales y notas para otros grupos que vengan detrás, de día o de noche.
+Una actividad de expedición: la patrulla hace una travesía como si cruzara una región salvaje y desconocida, llevando todo encima, buscando el camino y resolviendo los obstáculos que aparecen. B-P la planteaba como «una travesía por África Central».
 
 ## Desarrollo
-1. Planeá el recorrido y los obstáculos.
-2. El explorador sale adelante y marca el camino con señales de pista.
-3. La patrulla sigue en fila, leyendo las señales.
-4. En cada obstáculo, la patrulla decide cómo superarlo y lo construye.
-5. Al final del recorrido, dejan señales y una nota para el grupo siguiente.
+1. Cada scout lleva su equipo y su comida en un atado o una mochila. (En el original se llevaba el atado sobre la cabeza.)
+2. La patrulla camina en fila india, uno detrás del otro.
+3. Un scout va adelante, a unos 200 metros del resto, como explorador: es el que encuentra el camino. A medida que avanza, va dejando señales scouts que indican por dónde seguir, y la patrulla las sigue.
+4. Cuando aparece un obstáculo, la patrulla lo resuelve: arma un puente para cruzar un arroyo o una balsa para cruzar una laguna.
+5. Si el terreno está pantanoso, arma un piso firme para pasar: troncos atravesados uno al lado del otro, o haces de ramas atadas.
+6. Durante todo el recorrido, la patrulla va dejando señales y notas para cualquier otro grupo que venga detrás, de día o de noche.
 
 ## Cierre
 - ¿Qué obstáculo les costó más y cómo lo resolvieron?
@@ -173,12 +178,8 @@ to the road to follow; make bridge over stream or raft over lake:
 corduroy or faggots in boggy ground: leave signs and notes for any
 parties who may follow by day or night.
 
-**Versión en español:**
-
-**EN TRAVESÍA.** Hagan una travesía por África Central: cada scout lleva su equipo y su comida en un atado sobre la cabeza; caminen en fila india con un scout 200 yardas adelante que encuentra el camino; él hace señales scouts sobre el camino a seguir; armen un puente sobre un arroyo o una balsa sobre un lago; un piso de troncos o de haces de ramas en terreno pantanoso; dejen señales y notas para cualquier grupo que los siga, de día o de noche.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - nudo-llano
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -137,18 +141,29 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Unir Dos Cuerdas: el Nudo que Salvó la Función!
+# Unir Dos Cuerdas: el Nudo que Salvó la Función
 
 ## Resumen
-El manual cuenta la historia de una scout que vio a dos hombres intentar colgar un telón pesado uniendo dos cuerdas de distinto grosor. Todos sus nudos se soltaban, hasta que ella ofreció ayuda, hizo un nudo que aguantó y después se lo enseñó. Con esa historia se aprenden los dos nudos para unir cuerdas. El **nudo llano** sirve para dos cuerdas del mismo grosor y la **vuelta de escota**, para dos de distinto grosor. Al final, cada patrulla tiene que colgar una tela pesada usando sus nudos.
+Una historia corta para contar antes de enseñar dos nudos para unir sogas: el nudo llano y la vuelta de escota.
 
 ## Desarrollo
-1. Contá la historia del telón (está en el texto original) y preguntá: ¿por qué se soltaban los nudos?
-2. Nudo llano: con una punta en cada mano, cruzá la derecha sobre la izquierda y enrollala; después cruzá la izquierda sobre la derecha y enrollala. Apretá. Las puntas quedan al lado del firme.
-3. Mostrá la «vieja» o nudo de rizo falso (cruzando dos veces igual) y comparalo con el llano: el falso se tuerce y se suelta.
-4. Vuelta de escota: con la cuerda gruesa hacé un seno. Pasá la cuerda fina de abajo hacia arriba por el seno, por debajo del seno, por encima, y por debajo de su propio firme. Apretá.
-5. Desafío por patrullas: cada patrulla recibe una cuerda gruesa y una fina, y tiene que unirlas para colgar una tela pesada entre dos puntos. Gana la tela que queda colgada sin que se suelte ningún nudo.
-6. Ronda final: cada uno ata los dos nudos con los ojos cerrados.
+**La historia:** una scout vio a dos hombres que querían colgar un telón muy grande y pesado para el escenario de una función. Tenían que unir dos sogas, una bastante más gruesa que la otra, y cada nudo que hacían se soltaba con el peso. Ya estaban por decir «no se puede» cuando ella ofreció ayuda. La miraron con desconfianza, pero le dijeron «dale». Hizo un nudo que aguantó y después se lo tuvo que enseñar a ellos. Pudo ser útil porque sabía qué nudo une dos sogas de distinto grosor y cómo hacerlo.
+
+Dos palabras antes: la **punta** es el extremo de la soga con el que se hace el nudo; el **firme** es el resto, la parte larga; un **seno** es una curva que se forma al doblar la soga.
+
+**1. Nudo llano.** Sirve para unir dos puntas del mismo grosor, o para alargar una soga. Las puntas quedan al lado del firme y el nudo no se traba, así que se desata fácil. Es el nudo que más se usa: para atar paquetes y el rollo de la bolsa de dormir, para arreglar cordones o sogas de tender rotas.
+1. Tomá una punta en cada mano.
+2. Cruzá la punta de la mano derecha por encima de la de la izquierda y dale una vuelta alrededor.
+3. Ahora cruzá la punta que quedó en la mano izquierda por encima de la de la derecha y dale otra vuelta alrededor.
+4. Apretá.
+
+**2. Vuelta de escota.** Sirve para unir dos sogas, sobre todo si son de distinto grosor, o para atar una punta a un lazo fijo. Es el nudo que usó la scout.
+1. Con la punta de la soga más gruesa hacé un seno chico (o usá el lazo fijo).
+2. Pasá la punta de la soga más fina de abajo hacia arriba por adentro del seno.
+3. Pasala por detrás del seno, rodeando las dos ramas.
+4. Traela de vuelta cruzando por delante del seno.
+5. Metela por debajo de su propio firme (la soga fina), sin pasarla otra vez por adentro del seno.
+6. Apretá bien.
 
 ## Cierre
 - ¿Qué hizo la scout de la historia además de atar el nudo? (Lo enseñó.)
@@ -230,56 +245,8 @@ Pull the loops tight.
 This is the way the Girl Scout tied the rope together for the stage
 hands.
 
-**Versión en español:**
-
-Una scout cuenta una historia interesante: vio a dos hombres que intentaban colgar un telón muy grande y pesado que iba a formar parte de la escenografía de una función. Los hombres trataban de unir dos cuerdas, una bastante más gruesa que la otra. Cada nudo que hacían se soltaba con el peso del telón. Al final los hombres ya estaban por decir «No se puede». Fue entonces que la scout ofreció ayuda. Los hombres la miraron con desconfianza, pero le dijeron: «Dale». Por supuesto, ella hizo un nudo que aguantó; después tuvo que enseñárselo a los hombres. Como ves, pudo ser útil, porque conocía el tipo de nudo que sostiene juntas dos cuerdas de distinto grosor y sabía cómo hacerlo.
-
-[…]
-
-**1. Nudo llano**
-
-El nudo que sirve para unir dos puntas del mismo grosor, sea para asegurarlas o para alargar una cuerda, se llama nudo llano. Se hace de modo que las puntas salgan al lado del firme y el nudo no se trabe. Se usa para atar bultos, como el rollo de frazadas, y paquetes; para atar entablillados, sujetar las puntas de un cabestrillo o arreglar cordones, sogas o piolines rotos, como cordones de zapatos, sogas de tender, etc. Es el nudo que más se usa.
-
-Para hacer el nudo llano:
-
-Tomá una punta en cada mano;
-
-Cruzá la punta de la mano derecha sobre la de la mano izquierda;
-
-Enrollala alrededor de la cuerda de la mano izquierda;
-
-Cruzá la punta de la mano izquierda sobre la de la mano derecha;
-
-Enrollala alrededor de la cuerda de la mano derecha;
-
-Apretá.
-
-**2. Vuelta de escota**
-
-Otro nudo que se usa para unir dos puntas, generalmente de distinto grosor, o para sujetar una punta a un lazo fijo, es la vuelta de escota.
-
-[Ilustración: 2a. Vuelta de escota: floja]
-
-[Ilustración: 2b. Vuelta de escota: apretada]
-
-Para hacer una vuelta de escota:
-
-Hacé un seno chico en la punta de la cuerda más gruesa, o usá el lazo fijo en su lugar;
-
-Pasá la punta de la cuerda más fina de abajo hacia arriba por el seno;
-
-Por debajo del seno;
-
-Por encima del seno;
-
-Por debajo de su propio firme;
-
-Apretá los lazos.
-
-Así fue como la scout unió las cuerdas para los tramoyistas.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

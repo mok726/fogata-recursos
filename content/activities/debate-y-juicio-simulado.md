@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate y Juicio Simulado"
+title: "Debates y Juicios"
 duration: "60-90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-y-juicio-simulado/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - debate
   - juicio-simulado
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 24   # Defiendo y promuevo el respeto a las reglas de la democracia, aportando a su construcción a partir de una mirada crítica de la realidad.
 ---
 
-# ¡Debate y Juicio Simulado!
+# Debates y Juicios
 
 ## Resumen
-Una actividad para una noche de reunión bajo techo. Un adulto modera un **debate** sobre un tema de actualidad: dos oradores preparados presentan posturas distintas, después opina cada uno y al final se vota. Como variante, B-P propone un **juicio simulado** sobre una historia conocida, con juez, acusado, testigos, abogados y jurado.
+Una actividad para una reunión tranquila en el local: hacer un debate o un juicio simulado. Sirve para que los chicos pierdan la vergüenza de hablar en público y aprendan cómo funciona una asamblea.
 
 ## Preparación
 1. Elegí un tema que de verdad les interese, con dos posturas posibles.
@@ -150,9 +154,21 @@ Una actividad para una noche de reunión bajo techo. Un adulto modera un **debat
 3. Para el juicio, prepará el caso y repartí los roles.
 
 ## Desarrollo
-1. **Debate:** el moderador presenta el tema y da la palabra a los dos oradores preparados. Después pide la opinión de cada participante, por turno. Al final se vota a favor o en contra de la moción.
-2. Con la práctica, sumen procedimientos de asamblea: apoyar una moción, proponer enmiendas, respetar al moderador y agradecer.
-3. **Juicio simulado:** el adulto hace de juez y reparte los roles. Cada uno inventa su testimonio o sus argumentos sin salirse de la historia. El jurado decide según las pruebas: no se condena si la acusación no prueba su caso.
+**El debate:**
+1. El dirigente elige un tema de actualidad que de verdad les interese a los chicos y les haga olvidarse de la vergüenza. Él hace de moderador.
+2. Antes de la reunión, prepara a un chico para que presente y defienda una postura, y a otro para que defienda la contraria.
+3. En la reunión, hablan primero esos dos. Después el moderador les da la palabra a todos los demás, por turno, para que digan lo que piensan.
+4. Al final se vota a favor o en contra de la propuesta.
+
+Al principio a los chicos les cuesta mucho hablar. Después de uno o dos debates agarran confianza, se expresan mejor y aprenden cómo se hace una asamblea: apoyar una moción (una propuesta para votar), proponer cambios, respetar lo que decide el moderador, votar y agradecerle al moderador al final.
+
+**El juicio simulado** (para variar):
+1. Se elige una historia para juzgar. El original propone la que B-P cuenta en la primera parte de *Escultismo para muchachos*: un chico, Robert Hindmarsh, se fijó con atención en un hombre que andaba por el campo, William Winter, y en detalles como las marcas de sus zapatos. Más tarde, cuando hubo un crimen en el lugar, lo que había observado y recordado sirvió para encontrar al culpable. También se puede usar otra historia.
+2. El dirigente hace de juez y reparte los papeles: el acusado; los testigos (el chico Hindmarsh, un policía, un vecino del pueblo y una señora amiga de la víctima); el abogado defensor; el fiscal, que acusa; y, si hay suficientes chicos, el jurado con su presidente.
+3. Se sigue, lo más parecido posible, el orden de un juicio de verdad: hablan las partes, declaran los testigos y se les hacen preguntas.
+4. Cada uno inventa su propio testimonio, su alegato o sus preguntas según su imaginación, siguiendo la historia pero con más detalles.
+5. El jurado no tiene que declarar culpable al acusado si la fiscalía no logra probar el caso.
+6. Al final, en su resumen, el juez destaca cómo el chico de la historia cumplió con cada parte del deber de un scout (observar, recordar, avisar y declarar), para que la lección les llegue a todos.
 
 ## Cierre
 - ¿Qué argumento les hizo cambiar de opinión?
@@ -212,37 +228,8 @@ In your summing up bring out the fact of the boy (Hindmarsh) having
 carried out each part of the duty of a scout, in order to bring home its
 lesson to the boys.
 
-**Versión en español:**
-
-**DEBATES, JUICIOS, ETC.**
-
-Un buen ejercicio para una noche de invierno en el local es hacer un debate sobre algún tema de actualidad, con el instructor como moderador. Él se ocupa de que haya un orador de un lado, preparado de antemano para presentar y defender una postura sobre el tema, y otro orador preparado para exponer otra postura. Después de escucharlos, invita a los demás presentes, por turno, a dar su opinión. Y al final toma los votos a favor y en contra de la moción.
-
-Al principio a los chicos les va a dar mucha vergüenza hablar, salvo que el tema elegido por el instructor de verdad les interese y los saque de sí mismos.
-
-Después de uno o dos debates toman más confianza, pueden expresarse con claridad y aprenden además el procedimiento correcto de las asambleas, como apoyar una moción, proponer enmiendas, acatar lo que resuelve el moderador, votar, agradecer al moderador, etc.
-
-En lugar de un debate, para variar, puede resultar interesante un juicio simulado.
-
-Por ejemplo, la historia del asesinato que se cuenta en la Parte I podría ser el tema del juicio.
-
-El instructor haría de juez y asignaría a los chicos los siguientes papeles:
-
-- Acusado: William Winter.
-- Testigo: el muchacho Robert Hindmarsh.
-- Testigo: el agente de policía.
-- Testigo: un vecino del pueblo.
-- Testigo: una anciana (amiga de la mujer asesinada).
-- Abogado defensor.
-- Fiscal.
-- Presidente y miembros del jurado (si hay suficientes scouts).
-
-Sigan lo más fielmente posible el procedimiento de un tribunal. Que cada uno arme su propio testimonio, sus alegatos o su interrogatorio según sus ideas y su imaginación, con el testimonio inventado sobre la base de la historia, pero con más detalle. No declaren culpable al acusado necesariamente, a menos que la fiscalía pruebe su caso ante el jurado.
-
-En su resumen final, el juez destaca que el muchacho (Hindmarsh) cumplió con cada parte del deber de un scout, para que la lección les llegue a los chicos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

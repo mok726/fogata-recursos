@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera de Rescate"
+title: "Carrera de Arrastre"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-de-rescate/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - salvamento
   - primeros-auxilios
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,16 +142,20 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Carrera de Rescate!
+# Carrera de Arrastre
 
 ## Resumen
-Una patrulla hace de pacientes, tendidos a cierta distancia. La otra corre con sogas, los ata y los arrastra hasta la largada. Se toma el tiempo del último en llegar. Después cambian. Gana la que tarda menos, con dos condiciones: los nudos tienen que estar bien hechos y cada paciente tiene que tener una campera bajo la cabeza.
+Una carrera por patrullas para practicar cómo llevar a un herido arrastrándolo con una soga, hecha rápido pero con los nudos bien atados.
 
 ## Desarrollo
-1. Los pacientes se acuestan a unos 30-50 m (el original dice 100 yardas).
-2. A la señal, los rescatistas corren, atan y arrastran.
-3. El árbitro controla los nudos y la campera bajo la cabeza.
-4. Cambian roles y comparan tiempos.
+1. Los jugadores de una patrulla hacen de «pacientes»: es decir, de heridos que no pueden caminar. Se acuestan en el suelo en fila, a unos 90 metros de la línea de largada.
+2. Los de la otra patrulla esperan en la largada, cada uno con una soga.
+3. A la señal, cada uno corre hasta un paciente, le ata la soga con un nudo bien hecho y lo arrastra de vuelta hasta la largada.
+4. Antes de arrastrarlo, tiene que ponerle al paciente su propio abrigo doblado debajo de la cabeza, para protegérsela.
+5. El que dirige toma el tiempo hasta que llega el último paciente.
+6. Después las patrullas cambian de lugar: los que arrastraban hacen de pacientes y al revés.
+
+**Cómo se gana:** gana la patrulla que trae a todos sus pacientes en menos tiempo. Para que valga, los nudos tienen que estar bien atados y cada paciente tiene que llevar el abrigo bajo la cabeza.
 
 ## Cierre
 - ¿Por qué importa proteger la cabeza? ¿Qué nudo usaron?
@@ -167,12 +175,8 @@ in. Patrols change places. The one which completes in shortest time
 wins. Knots must be correctly tied, and patients' coats laid out under
 their heads.
 
-**Versión en español:**
-
-**"CARRERA DE ARRASTRE."** Se tiende una fila de pacientes de una patrulla a cien yardas de la largada. Otra patrulla, cada uno con una soga, corre hasta ellos, ata las sogas a los pacientes y los arrastra de vuelta. Se toma el tiempo del último en llegar. Las patrullas cambian de lugar. Gana la que completa en menos tiempo. Los nudos tienen que estar bien hechos, y hay que poner las chaquetas de los pacientes bajo sus cabezas.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

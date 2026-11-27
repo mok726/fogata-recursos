@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Globo de Nadie"
+title: "El Dirigible de Nadie"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-globo-de-nadie/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-de-salon
   - integracion
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -135,14 +139,28 @@ rama_rovers:
   - 11   # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¡El Globo de Nadie!
+# El Dirigible de Nadie
 
 ## Resumen
-Dos patrullas sentadas en dos bancos, frente a frente, con las rodillas a unos 30 cm de las del otro equipo. Se tira un globo y todos lo golpean con las manos para mantenerlo en el aire y mandarlo por encima de las cabezas rivales. Si cae al piso detrás de un equipo, ese equipo pierde un punto. Se juega al mejor de cinco.
+Un juego bajo techo con un globo, entre dos patrullas sentadas frente a frente.
 
 > **Nota para el educador:** está en la parte de "juegos no scouts" que B-P recomienda para las noches en el local o en campamento. Ideal para un día de lluvia.
 
 > **Nota de seguridad:** nadie se levanta del banco, y se juntan los restos de globos reventados.
+
+## Desarrollo
+El nombre en inglés, *Nobody's Airship*, quiere decir «el dirigible de nadie»: el globo flota en el medio y no es de ningún equipo, cada uno trata de sacárselo de encima.
+
+1. Se ponen dos bancos (o dos filas de sillas) enfrentados. Cada patrulla se sienta en uno, mirando a la otra, con las rodillas a unos 30 cm de las rodillas del equipo de enfrente.
+2. El que dirige tira un globo inflado entre los dos equipos.
+3. Los jugadores le pegan al globo con las manos para que no caiga y tratan de mandarlo lejos, por encima de las cabezas del otro equipo.
+4. Si el globo cae al suelo detrás de un equipo, ese equipo pierde un punto. Después se vuelve a tirar el globo en el medio.
+
+**Cómo se gana:** el original dice solo que el juego es «al mejor de cinco puntos», sin aclarar más. Como los puntos se pierden, una forma de entenderlo es jugar cinco globos y que gane el equipo que pierde menos; otra, que pierda el primer equipo que deja caer tres globos detrás suyo. Una aclaración que el original no hace: conviene que todos jueguen sin levantarse del banco.
+
+## Cierre
+- ¿Cómo se organizaron para que el globo no cayera de su lado?
+- ¿Les costó quedarse en el lugar mientras el globo andaba cerca?
 
 ## Texto original completo de la actividad
 
@@ -155,12 +173,8 @@ to send it far over the heads of their opponents. If it falls to the
 ground behind one party that party loses a point. The game is best of
 five points.
 
-**Versión en español:**
-
-**EL DIRIGIBLE DE NADIE.** Dos patrullas se sientan en dos bancos, una frente a la otra, con las rodillas a más o menos un pie de las del lado opuesto. Se tira un globito, y los dos lados le pegan con las manos para mantenerlo en el aire y tratar de mandarlo lejos, por encima de las cabezas de sus oponentes. Si cae al suelo detrás de un equipo, ese equipo pierde un punto. El juego es al mejor de cinco puntos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

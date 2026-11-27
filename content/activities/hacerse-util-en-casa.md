@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hacerse Útil en Casa"
+title: "Cómo Hacerte Útil"
 duration: "1 semana"
 duration_detail: "Una semana (en casa) + 20 minutos de puesta en común"
 layout: "layouts/activity.njk"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -145,19 +146,29 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Hacerse Útil en Casa!
+# Cómo Hacerte Útil
 
 ## Resumen
-B-P cuenta que él mismo tiende su cama, guarda su ropa y ordena su cuarto, y que cualquier lobato puede hacer lo mismo. Da ideas concretas para ser "un buen compañero en casa": tender la cama, limpiar vidrios, lustrar el calzado, lavar los platos, barrer, lavar ropa chica, cuidar a un hermanito y hacer mandados sin olvidarse de nada.
+Una charla de B-P para los lobatos sobre cómo ayudar en casa, con ideas concretas de tareas. Sirve para leerla o contarla en la reunión y después proponerles a los chicos que elijan una tarea para hacer en la semana.
 
 ## Preparación
 1. Prepará una tarjeta con las tareas de B-P (actualizadas) y lugar para marcar cada día.
 
 ## Desarrollo
-1. En ronda, lean o cuenten lo que hace B-P en su casa. Pregunten: ¿quién tiende su cama?
-2. Cada lobato elige dos o tres tareas de la lista: tender la cama (sacando todo y estirando bien, sin una arruga), limpiar un vidrio (trapo húmedo y uno seco), lavar y secar los platos con agua caliente, barrer, lavar medias o pañuelos a mano, acompañar a un hermanito, hacer un mandado sin olvidarse nada.
-3. Durante la semana las hace sin que nadie se lo pida, como propone B-P ("¡qué sorpresa se van a llevar!"), y marca la tarjeta.
-4. En la reunión siguiente, cada uno cuenta qué hizo, qué le costó y qué dijeron en su casa.
+B-P empieza preguntando: ¿tendés tu cama a la mañana? Si no, ¿por qué no? Sos perfectamente capaz y les ahorrarías trabajo a otros. Él cuenta que siempre tiende su propia cama, guarda su ropa y ordena su cuarto, y que como suele levantarse antes que todos, no espera a que otro prenda el fuego de la casa: lo hace él, y le gusta. Cualquier lobato puede hacer lo mismo.
+
+**Las tareas que propone:**
+
+1. **Tender la cama.** Fijate cómo están puestas las sábanas y las frazadas, y al otro día hacelo vos sin decirle nada a nadie: se van a sorprender. Antes, sacá todo y dejalo airear. Da vuelta el colchón de punta a punta cada día, para que no se llene de pozos. Después estirá todo bien, sin arrugas.
+2. **Limpiar vidrios.** Con un trapo o una gamuza húmeda se limpia, y con uno seco se lustra.
+3. **Lustrar zapatos.** Se aprende mirando a un lustrabotas y fijándose en sus trucos. A B-P le encanta, casi tanto como pulir los metales de la casa con un trapo suave y limpiametales.
+4. **Lavar los platos,** tazas y cubiertos, con cuidado de no romper nada. El agua tiene que estar caliente para sacar la grasa. Después se secan bien.
+5. **Barrer.** B-P cuenta un truco de su época: tirar sobre la alfombra hojas de té húmedas antes de barrer, porque juntan el polvo y no lo dejan volar.
+6. **Lavar ropa, pañuelos y medias.** Se enjabonan en agua tibia y se dejan en remojo; después se lavan en agua limpia, se enjuagan en agua fría y se cuelgan.
+7. **Sacar a pasear al bebé en el cochecito,** sin dejarlo solo para irte a jugar. Como un centinela, no podés abandonar tu puesto. Mantenete lejos de la calle y de los autos.
+8. **Hacer mandados** lo más rápido posible, sin equivocarte ni olvidarte de lo que te pidieron.
+
+Son solo algunas ideas para ser un buen compañero en tu casa.
 
 ## Cierre
 - ¿Qué tarea te gustó más? ¿Cuál vas a seguir haciendo?
@@ -186,25 +197,8 @@ Take baby out in a pram — but don't leave it to go and play with other boys. Y
 Run messages — as fast as you can, and without making stupid mistakes or forgetting what was told you like ordinary boys do.
 These are just a few ideas on being a Goodfellow in your home.
 
-**Versión en español:**
-
-**CÓMO HACERTE ÚTIL**
-¿Tendés tu cama a la mañana? Si no lo hacés, ¿por qué no? Sos perfectamente capaz, y le ahorrarías mucho trabajo a otros si la tendieras vos.
-¿Sabés una cosa? Yo siempre tiendo mi cama, guardo mi ropa y ordeno mi cuarto, y estoy seguro de que cualquier lobato puede hacer lo mismo. Además, como en general me levanto antes que nadie en la casa, no espero a que alguien venga a preparar y encender el fuego: lo hago yo, y me gusta hacerlo.
-Tender la cama. — Fijate cómo están puestas y metidas las sábanas y las frazadas, y mañana hacé lo mismo sin decirle nada a nadie. ¡Qué sorpresa se van a llevar cuando encuentren el trabajo ya hecho!
-Al tender la cama, no te olvides de sacar todas las sábanas y frazadas y de airearlas. El colchón se da vuelta de punta a punta, para que el lado de arriba de anoche quede abajo esta noche; así no se llena de bultos y pozos. Cuando vuelvas a poner las sábanas y las frazadas, hacelo con mucho cuidado y bien estirado, sin una arruga, para que nadie lo pueda haber hecho más prolijo.
-Encender el fuego. — (Ver el Duodécimo Mordisco.)
-Limpiar vidrios. — Una gamuza húmeda para limpiar y una seca para lustrar dejan una ventana brillante y linda.
-Limpiar botas y zapatos. — Esto se aprende mejor mirando trabajar a un lustrabotas y fijándose en todos los trucos que tiene para limpiar y lustrar el calzado de sus clientes. A mí me encanta lustrar botas; es casi tan satisfactorio como pulir todos los bronces con un trapo suave y "Brasso".
-Lavar los platos — platos, tazas, cuchillos y tenedores, pero sin ser torpe y sin cascar ni romper las tazas. El agua tiene que estar caliente para sacar la grasa. Después se secan y se lustran.
-Barrer las alfombras. — Esparcí sobre la alfombra hojas de té húmedas de la tetera de ayer y barrelas: juntan y retienen el polvo.
-Lavar ropa, pañuelos y medias. — Enjabonalos en agua tibia y dejalos enrollados en remojo. Después lavalos en agua limpia. Enjuagalos en agua limpia y fría, y colgalos a secar.
-Sacar a pasear al bebé en el cochecito — pero sin dejarlo para irte a jugar con otros chicos. Estás de servicio como buen compañero y, como un centinela, no podés abandonar tu puesto. Mantenete fuera de la calle y lejos del peligro de los autos, los caballos desbocados, etc.
-Hacer mandados — lo más rápido que puedas, y sin cometer errores tontos ni olvidarte de lo que te dijeron, como hacen los chicos comunes.
-Estas son solo algunas ideas para ser un buen compañero en tu casa.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

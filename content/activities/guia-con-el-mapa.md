@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Guía con el Mapa"
+title: "Juegos de Orientación"
 duration: "60-90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/guia-con-el-mapa/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - orientacion
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -141,16 +145,18 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Guía con el Mapa!
+# Juegos de Orientación
 
 ## Resumen
-El adulto lleva a la patrulla a una ciudad o a un terreno que no conocen, con un mapa, y les dice adónde quiere ir. Cada scout guía por turnos (unos 15 minutos a pie o 7 en bicicleta) usando solo el mapa. Arranca con 10 puntos y pierde uno por cada error.
+Un ejercicio para aprender a guiarse con un mapa en un lugar que no se conoce. Cada scout, por turno, guía a la patrulla.
 
 ## Desarrollo
-1. Explicá el destino y entregá el mapa al primer guía.
-2. El guía decide el camino sin ayuda. El adulto anota los errores.
-3. Cambien de guía cada 15 minutos.
-4. Al llegar, comparen puntajes.
+1. El instructor lleva a la patrulla a una ciudad que no conocen, o a un terreno complicado y desconocido. La patrulla va en formación de patrulla, con su guía. El instructor lleva un mapa de rutas (el original habla de un mapa para ciclistas).
+2. El instructor dice adónde quiere llegar.
+3. Un scout toma el mapa y guía a la patrulla durante un tiempo: unos siete minutos si van en bicicleta, o unos quince si van caminando. Tiene que encontrar el camino solo con el mapa, sin preguntar.
+4. Cuando se cumple el tiempo, el mapa pasa al siguiente scout, y así hasta que todos guiaron.
+
+**Puntaje:** cada scout empieza con diez puntos y se le descuenta uno por cada error que comete al leer el mapa. Si termina sin ningún error, sus diez puntos equivalen a un punto real para una insignia de mérito.
 
 ## Cierre
 - ¿Qué referencias del mapa los ayudaron?
@@ -177,14 +183,8 @@ makes. If he makes no mistake at all throughout the exercise, his ten
 small marks will count as one real scout mark towards a badge "of
 merit."
 
-**Versión en español:**
-
-**JUEGOS DE ORIENTACIÓN.**
-
-El instructor lleva a una patrulla, en formación de patrulla, a una ciudad desconocida o a un terreno complicado y desconocido, con un mapa de ciclismo. Después da las instrucciones de adónde quiere ir y hace que cada scout, por turnos, guíe a la patrulla, digamos siete minutos si van en bicicleta, quince minutos si van caminando. Ese scout tiene que encontrar el camino solo con el mapa, y se dan puntos por la habilidad para leerlo; es decir, a cada scout se le dan diez puntos al empezar y se le descuenta uno por cada error que comete. Si no comete ningún error en todo el ejercicio, sus diez puntos chicos cuentan como un punto scout real para una insignia "de mérito".
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

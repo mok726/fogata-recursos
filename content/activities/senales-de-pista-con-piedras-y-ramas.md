@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - rastreo
   - senales-de-pista
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -142,22 +146,31 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Señales de Pista con Piedras, Pasto y Ramas!
+# Señales de Pista con Piedras, Pasto y Ramas
 
 ## Resumen
-Donde no hay árboles para marcar, Seton cuenta que se usan señales con lo que hay. Una **piedra sobre otra** quiere decir «este es el camino». Un **mechón de pasto anudado**, con la punta hacia donde gira el camino. Una **ramita quebrada** colgando, o tirada en el suelo con la base apuntando hacia donde hay que ir. Tres señales juntas avisan «atención, algo importante». Una patrulla marca un recorrido y otra lo sigue.
+Un texto para aprender las señales de pista que usaban los pueblos originarios de Norteamérica, los cazadores y los exploradores para marcar un sendero donde no hay árboles, o para avisar que hay un giro o algo importante. Se puede usar en la reunión para enseñar las señales y después practicarlas en una salida.
 
 ## Preparación
 1. Prepará una tarjeta con las señales: camino (piedra sobre piedra, ramita colgando), gire a la derecha o a la izquierda (piedra al costado, pasto o ramita apuntando), atención (tres señales juntas).
 2. Elegí un sector delimitado.
 
 ## Desarrollo
-1. Mostrá y practicá cada señal con materiales del lugar.
-2. La patrulla «liebre» sale primero y marca un recorrido de 10-15 señales hasta esconder un tesoro, con al menos dos giros y una señal de «atención» cerca del final.
-3. Diez minutos después sale la patrulla «sabueso», que tiene que seguir la pista sin saltearse señales.
-4. Si se pierden, vuelven a la última señal segura y buscan alrededor.
-5. Al llegar, la patrulla sabueso desarma la pista en el camino de vuelta: cada piedra vuelve a su lugar.
-6. Cambian los roles.
+**Marcas en los árboles.** Antes se marcaba el camino haciendo con el hacha un corte en la corteza del árbol, que deja una mancha clara visible de lejos. Hoy no se lastiman los árboles, pero conviene conocer qué significaban:
+- un corte simple: «este es el sendero»;
+- un corte alargado hacia un costado: «acá el camino dobla» hacia ese lado (derecha o izquierda). Se hace más largo para que se note bien;
+- ese mismo corte alargado, pero hecho de frente: «atención, acá hay algo de especial importancia»;
+- el corte de frente combinado con un corte largo al costado: «muy importante: acá desviate». Muchas veces se usa para decir «el campamento está cerca»;
+- tres cortes juntos: «advertencia» o «algo de gran importancia». Se combina con las otras marcas; por ejemplo, junto con el giro a la derecha quiere decir «atención, ahora hay algo muy importante a la derecha». Los tramperos la usaban para marcar dónde tenían su trampa o su depósito escondido.
+
+**Con piedras.** Donde hay piedras y rocas, la señal de «este es el camino» es una piedra puesta arriba de otra. Se usaban mucho en las montañas, donde el sendero pasa por pedreros.
+
+**Con pasto.** Donde solo hay pasto o juncos, se retuerce un mechón y se le hace un nudo. La punta del mechón se dobla hacia el lado al que hay que ir. Si es un punto muy importante, se atan tres mechones: con las puntas derechas si el camino sigue derecho, o dobladas hacia donde gira.
+
+**Con ramitas.**
+1. Una ramita quebrada que queda colgando quiere decir «este es el sendero».
+2. Una ramita quebrada del todo y puesta en el suelo, atravesada en el camino, quiere decir «acá dejá el camino recto y seguí hacia donde apunta la parte gruesa».
+3. Si se quiere dar un aviso especial, la parte gruesa se pone apuntando hacia el que viene siguiendo el rastro y se levanta un poco, apoyada en una ramita con horqueta. Si apunta hacia un lado, quiere decir «atención: el campamento, nosotros o algo importante está para allá». Algunos indican la distancia con la altura: baja, está cerca; muy alta, está lejos.
 
 ## Cierre
 - ¿Qué señal fue la más fácil de ver? ¿Y la más difícil?
@@ -237,36 +250,8 @@ Indians, and hunters in most parts of America. These are the
 standards--the ones sure to be seen by those who camp in the
 wilderness.
 
-**Versión en español:**
-
-Pero hay regiones sin árboles donde hay que marcar el sendero; regiones de matorral y arena, regiones de roca, extensiones de piedras y llanuras de pasto o juncos. Ahí hay que usar otros métodos.
-
-Un recurso indígena muy conocido, en los matorrales, es quebrar una ramita y dejarla colgando. (*Segunda fila*).
-
-Entre piedras y rocas, la señal reconocida es una piedra puesta encima de otra (*fila de arriba*), y en lugares donde no hay más que pasto, la costumbre es retorcer un mechón y hacerle un nudo (*tercera fila*).
-
-Estas señales también se usan en todo el país, de Maine a California.
-
-Al seguir un sendero, uno naturalmente mira hacia adelante buscando la próxima señal; si el sendero girara de golpe sin aviso, uno podría desviarse fácilmente, pero la costumbre lo previó. El corte en el árbol para el giro «a la derecha» se muestra en el n.º 2 de la cuarta fila; «a la izquierda», en el n.º 3. El mayor largo del corte de giro parece deberse al deseo de remarcarlo, ya que la misma marca hecha de frente se entiende como «Atención, acá hay algo de especial importancia». Combinada con una marca larga al costado quiere decir «muy importante; acá desviate». Esto se usa a menudo para decir «el campamento está cerca», y una tercera señal, que se combina de distintas maneras siempre con el sentido general de «advertencia» o «algo muy importante», es la marca triple. (N.º 4 de la cuarta fila). La combinación (n.º 1 de la fila de abajo) diría: «Atención, ahora algo muy importante a la derecha». Vi muchas veces a los tramperos usar esta marca para señalar dónde estaba su trampa o su escondite.
-
-Los agrimensores suelen usar una marca parecida, es decir, tres marcas simples y una franja, para decir «Hay una estaca muy cerca», mientras que una marca similar en otro árbol cercano quiere decir que la estaca está en la línea entre los dos.
-
-**Señales con piedras**
-
-Estas señales, traducidas al «idioma de las piedras», serían como en la fila de arriba de la figura.
-
-Se usan mucho en las Montañas Rocosas, donde el sendero pasa por lugares pedregosos o por pedreros.
-
-**Señales con pasto y ramitas**
-
-En el pasto o los juncos, la punta del mechón se hace mostrar la dirección a seguir; si es un punto de gran importancia, se atan tres mechones, con las puntas derechas si el sendero sigue derecho; si no, las puntas se doblan hacia el lado al que gira el camino.
-
-Los ojibwas y otros pueblos de los bosques usan ramitas para muchas de estas señales. (*Ver segunda fila*). La ramita quebrada colgando, como el corte simple, quiere decir «Este es el sendero». La ramita quebrada del todo y tirada en el suelo atravesada en la línea de marcha quiere decir «Acá dejá el camino recto y seguí en la dirección de la base», y cuando se quiere hacer una *advertencia* especial, la base apunta hacia quien sigue el rastro y se levanta un poco, apoyada en una ramita con horqueta. Si la base de la ramita estuviera levantada y apuntando a la izquierda, querría decir «Atención: el campamento, o nosotros, o el enemigo, o la presa que cazamos, está por allá». Para algunos, la altura de la base indica la distancia del objeto: si está baja, el objeto está cerca; si está muy levantada, está lejos.
-
-Estas son las principales señales de pista que usan los baqueanos, los indígenas y los cazadores en casi toda América. Son las señales básicas, las que seguro va a ver quien acampe en lugares silvestres.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Ernest Thompson Seton, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

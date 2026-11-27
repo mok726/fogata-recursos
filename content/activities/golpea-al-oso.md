@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - campamento
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -135,20 +139,23 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Golpeá al Oso!
+# Golpeá al Oso
 
 ## Resumen
-Un participante grande es el oso: lleva un globo atado en la espalda y tiene tres bases donde está a salvo. Los cazadores, con garrotes blandos, tratan de reventarle el globo cuando sale de las bases. El oso, con su propio garrote, les tira el sombrero: quien lo pierde queda fuera. B-P dice que sirve para que se conozcan chicos nuevos o tímidos.
+Un juego de persecución muy movido, tomado por B-P de un libro de Ernest Thompson Seton. Es ideal para que se conozcan y se suelten los chicos nuevos o tímidos.
 
 ## Desarrollo
-1. Marcá tres bases.
-2. El oso se ata el globo en la espalda. Los cazadores se ponen gorros.
-3. Cuando el oso sale de una base, lo atacan. Si le revientan el globo, ganan.
-4. Si el oso le tira el gorro a un cazador, ese cazador queda fuera.
+1. Un chico grande hace de «oso». Se marcan tres bases en el terreno: son sus refugios, y mientras está en una de ellas nadie lo puede atacar.
+2. El oso lleva un globo atado en la espalda.
+3. Los demás son los cazadores. Cada uno tiene puesto un sombrero o una gorra, y lleva un garrote blando hecho de soga de paja retorcida (hoy se puede hacer con un diario enrollado).
+4. Los cazadores tratan de reventarle el globo al oso con sus garrotes mientras él está fuera de las bases.
+5. El oso también tiene un garrote igual, y con él trata de voltearles la gorra a los cazadores. La gorra representa la vida del cazador: al que se la tiran, queda eliminado.
 
-> **Nota para el educador:** B-P lo toma del "Birchbark Roll of the Woodcraft Indians" de Ernest Thompson Seton. Los garrotes de soga de paja se reemplazan bien por fideos de pileta (espuma).
+**Cómo se gana:** el original no lo dice. Los cazadores ganan si revientan el globo; el oso, si los elimina a todos antes.
 
-> **Nota de seguridad:** solo garrotes blandos, sin golpes a la cabeza ni a la cara (al gorro se le pega de costado). Recogé los restos de globos.
+## Cierre
+- ¿Qué fue más difícil: acercarse al oso o escaparse a tiempo?
+- ¿Los ayudó el juego a conocerse con los más nuevos?
 
 ## Texto original completo de la actividad
 
@@ -163,12 +170,8 @@ similar club, with which he knocks off the hunters' hats. The hat
 represents the hunter's life. A good game for introducing strange or shy
 boys to each other.
 
-**Versión en español:**
-
-"Golpear al oso" (del "Birchbark of the Woodcraft Indians" del señor Seton Thompson). Un chico grande es el oso y tiene tres bases en las que puede refugiarse y estar a salvo. Lleva un globito en la espalda. Los demás chicos están armados con garrotes de soga de paja retorcida, con los que tratan de reventarle el globo mientras está fuera de la base. El oso tiene un garrote parecido, con el que les tira los sombreros a los cazadores. El sombrero representa la vida del cazador. Es un buen juego para que se conozcan chicos nuevos o tímidos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

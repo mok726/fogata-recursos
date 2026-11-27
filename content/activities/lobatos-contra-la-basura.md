@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lobatos contra la Basura"
+title: "El Orden"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lobatos-contra-la-basura/"
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -75,11 +76,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -161,16 +162,23 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Lobatos contra la Basura!
+# El Orden
 
 ## Resumen
-Para la Primera Estrella, B-P pedía mantener ordenada la guarida de la Manada y no dejar basura en ningún lado. Explica que la basura afea y además es peligrosa: la gente resbala con cáscaras y la fruta podrida cría gérmenes. Termina con un poema de un parque de Escocia y pide que los lobatos guarden los papeles en el bolsillo hasta encontrar un tacho.
+Una charla de B-P sobre el orden y la basura, ligada a una prueba de la Primera Estrella de los lobatos: demostrarle a Akela (el jefe de la Manada) que hacés todo lo posible por mantener ordenado el local y por no dejar basura en ningún lado.
 
 ## Desarrollo
-1. Lean el poema "Por favor, recordá" y cuenten la anécdota del lobato que volvió a tirar la cáscara de banana para que otro pudiera hacer la buena acción. ¿Qué tiene de raro?
-2. Ordenen y limpien juntos el local de la Manada: cada seisena se hace cargo de un sector.
-3. Salgan a una plaza o vereda cercana con guantes y bolsas. Separen lo reciclable si en tu ciudad hay recolección diferenciada.
-4. Al volver, cuenten qué encontraron más y piensen de dónde vino.
+**Por qué importa.** A mucha gente no le importa dónde tira la basura: colillas, boletos, cáscaras de naranja y papelitos quedan desparramados por todos lados. B-P espera que, cuando los scouts y los lobatos sean grandes, ya no haya gente así, y que todos se tomen el trabajo de usar los tachos o llevarse la basura a casa. La basura no solo afea la calle: la gente se resbala con las cáscaras de banana y de naranja y a veces se rompe un brazo o una pierna, y la fruta podrida junta gérmenes.
+
+B-P cuenta, en broma, de un lobato al que no se le ocurría ninguna buena acción: vio una cáscara de banana en un tacho, ¡y la volvió a tirar en la vereda para que otro lobato tuviera la oportunidad de levantarla!
+
+**Qué pueden hacer los lobatos:**
+1. No tirar papeles de caramelos en la calle ni en el campamento: guardarlos en el bolsillo hasta encontrar un tacho.
+2. En la ciudad, juntar los papeles y la basura de la calle.
+3. En el campo, arrancar los cardos y otras malezas que crecen al costado de los caminos, con una azadita o aunque sea con un palo. Así los caminos quedan más prolijos y se ayuda a los chacareros, porque el viento lleva las semillas de esas malezas a los campos y huertas. Cada planta que se arranca evita que nazcan miles.
+4. Estar orgullosos del local de la Manada y que cada uno haga su parte para mantenerlo limpio y ordenado, así cualquier visita se da cuenta, por el orden, de lo buena que es la Manada.
+
+B-P cita también un cartel en verso que había en las rejas de un parque de Escocia: enumeraba todo lo que la gente deja tirado (cáscaras, restos de comida, papeles de chocolate, botellas rotas, bolsas, latas, colillas) y decía que esa basura en los lugares lindos les «cierra la puerta del parque en la cara» a los demás.
 
 ## Cierre
 - ¿Qué encontraron más? ¿Por qué creen que la gente lo tira ahí?
@@ -208,32 +216,8 @@ Dirt and papers in pretty places
 Slam park gates in people's faces.
 So Cubs must be very careful not to be "litter-louts." Don't scatter your toffee papers about the streets or on your camp site. Keep them in your pocket until you can put them in a rubbish bin or in the fire. Be proud of your Pack Den, and see that each one of you does his bit to keep it neat and tidy, so that when a visitor comes to see you he may see how good a Pack you are by the tidiness of your Den.
 
-**Versión en español:**
-
-**ORDEN**
-Una de las pruebas de la Primera Estrella es demostrarle a Akela que hacés todo lo posible por mantener ordenada la guarida de la Manada y por no dejar basura en ningún lado. Me parece importante, ¿a vos no? A la mayoría de la gente parece no importarle dónde tira la basura: colillas de cigarrillo, boletos de colectivo, cáscaras de naranja y papelitos quedan desparramados por todos lados.
-Esperamos que, cuando los Scouts y los Lobatos sean grandes, ya no haya gente que tire esas cosas. Se van a tomar el trabajo de ponerlas en los tachos que hay para eso o de llevárselas a su casa.
-La basura no solo hace que las calles se vean desordenadas, sino que las vuelve peligrosas, porque la gente se resbala con cáscaras de banana y de naranja y muchas veces se rompe un brazo o una pierna.
-Y peligrosas también porque la fruta podrida ayuda a que crezcan gérmenes, que después pueden pasar al aire y enfermar a la gente. El otro día me contaron de un lobato que no se le ocurría ninguna buena acción, pero vio una cáscara de banana en un tacho, donde no molestaba a nadie, ¡y la volvió a tirar en la vereda para que, si pasaba otro lobato, tuviera la oportunidad de hacer una buena acción sacándola!
-Los lobatos que viven en el campo no tienen tantas oportunidades de juntar papeles en la calle, pero pueden hacer un trabajo igual de útil en los caminos cerca de su casa, arrancando los cardos y otras malezas que crecen a la orilla. No solo los caminos quedan más prolijos, sino que es una bendición para los chacareros, porque muchas de esas malezas, sobre todo los cardos y el hierba cana, largan semillas que el viento lleva a los campos y huertas vecinos, donde empiezan a crecer muchas malezas nuevas.
-Así que un lobato que arranca una planta evita que nazcan miles de otras en el vecindario.
-Por eso es muy satisfactorio salir con una azadita, o aunque sea con un palo, y cortar unos cuantos cientos de esos enemigos por día.
-En las rejas de un parque de Escocia pusieron estas palabras:
-POR FAVOR, RECORDÁ
-Cáscaras de banana y restos de almuerzo,
-cáscaras de naranja y papel de chocolate,
-botellas rotas, trapos rasgados,
-estuches de fotos y bolsas de papel,
-cigarrillos y fósforos usados,
-platos de cartón y papeles rotos,
-latas y cosas por el estilo
-arruinan este lugar para otros amigos.
-Mugre y papeles en lugares lindos
-les cierran las puertas del parque en la cara a todos.
-Así que los lobatos tienen que cuidarse mucho de no ser "sucios". No desparrames los papeles de los caramelos por la calle ni en el campamento. Guardalos en el bolsillo hasta que puedas tirarlos en un tacho o en el fuego. Sentite orgulloso de la guarida de tu Manada y fijate que cada uno haga su parte para mantenerla limpia y ordenada, para que, cuando venga una visita, vea por el orden de la guarida lo buena que es tu Manada.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -52,6 +52,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -65,11 +66,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,16 +147,20 @@ rama_rovers:
   - 26 # Valoro la diversidad y promuevo la inclusión en todos los ámbitos en los que me desempeño.
 ---
 
-# ¡Shere Khan y Mowgli!
+# Shere Khan y Mowgli
 
 ## Resumen
-Padre Lobo, Madre Lobo y los lobitos forman una fila tomados de la cintura, con Mowgli al final y un pañuelo colgando como cola. Shere Khan tiene tres minutos para sacarle la cola; Padre Lobo y toda la fila se mueven para impedírselo.
+Un juego de persecución de la Manada, basado en el Libro de la Selva: el tigre Shere Khan quiere atrapar a Mowgli, el cachorro humano, y la familia de lobos lo protege.
 
 ## Desarrollo
-1. Formen grupos de 5 a 8. En cada uno, uno hace de Shere Khan y el resto forma una fila, tomándose de la cintura del de adelante.
-2. El primero es Padre Lobo; el último, Mowgli (el más chico), con un pañuelo colgando atrás como cola, metido en el cinturón o el pantalón.
-3. A la señal, Shere Khan intenta sacarle la cola a Mowgli. Padre Lobo se interpone y toda la fila se mueve para mantener a Mowgli a salvo, sin soltarse.
-4. Si Shere Khan saca la cola en tres minutos, gana; si no, ganan los lobos. Roten los papeles.
+1. Un lobato hace de Padre Lobo, otro de Madre Lobo y el resto de lobitos. Se forman en una fila, uno detrás del otro, con Padre Lobo adelante y Mowgli, el más chico, al final.
+2. Cada uno se agarra de la cintura del que tiene adelante. La fila no se puede soltar.
+3. Mowgli se cuelga un pañuelo como si fuera una cola, metido por debajo del buzo y colgando por atrás.
+4. Otro jugador hace de Shere Khan, el tigre. Su objetivo es sacarle la cola a Mowgli.
+5. Shere Khan da vueltas alrededor de la fila buscando llegar hasta Mowgli. Padre Lobo, de frente, se le pone delante para cortarle el paso, y toda la fila se mueve para mantener a Mowgli a salvo detrás.
+6. El que dirige toma el tiempo: el tigre tiene tres minutos.
+
+**Cómo se gana:** si Shere Khan le saca la cola a Mowgli antes de los tres minutos, gana el tigre; si no, ganan los lobos. Después se cambian los papeles.
 
 ## Cierre
 - ¿Qué tenía que hacer cada uno para proteger a Mowgli?
@@ -172,14 +177,8 @@ GAME: SHERE KHAN AND MOWGLI
 Father Wolf, Mother Wolf, and all the little wolves form a string one behind the other with Mowgli, the smallest, as last in the string. Each catches hold of the waist of the one in front of him.
 Then comes along Mr. Shere Khan, the tiger. He wants to catch Mowgli — but whenever he tries to get him Father Wolf puts himself in the way to stop him, and all the string of wolves clinging to each other try to keep Mowgli safe behind them. Mowgli has a neckerchief hanging like a tail behind him from under his jersey, and if Shere Khan can get his tail within three minutes he wins the game, otherwise the wolves win.
 
-**Versión en español:**
-
-**JUEGO: SHERE KHAN Y MOWGLI**
-Padre Lobo, Madre Lobo y todos los lobitos forman una fila, uno detrás de otro, con Mowgli, el más chico, al final de la fila. Cada uno se agarra de la cintura del que tiene adelante.
-Entonces llega el señor Shere Khan, el tigre. Quiere atrapar a Mowgli, pero cada vez que intenta agarrarlo, Padre Lobo se pone en el medio para impedírselo, y toda la fila de lobos, aferrados unos a otros, trata de mantener a Mowgli a salvo detrás de ellos. Mowgli tiene un pañuelo colgando como cola detrás, por debajo del suéter, y si Shere Khan consigue sacarle la cola en tres minutos gana el juego; si no, ganan los lobos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - patrulla
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,20 +141,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Carrera de Relevos!
+# Carrera de Relevos
 
 ## Resumen
-Patrulla contra patrulla: hay que llevar tres mensajes desde un punto lejano hasta la base en el menor tiempo posible. El guía reparte a su patrulla en postas a lo largo del camino, y cada uno corre su tramo.
+Una competencia entre patrullas para ver cuál hace llegar mensajes desde lejos (unos 3 km o más) en menos tiempo, usando una cadena de corredores que se pasan el mensaje de uno a otro.
 
 ## Preparación
 1. Elegí un punto de partida alejado de la base y un recorrido seguro.
 2. Prepará tres mensajes o muestras por patrulla (por ejemplo, una hoja de una planta determinada).
 
 ## Desarrollo
-1. Cada guía lleva a su patrulla hasta el punto de partida y, en el camino, va dejando integrantes a distancias convenientes: esas son las postas.
-2. Desde el punto de partida se mandan los tres mensajes, de a uno. Cada integrante corre de su posta a la siguiente, entrega el mensaje y vuelve a su lugar.
-3. Gana la patrulla que entrega primero los tres mensajes en la base.
-4. Si las postas son de a dos, los mensajes pueden ir y volver.
+1. Cada patrulla recibe la orden de mandar tres mensajes seguidos desde un punto que está a unos 3 km o más. En vez de mensajes escritos pueden ser objetos, por ejemplo una ramita de una planta determinada.
+2. El guía de patrulla lleva a su patrulla hasta ese punto y, por el camino, va dejando scouts a distancias convenientes, formando una cadena de postas.
+3. Cada scout de la cadena corre (o va en bicicleta) con el mensaje desde su posta hasta la siguiente, se lo entrega al compañero y vuelve a su lugar para esperar el próximo.
+4. Así los tres mensajes van llegando, uno detrás de otro, hasta el punto de partida, donde espera el que dirige y anota la hora de llegada de cada uno.
+
+**Cómo se gana:** gana la patrulla que hace llegar los tres mensajes en menos tiempo.
+
+**Mensajes de ida y vuelta (variante del original):** si en cada posta se ponen dos scouts en vez de uno, los mensajes se pueden pasar en los dos sentidos.
 
 ## Cierre
 - ¿Cómo decidió el guía dónde poner a cada uno?
@@ -174,12 +182,8 @@ out to the spot drops scouts at convenient distances, who will then act
 as runners from one post to the next and back. If relays are posted in
 pairs messages can be passed both ways.
 
-**Versión en español:**
-
-**CARRERA DE RELEVOS.** Una patrulla contra otra, para ver quién consigue enviar un mensaje a gran distancia en el menor tiempo, mediante postas de corredores (o ciclistas). Se ordena a la patrulla salir y enviar tres notas o señas sucesivas (como ramitas de ciertas plantas) desde un punto a unos tres kilómetros o más. El guía, al llevar a su patrulla hasta ese lugar, deja scouts a distancias convenientes, que luego harán de corredores de una posta a la siguiente y de vuelta. Si las postas son de a dos, los mensajes pueden pasar en los dos sentidos.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

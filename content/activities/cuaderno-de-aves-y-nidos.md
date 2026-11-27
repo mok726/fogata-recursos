@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuaderno de Aves y Nidos"
+title: "Buscar Nidos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuaderno-de-aves-y-nidos/"
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -152,17 +153,26 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
 ---
 
-# ¡Cuaderno de Aves y Nidos!
+# Buscar Nidos
 
 ## Resumen
-B-P propone observar a las aves en silencio para descubrir dónde anidan, sin tocar nunca los nidos ni los huevos, y llevar un cuaderno con cada ave vista o escuchada, la fecha de la primera vez en el año, dibujos y la lista de nidos encontrados. Al año siguiente se comparan las fechas.
+Una actividad de observación de la naturaleza: encontrar nidos mirando a los pájaros y llevar un cuaderno de lo que se ve cada año.
 
 ## Desarrollo
-1. Antes de salir, acuerden la regla de oro: los nidos se miran de lejos y no se tocan. Los lobatos protegen los nidos.
-2. Caminen despacio y en silencio. Escuchen primero: muchas aves se descubren por el canto.
-3. Cuando vean un ave, quédense quietos y sigan con la vista a dónde va y de dónde vuelve: así se encuentra el nido. Algunas aves (como la alondra) aterrizan lejos del nido y caminan hasta él para despistar.
-4. Anoten en el cuaderno cada especie, la fecha y el lugar. Si pueden, dibújenla. Hagan una lista aparte de los nidos que descubrieron.
-5. Guarden el cuaderno para comparar las fechas con las del año siguiente o con las de otra seisena.
+**Buscar nidos, sin tocarlos.** Los scouts y los lobatos buscan nidos, pero no para sacar los huevos, sino para ver cómo los arman los pájaros, cómo son los huevos de cada especie y cómo alimentan y crían a los pichones. Desarmar nidos o llevarse huevos es de mala gente: los scouts y los lobatos los cuidan.
+
+**Cómo encontrarlos:**
+1. Se puede encontrar un nido revisando arbustos, pero la manera más deportiva, y muchas veces la única, es observar a los pájaros desde lejos: ver adónde van y de dónde vuelven, acercándose a escondidas y sin hacer ruido.
+2. Hay pájaros que engañan. Por ejemplo, los que anidan en el suelo, como el tero, no salen ni llegan justo desde el nido: caminan o corren un trecho por el suelo antes de levantar vuelo, y al volver se posan lejos y llegan al nido caminando. Si vas al lugar de donde salió volando, no vas a encontrar nada.
+3. Otros anidan en huecos de árboles, como los carpinteros, y algunos en los lugares más raros: la ratona, por ejemplo, puede hacer el nido en un caño, una lata o un frasco.
+
+**Observar en primavera.** La primavera es la mejor época para observar la naturaleza. Llegan las golondrinas desde muy lejos para pasar el verano. El que camina sin usar los ojos y los oídos se pierde la mitad de la diversión. Un buen oído descubre a un pajarito por su canto, y hace falta buena vista para seguirlo mientras salta de rama en rama. Es lindo encontrar el nido del zorzal con la madre empollando: si te portás bien con ella y le mostrás que no le vas a hacer daño, se acostumbra a vos.
+
+**El cuaderno:**
+1. Anotá cada pájaro que ves y la fecha en que lo viste o lo escuchaste por primera vez en el año. Por ejemplo, el día que escuchaste el primer crespín o viste la primera golondrina.
+2. Al año siguiente, compará las fechas, o comparalas con las de otro lobato.
+3. Si podés, dibujá los pájaros y sus huevos: el cuaderno queda mucho más interesante.
+4. Llevá también una lista de los nidos que vas encontrando.
 
 ## Cierre
 - ¿Qué aves vimos y cuáles solo escuchamos?
@@ -196,29 +206,8 @@ Note down on what day you first heard the cuckoo, or saw the first swallow of th
 If you can draw pictures of the birds and of their eggs, it makes the book all the more interesting.
 Also, a list of the nests that you discover is a good thing to keep.
 
-**Versión en español:**
-
-**BUSCAR NIDOS**
-Si querés observar las costumbres de las aves y cómo anidan, tenés que fijarte en señales chiquitas y tener la vista muy aguda.
-Claro que los scouts y los lobatos quieren encontrar nidos, pero no para robarles los huevitos, sino para ver cómo hacen las aves sus nidos, qué clase de huevos tiene cada especie y cómo alimentan y crían a sus pichones. Esto se puede hacer acechando y observando.
-Solo los sinvergüenzas van y desarman nidos y se llevan los huevos. Los scouts y los lobatos hacen todo lo posible por proteger los nidos.
-Por supuesto, se pueden encontrar nidos después de mucho hurgar entre los arbustos, pero lo más deportivo es observar a las aves y ver adónde van y de dónde vuelven. De hecho, con muchas de las aves más ariscas es la única manera de descubrir dónde está el nido. En algunos casos es un trabajo bastante difícil.
-Tomemos el chorlito, por ejemplo, o un ave más común, la alondra. La ves levantarse del suelo y subir cantando al cielo, pero si vas a donde se levantó, no encontrás el nido ahí. Siempre corre un trecho por el suelo después de dejar el nido antes de levantar vuelo; y cuando baja de nuevo no aterriza en el nido, sino a cierta distancia. La alondra, como el mosquitero, hace el nido en el suelo.
-El carbonero grande anida en huecos de árboles, pero también muy a menudo en lugares de lo más curiosos, como el caño de una bomba de agua o un frasco.
-El trepador siempre hace su casa en el hueco de un árbol.
-
-**ACECHO**
-La primavera es la época más interesante del año para estudiar la naturaleza, tanto las aves como las flores.
-Las golondrinas y otras aves empiezan a llegar desde muy lejos, del otro lado de los mares, para pasar el verano en Gran Bretaña. El tipo común, que no usa los ojos ni los oídos, no va a disfrutar ni la mitad que un lobato en un paseo por el borde del bosque o junto a un cerco vivo.
-Los oídos atentos van a descubrir al mosquitero, o al mosquitero común, ese pajarito marrón e inquieto de canto agudo; y hace falta buena vista para encontrarlo y seguirlo en sus saltitos alegres y atareados de ramita en ramita.
-Está bueno descubrir el nido del zorzal, y a la mamá zorzal de ojos brillantes empollando sus huevos. Se la puede volver bastante mansa si sos amable con ella y le mostrás que no le vas a hacer daño.
-Es muy interesante llevar una libreta con todas las aves que ves y la fecha en que las viste o escuchaste por primera vez. Así podés comparar las fechas al año siguiente, o con las notas de algún otro compañero.
-Anotá qué día escuchaste por primera vez al cuco, o viste la primera golondrina del año, o la primera alondra o el primer trepador.
-Si podés dibujar las aves y sus huevos, la libreta queda todavía más interesante.
-También conviene llevar una lista de los nidos que descubras.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

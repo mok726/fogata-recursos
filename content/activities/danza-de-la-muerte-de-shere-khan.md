@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -142,21 +143,37 @@ rama_rovers:
   - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
 ---
 
-# ¡La Danza de la Muerte de Shere Khan!
+# La Danza de la Muerte de Shere Khan
 
 ## Resumen
-La Manada recuerda cómo Mowgli venció a Shere Khan con una canción con gestos (con la música de "Martinillo"), cuatro burlas al tigre mientras avanzan gateando hacia el centro y un final en el que todos gritan "¡Muerto, muerto, muerto!" y caen como fulminados.
+Una danza de la Manada en tres partes que celebra el final de Shere Khan, el tigre abusador de *El libro de la selva*. Parece difícil, pero si se ensaya cada parte por separado y después se juntan, cualquier Manada la puede aprender.
 
 ## Preparación
 1. Contá cómo murió Shere Khan: Mowgli, con Akela y el Hermano Gris, dividió una manada de búfalos y los hizo entrar por los dos lados del barranco donde dormía el tigre.
 2. Ensayá cada parte por separado antes de juntarlas, como recomienda B-P.
 
 ## Desarrollo
-1. **Primera parte.** En ronda, girando a la izquierda, canten con la música de "Martinillo" (*Frère Jacques*), un paso por verso: "Mowgli caza, Mowgli caza, / mató a Shere Khan, mató a Shere Khan, / cuereó al come-vacas, cuereó al come-vacas, / ¡ra-ra-ra! ¡ra-ra-ra!". Después, media vuelta y otra vez en sentido contrario.
-2. Gestos por verso: 1, mano derecha haciendo visera como quien mira a lo lejos; 2, igual con la izquierda; 3 y 4, un golpe enérgico con la derecha, como clavando una lanza; 5 y 6, las dos manos frente a la cara haciendo como que se arranca el cuero; 7 y 8, girar a la derecha agitando los brazos arriba.
-3. **Segunda parte.** Todos en cuatro patas mirando al centro, con quien guía afuera. Quien guía le grita cuatro burlas al tigre muerto: "¡Lungri!", "¡Come-ranas!", "¡Bestia quemada de la selva!", "¡Cazador de cachorritos de hombre!". Después de cada una, la Manada gruñe y avanza un poco gateando. Las burlas y los gruñidos empiezan suaves y van creciendo. Entre gruñido y gruñido, silencio total. Al cuarto, tienen que llegar a la Roca del Consejo.
-4. **Tercera parte.** Todos de rodillas, sentados sobre los talones, con las manos colgando. Quien guía, en el centro, levanta las dos manos y dice despacio y con drama: "¡Shere Khan está MUERTO!". Todos levantan los brazos igual y, siguiendo su ritmo, se inclinan tres veces hasta tocar el piso con cabeza y manos diciendo "¡Muerto, muerto, muerto!".
-5. Saltan y gritan "¡Hurra!" tres veces, entusiasmados, y caen al piso como si les hubieran disparado en el aire. Cinco segundos de silencio total, y a la señal se levantan.
+**La historia (para contar antes):** Shere Khan dormía en un barranco seco del río Waingunga, pesado después de haber comido mucho. Mowgli, con ayuda de Akela y del Hermano Gris, separó una manada de búfalos en dos y los hizo entrar al barranco por los dos extremos. Shere Khan, que después de semejante comida no pudo trepar por las paredes, quedó aplastado bajo los búfalos asustados. Después Mowgli le sacó el cuero (antes tuvo que pedirle al Hermano Gris que sujetara en el suelo al viejo cazador Buldeo hasta que prometiera irse) y lo llevó a la Roca del Consejo.
+
+**Primera parte: la canción.**
+1. La Manada forma una ronda y camina hacia la izquierda cantando, con la música de *Frère Jacques* («Martinillo»): «Mowgli caza, Mowgli caza, mató a Shere Khan, mató a Shere Khan, cuereó al come-vacas, cuereó al come-vacas, ¡Ra-ra-ra! ¡Ra-ra-ra!». Los dos últimos versos se gritan.
+2. Se da un paso por cada verso, con un gesto para cada uno: verso 1, se arranca con el pie derecho y se pone la mano derecha haciendo visera sobre los ojos, como un scout que mira a lo lejos; verso 2, lo mismo con la mano izquierda; versos 3 y 4, un movimiento enérgico hacia adelante con la mano derecha, como si se atacara al tigre; versos 5 y 6, las dos manos frente a la cara, como separando el cuero; versos 7 y 8, se gira bailando hacia la derecha con los brazos en alto.
+3. Enseguida todos dan media vuelta y repiten la canción caminando para el otro lado.
+
+**Segunda parte: las burlas.**
+1. Los lobatos se ponen en cuatro patas mirando al centro de la ronda. El guía de la danza se queda afuera.
+2. El guía le grita cuatro burlas al tigre muerto, una por vez: «¡Lungri (el Rengo)!», «¡Come-ranas!», «¡Bestia chamuscada de la Selva!» y «¡Cazador de cachorritos de hombre desnudos!».
+3. Después de cada burla, la Manada responde con un gruñido y avanza gateando un poco hacia el centro. Entre gruñido y gruñido nadie se mueve ni hace ruido.
+4. Las burlas y los gruñidos empiezan bajito y van subiendo de volumen y de enojo. Con el cuarto gruñido, la Manada tiene que haber llegado al Círculo de la Roca, la ronda chica alrededor de la Roca del Consejo.
+
+**Tercera parte: el final.**
+1. Todos se arrodillan sentados sobre los talones, con las manos colgando a los costados. El guía ya está en el centro, junto a la Roca del Consejo, en la misma posición.
+2. El guía levanta los dos brazos sobre la cabeza y dice despacio y con mucho drama: «¡Shere Khan está MUERTO!».
+3. Todos levantan los brazos igual y, siguiendo su ritmo, se inclinan tres veces hacia adelante hasta tocar el suelo con la cabeza y las manos, diciendo: «¡Muerto, muerto, muerto!».
+4. Después todos saltan y gritan «¡Hurra!» tres veces, con entusiasmo, y se dejan caer al suelo de golpe.
+5. Se quedan en silencio total unos cinco segundos, hasta que el guía da la señal de levantarse. Ahí termina la danza.
+
+**Consejo del original:** para mostrarles a los padres y amigos, queda muy bien hacer la Danza de Tabaqui y, enseguida después, esta.
 
 ## Cierre
 - ¿Cómo venció Mowgli a Shere Khan: con fuerza o con astucia y trabajo en equipo?
@@ -188,27 +205,8 @@ You begin the third part of the dance by kneeling back on your haunches, hands h
 He kneels back in the same way, stretches both hands above his head, and says slowly and dramatically, "Shere Khan is DEAD!" The Pack then stretch their arms up in the same position and, taking their time from him and keeping their hands in the same position, bow forward three times till heads and hands touch the ground, saying, "Dead—dead—dead!" Then all jump up and shout "Hurrah" excitedly three times, and drop to the ground as though shot in midair. After lying in dead silence for about five seconds, the signal is given to get up, and the Dance of Death is over. The dance is not nearly so hard as it sounds from the description, and if each part is tried separately before putting them all together, any Pack can learn it.
 If you want to entertain your fathers and mothers and friends, it is good to do the Dance of Tabaqui, and immediately afterwards the Dance of Shere Khan's Death.
 
-**Versión en español:**
-
-**LA DANZA DE LA MUERTE DE SHERE KHAN**
-Ahora volvamos a la Selva para la Danza de la Muerte de Shere Khan. El último día del tigre abusador llegó cuando lo despertaron bruscamente mientras dormía en un barranco seco del río Waingunga. Al amanecer había matado y comido un cerdo, y también había bebido. Mowgli, con la ayuda de Akela y del Hermano Gris, dividió en dos una manada de búfalos y los hizo entrar al barranco por los dos extremos. Shere Khan, que después de su comilona no podía trepar por las paredes del barranco, murió aplastado bajo las patas de los búfalos aterrorizados. Fue una muerte de perro. Ahora, la danza. Primero la Manada forma una ronda y, girando hacia la izquierda, camina en círculo cantando esta letra con la música de *Frère Jacques* ("Martinillo"):
-Mowgli caza,
-Mowgli caza,
-mató a Shere Khan,
-mató a Shere Khan,
-cuereó al come-vacas,
-cuereó al come-vacas,
-(grito) ¡Ra-ra-ra!
-¡Ra-ra-ra!
-(Porque, después de que Shere Khan murió, Mowgli le sacó el cuero, aunque antes tuvo una discusión con el viejo cazador Buldeo y tuvo que pedirle al Hermano Gris que sujetara al hombre contra el suelo hasta que prometiera irse. Mowgli llevó después el cuero a la Roca del Consejo, como ya saben.) Ahora volvamos a la canción.
-Se da un paso por cada verso, y la canción se repite enseguida, con todos dando media vuelta y moviéndose en sentido contrario. Los gestos son estos: VERSO 1, arrancar con el pie derecho y la mano derecha; la mano se pone haciendo visera sobre los ojos, en la postura de un scout que observa el terreno. VERSO 2, lo mismo con la mano izquierda. VERSO 3, un movimiento enérgico de puñalada con la mano derecha, como si se apuñalara al tigre. VERSO 4, repetir. VERSO 5, las dos manos levantadas frente a la cara, imitando la acción de cuerear, separando el cuero. VERSO 6, repetir. VERSO 7, girar bailando hacia la derecha agitando los brazos sobre la cabeza. VERSO 8, repetir.
-Para la segunda parte, los lobatos se ponen en cuatro patas mirando al centro del círculo, con el líder afuera. Esta parte de la danza es una serie de burlas del líder al tigre muerto, y la Manada responde a cada una gruñendo y avanzando un poco gateando hacia el centro del círculo. Son cuatro burlas en total. Tanto las burlas como los gruñidos empiezan bastante suaves y van aumentando de a poco en volumen y en enojo. Entre gruñido y gruñido, la Manada no tiene que hacer ningún movimiento ni ruido. Las cuatro burlas son: ¡Lungri!, ¡Come-ranas!, ¡Bestia quemada de la Selva!, ¡Cazador de cachorritos de hombre desnudos! Para el cuarto gruñido, la Manada tiene que haber llegado al Círculo de la Roca.
-La tercera parte de la danza empieza de rodillas, sentados sobre los talones, con las manos colgando sueltas a los costados. El líder ya tiene que estar en su lugar, en el centro, junto a la Roca del Consejo.
-Se arrodilla de la misma manera, estira las dos manos por encima de la cabeza y dice despacio y con dramatismo: "¡Shere Khan está MUERTO!". Entonces la Manada estira los brazos hacia arriba en la misma posición y, siguiendo su ritmo y manteniendo las manos igual, se inclina hacia adelante tres veces hasta tocar el piso con la cabeza y las manos, diciendo: "¡Muerto, muerto, muerto!". Después todos se paran de un salto y gritan "¡Hurra!" tres veces, entusiasmados, y caen al piso como si les hubieran disparado en el aire. Después de unos cinco segundos acostados en silencio absoluto, se da la señal para levantarse, y la Danza de la Muerte termina. La danza no es ni de lejos tan difícil como parece por la descripción, y si se prueba cada parte por separado antes de juntarlas, cualquier Manada puede aprenderla.
-Si quieren entretener a sus padres, madres y amigos, está bueno hacer la Danza de Tabaqui y, enseguida después, la Danza de la Muerte de Shere Khan.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 
