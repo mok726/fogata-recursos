@@ -2516,6 +2516,10 @@ sections: {
     G: {
       title: "Amarres y Pionerismo",
       description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA)."
+    },
+    H: {
+      title: "Primeros Auxilios y Emergencias",
+      description: "Actividades propias para prepararse ante una emergencia sin tratamientos: botiquín, pedir ayuda, llamar al 107 o al 911, la cadena de ayuda, señales de auxilio y emergencias del hogar."
     }
   }
 },
@@ -3288,6 +3292,22 @@ sections: {
     E: {
       title: "Extras",
       description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y yo solo documento."
+    },
+    B: {
+      title: "Bienestar Emocional",
+      description: "Reconocer las emociones, manejar el estrés y cuidarse: juegos, reflexiones y herramientas para sentirse bien."
+    },
+    D: {
+      title: "Ciudadanía Digital",
+      description: "Contraseñas, estafas, huella digital, tiempo de pantalla, diseño persuasivo y redes sociales: usar la tecnología con criterio."
+    },
+    I: {
+      title: "Inclusión y Accesibilidad",
+      description: "Detectar barreras, conocer las discapacidades que no se ven y organizar actividades en las que todos puedan participar."
+    },
+    C: {
+      title: "Cuidado de Mascotas",
+      description: "Qué necesita cada mascota, el bienestar animal y la tenencia responsable."
     },
     M: {
       title: "Estación Meteorológica",
