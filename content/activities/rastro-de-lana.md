@@ -151,7 +151,18 @@ Se marca un rastro con trozos de lana, algunos en el suelo y otros atados a tran
 1. Pedí permiso al dueño del terreno. Recorré el camino atando la lana: no toda en el suelo, también a la altura de los ojos y más arriba.
 
 ## Desarrollo
-Corten algunas madejas de lana en trozos de 30 cm de largo, más o menos; sirve la más barata, pero no elijan colores muy vivos. Con esto marquen el rastro a campo traviesa. Ni hace falta decir que primero hay que pedir permiso a los dueños de los campos que se van a cruzar, y que las patrullas tienen la orden estricta de cerrar todas las tranqueras al pasar y de no atravesar los cercos rompiéndolos. No pongan toda la lana en el suelo: aten algunos trozos a tranqueras y cercos, a ramas bajas de los árboles, etc., dejando unos 18 m entre cada trozo. Después se larga a dos o más patrullas por el rastro, con la idea de seguirlo lo más rápido posible y, al mismo tiempo, juntar todos los trozos de lana. Cuando un scout ve un trozo, da en voz alta el llamado de su patrulla, para que el resto de los chicos de las dos patrullas sepa dónde se vio el rastro por última vez, y enseguida le entrega la lana encontrada a su guía. Mientras dura el rastreo, ningún chico puede dar el llamado de su patrulla salvo cuando encuentra el rastro. Gana la patrulla cuyo guía haya juntado más trozos de lana al final del recorrido. También se dan puntos por el ingenio que muestren los scouts para desplegarse y aprovechar mejor su cantidad. Este juego le da al dirigente una buena oportunidad de ver quiénes son los mejores rastreadores. Si el rastro está bien pensado, la capacidad de los scouts se pondrá seriamente a prueba. Esta forma de rastreo tiene una gran ventaja sobre el uso de hierros de rastreo: las señales no están todas en el suelo, así que los scouts aprenden a mirar hacia arriba en busca de señales y no a ir siempre con la nariz pegada al suelo.
+Un juego de rastreo a campo traviesa: las patrullas siguen un rastro hecho con trocitos de lana y tratan de juntar la mayor cantidad posible.
+
+1. Antes del juego, el dirigente corta algunas madejas de lana en trozos de unos 30 cm. Sirve la lana más barata, pero que no sea de colores muy llamativos, para que cueste un poco verla.
+2. Con esos trozos marca el rastro a campo traviesa, dejando unos 18 metros entre uno y otro. No los pone todos en el suelo: ata algunos a tranqueras, alambrados y cercos, a ramas bajas de los árboles, y en lugares así.
+3. Hay que pedir permiso antes a los dueños de los campos por los que pasa el rastro. Las patrullas tienen la orden estricta de cerrar todas las tranqueras después de pasar y de no atravesar los cercos rompiéndolos.
+4. Se larga a dos o más patrullas sobre el rastro. Tienen que seguirlo lo más rápido posible y, al mismo tiempo, juntar todos los trozos de lana.
+5. Cuando un jugador encuentra un trozo, da en voz alta el llamado de su patrulla (el grito o sonido propio de cada patrulla, por ejemplo el de su animal). Así todos, de las dos patrullas, saben dónde se vio el rastro por última vez. Después le entrega enseguida la lana a su guía.
+6. Mientras dura el rastreo, nadie puede dar el llamado de su patrulla salvo cuando encontró el rastro.
+
+**Cómo se gana:** gana la patrulla cuyo guía juntó más trozos de lana al final del recorrido. También se dan puntos por el ingenio de la patrulla para desplegarse y aprovechar bien a todos sus integrantes.
+
+**Consejo del original:** el juego le permite al dirigente ver quiénes son los mejores rastreadores. Si el rastro está bien pensado, pone a prueba la astucia de todos. Además, como las señales no están solo en el suelo, los chicos aprenden a mirar también hacia arriba y no a ir siempre con la nariz pegada al piso.
 
 ## Cierre
 - ¿Dónde estaban las lanas más difíciles de ver?

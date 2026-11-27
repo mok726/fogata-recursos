@@ -148,7 +148,19 @@ rama_rovers:
 Dos jugadores se ponen en cuclillas, con un bastón pasado por detrás de las rodillas y sostenido con los brazos por delante de las piernas. Así, saltando, cada "gallo" intenta hacer perder el equilibrio al otro.
 
 ## Desarrollo
-La pelea de gallos siempre resulta divertida, y nuestra ilustración muestra una forma de jugarla que puede ser nueva para algunos de ustedes. En vez de sentarse en el piso, con el bastón debajo de las rodillas y las manos cruzadas alrededor de las piernas como es habitual, los dos combatientes se ponen en cuclillas, sosteniendo el bastón como siempre. El dibujo lo muestra muy claramente. Es muy cómico ver entonces a cada "gallo" saltando de un lado a otro tratando de voltear a su rival.
+Un juego de lucha en parejas, muy divertido de mirar: cada «gallo» salta agachado tratando de voltear al otro.
+
+En la forma más común de la pelea de gallos, cada jugador se sienta en el piso con las rodillas dobladas, pasa un bastón por debajo de las rodillas y lo sujeta abrazándose las piernas, con las manos entrelazadas por delante. Así queda «atado» como un ovillo.
+
+En esta forma, que propone el original:
+
+1. Los dos combatientes, en vez de sentarse, se ponen en cuclillas, siempre con el bastón detrás de las rodillas y por delante de los brazos, como en la forma común.
+2. Se ubican frente a frente.
+3. A la señal, cada uno avanza a saltitos y trata de empujar al otro con el cuerpo para hacerle perder el equilibrio.
+
+**Cómo se gana:** gana el gallo que logra voltear a su rival.
+
+**Consejo del original:** es muy cómico ver a cada gallo saltando de un lado a otro; mostrales la postura antes de empezar para que todos la entiendan.
 
 ## Cierre
 - ¿Qué técnica sirvió más: fuerza o equilibrio?

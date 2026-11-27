@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,30 @@ rama_rovers:
 # Espías, o Submarinos
 
 ## Cómo se juega
-Un equipo, con los ojos vendados, forma una fila a lo ancho del salón, con las piernas abiertas de modo que el pie izquierdo de cada uno toque apenas el derecho del vecino, y tomados de las manos. El otro equipo trata de pasar a través del cordón sin que lo toquen. El cordón se puede soltar las manos para atrapar a un espía, pero no puede mover los pies ni doblar las rodillas. Gana el equipo que logra pasar más jugadores. En general hace falta un límite de tiempo.
+Un juego de sigilo: un equipo, con los ojos vendados, forma una barrera, y el otro equipo, los espías, tiene que cruzarla sin que lo toquen.
+
+1. Un equipo es el cordón. Sus jugadores se vendan los ojos y forman una fila de pared a pared del salón, tomados de las manos. Cada uno se para con las piernas abiertas, de modo que su pie izquierdo toque apenas el pie derecho del compañero de al lado. Así queda una barrera continua.
+2. El otro equipo son los espías (o submarinos). Desde un lado del salón, tratan de pasar al otro lado atravesando el cordón sin que los toquen: por entre las piernas, por debajo de los brazos, por donde puedan, haciendo el menor ruido posible.
+3. Los del cordón pueden soltarse las manos para estirarse y atrapar a un espía que sienten cerca, pero no pueden mover los pies ni doblar las rodillas.
+4. El espía que es tocado queda atrapado y no cuenta como pasado.
+5. Se fija un límite de tiempo, porque si no el juego se puede alargar mucho. Después los equipos cambian de papel.
+
+**Cómo se gana:** gana el equipo que logra hacer pasar más espías al otro lado.
 
 ## Para cerrar
 - ¿Qué ruido delataba a los submarinos?
 
 ## Notas para educadores
 - Poné un límite de tiempo, de tres minutos, para que no se haga eterno.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPIES, OR SUBMARINES.**
+
+One team, blindfolded, forms a line across the room, feet astride so that one player's left foot just touches his neighbour's right, and holding hands. The other team tries to pass through the cordon without being touched. Cordon may let go hands to catch a spy but may not move their feet or bend their knees. Team getting most through wins. A time limit is usually needed.
 
 
 ## Texto original completo de la actividad

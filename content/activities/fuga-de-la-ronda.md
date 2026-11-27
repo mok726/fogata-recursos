@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,28 @@ rama_rovers:
 # Escape
 
 ## Cómo se juega
-Los jugadores se toman de las manos en ronda; uno o más se ponen en el centro y tratan de salir por arriba o por debajo de los brazos de los demás. No se permite romper la ronda a la fuerza, y la ronda no se puede cerrar.
+Un juego de ronda en el que uno o más jugadores encerrados tratan de escaparse sin romper el círculo.
+
+1. Los jugadores forman una ronda tomados de las manos. Uno o más jugadores (los que se quieren escapar) se ponen en el centro.
+2. A la señal, los del centro tratan de salir de la ronda pasando por arriba o por debajo de los brazos de los demás.
+3. Los de la ronda se defienden moviendo los brazos, subiéndolos y bajándolos para cerrarles el paso, pero sin soltarse las manos.
+4. Hay dos reglas importantes: los del centro no pueden salir a la fuerza, empujando o rompiendo las manos de la ronda; y la ronda no se puede cerrar, es decir, los jugadores no pueden achicar el círculo ni amontonarse sobre los que están adentro.
+5. Cuando salieron todos, o después de un rato, se cambian los jugadores del centro.
 
 ## Para cerrar
 - ¿Qué truco usaron los que lograron salir?
 
 ## Notas para educadores
 - Para que nadie se golpee, la ronda tiene que tener brazos estirados y no achicarse.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ESCAPE.**
+
+Players join hands in a circle, one or more go into the centre and try to get out over or under the arms of the rest. No bursting through is allowed and the circle must not close in.
 
 
 ## Texto original completo de la actividad

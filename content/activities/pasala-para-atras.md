@@ -148,7 +148,17 @@ rama_rovers:
 Dos equipos en fila, uno al lado del otro. A la señal, el primero de cada fila pasa la pelota entre sus piernas al de atrás, y así hasta el último, que corre por afuera de la fila y se la entrega al primero. Gana la fila que lo hace primero.
 
 ## Desarrollo
-Este juego se puede jugar en el local o al aire libre, y pueden participar dos o más patrullas. Todo lo que se necesita son dos pelotas de goma huecas, o también sirve muy bien un par de guantes de boxeo. Los jugadores se dividen en dos grupos iguales y se paran en dos filas, una al lado de la otra. El líder de cada grupo se para a la cabeza de su fila y, cuando se da la señal de "¡Ya!", tira la pelota entre sus piernas al que está detrás, que se la pasa al siguiente, y así hasta que llega al último, que tiene que correr con ella por afuera de su fila y entregársela a su líder. Gana el bando que devuelve primero la pelota a su líder, y el juego se puede variar tirando la pelota por encima de la cabeza en vez de entre las piernas.
+Una carrera de relevos entre dos equipos: la pelota pasa de mano en mano a lo largo de la fila. Se puede jugar en el local o al aire libre, con dos o más patrullas.
+
+1. Se necesitan dos pelotas de goma huecas (también sirve un par de guantes de boxeo).
+2. Los jugadores se dividen en dos equipos iguales. Cada equipo se forma en fila india, y las dos filas quedan una al lado de la otra.
+3. El guía de cada equipo se para primero en su fila, con la pelota.
+4. A la señal de «¡Ya!», el guía pasa la pelota hacia atrás por entre sus piernas al que tiene detrás. Este la pasa igual al siguiente, y así hasta llegar al último.
+5. El último sale corriendo con la pelota por afuera de su fila y se la entrega al guía.
+
+**Cómo se gana:** gana el equipo que devuelve primero la pelota a su guía.
+
+**Por arriba (variante del original):** en lugar de pasar la pelota por entre las piernas, se la pasa por encima de la cabeza.
 
 ### Variante: Por arriba
 La pelota pasa por encima de la cabeza.

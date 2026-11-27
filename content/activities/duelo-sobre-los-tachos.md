@@ -146,7 +146,16 @@ rama_rovers:
 Dos jugadores, cada uno parado sobre un tacho dado vuelta, a unos 3 m. Con cañas largas acolchadas en la punta, cada uno trata de hacer bajar al otro de su tacho. Si no hay tachos, sirven bancos bajos.
 
 ## Desarrollo
-Es un juego favorito de los Boy Scouts de Estados Unidos y lo inventó el señor Ernest Thompson Seton, Jefe Scout de Estados Unidos. Dos scouts se suben a tinas dadas vuelta, a unos 2,7 m de distancia, armados con largas cañas de bambú. Cada caña tiene un guante de boxeo en una punta, y los scouts tienen que bajarse uno al otro de las tinas con las cañas. Por supuesto, el guante de boxeo evita que se haga cualquier daño. Si no se consiguen tinas, se pueden usar bancos o sillas.
+Un duelo de equilibrio con cañas acolchadas: dos jugadores parados sobre tachos tratan de bajar al otro.
+
+Es un juego que inventó Ernest Thompson Seton, uno de los fundadores del escultismo en Estados Unidos, y que era muy popular entre los scouts de ese país.
+
+1. Se ponen dos tachos o tinas grandes dados vuelta, a unos 2,7 metros uno del otro. Si no se consiguen, se pueden usar bancos o sillas.
+2. Dos jugadores se suben, uno en cada tacho.
+3. Cada uno tiene una caña larga de bambú con un guante de boxeo atado en una punta. El guante hace que el golpe sea blando y no lastime.
+4. A la señal, cada uno trata de bajar al otro de su tacho empujándolo con la punta de la caña.
+
+**Cómo se gana:** gana el que logra bajar al otro, o hacerlo caer, sin bajarse él.
 
 ## Cierre
 - ¿Qué ayudó más: fuerza, equilibrio o puntería?

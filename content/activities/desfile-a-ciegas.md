@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,27 @@ rama_rovers:
 # Orden Cerrado a Ciegas
 
 ## Cómo se juega
-Los jugadores, con los ojos vendados, se forman y se les dan distintas órdenes simples, que cumplen. Por ejemplo: «¡Atención! ¡Derecha, mar! Un paso atrás. ¡Izquierda, mar! Un paso a la derecha. ¡Media vuelta!». Después déjenlos mirar el lío en que quedaron.
+Un juego de orden cerrado con los ojos vendados: se siguen órdenes de marcha sin ver, y al final todos descubren el lío en que quedaron.
+
+1. Los jugadores se forman en fila, como para orden cerrado (las formaciones y movimientos de marcha que se hacen a la voz de mando), y se vendan los ojos.
+2. El que dirige da varias órdenes simples, una tras otra, y los jugadores las cumplen. Por ejemplo: «¡Atención!», «¡Derecha, mar!» (girar a la derecha), «Un paso atrás», «¡Izquierda, mar!» (girar a la izquierda), «Un paso a la derecha», «¡Media vuelta!».
+3. Conviene dar bastantes órdenes, para que los pequeños errores de cada uno se vayan sumando.
+4. Al final, todos se sacan la venda y miran el lío en que quedaron.
 
 ## Para cerrar
 - ¿Qué órdenes los confundieron más? ¿Por qué?
 
 ## Notas para educadores
 - Sirve para repasar las órdenes de formación del Grupo de una manera divertida.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD DRILL.**
+
+Players blindfold fall in and various simple orders are given, which they carry out. E.g. “Alert, right turn, one pace back, left turn, one pace right, about turn.” Then let them look at the mess they are in.
 
 
 ## Texto original completo de la actividad

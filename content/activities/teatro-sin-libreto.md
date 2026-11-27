@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,13 @@ rama_rovers:
 # Obras Improvisadas
 
 ## Cómo se juega
-Se piensa un argumento con los personajes necesarios, pero no se escriben los papeles. Se elige el elenco, con dos de los más grandes para llevar la improvisación, y la obra se representa para divertir a los demás. Al poco tiempo va a ser posible montar una con un solo ensayo para un público de afuera, y tener un éxito de verdad.
+Una obra de teatro improvisada.
+
+1. Entre todos se piensa un argumento sencillo: quiénes son los personajes y qué les pasa. Pero no se escriben los diálogos.
+2. Se elige el elenco. Dos de los más grandes llevan la improvisación: van guiando la obra e inventando sobre la marcha.
+3. La obra se representa para divertir a los demás.
+
+**Para qué sirve:** con la práctica, en poco tiempo se va a poder armar una obra así con un solo ensayo y presentarla en un fogón o ante un público de afuera, con éxito.
 
 ## Para cerrar
 - ¿Qué fue lo más difícil de improvisar? ¿Y lo más divertido?
@@ -146,6 +153,15 @@ Se piensa un argumento con los personajes necesarios, pero no se escriben los pa
 ## Notas para educadores
 - Con práctica, esto alimenta los fogones del campamento sin necesidad de preparar libretos.
 - Cuidá que el humor no sea a costa de nadie del grupo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**IMPROMPTU POTTED PLAYS.**
+
+A plot with the necessary characters is thought out, but no parts are written. A cast is chosen, with two seniors to lead the gagging, and the play is performed to amuse the rest. In a short time it will be possible to put one on with only one rehearsal, for an outside audience, and have a real success.
 
 
 ## Texto original completo de la actividad

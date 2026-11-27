@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,25 @@ rama_rovers:
 # No Te Rías
 
 ## Cómo se juega
-Los jugadores en fila; el que dirige da la orden: «Hagan lo que yo hago, y no se rían». Los jugadores tienen que copiar sus movimientos lo mejor que puedan; el que se ríe pierde una vida. Los que pierden tres vidas salen y pagan una prenda al final.
+Un juego para aguantar la risa.
+
+1. Los jugadores se forman en fila.
+2. El que dirige dice: «Hagan lo que yo hago, y no se rían».
+3. Hace gestos, muecas y movimientos graciosos, y todos tienen que copiarlo lo mejor que puedan.
+4. El que se ríe pierde una vida.
+5. Los que pierden tres vidas salen y pagan una prenda al final (una prenda es una pequeña penitencia divertida: cantar, imitar a alguien, etc.).
 
 ## Para cerrar
 - ¿Qué gesto hizo reír a más gente?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DON’T LAUGH.**
+
+Players in line ; leader gives the order—”Do as I do, don’t laugh.” Players must then copy his actions as well as possible, any laughing lose a life. Players losing three lives fall out for execution later.
 
 
 ## Texto original completo de la actividad

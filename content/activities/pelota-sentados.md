@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,10 +138,30 @@ rama_rovers:
 # Pelota Empujada
 
 ## Cómo se juega
-Dos equipos. Los jugadores se sientan en sillas en dos filas, a unos 1,20 m una de otra, de modo que ningún jugador tenga a uno de su propio equipo a su lado. Cada equipo designa un arquero, que se sienta en el espacio de la punta de las filas. Cada equipo trata de hacer pasar una pelota (por el piso) o un globo más allá del arquero del otro bando dándole palmadas. Nadie se puede levantar de la silla, y a la pelota solo se le puede pegar con la mano abierta.
+Un juego de pelota en el que todos juegan sentados: hay que hacer pasar la pelota más allá del arquero del otro equipo, pegándole solo con la mano abierta.
+
+1. Se ponen sillas en dos filas, una frente a otra, a unos 1,20 m de distancia, de modo que en el medio quede un pasillo.
+2. Se arman dos equipos y los jugadores se sientan alternados: uno de un equipo, uno del otro, y así. Ningún jugador tiene a un compañero de su equipo sentado al lado.
+3. Cada equipo designa un arquero. Los dos arqueros se sientan uno en cada punta del pasillo.
+4. Se pone en el pasillo una pelota (que se juega por el piso) o un globo.
+5. Cada equipo trata de hacer pasar la pelota más allá del arquero rival, dándole palmadas con la mano abierta.
+6. Nadie se puede levantar de la silla, y a la pelota solo se le puede pegar con la mano abierta: no se vale patearla ni agarrarla.
+
+**Cómo se gana:** cada vez que la pelota pasa al arquero rival es un gol. Gana el equipo que hace más goles.
 
 ## Para cerrar
 - ¿Ayudaba estar sentado entre dos rivales o complicaba?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHOVE BALL.**
+
+Two teams. Players sit in two rows on chairs about 4 feet apart, in such a way that no player has one of his own side on either side of him. Each side appoints a goalkeeper, who sits in the space at the end of the
+
+rows. Each team tries to pat a ball (along the floor) or a balloon past the other side’s goalkeeper. No player may rise from his chair, the ball may only be patted with the open hand.
 
 
 ## Texto original completo de la actividad

@@ -152,7 +152,14 @@ rama_rovers:
 Dos sogas de unos 3 m se atan a una estaca. El tejón sostiene una y el cazador la otra, los dos vendados. El tejón hace sonar una lata con una piedrita mientras gira alrededor, y el cazador lo busca por el sonido para darle con un almohadón. Los dos tienen que mantener la soga tensa para no enredarse.
 
 ## Desarrollo
-Es un juego excelente para una exhibición scout, y se puede jugar en un salón o al aire libre en un campo. Se atan un par de sogas, de unos 3 m cada una, a un peso grande o se clavan al suelo con estacas de carpa. El "tejón" sostiene la punta suelta de una soga y el "acosador" la otra. El tejón tiene una lata con una piedrita adentro, mientras que el acosador lleva un almohadón o una almohada. Los dos tienen los ojos vendados. El juego es así: el tejón hace sonar la piedrita en la lata mientras corre alrededor del peso, y el acosador trata de encontrarlo y pegarle con el almohadón. Por supuesto, los dos tienen que mantener su soga bien tensa mientras corren, para no tropezarse.
+Un juego de dos jugadores con los ojos vendados, atados cada uno a una soga: uno hace ruido y escapa, el otro lo busca para pegarle con un almohadón. Es muy divertido de mirar y queda muy bien en una exhibición scout, en un salón o al aire libre.
+
+1. Se atan dos sogas, de unos 3 metros cada una, a un peso grande puesto en el centro, o se clavan las dos al suelo con una estaca de carpa.
+2. Un jugador hace de «tejón» (un animal que vive en cuevas) y agarra la punta suelta de una soga. El otro hace de «cazador» y agarra la punta de la otra.
+3. El tejón lleva una lata con una piedrita adentro. El cazador lleva un almohadón o una almohada.
+4. A los dos se les vendan los ojos.
+5. El tejón corre alrededor del centro haciendo sonar la piedrita en la lata. El cazador lo sigue por el ruido y trata de pegarle con el almohadón.
+6. Los dos tienen que mantener su soga bien tensa todo el tiempo mientras corren. Así se mantienen en el círculo y no se tropiezan con la soga.
 
 ## Cierre
 - ¿Cómo sabías hacia dónde ir?

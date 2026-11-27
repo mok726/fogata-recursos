@@ -146,7 +146,17 @@ rama_rovers:
 Una patrulla tiene que seguir a la "columna enemiga" (otra patrulla o el resto de la tropa) que avanza por el terreno. Conviene mandar uno o dos scouts adelante para avisar cuándo es seguro avanzar. Si la columna ve a un perseguidor, lo puede correr: si lo alcanza, queda prisionero y marcha con ella.
 
 ## Desarrollo
-Se destina una patrulla a seguir a un grupo enemigo que avanza por el terreno (formado por otra patrulla o por el resto de la tropa). La patrulla perseguidora tiene que seguirlos lo más cerca posible, pero es mejor mandar uno o dos scouts adelante para que hagan señas cuando sea seguro avanzar. Apenas el enemigo ve a un scout siguiéndolo, puede correrlo, y si lo alcanza, queda prisionero y tiene que marchar con el grupo principal. También pueden dividirse en dos grupos y volver a juntarse más adelante, o dejar algunos atrás en emboscada. Basta con tocar a los perseguidores para tomarlos prisioneros. Si no logran sacárselos de encima en cierta distancia (unos 3 km) o capturar a más de la mitad, tienen que darse por vencidos; y entonces otra patrulla pasa a hacer de perseguidora. (Esto se puede practicar durante una marcha: tiene la ventaja de que siempre se recorre terreno nuevo).
+Un juego de campo: una patrulla tiene que seguir de cerca a un grupo «enemigo» sin que la descubran ni la atrapen.
+
+1. Un grupo hace de enemigo: puede ser otra patrulla o el resto de la tropa. Avanza por el terreno.
+2. Una patrulla recibe la misión de seguirlo lo más de cerca posible. Conviene que mande uno o dos exploradores adelante, para que le hagan señas cuando es seguro avanzar.
+3. Apenas el enemigo ve a alguien que lo está siguiendo, lo puede correr. Para atraparlo basta con tocarlo. El atrapado queda prisionero y tiene que marchar con el grupo enemigo.
+4. Para despistar a los que lo siguen, el enemigo también puede dividirse en dos grupos y volver a juntarse más adelante, o dejar a algunos escondidos atrás, en emboscada.
+5. Se fija una distancia, de unos 3 km.
+
+**Cómo se gana:** si el enemigo no logra sacarse de encima a la patrulla en esa distancia, o no atrapa a más de la mitad, se da por vencido. Después otra patrulla pasa a ser la que sigue.
+
+**Consejo del original:** se puede practicar durante una marcha, y tiene la ventaja de que siempre se va recorriendo terreno nuevo.
 
 ## Cierre
 - ¿Cómo se comunicaban los perseguidores sin hablar?

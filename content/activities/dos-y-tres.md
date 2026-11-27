@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,19 +136,39 @@ rama_rovers:
 # Dos y Tres
 
 ## Cómo se juega
-Los jugadores en ronda, de a dos en fondo, mirando hacia adentro. Uno persigue a otro; cada vez que el perseguido se para delante de una pareja, el de atrás de esa pareja pasa a ser el perseguido. Si tocan al perseguido, él pasa a perseguir al que lo tocó.
+Un juego de persecución en ronda, en el que el perseguido se salva parándose delante de una pareja.
 
-**Variante:** las parejas se ponen frente a frente, tomadas de las manos, formando jaulas donde el perseguido se refugia; el de afuera de la jaula pasa a ser el perseguido.
+1. Los jugadores forman una ronda de parejas, mirando hacia adentro: uno adelante y su compañero parado justo detrás. Así la ronda queda de «dos en fondo».
+2. Se eligen dos jugadores más: uno persigue y el otro escapa. Corren por afuera y por entre las parejas.
+3. Cuando el perseguido quiere salvarse, se para delante de una pareja. En ese momento quedan tres en fila, y sobra uno: el de más atrás de esa fila pasa a ser el nuevo perseguido y tiene que salir corriendo.
+4. Si el perseguidor toca al perseguido, se cambian los papeles: el que fue tocado pasa a perseguir al que lo tocó.
 
-**Variante:** cada vez que suena el silbato, el perseguido pasa a ser el perseguidor, y al revés.
+**Jaulas (variante del original):** las parejas se ponen frente a frente, tomadas de las dos manos, formando una «jaula». El perseguido se refugia metiéndose adentro de una jaula, y el jugador de esa pareja que está del lado de afuera de la ronda pasa a ser el nuevo perseguido.
 
-**Variantes:** caminar, saltar en un pie, etc., en lugar de correr.
+**Silbato (variante del original):** cada vez que el que dirige toca el silbato, se cambian los papeles: el perseguido pasa a perseguir y el perseguidor a escapar.
+
+**Otras formas de moverse (variante del original):** en vez de correr, se puede jugar caminando, saltando en un pie, etc.
 
 ## Para cerrar
 - ¿Les convenía salvarse rápido o seguir corriendo?
 
 ## Notas para educadores
 - Un clásico del patio. Con mucha gente, que haya dos perseguidores a la vez.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TWOS AND THREES.**
+
+Players in circle, two deep, facing in. One chases another, whenever the fugitive stops in front of a pair the rearmost one of that pair becomes the fugitive. Touched fugitive chases his pursuer.
+
+Variation.-Pairs face each other with joined hands forming cages in which the fugitive takes refuge, outer one of cage becoming fugitive.
+
+Variation.-Whenever the whistle blows fugitive becomes pursuer and vice versa.
+
+Variations.-Walking, hopping, etc., for running.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,14 @@ rama_rovers:
 # Cabezas y Colas
 
 ## Cómo se juega
-Los jugadores en ronda; el primero dice una palabra de dos sílabas, por ejemplo «mesa»; el segundo dice otra palabra, también de dos sílabas, que empiece con la segunda sílaba de la anterior, por ejemplo «sapo»; el tercero, «pozo», y así hasta que un jugador falla y pierde una vida. Con tres vidas perdidas, sale.
+Un juego de palabras en ronda: cada palabra empieza con el final de la anterior.
+
+1. Los jugadores se sientan en ronda.
+2. El primero dice una palabra de dos sílabas, por ejemplo «me-sa».
+3. El siguiente tiene que decir otra palabra de dos sílabas que empiece con la última sílaba de la anterior: «sa-po». El siguiente, «po-zo», después «zo-rro», y así.
+4. El que no encuentra una palabra o se equivoca pierde una vida. Con tres vidas perdidas, sale.
+
+**Cómo se gana:** gana el último que queda.
 
 ### Variante: Temas
 Solo valen palabras de un tema: animales, cosas del campamento, lugares de Argentina.
@@ -145,6 +153,15 @@ Para los más chicos, en vez de la última sílaba, se usa la última letra: LOB
 
 ## Para cerrar
 - ¿Qué sílabas eran trampas? (Las que terminan en palabras difíciles, como -XO o -GÜE.)
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TOPS AND TAILS.**
+
+Players in circle; first player mentions a two-syllable word (say) “England,” second player mentions a word, also of two syllables, of which the first must be the second of the previous word (say) “landlord,” third player (say) “lordship,” and so on till a player fails and loses a life. Three lives lost player falls out.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,7 +139,15 @@ rama_rovers:
 # Avance
 
 ## Cómo se juega
-Los jugadores en una fila recta; el que dirige dice una letra, espera un momento y después dice «¡Ya!»; cada jugador hace enseguida la señal de esa letra. El que duda o manda la letra equivocada da un paso adelante, y así sucesivamente. Al final gana el que está más cerca de la línea de partida.
+Un juego para practicar las señales (por ejemplo, el semáforo con banderines o con los brazos, o el Morse) y hacerlas rápido, sin dudar.
+
+1. Se marca una línea de partida y todos los jugadores se paran sobre ella, uno al lado del otro.
+2. El que dirige dice una letra, espera un momento y después dice «¡Ya!».
+3. Apenas escuchan «¡Ya!», todos hacen al mismo tiempo la señal de esa letra.
+4. El que duda o hace la señal de una letra equivocada da un paso adelante.
+5. Se sigue con otras letras. Cada error es un paso más adelante.
+
+**Cómo se gana:** al final, gana el que quedó más cerca de la línea de partida, es decir, el que se equivocó menos.
 
 ### Variante: Tráiganme…
 El que dirige transmite con señales el nombre de un objeto («jarro», «piña»). La primera patrulla que se lo trae, gana. También puede transmitir una orden: «sentarse», «dar una vuelta».
@@ -148,6 +157,15 @@ El que dirige transmite con señales el nombre de un objeto («jarro», «piña�
 
 ## Notas para educadores
 - Funciona igual con semáforo, Morse o el sistema de señales que use tu Grupo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PROGRESSION.**
+
+Players in a straight line, leader mentions a letter and pauses a moment, then says “Go”, each player at once signals that letter. Any player hesitating or sending the wrong letter steps one foot forward, and so on. Player nearest the starting-line at end wins.
 
 
 ## Texto original completo de la actividad

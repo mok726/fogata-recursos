@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,13 +135,28 @@ rama_rovers:
 # Pobre Gatito
 
 ## Cómo se juega
-Los jugadores sentados en el piso en ronda, con el «gatito» en el centro. El gatito le maúlla tres veces a quien quiera, y a cada maullido el otro tiene que contestarle acariciándolo y diciendo «Pobre gatito». El que se ríe en el intento pierde un punto o pasa a ser el gatito. El gatito puede hacer todas las muecas y gestos que quiera, pero no puede hablar, y anda todo el tiempo en cuatro patas.
+Un juego de ronda para aguantarse la risa: uno hace de gatito y los demás no tienen que reírse.
+
+1. Los jugadores se sientan en el piso, en ronda. Uno, el «gatito», se pone en el centro, en cuatro patas.
+2. El gatito gatea hasta quien quiera y le maúlla tres veces.
+3. A cada maullido, ese jugador tiene que acariciarle la cabeza y decir «Pobre gatito», con toda seriedad. Son tres caricias y tres «Pobre gatito», sin reírse.
+4. El gatito puede hacer todas las muecas, caras y gestos que quiera para hacerlo reír, pero no puede hablar y tiene que andar siempre en cuatro patas.
+5. Si el jugador se ríe, pierde un punto o pasa a ser el gatito (se acuerda antes cuál de las dos cosas). Si aguanta, el gatito va a probar con otro.
 
 ## Para cerrar
 - ¿Quién fue el gatito más gracioso? ¿Quién el más serio?
 
 ## Notas para educadores
 - Juego clásico para una ronda de Manada. Cuidá que nadie se sienta obligado a tocar a otro: se puede «acariciar» en el aire.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**POOR PUSSY.**
+
+Players in a circle seated on floor with “pussy” in centre. Pussy mews three times to anyone he wishes, each mew must be answered by stroking and the words “Poor Pussy.” Any player laughing in the effort loses a point or becomes pussy. Pussy may make any grimaces or actions but must not speak, going all the time on all fours.
 
 
 ## Texto original completo de la actividad

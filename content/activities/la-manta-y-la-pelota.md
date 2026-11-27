@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,29 @@ rama_rovers:
 # La Manta y el Globo
 
 ## Cómo se juega
-Los jugadores sentados en el piso en ronda, sosteniendo los bordes de una sábana o una manta. Un jugador, afuera, trata de agarrar una pelota o un globo que los demás hacen rodar por la sábana levantando o bajando los bordes.
+Un juego de ronda con una manta: los de la ronda mueven una pelota sobre la tela y uno de afuera trata de agarrarla.
+
+1. Los jugadores se sientan en el piso en ronda y entre todos sostienen los bordes de una sábana o de una manta bien estirada.
+2. Encima de la manta se pone una pelota o un globo.
+3. Un jugador se queda afuera de la ronda, de pie.
+4. Los de la ronda hacen rodar la pelota de un lado al otro de la manta, levantando y bajando los bordes, sin soltar la tela.
+5. El de afuera da vueltas alrededor y trata de agarrar la pelota estirando la mano por encima de los que están sentados.
+6. Cuando la agarra, se cambia el jugador de afuera.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo para mover la sábana todos a la vez?
 
 ## Notas para educadores
 - Funciona muy bien con lobatos chicos. Una sábana de colores (o un paracaídas de juegos) lo hace más lindo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON BLANKET.**
+
+Players seated in circle on floor, holding edges of a sheet or blanket. One player outside tries to catch a ball or balloon rolled about on sheet by the others raising or lowering the sides.
 
 
 ## Texto original completo de la actividad

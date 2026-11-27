@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,10 +135,28 @@ rama_rovers:
 # Posta de «Hacé Esto»
 
 ## Cómo se juega
-El que dirige hace alguna acción bastante simple (por ejemplo: sentarse en el piso, cruzar las piernas, rascarse la cabeza). Cada jugador, por turno, corre hasta un lugar acordado, hace exactamente la misma acción y vuelve para largar al siguiente.
+Una carrera de postas de atención y memoria: hay que copiar exactamente lo que hizo el que dirige.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo, a cierta distancia, se marca un lugar (con una tiza, un pañuelo o una piedra).
+2. El que dirige, delante de todos, hace una acción bastante simple o una serie corta de acciones: por ejemplo, se sienta en el piso, cruza las piernas y se rasca la cabeza.
+3. A la señal, el primero de cada equipo corre hasta el lugar marcado, hace exactamente lo mismo que hizo el que dirige y vuelve corriendo para largar al siguiente.
+4. Así siguen hasta que pasaron todos.
+
+**Cómo se gana:** gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Qué gestos costaba más recordar?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DO THIS RELAY.**
+
+Leader does some fairly simple action (e.g. sit on floor, cross legs, scratch head). Each player in turn runs to a prearranged spot, does exactly the same action, and returns to send off the next player.
 
 
 ## Texto original completo de la actividad

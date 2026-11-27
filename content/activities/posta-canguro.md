@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,10 +135,30 @@ rama_rovers:
 # Posta Canguro
 
 ## Cómo se juega
-Los equipos en fila, sentados en el piso con las piernas estiradas hacia adelante, a unos 60 cm uno de otro. El primer jugador de cada equipo salta con los pies juntos por arriba de las piernas de su equipo y después vuelve corriendo por atrás hasta su lugar. Apenas se sienta, el siguiente salta a lo largo de la fila, corre hasta la otra punta y salta por arriba de las piernas del primero hasta su lugar, y así sucesivamente. Gana el primer equipo que termina. Los jugadores pueden saltar con los dos pies o en uno solo, o cada uno puede hacer algo distinto, alternando.
+Una carrera de postas en la que se salta como un canguro por encima de las piernas de los compañeros.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Cada equipo se sienta en el piso en una fila, uno detrás del otro, con las piernas estiradas hacia adelante y unos 60 cm de distancia entre jugador y jugador.
+2. A la señal, el primero de cada equipo se para y salta con los pies juntos por encima de las piernas de todos sus compañeros, hasta el final de la fila. Después vuelve corriendo por afuera hasta su lugar y se sienta.
+3. Apenas se sienta, sale el segundo: salta por encima de las piernas de los que están detrás de él hasta el final, vuelve corriendo por afuera hasta la punta de adelante y salta por encima de las piernas del primero para llegar a su lugar.
+4. Así sigue cada jugador: salta todas las piernas de la fila, menos las suyas, y vuelve a sentarse donde estaba.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Formas de saltar (variante del original):** se puede pedir que todos salten con los pies juntos, que todos salten en un pie, o que se alterne: un jugador con los dos pies y el siguiente en un pie.
 
 ## Para cerrar
 - ¿Les dio miedo que los pisaran? ¿Cómo se cuidaron?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KANGAROO RELAY.**
+
+Teams in line sitting on floor with legs straight out in front of them, players about 2 feet apart. First player of each team jumps with feet together over the legs of his team and then runs round the back of his team to his place. As soon as he sits down the next player hops down the row, runs to the other end, and hops over the first players legs to his place, and so on. First team to finish wins. Players should either jump or hop or alternate players do different things.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,11 +145,30 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
 ## Cómo se juega
-Los jugadores de a dos; cada uno tiene un pedazo de soga y pone una mano atrás de la espalda. Las parejas tratan de unir sus dos sogas con el nudo que se pida. Gana la primera pareja que lo hace bien. Se puede variar con otros nudos.
+Un juego de nudos en pareja en el que cada uno puede usar una sola mano. Hay que ponerse de acuerdo para atar entre los dos.
+
+1. Los jugadores se ponen de a dos. Cada uno tiene un pedazo de soga.
+2. Cada jugador pone una mano atrás de la espalda y no la puede usar en todo el juego.
+3. El que dirige dice qué nudo hay que hacer para unir dos sogas, por ejemplo un nudo llano o una vuelta de escota.
+4. Cada pareja tiene que unir sus dos sogas con ese nudo, usando entre los dos solo las dos manos libres.
+5. El que dirige revisa el nudo de cada pareja.
+
+**Cómo se gana:** gana la primera pareja que termina el nudo bien hecho.
+
+**Otros nudos (variante del original):** se puede jugar con otros nudos, cambiando el que se pide en cada vuelta.
 
 ## Para cerrar
 - ¿Cómo se organizaron? ¿Uno dirigía o se iban turnando?
 - ¿Qué pasa en la patrulla cuando cada uno tiene solo una parte de lo que hace falta?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PAIRS KNOTTING.**
+
+Players in pairs; each player, having a piece of rope, puts one hand behind his back. The pairs then try to tie their two ropes together with whatever knot is desired. First pair correct wins. Can be varied to suit other knots.
 
 
 ## Texto original completo de la actividad

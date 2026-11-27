@@ -153,7 +153,18 @@ Cada guía recibe un sobre cerrado y se compromete por su honor a no abrirlo ant
 2. Prepará un sobre por patrulla con un croquis simple y un recorrido distinto para cada una, todos de largo parecido.
 
 ## Desarrollo
-A cada guía de una tropa se le entrega un sobre cerrado y, diciéndoles que los sobres son importantes, se los compromete por su honor a no abrirlos antes de cierta hora. Esta espera hace más emocionante el juego. Cuando llega el momento de abrir los sobres, encuentran adentro un mapa a mano alzada de una zona determinada e instrucciones que dicen: todos tienen que reunirse en cierto punto, las patrullas se forman y cada una, por su recorrido especial, se dirige al lugar dibujado en el mapa donde estará escondido el dirigente. Por supuesto, los límites del lugar no deben ser demasiado estrechos, o el jefe será descubierto enseguida. Se ofrece un premio a la patrulla que encuentre primero a su jefe, así que cada patrulla debería trabajar en conjunto, revisando el terreno con cuidado en orden abierto. Si el jefe sigue escondido al cabo de media hora, o del tiempo acordado después de que llegó la tropa al lugar, toca un silbato y se termina el juego. Después la tropa puede seguir con otro trabajo scout. El lugar elegido debería tener mucha maleza y ser apto para esconderse. En el sobre de cada guía se pone un papel con el recorrido que deben seguir sus hombres para llegar al lugar, y estos recorridos tienen que ser de largo parecido, si no una patrulla tendrá ventaja sobre otra. Esto se hace para que las patrullas sientan que trabajan por su cuenta. Las órdenes en sobre cerrado enseñan a los scouts a dominar la curiosidad. Este juego se puede jugar de noche si hace falta.
+Un juego de búsqueda por patrullas: con un mapa en sobre cerrado, cada patrulla tiene que encontrar al dirigente, que está escondido.
+
+1. Antes del juego, el dirigente le entrega a cada guía de patrulla un sobre cerrado. Les dice que los sobres son importantes y les pide, por su honor, que no los abran antes de cierta hora. Esa espera le pone emoción al juego y enseña a dominar la curiosidad.
+2. Cuando llega la hora, los guías abren los sobres. Adentro hay un mapa a mano alzada de una zona y estas instrucciones: todos se reúnen en un punto, se forman las patrullas, y cada una va por su propio recorrido hasta el lugar del mapa donde está escondido el dirigente.
+3. Cada sobre trae el recorrido de esa patrulla. Los recorridos tienen que ser de largo parecido, para que ninguna patrulla tenga ventaja. Así cada patrulla siente que trabaja por su cuenta.
+4. El lugar elegido tiene que tener mucha vegetación para esconderse, y no ser demasiado chico, porque si no al dirigente lo encuentran enseguida.
+5. Al llegar, cada patrulla revisa el terreno con cuidado en «orden abierto»: los scouts se separan en una línea, a varios metros uno del otro, y avanzan juntos para no dejar ningún rincón sin mirar.
+6. Si el dirigente sigue escondido media hora después de que llegó la tropa (o el tiempo que se haya acordado), toca el silbato y se termina el juego.
+
+**Cómo se gana:** hay un premio para la primera patrulla que encuentra al dirigente.
+
+Se puede jugar de noche. Al terminar, la tropa puede seguir con otra actividad.
 
 ## Cierre
 - ¿Les costó esperar para abrir el sobre?

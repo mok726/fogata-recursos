@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,19 +137,44 @@ rama_rovers:
 # Carrera del Aro
 
 ## Cómo se juega
-Los equipos en fila india; cada equipo tiene un aro de soga apenas lo bastante grande como para que pase un jugador. Cada jugador, por turno, corre hasta un punto donde está el aro, se lo pasa por la cabeza y lo saca por los pies; después vuelve corriendo para largar al siguiente. Gana el primer equipo que termina.
+Una carrera de postas en la que cada jugador tiene que pasar entero a través de un aro.
 
-**Variante:** los equipos en fila india, a unos 60 cm uno de otro. Los primeros se pasan el aro como antes y se lo dan al siguiente, que hace lo mismo, y así a lo largo de la fila.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-**Carrera de los remeros:** los equipos en fila india, sentados en el piso. Cada equipo tiene un aro de soga de unos 45 cm de diámetro. Cada jugador, por turno y sin levantarse, se pasa el aro por los pies, lo sube por el cuerpo y lo saca por la cabeza, y así al siguiente. Cuando el aro llega al último, él lo pasa en sentido contrario por su cuerpo, y así hasta el de adelante. Gana el primer aro que vuelve a llegar adelante.
+Un aro de soga es una soga con las puntas atadas, formando un anillo. Para este juego tiene que ser apenas lo bastante grande como para que pase el cuerpo de un jugador.
 
-**Variante:** cuando el aro llega al último, este corre adelante y lo vuelve a largar.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Enfrente, a cierta distancia, se deja el aro de cada equipo en el suelo.
+2. A la señal, el primero de cada equipo corre hasta el aro, se lo pasa por la cabeza, lo baja por el cuerpo y lo saca por los pies.
+3. Deja el aro en el suelo y vuelve corriendo a largar al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Aro a lo largo de la fila (variante del original):** los jugadores se paran en fila india, a unos 60 cm uno de otro. El primero se pasa el aro igual que antes y se lo da al de atrás, que hace lo mismo, y así hasta el final de la fila.
+
+**Carrera de los remeros (variante del original):** los equipos se sientan en el piso en fila india. Cada equipo tiene un aro de soga de unos 45 cm de diámetro. El primero, sin levantarse, se pasa el aro por los pies, lo sube por el cuerpo, lo saca por la cabeza y se lo da al de atrás, que hace lo mismo. Cuando el aro llega al último, este se lo pasa al revés, de la cabeza a los pies, y lo devuelve hacia adelante, y así vuelve pasando por todos. Gana el equipo cuyo aro llega primero otra vez al de adelante. Otra forma: cuando el aro llega al último, este corre hasta la punta de adelante, se sienta ahí y lo vuelve a largar; se sigue hasta que todos recuperaron su lugar.
 
 ## Para cerrar
 - ¿Qué técnica era la más rápida?
 
 ## Notas para educadores
 - El aro de soga lo puede hacer la patrulla antes, con un empalme corto (ver Técnica Scout).
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HOOP RACE.**
+
+Teams in file; each team has a rope ring just large enough to pass over a player. Each player in turn runs to a given point where the ring is and slips it over his head, and off at his feet; then running back to start the next. Team finishing first wins.
+
+Variation.—Teams in file, players about 2 feet apart. Nos. 1 pass ring over themselves as above, and then hand it to next players, who do the same, and so on down the file.
+
+**ROWERS’ RACE.**
+
+Teams in file seated on floor. Each team has a rope ring about 1 foot 6 inches diameter. Each player in turn, without getting up, passes the ring over his feet, up over his body, and off over his head, and so on to the next. When the ring reaches the last player he passes it in the opposite direction over his body, and so on to the player in front. First ring to re-reach the front wins.
+
+Variation.—When ring reaches the last player he runs to the front and restarts it.
 
 
 ## Texto original completo de la actividad

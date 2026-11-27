@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,19 +135,49 @@ rama_rovers:
 # Posta de Imitación de Animales
 
 ## Cómo se juega
-Los equipos en fila india; a todos los primeros jugadores se les asigna el mismo pájaro, insecto, reptil o animal; a todos los segundos, otro, y así sucesivamente. Cada jugador, por turno, hace el recorrido imitando al animal que le tocó, con los movimientos y con el sonido. Si al que dirige le parece que la imitación es demasiado mala, el jugador tiene que empezar de nuevo. Gana el primer equipo que termina. Animales adecuados: rana, zorzal, gorrión, camello, conejo, etc. (cualquiera que tenga una forma de andar característica).
+Una carrera de postas en la que cada jugador hace el recorrido imitando a un animal, con los movimientos y con el sonido.
 
-**Posta del elefante:** los equipos en fila india; cada jugador, por turno, apoya las manos en el suelo y, con las rodillas y los codos rígidos, hace el recorrido. Gana el primer equipo que termina.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-**Posta del pato:** los equipos en fila india; cada jugador, por turno, se pone en cuclillas con un palito corto por debajo de las rodillas y por arriba de los codos, con las manos juntas delante de las canillas. En esa posición hace el recorrido. Gana el primer equipo que termina.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido, por ejemplo hasta un punto y de vuelta.
+2. El que dirige asigna un animal a cada lugar de la fila: a todos los primeros de cada equipo les toca el mismo (por ejemplo, la rana), a todos los segundos otro (por ejemplo, el conejo), y así. Conviene elegir animales que tengan una forma de andar característica: rana, zorzal, gorrión, camello, conejo.
+3. A la señal, el primero de cada equipo hace el recorrido moviéndose y haciendo el sonido de su animal. Al volver, larga al siguiente.
+4. Si al que dirige le parece que la imitación es demasiado mala, el jugador tiene que empezar de nuevo.
 
-**Posta del ganso:** los equipos en fila india; cada jugador, por turno, hace el recorrido agarrándose los tobillos. Si se suelta, empieza de nuevo. Una buena variante es hacerlos pasar por arriba de un banco.
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Posta del elefante (variante del original):** cada jugador, por turno, apoya las manos en el suelo y hace el recorrido así, en cuatro patas, con las rodillas y los codos bien estirados, sin doblarlos.
+
+**Posta del pato (variante del original):** cada jugador, por turno, se pone en cuclillas con un palito corto pasado por debajo de las rodillas y por arriba de los codos, y las manos juntas delante de las canillas. En esa posición hace el recorrido, como un pato.
+
+**Posta del ganso (variante del original):** cada jugador, por turno, hace el recorrido agarrándose los tobillos con las manos. Si se suelta, empieza de nuevo. Una buena forma de complicarlo es poner un banco en el camino, que hay que pasar por arriba.
 
 ### Variante: Ñandú, carpincho y yacaré
 Que los animales sean de Argentina o de la selva de Mowgli: el ñandú, el carpincho, el yacaré, el oso Baloo, Kaa la serpiente.
 
 ## Para cerrar
 - ¿Qué animal fue el más cansador?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ANIMAL IMITATION RELAY.**
+
+Teams in file; each first player is allotted the same bird, insect, reptile, or animal; each second player another, and so on. Each player in turn goes round the course imitating the animal allotted him, both by action and sound. If in the opinion of the leader the imitation is too bad, he must start again. First team to finish wins. Suitable animals, etc. :—Frog, Thrush, Sparrow Camel, Rabbit, etc. (any with a distinctive gait).
+
+**ELEPHANT RELAY.**
+
+Teams in file; each player in turn places his hands on the ground and, keeping his knees and elbows stiff, goes round the course. Team to finish first wins.
+
+**DUCK RELAY.**
+
+Teams in file; each player in turn squats down with a short stick under his knees and over his elbows, hands clasped in front of his shins. In this position each goes round a given course. First team to finish wins.
+
+**GOOSE RELAY.**
+
+Teams in file; each player in turn goes round a given course holding his ankles. If a player lets go he starts again. To make the players get over a bench is a useful variation.
 
 
 ## Texto original completo de la actividad

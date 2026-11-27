@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,32 @@ rama_rovers:
 # Posta de las Macetas
 
 ## Cómo se juega
-Los equipos en fila india; delante de cada equipo, dos macetas (o latas firmes). Cada jugador, por turno, se para con un pie en cada maceta y así, arrastrándolas, va hasta un punto dado y vuelve para largar al siguiente. Si un jugador se baja de sus macetas, tiene que empezar de nuevo; puede mover las macetas con la mano siempre que no toque el suelo. Gana el primer equipo que termina.
+Una carrera de postas en la que se avanza parado sobre dos macetas, sin tocar el suelo.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo se ponen dos macetas dadas vuelta, o dos latas firmes, que aguanten el peso de un jugador. Enfrente se marca un punto de vuelta.
+2. A la señal, el primero de cada equipo se para con un pie sobre cada maceta.
+3. Así, arrastrándolas o moviéndolas, va hasta el punto marcado y vuelve. Puede agacharse y mover las macetas con la mano, siempre que no toque el suelo.
+4. Si se baja de las macetas o toca el suelo, tiene que empezar de nuevo desde la salida.
+5. Al volver, deja las macetas para el siguiente, que hace lo mismo.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
 ## Para cerrar
 - ¿Les convenía ir rápido o ir seguro?
 
 ## Notas para educadores
 - Usá latas firmes (de pintura) o ladrillos. Las de conserva se doblan y cortan.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FLOWER POTS RELAY.**
+
+Teams in file, in front of each team two flower-pots. Each player in turn stands with a foot on each pot and in that way shuffles to given point and back to start the next. If a player steps oil his pots he must start again; he may move the pots by hand provided he does not touch the ground. First team to finish wins.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,31 @@ rama_rovers:
 # Marcar el Ritmo
 
 ## Cómo se juega
-Los equipos en distintas partes del salón; a un jugador de cada equipo se le dice el nombre de una canción conocida. Él va hasta su equipo y marca el ritmo de la canción golpeando el piso con una cuchara o con algún objeto firme que sirva (que no sea un cuchillo). Gana el primer equipo que adivina bien la canción.
+Un juego de adivinar canciones solo por el ritmo, sin cantar ni tararear.
+
+1. Cada equipo se ubica en un lugar distinto del salón, lejos de los otros.
+2. El que dirige llama a un jugador de cada equipo y les dice en secreto el nombre de una canción conocida, la misma para todos.
+3. Cada uno vuelve a su equipo y marca el ritmo de la canción golpeando el piso con una cuchara o con algún otro objeto firme que sirva (nunca un cuchillo). No puede cantar, tararear, silbar ni decir nada.
+4. Su equipo escucha los golpes y trata de adivinar qué canción es.
+5. Cuando un equipo cree que la sabe, se lo dice al que dirige.
+6. Se repite con otra canción y otro jugador de cada equipo.
+
+**Cómo se gana:** gana el primer equipo que adivina bien la canción.
 
 ## Para cerrar
 - ¿Qué canciones fueron más fáciles? ¿Por qué?
 
 ## Notas para educadores
 - Usá canciones que todos conozcan: las del fogón del Grupo son ideales.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BEATING TIME.**
+
+Teams in different parts of the room, one player from each team is told the name of some well-known tune. He then goes to his team and taps out the time of the tune on the floor with a spoon or some suitable object which should be stiff (not a knife blade). The first team to guess the tune right wins.
 
 
 ## Texto original completo de la actividad

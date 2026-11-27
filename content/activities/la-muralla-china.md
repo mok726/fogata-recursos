@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,26 @@ rama_rovers:
 # La Muralla China
 
 ## Cómo se juega
-La muralla se marca a lo ancho del centro del terreno con dos líneas a unos 3 m una de otra, y un jugador cuida la muralla. Los demás tratan de correr de un lado del terreno al otro sin que los toque el de la muralla. Los que son tocados se quedan en la muralla y ayudan al guardia.
+Una mancha de cruzar el terreno: hay que pasar de un lado al otro sin que te toque el que cuida la muralla, y la muralla se va llenando de guardias.
+
+1. Se marcan en el centro del terreno, a lo ancho, dos líneas paralelas a unos 3 m una de otra. El espacio entre las dos es la muralla.
+2. Un jugador es el guardia y se para en la muralla. Solo se puede mover dentro de ella.
+3. Los demás jugadores se ubican en un lado del terreno. A una señal, todos corren hacia el otro lado, cruzando la muralla.
+4. El guardia trata de tocar a los que cruzan. Los que son tocados se quedan en la muralla y desde ese momento ayudan al guardia a tocar a los demás.
+5. Los que llegan al otro lado sin que los toquen esperan la señal siguiente para volver a cruzar.
+6. Así, en cada cruce hay más guardias y es más difícil pasar.
 
 ## Para cerrar
 - ¿Les convenía cruzar todos juntos o de a uno?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CHINESE WALL.**
+
+The wall is marked across the centre of the ground by two lines about 10 feet apart, one player guards the wall. The rest try to run from one side of the ground to the other, without being touched by the one on the wall. Any touched remain on the wall and assist the guard.
 
 
 ## Texto original completo de la actividad

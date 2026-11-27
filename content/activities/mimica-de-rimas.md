@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,30 @@ rama_rovers:
 # Rimas Mudas
 
 ## Cómo se juega
-Un equipo sale del salón; los demás eligen una palabra, por ejemplo «gato», y le dicen al equipo que va a actuar que rima con, por ejemplo, «pato». El equipo actúa con mímica, sin hablar, todas las palabras que se le ocurran que rimen con la que le dieron, hasta que da con la correcta. Después sale otro equipo, y gana el que tarda menos en acertar.
+Un juego de mímica con rimas.
+
+1. Un equipo sale del salón.
+2. Los demás eligen una palabra fácil de actuar, por ejemplo «gato».
+3. Cuando el equipo vuelve, le dicen solamente con qué palabra rima: «Rima con pato».
+4. El equipo tiene que actuar con mímica, sin hablar, las palabras que se le ocurran que riman: un plato, un zapato, un rato… Los demás les dicen «No» hasta que actúan la palabra correcta.
+5. Se toma el tiempo. Después sale otro equipo.
+
+**Cómo se gana:** gana el equipo que acierta en menos tiempo.
 
 ## Para cerrar
 - ¿Qué palabra fue la más difícil de actuar? ¿Cómo lo resolvieron?
 
 ## Notas para educadores
 - Es un juego para soltarse y perder la vergüenza de actuar delante de los demás. Ideal antes de preparar un número para el fogón.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DUMB CRAMBO.**
+
+One team goes out of the room, the rest choose a word (say) “moat” and tell the acting team that it rhymes with (say) “boat.” The acting team then act in dumb show all the words they can think of which rhyme with the given word, until they hit on the right one. Then another team goes out and the one taking the shortest time to succeed wins.
 
 
 ## Texto original completo de la actividad

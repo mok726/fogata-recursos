@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -143,9 +144,29 @@ rama_rovers:
 2. Hacé una tarjeta por patrulla con el orden de los nudos.
 
 ## Cómo se juega
-Los equipos en fila india; delante de cada equipo, a unos 9 metros, un jugador con una pila de sogas. El primero tiene que correr y atarle un as de guía alrededor de la cintura y volver para largar al siguiente, que ata otra soga a la primera con un nudo llano, y así sucesivamente; el 3.º ata una vuelta de escota; el 4.º, un nudo de pescador; el 5.º acorta con una margarita la última soga atada; el 6.º ata la punta con un ballestrinque alrededor de su pierna. Gana el primer equipo que termina bien.
+Una carrera de postas en la que cada jugador del equipo agrega un nudo distinto a una misma cadena de sogas.
 
-**Carrera de nudos:** equipos de seis en fila. Los n.º 1, 2, 3 y 4 tienen cada uno un pedazo de soga; el 6.º se para frente al centro de su equipo. El n.º 1 se ata una punta de su soga alrededor del cuerpo (as de guía). El n.º 2 ata la suya a la otra punta (llano). El n.º 3 ata la suya a la otra punta de la del n.º 2 (vuelta de escota). El n.º 4 ata la suya a la otra punta de la del n.º 3 (pescador). El n.º 5 ata la otra punta de la del n.º 4 a su propia pierna (ballestrinque). El n.º 6 hace una margarita en el medio.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida.
+2. A unos 9 metros de cada equipo se para un jugador (puede ser alguien del mismo equipo o un ayudante) con una pila de sogas a sus pies.
+3. A la orden, el primero de cada fila corre hasta ese jugador y le ata un as de guía alrededor de la cintura. Después vuelve corriendo y toca al segundo de su fila.
+4. El segundo corre, agarra otra soga y la une a la primera con un nudo llano. Vuelve y toca al tercero.
+5. El tercero agrega otra soga con una vuelta de escota.
+6. El cuarto agrega otra soga con un nudo de pescador.
+7. El quinto acorta la última soga atada haciéndole una margarita (el nudo que sirve para acortar una soga sin cortarla).
+8. El sexto ata la punta que queda libre con un ballestrinque alrededor de la pierna del jugador que está parado.
+9. El que dirige revisa que todos los nudos estén bien hechos.
+
+**Cómo se gana:** gana el primer equipo que termina con todos los nudos correctos.
+
+**Carrera de nudos (variante del original):** se juega con equipos de seis, formados uno al lado del otro. Los jugadores número 1, 2, 3 y 4 tienen cada uno un pedazo de soga, y el número 6 se para enfrente del centro de su equipo. En orden:
+- El 1 se ata una punta de su soga alrededor del cuerpo con un as de guía.
+- El 2 ata su soga a la otra punta de la del 1 con un nudo llano.
+- El 3 ata su soga a la otra punta de la del 2 con una vuelta de escota.
+- El 4 ata su soga a la otra punta de la del 3 con un nudo de pescador.
+- El 5 ata la otra punta de la soga del 4 a su propia pierna con un ballestrinque.
+- Por último, el 6 hace una margarita en el medio de la cadena.
+
+Gana el primer equipo que termina la cadena con todos los nudos bien hechos.
 
 ### Variante: Sin correr
 Toda la patrulla en fila y cada uno con su soga: van armando la cadena de mano en mano, sin moverse.
@@ -157,6 +178,21 @@ Toda la patrulla en fila y cada uno con su soga: van armando la cadena de mano e
 ## Notas para educadores
 - El as de guía en la cintura no se aprieta: tiene que quedar holgado.
 - Valorá más los nudos bien hechos que la velocidad.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KNOTTING RELAY.**
+
+Teams in file, one player in front of each team about 10 yards away with a heap of ropes. First player must run and tie a bowline round the former’s waist and come back to start the next, who ties another
+
+rope on to the first with a reef, and so on; 3rd ties sheetbend; 4th ties fisherman; 5th shortens the rope last tied on ; 6th ties the end in a clove-hitch round his leg. Team first finishing correct wins.
+
+**KNOTTING RACE.**
+
+Teams of six in line. Nos. 1, 2, 3, 4, each have a bit of rope, 6th player stands opposite the centre of his team. No. 1 ties one end of his rope round himself (bowline). No. 2 ties his on to the other end (reef). No. 3 ties his on to the other end of No. 2‘s (sheetbend). No. 4 ties his on to the other end of No. 3’s (fisherman). No. 5 ties other end of No. 4’s to his own leg (clove-hitch). No. 6 ties a sheepshank in middle.
 
 
 ## Texto original completo de la actividad

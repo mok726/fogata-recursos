@@ -149,7 +149,17 @@ rama_rovers:
 Dos equipos en fila, enfrentados a unos 15 m. En el medio hay un palo con un pañuelo apoyado. A la señal sale uno de cada equipo: el que roba el pañuelo vuelve corriendo y el otro lo persigue. Si lo toca antes de que llegue, el ladrón queda prisionero; si no, el perseguidor queda prisionero del otro equipo.
 
 ## Desarrollo
-Para jugar a este juego, formen dos escuadras de ocho scouts y pónganlas en fila a unos 15 m una de la otra. A mitad de camino entre ellas pongan una maza de gimnasia o un palo, sobre el que se apoya un pañuelo. Hay que designar un árbitro, que debe pararse cerca de la maza o el palo. Cuando dice "¡Ya!", sale corriendo un jugador de cada lado hacia el palo e intenta arrebatar el pañuelo antes que su rival. El que no lo logra tiene que perseguir al otro hasta su línea y tratar de "mancharlo" antes de que llegue. Si el que arrebató el pañuelo vuelve a su línea sin que lo manchen, su perseguidor pasa a ser su prisionero; pero si no lo logra, él se convierte en prisionero del otro bando. El juego sigue hasta que uno de los bandos capturó a todo el otro. Si no se llega a esto en un tiempo razonable, gana el bando que capturó más prisioneros.
+Un juego de velocidad y astucia: dos jugadores corren a arrebatar un pañuelo y el que lo agarra tiene que volver a su línea sin que lo manchen.
+
+1. Se forman dos equipos de ocho jugadores, en fila uno al lado del otro, a unos 15 metros de distancia, frente a frente.
+2. En el medio, a la misma distancia de los dos equipos, se clava un palo (o una maza de gimnasia) y se apoya un pañuelo encima.
+3. Se elige un árbitro, que se para cerca del palo.
+4. Cuando el árbitro dice «¡Ya!», sale corriendo un jugador de cada equipo hacia el palo. Los dos tratan de arrebatar el pañuelo antes que el otro.
+5. El que no lo consiguió persigue al que lo tiene y trata de mancharlo, es decir, de tocarlo, antes de que llegue a su línea.
+6. Si el que tiene el pañuelo llega a su línea sin que lo manchen, el que lo perseguía queda prisionero: pasa al equipo del que agarró el pañuelo. Si, en cambio, lo manchan antes de llegar, el que queda prisionero es el que agarró el pañuelo, y pasa al equipo del que lo manchó.
+7. Se devuelve el pañuelo al palo y salen otros dos.
+
+**Cómo se gana:** el juego sigue hasta que un equipo tomó prisioneros a todos los del otro. Si eso no pasa en un tiempo razonable, gana el equipo que tomó más prisioneros.
 
 ### Variante: Con números
 Cada jugador tiene un número y el árbitro canta cuál sale, como en el clásico juego del pañuelo.

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,9 +136,12 @@ rama_rovers:
 # Actuar un Oficio
 
 ## Cómo se juega
-Cada jugador, o cada pareja, actúa por turno algún oficio, profesión o situación de todos los días, y sigue hasta que la adivinan. Por ejemplo: el plomero y su ayudante, afeitarse, un cirujano operando, etc.
+Un juego de mímica para adivinar oficios.
 
-**Actuar animales:** cada jugador, por turno, actúa como algún animal, pájaro, reptil o insecto, y sigue hasta que lo adivinan.
+1. Por turno, cada jugador (o cada pareja) actúa sin hablar algún oficio, profesión o situación de todos los días: el plomero y su ayudante, alguien afeitándose, un cirujano operando, etc.
+2. Sigue actuando hasta que los demás adivinan qué es.
+
+**Actuar animales (variante del original):** cada jugador, por turno, actúa un animal, pájaro, reptil o insecto, con movimientos y sonidos, hasta que lo adivinan.
 
 ## Para cerrar
 - ¿Qué oficios conocieron que no sabían que existían?
@@ -146,6 +150,19 @@ Cada jugador, o cada pareja, actúa por turno algún oficio, profesión o situac
 ## Notas para educadores
 - Puede dar pie a una charla sobre oficios del barrio o a una visita a un taller (ver Visita a Talleres y Fábricas).
 - Evitá estereotipos de género en las tarjetas: que haya médicas, plomeras, enfermeros.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ACTING A TRADE.**
+
+Each player or pair of players in turn act some trade, profession or everyday event, and continue to do so until it is guessed. E.g. Plumber and mate, shaving, surgeon operating, etc.
+
+**ACTING ANIMALS.**
+
+Each player in turn acts as some animal, bird, reptile or insect and continues to do so till it is guessed.
 
 
 ## Texto original completo de la actividad

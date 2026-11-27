@@ -153,7 +153,16 @@ Un mensajero avisa que una fuerza amiga está aislada a cierta distancia. Entre 
 3. Hacé un croquis simple del terreno para cada guía.
 
 ## Desarrollo
-Para que compitan varias patrullas. Una fuerza necesita ayuda, y un motorista militar que va hacia la guarnición más cercana se encuentra con un campamento scout. Le da a cada guía una idea rápida de la situación y le muestra un mapa a mano alzada, explicándole que la fuerza en apuros está a 3 km por cierto camino, y que entre el campamento scout y esa fuerza están los puestos avanzados del enemigo. Los guías tienen que llevar a sus patrullas en el menor tiempo hasta la fuerza en apuros sin ser vistos por el enemigo. La fuerza en apuros puede estar representada por cualquier punto bien visible, y los puestos enemigos, por personas con banderas rojas ubicadas en el camino entre el campamento y la otra fuerza. Apenas ven a alguna de las patrullas, tocan un silbato y esos scouts se consideran capturados (o bien pueden anotar a qué patrulla pertenecen los scouts que vieron y contarlo en su contra). Gana la patrulla que llega a la fuerza en apuros en el menor tiempo y sin que se vea a ninguno de sus scouts.
+Un juego de avance sin ser visto: cada patrulla tiene que llegar a un punto pasando entre los vigías del enemigo.
+
+1. Pueden competir varias patrullas. La historia es esta: una fuerza amiga está en problemas y necesita ayuda. Un mensajero militar que va de paso llega al campamento scout.
+2. El mensajero (lo hace el dirigente) le explica rápido la situación a cada guía y le muestra un mapa a mano alzada: la fuerza en apuros está a unos 3 km por cierto camino, y entre el campamento y esa fuerza están los puestos de vigilancia del enemigo.
+3. La fuerza en apuros se representa con un punto bien visible del terreno.
+4. Los puestos enemigos son personas con banderas rojas ubicadas a lo largo del camino.
+5. Cada guía tiene que llevar a su patrulla hasta la fuerza en apuros lo más rápido posible y sin que la vean.
+6. Cuando un vigía ve a algún scout, toca el silbato y ese scout queda capturado. Otra opción es que el vigía anote a qué patrulla pertenece el scout que vio, y se le descuenta a esa patrulla.
+
+**Cómo se gana:** gana la patrulla que llega en el menor tiempo sin que hayan visto a ninguno de sus scouts.
 
 ## Cierre
 - ¿Les convino ir juntos o separados?

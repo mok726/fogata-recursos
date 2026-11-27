@@ -150,7 +150,17 @@ Los scouts se sientan y el dirigente o el guía les hace preguntas por turno: de
 1. Prepará preguntas de tu lugar, como las del original pero actualizadas. Por ejemplo: ¿Cuándo nació Baden-Powell? (22 de febrero de 1857). ¿Por qué el scout usa la flor de lis? ¿Dónde queda la sede de tu organización scout nacional? ¿Qué colectivo o tren te lleva al centro? ¿Cómo se llega desde tu ciudad hasta la capital de tu provincia? ¿Qué pide la especialidad de...?
 
 ## Desarrollo
-Los scouts se sientan todos, en el piso o en bancos, y el dirigente o el guía le hace a cada chico por turno distintas preguntas de cultura general. Se da un punto por cada respuesta correcta, y el chico que suma más puntos, naturalmente, gana el juego. Las preguntas variarán, por supuesto, según el lugar, pero estas son algunas que se le hicieron a una tropa: ¿Qué significa K.C.B.? ¿En qué ferrocarril está la estación de Peterborough? ¿Cómo irías de Londres a Torquay? ¿Qué pide la prueba de la especialidad de Bombero? ¿Cuándo es el cumpleaños del Jefe Scout? ¿Cuándo es el Día de Trafalgar? ¿Por qué el scout usa la flor de lis? ¿Dónde está la sede de la Asociación de Boy Scouts? ¿Qué tenía la tapa de THE SCOUT de la semana pasada? La próxima vez que no sepan qué hacer en el local, prueben este juego. No solo pondrá a prueba lo que saben, sino que además aumentará su reserva de información útil e interesante.
+Un juego de preguntas de cultura general, ideal para una reunión en el local.
+
+1. Los jugadores se sientan en el piso o en bancos.
+2. El dirigente o el guía de patrulla le hace una pregunta a cada uno, por turno.
+3. Cada respuesta correcta vale un punto.
+
+**Cómo se gana:** gana el que suma más puntos.
+
+**Las preguntas:** el original aclara que cambian según el lugar. A una tropa inglesa de 1921 le preguntaron cosas de su país (qué significa una sigla, en qué línea de tren está una estación, cómo se viaja entre dos ciudades), de las especialidades scouts (qué pide la prueba de la especialidad de Bombero), de la historia scout (cuándo es el cumpleaños de Baden-Powell, por qué el scout usa la flor de lis, dónde está la sede de la asociación scout) y hasta qué tenía la tapa de la última revista scout. Para un grupo de hoy, armá preguntas parecidas pero de tu ciudad, de tu país y de tu grupo scout.
+
+**Consejo del original:** la próxima vez que no sepan qué hacer en el local, prueben este juego. No solo pone a prueba lo que saben, sino que además les suma información útil e interesante.
 
 ### Variante: Por patrullas
 Cada patrulla prepara diez preguntas para la otra.

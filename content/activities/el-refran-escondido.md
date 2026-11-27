@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,13 @@ rama_rovers:
 # Refranes
 
 ## Cómo se juega
-El que dirige escribe un refrán en el pizarrón en forma de una serie de X, una por cada letra, agrupadas en sus palabras. Cada jugador, por turno, propone una letra; si está, el que dirige la escribe en su lugar. Cada jugador tiene un solo intento de adivinar el refrán completo, que puede usar cuando quiera; gana el primero que lo adivina bien.
+Un juego para adivinar un refrán letra por letra, parecido al ahorcado.
+
+1. El que dirige elige un refrán, por ejemplo «Al que madruga Dios lo ayuda», y lo escribe en el pizarrón poniendo una X por cada letra, separadas en palabras: XX XXX XXXXXXX XXXX XX XXXXX.
+2. Cada jugador, por turno, dice una letra. Si está en el refrán, el que dirige la escribe en todos los lugares donde va.
+3. Cada jugador tiene un solo intento de adivinar el refrán completo, y lo puede usar cuando quiera.
+
+**Cómo se gana:** gana el primero que dice el refrán completo y bien.
 
 ### Variante: Frases scouts
 En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
@@ -148,6 +155,15 @@ En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
 ## Notas para educadores
 - Una buena excusa para charlar sobre el sentido de los refranes y de dónde vienen.
 - Para lobatos, usá frases cortas y conocidas.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PROVERBS.**
+
+The leader writes a proverb on the black-board, in the form of a series of X's, one for each letter, grouped in the proper words. Each player in turn suggests a letter, which, if it is right, the leader writes in its correct place. Each player has one guess that he may use when he likes, the first to guess the whole proverb correctly wins.
 
 
 ## Texto original completo de la actividad

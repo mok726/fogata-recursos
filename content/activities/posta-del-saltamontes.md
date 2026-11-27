@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,29 @@ rama_rovers:
 # Posta del Saltamontes
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, hace un recorrido dado llevando algún objeto adecuado entre las rodillas (por ejemplo, una bolsita de porotos), sin tocarlo con las manos. Gana el primer equipo que termina. Si a un jugador se le cae la bolsita, empieza de nuevo.
+Una carrera de postas en la que se avanza llevando un objeto apretado entre las rodillas.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido, por ejemplo hasta un punto y de vuelta.
+2. Cada equipo tiene un objeto que se pueda sostener entre las rodillas, por ejemplo una bolsita de tela llena de porotos.
+3. A la señal, el primero de cada equipo se pone la bolsita entre las rodillas y hace el recorrido así, saltando o caminando como pueda, sin tocarla con las manos.
+4. Si se le cae la bolsita, vuelve a empezar desde la salida.
+5. Al terminar, le da la bolsita al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
 ## Para cerrar
 - ¿Qué técnica usaron: saltos chiquitos o grandes?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GRASSHOPPER RELAY.**
+
+Teams in file, each player in turn goes round a given course carrying some suitable object between his knees (e.g. bean bag) but without touching it with his hands. First team to finish wins. If a player drops the bag he starts again.
 
 
 ## Texto original completo de la actividad

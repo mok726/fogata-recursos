@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,7 +142,16 @@ rama_rovers:
 # Posta de las Estacas
 
 ## Cómo se juega
-Los equipos en fila india; cada equipo tiene 12 estacas de carpa y una maza. El primer jugador de cada equipo corre con las estacas y la maza hasta un lugar dado y clava todas las estacas; vuelve y larga al siguiente, que saca todas las estacas y las vuelve a clavar, y así sucesivamente. Si una estaca se cae entre que un jugador se va y llega el siguiente, el que la clavó tiene que volver a ponerla. Gana el primer equipo que termina.
+Una carrera de postas de campamento: hay que clavar y desclavar estacas de carpa.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Cada equipo tiene 12 estacas de carpa y una maza. Enfrente, a cierta distancia, se marca un lugar para cada equipo, en un terreno donde se puedan clavar estacas.
+2. A la señal, el primero de cada equipo corre con las estacas y la maza hasta su lugar, clava las 12 estacas en el suelo y vuelve a largar al siguiente, dejando la maza ahí.
+3. El segundo corre hasta las estacas, las saca todas y las vuelve a clavar. Después vuelve y larga al tercero, y así sucesivamente.
+4. Si una estaca se cae en el rato entre que un jugador se fue y llega el siguiente, el que la clavó tiene que volver a clavarla bien.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
 ## Para cerrar
 - ¿Cómo se saca una estaca sin doblarla?
@@ -150,6 +160,17 @@ Los equipos en fila india; cada equipo tiene 12 estacas de carpa y una maza. El 
 ## Notas para educadores
 - Antes del juego, mostrá cómo se clava una estaca y cómo se saca con otra estaca o con un sacaestacas.
 - Ideal para la mañana de armado del campamento.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TENT PEG RELAY.**
+
+Teams in file; each team has 12 tent-pegs and a mallet. Each first player runs with the pegs and mallet to a given spot and knocks all the pegs in, returning to send off the next player, who pulls all the pegs out and
+
+knocks them in again, and so on. If a peg falls down between one player leaving it and the next arriving, the one who knocked it in must go back and replace it. First team to finish wins.
 
 
 ## Texto original completo de la actividad

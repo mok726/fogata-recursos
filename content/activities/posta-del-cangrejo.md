@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,15 +137,36 @@ rama_rovers:
 # Posta del Caballo de Tiro
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, va hasta un punto fijo y vuelve caminando con las manos y los pies, con la espalda hacia el suelo. Gana el primer equipo que termina. El recorrido no tiene que ser muy largo.
+Una carrera de postas en la que cada jugador avanza en cuatro patas pero boca arriba, como un caballo de tiro que arrastra el carro (o como un cangrejo), apoyado en las manos y los pies.
 
-**Posta de los que llevan papas:** los equipos en fila india; delante de cada equipo, una fila de circulitos con una papa en cada uno. Cada jugador, por turno, avanza por la fila de círculos juntando las papas en una cajita que lleva sobre la panza, y después vuelve para largar al siguiente, que vuelve a poner las papas en los círculos, y así sucesivamente. Gana el primer equipo que termina. Los jugadores se mueven de la misma manera que en la posta anterior.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Enfrente se marca un punto fijo, no muy lejos, porque esta forma de caminar cansa mucho.
+2. Para avanzar, el jugador se sienta en el piso, apoya las manos detrás del cuerpo y los pies adelante, y levanta la cola: queda con la panza para arriba y la espalda hacia el suelo, como una mesa. Así camina con las manos y los pies.
+3. A la señal, el primero de cada equipo va de esa manera hasta el punto fijo y vuelve, y larga al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Posta de los que llevan papas (variante del original):** delante de cada equipo se dibuja una fila de circulitos en el piso, con una papa en cada uno. Cada jugador lleva una cajita apoyada sobre la panza y avanza caminando como cangrejo. El primero recorre la fila de círculos, junta las papas en la cajita y vuelve para largar al siguiente. El segundo hace el recorrido al revés: va dejando una papa en cada círculo. Y así, uno junta y el otro reparte, hasta que pasaron todos. Gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Qué músculos sintieron después?
 
 ## Notas para educadores
 - Que el recorrido sea corto: cansa mucho los brazos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CARTHORSE RELAY.**
+
+Teams in file; each player in turn goes to a fixed point and back, walking on their hands and feet with backs toward the ground. First team to finish wins. The course should not be too long.
+
+**POTATO CARRIERS’ RELAY.**
+
+Teams in file; in front of each team is a row of small circles with a potato in each. Each player in turn moves down the row of circles, collecting the potatoes into a small box carried on his stomach, and then returning to send off the next player, who replaces the potatoes in the circles, and so on. First team to finish wins. The players move in the same way as in No. 15.
 
 
 ## Texto original completo de la actividad

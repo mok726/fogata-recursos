@@ -149,7 +149,20 @@ rama_rovers:
 Cuatro patrullas: A y B, frente a frente a unos 15 m, juegan contra C y D, ubicadas igual al costado. El dirigente se para en el centro y les da un bastón a los primeros de A y de C. Cada uno corre hasta la fila de enfrente, entrega el bastón y sale. El bastón va y viene entre las filas. El último de cada lado lo lleva al dirigente: gana el que llega primero.
 
 ## Desarrollo
-Dos patrullas juegan juntas contra las otras dos. Las llamaremos A, B, C y D. A y B se ubican frente a frente, con una distancia de 15 m entre ellas, los chicos parados uno detrás del otro. C y D hacen lo mismo, ubicándose al menos a 4,5 m al costado de sus rivales. El dirigente, o quien dirija el juego, se para en el centro del paralelogramo que así se forma. Esto se ve con toda claridad en el dibujo. Le da un bastón al primer chico de cada una de las patrullas que están una al lado de la otra. A una señal, estos dos corren lo más rápido que pueden hasta los chicos que encabezan las otras dos patrullas, les dan los bastones y se retiran del juego. Los dos que ahora tienen los bastones se los devuelven al primero de los scouts que quedan en las otras patrullas, después se retiran del juego, y así sucesivamente. El juego sigue hasta que todos los chicos corrieron con los bastones. El objetivo es ver cuáles dos patrullas terminan primero. El último chico de cada lado le lleva el bastón al dirigente en el centro. Por supuesto, gana el lado cuyo último chico llega primero al jefe. Naturalmente, hay que acordarse de tener la misma cantidad de chicos en los dos lados, y cada uno tiene que quedarse completamente quieto hasta recibir el bastón. Si juegan este juego al aire libre, le pueden sacar más jugo haciendo que los chicos que corren con los bastones tengan que cruzar una zanja, un cerco u otro obstáculo.
+Una carrera de postas para cuatro patrullas, que juegan de a dos contra las otras dos pasándose un bastón de un lado al otro.
+
+1. Se llama a las patrullas A, B, C y D. A y B forman un equipo; C y D forman el otro.
+2. A y B se forman frente a frente, a 15 metros de distancia, cada patrulla en fila india (un jugador detrás del otro).
+3. C y D hacen lo mismo, al costado, a por lo menos 4,5 metros de A y B. Así quedan A y C de un lado, una al lado de la otra, y B y D enfrente.
+4. El que dirige se para en el medio del rectángulo que forman las cuatro filas. Le da un bastón al primer jugador de A y al primero de C.
+5. A la señal, esos dos corren lo más rápido que pueden hasta el primer jugador de la patrulla que tienen enfrente (el de A hasta B, el de C hasta D), le entregan el bastón y salen del juego.
+6. El que recibió el bastón corre hasta la fila de enfrente y se lo da al siguiente jugador de esa patrulla, y también sale del juego. Así el bastón va y viene hasta que corrieron todos.
+7. El último jugador de cada equipo, en lugar de entregar el bastón en la otra fila, se lo lleva al que dirige, en el centro.
+8. Cada jugador se tiene que quedar completamente quieto en su lugar hasta recibir el bastón. Los dos equipos tienen que tener la misma cantidad de jugadores.
+
+**Cómo se gana:** gana el equipo cuyo último corredor le entrega primero el bastón al que dirige.
+
+**Con obstáculos (variante del original):** al aire libre se le saca más jugo si los que corren tienen que cruzar una zanja, un cerco o algún otro obstáculo en el camino.
 
 ### Variante: Con obstáculos
 Al aire libre, poné un obstáculo en el camino: un tronco bajo, una soga para pasar por abajo.

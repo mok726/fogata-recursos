@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,15 @@ rama_rovers:
 # Tim el Novato
 
 ## Cómo se juega
-Los jugadores en ronda. Uno empieza diciendo: «Tim el Novato se fue de campamento y llevó…», y nombra algún objeto. El n.º 2 repite lo que dijo el n.º 1 y agrega otro objeto, y así sucesivamente. Cada uno sale cuando no puede repetir la lista. Gana el último que queda; el que dirige tiene que ir anotando la lista en un papel.
+Un juego de memoria en ronda.
+
+1. Los jugadores se sientan en ronda.
+2. El primero dice: «Tim el Novato se fue de campamento y llevó…» y nombra un objeto: «una carpa».
+3. El segundo repite la frase completa y agrega otro objeto: «Tim el Novato se fue de campamento y llevó una carpa y una linterna».
+4. El tercero repite todo y agrega un objeto más, y así sigue la ronda, con la lista cada vez más larga.
+5. El que se olvida un objeto o los dice en otro orden, sale. El que dirige va anotando la lista en un papel para controlar.
+
+**Cómo se gana:** gana el último que queda.
 
 ### Variante: Solo cosas útiles
 Solo valen cosas que de verdad hay que llevar al campamento. Si alguien dice «una heladera», el grupo decide si se acepta.
@@ -148,6 +157,15 @@ Cada cosa se dice con un gesto. Ayuda mucho a recordar.
 
 ## Notas para educadores
 - Al final, usá la lista para revisar entre todos qué lleva una buena mochila.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TENDERFOOT TIM.**
+
+Players in circle. One starts by saying “Tenderfoot Tim went to camp and took ...,” mentioning some object. No. 2 repeats No. 1’s statement and adds another object, and so on. Each falls out as he fails to repeat the list. Last in wins; a list should be kept by the leader on paper.
 
 
 ## Texto original completo de la actividad

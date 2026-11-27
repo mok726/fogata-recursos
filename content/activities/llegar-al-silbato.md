@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,9 +142,15 @@ rama_rovers:
 2. Elegí uno o dos dirigentes o scouts más grandes como custodios, que caminen sin hablar al lado de los jugadores para que nadie se lastime.
 
 ## Cómo se juega
-El que dirige se ubica en un espacio abierto; los equipos se forman a cierta distancia y se vendan los ojos. El que dirige toca el silbato cada tanto, y cada jugador, cuando llega hasta él, se saca la venda y se queda callado. Gana el primer equipo que llega completo.
+Un juego para aprender a orientarse con el oído.
 
-**¿Qué silbato?** El guía de cada equipo se aleja la misma distancia del punto de partida, y cada uno tiene un silbato de un sonido propio, distinto del de los demás. Los equipos se vendan los ojos, los guías silban cada tanto y gana el primer equipo que se reúne completo alrededor de su propio guía. El que llega al guía equivocado vuelve al punto de partida y empieza de nuevo.
+1. El que dirige se ubica en algún lugar de un espacio abierto. Los equipos se forman a cierta distancia, y a todos los jugadores se les vendan los ojos.
+2. El que dirige toca el silbato cada tanto. Los jugadores caminan hacia el sonido.
+3. Cuando un jugador llega hasta el que dirige, se saca la venda y se queda callado, para no ayudar a los demás con su voz.
+
+**Cómo se gana:** gana el primer equipo que llega completo hasta el silbato.
+
+**¿Qué silbato? (variante del original):** cada guía de equipo se aleja la misma distancia del punto de partida y se lleva un silbato que suena distinto de los demás. Los equipos, con los ojos vendados, tienen que reconocer el sonido de su propio guía y llegar hasta él. El que llega al guía equivocado vuelve al punto de partida y empieza de nuevo. Gana el primer equipo que se junta completo alrededor de su guía.
 
 ## Para cerrar
 - ¿Cómo hicieron para saber de dónde venía el sonido?
@@ -152,6 +159,19 @@ El que dirige se ubica en un espacio abierto; los equipos se forman a cierta dis
 ## Notas para educadores
 - El viento desvía mucho el sonido: si hay viento, tocá más seguido o acortá la distancia.
 - Este juego entrena justo lo que hace falta si alguien se pierde y escucha un silbato de búsqueda.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOCATION BY SOUND.**
+
+Leader takes up a position in an open space, teams line up some distance away and are blindfold. The leader blows a whistle at intervals and each player on reaching him removes his bandage and keeps quiet. First team all to reach the leader wins. O.
+
+**WHICH WHISTLE?**
+
+Leader of each team goes the same distance from the starting point, and each has a whistle of a distinctive note, different from the rest. Teams are blindfold, leaders whistle at intervals, and the first team to rally to its own leader wins. Any reaching the wrong leader go back and start again.
 
 
 ## Texto original completo de la actividad

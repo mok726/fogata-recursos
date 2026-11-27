@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,17 +143,45 @@ rama_rovers:
 2. Marcá arcos chicos, de unos dos metros de ancho.
 
 ## Cómo se juega
-**Con los pies atados:** dos equipos, cada uno defiende un arco de 1,80 m, saltando con los dos pies atados juntos. En lugar de pelota se patea un aro de soga. Solo el arquero puede usar las manos, pero tiene que quedarse parado. No se permite cargar contra el otro.
+Un fútbol de salón muy divertido en el que, en vez de pelota, se patea un aro de soga (un anillo de soga gruesa, de los que se usan para tirar y embocar en una estaca), y los jugadores no pueden correr libres porque van atados. El original trae dos formas de jugarlo.
 
-**De tres piernas:** se juega como el anterior, pero los jugadores van atados de a dos como en una carrera de tres piernas. Los arqueros solo pueden usar la mano de afuera y tienen que quedarse parados.
+**Con los pies atados:**
 
-**Variante:** los jugadores solo pueden patear con la pierna del medio. No se permite cargar contra el otro.
+1. Se marcan dos arcos de 1,80 m de ancho, uno en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
+2. A cada jugador se le atan los dos tobillos juntos, así que solo se puede mover saltando.
+3. Se pone el aro de soga en el centro y los jugadores lo patean, siempre saltando, para meterlo en el arco del otro equipo.
+4. Solo el arquero puede usar las manos para atajar, pero tiene que quedarse siempre de pie: no se puede tirar al piso.
+5. No se vale cargar, es decir, empujar o chocar a propósito a otro jugador.
+
+**De tres piernas:**
+
+1. Se juega igual que el anterior, pero los jugadores van atados de a dos, como en la carrera de tres piernas: el tobillo derecho de uno atado al tobillo izquierdo del compañero.
+2. Los arqueros (que también pueden ser una pareja atada) solo pueden atajar con la mano de afuera, la que no está del lado del compañero, y tienen que quedarse de pie.
+
+**Cómo se gana:** gana el equipo que mete más goles.
+
+**Solo la pierna del medio (variante del original):** en la forma de tres piernas, se puede jugar con la regla de que solo se patea con la pierna del medio, la que está atada al compañero. Tampoco acá se permite cargar contra el otro.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo con su pareja para moverse?
 
 ## Notas para educadores
 - El nudo del tobillo va con pañuelo, flojo, y se desata enseguida si alguien se cae.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUOIT FOOTBALL (FEET TIED).**
+
+Two teams each defend 6-feet goals, hopping with their two feet tied together. In place of a ball a rope quoit is kicked. Only the goalkeeper may use his hands but he must remain standing. No charging allowed.
+
+**QUOIT FOOTBALL (3-LEGGED).**
+
+Played as No. 6, hut the players are tied in pairs as for a 3-legged race. The goalkeeper(s) may use their outside hands only and must remain standing.
+
+Variation.-Players may only kick with their middle leg(s). No charging allowed.
 
 
 ## Texto original completo de la actividad

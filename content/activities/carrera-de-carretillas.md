@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,31 @@ rama_rovers:
 # Posta de la Carretilla
 
 ## Cómo se juega
-Los equipos en fila india, los jugadores de a dos. Uno de cada pareja camina con las manos, y el otro le sostiene las piernas debajo de los brazos. Cada pareja, por turno, va hasta un punto dado y vuelve. Gana el primer equipo que termina.
+Una carrera de postas de a dos, en la que uno hace de carretilla y el otro la empuja.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Enfrente se marca un punto de vuelta.
+2. Uno de la pareja es la carretilla: se pone en el suelo apoyado en las manos. El otro le agarra las piernas, a la altura de los tobillos o las rodillas, y se las sostiene debajo de los brazos, a los costados del cuerpo.
+3. A la señal, la primera pareja de cada equipo avanza así: la carretilla camina con las manos y el compañero la sigue sosteniéndole las piernas.
+4. Van hasta el punto marcado y vuelven, y entonces sale la pareja siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todas las parejas.
 
 ## Para cerrar
 - ¿Qué fue más difícil, ser carretilla o empujar?
 
 ## Notas para educadores
 - Armá parejas de peso y tamaño parecidos, y que el recorrido sea corto.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHEELBARROW RELAY.**
+
+Teams in file, players in pairs. One player of each pair walks on his hands, the other holding his legs under his arms. Each pair in turn goes to a given point and back. First team to finish wins.
 
 
 ## Texto original completo de la actividad

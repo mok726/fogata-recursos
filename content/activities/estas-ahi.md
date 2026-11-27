@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,17 +138,37 @@ rama_rovers:
 # ¿Estás Ahí?
 
 ## Cómo se juega
-Dos jugadores arrodillados, al alcance uno del otro; uno tiene un diario enrollado como garrote. Cada vez que pregunta «¿Estás ahí?», el otro tiene que contestar y tratar de esquivar el golpe que viene. Los dos tienen los ojos vendados y ninguno puede mover las rodillas.
+Un juego de dos jugadores con los ojos vendados, uno que busca y otro que esquiva, guiándose solo por la voz.
 
-**Variante:** los dos jugadores se toman de la mano izquierda y cada uno tiene un garrote; preguntan por turno.
+1. Dos jugadores se arrodillan en el piso, frente a frente, lo bastante cerca como para alcanzarse con el brazo. Los dos tienen los ojos vendados.
+2. Uno tiene un diario enrollado, que hace de garrote blando.
+3. Cuando quiere, el del diario pregunta: «¿Estás ahí?». El otro está obligado a contestar «¡Acá estoy!» (o algo parecido).
+4. Apenas escucha la respuesta, el del diario trata de pegarle con el diario, guiándose por la voz. El otro trata de esquivar el golpe moviendo el cuerpo hacia un lado, hacia atrás o agachándose.
+5. Ninguno de los dos puede mover las rodillas del lugar.
+6. Después de un rato, o de varios golpes acertados, se cambian los papeles o pasan otros dos jugadores. Los demás miran en ronda alrededor.
 
-**Variante:** los dos jugadores se mueven dentro de una ronda; lo demás, igual que antes.
+**De la mano (variante del original):** los dos jugadores se toman de la mano izquierda y cada uno tiene un diario enrollado en la derecha. Se turnan para preguntar «¿Estás ahí?»: una vez pregunta uno y la otra el otro.
+
+**En movimiento (variante del original):** los dos jugadores pueden moverse dentro de una ronda formada por los demás, en lugar de estar arrodillados. Todo lo demás es igual.
 
 ## Para cerrar
 - ¿Cómo hicieron para esquivar? ¿Cambiaban de lugar después de contestar?
 
 ## Notas para educadores
 - El diario tiene que ser blando: un rollo de diario con cinta, no una revista dura ni un tubo de cartón.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ARE YE THERE?**
+
+Two players kneeling within reach of one another; one has a paper rolled up as a club. Whenever he asks “Are ye there? “the other must reply and try to dodge the ensuing blow. Both players are blindfold and neither may move his knees.
+
+Variation.—The two players hold hands (left) and each has a club, calling alternately.
+
+Variation.—The two players move about in a circle, otherwise proceeding as above.
 
 
 ## Texto original completo de la actividad

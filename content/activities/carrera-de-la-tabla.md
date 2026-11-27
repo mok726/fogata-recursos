@@ -148,7 +148,13 @@ rama_rovers:
 Se marca un recorrido de unos 45 m. Cada jugador apoya una tabla en equilibrio sobre la punta de su bastón y trata de llegar al final antes de que se caiga. Pocos llegan lejos y los que miran se divierten mucho.
 
 ## Desarrollo
-Para esta competencia hacen falta un bastón scout y un trozo de tabla. Se marca un recorrido de 45 m de largo. Antes de salir, se equilibra con cuidado la tabla sobre el bastón, y el scout trata de correr el recorrido antes de que la tabla se caiga. Pocos logran llegar muy lejos, y los que miran se divierten bastante con los esfuerzos del chico por mantener la tabla en equilibrio.
+Una carrera de equilibrio: hay que correr llevando una tabla parada sobre la punta de un bastón.
+
+1. Se marca un recorrido de unos 45 metros de largo.
+2. Cada jugador, por turno, toma un bastón scout y apoya con cuidado un trozo de tabla en equilibrio sobre la punta de arriba.
+3. Cuando la tabla está equilibrada, sale corriendo y trata de llegar al final del recorrido antes de que la tabla se le caiga.
+
+**Cómo se gana:** pocos logran llegar muy lejos. Gana el que completa el recorrido o, si nadie lo logra, el que llega más lejos. Los que miran se divierten bastante con los esfuerzos de cada uno.
 
 ## Cierre
 - ¿Qué truco descubriste para mantener el equilibrio?

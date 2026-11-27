@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,28 @@ rama_rovers:
 # El Ciego
 
 ## Cómo se juega
-Los jugadores se sientan en ronda y uno se queda en el centro con los ojos vendados. Señala hacia cualquier lado y hace un ruido cualquiera (que sea razonable). Aquel al que señaló tiene que imitar el ruido lo mejor que pueda. Si el ciego adivina quién es, cambian de lugar; si no, sigue. Cuando hay un ciego nuevo, los jugadores cambian de lugar en la ronda.
+Un juego de ronda para reconocer a los compañeros por la voz.
+
+1. Los jugadores se sientan en ronda. Uno, el ciego, se para en el centro con los ojos vendados.
+2. El ciego señala hacia cualquier lado y hace un ruido: un maullido, un ladrido, una risa, un silbido, lo que quiera (que sea un ruido razonable).
+3. El jugador al que señaló tiene que imitar ese mismo ruido lo mejor que pueda.
+4. El ciego trata de adivinar quién lo imitó. Si acierta, cambian de lugar. Si no, sigue señalando.
+5. Cada vez que hay un ciego nuevo, los de la ronda cambian de lugar entre ellos, para que no sepa quién está en cada lado.
 
 ## Para cerrar
 - ¿Cómo reconocieron a sus compañeros aunque cambiaran la voz?
 
 ## Notas para educadores
 - Un juego muy simple para lobatos, para arrancar una reunión o para esperar un rato.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND MAN.**
+
+Players sit in a circle, one is blindfold in the centre; he points in any direction and makes any reasonable noise. Whoever is pointed at must imitate the noise as best he can. If the blind man can guess who it is they change places, if not carry on. When there is a new blind man the players should move their positions in the circle.
 
 
 ## Texto original completo de la actividad

@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,30 @@ rama_rovers:
 # Corré contra la Pelota
 
 ## Cómo se juega
-Los jugadores en ronda y uno afuera. Se pasa una pelota alrededor de la ronda y el de afuera corre contra ella. Gana el jugador que da más vueltas mientras la pelota da dos.
+Un juego de ronda en el que un jugador corre contra una pelota que se pasa de mano en mano.
+
+1. Los jugadores forman una ronda y uno se queda afuera.
+2. A la señal, los de la ronda empiezan a pasarse una pelota de mano en mano, de uno al de al lado, alrededor de la ronda.
+3. Al mismo tiempo, el de afuera corre alrededor de la ronda, por afuera.
+4. Se cuenta cuántas vueltas completas da el corredor mientras la pelota da dos vueltas a la ronda.
+5. Después pasa otro a correr, y así.
+
+**Cómo se gana:** gana el jugador que da más vueltas mientras la pelota da dos.
 
 ### Variante: Patrulla contra patrulla
 Una patrulla pasa la pelota y otra corre en posta. Después cambian.
 
 ## Para cerrar
 - ¿Qué hacía la ronda para que la pelota fuera más rápido?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**RACE IT.**
+
+Players in circle, one player outside. A ball is passed round the circle and the player outside races it. The player making the most circuits whilst the ball makes two, wins.
 
 
 ## Texto original completo de la actividad

@@ -154,7 +154,17 @@ Se esconde un tesoro y se escribe en un papel cómo llegar. El papel se rompe a 
 2. Rompé la hoja a lo largo, a mano y de forma irregular.
 
 ## Desarrollo
-Se sabe que en algún lugar de los alrededores hay un escondite secreto, pero la única pista para encontrarlo es un trozo de papel roto en el que una vez se escribió la clave. (Se puede escribir en un papel una descripción del camino hasta el lugar, y después romper el papel por el medio de forma irregular y darle una mitad a cada una de dos patrullas que compiten). La clave se rompió en dos a propósito, por seguridad, así como en un banco cada uno de los dos empleados principales tiene una llave, pero hacen falta las dos llaves juntas para abrir la caja fuerte. Dos grupos consiguieron esta clave, y cada uno, con su mitad, trata de encontrar el lugar, porque se cree que ahí está escondido el tesoro de unos viejos contrabandistas.
+Un juego de búsqueda entre dos patrullas: cada una tiene solo la mitad de las indicaciones para llegar a un tesoro escondido.
+
+**La historia:** en algún lugar de los alrededores hay un escondite secreto donde se cree que unos viejos contrabandistas dejaron un tesoro. La única pista es un papel con las indicaciones para llegar, que se rompió en dos a propósito, por seguridad. Es como en un banco donde dos empleados tienen cada uno una llave y hacen falta las dos juntas para abrir la caja fuerte. Dos grupos consiguieron cada uno una mitad del papel y los dos quieren llegar al tesoro.
+
+1. Antes del juego, el que dirige esconde el «tesoro» en algún lugar de la zona.
+2. En un papel escribe cómo llegar hasta ahí desde el punto de partida: por dónde ir, qué referencias buscar, cuántos pasos dar.
+3. Rompe el papel por el medio, de arriba abajo y de forma irregular, de modo que cada mitad tenga solo la mitad de cada renglón.
+4. Le da una mitad a cada una de las dos patrullas que compiten.
+5. Cada patrulla trata de adivinar las palabras que le faltan, interpretar las indicaciones y encontrar el escondite con lo que tiene.
+
+**Cómo se gana:** gana la patrulla que encuentra primero el tesoro.
 
 ### Variante: Cooperativa
 Las dos patrullas tienen que juntar sus mitades para llegar. Gana el grupo si lo encuentran antes de un tiempo límite.

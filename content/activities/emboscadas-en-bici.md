@@ -147,7 +147,15 @@ rama_rovers:
 Se divide al grupo en dos. Se elige un camino, y todo lo que esté a más de 180 m queda fuera de los límites. Un grupo sale a preparar una emboscada y, diez minutos después, el otro sale por el camino con exploradores bien adelante. Si se descubre la emboscada, se cambian los roles. B-P lo recomienda para la vuelta de una salida.
 
 ## Desarrollo
-Algo para que hagan las patrullas cuando van en bicicleta de un lugar a otro. Dividan la fuerza en dos grupos iguales. Elijan un camino. Cualquier lugar a más de 200 metros del camino quedará fuera de los límites. Manden a un grupo a tomar posición en emboscada y, diez minutos después, que el otro grupo salga por el camino, mandando a sus exploradores bien adelante. Si se descubre la emboscada, los dos grupos intercambian los roles. Esto resultará un ejercicio muy interesante, y se puede practicar con provecho a la vuelta de un día de campo, una marcha, etc., usando el camino de regreso.
+Un ejercicio para que hagan las patrullas cuando van en bicicleta de un lugar a otro: un grupo prepara una emboscada y el otro tiene que descubrirla antes de caer en ella.
+
+1. Se divide a los jugadores en dos grupos iguales.
+2. Se elige un camino. Todo lo que esté a más de 200 metros del camino queda fuera de los límites del juego.
+3. El primer grupo sale adelante y se esconde en algún lugar cerca del camino para tender una emboscada, es decir, esperar escondido para sorprender a los que pasen.
+4. Diez minutos después sale el segundo grupo por el mismo camino. Manda a algunos de sus integrantes bien adelante como exploradores, para que vayan revisando el terreno.
+5. Si el segundo grupo descubre la emboscada, los dos grupos intercambian los papeles: el que buscaba pasa a esconderse y el otro sale después a buscarlo.
+
+**Consejo del original:** se puede practicar con provecho a la vuelta de un día de campo o de una caminata, usando el camino de regreso.
 
 ## Cierre
 - ¿Qué delató a los escondidos?

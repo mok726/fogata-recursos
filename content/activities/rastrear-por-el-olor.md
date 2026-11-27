@@ -149,7 +149,17 @@ rama_rovers:
 Una patrulla "enemiga" acampó en un lugar y encendió un fuego para cocinar. Al escuchar ruidos sospechosos, lo apaga, pero no puede frenar el humo. En una noche oscura y sin viento, los demás tienen que llegar hasta ella guiándose por el olor, mientras la patrulla escondida se queda completamente quieta.
 
 ## Desarrollo
-Rastrear por el olfato de noche es una parte muy importante de la exploración. Una patrulla enemiga acampó en cierto lugar y, creyendo que todo es seguro, enciende un fuego y prepara una comida. Pero el centinela informa señales y ruidos sospechosos, así que enseguida humedecen el fuego, pero no pueden frenar el humo. Esto debería hacerse en una noche calma pero oscura, en un lugar bastante abierto; el humo se puede producir quemando lentamente papel madera o pólvora húmeda en una lata. Los demás tienen que llegar al lugar por el olfato, mientras el grupo acampado se queda absolutamente quieto.
+Un juego nocturno para aprender a orientarse con el olfato: hay que encontrar un «campamento enemigo» siguiendo el olor del humo.
+
+La historia del juego es esta: una patrulla enemiga acampó en un lugar y, creyéndose segura, prendió un fuego para cocinar. Pero su centinela oyó ruidos sospechosos, así que apagaron el fuego. Lo que no pudieron frenar fue el humo, y por ese olor los van a encontrar.
+
+1. Se elige una noche tranquila, sin viento, pero oscura, y un lugar bastante abierto.
+2. Un grupo hace de patrulla enemiga y se ubica en un punto que los demás no conocen.
+3. Junto a ese grupo, el dirigente hace humo con papel madera que se quema lentamente dentro de una lata.
+4. El resto de los jugadores sale a buscar el campamento guiándose solo por el olor del humo.
+5. Mientras tanto, el grupo acampado se queda absolutamente quieto y en silencio.
+
+**Cómo se gana:** el juego termina cuando los rastreadores llegan al campamento; si juegan por patrullas, gana la primera en llegar.
 
 ## Cierre
 - ¿A qué distancia empezaste a sentir el olor?

@@ -152,7 +152,21 @@ Un fugitivo se esconde en un bosque. Tiene que mostrar una luz cada tanto y toca
 1. Practicá antes un poco de "orden abierto": de noche los chicos tienden a amontonarse en vez de mantener distancia pareja.
 
 ## Desarrollo
-Un preso se escapó de la cárcel y lleva una linterna, que no se anima a apagar del todo. Una noche oscura les llega a los scouts el mensaje de que lo vieron en un bosque cercano. La tropa sale enseguida y, rodeando el bosque, trata en silencio de encontrar a su hombre usando lo mejor que puede los ojos y los oídos. El que hace de preso está obligado a prender la linterna un instante al menos una vez cada tres minutos. Salvo que los scouts sean muy despiertos, lo más probable es que se les escurra, y después de unos minutos vean la lucecita titilando detrás de ellos. Una o dos horas de práctica de orden abierto harán que la tropa sea mucho más eficaz en un trabajo como este, porque los chicos tienden siempre a amontonarse en una noche oscura en vez de mantener una distancia pareja. Una buena variante del juego es darle al preso una linterna y un silbato, y hacerlo prender la luz y tocar el silbato alternadamente cada uno o dos minutos, de modo que hagan falta dos sentidos de rastreo al mismo tiempo: la vista y el oído.
+Un juego nocturno para buscar en la oscuridad a un preso que se escapó y que, de vez en cuando, se delata con una luz.
+
+**La historia:** un preso se escapó de la cárcel y lleva una linterna. Una noche oscura les avisan a los scouts que lo vieron en un bosque cercano.
+
+1. Un jugador, o mejor un dirigente, hace de preso y se esconde en el bosque con una linterna apagada.
+2. La tropa sale enseguida y rodea el bosque.
+3. En silencio, los scouts avanzan y tratan de encontrarlo usando lo mejor posible los ojos y los oídos.
+4. El preso tiene la linterna apagada, pero está obligado a prenderla un instante por lo menos una vez cada tres minutos.
+5. Si los scouts no son muy despiertos, lo más probable es que se les escape entre ellos, y a los pocos minutos vean la lucecita titilando detrás.
+
+**Cómo se gana:** los scouts ganan si encuentran al preso. Si se escapa del cerco, gana el preso.
+
+**Luz y silbato (variante del original):** se le da al preso una linterna y un silbato, y tiene que prender la luz y tocar el silbato alternadamente cada uno o dos minutos. Así los scouts tienen que usar dos sentidos al mismo tiempo: la vista y el oído.
+
+**Consejo del original:** antes conviene practicar un rato el «orden abierto», es decir, avanzar en línea, separados unos de otros a una distancia pareja. De noche los chicos tienden a amontonarse en vez de mantenerse separados.
 
 ## Cierre
 - ¿Qué ayudó más: la vista o el oído?

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,16 @@ rama_rovers:
 # Pisar el Globo
 
 ## Cómo se juega
-Los jugadores de los equipos, por turno, miran un globo chico en el piso; después se les vendan los ojos, caminan hasta donde creen que está el globo y pueden dar tres pisotones (sin tantear) para tratar de reventarlo. Gana el equipo que revienta más globos. Para que el resultado sea justo, cada jugador tiene que tener dos intentos y el globo no tiene que estar siempre en el mismo lugar.
+Un juego de memoria y orientación: hay que reventar un globo pisándolo, pero con los ojos vendados.
+
+1. Se pone un globo chico, inflado, en el piso.
+2. Un jugador de un equipo se para a unos pasos y mira bien dónde está el globo.
+3. Después se le vendan los ojos. Camina hasta donde cree que está el globo y, cuando le parece que llegó, puede dar tres pisotones para tratar de reventarlo.
+4. No se vale tantear con los pies ni con las manos antes de pisar: solo los tres pisotones.
+5. Se van turnando los jugadores de los distintos equipos. Entre turno y turno, el que dirige cambia el globo de lugar, para que nadie aproveche lo que vio del anterior.
+6. Para que el resultado sea justo, cada jugador tiene dos intentos.
+
+**Cómo se gana:** gana el equipo que revienta más globos.
 
 ## Para cerrar
 - ¿Contar los pasos los ayudó?
@@ -145,6 +155,15 @@ Los jugadores de los equipos, por turno, miran un globo chico en el piso; despu�
 ## Notas para educadores
 - Juntá todos los pedazos de globo al terminar: son peligrosos para los animales.
 - Que nadie juegue descalzo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON STAMP.**
+
+Players of teams in turn see a small balloon on the floor, are then blindfold, and walk to where they think the balloon is and may then make three stamps (no feeling) to try and burst the balloon. Team bursting most balloons wins. To get a fair result each player should have two goes, and the position of the balloon should not remain constant.
 
 
 ## Texto original completo de la actividad

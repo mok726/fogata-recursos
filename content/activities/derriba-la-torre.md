@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,7 +142,14 @@ rama_rovers:
 1. Armá el trípode con tres bastones y un amarre de trípode flojo (ver la ficha de amarres), o con tres botellas.
 
 ## Cómo se juega
-Los jugadores en ronda; otros cuatro en el centro cuidan un trípode liviano, que los de afuera tratan de voltear tirándole pelotas de tenis o pateando una pelota de fútbol. El jugador que lo voltea toma el lugar del «guardia» del lado de donde vino el tiro.
+Un juego de ronda con pelota: los de afuera tratan de voltear una torre y cuatro guardias la defienden.
+
+1. En el centro se arma un trípode liviano (tres palos atados en la punta, parados como una carpa india) que haga de torre.
+2. Cuatro jugadores se ponen alrededor del trípode, cada uno cuidando un lado: son los «guardias».
+3. El resto de los jugadores forma una ronda grande alrededor.
+4. Los de la ronda tratan de voltear el trípode tirándole pelotas de tenis o pateando una pelota de fútbol. Los guardias las frenan y las desvían con el cuerpo, las manos o los pies.
+5. El jugador que voltea el trípode toma el lugar del guardia del lado por donde entró el tiro, y ese guardia pasa a la ronda.
+6. Se vuelve a armar el trípode y se sigue.
 
 ### Variante: Por patrullas
 Cada patrulla defiende la torre por turno. Se cuenta cuánto tiempo aguanta en pie. Gana la que más resiste.
@@ -151,6 +159,15 @@ Cada patrulla defiende la torre por turno. Se cuenta cuánto tiempo aguanta en p
 
 ## Notas para educadores
 - Una buena excusa para practicar el amarre de trípode antes de jugar.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TOWER BALL.**
+
+Players in circle, four others in centre guarding a lightly built tripod, which those outside try to upset by throwing tennis balls or kicking a football. Any player upsetting it takes the place of the “guard” from whose side the successful throw came.
 
 
 ## Texto original completo de la actividad

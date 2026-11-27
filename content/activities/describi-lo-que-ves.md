@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,14 @@ rama_rovers:
 # Juego de Observación
 
 ## Cómo se juega
-Se ponen dos objetos chicos sobre una silla y se les pregunta a todos qué hay en la silla (por ejemplo, dos tornillos). Al principio la respuesta es «Dos tornillos». Más adelante va a mejorar, por ejemplo: «Dos tornillos: uno de bronce, de unos 4 cm de largo, con la cabeza grande y la rosca gruesa; el otro, de unos 2 cm de largo y muy oxidado». El nivel tiene que mejorar muy rápido.
+Un juego para aprender a describir con detalle.
+
+1. El que dirige pone dos objetos chicos sobre una silla, por ejemplo dos tornillos.
+2. Pregunta a todos qué hay en la silla.
+3. Al principio la respuesta va a ser «Dos tornillos». Con la práctica tiene que mejorar, hasta llegar a algo así: «Dos tornillos: uno de bronce, de unos 4 cm de largo, con la cabeza grande y la rosca gruesa; el otro, de unos 2 cm de largo y muy oxidado».
+4. Se repite con otros objetos, cada vez pidiendo más detalles.
+
+**Cómo se gana:** gana la descripción más completa y exacta. El nivel tiene que mejorar muy rápido de una vuelta a otra.
 
 ## Para cerrar
 - ¿Qué cosas aprendieron a mirar que antes no miraban?
@@ -145,6 +153,15 @@ Se ponen dos objetos chicos sobre una silla y se les pregunta a todos qué hay e
 
 ## Notas para educadores
 - Conviene repetirlo varias reuniones seguidas, un ratito cada vez: el progreso se nota rápido y eso motiva.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OBSERVATION GAME.**
+
+Two small objects are placed on a chair, all are asked what is on the chair (say 2 screws). At first the answer is “Two screws.” Later it will improve to (say) “Two screws, one brass about 1¾ inches long with a large head and coarse thread; the other about ¾ inch long and very rusty.” The standard should improve very quickly.
 
 
 ## Texto original completo de la actividad

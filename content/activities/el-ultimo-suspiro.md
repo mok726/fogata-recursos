@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,14 @@ rama_rovers:
 # Chanchos Moribundos
 
 ## Cómo se juega
-Los jugadores sentados en ronda; a la primera señal, cada uno toma aire hondo, y a la segunda lo suelta con un silbido largo y parejo. A medida que cada jugador se queda sin aire, se acuesta, «muerto». Gana el último en «morir».
+Un juego de ronda para ver quién aguanta más un silbido con una sola bocanada de aire.
+
+1. Los jugadores se sientan en ronda.
+2. A la primera señal del que dirige, todos toman aire hondo.
+3. A la segunda señal, todos lo sueltan haciendo un silbido largo y parejo, sin volver a tomar aire.
+4. A medida que cada jugador se queda sin aire y se le corta el silbido, se acuesta en el piso: queda eliminado.
+
+**Cómo se gana:** gana el último que sigue silbando.
 
 ## Para cerrar
 - ¿Cómo se sienten después de respirar así? ¿Más tranquilos?
@@ -144,6 +152,15 @@ Los jugadores sentados en ronda; a la primera señal, cada uno toma aire hondo, 
 ## Notas para educadores
 - Es un juego excelente para bajar las revoluciones después de un juego movido, y para enseñar a respirar con calma en momentos de nervios.
 - Si alguien se marea, que deje de jugar y respire normal.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DYING PIGS.**
+
+Players sitting in circle; at first signal each player inhales a deep breath, and at next signal lets it out with a long sustained whistle. As each player runs out of breath he lies down, dead. Last to die wins.
 
 
 ## Texto original completo de la actividad

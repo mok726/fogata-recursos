@@ -153,7 +153,18 @@ Un lanzador tira, uno por uno y bastante rápido, seis aros de soga a otro jugad
 1. Armá los aros de soga (un trozo de soga con las puntas unidas por una costura o un empalme).
 
 ## Desarrollo
-Un número efectivo para una exhibición scout es Atrapar Aros. También es un juego excelente para los scouts, porque los hace rápidos de vista y ágiles de pies. El juego es así: un scout, al que llamaremos el "lanzador", tiene media docena de aros de soga de unas 10-12 cm de diámetro, que le tira a otro scout, que tiene que atraparlos de a uno con su bastón. El "lanzador" tiene que tirar los aros bastante rápido, dándole al "atrapador" apenas el tiempo justo para volver con elegancia a la posición de "en guardia" después de atrapar o errar cada aro. Los aros no deberían tirarse siempre desde el mismo lugar; pero el "lanzador" nunca debe acercarse a menos de 3 metros del "atrapador". Hay que dar tiros cortos, altos y largos, para hacer más emocionante el juego. El bastón debería tener un trozo de cuero puesto encima para proteger las manos de los golpes de los aros de soga. Por supuesto, el alcance y las demás distancias se pueden adaptar a las condiciones del lugar.
+Un juego para tener buen ojo y ser ágil de pies: un jugador tira aros y otro tiene que embocarlos en su bastón. También es un buen número para una exhibición scout.
+
+Un «aro de soga» es un aro chico hecho con un trozo de soga cuyas puntas se unen. Para este juego tienen que medir unos 10 o 12 cm de diámetro.
+
+1. Un scout hace de «lanzador» y tiene media docena de aros de soga.
+2. Otro scout hace de «atrapador» y sostiene su bastón con las dos manos delante del cuerpo, listo para recibir. Esa posición se llama «en guardia».
+3. El lanzador le tira los aros de a uno, bastante rápido, y el atrapador trata de embocar cada uno en el bastón.
+4. Entre aro y aro, el lanzador le da apenas el tiempo justo para volver a la posición de en guardia, haya atrapado o no el anterior.
+5. El lanzador no tira siempre desde el mismo lugar: se mueve y combina tiros cortos, altos y largos, para que sea más emocionante. Eso sí, nunca se acerca a menos de 3 metros del atrapador.
+6. Conviene ponerle al bastón un trozo de cuero, para que el golpe de los aros de soga no lastime las manos.
+
+Las distancias se pueden adaptar al lugar que tengan.
 
 ## Cierre
 - ¿Qué tiro fue el más difícil de atrapar?

@@ -153,7 +153,22 @@ La base es un círculo de árboles marcados con pañuelos, y el anillo de árbol
 2. Marcá un "campo de prisioneros" cerca de la base.
 
 ## Desarrollo
-Para este juego se marca una base, en general con un círculo de árboles con pañuelos atados, en un terreno bastante parejo y sin troncos cortados ni piedras sueltas. El siguiente anillo de árboles que rodea la base es la Línea de Defensa, que se explica más adelante. El grupo se divide en dos bandos, asaltantes y defensores, que se alternan en partidas que pueden durar de diez a veinte minutos cada una. Los defensores se quedan en la base mientras los asaltantes se retiran fuera de la vista. Apenas tomaron posición, el árbitro toca tres veces el silbato y empieza el ataque; los defensores salen de la base y mandan exploradores bien adelante para conseguir toda la información posible sobre los movimientos del enemigo. El objetivo de los asaltantes es meter en la base la mayor cantidad posible de hombres sin que los toquen los defensores, antes de que el silbato del árbitro termine el juego. Cada hombre que llega a la base sin ser tocado suma un punto para los asaltantes; tiene que sentarse bien adentro de la línea de la base para no estorbar a su propio bando. A ningún asaltante se lo puede tocar mientras tenga una mano en el tronco de un árbol, y si los defensores lo amontonan demasiado, puede ordenarles "¡Un árbol de distancia!". Un árbol protege a un solo asaltante por vez, y un defensor no lo puede ocupar. Si tocan a un asaltante, tiene que ir enseguida al Campo de Prisioneros, cerca de la base, donde puede mirar el juego sin estorbar a los combatientes. Una vez empezado el juego, ningún defensor puede entrar en la Línea de Defensa mencionada, salvo persiguiendo a un asaltante; si lo pierde o lo toca, tiene que volver a salir enseguida antes de intentar atrapar a otro. Algunos asaltantes pueden llevar banderines de patrulla atados a palitos (no a astas), y un asaltante que lleva su banderín a la base puede exigir la liberación de un prisionero.
+Un juego de ataque y defensa en el bosque: los asaltantes tratan de meterse en una base sin que los toquen, y se salvan mientras tengan una mano en un árbol.
+
+1. En un terreno bastante parejo, sin troncos cortados ni piedras sueltas, se marca una **base**: un círculo de árboles con pañuelos atados.
+2. El siguiente anillo de árboles que rodea la base es la **Línea de Defensa**.
+3. Cerca de la base se marca un **Campo de Prisioneros**.
+4. Los jugadores se dividen en dos bandos: **asaltantes** y **defensores**. Cada partida dura entre 10 y 20 minutos, y en la siguiente se cambian los papeles.
+5. Los defensores se quedan en la base y los asaltantes se alejan hasta quedar fuera de la vista.
+6. Cuando los asaltantes ya tomaron posición, el árbitro toca tres veces el silbato y empieza el ataque. Los defensores salen de la base y mandan exploradores bien adelante para averiguar por dónde viene el enemigo.
+7. Los asaltantes tratan de meter a la mayor cantidad posible de compañeros en la base sin que los toque un defensor. Cada uno que llega sin ser tocado suma un punto para su bando y se sienta bien adentro de la base, para no estorbar a los suyos.
+8. A un asaltante no se lo puede tocar mientras tenga una mano en el tronco de un árbol. Si los defensores se le amontonan alrededor, puede gritarles «¡Un árbol de distancia!» y ellos tienen que alejarse a esa distancia. Cada árbol protege a un solo asaltante por vez, y un defensor no lo puede ocupar.
+9. El asaltante tocado por un defensor va enseguida al Campo de Prisioneros, desde donde mira el juego sin estorbar.
+10. Una vez empezado el juego, ningún defensor puede entrar en la Línea de Defensa salvo cuando está persiguiendo a un asaltante. Si lo toca o se le escapa, tiene que volver a salir enseguida antes de ir a buscar a otro.
+11. Algunos asaltantes pueden llevar el banderín de su patrulla atado a un palito (no a un asta). El que logra meter su banderín en la base puede pedir que se libere a un prisionero.
+12. La partida termina cuando el árbitro toca el silbato.
+
+**Puntaje:** cada asaltante que llega a la base sin ser tocado vale un punto para su bando. Gana el bando que, en su turno de atacar, sumó más puntos.
 
 ## Cierre
 - ¿Cómo usaron los árboles para avanzar?

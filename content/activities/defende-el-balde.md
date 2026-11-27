@@ -150,7 +150,15 @@ rama_rovers:
 Un jugador se sube a un balde dado vuelta con un palo en la mano. Los demás tratan de pegarle al balde con la pelota y él lo defiende con el palo. Si le pegan al balde, el que tiró pasa a ser el defensor. Si el defensor se cae, lo reemplaza el último que tiró. La pelota siempre se tira desde donde quedó.
 
 ## Desarrollo
-Este es un juego que da muchísima diversión. Todo lo que hace falta para jugarlo es un balde, una pelota de tenis o de goma y un trozo de madera de unos 45 cm de largo. Puede jugar cualquier cantidad, pero para empezar hay que decidir quién ocupa primero el balde. Entonces se da vuelta el balde y el jugador elegido, con el trozo de madera en la mano, se sube. El resto de los jugadores tiene que tratar de pegarle al balde con la pelota, mientras el que está arriba tiene que defenderlo e impedir que la pelota le pegue. Cuando le pegan al balde, el jugador que le pegó ocupa el lugar del que está en el balde. Si el que está en el balde pierde el equilibrio y se cae, el jugador que tiró la pelota por última vez ocupa su lugar. De paso: la pelota tiene que tirarse desde el lugar donde cae después de que el defensor la golpeó.
+Un juego de puntería y defensa: uno parado sobre un balde lo defiende con un palo y los demás tratan de pegarle con la pelota.
+
+1. Hace falta un balde, una pelota de tenis o de goma y un palo de unos 45 cm de largo.
+2. Puede jugar cualquier cantidad de jugadores. Primero se decide quién defiende el balde.
+3. Se da vuelta el balde, boca abajo, y el defensor se sube encima con el palo en la mano.
+4. Los demás se ponen alrededor y tratan de pegarle al balde con la pelota. El defensor, sin bajarse, la desvía con el palo para que no le pegue.
+5. La pelota siempre se vuelve a tirar desde el lugar donde cayó después de que el defensor la golpeó. El que está más cerca la levanta y tira desde ahí.
+6. Cuando un jugador le pega al balde, pasa a ser el defensor.
+7. Si el defensor pierde el equilibrio y se cae del balde, su lugar lo ocupa el último que tiró la pelota.
 
 ## Cierre
 - ¿Cómo hacías para no perder el equilibrio al pegarle?

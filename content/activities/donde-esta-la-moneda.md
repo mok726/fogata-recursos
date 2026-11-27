@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,34 @@ rama_rovers:
 # Arriba, Jenkins
 
 ## Cómo se juega
-Los jugadores en dos equipos, uno a cada lado de una mesa. Un equipo tiene una moneda chica, que uno de sus jugadores esconde en la mano. Cuando el capitán contrario dice «¡Arriba, Jenkins!», todos levantan las manos y las apoyan sobre la mesa como él indique (despacio, de golpe, arrastrándolas, etc.). Si el capitán, después, saca de la mesa todas las manos vacías, su equipo suma un punto. Si descubre la moneda sin sacar ninguna mano, suma 5. Si se equivoca, pierde 1 o 5, según el caso. Si pierden los que «tienen» la moneda, la moneda pasa al otro equipo. Solo se obedece al capitán; si no, se pierde un punto. El capitán cambia en cada partida.
+Un juego de mesa entre dos equipos: hay que descubrir quién esconde la moneda.
+
+1. Los dos equipos se sientan uno a cada lado de una mesa. Cada equipo tiene un capitán.
+2. Un equipo tiene una moneda chica. Con las manos debajo de la mesa, se la pasan entre ellos hasta que uno se la queda escondida en el puño.
+3. El capitán del otro equipo grita: «¡Arriba, Jenkins!» (es la frase del juego original inglés; se puede decir «¡Arriba las manos!»). Todos los del equipo de la moneda levantan los puños cerrados.
+4. El capitán dice cómo apoyar las manos sobre la mesa: despacio, de golpe, arrastrándolas como arañas, etc. Todos lo hacen con la palma para abajo, tratando de que no se vea ni se escuche la moneda.
+5. El capitán va señalando manos para que se saquen de la mesa, tratando de dejar para el final la que tiene la moneda. Solo se obedece al capitán; el que obedece a otro hace perder un punto a su equipo.
+
+**Puntaje:**
+- Si el capitán saca todas las manos vacías y deja solo la de la moneda, su equipo suma 1 punto.
+- Si descubre la moneda sin sacar ninguna mano, suma 5.
+- Si se equivoca, pierde 1 o 5 puntos según el caso.
+- Cuando pierde el equipo que tenía la moneda, la moneda pasa al otro equipo. El capitán cambia en cada partida.
 
 ## Para cerrar
 - ¿Qué gestos delataban al que tenía la moneda?
 
 ## Notas para educadores
 - Un clásico para tardes de lluvia en campamento.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UP JENKINS.**
+
+Players in two teams on each side of a table. One side has a small coin (6d.) which one of the players conceals in his hand. When the opposing captain says “up jenkins” all raise their hands, and place them on the table, as he may direct (slowly, with a crash, crawling about, etc.). If the captain then clears all empty hands off the table, his side score one. If he spots the 6d. without moving any hands he scores 5. If he is wrong he loses 1 or 5 as the case may be. If the “holders” lose, the 6d. changes sides. Only the captain must be obeyed or a point is lost. Captain changes each game.
 
 
 ## Texto original completo de la actividad

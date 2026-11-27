@@ -154,7 +154,19 @@ Se dibuja un mapa grande de los alrededores, con caminos, senderos y pasos. Las 
 2. Fijá cuánto avanza cada ficha por turno (por ejemplo, 3 cm).
 
 ## Desarrollo
-Lo primero que hace falta es un mapa o plano a mano alzada de los alrededores, a escala muy grande. Se puede dibujar con tiza en el piso o en una mesa del local, o en la pared, y dejarlo fijo. En el mapa hay que marcar todos los senderos y caminos y, si es en el campo, los potreros, con los huecos de los cercos y los lugares por donde se puede pasar bien marcados. Después hace falta algo que represente a los "scouts"; sirven piezas comunes de ajedrez o, si el mapa está en la pared, banderitas para clavar en ella. Con esto se pueden jugar distintos juegos scouts. Cada "scout" puede moverse unos 2 o 3 cm (u otra distancia según la escala del mapa) por turno. El mejor juego es que un mensajero intente ir de un lugar a otro del mapa sin que lo alcance el enemigo, una patrulla, a la que solo se le permite caminar (es decir, avanzar la mitad de la distancia que puede avanzar el mensajero en cada turno). Para capturarlo, dos scouts tienen que quedar a dos turnos de él, arrinconándolo. Por supuesto, solo pueden moverse por los senderos y huellas reconocidos.
+Un juego de mesa scout: sobre un mapa grande de la zona se mueven fichas que representan a los scouts, y un mensajero trata de llegar a destino sin que lo atrape una patrulla enemiga.
+
+1. Primero se dibuja un mapa o plano a mano alzada de los alrededores del local, a una escala muy grande. Se puede hacer con tiza en el piso, en una mesa o en la pared, y conviene dejarlo fijo para usarlo muchas veces.
+2. En el mapa se marcan todos los senderos y caminos. Si la zona es de campo, se marcan también los potreros y, con cuidado, los huecos de los alambrados y los lugares por donde se puede pasar.
+3. Cada «scout» se representa con una ficha: sirven piezas comunes de ajedrez o, si el mapa está en la pared, banderitas para clavar.
+4. En cada turno, cada ficha avanza unos 2 o 3 cm (u otra distancia, según la escala del mapa). Las fichas solo se pueden mover por los senderos y caminos marcados.
+5. El mejor juego es este: un jugador mueve a un mensajero, que tiene que ir de un lugar a otro del mapa. Otro jugador mueve a la patrulla enemiga, que trata de alcanzarlo.
+6. Los enemigos solo pueden «caminar»: en cada turno avanzan la mitad de lo que avanza el mensajero.
+7. Para capturar al mensajero, dos scouts enemigos tienen que llegar a quedar a dos turnos de distancia de él, arrinconándolo.
+
+**Cómo se gana:** el mensajero gana si llega a destino; la patrulla, si lo captura antes.
+
+Con el mismo mapa y las mismas fichas se pueden inventar muchos otros juegos scouts.
 
 ## Cierre
 - ¿Qué camino eligió el mensajero y por qué?

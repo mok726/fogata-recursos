@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,25 @@ rama_rovers:
 # Vecinos
 
 ## Cómo se juega
-Los jugadores en ronda, uno sí y uno no con los ojos vendados. Los que no tienen venda dan una vuelta y se ubican entre los otros. Los vendados les piden a sus vecinos de la derecha que hablen, canten o contesten preguntas, para adivinar quiénes son. Las preguntas directas, como «¿De qué color tenés el pelo?», no hace falta contestarlas.
+Un juego de ronda para reconocer a los compañeros por la voz.
+
+1. Los jugadores forman una ronda. Uno sí y uno no se vendan los ojos: así queda un vendado, uno sin venda, un vendado, y así.
+2. Los que no tienen venda, en silencio, dan una vuelta y se reacomodan en otros lugares, siempre entre dos vendados.
+3. Cada vendado le pide a su vecino de la derecha que hable, que cante o que conteste preguntas, para adivinar quién es por la voz. El vecino puede cambiar la voz para despistar.
+4. Las preguntas directas que delatan, como «¿De qué color tenés el pelo?», no hace falta contestarlas.
+5. Cuando todos los vendados dicen quién creen que es su vecino, se sacan la venda para ver si acertaron. Después se cambian los papeles.
 
 ## Para cerrar
 - ¿Qué los ayudó a reconocer al vecino? ¿La voz, la risa, algo que dijo?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**NEIGHBOURS.**
+
+Players in circle, every other one blindfold. Those not blind move round and take positions between the others. Those blindfold then tell their right-hand neighbours to talk or sing or ask questions with a view to guessing their identity. Direct questions such as “What is the colour of your hair? “need not be answered.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,17 @@ rama_rovers:
 # Concurso de Deletreo
 
 ## Cómo se juega
-Los jugadores en ronda. Cada uno agrega una letra por turno, tratando de no completar una palabra de más de tres letras, pero pensando en una palabra que se va a formar al final. El jugador que no agrega una letra en un minuto, o que completa una palabra, pierde una vida; a la tercera, sale. Si un jugador duda de que con las letras que le llegan se pueda formar una palabra, puede desafiar al anterior: si tiene razón, el anterior pierde una vida; si no, la pierde él. Una palabra no está completa si se le puede seguir agregando algo, como «cama», que puede seguir a «camarero», o si se le puede agregar una «s» para el plural.
+Un juego de palabras en ronda, sin papel.
+
+1. Los jugadores se sientan en ronda. El primero dice una letra, pensando en alguna palabra.
+2. El siguiente agrega otra letra, también pensando en una palabra que pueda empezar así. Por ejemplo: «C», «A», «M»…
+3. La idea es seguir sumando letras **sin completar** una palabra de más de tres letras.
+4. Una palabra no está completa si todavía se le puede agregar algo: «cama» puede seguir hasta «camarero», y a muchas se les puede agregar una «s» para el plural.
+5. Pierde una vida el que completa una palabra o el que no agrega su letra en un minuto.
+6. **Desafío:** si un jugador cree que con las letras que le llegan no se puede formar ninguna palabra, puede desafiar al anterior. El anterior tiene que decir en qué palabra pensaba. Si no tenía ninguna, pierde él la vida; si tenía, la pierde el que desafió.
+7. Con tres vidas perdidas, se sale.
+
+**Cómo se gana:** gana el último que queda.
 
 ## Para cerrar
 - ¿Qué palabras salieron que nadie esperaba?
@@ -143,6 +154,15 @@ Los jugadores en ronda. Cada uno agrega una letra por turno, tratando de no comp
 ## Notas para educadores
 - Para que el juego no se trabe, aclarar al principio que los plurales y las formas verbales cuentan como «palabra que sigue».
 - Es mejor con Scouts y Caminantes: para lobatos es difícil.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPELLING BEE.**
+
+Players in circle. Each adds a letter in turn, endeavouring not to complete a word of more than three letters, but having in view a word that will be ultimately formed. Any player failing to add a letter in a minute, or completing a word, loses a life, third time he falls out. If a player doubts the letters reaching him, being able to form a word, he may challenge, if it is upheld his predecessor loses a life, if not he does. A word is not complete if any addition is possible, as whomsoever or adding “s” for a plural.
 
 
 ## Texto original completo de la actividad

@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,32 @@ rama_rovers:
 # Pasá Más Rápido
 
 ## Cómo se juega
-Dos equipos forman una ronda mirando hacia adentro, intercalados. El guía de cada equipo tiene una pelota, y están exactamente en lados opuestos de la ronda. Cada jugador pasa o tira la pelota al siguiente de su equipo hacia la derecha. Si a alguien se le cae, la tiene que recuperar él y volver a su lugar antes de pasarla. Gana el equipo cuya pelota alcanza a la del otro. Las pelotas tienen que ser de colores distintos; también se puede usar algún objeto más difícil.
+Un juego de pases en ronda entre dos equipos: cada equipo trata de que su pelota alcance a la del otro.
+
+1. Los dos equipos forman una sola ronda, mirando hacia adentro, intercalados: un jugador de un equipo, uno del otro, y así.
+2. El guía de cada equipo tiene una pelota. Los dos guías se ubican exactamente en lados opuestos de la ronda. Conviene que las pelotas sean de distinto color.
+3. A la señal, cada jugador pasa o tira la pelota al siguiente jugador de su propio equipo hacia la derecha, es decir, saltando al rival que tiene al lado.
+4. Si a alguien se le cae la pelota, la tiene que ir a buscar él mismo y volver a su lugar antes de pasarla.
+5. Las dos pelotas van dando vueltas en el mismo sentido, una persiguiendo a la otra.
+
+**Cómo se gana:** gana el equipo cuya pelota alcanza a la del otro.
+
+**Consejo del original:** para que sea más difícil, en lugar de pelotas se puede usar algún otro objeto más incómodo de pasar.
 
 ### Variante: Zigzag
 Los equipos forman dos rondas, una adentro de la otra, intercalados. La pelota se pasa en zigzag de un círculo al otro.
 
 ## Para cerrar
 - ¿Qué pases salieron mejor: cortos y seguros o rápidos y arriesgados?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASS FASTER.**
+
+Two teams form a circle, facing in, members of teams alternate. Leader of each team has a ball, and they are on exactly opposite sides of the circle. The ball is then passed or thrown by each player to the next right-hand member of his own team. A dropped hail must be recovered by the dropper, who must regain his place before passing it on. Team whose ball catches the other wins. The balls should be of different colours, or some more difficult object may be used.
 
 
 ## Texto original completo de la actividad

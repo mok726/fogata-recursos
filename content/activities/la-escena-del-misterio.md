@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,7 +145,14 @@ rama_rovers:
 3. Armá la escena y sacale una foto para poder rearmarla igual entre patrulla y patrulla.
 
 ## Cómo se juega
-Cada patrulla, por turno, pasa 5 o 10 minutos en un salón donde se representó un crimen, y después hace un informe de lo que cree que pasó. Después se vuelve a representar el crimen.
+Un juego de observación y deducción, como en las películas de detectives.
+
+1. El que dirige arma en un salón la escena de un «crimen» representado: muebles movidos, objetos tirados, huellas, pistas.
+2. Cada patrulla, por turno, entra al salón durante 5 o 10 minutos a mirar todo con atención, sin tocar nada.
+3. Después escribe un informe de lo que cree que pasó.
+4. Al final, el que dirige vuelve a representar lo que pasó de verdad, para que todos comparen.
+
+**Cómo se gana:** gana la patrulla cuyo informe se acerca más a lo que pasó.
 
 ## Para cerrar
 - ¿Qué pistas engañaron a todos?
@@ -153,6 +161,15 @@ Cada patrulla, por turno, pasa 5 o 10 minutos en un salón donde se representó 
 ## Notas para educadores
 - Mantené el misterio en el humor (una torta, un banderín, la mascota de la tropa). Evitá crímenes violentos.
 - Es un gran juego para una noche de campamento con lluvia.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SCENE OF THE CRIME.**
+
+Each patrol in turn has 5 or 10 minutes in a room where a crime has been enacted and then makes a report of what they think has taken place. The crime is then re-enacted.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,15 +136,37 @@ rama_rovers:
 # Posta de Iniciativa
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, hace un recorrido dado de la forma que quiera, pero dos jugadores del mismo equipo no pueden usar la misma forma de avanzar; el que la repite tiene que terminar el recorrido con la forma elegida por error y después volver a hacerlo de una forma original.
+Una carrera de postas de imaginación: cada uno tiene que inventar una forma distinta de avanzar.
 
-**Posta genuina:** se manda a un jugador de cada equipo a cada una de las estaciones acordadas en el recorrido. Se corre una posta común, pero los de la primera estación saltan en un pie; los de la 2.ª, gatean; los de la 3.ª, caminan para atrás; los de la 4.ª, ruedan, etc. Gana el primer equipo que termina.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido.
+2. A la señal, el primero de cada equipo hace el recorrido de la forma que quiera: saltando en un pie, gateando, rodando, caminando para atrás, a los saltos de rana…
+3. Al volver, larga al siguiente, que tiene que hacerlo de otra forma. Dos jugadores del mismo equipo no pueden usar la misma forma de avanzar.
+4. Si un jugador repite una forma que ya usó un compañero, termina el recorrido igual y después tiene que hacerlo otra vez entero, con una forma nueva.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Posta genuina (variante del original):** a lo largo del recorrido se marcan varias estaciones, y en cada una se ubica un jugador de cada equipo. Se corre como una posta común, pasándose el relevo de estación en estación, pero en cada tramo se avanza de una forma distinta: los de la primera estación saltan en un pie, los de la segunda gatean, los de la tercera caminan para atrás, los de la cuarta ruedan, y así. Gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Qué forma fue la más original? ¿Y la más rápida?
 
 ## Notas para educadores
 - Que la patrulla piense antes en las formas: la estrategia es parte del juego.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**INITIATIVE RELAY.**
+
+Teams in file; each player in turn goes round a given course in any way he likes, but no two players in the same team may use the same method of progress; penalty for latter is to complete the course in the method chosen in error and then do it again in an original way.
+
+**GENUINE RELAY.**
+
+One player from each team is sent to each of the pre-arranged stations round the course. An ordinary relay is run, but the players at the first station hop, 2nd crawl, 3rd walk backwards, 4th roll, etc. Team to finish first wins.
 
 
 ## Texto original completo de la actividad

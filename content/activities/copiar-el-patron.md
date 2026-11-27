@@ -147,7 +147,16 @@ rama_rovers:
 Cada jugador tiene un tablero y cinco fichas blancas y cinco negras. Uno arma una figura en su tablero mientras el otro no mira. Después le deja mirarla unos segundos, la tapa, y el otro tiene dos minutos para armar lo mismo en el suyo. Se turnan.
 
 ## Desarrollo
-Para este juego consigan dos tableros de damas y diez fichas blancas y diez negras. Vos tenés un tablero y tu amigo el otro. Repártanse las fichas por igual, cinco blancas y cinco negras cada uno. Después, mientras vos mirás para otro lado, tu amigo arma sus fichas en su tablero con la formación que quiera. Cuando termina, te deja mirar su tablero unos segundos; después lo tapa y vos tenés que armar tus fichas de la misma forma en tu tablero, en dos minutos. Se turnan para armar las fichas, y gana el que las ubica correctamente más veces.
+Un juego de memoria visual para dos: hay que copiar de memoria cómo están ubicadas unas fichas en un tablero.
+
+1. Hacen falta dos tableros de damas y veinte fichas: diez blancas y diez negras.
+2. Cada jugador tiene un tablero y cinco fichas blancas y cinco negras.
+3. Mientras vos mirás para otro lado, tu compañero ubica sus fichas en su tablero como quiera.
+4. Cuando termina, te deja mirar su tablero unos pocos segundos. Después lo tapa.
+5. Vos tenés dos minutos para armar tus fichas en tu tablero exactamente igual.
+6. Se destapa el tablero y se compara. Después se cambian los papeles: armás vos y tu compañero copia.
+
+**Cómo se gana:** gana el que copia correctamente más veces.
 
 ### Variante: Por patrullas
 Cada patrulla arma un patrón con más fichas y otra lo copia en equipo.

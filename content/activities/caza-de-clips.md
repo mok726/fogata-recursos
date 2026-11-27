@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,15 +140,29 @@ rama_rovers:
 2. Ponelos a la altura de los chicos y en lugares seguros: nada arriba de un mueble alto ni en enchufes.
 
 ## Cómo se juega
-Se esconden, más o menos, alfileres de distintos tipos por el salón. Los blancos valen 1; los blancos con cabeza de color, 2; los negros, 3. Gana la mejor colección.
+Una búsqueda de objetos chicos escondidos por el salón.
 
-*Adaptación de Fogata:* en lugar de alfileres, usar clips o broches de colores (mismo puntaje por color), que no pinchan.
+1. Antes del juego, el que dirige esconde (no demasiado) alfileres de distintos tipos por todo el salón: en las cortinas, en las sillas, en los marcos.
+2. A la señal, todos los buscan.
+
+**Cómo se gana (puntaje):** los alfileres blancos valen 1 punto; los blancos con cabeza de color, 2; los negros, 3. Gana la mejor colección.
+
+*Adaptación de Fogata:* en lugar de alfileres se pueden usar clips o broches de colores, con el mismo puntaje por color, para que nadie se pinche.
 
 ## Para cerrar
 - ¿Qué clips costaron más? ¿Por qué?
 
 ## Notas para educadores
 - Reemplaza a los alfileres del juego original: los clips no pinchan.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PIN HUNT.**
+
+Pins of various sorts are more or less hidden about a room. White pins count 1. White pins with coloured heads count 2. Black pins count 3. Best collection wins.
 
 
 ## Texto original completo de la actividad

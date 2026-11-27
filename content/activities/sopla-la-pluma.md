@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,12 +138,36 @@ rama_rovers:
 # Posta de Soplar la Pluma
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, lleva soplando una plumita liviana por el recorrido, usando solo el aliento. Gana el primer equipo que termina. Si conviene, se le puede dar un abanico a cada equipo.
+Una carrera de postas a puro soplido: hay que llevar una pluma por el recorrido sin tocarla.
 
-**Posta del pescado frito:** los equipos en fila india; justo delante de cada equipo, un círculo de unos 30 cm de diámetro, y otro igual en la otra punta del recorrido. Cada equipo tiene un abanico y un pedazo de papel finito recortado con forma de lenguado. Cada jugador, por turno, lleva el «pescado» abanicándolo de una «sartén» a la otra, sin tocarlo de ninguna manera. El pescado tiene que quedar totalmente adentro del círculo, sin salirse nada. Gana el primer equipo que termina.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido, por ejemplo hasta una línea y de vuelta. Conviene jugarlo bajo techo, sin viento.
+2. Cada equipo tiene una plumita chica y liviana, de esas suaves que flotan en el aire.
+3. A la señal, el primero de cada equipo lleva la pluma por todo el recorrido soplándola, usando solo el aliento: no se la puede tocar con las manos ni con nada.
+4. Al volver, deja la pluma para el siguiente, que hace lo mismo.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Con abanico (variante del original):** si conviene, se le puede dar a cada equipo un abanico (o un cartón) para mover la pluma con aire en lugar de soplarla.
+
+**Posta del pescado frito (variante del original):** justo delante de cada equipo se dibuja en el piso un círculo de unos 30 cm de diámetro, y otro igual en la otra punta del recorrido: son las dos «sartenes». Cada equipo tiene un abanico y un pescado recortado en papel finito, con forma de pez chato, como un lenguado. Cada jugador, por turno, lleva el pescado abanicándolo desde una sartén hasta la otra, sin tocarlo de ninguna manera. Para que cuente, el pescado tiene que quedar totalmente adentro del círculo, sin que sobresalga nada. Después sigue el siguiente. Gana el primer equipo en el que pasaron todos.
 
 ## Para cerrar
 - ¿Qué truco descubrieron para que la pluma no se fuera para cualquier lado?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FEATHER BLOWING RELAY.**
+
+Teams in file; each player in turn blows a small downy feather round a given course, using his breath only. Team to finish first wins. If desirable, a fan may be provided for each team.
+
+**FRIED VISIT RELAY.**
+
+Teams in file; just in front of each team a circle about 1 foot diameter and another the same size at the other end of the course. Each team has a fan and a piece of thinnish paper cut out in the shape of a plaice. Each player in turn fans the “fish” from one “frying-pan” to the other, without touching it in any way. The fish must be absolutely in the circle, not overlapping at all. First team to finish wins.
 
 
 ## Texto original completo de la actividad

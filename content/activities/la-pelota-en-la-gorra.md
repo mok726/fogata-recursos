@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,13 +139,32 @@ rama_rovers:
 # Pelota al Sombrero
 
 ## Cómo se juega
-Los sombreros de los jugadores se juntan en el centro de un círculo de unos 3 m de radio, con los jugadores en el borde. Uno tira una pelota de tenis para meterla en uno de los sombreros, que no sea el suyo. Si erra, se le pone una marca en su sombrero; si erra tres veces, otro toma su lugar. El dueño del sombrero donde cae la pelota corre al centro, agarra la pelota y grita «¡Alto!». Los demás salen corriendo, pero se frenan al oír la palabra. El que tiene la pelota no puede salir del círculo y trata de pegarle a alguno de los otros con la pelota; si erra, se le pone una ficha en su sombrero; al que le pega pasa a ser el que la tiene. Gana el equipo con menos fichas.
+Un juego de puntería con gorras y una pelota: primero hay que embocar en una gorra y después pegarle a alguien.
+
+1. Se marca en el piso un círculo de unos 3 m de radio. En el centro se juntan las gorras (o sombreros) de todos los jugadores, boca arriba, bien juntas. Los jugadores se ponen en el borde del círculo.
+2. Un jugador tira una pelota de tenis tratando de meterla en una gorra que no sea la suya.
+3. Si no emboca, se le pone una marca en su gorra (una piedrita o una ficha). Si erra tres veces, deja de tirar y otro toma su lugar.
+4. Cuando la pelota cae en una gorra, el dueño de esa gorra corre al centro, agarra la pelota y grita «¡Alto!».
+5. Mientras tanto, todos los demás salen corriendo para alejarse, pero cuando escuchan «¡Alto!» se tienen que quedar quietos donde están.
+6. El que tiene la pelota no puede salir del círculo. Desde ahí trata de pegarle con la pelota a alguno de los demás.
+7. Si no le pega a nadie, se le pone una ficha en su gorra. Si le pega a alguien, el que recibió el pelotazo pasa a ser el que tira la pelota a las gorras.
+
+**Cómo se gana:** al final, gana el que tiene menos fichas en su gorra (el original habla de equipos: se pueden sumar las fichas de los jugadores de cada equipo).
 
 ## Para cerrar
 - ¿Qué convenía: escapar lejos o quedarse cerca para embocar después?
 
 ## Notas para educadores
 - Usá pelota blanda y pedí que los tiros sean siempre abajo de la cintura.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**EGG-IF-I-MOO (or hat ball).**
+
+Players' hats bunched together in centre of a 10-feet radius circle, players round edge. One throws a tennis ball into one of the hats, not his own, If he misses, a mark is put in his hat, if three times, another takes his place. Owner of the hat in which the ball lodges runs in, picks up ball, and then cries “ halt.” The rest run away but stop at the word. Player with the ball may not leave circle and tries to hit one of the others with ball, if he fails, a chip is put in his hat; one hit becomes IT. Team with fewest chips wins.
 
 
 ## Texto original completo de la actividad

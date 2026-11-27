@@ -153,7 +153,18 @@ Cuatro scouts salen temprano como liebres, con una banda roja cruzada. Pueden es
 2. Fijá la hora y el punto de regreso.
 
 ## Desarrollo
-Se elige un pedazo de terreno, de ser posible la ladera de un cerro, de unos 8 km por lado (debería ser mucho menos si solo salen por unas horas); todos tienen que tener claros los límites del terreno antes de empezar. Entonces, temprano a la mañana, salen cuatro chicos para hacer de liebres. Pueden ir juntos o separados, adonde quieran, y aunque pueden esconderse cuando lo deseen, como regla deberían moverse de una parte del terreno a otra. Cada liebre lleva una banda roja cruzada sobre el hombro. Una hora después de que salieron las liebres, el resto del grupo, en general unos dieciséis, sale como cazadores a buscarlas. Los cazadores pueden ir todos juntos, solos o en parejas, como quieran; pero en general lo más divertido es que las liebres vayan solas y los cazadores en parejas. Conviene que los cazadores lleven una banda de color cruzada sobre el hombro (gris, amarilla o azul) para que se los distinga de la gente común del lugar. Así, el juego consiste en que los cazadores busquen hasta ver una liebre, y entonces corran tras ella para atraparla. Solo la atrapan cuando la tocan. Todo esto es una práctica excelente, para cazadores y liebres, de esconderse, acechar, rastrear y moverse a campo traviesa, y es un juego apasionante. Hacia la tarde termina el juego y todos vuelven a casa.
+Un gran juego de un día entero a campo abierto: unas pocas «liebres» se esconden y se mueven por el terreno y los «cazadores» las buscan para tocarlas.
+
+1. Se elige un terreno, si se puede la ladera de un cerro, de unos 8 km por lado. Si salen por unas pocas horas, tiene que ser mucho más chico.
+2. Antes de empezar, todos tienen que tener muy claros los límites.
+3. Temprano a la mañana salen cuatro jugadores como liebres. Cada una lleva una banda roja cruzada sobre el hombro.
+4. Las liebres pueden ir juntas o separadas, adonde quieran. Pueden esconderse cuando quieran, pero en general tienen que ir moviéndose de una parte del terreno a otra.
+5. Una hora después sale el resto, en general unos dieciséis, como cazadores. Conviene que lleven una banda de otro color (gris, amarilla o azul), para distinguirlos de la gente del lugar.
+6. Los cazadores pueden salir todos juntos, solos o en parejas.
+7. Cuando un cazador ve una liebre, la persigue. La liebre queda atrapada solo cuando la tocan.
+8. Hacia la tarde termina el juego y todos vuelven.
+
+**Consejo del original:** lo más divertido es que las liebres vayan solas y los cazadores en parejas. El juego es una práctica excelente para esconderse, acechar, rastrear y moverse a campo traviesa.
 
 ## Cierre
 - ¿Qué rastros dejaban las liebres?

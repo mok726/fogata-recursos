@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,28 @@ rama_rovers:
 # Corran el Asiento
 
 ## Cómo se juega
-Los jugadores sentados alrededor de una ronda grande de asientos de distintas alturas, con un jugador en el centro y un asiento vacío. Los jugadores se van corriendo por la ronda para ocupar el asiento siguiente apenas queda vacío. El del centro trata de ocupar primero el asiento vacío. Cuando lo logra, el que se quedó sin lugar pasa al centro.
+Un juego de ronda con asientos: todos se van corriendo de lugar mientras uno trata de quedarse con el asiento vacío.
+
+1. Se arma una ronda grande de asientos: sillas, bancos, troncos, cajones, lo que haya, aunque sean de distintas alturas.
+2. Cada jugador se sienta en un asiento, menos uno, que se para en el centro. Así queda siempre un asiento vacío.
+3. Los jugadores sentados tienen que ir corriéndose al asiento de al lado apenas queda libre, siempre en el mismo sentido. Así el asiento vacío va «viajando» por la ronda.
+4. El del centro trata de sentarse en el asiento vacío antes de que lo ocupe alguno de la ronda.
+5. Cuando lo logra, el jugador que se quedó sin lugar (el que tenía que ocupar ese asiento y no llegó) pasa al centro, y el juego sigue.
 
 ## Para cerrar
 - ¿Cómo se organizaron para que el del medio no pudiera sentarse?
 
 ## Notas para educadores
 - Usá sillas firmes. Si son plásticas livianas, mejor bancos largos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASS ALONG THE CAR.**
+
+Players seated round a large circle of seats of various heights, one player in the centre and one vacant seat. Players move round the circle to occupy the next seat as it falls vacant. Player in centre tries to occupy the vacant seat first. When he succeeds the player ousted takes his place.
 
 
 ## Texto original completo de la actividad

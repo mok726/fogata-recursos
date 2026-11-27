@@ -148,7 +148,17 @@ rama_rovers:
 Dos equipos se arrodillan o sientan en las puntas de una mesa larga. La pelotita va en el centro y cada equipo sopla para tirarla por la punta contraria. Si cae por los costados, vuelve al centro. B-P dice que desarrolla los pulmones, pero sobre todo la compostura: gana el que sopla sin reírse de las caras de enfrente.
 
 ## Desarrollo
-Los jugadores se dividen en dos bandos y se ubican en cada punta de una mesa de madera de unos 1,80 m de largo. Se pone una pelota de ping-pong (o cualquier pelota liviana de celuloide) en el centro, y cada bando trata de tirarla soplando por la otra punta; si cae por los costados no cuenta, y se la vuelve a poner en el centro. El juego enseguida desarrolla pulmones fuertes, pero exige compostura en igual medida, porque el mejor jugador es el que puede soplar sin reírse de las caras que ponen los de enfrente al soplar. Lo mejor es jugar arrodillados o sentados alrededor de la mesa. Una forma más complicada, para cinco jugadores por bando, es marcar un arco en cada punta de la mesa; entonces cada bando tiene un arquero, dos delanteros ubicados en la otra punta para soplar al arco enemigo y dos defensores para pasarles la pelota a sus delanteros.
+Un juego de mesa en el que dos equipos tratan de sacar una pelotita de ping-pong por la punta del rival, solo soplando.
+
+1. Se usa una mesa de unos 1,80 metros de largo. Los jugadores se dividen en dos equipos y cada uno se ubica en una punta. Lo mejor es jugar arrodillados o sentados alrededor de la mesa.
+2. Se pone una pelota de ping-pong, o cualquier pelota muy liviana, en el centro de la mesa.
+3. A la señal, cada equipo sopla para que la pelota caiga por la punta del otro equipo.
+4. Si la pelota se cae por uno de los costados, no cuenta: se la vuelve a poner en el centro.
+5. Cuesta más de lo que parece, porque hay que soplar sin reírse de las caras que ponen los de enfrente.
+
+**El objetivo:** hacer caer la pelota por la punta del equipo contrario.
+
+**Con arcos (variante del original):** para cinco jugadores por equipo se marca un arco en cada punta de la mesa. Cada equipo tiene un arquero que defiende su arco, dos delanteros ubicados en la punta contraria para soplar hacia el arco rival y dos defensores que soplan la pelota hacia sus delanteros.
 
 ### Variante: Con arcos
 Se marcan arcos en las puntas y cada equipo (de cinco) tiene arquero, dos delanteros cerca del arco rival y dos defensores que les pasan la pelotita.

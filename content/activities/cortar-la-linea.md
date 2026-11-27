@@ -151,7 +151,19 @@ Una línea de postes (o árboles, o estacas) representa una línea de comunicaci
 1. Elegí un tramo con un poste o estaca por cada defensor. No uses postes de luz ni de teléfono reales: marcá tus propias estacas o usá árboles.
 
 ## Desarrollo
-Un ejército invasor siempre trata de destruir todas las comunicaciones del país invadido, así que lo primero que se ataca son las líneas de comunicación, y los defensores mandan gente a proteger los cables. Elijan un camino con postes de luz o de teléfono y con buena cobertura a ambos lados. Los defensores deberían tener dos patrullas por cada una de los atacantes, y solo se protege el tramo de terreno que permita un defensor por cada poste. Los defensores no tienen que quedarse en el camino: pueden mandar exploradores a descubrir dónde se concentra el enemigo y por dónde es probable que ataque. Los atacantes tienen que atar tres pañuelos alrededor de un poste (o el doble si atacan dos patrullas) para que la línea quede cortada. Los defensores pueden dejarlos fuera de combate con solo tocarlos, pero si en algún punto son menos, tienen que retroceder hasta que lleguen refuerzos. Así que la gracia del juego está en que los defensores se mantengan en contacto a lo largo de la línea y estén listos para mandar un grupo de auxilio apenas el enemigo amenace con atacar algún punto.
+Un juego de ataque y defensa a lo largo de un camino: los atacantes quieren «cortar» la línea de comunicaciones y los defensores tienen que impedirlo.
+
+1. La historia: un ejército invasor siempre trata de cortar las comunicaciones del país que invade, y los defensores mandan gente a cuidar los cables.
+2. Se elige un camino con postes de luz o de teléfono y con buen lugar para esconderse a los dos lados.
+3. Los defensores tienen el doble de gente que los atacantes: por ejemplo, dos patrullas contra una.
+4. Solo se defiende un tramo con tantos postes como defensores (un defensor por poste).
+5. Los defensores no tienen que quedarse en el camino: pueden mandar exploradores a descubrir dónde se junta el enemigo y por dónde va a atacar.
+6. Para cortar la línea, los atacantes tienen que atar tres pañuelos alrededor de un mismo poste (seis si atacan dos patrullas).
+7. Un defensor deja fuera de combate a un atacante con solo tocarlo. Pero si en algún punto los defensores son menos que los atacantes, tienen que retroceder hasta que lleguen refuerzos.
+
+**Cómo se gana:** los atacantes ganan si logran cortar la línea; los defensores, si lo impiden.
+
+**Consejo del original:** la gracia está en que los defensores se mantengan en contacto a lo largo de toda la línea y manden ayuda apenas el enemigo amenace algún punto.
 
 ## Cierre
 - ¿Cómo se avisaban entre los defensores?

@@ -58,6 +58,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -145,7 +146,13 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
 ## Cómo se juega
-Los juegos de nudos como la Posta de Nudos, la Carrera de Nudos o la Carrera de As de Guía y Ballestrinque se pueden jugar con los ojos vendados.
+Los juegos de nudos de carrera se pueden jugar también con los ojos vendados. Es una forma de comprobar quién sabe los nudos de verdad, con las manos, y no solo mirando.
+
+1. Elegí uno de los juegos de nudos: la Posta de Nudos, la Carrera de Nudos o la Carrera de As de Guía y Ballestrinque.
+2. Se juega con las mismas reglas de ese juego, pero cada jugador hace su nudo con los ojos vendados. Se le pone la venda justo antes de atar y se la saca cuando termina.
+3. El que dirige, o alguien que no juega, revisa cada nudo antes de que siga el próximo jugador.
+
+**Cómo se gana:** igual que en el juego elegido: gana el equipo que termina primero con todos los nudos bien hechos.
 
 ### Variante: En posta
 Cualquier carrera de nudos se puede correr con los ojos vendados.
@@ -156,6 +163,15 @@ Cualquier carrera de nudos se puede correr con los ojos vendados.
 
 ## Notas para educadores
 - Para Manada, usá solo los nudos de su progresión.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND KNOTTING RACE.**
+
+Games such as Nos. 7, 8, and 9 can be played blindfold..
 
 
 ## Texto original completo de la actividad

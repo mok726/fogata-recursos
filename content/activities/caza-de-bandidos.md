@@ -147,7 +147,15 @@ rama_rovers:
 Se marca una zona con muchos caminos y senderos. Una patrulla, con su mejor guía, hace de bandidos: tiene que quedarse dentro de la zona dos horas sin ser capturada, con diez minutos de ventaja. El resto se divide en patrullas chicas que, coordinándose, tienen que atraparla sin caer en sus emboscadas.
 
 ## Desarrollo
-Marquen una zona con muchos caminos y senderos, de unos 5 km por 5 km. Designen una patrulla al mando de su mejor guía. Su objetivo será quedarse dentro de la zona durante, digamos, dos horas, sin ser capturada. Se le darán diez minutos de ventaja. El resto de la fuerza se divide después en patrullas chicas y trata, cooperando con cuidado, de capturarla, cuidando de no caer ellos mismos en una emboscada de su presa.
+Un juego grande al aire libre: una patrulla de «bandidos» tiene que mantenerse libre durante dos horas mientras el resto de la tropa la persigue.
+
+1. Se marca una zona de unos 5 km por 5 km, con muchos caminos y senderos.
+2. Se elige una patrulla, la de los bandidos, al mando del mejor guía. Su objetivo es quedarse dentro de la zona durante unas dos horas sin que la capturen.
+3. Los bandidos salen con diez minutos de ventaja.
+4. Después, el resto de los scouts se divide en patrullas chicas. Cooperando entre ellas, tratan de encontrar y capturar a los bandidos.
+5. Los perseguidores tienen que cuidarse de no caer ellos mismos en una emboscada de los bandidos, que también pueden atacarlos.
+
+**Cómo se gana:** los bandidos ganan si siguen libres dentro de la zona al terminar el tiempo; los perseguidores, si los capturan antes.
 
 ## Cierre
 - ¿Cómo se coordinaron las patrullas cazadoras?

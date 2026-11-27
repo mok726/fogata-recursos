@@ -147,7 +147,14 @@ rama_rovers:
 Seis a nueve jugadores se toman de las manos en ronda alrededor de un banquito parado. Giran y cada uno tira y empuja para que otro choque el banquito, cuidando de no tirarlo él. El que lo tira sale. Gana el último que queda.
 
 ## Desarrollo
-Esta es la descripción de un buen juego para jugar en el local o al aire libre. Hay unos seis o nueve jugadores, que se toman todos de las manos y forman una ronda alrededor de algún objeto que se caiga si lo tocan, como un banquito parado. Los jugadores giran todos alrededor del banquito, y cada uno tiene que hacer lo posible para que otro lo tire al girar, evitando al mismo tiempo tirarlo él. Cuando un chico tira el banquito, queda afuera, y el juego sigue hasta que queda un solo jugador.
+Un juego de ronda en el que todos tironean para que otro tire un banquito, sin tirarlo uno mismo. Se puede jugar en el local o al aire libre.
+
+1. Se pone en el centro un objeto que se caiga fácil si lo tocan, por ejemplo un banquito parado.
+2. Entre seis y nueve jugadores se toman de las manos y forman una ronda alrededor del banquito.
+3. La ronda gira alrededor del banquito. Sin soltarse de las manos, cada uno tira y empuja para que otro choque el banquito y lo haga caer, y al mismo tiempo trata de no tirarlo él.
+4. El que tira el banquito queda afuera. Se vuelve a parar el banquito y sigue el juego.
+
+**Cómo se gana:** gana el último jugador que queda.
 
 ## Cierre
 - ¿Qué estrategia te sirvió?

@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,10 +140,29 @@ rama_rovers:
 1. Dibujá una cuadrícula de 4 x 4 cuadrados de unos 3 metros de lado y una franja de base en cada punta.
 
 ## Cómo se juega
-Se marca el terreno en cuadrados de 2,70 m, con una base en cada punta. Un equipo se para sobre las líneas que forman los cuadrados a lo ancho del terreno; no se pueden salir de su línea, pero se pueden mover a lo largo de ella (no más de tres por línea). Uno de ellos (el Walla) se puede mover en cualquier dirección y por cualquier línea. El otro equipo trata de pasar de una base a la otra sin que lo toquen, moviéndose de cuadrado en cuadrado, para adelante o para el costado, pero nunca para atrás. El que es atrapado sale. Gana el equipo que logra pasar más jugadores.
+Un juego de persecución en una cuadrícula: un equipo tiene que cruzar de punta a punta y el otro, parado sobre las líneas, trata de tocarlo.
+
+1. Se marca en el terreno una cuadrícula de cuadrados de 2,70 m de lado. En cada punta del terreno queda una base: una de salida y otra de llegada.
+2. Un equipo es el que cuida. Sus jugadores se reparten sobre las líneas que cruzan el terreno a lo ancho (las que hay que atravesar para ir de una base a la otra). No pueden salirse de su línea, pero sí moverse a lo largo de ella. En cada línea puede haber como máximo tres.
+3. Uno de los que cuidan es el Walla: él sí puede moverse en cualquier dirección y por cualquier línea de la cuadrícula.
+4. El otro equipo sale de una base y trata de llegar a la otra, pasando de cuadrado en cuadrado. Solo se puede avanzar hacia adelante o hacia los costados, nunca para atrás.
+5. Mientras está adentro de un cuadrado, el que cruza puede esperar el momento justo. Cuando pasa por encima de una línea, el que está sobre ella lo puede tocar.
+6. El que es tocado sale del juego.
+7. Después los equipos cambian de papel.
+
+**Cómo se gana:** gana el equipo que logra hacer llegar más jugadores a la otra base.
 
 ## Para cerrar
 - ¿Qué cuadrados eran los más peligrosos? ¿Cómo se ayudaban para pasar?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WALLA.**
+
+Ground marked in 9-feet squares with a base at each end; one team stand on the lines, forming squares running across ground, and may not move off their line but move along it (not more than three on any line). One (Walla) may move in any direction on any line. Other team try to pass from one base to the other without being touched by moving from square to square, forward or sideways, but never back. Caught player falls out. Team getting most through wins.
 
 
 ## Texto original completo de la actividad

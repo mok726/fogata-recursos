@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,7 +137,15 @@ rama_rovers:
 # ¿Norte, Sur, Este u Oeste?
 
 ## Cómo se juega
-Los jugadores se forman en filas abiertas; el que dirige les muestra dónde quedan el N, el S, el E y el O del salón, y después dice una dirección de la brújula. Todos saltan a la vez para quedar mirando hacia ese lado; los que se equivocan salen o pagan una prenda.
+Un juego rápido para aprender los puntos cardinales dentro del salón.
+
+1. Los jugadores se forman en filas abiertas, es decir, en filas con bastante espacio entre uno y otro, para que todos puedan girar y saltar sin chocarse.
+2. El que dirige les muestra hacia dónde quedan el Norte, el Sur, el Este y el Oeste del salón. Conviene usar una brújula para que sea real y no inventado.
+3. Después, el que dirige dice en voz alta una dirección: «¡Norte!», «¡Oeste!», etc.
+4. Todos, al mismo tiempo, dan un salto y caen mirando hacia esa dirección.
+5. El que se equivoca, o se queda dudando, sale del juego o paga una prenda (una pequeña penitencia divertida que se cumple al final, como cantar o hacer una mímica).
+
+**Cómo se gana:** el último que queda sin equivocarse es el ganador.
 
 ## Para cerrar
 - ¿Cómo encontrarían el Norte si no tuvieran brújula?
@@ -144,6 +153,15 @@ Los jugadores se forman en filas abiertas; el que dirige les muestra dónde qued
 ## Notas para educadores
 - Antes, ubicá el Norte real del lugar. En el hemisferio sur, al mediodía el sol está hacia el Norte.
 - Complementa la Rosa de los 32 Rumbos y las fichas de orientación.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**NORTH, SOUTH, EAST OR WEST?**
+
+Players form up in open ranks, leader points out the N., S., E., and W. of the room and then calls out a compass direction. All at once jump to face that way, players in error fall out or are executed as in No. 4.
 
 
 ## Texto original completo de la actividad

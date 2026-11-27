@@ -149,7 +149,16 @@ rama_rovers:
 Los jugadores, con los ojos vendados, se ponen en fila en un extremo del campo. El dirigente se para en el otro extremo y toca el silbato cada tanto. Hay que llegar hasta él solo por el oído. Gana el primero que lo toca.
 
 ## Desarrollo
-Esta es la descripción de un juego de primera que se puede jugar en un campo abierto donde no hay dónde esconderse. A varios scouts se les vendan los ojos y se los pone en fila en un extremo del campo. Entonces un dirigente o un guía va al otro extremo y toca el silbato cada tanto. La tarea de los scouts vendados es llegar hasta quien toca el silbato y tocarlo. Este puede agacharse, pero no moverse. Apenas un scout toca a la persona del silbato, se saca el pañuelo y sale del juego. El que tiene el silbato debe cuidar que ningún chico se choque con cercos o caiga en zanjas; si ve que alguno se desvía, tiene que tocar el silbato para atraer su atención hacia la dirección correcta. Se dan puntos según el orden en que los scouts llegan hasta el del silbato; por supuesto, el puntaje más alto es para el que llega primero.
+Un juego de orientación a ciegas para un campo abierto, sin árboles ni lugares para esconderse.
+
+1. A varios scouts se les vendan los ojos y se los pone en fila en un extremo del campo.
+2. El dirigente o un guía va al otro extremo y toca el silbato cada tanto.
+3. Los scouts vendados tienen que llegar hasta el que toca el silbato y tocarlo, guiándose solo por el sonido.
+4. El del silbato se puede agachar, pero no se puede mover de su lugar.
+5. Apenas un scout toca al del silbato, se saca el pañuelo y queda fuera del juego.
+6. El del silbato tiene que cuidar que nadie se choque con un alambrado o se caiga en una zanja. Si ve que alguno se desvía, toca el silbato para que se oriente hacia el lado correcto.
+
+**Puntaje:** se dan puntos según el orden de llegada. El que llega primero se lleva el puntaje más alto.
 
 ### Variante: Más difícil
 El que toca el silbato cambia de lugar después de cada toque (solo con terreno muy seguro).

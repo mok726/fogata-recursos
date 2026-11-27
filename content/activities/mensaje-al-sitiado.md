@@ -150,7 +150,18 @@ Un mensajero tiene que llevar un mensaje a un lugar "sitiado". Lleva una cinta l
 2. Elegí un punto de salida a buena distancia y avisá a los sitiadores la hora y la dirección general.
 
 ## Desarrollo
-Se elige a un scout para llevar un mensaje a un lugar sitiado, que puede ser un pueblo o una casa de verdad, o alguien ubicado en un punto convenido. El mensajero tiene que llevar un trapo de color, de al menos 60 cm de largo, prendido al hombro, y con él en su lugar debe llegar a destino. El enemigo que sitia el lugar tiene que impedirle llegar al cuartel, pero no puede, por supuesto, entrar dentro de las líneas de los supuestos defensores (es decir, a menos de 300 metros del cuartel; hay que fijar los límites de antemano). Para atraparlo, el enemigo tiene que quitarle el trapo del hombro. Saben que sale desde cierta dirección a cierta hora (el punto de salida debería estar a un kilómetro y medio o algo así del pueblo sitiado) y pueden hacer lo que quieran para capturarlo, salvo presenciar su salida. El juego se puede hacer en una ciudad, eligiendo dos casas como punto de salida y pueblo sitiado, y el mensajero puede usar cualquier disfraz siempre que lleve el trapo prendido al hombro.
+Un juego de exploración: un mensajero tiene que llevar un mensaje a un lugar «sitiado» (rodeado por el enemigo) y los demás tratan de interceptarlo.
+
+1. Se elige el lugar sitiado, que es el «cuartel»: un pueblo, una casa o alguien parado en un punto convenido.
+2. Se elige el punto de salida del mensajero, a un kilómetro y medio, más o menos, del cuartel.
+3. Alrededor del cuartel se marca una zona de unos 300 metros que es de los defensores. El enemigo no puede entrar ahí. Los límites se fijan antes de empezar.
+4. Se elige a un scout como mensajero. Lleva prendido al hombro un trapo de color de al menos 60 cm de largo, y tiene que llegar al cuartel con el trapo en su lugar.
+5. El resto hace de enemigo. Saben desde qué lado y a qué hora sale el mensajero, y pueden organizarse como quieran para atraparlo, pero no pueden mirar cuando sale.
+6. Para atrapar al mensajero, el enemigo tiene que sacarle el trapo del hombro.
+
+**Cómo se gana:** el mensajero gana si llega al cuartel con el trapo. El enemigo gana si se lo saca antes.
+
+**En la ciudad (variante del original):** se puede jugar en una ciudad, eligiendo una casa como punto de salida y otra como cuartel. El mensajero puede disfrazarse como quiera, siempre que lleve el trapo prendido al hombro.
 
 ### Variante: En la ciudad
 Con chicos más grandes y adultos acompañando, se puede jugar entre dos casas o puntos de un barrio tranquilo. El mensajero puede disfrazarse como quiera, siempre que lleve la cinta a la vista.

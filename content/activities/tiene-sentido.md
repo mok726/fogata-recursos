@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,13 +140,31 @@ rama_rovers:
 1. Prepará unas 20 frases, ordenadas primero y después mezcladas. Que haya verdaderas («la flor de lis es el símbolo scout»), falsas («el sol sale por el oeste») y algunas que nadie puede saber («en Marte hay vida»).
 
 ## Cómo se juega
-El que dirige lee una frase con las palabras desordenadas, y los jugadores tienen que decir rápido si el sentido de la frase ya ordenada es verdadero o falso. Por ejemplo: «El mar del agua es salada» (verdadero). «La insignia de Madera es del Rey» (falso). «Vida en Marte hay» (no se sabe), etc.
+Un juego de pensar rápido con frases desordenadas.
+
+1. El que dirige lee una frase con las palabras mezcladas.
+2. Los jugadores tienen que ordenarla en la cabeza y decir rápido si lo que dice la frase es verdadero, falso o no se sabe.
+3. Ejemplos:
+   - «El mar del agua es salada» → «El agua del mar es salada»: verdadero.
+   - «Lobatos los ladran manada en la» → «Los lobatos ladran en la manada»: falso (los lobatos aúllan el Gran Aullido, pero no ladran).
+   - «Vida en Marte hay» → «Hay vida en Marte»: no se sabe.
+
+**Cómo se gana:** cada respuesta correcta vale un punto.
 
 ## Para cerrar
 - ¿Qué frases eran de «no se sabe»? ¿Qué diferencia hay entre «no lo sé» y «nadie lo sabe»?
 
 ## Notas para educadores
 - La tercera opción («no se sabe») da para una buena charla sobre lo que sabemos, lo que creemos y lo que todavía no se descubrió.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SENSE?**
+
+Leader reads out a sentence with the words jumbled out of order, and players must say quickly if the sense of corrected sentence is true or false. E.g. The sea in the water is salt.” (True.) The Scout badge King's is a Woodman.” (False.) Animal there is Mars in life.” (Unknown.) etc. etc.
 
 
 ## Texto original completo de la actividad

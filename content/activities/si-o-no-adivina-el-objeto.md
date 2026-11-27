@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,9 +137,16 @@ rama_rovers:
 # Sí o No, ¿Qué Es?
 
 ## Cómo se juega
-Los jugadores por equipos. Un integrante de cada equipo sale del salón, y entre ellos eligen un objeto. Después vuelven, cada uno a un equipo que no es el suyo, y solo contestan «Sí» o «No» a cualquier pregunta; si eso no se puede, se quedan callados. Gana el primer equipo que descubre el objeto.
+Un juego de adivinar con preguntas de «sí» o «no».
 
-**Tierra, aire o agua:** un jugador piensa en un objeto y los demás, preguntando, tratan de descubrir qué es. El que dirige puede limitar el tipo de objetos.
+1. Los jugadores se dividen en equipos.
+2. Sale del salón un integrante de cada equipo. Afuera, entre ellos, eligen un objeto.
+3. Vuelven, y cada uno va a un equipo que **no** es el suyo.
+4. Cada equipo le hace preguntas al que le tocó, y él solo puede contestar «sí» o «no». Si una pregunta no se puede contestar así, se queda callado.
+
+**Cómo se gana:** gana el primer equipo que descubre el objeto.
+
+**Tierra, aire o agua (variante del original):** un solo jugador piensa en un objeto y todos los demás le hacen preguntas para descubrir qué es. El que dirige puede limitar el tipo de objetos (por ejemplo, solo animales, o solo cosas del campamento).
 
 ## Para cerrar
 - ¿Qué preguntas sirvieron más? ¿Cuáles no ayudaron nada?
@@ -146,6 +154,19 @@ Los jugadores por equipos. Un integrante de cada equipo sale del salón, y entre
 
 ## Notas para educadores
 - Buen juego para trabajar preguntas «grandes» (que descartan mucho) y preguntas «chicas». Charlalo al final.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**YES OR NO, WHAT IS IT? or CLUMPS.**
+
+Players in teams. One member of each team goes out of the room, and these settle on some object. They then return to any team but their own, and will only answer Yes or No to any question; if this is impossible they remain silent. The first team to discover the object wins.
+
+**EARTH, AIR, OR WATER.**
+
+One player thinks of an object and the others questioning try to find out what it is. The range of may be limited at the discretion of the leader. .
 
 
 ## Texto original completo de la actividad

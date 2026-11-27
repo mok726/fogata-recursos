@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -140,9 +141,13 @@ rama_rovers:
 1. Prepará unas diez series, de fáciles a difíciles. Por ejemplo: 3, 6, 9, 12… / 1, 2, 4, 8, 16… / 1, 1, 2, 3, 5, 8… / A, C, E, G… / Z, A, Y, B, X, C…
 
 ## Cómo se juega
-El que dirige lee en voz alta una serie de letras o de números, o la escribe en el pizarrón. Los jugadores tienen que agregarle, por ejemplo, cinco más, antes de que se cuente hasta diez.
+Un juego de lógica: hay que descubrir cómo sigue una serie.
 
-Por ejemplo: 2-4-6-8-10, 12-14-16-18-20. Z A Y B X C, W D V E U, etc.
+1. El que dirige lee en voz alta, o escribe en el pizarrón, el comienzo de una serie de números o de letras. Por ejemplo: 2 - 4 - 6 - 8 - 10.
+2. Los jugadores tienen que descubrir la regla y escribir los cinco que siguen (en el ejemplo, 12 - 14 - 16 - 18 - 20) antes de que el que dirige cuente hasta diez.
+3. Las series se van haciendo más difíciles. Por ejemplo: Z A Y B X C… (sigue W D V E U: una letra desde el final del abecedario y una desde el principio).
+
+**Cómo se gana:** cada serie bien continuada vale un punto.
 
 ### Variante: Inventen la suya
 Cada patrulla inventa una serie para las demás.
@@ -152,6 +157,15 @@ Cada patrulla inventa una serie para las demás.
 
 ## Notas para educadores
 - Juego de pensamiento lógico, muy cercano a lo que después se ve en computación (ver Computación Desenchufada).
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SEQUENCES.**
+
+Leader reads out a sequence of letters or numbers, or writes them on the board. Players then add (say) five more to the sequence, before ten if counted. E.g. 2-4-6 8-10, 12-14-16-18-20. ZAYBXC, WDVEU, etc. etc.
 
 
 ## Texto original completo de la actividad

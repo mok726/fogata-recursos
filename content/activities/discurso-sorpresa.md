@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,11 +140,16 @@ rama_rovers:
 1. Escribí unos 30 temas, la mayoría divertidos y algunos más en serio.
 
 ## Cómo se juega
-Cada jugador saca un tema de un sombrero, tiene 2 minutos para pensar y después habla durante 3 o 5 minutos.
+Un juego para animarse a hablar en público sin preparación.
 
-O bien: cada equipo propone un orador y, por turno, cada uno habla sobre el mismo tema.
+1. Se escriben temas en papelitos y se ponen en un sombrero.
+2. Cada jugador saca un tema, tiene 2 minutos para pensar y después habla sobre ese tema durante 3 a 5 minutos.
 
-O bien: como el anterior, pero hablan todos a la vez, y gana el que logra que lo escuchen. El orador que se ríe o hace una pausa no puede seguir.
+**Otras formas del original:**
+- Cada equipo elige un orador y todos hablan, por turno, sobre el mismo tema.
+- Igual que la anterior, pero los oradores hablan todos a la vez y gana el que consigue que lo escuchen.
+
+**Regla:** el orador que se ríe o se queda callado no puede seguir.
 
 ### Variante: Uno por patrulla
 Cada patrulla manda un orador con el mismo tema. Se comparan los discursos.
@@ -157,6 +163,15 @@ Para Caminantes: todos los oradores hablan a la vez del mismo tema. El que se r�
 
 ## Notas para educadores
 - Para los más tímidos, empezá con un minuto en lugar de tres. Nadie debería quedar expuesto: si alguien no quiere, puede hablar en pareja.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STUMP ORATIONS.**
+
+Each player draws a subject out of a hat, takes 2 minutes to think and then speaks for 3 or 5 minutes. OR. Each team puts up a speaker and in turn each speaks on the same subject. OR. As the last, but all speak at once and the one to get a hearing wins. A speaker laughing or pausing is not allowed to go on.
 
 
 ## Texto original completo de la actividad

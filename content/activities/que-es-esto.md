@@ -152,7 +152,19 @@ rama_rovers:
 Dos scouts recorren un camino dejando señales con tiza (números, palabras, dibujos de animales) y un signo especial que significa "¿Qué es esto?", puesto en un árbol, una planta o un objeto. Los demás salen diez minutos después, anotan todas las señales que ven y, en cada signo especial, escriben qué es la cosa marcada: "un roble", "una reja de hierro".
 
 ## Desarrollo
-Dos scouts (de preferencia con la especialidad de Naturalista) salen y hacen ciertas señales, como un número, una palabra, el dibujo de un animal o un pájaro, etc., con tiza en los árboles o en la vereda. Las señales o dibujos también se pueden hacer en el polvo o en el barro, en el suelo o en las barrancas. Los dos scouts deberían acordar además una señal poco común que signifique "¿Qué es esto?", como un círculo atravesado por una línea. Se pueden llevar trozos de madera con esta señal para clavarlos en plantas y lugares donde es imposible marcar con tiza. El resto de la tropa sale, digamos, diez minutos después que los dos primeros, en grupo o por separado, con cuadernos y lápices. El juego consiste en anotar en el cuaderno las señales que observan. Donde ven la señal "¿Qué es esto?", tienen que anotar qué es el objeto que la lleva, por ejemplo "un roble" o "una reja de hierro", etc. No puede haber colaboración entre ellos. Se dan puntos según la cantidad de señales observadas y por las respuestas correctas a la señal "¿Qué es esto?". Además de ser muy interesante, este juego desarrolla la capacidad de observación, fortalece la memoria y es una buena enseñanza de botánica. Cuando termina el juego, hay que borrar todas las marcas de tiza y cuidar de no dañar la propiedad privada.
+Un juego de observación en recorrido: hay que encontrar y anotar las señales que dejaron dos compañeros, y reconocer los objetos marcados con una señal especial.
+
+1. Dos jugadores (si es posible, que tengan la especialidad de Naturalista) salen primero. Por el camino van dejando señales con tiza en los árboles o en la vereda: un número, una palabra, el dibujo de un animal o de un pájaro. También pueden dibujarlas en la tierra, en el barro o en las barrancas.
+2. Antes de salir, los dos acuerdan una señal poco común que quiere decir «¿Qué es esto?», por ejemplo un círculo atravesado por una línea. La dibujan sobre algunos objetos: un árbol, una reja, una planta. Donde no se puede marcar con tiza, clavan o atan un pedacito de madera con esa señal dibujada.
+3. Unos diez minutos después sale el resto de la tropa, todos juntos o por separado, con cuaderno y lápiz.
+4. Cada uno anota en su cuaderno todas las señales que ve.
+5. Cuando encuentra la señal «¿Qué es esto?», tiene que anotar qué es la cosa que la lleva, por ejemplo «un roble», «un sauce» o «una reja de hierro».
+6. Cada uno trabaja por su cuenta: no vale ayudarse.
+7. Al terminar el juego, hay que volver a borrar todas las marcas de tiza, y cuidar de no ensuciar ni dañar la propiedad privada.
+
+**Puntaje:** se dan puntos por la cantidad de señales observadas y por cada respuesta correcta a las señales «¿Qué es esto?».
+
+**Consejo del original:** además de ser muy entretenido, el juego desarrolla la observación, ejercita la memoria y sirve para aprender botánica.
 
 ## Cierre
 - ¿Qué plantas o árboles reconocieron?

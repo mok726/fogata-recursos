@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,14 +138,40 @@ rama_rovers:
 # Posta del Globo a Palmadas
 
 ## Cómo se juega
-Los equipos en fila india; cada equipo tiene un globo chico, que cada jugador, por turno, lleva a palmadas por un recorrido dado. Si el globo toca el suelo, el jugador tiene que empezar de nuevo. Gana el primer equipo que termina.
+Una carrera de postas con globos: hay que llevar el globo por el aire a palmadas, sin que toque el suelo.
 
-**Posta del globo y el bastón:** los equipos en fila india; cada jugador, por turno, lleva un globo inflado por un recorrido dado guiándolo con un bastón scout. Para hacerlo más difícil, se puede decir que el globo no tiene que tocar el suelo; si lo toca, se empieza de nuevo.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-**Carrera del pastor:** cada equipo, abanicando, soplando o de cualquier otra forma que se fije, guía un rebaño de globos inflados por un recorrido en zigzag. El globo que se sale de los límites tiene que empezar de nuevo. Gana el primer equipo que mete todo su rebaño en una caja.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido. Cada equipo tiene un globo chico inflado.
+2. A la señal, el primero de cada equipo lleva el globo por todo el recorrido dándole palmaditas para que siga en el aire.
+3. Si el globo toca el suelo, el jugador tiene que volver a empezar desde la salida.
+4. Al volver, le pasa el globo al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Posta del globo y el bastón (variante del original):** cada jugador, por turno, lleva un globo inflado por el recorrido guiándolo con un bastón scout, empujándolo con la punta. Para hacerlo más difícil se puede agregar que el globo no puede tocar el suelo; si lo toca, el jugador empieza de nuevo.
+
+**Carrera del pastor (variante del original):** cada equipo tiene un «rebaño» de varios globos inflados y lo tiene que llevar por un recorrido en zigzag, abanicando, soplando o de la forma que fije el que dirige. Al final del recorrido hay una caja, que es el corral. Si un globo se sale de los límites del recorrido, tiene que volver a empezar. Gana el primer equipo que mete todo su rebaño en el corral.
 
 ## Para cerrar
 - ¿Qué fue más difícil: controlar el globo o ir rápido?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON PATTING RELAY.**
+
+Teams in file; each team has a small balloon, which every player in turn pats round a given course. If the balloon touches the ground the player must start again. First team to finish wins.
+
+**BALLOON AND STAFF RELAY.**
+
+Teams in file; each player in turn guides an inflated balloon round a given course with a Scout staff. To make it more difficult it may be said that the balloon must not touch the ground; penalty, start again.
+
+**SHEPHERD’S RACE.**
+
+Each team by fanning, blowing, or any other means laid down, guide a herd of inflated balloons round a zig-zag course. Any balloon going out of bounds must start again. First team penning all its herd in a box wins.
 
 
 ## Texto original completo de la actividad

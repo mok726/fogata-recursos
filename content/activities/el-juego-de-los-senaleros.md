@@ -153,7 +153,16 @@ La tropa se divide en tres: A, los señaleros (pocos y buenos), B, los que se es
 2. Fijá el tiempo máximo del juego (B-P sugiere dos horas; con 45 minutos alcanza).
 
 ## Desarrollo
-La tropa se divide en tres grupos o patrullas: patrulla A, patrulla B y patrulla C. La patrulla A será la más chica, pero todos tienen que ser buenos señaleros, y la C, la más numerosa. Primero sale la patrulla A y se ubica en un terreno alto, o en el campanario de una iglesia, o en el techo de una casa, de modo de dominar bien la vista de cierto tramo del terreno. Esta patrulla lleva banderas de morse o de semáforo, u otro aparato de señales. La patrulla B sale y se mantiene a cubierto en ese tramo del terreno vigilado por los señaleros. Al salir, la patrulla B tratará de mantenerse a cubierto y de esquivar o engañar a los señaleros apareciendo en distintos lugares y desapareciendo, y finalmente tomará una posición escondida. Cuando la patrulla B lleva quince minutos afuera, avanza la patrulla C; entonces los señaleros le transmiten a la patrulla C, los atacantes, la posición de la patrulla B enemiga y otros datos que la ayuden a avanzar sin ser vista y sorprender al enemigo. Para ganar, la patrulla C tiene que capturar a los scouts de la patrulla B rodeando sus escondites. Si la patrulla C pasa de largo a más scouts de la patrulla B de los que captura, cuenta como victoria para la patrulla B. Habría que ponerle al juego un límite de tiempo de, digamos, dos horas.
+Un juego para buenos señaleros: desde un lugar alto, una patrulla manda mensajes en código para guiar a sus compañeros hasta los escondidos.
+
+1. La tropa se divide en tres patrullas, A, B y C. La A es la más chica, pero todos tienen que saber hacer señales; la C es la más numerosa.
+2. La patrulla A se ubica en un lugar alto, por ejemplo una loma, un campanario o un techo, desde donde se vea bien un tramo del terreno. Lleva banderas de señales para morse o semáforo (el código de letras con dos banderas), u otro medio para hacer señales.
+3. Después sale la patrulla B y se mete en ese tramo de terreno que ve la A. Trata de engañar a los señaleros apareciendo y desapareciendo en distintos lugares, y al final se esconde.
+4. Quince minutos después de que salió la B, avanza la patrulla C, que es la atacante.
+5. Desde arriba, los señaleros le transmiten a la C dónde está escondida la B y todo dato que la ayude a acercarse sin ser vista.
+6. La C tiene que capturar a los scouts de la B rodeando sus escondites.
+
+**Cómo se gana:** gana la C si captura a los scouts de la B. Si pasa de largo a más scouts de los que captura, gana la B. El juego tiene un límite de tiempo, por ejemplo dos horas.
 
 ## Cierre
 - ¿Las señales llegaban claras? ¿Qué mejorarían del código?

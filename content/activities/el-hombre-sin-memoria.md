@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,7 +143,14 @@ rama_rovers:
 2. Elegí objetos que den pistas sin decirlo todo.
 
 ## Cómo se juega
-El que dirige anuncia que encontraron a un hombre que perdió la memoria, y se pone en una bandeja lo que tenía en los bolsillos. Cada equipo trata de deducir todo lo que pueda sobre el hombre y de dar datos que ayuden a averiguar quién es.
+Un juego de deducción, como los detectives.
+
+1. El que dirige cuenta que encontraron a un hombre que perdió la memoria y no sabe quién es.
+2. Pone en una bandeja todo lo que el hombre tenía en los bolsillos: por ejemplo, un boleto, unas llaves, un lápiz, una servilleta, monedas, un papel con una lista.
+3. Cada equipo estudia los objetos y trata de deducir todo lo que pueda sobre el hombre: qué hace, dónde vive, dónde estuvo, qué le gusta.
+4. Cada equipo da su informe con los datos que ayudarían a averiguar quién es.
+
+**Cómo se gana:** gana el equipo con las deducciones más razonables y mejor justificadas.
 
 ## Para cerrar
 - ¿Qué diferencia hay entre lo que sabemos y lo que suponemos?
@@ -151,6 +159,15 @@ El que dirige anuncia que encontraron a un hombre que perdió la memoria, y se p
 ## Notas para educadores
 - Juego excelente para trabajar pensamiento crítico: valorá más el razonamiento que el acierto.
 - Da para charlar sobre prejuicios: qué suponemos de alguien por cómo se ve o lo que tiene.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOST MEMORY.**
+
+The leader announces that a man has been found who has lost his memory, the contents of the man's pockets are put on a tray. Each team tries to deduce all it can about the man, and furnish information to help to find out his identity.
 
 
 ## Texto original completo de la actividad

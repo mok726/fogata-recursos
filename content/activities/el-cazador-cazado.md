@@ -147,7 +147,17 @@ rama_rovers:
 El grupo 1 recibe la noticia de que una columna ciclista pasará por cierto camino a cierta hora, y prepara una emboscada. El grupo 2 se divide: A hace de columna, por el camino anunciado; B sale en dirección contraria con la orden de buscar enemigos. Lo más probable es que el grupo 1, concentrado en emboscar a A, se olvide de cuidarse, y B lo sorprenda... o caiga él mismo en una emboscada.
 
 ## Desarrollo
-Dividan su fuerza en dos partes iguales, 1 y 2. Denle al grupo 1 un jefe capaz, y díganle que están operando en territorio enemigo y que deben cuidar su propia seguridad; también que se espera que una fuerza de ciclistas enemigos pase por cierto camino, a cierta hora y en cierta dirección. El grupo 1 sale entonces y se esconde en una buena emboscada. Después dividan al grupo 2 en dos partes, A y B. Que A cumpla el programa original asignado a los ciclistas enemigos, y manden a B dando la vuelta exactamente en la dirección opuesta. Díganle al guía a cargo de B que se vio un grupo enemigo en el camino, y que vaya a explorar en su busca. Denle tiempo suficiente para que pueda ubicarlo (si es despierto) antes de que A llegue a la emboscada. Lo más probable es que el grupo 1 esté tan concentrado esperando para emboscar a A que se haya olvidado de protegerse contra una sorpresa. B puede o no sorprender al grupo 1, y quizás caiga él mismo en una emboscada. En cualquier caso, se puede hacer un trabajo instructivo, que da lugar a la acción y al pensamiento rápidos de todos los participantes. A cualquier hombre que se vea exponiéndose a lo loco bajo el fuego hay que dejarlo fuera de combate y hacerlo trabajar de ayudante del árbitro. Por lo demás, no hay que dejar a los hombres fuera de combate, sino mandarlos de vuelta o hacerlos unirse al enemigo.
+Un juego de emboscadas en el que el que embosca puede terminar emboscado.
+
+1. La tropa se divide en dos grupos iguales, el 1 y el 2.
+2. Al grupo 1 se le da un jefe capaz. Se le dice que está en territorio enemigo y que tiene que cuidar su propia seguridad. También se le avisa que unos ciclistas enemigos van a pasar por cierto camino, a cierta hora y en cierta dirección.
+3. El grupo 1 sale y se esconde en un buen lugar para emboscar a esos ciclistas.
+4. El grupo 2 se divide en dos partes, A y B. La parte A hace de ciclistas enemigos: pasa por el camino, a la hora y en la dirección anunciadas.
+5. A la parte B se la manda dando la vuelta, desde la dirección contraria. A su guía solo se le dice que se vio un grupo enemigo en el camino y que vaya a explorar. Se le da tiempo suficiente para que, si está atento, encuentre al grupo 1 antes de que A llegue a la emboscada.
+6. Lo más probable es que el grupo 1 esté tan concentrado en esperar a A que se olvide de cuidarse las espaldas. B puede sorprenderlo, o no, y hasta puede caer él mismo en una emboscada.
+7. Hace falta un árbitro (el dirigente). Al que se exponga a lo loco frente al enemigo, el árbitro lo deja fuera de combate y lo hace trabajar como su ayudante. Fuera de ese caso, a nadie se lo elimina: al que es sorprendido se lo manda de vuelta a su punto de partida o se lo hace pasar al bando contrario.
+
+**Consejo del original:** más que un ganador, el juego busca que todos tengan que pensar y actuar rápido.
 
 ## Cierre
 - ¿El grupo 1 se acordó de cuidarse?

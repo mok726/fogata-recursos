@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -140,7 +141,15 @@ rama_rovers:
 1. Prepará cada adivinanza con diez pistas. Ejemplo, el hornero: 1) Vivo en casi todo el país. 2) Soy muy trabajador. 3) Canto a dúo. 4) Tengo pareja para toda la vida. 5) Me gustan los postes. 6) Construyo con barro. 7) Soy un ave. 8) Mi casa tiene dos cuartos. 9) Soy marrón y pecho claro. 10) Soy el ave nacional argentina.
 
 ## Cómo se juega
-Cada jugador tiene un solo intento. El que dirige describe algo en diez pistas que lo van revelando de a poco; cuando un jugador cree que sabe qué es, lo escribe junto con el número de la última pista que se dijo. Si acierta en la pista 1, suma 10; en la 2, 9; en la 9, 2, y así; si se equivoca, suma 0. Por ejemplo, para «cuervo» se podría empezar con «Un pájaro» y terminar con «Hace cra, cra». Estas pistas hay que prepararlas con mucho cuidado para que se vayan haciendo más fáciles de a poco. Se escribe para que no se ayude al que todavía está pensando desde una pista anterior.
+Un juego de adivinanzas con pistas que se van haciendo más fáciles.
+
+1. El que dirige piensa en algo (un animal, un objeto, un lugar) y prepara diez pistas, de la más difícil a la más fácil. Por ejemplo, para «cuervo»: la primera pista podría ser «Es un pájaro» y la última, «Hace cra, cra».
+2. Lee las pistas de a una.
+3. Cada jugador tiene un solo intento. Cuando cree que sabe qué es, lo escribe en un papel junto con el número de la última pista que escuchó. Se escribe para no ayudar a los que todavía están pensando.
+
+**Puntaje:** si acierta con la pista 1, suma 10 puntos; con la 2, 9; con la 9, 2; y así. Si se equivoca, suma 0. Gana el que suma más.
+
+**Para el que dirige:** las pistas hay que prepararlas con mucho cuidado para que se vayan haciendo más fáciles de a poco.
 
 ### Variante: Inventen las suyas
 Cada patrulla prepara una adivinanza de diez pistas para las demás. ¡Es lo más difícil del juego!
@@ -151,6 +160,15 @@ Cada patrulla prepara una adivinanza de diez pistas para las demás. ¡Es lo má
 ## Notas para educadores
 - Se escribe para que nadie le sople al que todavía está pensando.
 - Tiene sentido como cierre de un tema: animales del lugar, técnica scout, historia del Grupo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT AM I?**
+
+Each player has one guess. Leader describes something in ten progressive clues, whenever a player thinks he knows what it is, he writes it down with the number of the clue last spoken. If right at clue 1 he counts 10, at 2-9, at 9-2 and so on, if wrong he counts 0. E.g. Crow might start with “A bird” and end with “It says Caw-Caw.” These clues need very careful preparation to get gradually more difficult. The writing is to prevent assistance to one who is still thinking from an earlier guess.
 
 
 ## Texto original completo de la actividad

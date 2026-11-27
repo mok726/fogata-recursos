@@ -144,7 +144,14 @@ rama_rovers:
 Cada uno de los más grandes lleva a caballito a uno más chico. Los caballeros forman dos compañías y se desafían en duelos o en un combate general. Los caballeros intentan bajar al rival tirándolo; los "caballos" ayudan. Cuando el pie de un jinete toca el suelo, queda fuera. Termina cuando una compañía se quedó sin jinetes.
 
 ## Desarrollo
-Cada uno de los chicos más grandes elige a uno chico y lo lleva a "caballito". Estos caballeros montados se dividen en dos compañías que se desafían a combatir, en duelos por separado o en una pelea general. Los "caballeros" tratan de tirarse unos a otros al suelo, y los "caballos" pueden ayudar poniendo su peso en el tirón o cargando contra sus rivales. Cuando el pie de un jinete toca el suelo, no puede seguir participando del juego. El torneo termina cuando todos los jinetes de una compañía fueron desmontados.
+Un juego de caballeros y caballos: los jinetes, montados a caballito, tratan de bajar del caballo a los del otro equipo.
+
+1. Cada uno de los chicos más grandes elige a uno más chico y lo carga a caballito, es decir, en la espalda, con el chico más chico agarrado de sus hombros y las piernas a los costados. El grande es el «caballo» y el chico es el «caballero».
+2. Las parejas se dividen en dos compañías, que se desafían a combatir. Puede ser en duelos de a una pareja por vez o en una pelea general, todos contra todos.
+3. Los caballeros tratan de tirarse unos a otros al suelo. Los caballos pueden ayudar haciendo fuerza con su peso en el tirón o embistiendo contra los rivales.
+4. Cuando un caballero toca el suelo con un pie, queda eliminado y no sigue jugando.
+
+**Cómo se gana:** el torneo termina cuando todos los caballeros de una compañía fueron desmontados. Gana la otra.
 
 ## Cierre
 - ¿Cómo se coordinaban caballo y caballero?

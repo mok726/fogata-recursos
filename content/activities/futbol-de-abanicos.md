@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,12 +142,34 @@ rama_rovers:
 2. Marcá los arcos en las paredes con cinta y los lugares de cada jugador con una cruz de tiza.
 
 ## Cómo se juega
-Se marca un arco en cada punta del salón, un equipo en cada arco. Cada equipo trata, abanicando con abanicos de papel, de llevar una cáscara de huevo vaciada o una pelotita de ping-pong hasta el arco del otro; los jugadores no se pueden mover de sus lugares asignados. Al arquero se le puede permitir soplar solo con la boca.
+Un fútbol de salón muy liviano: en lugar de patear, se abanica una cáscara de huevo o una pelotita de ping-pong para meterla en el arco del otro.
 
-**Fútbol de globo:** se marca un arco en cada punta del salón. Cada equipo trata de meter un globo inflado en el arco rival. Se puede fijar como forma de moverlo soplar, abanicar o darle palmaditas. Ningún jugador puede intervenir en el juego si no tiene las dos rodillas en el piso en ese momento. Si se quiere, se les puede asignar a los jugadores lugares de los que no se pueden mover mientras el globo está en juego.
+1. Se marca un arco en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
+2. Cada jugador tiene un abanico de papel (se puede hacer doblando una hoja en acordeón).
+3. El que dirige ubica a cada jugador en un lugar de la cancha, y nadie se puede mover de ese lugar durante el juego.
+4. En el centro se pone una cáscara de huevo vaciada (se le hace un agujerito en cada punta y se sopla para sacarle el contenido) o una pelotita de ping-pong.
+5. Los jugadores abanican para que el aire empuje la cáscara hacia el arco del otro equipo. No se la puede tocar ni con el abanico ni con la mano.
+6. Al arquero se le puede permitir que, en lugar de abanicar, sople solo con la boca.
+
+**Cómo se gana:** gana el equipo que hace más goles.
+
+**Fútbol de globo (variante del original):** se marca un arco en cada punta del salón y cada equipo trata de meter un globo inflado en el arco del otro. El que dirige decide de qué forma se mueve el globo: soplándolo, abanicándolo o dándole palmaditas. Ningún jugador puede tocar el globo ni intervenir en la jugada si no tiene las dos rodillas apoyadas en el piso en ese momento. Si se quiere, también se le puede asignar a cada jugador un lugar del que no se puede mover mientras el globo está en juego.
 
 ## Para cerrar
 - ¿Cómo hicieron para que la pelotita fuera para donde querían?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**EGGSHELL FOOTBALL.**
+
+A goal is marked at each end of the room, one team to each goal. Each team tries by fanning with paper fans to urge a blown eggshell or a ping-pong ball through the other goal, the players may not move from their appointed positions. The goalkeeper may well be allowed to blow with his mouth only.
+
+**BALLOON FOOTBALL.**
+
+A goal is marked at each end of the room. Each team tries to propel an inflated balloon through its opponent’s goal. Blowing, fanning, or patting may be the prescribed method. No player may interfere with the play unless he has both knees on the floor at the time. If desired, players may be allotted positions from which they may not move while the balloon is in play.
 
 
 ## Texto original completo de la actividad

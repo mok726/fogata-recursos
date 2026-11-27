@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,30 @@ rama_rovers:
 # La Tribu Ciega
 
 ## Cómo se juega
-Los jugadores se ubican en ronda de modo que, con los brazos estirados, se toquen apenas las puntas de los dedos, y con los ojos vendados. Otros dos jugadores se ponen en el centro, atados como en una carrera de tres piernas, pero sin venda. Las víctimas tratan de salir de la ronda sin que los ciegos las toquen; los ciegos pueden estirar los brazos, pero no moverse de su lugar.
+Un juego de ronda en el que dos jugadores atados tienen que escaparse de una «tribu» de jugadores con los ojos vendados.
+
+1. Los jugadores forman una ronda, separados de modo que, con los brazos estirados hacia los costados, se toquen apenas las puntas de los dedos con los vecinos. Todos se vendan los ojos: son la tribu ciega.
+2. En el centro se ponen otros dos jugadores, sin venda: son las víctimas. Van atados como en una carrera de tres piernas, es decir, uno al lado del otro, con el tobillo derecho de uno atado al tobillo izquierdo del otro.
+3. A la señal, las víctimas tratan de salir de la ronda pasando entre los ciegos sin que las toquen. Tienen que moverse juntas y en silencio, porque los ciegos se guían por el oído.
+4. Los ciegos pueden estirar los brazos y agacharse para tocarlas, pero no pueden mover los pies de su lugar.
+5. Si un ciego toca a una de las víctimas, quedan atrapadas. Después se eligen otras dos víctimas.
+
+**Cómo se gana:** las víctimas ganan si logran salir de la ronda sin que las toquen.
 
 ## Para cerrar
 - ¿Por qué era tan difícil para los del medio moverse en silencio?
 
 ## Notas para educadores
 - El nudo del tobillo tiene que ser flojo y de pañuelo, nunca de soga.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND TRIBE.**
+
+Players in circle so that, with arms extended, their fingers just touch, and blindfold. Two other players in centre tied as in a 3-legged race but not blindfold. The victims try to get out of the circle without being touched by the blind men, who may reach out but must not move from their original positions.
 
 
 ## Texto original completo de la actividad

@@ -149,7 +149,23 @@ rama_rovers:
 Uno se queda en un claro y los demás se esconden lo más cerca posible. El árbitro tira la pelota al claro: el del centro la patea afuera y sale a atrapar a quien encuentre. Pero si alguien patea la pelota de vuelta al claro, tiene que volver a sacarla. Mientras la pelota está quieta en el claro, nadie puede ser atrapado. Los atrapados se suman al cazador.
 
 ## Desarrollo
-Este juego se juega mejor en un claro del bosque, pero también se puede jugar en un campo abierto. Un scout se ubica en el claro y el resto busca un escondite lo más cerca posible. El dirigente u otra persona que haga de árbitro hace rodar una pelota de fútbol hacia el claro. El scout que está adentro enseguida la patea afuera y sale corriendo a "manchar" a cualquier otro scout que pueda encontrar y atrapar; pero apenas la pelota vuelve pateada al claro, tiene que volver y sacarla de nuevo. A ningún scout se lo puede "manchar" mientras la pelota está quieta en el claro. El árbitro mira la pelota y, apenas se queda quieta dentro del claro, toca el silbato para indicarlo. Mientras el scout vuelve a patear la pelota afuera, los demás pueden cambiar de posición o buscar escondites nuevos. Los scouts atrapados se sacan el pañuelo o se ponen un pañuelo blanco en un brazo, y después ayudan a su captor a atrapar a otros scouts; pero no pueden patear la pelota, y tienen que volver al claro cada vez que suena el silbato. Gana el scout atrapado último. En un campo abierto, el claro se indica con una marca blanca en el pasto o con postes en las esquinas, y los scouts tienen que evitar la captura más esquivando que buscando dónde esconderse. Como variante, las patrullas pueden "tener" el claro una tras otra e intentar capturar al resto de la tropa en el menor tiempo posible. Solo el guía puede patear la pelota fuera del claro. Gana la patrulla que tarda menos. En esta variante, los scouts atrapados no siguen participando del juego, y por eso no es tan adecuada para un día frío de invierno.
+Un juego de mancha y escondite alrededor de una pelota: el que está en el claro tiene que manchar a los demás, pero cada vez que la pelota vuelve a entrar, debe dejar todo y salir a patearla.
+
+Antes de empezar conviene aclarar dos palabras. El **claro** es el espacio libre en el medio del bosque (o, en un campo abierto, un cuadrado marcado en el pasto) donde se pone la pelota. **Manchar** es tocar a otro jugador con la mano para atraparlo.
+
+1. Un jugador se ubica dentro del claro. Todos los demás se esconden lo más cerca que puedan, detrás de árboles, arbustos o lo que haya.
+2. El dirigente, o la persona que hace de árbitro, hace rodar una pelota de fútbol hacia el claro.
+3. El que está en el claro enseguida la patea bien afuera y sale corriendo a buscar y manchar a cualquier jugador que encuentre.
+4. Los escondidos tratan de volver a patear la pelota adentro del claro. Mientras la pelota está quieta dentro del claro, no se puede manchar a nadie.
+5. El árbitro vigila la pelota: apenas se queda quieta adentro del claro, toca el silbato. Al escucharlo, el que mancha tiene que volver al claro y patearla otra vez hacia afuera.
+6. Mientras él vuelve a patear, los demás aprovechan para cambiar de posición o buscar escondites nuevos.
+7. El que es manchado se saca el pañuelo (o se ata un pañuelo blanco en el brazo, para que se lo reconozca) y pasa a ayudar al que mancha. Los atrapados no pueden patear la pelota, y también tienen que volver al claro cada vez que suena el silbato.
+
+**Cómo se gana:** gana el último jugador que queda sin ser atrapado.
+
+**En campo abierto (variante del original):** si no hay bosque, el claro se marca con una línea blanca en el pasto o con estacas en las esquinas. Como no hay dónde esconderse, los jugadores se salvan más esquivando y corriendo que escondiéndose.
+
+**Por patrullas (variante del original):** las patrullas pasan una tras otra a «tener» el claro, es decir, a ser las que manchan, y tratan de atrapar al resto de la tropa en el menor tiempo posible. Solo el guía de la patrulla puede patear la pelota fuera del claro. En esta variante los atrapados quedan eliminados y no siguen jugando; por eso, como se quedan quietos mirando, no es tan buena para un día frío de invierno. Gana la patrulla que atrapa a todos en menos tiempo.
 
 ### Variante: Por patrullas
 Cada patrulla, por turno, "tiene" el claro y trata de atrapar a toda la tropa en el menor tiempo. Solo el guía patea la pelota.

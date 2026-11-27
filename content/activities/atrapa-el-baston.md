@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,17 +138,40 @@ rama_rovers:
 # El Bastón que Cae
 
 ## Cómo se juega
-Los jugadores sentados en el piso en ronda, cada uno con un número. El que dirige, en el centro, mantiene un bastón parado, con un dedo apoyado arriba; dice un número y saca el dedo. El jugador que tiene ese número tiene que agarrar el bastón antes de que caiga; si no lo logra, pierde una vida. Los números tienen que estar mezclados en la ronda.
+Un juego de reflejos: hay que agarrar el bastón antes de que caiga al piso cuando dicen tu número.
 
-**Variante:** cada jugador tiene además un pájaro o un animal asignado, y tiene que hacer el sonido de ese animal cuando agarra el bastón.
+1. Los jugadores se sientan en el piso, en ronda, y a cada uno se le da un número. Los números se reparten mezclados, no en orden, para que nadie sepa dónde le toca al siguiente.
+2. El que dirige se para en el centro con un bastón scout parado en el piso, sosteniéndolo derecho solo con un dedo apoyado en la punta de arriba.
+3. De golpe dice un número y saca el dedo.
+4. El jugador que tiene ese número tiene que levantarse, correr y agarrar el bastón antes de que caiga al piso.
+5. Si no llega, pierde una vida. Se acuerda antes cuántas vidas tiene cada uno (por ejemplo, tres).
 
-**Atrapá el globo:** los jugadores sentados en el piso en ronda, numerados pero no en orden. El que dirige, en el centro, tiene un globo chico; al soltarlo dice un número. El jugador que tiene ese número trata de agarrar el globo antes de que toque el piso.
+**Cómo se gana:** gana el que termina con más vidas, o el último que todavía tiene alguna.
+
+**Con animales (variante del original):** además del número, a cada jugador se le asigna un pájaro o un animal. Cuando agarra el bastón tiene que hacer el sonido correcto de su animal; si se equivoca o se olvida, también pierde una vida.
+
+**Atrapá el globo (otro juego del original, parecido):** los jugadores se sientan en el piso en ronda, numerados pero no en orden. El que dirige se para en el centro con un globo chico inflado en la mano. Lo suelta y, al mismo tiempo, dice un número. El jugador que tiene ese número trata de agarrar el globo antes de que toque el piso.
 
 ## Para cerrar
 - ¿Qué fue más difícil: escuchar el número o ser rápido?
 
 ## Notas para educadores
 - La ronda no debería ser muy grande: con un radio de unos dos metros todos tienen chance.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DROPPING STAFF.**
+
+Players sitting on floor in a circle, each with a number. Leader in centre balances a staff erect with finger on top, calls a number and removes finger. Player with that number must catch the staff before it drops, if he fails he loses one life. Numbers should be haphazard about the circle.
+
+Variation.-Each player also has a bird or animal allotted him, and must make the animal's correct noise as he catches the staff.
+
+**CATCH THE BALLOON.**
+
+Players seated on floor in circle, numbered but not in sequence. Leader in centre holds a small balloon, and as he drops it he calls a number. The player with that number tries to catch the balloon before it touches the floor.
 
 
 ## Texto original completo de la actividad

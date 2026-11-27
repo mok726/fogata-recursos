@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,7 +137,14 @@ rama_rovers:
 # El Scout Perdido
 
 ## Cómo se juega
-Se manda a un jugador fuera del salón sin que nadie lo note; después el que dirige anuncia que ve que falta alguien y pide una descripción para el grupo de búsqueda. Gana la mejor descripción del jugador que falta y de su ropa.
+Un juego de observación de los compañeros.
+
+1. En medio de la reunión, el que dirige manda a un jugador fuera del salón sin que los demás lo noten.
+2. Después anuncia: «Falta alguien. Para el grupo de búsqueda necesito una descripción de cómo es y de qué ropa tiene puesta».
+3. Cada jugador o cada equipo escribe la descripción del que falta: quién es, cómo es, qué ropa lleva, de qué color.
+4. El que salió vuelve a entrar y se comparan las descripciones.
+
+**Cómo se gana:** gana la descripción más exacta del compañero y de su ropa.
 
 ## Para cerrar
 - ¿Qué detalles fueron los más difíciles de recordar?
@@ -145,6 +153,15 @@ Se manda a un jugador fuera del salón sin que nadie lo note; después el que di
 ## Notas para educadores
 - Buena entrada para hablar de qué hacer si alguien se pierde en un campamento o en la calle, y de la importancia de avisar enseguida a un adulto.
 - Elegí a alguien que no se ponga incómodo con ser el centro de atención.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOST SCOUT.**
+
+One player is sent out of the room in an unobtrusive manner; the leader then announces that he sees that someone is missing and asks for a description for a search party. Best description of missing player and his clothes wins.
 
 
 ## Texto original completo de la actividad

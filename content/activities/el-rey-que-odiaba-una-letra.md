@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,31 @@ rama_rovers:
 # El Gran Mogol
 
 ## Cómo se juega
-Los jugadores en ronda; uno es el Gran Mogol y anuncia que no soporta nada que tenga, por ejemplo, la letra R. Después le pregunta a cada jugador, por turno, qué le va a dar de cenar, y cada uno tiene que contestar con una comida o una bebida que no tenga la letra R. Los que dudan quedan afuera; los que dicen una palabra con R pierden una vida, y con tres vidas perdidas se sale. Conviene cambiar seguido la letra, el Mogol y la forma de la pregunta.
+Un juego de ronda: hay que contestar sin usar una letra prohibida.
+
+1. Los jugadores se sientan en ronda. Uno es el Gran Mogol (un emperador muy caprichoso) y se para en el medio.
+2. El Gran Mogol anuncia que no soporta una letra, por ejemplo la R.
+3. Después le pregunta a cada jugador, por turno: «¿Qué me vas a dar de cenar?».
+4. Cada uno tiene que contestar enseguida con una comida o bebida que no tenga esa letra: «fideos» sirve, pero «arroz» no.
+5. El que duda demasiado queda afuera. El que dice una comida con la letra prohibida pierde una vida; con tres vidas perdidas, sale.
+6. Conviene cambiar seguido la letra, el Gran Mogol y la pregunta («¿Qué me regalás?», «¿Qué llevo de viaje?»).
+
+**Cómo se gana:** gana el último que queda.
 
 ## Para cerrar
 - ¿Qué letras eran más difíciles de evitar? ¿Por qué? (Las vocales.)
 
 ## Notas para educadores
 - Con lobatos, el Rey puede odiar una letra fácil de evitar, como la Z o la J.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GRAND MOGUL.**
+
+Players in circle, one player is the Grand Mogul and he states that he has an aversion to anything with the letter (say) D in it. He then asks each player in turn what he will give him for dinner and each must answer some food or drink which does not contain the letter D. Hesitaters are counted out, those saying a word with D lose a life, and three lives lost is death. Letter, Mogul, and form of question should change frequently.
 
 
 ## Texto original completo de la actividad

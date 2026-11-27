@@ -143,7 +143,19 @@ rama_rovers:
 Un scout elegido sale con dos minutos de ventaja. Dos de la patrulla lo siguen de cerca; los demás esperan sin mirar. Pasados los dos minutos, uno de los dos perseguidores vuelve a buscar al resto, mientras el otro no le pierde pisada y deja marcas de tiza para mostrar el camino. Si el perseguido se mantiene lejos el tiempo acordado, gana.
 
 ## Desarrollo
-El guía elige a un scout para que sea perseguido; luego toda la patrulla se reúne en una calle bastante tranquila de una ciudad. Al scout elegido se le dan dos minutos de ventaja, mientras los demás se esconden y no lo miran durante ese tiempo, salvo dos, que lo siguen de cerca. Pasados los dos minutos, uno de ellos vuelve corriendo y trae al resto de la patrulla, pisándole los talones al perseguido. Mientras tanto, el otro perseguidor no le pierde pisada con cuidado y tenacidad, y perseguidor y perseguido van al menos cuatro o cinco minutos adelante del resto. Para mostrar hacia dónde fueron, el scout que persigue tira papel picado o hace marcas de tiza hasta que los demás lo alcanzan. Todos tienen que estar, por supuesto, bien entrenados en correr y en usar su técnica scout, y el perseguido puede usar muchas mañas para despistar a sus perseguidores. Hay que acordar de antemano que si se mantiene lejos durante cierto tiempo, gana el juego.
+Un juego de persecución por las calles de la ciudad: una patrulla tiene que seguirle el rastro a un compañero que intenta perderse.
+
+1. El guía de patrulla elige a un jugador para que sea el perseguido. Toda la patrulla se reúne en una calle bastante tranquila.
+2. Al perseguido se le dan dos minutos de ventaja. Durante ese tiempo, el resto de la patrulla se esconde y no lo mira, salvo dos jugadores que lo siguen de cerca.
+3. Pasados los dos minutos, uno de esos dos vuelve corriendo a buscar al resto de la patrulla y la guía tras el perseguido.
+4. Mientras tanto, el otro perseguidor no le pierde pisada al perseguido, con cuidado y paciencia. Los dos van por lo menos cuatro o cinco minutos adelante del resto.
+5. Para que los demás sepan por dónde fueron, el perseguidor va tirando papel picado o haciendo marcas con tiza, hasta que la patrulla lo alcanza.
+6. El perseguido puede usar todas las mañas que se le ocurran para despistar a los que lo siguen.
+7. Antes de empezar se acuerda un tiempo límite.
+
+**Cómo se gana:** si el perseguido logra mantenerse lejos durante todo el tiempo acordado, gana él. Si lo alcanzan antes, gana la patrulla.
+
+**Consejo del original:** todos tienen que estar bien entrenados para correr y para usar sus técnicas scouts.
 
 ## Cierre
 - ¿Qué marcas fueron más fáciles de seguir?

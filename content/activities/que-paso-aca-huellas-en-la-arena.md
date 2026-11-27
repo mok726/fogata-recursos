@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -145,7 +146,15 @@ rama_rovers:
 2. Planeá una escena corta con cuatro o cinco acciones claras.
 
 ## Cómo se juega
-Se representa una escena simple sobre una franja de arena o de otro terreno preparado. Cada equipo puede estudiar las huellas durante unos minutos y después da su informe. Después se vuelve a representar la escena.
+Un juego de rastreo: leer en el suelo lo que pasó.
+
+1. Se prepara una franja de arena o de tierra suelta y alisada.
+2. Sin que los jugadores miren, uno o dos dirigentes representan ahí una escena simple: por ejemplo, alguien camina, se para, deja caer algo, otro llega corriendo, se pelean, uno se va arrastrando un pie.
+3. Cada equipo puede estudiar las huellas durante unos minutos, sin pisarlas.
+4. Después cada equipo da su informe: qué cree que pasó y por qué.
+5. Al final se vuelve a representar la escena delante de todos para comparar.
+
+**Cómo se gana:** gana el equipo que mejor reconstruye lo que pasó.
 
 ## Para cerrar
 - ¿En qué se nota en la huella si alguien corre o camina?
@@ -154,6 +163,15 @@ Se representa una escena simple sobre una franja de arena o de otro terreno prep
 ## Notas para educadores
 - Antes del juego, mostrá cómo cambia la huella al caminar, correr, cargar peso o caminar para atrás.
 - Combina con las fichas de rastreo de B-P (Dibujá la Huella, Memoria de Huellas).
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SAND TRACK PROBLEMS.**
+
+A simple scene is performed on a sand track or other prepared ground. Each team is allowed to study the tracks for a few minutes and then gives its report. The scene is then re- enacted.
 
 
 ## Texto original completo de la actividad

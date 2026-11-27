@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,25 @@ rama_rovers:
 # Atrapen a la Liebre
 
 ## Cómo se juega
-Los jugadores en ronda, tomados de las manos; la «liebre», adentro, y dos «perros», afuera. Los perros tratan de atrapar a la liebre; los de la ronda dejan entrar o salir a la liebre cuando quieren, pero no dejan pasar a los perros, o se lo hacen difícil, para ayudar lo más posible a la liebre.
+Un juego de persecución en ronda en el que todos ayudan a la liebre a escaparse de los perros.
+
+1. Los jugadores forman una ronda tomados de las manos. Un jugador, la «liebre», se pone adentro de la ronda. Otros dos, los «perros», se ponen afuera.
+2. A la señal, los perros tratan de atrapar a la liebre, es decir, de tocarla.
+3. Los de la ronda están del lado de la liebre: la dejan entrar y salir cuando quiere, levantando los brazos para que pase por debajo.
+4. En cambio, a los perros les cierran el paso o se lo hacen difícil: bajan los brazos, se juntan, se mueven para taparlos, siempre sin soltarse las manos.
+5. Cuando los perros atrapan a la liebre, se eligen otra liebre y otros dos perros.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo los de la ronda para proteger a la liebre?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CATCH THE HARE.**
+
+Players in circle join hands, “hare” inside, two “hounds,” outside. Hounds try to catch hare, players in circle let hare in or out at will, but prevent or hinder the hounds to best aid the hare.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,14 @@ rama_rovers:
 # Cambiar Palabras
 
 ## Cómo se juega
-Se elige una palabra corta, por ejemplo «casa», y cambiando una letra por vez los jugadores la tienen que transformar en otra palabra del mismo largo, por ejemplo «mesa». En cada paso se tiene que formar una palabra que exista: casa, masa, mesa. Gana el jugador que lo logra en menos pasos. Sirven palabras de 5, 6 o 7 letras.
+Un juego de palabras para hacer en papel.
+
+1. El que dirige elige dos palabras del mismo largo: la de salida y la de llegada. Por ejemplo, «casa» y «mesa».
+2. Cada jugador tiene que ir de una a otra cambiando una sola letra por paso.
+3. En cada paso tiene que quedar una palabra que exista. Por ejemplo: casa → masa → mesa.
+4. No se vale cambiar dos letras a la vez ni cambiar las letras de lugar.
+
+**Cómo se gana:** gana el que llega a la palabra final en menos pasos. Conviene empezar con palabras cortas y después pasar a palabras de 5, 6 o 7 letras.
 
 ### Variante: Más largas
 Para Scouts y Caminantes, usen palabras de cinco o seis letras.
@@ -150,6 +158,15 @@ Que la palabra de llegada sea de campamento: de LOBO a LOMA, de PALO a PANA, de 
 
 ## Notas para educadores
 - Tené a mano algunas escaleras ya resueltas, por si nadie llega.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CHANGING WORDS.**
+
+A short word is chosen, say “jam,” and by altering one letter at a time the players change it to another word of the same length, say “rug.” At each stage a word must be formed, e.g. jam, ram, rag, rug. The player doing it in fewest stages wins. 5, 6, 7, letter words are suitable.
 
 
 ## Texto original completo de la actividad

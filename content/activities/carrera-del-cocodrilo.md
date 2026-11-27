@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,30 @@ rama_rovers:
 # Carrera del Cocodrilo
 
 ## Cómo se juega
-Los equipos en fila india, en cuclillas con las rodillas bien dobladas y las manos en los hombros del de adelante. Cada equipo, en esa posición, avanza saltando hasta un lugar dado y vuelve; si se cae, tiene que volver al punto de partida, volver a formarse y probar otra vez. El recorrido no tiene que ser muy largo. Gana el primer equipo que termina entero.
+Una carrera en la que todo el equipo avanza junto, en cuclillas, como un cocodrilo largo.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Todos se ponen en cuclillas, con las rodillas bien dobladas, y apoyan las manos en los hombros del compañero de adelante. Así el equipo queda unido como un solo animal.
+3. Enfrente se marca un lugar, no muy lejos.
+4. A la señal, cada equipo avanza saltando en esa posición, sin soltarse, hasta el lugar marcado, y vuelve.
+5. Si el cocodrilo se cae o se suelta, el equipo tiene que volver al punto de partida, volver a formarse y empezar de nuevo.
+
+**Cómo se gana:** gana el primer equipo que termina el recorrido entero, sin cortarse.
 
 ## Para cerrar
 - ¿Qué pasó cuando cada uno saltaba a su ritmo?
 
 ## Notas para educadores
 - Que el recorrido sea corto: es un ejercicio muy cansador para las rodillas.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CROCODILE RACE.**
+
+Teams in file, squatting at the deep knees-bend position, hands on the shoulders of the player in front. Each team in that position hops forward to a given place and back; if it falls over it must return to the start, reform, and try again. Course should not be very long. First team to finish intact wins.
 
 
 ## Texto original completo de la actividad

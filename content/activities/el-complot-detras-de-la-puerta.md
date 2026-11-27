@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,7 +143,13 @@ rama_rovers:
 2. Que los dos dirigentes lo ensayen una vez y cambien un poco la voz.
 
 ## Cómo se juega
-Durante la reunión se escuchan del otro lado de la puerta dos voces roncas y fuertes que traman algo. Cuando terminan, se le pide a cada equipo un informe para la policía. No se avisa nada antes, pero el que dirige pide silencio apenas se empieza a escuchar el complot.
+Un juego de atención y memoria auditiva, que se hace por sorpresa.
+
+1. En medio de la reunión, sin avisar, dos personas (dirigentes o ayudantes) se ponen del otro lado de la puerta y hablan en voz alta y ronca, como si estuvieran planeando algo: un robo, una fuga, una broma.
+2. Apenas se empieza a escuchar el complot, el que dirige pide silencio para que todos puedan oír.
+3. Cuando los que conspiran terminan, se le pide a cada equipo un informe para la policía: qué planeaban, cuándo, dónde, cuántos eran, cómo hablaban.
+
+**Cómo se gana:** gana el informe más completo y exacto.
 
 ## Para cerrar
 - ¿Por qué cada patrulla escuchó cosas un poco distintas?
@@ -151,6 +158,15 @@ Durante la reunión se escuchan del otro lado de la puerta dos voces roncas y fu
 ## Notas para educadores
 - Que el «plan» sea gracioso y no dé miedo: nada de violencia ni amenazas.
 - Sirve para hablar de rumores y de la diferencia entre lo que se escuchó y lo que se interpretó.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OVERHEARD PLOT.**
+
+During the meeting two loud hoarse voices are heard plotting outside the door. Each team, after they have finished, is asked to produce a report for the police. No warning should be given, but the leader calls for silence as soon as the plotting is first heard.
 
 
 ## Texto original completo de la actividad

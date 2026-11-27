@@ -154,7 +154,23 @@ Un mensajero llega al campamento: vio a un compañero "herido" tirado en el terr
 2. Escondé al "herido" en un lugar bastante oculto. Puede ser una persona o, mejor, un muñeco o bolsa de dormir rellena.
 
 ## Desarrollo
-Un día, mientras todo el campamento se divierte, llega un mensajero y le cuenta a un guía que, mientras el enemigo lo perseguía del lado de ellos de la frontera, vio a uno de sus hombres tirado en el suelo, herido, y no pudo prestarle ninguna ayuda. Entonces el guía les cuenta a sus hombres la mala noticia y pide un voluntario para que vaya a traer, o intente traer, a su compañero de vuelta al campamento. Así se encuentra al "Héroe de la Cruz Roja". Su tarea es encontrar al herido (al que se habrá ubicado de antemano en un lugar bastante escondido) y después llevarlo de vuelta al campamento, sin ser capturado por los scouts rivales. Este juego necesita un scout con cabeza y recursos para hacer el papel de "Héroe de la Cruz Roja", porque se supone que está en un país hostil con un herido al que tiene que llevar de vuelta al campamento. Si lo ven, tiene que tratar de esquivarlos. Dos enemigos tienen que agarrarlo para que quede capturado. Es un juego que pondrá seriamente a prueba los recursos del scout. Por ejemplo, si lo apuran, podría ser lo bastante despierto como para dejar a su compañero completamente escondido hasta haber despistado a sus perseguidores. Cuando el scout herido ya está escondido, todos los que puedan dejar el campamento deberían salir a hacer de enemigo; después uno llega como mensajero y describe más o menos dónde está el herido. Podría haber varios heridos y varios héroes de la Cruz Roja, si el número del enemigo alcanza.
+Un juego de campamento en el que un voluntario tiene que encontrar a un compañero «herido» y traerlo de vuelta sin que lo atrape el enemigo.
+
+**La historia:** mientras todo el campamento se divierte, llega un mensajero y le cuenta a un guía de patrulla que, perseguido por el enemigo, vio a uno de sus scouts tirado en el suelo, herido, y no pudo ayudarlo. El guía les cuenta a los suyos la mala noticia y pide un voluntario que vaya a buscarlo. Ese voluntario es el «Héroe de la Cruz Roja».
+
+1. Antes de empezar, el que dirige esconde al scout que hace de herido en un lugar bastante escondido.
+2. Todos los que se puedan dejar en el campamento salen a hacer de enemigo y se reparten por el terreno.
+3. Después, uno de ellos llega al campamento como mensajero, cuenta la historia y describe más o menos dónde está el herido.
+4. El guía pide un voluntario. El Héroe de la Cruz Roja sale a encontrar al herido y traerlo de vuelta al campamento, cargándolo o ayudándolo a caminar.
+5. Se supone que está en territorio enemigo. Si lo ven, tiene que tratar de esquivar a los perseguidores.
+6. Para capturarlo hace falta que lo agarren dos enemigos. Uno solo no alcanza.
+7. Puede usar la cabeza: por ejemplo, si lo apuran, puede dejar al herido bien escondido, despistar a los que lo siguen y volver a buscarlo después.
+
+**Cómo se gana:** el Héroe gana si llega al campamento con el herido sin que lo capturen. El enemigo gana si lo atrapa.
+
+**Varios héroes (variante del original):** si hay suficientes jugadores haciendo de enemigo, puede haber varios heridos escondidos y varios héroes buscándolos al mismo tiempo.
+
+**Consejo del original:** para hacer de héroe conviene elegir a un scout con cabeza y recursos, porque el juego pone muy a prueba su ingenio.
 
 ## Cierre
 - ¿Cómo se organizaron para cargar la camilla?

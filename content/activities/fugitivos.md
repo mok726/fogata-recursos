@@ -149,7 +149,18 @@ rama_rovers:
 Cada scout lleva un número en la espalda. Uno es el fugitivo: sale con diez minutos de ventaja dejando un rastro. Los demás lo siguen. Si un cazador se acerca sin ser visto y le lee el número, lo atrapó. Pero si el fugitivo lee el número de un cazador, ese cazador queda fuera.
 
 ## Desarrollo
-Este es un juego scout que a los guías les va a resultar útil cuando trabajen con su patrulla, aparte del resto de la tropa. Cada scout de la patrulla lleva prendido en la espalda de la camisa o del buzo un disco redondo de cartón blanco con un número bien impreso. Se elige a un miembro de la patrulla como "fugitivo", y el resto hace de cazadores. El "fugitivo", que lleva hierros de rastreo o deja algún tipo de rastro tras de sí, sale con, digamos, diez minutos de ventaja. Luego sale el resto de la patrulla y trata de seguirle el rastro. Apenas un "cazador" logra acercarse lo suficiente al "fugitivo", sin ser visto, como para anotar su número, este queda atrapado. Pero si el "fugitivo" logra, de cualquier forma, dar vuelta la situación y anotar los números de alguno de sus perseguidores, estos quedan fuera de combate. Apenas se anota un número, el scout que lo anotó tiene que gritarlo, para que su prisionero sepa que quedó fuera. Este juego exige un acecho cuidadoso, y no hay "juego brusco" del tipo de golpear los tobillos. Para fugitivo conviene elegir a un scout despierto de la patrulla, porque no solo tiene que eludir a quizás seis o siete perseguidores, sino que además tiene que tratar de "capturarlos", si no quiere que lo "maten" a él.
+Un juego de rastreo y acecho para una patrulla sola: todos persiguen a un fugitivo, pero el fugitivo también puede «cazar» a sus perseguidores.
+
+1. Cada scout lleva prendido en la espalda de la camisa o del buzo un disco de cartón blanco con un número grande y bien claro.
+2. Se elige a un scout como «fugitivo». Los demás son los «cazadores».
+3. El fugitivo va dejando un rastro para que lo puedan seguir: marcas en el suelo, señales de rastreo o cualquier otra pista. El original habla de «hierros de rastreo», unas suelas especiales que dejan una huella fácil de reconocer.
+4. El fugitivo sale con unos diez minutos de ventaja. Después salen los cazadores siguiendo el rastro.
+5. Si un cazador logra acercarse sin ser visto hasta poder leer el número del fugitivo, el fugitivo queda atrapado.
+6. Pero si el fugitivo logra leer el número de alguno de sus perseguidores, ese perseguidor queda eliminado.
+7. El que lee un número lo tiene que gritar en voz alta, para que el otro sepa que quedó afuera.
+8. Todo se resuelve acechando con cuidado: no se vale el juego brusco, como agarrarse o patearse los tobillos.
+
+**Consejo del original:** para fugitivo conviene elegir a un scout despierto, porque tiene que escaparse de seis o siete perseguidores y además tratar de «capturarlos» antes de que lo atrapen a él.
 
 ## Cierre
 - ¿Cómo se acercaron sin que el fugitivo los viera?

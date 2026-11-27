@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,13 @@ rama_rovers:
 # Reproducir la Imagen
 
 ## Cómo se juega
-Cada jugador mira una postal (o una foto) durante un minuto; después de unos minutos de algo que lo distraiga mucho, trata de reproducir los puntos principales de la imagen.
+Un juego para entrenar la memoria visual.
+
+1. Cada jugador mira una postal o una foto durante un minuto.
+2. Se la guarda, y durante unos minutos se hace algo que distraiga mucho: un juego movido, una canción, una carrera.
+3. Después, cada jugador trata de dibujar o de describir por escrito los puntos más importantes de la imagen: qué había, dónde estaba cada cosa, los colores.
+
+**Cómo se gana:** se compara con la postal y gana el que recordó más detalles importantes.
 
 ### Variante: Por patrullas
 Toda la patrulla mira la misma imagen y después la dibuja entre todos, cada uno aportando lo que recuerda.
@@ -148,6 +155,15 @@ Toda la patrulla mira la misma imagen y después la dibuja entre todos, cada uno
 
 ## Notas para educadores
 - No importa si dibujan lindo: se valora lo que recordaron. Aclaralo al principio para que nadie se frene.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PICTURE REPRODUCTIONS.**
+
+Each player looks at a picture postcard for a minute, after a few minutes violent counter-attraction he tries to reproduce the essential points of the picture.
 
 
 ## Texto original completo de la actividad

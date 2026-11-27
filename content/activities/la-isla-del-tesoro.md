@@ -151,7 +151,20 @@ rama_rovers:
 Hay un tesoro escondido en una isla o un tramo de costa, y quien lo escondió dejó un mapa con pistas (rumbos de brújula, marcas). El mapa está escondido cerca del desembarco. Las patrullas, por turno, reman desde cierta distancia, desembarcan, encuentran el mapa y después el tesoro. Gana la que vuelve con el tesoro en menos tiempo.
 
 ## Desarrollo
-Se sabe que hay un tesoro escondido en cierta isla o en un pedazo de costa delimitado, y el hombre que lo escondió dejó un mapa con pistas para encontrarlo (rumbos de brújula, marcas de la marea, etc.). Este mapa está escondido en algún lugar cerca del desembarcadero; las patrullas van por turno a buscarlo: tienen que remar desde cierta distancia, desembarcar, encontrar el mapa y finalmente descubrir el tesoro. Tienen que tener cuidado de no dejar huellas, etc., cerca del tesoro, porque si no, las patrullas que los siguen lo van a encontrar fácilmente. Cuando las encontraron, el mapa y el tesoro se vuelven a esconder para la patrulla siguiente. Gana la patrulla que vuelve al punto de partida con el tesoro en el menor tiempo. (Esto se puede jugar en un río: las patrullas tienen que cruzar el río remando para encontrar el tesoro).
+Un juego de búsqueda en el agua: cada patrulla rema hasta una isla, encuentra un mapa y con él descubre un tesoro.
+
+**La historia:** se sabe que hay un tesoro escondido en una isla o en un tramo de costa, y el que lo escondió dejó un mapa con pistas para encontrarlo.
+
+1. Se delimita la isla o el tramo de costa donde se va a jugar.
+2. El que dirige esconde el tesoro y prepara un mapa con pistas para llegar a él: rumbos de brújula, marcas que deja la marea, referencias del lugar, etc.
+3. Esconde el mapa en algún lugar cerca del sitio donde se desembarca.
+4. Las patrullas juegan por turno. Cada una sale remando desde un punto fijo, desembarca, busca el mapa y con él encuentra el tesoro. Después vuelve al punto de partida.
+5. Hay que tener cuidado de no dejar huellas cerca del tesoro, porque si no, las patrullas siguientes lo encuentran enseguida.
+6. Cuando una patrulla termina, se vuelven a esconder el mapa y el tesoro para la siguiente.
+
+**Cómo se gana:** se toma el tiempo de cada patrulla. Gana la que vuelve al punto de partida con el tesoro en menos tiempo.
+
+**En un río (variante del original):** se puede jugar en un río, y las patrullas tienen que cruzarlo remando para buscar el tesoro en la otra orilla.
 
 ### Variante: En tierra
 Sin botes, la "travesía" puede ser cruzar un puente o recorrer un sendero hasta una zona marcada como "isla".

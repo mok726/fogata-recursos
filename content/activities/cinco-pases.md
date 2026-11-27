@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,31 @@ rama_rovers:
 # Nueces y Pasas
 
 ## Cómo se juega
-Dos equipos; uno trata de pasarse una pelota de fútbol entre sus integrantes y el otro trata de interceptarla. Se suma un punto por 5 pases seguidos limpios, sin que se caiga la pelota. Nadie puede tener la pelota más de 5 segundos ni dar más de 5 pasos con ella; no se permite quitarla con el cuerpo, solo interceptarla. El primero que toca una pelota caída la puede levantar sin que lo molesten. Gana el equipo con más puntos en, por ejemplo, 8 minutos.
+Un juego de pases por equipos: un equipo trata de pasarse la pelota cinco veces seguidas sin perderla, y el otro trata de cortarle los pases.
+
+1. Se arman dos equipos. Uno tiene la pelota (puede ser una de fútbol) y se la va pasando entre sus jugadores, con la mano. El otro equipo trata de interceptarla.
+2. Cada vez que el equipo que ataca hace 5 pases seguidos limpios, sin que se le caiga la pelota y sin que el otro la toque, suma un punto.
+3. Ningún jugador puede quedarse con la pelota más de 5 segundos ni dar más de 5 pasos con ella: la tiene que pasar.
+4. No se vale quitar la pelota con el cuerpo, empujar ni agarrar al que la tiene. Solo se puede cortar el pase, interceptando la pelota en el aire.
+5. Si la pelota se cae al piso, el primer jugador que la toca la puede levantar sin que nadie lo moleste, y su equipo se queda con la pelota.
+6. Se juega durante un tiempo fijo, por ejemplo 8 minutos.
+
+**Cómo se gana:** gana el equipo que suma más puntos en ese tiempo.
 
 ## Para cerrar
 - ¿Qué hacían los que no tenían la pelota para ayudar?
 
 ## Notas para educadores
 - Pedí que los pases se den a todos los compañeros, no siempre a los mismos. Podés exigir que los cinco pases vayan a cinco jugadores distintos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**NUTS AND RAISINS.**
+
+Two teams; one team tries to pass a football about among its own members, the other trying to intercept. A point is scored for 5 clear undropped consecutive passes. No player may hold the ball for more than 5 seconds or paces; no tackling, only interception is allowed. The first player to touch a dropped ball may pick it up unmolested. Team with most points in (say) 8 minutes wins.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,26 @@ rama_rovers:
 # El que Habla Más Rápido
 
 ## Cómo se juega
-Dos jugadores se paran frente a frente delante de los demás y tienen que dirigirse un discurso el uno al otro, lo más rápido que puedan, sobre el tema que quieran. No se permiten gestos. Pierde el primero que hace una pausa o se ríe. Si ninguno se quiebra en dos minutos, el ganador se decide por votación de los demás.
+Un duelo de palabras: hay que hablar sin parar.
+
+1. Dos jugadores se paran frente a frente delante de los demás.
+2. A la señal, cada uno le habla al otro lo más rápido que puede, sobre el tema que quiera, y sin parar.
+3. No se permiten gestos.
+4. Pierde el primero que hace una pausa o se ríe.
+
+**Cómo se gana:** si ninguno se quiebra en dos minutos, los demás votan al ganador.
 
 ## Para cerrar
 - ¿Qué es más difícil: hablar o no escuchar al otro?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUICKEST TALKER.**
+
+Two players stand up facing each other in front of the rest and must make a speech to each other as fast as they can on any subject they like. No gestures are allowed. The first player to pause or start laughing loses. If neither break down in two minutes the winner is decided by vote of the rest.
 
 
 ## Texto original completo de la actividad

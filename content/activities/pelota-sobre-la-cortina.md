@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,10 +138,28 @@ rama_rovers:
 # Pelota sobre la Cortina
 
 ## Cómo se juega
-Se cuelga a lo ancho del salón una cortina que no deje ver, lo bastante alta como para tapar a los jugadores, y se pone un equipo de cada lado. Cada equipo trata de tirar una pelota por arriba para que toque el piso del otro lado. El jugador que la deja caer sale (se pueden dar 3 vidas). Gana el equipo que dura más. Nadie puede moverse con la pelota en la mano.
+Un juego de tirar y atajar por encima de una cortina: como no se ve al otro lado, la pelota aparece de golpe.
+
+1. Se cuelga a lo ancho del salón una cortina que no deje ver (puede ser una sábana o una lona), lo bastante alta como para tapar a los jugadores.
+2. Se pone un equipo de cada lado de la cortina.
+3. Un equipo tira una pelota (puede ser una de fútbol) por arriba de la cortina, tratando de que toque el piso del otro lado.
+4. Los del otro lado tienen que atajarla antes de que caiga y devolverla de la misma forma.
+5. El jugador que deja caer la pelota sale del juego. Si se quiere, se le pueden dar 3 vidas a cada uno antes de salir.
+6. Nadie se puede mover con la pelota en la mano: se la tira desde donde se la atajó.
+
+**Cómo se gana:** gana el equipo al que le quedan jugadores durante más tiempo.
 
 ## Para cerrar
 - ¿Cómo se organizaron para cubrir toda la cancha?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CURTAIN BALL.**
+
+An opaque curtain high enough to hide the players is hung across the room, one team on each side of it. Each team tries to throw a football over so that it hits the ground the other side. Any player letting it fall drops out (3 lives may be given). Team lasting longest wins. No player may move with the ball.
 
 
 ## Texto original completo de la actividad

@@ -153,7 +153,17 @@ La tropa se divide en cuatro. Las patrullas 1 y 2 son aliadas y salen de puntos 
 2. Fijá un tiempo límite y la forma de capturar (tocar al rival).
 
 ## Desarrollo
-La tropa se divide en cuatro secciones iguales (si tiene cuatro patrullas, mejor). La patrulla n.º 1 va hasta un punto convenido, quizás a un kilómetro y medio, mientras la n.º 2 sale a la misma distancia en la dirección exactamente opuesta; el resto de la tropa (patrullas 3 y 4) queda en la base como una fuerza unida. Ahora empieza el juego: las patrullas 1 y 2 representan ejércitos aliados, cada uno en guerra con la fuerza que está entre ellos, es decir, las patrullas 3 y 4 unidas. El objetivo supremo de los aliados es reunir sus fuerzas sin entrar en contacto con el enemigo, que supera a cada uno de ellos dos a uno. Para eso mandan exploradores y mensajeros a averiguar la posición del enemigo y también a ponerse en contacto con sus amigos. Si logran eludir al enemigo común y reunir todas sus fuerzas, se los considera ganadores. Por el contrario, la tarea de las patrullas combinadas es impedir esa reunión obstaculizando todos los intentos de comunicación y, si es posible, rodeando o emboscando a uno u otro de los aliados y capturándolos, para hacer imposible la unión. Si logran impedir la reunión hasta que se termine el tiempo, se adjudican la victoria.
+Un juego de campo para toda la tropa: dos patrullas aliadas tratan de juntarse, y las otras dos, que están en el medio, tratan de impedirlo.
+
+1. La tropa se divide en cuatro grupos iguales; si tiene cuatro patrullas, mejor.
+2. La patrulla 1 va hasta un punto convenido, a un kilómetro y medio más o menos. La patrulla 2 se aleja la misma distancia, pero en la dirección exactamente opuesta.
+3. Las patrullas 3 y 4 se quedan juntas en la base, en el medio, formando una sola fuerza.
+4. Las patrullas 1 y 2 son ejércitos aliados, y cada una está en guerra con la fuerza que tiene en el medio. Su objetivo es juntarse sin chocarse con el enemigo, que tiene el doble de jugadores que cada una de ellas.
+5. Para eso, mandan exploradores y mensajeros a averiguar dónde está el enemigo y a ponerse en contacto con sus aliados.
+6. Las patrullas 3 y 4 tienen que impedir esa unión: cortar todos los intentos de comunicación y, si pueden, rodear o emboscar a una de las patrullas aliadas y capturarla, para que la unión sea imposible.
+7. Antes de empezar se fija un tiempo límite.
+
+**Cómo se gana:** si las patrullas 1 y 2 logran esquivar al enemigo y juntarse completas, ganan ellas. Si las patrullas 3 y 4 impiden la unión hasta que se termina el tiempo, la victoria es suya.
 
 ## Cierre
 - ¿Cómo se pusieron de acuerdo los aliados sin verse?

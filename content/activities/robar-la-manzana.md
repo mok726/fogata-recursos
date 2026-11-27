@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,27 @@ rama_rovers:
 # Robar la Huerta
 
 ## Cómo se juega
-Los jugadores en ronda; se manda al «ladrón» fuera del salón, se elige a un «granjero» y se pone una «manzana» en el centro de la ronda. El ladrón entra a la ronda y trata de agarrar la manzana y salir de la ronda sin que lo toque el granjero, que él no sabe quién es. El granjero no se puede mover hasta que tocan la manzana. El ladrón tiene que salir de la ronda por el mismo lugar por donde entró.
+Un juego de ronda en el que un «ladrón» tiene que robar una manzana sin saber quién es el que la cuida.
+
+1. Los jugadores forman una ronda. Uno hace de «ladrón» y sale del salón un momento para no ver lo que pasa.
+2. Mientras tanto, se elige en secreto a uno de la ronda para que sea el «granjero», el dueño de la huerta. En el centro de la ronda se pone una «manzana» (puede ser una manzana de verdad, una pelota o cualquier objeto).
+3. Vuelve el ladrón. Elige un lugar de la ronda, entra por ahí, va hasta el centro y trata de agarrar la manzana y escaparse.
+4. El granjero no se puede mover hasta que el ladrón toca la manzana. Apenas la toca, el granjero sale a perseguirlo.
+5. El ladrón tiene que salir de la ronda por el mismo lugar por donde entró. Como no sabe quién es el granjero, le conviene fijarse bien dónde entra y estar atento a quién se mueve.
+
+**Cómo se gana:** si el ladrón sale de la ronda con la manzana sin que el granjero lo toque, ganó. Si lo tocan, perdió. Después se eligen otro ladrón y otro granjero.
 
 ## Para cerrar
 - ¿Cómo hicieron los de la ronda para no delatar al chacarero?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ROBBING THE ORCHARD.**
+
+Players in circle, “robber” is sent out of the room, “farmer” is chosen, and an “apple” put in the centre of circle. Robber enters the circle and tries to grab the apple and get out of the circle without being touched by the farmer, whom he does not know. The farmer may not move till the apple is touched. Robber must leave the circle at the same point as he entered.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,14 +136,36 @@ rama_rovers:
 # Posta del Tejedor
 
 ## Cómo se juega
-Dos o más equipos en ronda, mirando hacia adentro, con un metro entre jugador y jugador. Los equipos se ubican seguidos, NO mezclados. A la orden de «¡Ya!», el primero de cada equipo corre alrededor de la ronda hacia su derecha, en zigzag entre los demás jugadores; cuando vuelve a su lugar toca al n.º 2, que hace lo mismo, y así sucesivamente. Gana el primer equipo que termina con todos sus jugadores. No se permite obstruir.
+Una carrera de postas en ronda: cada corredor da la vuelta pasando en zigzag entre los demás, como el hilo en un tejido.
 
-**Posta de las manos saltadas:** igual que la anterior, pero los jugadores se sientan en el piso tomados de las manos, y los que corren saltan para adentro y para afuera por arriba de las manos.
+1. Dos o más equipos forman una sola ronda, mirando hacia adentro, con más o menos un metro entre jugador y jugador. Cada equipo se ubica junto, sus jugadores seguidos, sin mezclarse con los de otro equipo. Los jugadores de cada equipo se numeran: n.º 1, n.º 2, etc.
+2. A la orden de «¡Ya!», el n.º 1 de cada equipo sale corriendo alrededor de la ronda hacia su derecha, pasando en zigzag entre todos los demás jugadores: por delante de uno, por detrás del siguiente, y así.
+3. Cuando completa la vuelta y llega a su lugar, toca al n.º 2, que sale a hacer lo mismo. Y así hasta que corren todos.
+4. No se permite obstruir ni trabar a los corredores de los otros equipos.
 
-**Variante:** igual, pero pasando por arriba y por debajo de las manos.
+**Cómo se gana:** gana el primer equipo en que corrieron todos sus jugadores.
+
+**Posta de las manos (otro juego del original, parecido):** igual que la anterior, pero los jugadores se sientan en el piso tomados de las manos. Los que corren, en lugar de pasar en zigzag, saltan por arriba de las manos unidas, para adentro de la ronda y para afuera, una y otra vez, hasta completar la vuelta.
+
+**Por arriba y por debajo (variante del original):** igual, pero los que están sentados levantan las manos unidas, y el corredor pasa una vez por arriba de las manos y la siguiente por debajo.
 
 ## Para cerrar
 - ¿Qué patrulla tejía más prolijo? ¿Y la más rápida?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WEAVER'S RELAY.**
+
+Two or more teams in circle, facing in, a yard between each player. Teams placed concurrently, NOT muddled up. On “Go,” first member of each team runs round circle to his right, zig-zagging between the other players; on regaining his place he touches No. 2, who does the same, and so on. First team to finish all players wins. No obstruction allowed.
+
+**JUMPING HANDS RELAY.**
+
+As for No. 4, except that players sit on floor, holding hands, and those racing jump in and out over the hands.
+
+Variation.-As above, but going over and under the hands.
 
 
 ## Texto original completo de la actividad

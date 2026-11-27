@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,12 +139,32 @@ rama_rovers:
 # Pasos
 
 ## Cómo se juega
-Un jugador tiene los ojos vendados; cada uno de los demás, por turno, se le acerca y recibe una cantidad de pasos (cualquier número entre 3 y 9), que tiene que dar todos juntos, en cualquier dirección. Cuando ya salieron todos, el ciego tantea hasta tocar a uno, y trata de reconocerlo por el tacto. Si acierta, cambian de lugar y empiezan otra vez; si se equivoca, sigue hasta acertar. Un jugador, después de dar sus pasos, se puede agachar pero no puede mover los pies.
+Un juego a ciegas en el que hay que encontrar a los compañeros y reconocerlos solo con las manos.
 
-**Pasos con brújula:** se juega igual que el anterior, salvo que a cada jugador se le da, además de la cantidad de pasos, una dirección de la brújula. Si no va en la dirección correcta, pierde una vida, y con tres vidas perdidas paga una prenda al final.
+1. Un jugador, el ciego, se para en el centro con los ojos vendados.
+2. Los demás, de a uno, se le acercan. El que dirige le dice a cada uno, en voz baja, una cantidad de pasos, cualquier número entre 3 y 9.
+3. El jugador tiene que dar todos esos pasos seguidos, en la dirección que quiera, alejándose del ciego. Cuando termina, se queda quieto en ese lugar.
+4. Una vez que ya se ubicaron todos, el ciego sale a tantear hasta tocar a alguno.
+5. Los jugadores se pueden agachar para esquivarlo, pero no pueden mover los pies del lugar donde quedaron.
+6. Cuando el ciego toca a alguien, trata de reconocerlo por el tacto y dice su nombre. Si acierta, cambian de lugar: el que fue reconocido pasa a ser el ciego y se empieza de nuevo. Si se equivoca, sigue buscando hasta acertar.
+
+**Pasos con brújula (variante del original):** se juega igual, pero a cada jugador se le dice, además de la cantidad de pasos, una dirección de la brújula (por ejemplo, «cinco pasos al Este»). Antes de empezar, el que dirige muestra dónde quedan los puntos cardinales. Si un jugador sale para el lado equivocado, pierde una vida. El que pierde tres vidas paga una prenda al final del juego.
 
 ## Para cerrar
 - ¿Cómo saben para dónde queda el Noreste si solo conocen el Norte?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STEPS.**
+
+One player is blindfold, each other player in turn comes up to him and is allotted a certain number of steps (any number between 3 and 9), which must all be taken at once in any direction. When all have gone the blind player feels about till he touches one, who he tries to identify by feel. If he is right they change places and start again, if wrong he goes on till he is right. A player after taking his steps may bend down but may not move his feet.
+
+**COMPASS STEPS.**
+
+Played just as the above except that each player is given a compass direction as well as a number of steps. If he fails to go in the right direction he loses a life, and after three lives is executed by bending down back to the rest about 15 yards away while each player not to be executed has a shot with a soft ball (tennis ball).
 
 
 ## Texto original completo de la actividad

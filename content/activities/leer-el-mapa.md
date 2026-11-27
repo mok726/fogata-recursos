@@ -152,7 +152,15 @@ El dirigente muestra un mapa de la zona y le asigna a cada scout un lugar para v
 2. Para cada destino, anotá dos o tres cosas que el scout tiene que observar en el camino (una plaza, una iglesia, un almacén, un puente).
 
 ## Desarrollo
-Es una prueba de lectura de mapas y de memoria del mapa leído. El dirigente o el guía a cargo lleva a su patrulla a una ciudad desconocida o a una parte enredada del campo y quiere averiguar, a través de ellos, datos sobre los alrededores; entonces les muestra un mapa de la zona y le asigna a cada uno un lugar para visitar, mostrándole el recorrido en el mapa y señalándole iglesias, posadas, etc., que debe observar en el camino. Cada scout debería tener una distancia fija para recorrer y una cantidad determinada de puntos para observar. Luego salen y, a medida que vuelven, el jefe o el guía toma nota de sus informes. Gana el scout que trae el mejor informe en el menor tiempo.
+Una prueba de lectura de mapas y de memoria: cada scout mira el mapa, se aprende un recorrido y después lo hace solo.
+
+1. El dirigente o el guía de patrulla lleva a la patrulla a una ciudad que no conocen o a una zona del campo complicada para orientarse.
+2. Les muestra un mapa de la zona. A cada scout le asigna un lugar para visitar, le marca en el mapa el camino y le señala cosas para observar en el recorrido: iglesias, almacenes, plazas, etc.
+3. Cada scout tiene que recorrer una distancia parecida y observar una cantidad fija de puntos.
+4. Los scouts salen sin el mapa, guiándose por lo que recuerdan.
+5. A medida que vuelven, el dirigente o el guía anota el informe de cada uno: por dónde fue y qué vio.
+
+**Cómo se gana:** gana el scout que trae el mejor informe en el menor tiempo.
 
 ## Cierre
 - ¿Cómo hiciste para acordarte del camino?

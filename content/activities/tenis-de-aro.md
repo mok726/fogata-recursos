@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -143,7 +144,18 @@ rama_rovers:
 2. Tendé la red entre dos árboles o estacas, con un ballestrinque en cada punta. Marcá las líneas del fondo.
 
 ## Cómo se juega
-Se juega sobre una red de 1,50 m de alto, tirando un aro de soga de un lado al otro. Un equipo de cada lado de la red; el jugador al que se le cae el aro sale. Gana el equipo que dura más. El que tira un aro que cae afuera de la línea de fondo marcada, sale. También se juega individual o en parejas.
+Un juego parecido al tenis o al vóley, pero en vez de pelota se usa un aro de soga (un anillo de soga gruesa) que se tira y se ataja con las manos. En los barcos se jugaba en la cubierta, por eso en inglés se llama «tenis de cubierta».
+
+1. Se cuelga o se tiende una red, o una soga, a 1,50 m de alto, cruzando el lugar. Se marca una línea de fondo en cada lado, que es el límite de la cancha.
+2. Se pone un equipo de cada lado de la red.
+3. Un jugador tira el aro por arriba de la red hacia el otro lado. Los del otro lado tienen que atajarlo en el aire y devolverlo, también tirándolo por arriba de la red.
+4. El jugador al que se le cae el aro, sale del juego.
+5. Si un jugador tira el aro y este cae afuera de la línea de fondo del otro lado, el que sale es el que lo tiró.
+6. El juego sigue así, de un lado al otro.
+
+**Cómo se gana:** gana el equipo al que le quedan jugadores durante más tiempo.
+
+**Individual o en parejas (variante del original):** también se puede jugar uno contra uno o de a dos contra dos.
 
 ### Variante: Individual o en parejas
 Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
@@ -153,6 +165,15 @@ Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
 
 ## Notas para educadores
 - El juego nació en las cubiertas de los barcos. Armar la red con nudos de verdad es parte de la actividad.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DECK TENNIS.**
+
+Played over a net about 5 feet high by throwing a rope ring from side to side. One team each side of net, any player dropping the ring falls out. Team lasting longest wins. Thrower of a shot falling outside a marked base line falls out. Also played as singles or pairs. For full details see Teni-Quoil, on sale at most sports stores.
 
 
 ## Texto original completo de la actividad

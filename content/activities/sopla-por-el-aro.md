@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,13 +139,30 @@ rama_rovers:
 # Soplá, Soplá
 
 ## Cómo se juega
-Cada equipo se agrupa alrededor de un aro chico de madera, colgado de modo que la parte de abajo quede apenas arriba de la cabeza de un jugador promedio. Cada equipo tiene un globo, que trata de hacer pasar soplando por su aro, en cualquier dirección. Si el globo cae al piso se lo puede levantar; si no, no se lo puede tocar. Gana el primer equipo que hace tres «soplidos».
+Un juego de soplido en equipo: hay que hacer pasar un globo por un aro colgado, solo soplando.
+
+1. Para cada equipo se cuelga un aro chico de madera (o de otro material liviano), de modo que la parte de abajo del aro quede apenas por arriba de la cabeza de un jugador de estatura promedio.
+2. Cada equipo se agrupa alrededor de su aro y recibe un globo inflado.
+3. A la orden de empezar, los jugadores soplan el globo para mantenerlo en el aire y hacerlo pasar por el aro. Puede pasar en cualquier dirección.
+4. El globo no se puede tocar con las manos ni con nada mientras está en el aire. Solo si se cae al piso se lo puede levantar con la mano para volver a empezar.
+5. Cada vez que el globo pasa por el aro es un «soplido», es decir, un tanto.
+
+**Cómo se gana:** gana el primer equipo que hace tres «soplidos».
 
 ## Para cerrar
 - ¿Cómo se organizaron para soplar todos para el mismo lado?
 
 ## Notas para educadores
 - Juego cortito y muy divertido para hacer bajo techo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLOW, BLOW.**
+
+Each team is grouped round a small wooden hoop hung so that the bottom is just above the average player’s head. Each team has a toy balloon which they try to blow through their hoop in any direction. If the balloon falls to the floor it may be picked up, hut otherwise may not be touched. First team to score three “ blows” wins.
 
 
 ## Texto original completo de la actividad

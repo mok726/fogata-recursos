@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,28 @@ rama_rovers:
 # Asalto al Castillo
 
 ## Cómo se juega
-Los jugadores forman una ronda tomados de las manos, con un equipo afuera. Gana el equipo que logra meter adentro a todos sus integrantes más rápido. Los equipos «asaltan» por turno.
+Un juego de equipos en el que hay que meterse adentro de una ronda que defiende su «castillo».
+
+1. La mayoría de los jugadores forma una ronda tomados de las manos: son las murallas del castillo.
+2. Un equipo se queda afuera: son los que asaltan.
+3. A la señal, el equipo de afuera trata de meter a todos sus integrantes adentro de la ronda, pasando por arriba o por debajo de los brazos, o metiéndose por donde puedan.
+4. Los de la ronda tratan de impedirlo sin soltarse las manos.
+5. El que dirige toma el tiempo desde la señal hasta que entra el último del equipo.
+6. Después el equipo que asaltó pasa a formar la ronda y sale otro equipo a asaltar. Así hasta que asaltaron todos los equipos.
+
+**Cómo se gana:** gana el equipo que logró meter a todos sus integrantes en menos tiempo.
 
 ## Para cerrar
 - ¿Qué estrategia usaron? ¿Entraron todos juntos o de a uno?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STORM THE CASTLE.**
+
+Players form a circle, hands joined, one team outside. Team getting all its members in quickest wins. Teams “storm” in turn.
 
 
 ## Texto original completo de la actividad

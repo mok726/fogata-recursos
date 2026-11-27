@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,24 @@ rama_rovers:
 # El Gato y el Ratón
 
 ## Cómo se juega
-Los jugadores se forman en filas de a cuatro, tomados de las manos con los de cada costado. Un jugador persigue a otro por adentro y por afuera de las filas. Cada vez que el que dirige toca el silbato, todos los jugadores giran a la derecha y se toman de las manos con los que ahora tienen a cada costado, y así cambian las calles por donde se corre. Si el ratón no es atrapado en un tiempo bastante corto, hay que cambiar a los corredores.
+Una mancha en la que un gato persigue a un ratón por calles formadas por los demás jugadores, y las calles cambian de golpe.
+
+1. Todos los jugadores, menos dos, se forman en filas de a cuatro, una detrás de otra, como un cuadriculado. Cada uno toma de las manos a los de sus costados, con los brazos estirados. Así, entre fila y fila quedan calles por donde se puede correr.
+2. De los dos que quedan afuera, uno es el gato y el otro es el ratón. El gato persigue al ratón por las calles, entrando y saliendo de la formación.
+3. Cada vez que el que dirige toca el silbato, todos los jugadores de la formación giran a la derecha y se toman de las manos con los que ahora tienen a los costados. Así, las calles cambian de dirección y el gato o el ratón pueden quedar encerrados de golpe.
+4. Si el ratón no es atrapado en un tiempo bastante corto, también hay que cambiar a los corredores, para que todos jueguen.
 
 ## Para cerrar
 - ¿Quién les sacó ventaja a los cambios de calle?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CAT AND MOUSE.**
+
+Players fall-in in fours, holding hands of those on each side. One player chases another in and out of the lines. Each time the leader blows a whistle all players turn right and hold hands with the player now on each side of them, thus changing the lanes for the runs. If the mouse is not caught in a fairly short time a change of runners should be made.
 
 
 ## Texto original completo de la actividad

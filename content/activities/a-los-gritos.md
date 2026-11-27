@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,16 @@ rama_rovers:
 # A los Gritos
 
 ## Cómo se juega
-Cuatro equipos, uno en cada rincón del salón. Dos de los que están en rincones opuestos en diagonal tratan de mandarse a los gritos un mensaje simple (no se permiten señas ni gestos) y recibir una respuesta con sentido. Los otros dos equipos tratan, haciendo con la voz el ruido que quieran, de que no se escuchen los mensajes. Ganan los equipos que lo logran en menos tiempo.
+Un juego ruidoso y muy divertido: dos equipos tienen que comunicarse a los gritos mientras otros dos hacen todo el ruido posible para que no se escuchen.
+
+1. Se arman cuatro equipos y cada uno se ubica en un rincón del salón.
+2. Dos de los equipos, los que están en rincones opuestos en diagonal, son los que se comunican. El que dirige le da a uno de ellos un mensaje simple, por ejemplo una pregunta: «¿A qué hora sale el tren?».
+3. Ese equipo le grita el mensaje al equipo del rincón de enfrente. No se vale hacer señas ni gestos: todo tiene que ser con la voz.
+4. El equipo que recibe el mensaje tiene que entenderlo y gritar una respuesta que tenga sentido.
+5. Mientras tanto, los otros dos equipos hacen con la voz todo el ruido que quieran (gritos, cantos, silbidos, sonidos de animales) para tapar los mensajes.
+6. El que dirige toma el tiempo que tardan en lograrlo. Después se cambian los papeles: los que hacían ruido pasan a mandarse mensajes, y al revés.
+
+**Cómo se gana:** ganan los equipos que logran pasar el mensaje y recibir una respuesta con sentido en menos tiempo.
 
 ## Para cerrar
 - ¿Qué hicieron para que el mensaje se entendiera? ¿Gritaron todos juntos o uno solo?
@@ -144,6 +154,15 @@ Cuatro equipos, uno en cada rincón del salón. Dos de los que están en rincone
 ## Notas para educadores
 - Juego para descargar energía y, de paso, charlar sobre cómo comunicarse con claridad (hablar todos juntos, articular, repetir).
 - Al final, un minuto de silencio absoluto: el contraste es parte del juego.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BAWLING.**
+
+Four teams, one in each corner of the room. Two of those diagonally opposite try to shout a simple message from one to the other (no signalling or gestures allowed) and get a sensible answer. The other two teams try by making any vocal noise they like, to stop the messages being audible. Teams succeeding in shortest time win.
 
 
 ## Texto original completo de la actividad

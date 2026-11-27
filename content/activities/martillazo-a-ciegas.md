@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,7 +140,14 @@ rama_rovers:
 # Clavar la Estaca a Ciegas
 
 ## Cómo se juega
-Se clava una estaca en el suelo. Cada jugador, por turno, sale desde unos 5 metros con los ojos vendados; da unas 3 vueltas sobre sí mismo y después trata de avanzar hasta donde está la estaca y pegarle con una maza. No se permite tantear. Gana el jugador que le pega de lleno en la cabeza con menos golpes.
+Un juego de orientación a ciegas con una estaca de carpa.
+
+1. Se clava una estaca en el suelo.
+2. Cada jugador, por turno, se para a unos 5 metros, con los ojos vendados y una maza en la mano. Da unas 3 vueltas sobre sí mismo.
+3. Después camina hasta donde cree que está la estaca y trata de pegarle con la maza en la cabeza.
+4. No se vale tantear con las manos para encontrarla.
+
+**Cómo se gana:** gana el que le pega de lleno en la cabeza a la estaca con menos golpes.
 
 ## Para cerrar
 - ¿Cómo se dieron cuenta de para dónde estaban mirando después de las vueltas?
@@ -147,6 +155,15 @@ Se clava una estaca en el suelo. Cada jugador, por turno, sale desde unos 5 metr
 ## Notas para educadores
 - Usá maza de madera o de goma, nunca un martillo de metal.
 - Buen juego para el día de armado del campamento: después todos saben clavar estacas.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD TENT-PEGGING.**
+
+A peg is driven into the ground. Each player in turn starts about 6 yards away blindfold; he turns round about 3 times and then tries to advance to where the peg is and hit it with a mallet. No feeling must be allowed. The player who hits it fairly on the top in the fewest blows wins. O
 
 
 ## Texto original completo de la actividad

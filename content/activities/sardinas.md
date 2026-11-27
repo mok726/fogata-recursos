@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,28 @@ rama_rovers:
 # Sardinas
 
 ## Cómo se juega
-Un jugador va y se esconde, y los demás tratan de encontrarlo; cada uno, cuando lo encuentra, se esconde en el mismo lugar, junto a él. El juego sigue hasta que están todos en el mismo lugar. Es una variante de la escondida.
+Una variante de la escondida, pero al revés: se esconde uno solo, y los que lo encuentran se esconden con él, hasta quedar todos apretados como sardinas en lata.
+
+1. Un jugador va a esconderse mientras los demás cuentan con los ojos cerrados.
+2. Después, todos salen a buscarlo, cada uno por su cuenta.
+3. Cuando un jugador lo encuentra, no avisa a nadie: se mete en el mismo escondite, al lado de él, sin hacer ruido.
+4. Así, el escondite se va llenando y cada vez es más difícil disimular que hay gente ahí.
+5. El juego sigue hasta que están todos en el mismo lugar.
 
 ## Para cerrar
 - ¿Qué los delató? ¿Las risas?
 
 ## Notas para educadores
 - Marcá bien los límites del terreno y los lugares prohibidos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SARDINES.**
+
+One player goes and hides, the rest try to find him, and each as he does so hides in the same place alongside him. Game continues till all are in the one spot. Variation of Hide-and-Seek.
 
 
 ## Texto original completo de la actividad

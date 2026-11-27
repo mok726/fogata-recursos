@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,30 @@ rama_rovers:
 # Tirar Cosas
 
 ## Cómo se juega
-Cualquier cantidad de equipos, y tantos objetos distintos como equipos haya. A cada objeto se le asigna un integrante de cada equipo. Se hacen competencias separadas para ver quién tira más lejos cada objeto. Gana el equipo que gana más competencias. (Un aro de soga de 60 cm de diámetro, una carpa, una maza, un globo, un avioncito de papel, una caja de fósforos vacía, un bastón, etc.).
+Una competencia de lanzamientos con objetos raros: hay que tirar cada cosa lo más lejos posible, y algunas son muy difíciles de tirar lejos.
+
+1. Se pueden armar todos los equipos que se quiera. Se juntan tantos objetos distintos como equipos haya. El original propone, por ejemplo: un aro de soga de 60 cm de diámetro, una carpa (plegada), una maza, un globo, un avioncito de papel, una caja de fósforos vacía y un bastón.
+2. Cada equipo elige a un integrante para cada objeto. Así, cada objeto tiene un tirador de cada equipo.
+3. Se hace una competencia aparte con cada objeto: todos los que tienen que tirar ese objeto lo tiran, por turno, desde la misma línea, y se marca hasta dónde llegó cada uno.
+4. Gana esa competencia el que lo tira más lejos, y se anota el triunfo para su equipo.
+5. Después se pasa al objeto siguiente, hasta haberlos tirado todos.
+
+**Cómo se gana:** gana el equipo que gana más competencias.
 
 ## Para cerrar
 - ¿Qué objeto fue el más difícil de tirar? ¿Por qué el globo no llega lejos?
 
 ## Notas para educadores
 - Da para charlar sobre el aire y la forma de las cosas: ¿por qué el avión llega más lejos que la hoja hecha un bollo, o al revés?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**THROWING THINGS.**
+
+Any number of teams, and as many assorted objects as there are teams. One member of each team allotted to each object. Separate contests take place trying to throw each object as far as possible. Team winning most contests wins. (Rope ring 2 feet diameter, tent, mallet, balloon, paper dart, empty match-box, staff, etc.).
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,30 @@ rama_rovers:
 # Recuerdos
 
 ## Cómo se juega
-Los jugadores en ronda; uno empieza diciendo, por ejemplo: «Pensé en una pava»; el siguiente puede decir: «Eso me recuerda al vapor», y así siguiendo. Después de una o dos vueltas, el que dirige dice «¡Desenrollen!», y los jugadores, en el mismo orden, repiten la lista desde la otra punta hasta volver a «pava»; el que falla pierde una vida.
+Un juego de memoria en ronda, con ideas encadenadas.
+
+1. Los jugadores se sientan en ronda.
+2. El primero dice: «Pensé en una pava».
+3. El siguiente dice algo que esa palabra le recuerda: «Eso me recuerda al vapor». El siguiente: «Eso me recuerda a un tren», y así dando la vuelta.
+4. Después de una o dos vueltas, el que dirige dice: «¡Desenrollen!». Entonces, en el mismo orden de la ronda, hay que repetir la cadena al revés, desde la última palabra hasta volver a «pava».
+5. El que se equivoca o se olvida pierde una vida.
+
+**Cómo se gana:** gana el que pierde menos vidas.
 
 ## Para cerrar
 - ¿Qué asociaciones fueron las más raras? ¿Quién las puede explicar?
 
 ## Notas para educadores
 - Las asociaciones dicen mucho de cada uno: si alguna toca algo sensible, seguí sin detenerte en ella.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**REMINDERS.**
+
+Players in circle, one player starts by saying (say) “I've thought of a kettle,” the next might say “That reminds me of steam,” and so on. After one or two rounds the leader says “unwind” and the players in the same order repeat the list from the other end back to “kettle,” any failing losing a life.
 
 
 ## Texto original completo de la actividad

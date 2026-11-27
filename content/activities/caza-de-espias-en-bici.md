@@ -147,7 +147,19 @@ rama_rovers:
 Dos espías salen en bici dejando un rastro de papel cada unos 90 m. Cuando les conviene, esconden las bicis cerca del camino y siguen a pie, dejando una señal de que dejaron el camino. Tienen que esconderse un cuarto de hora y después recuperar las bicis y volver a la base. Los perseguidores los buscan, intentan encontrar sus bicis y cuidan las propias.
 
 ## Desarrollo
-Dos espías escaparon en bicicleta del cuartel, y se los vio por última vez pedaleando en un punto a unos 800 metros más adelante por el camino. (Esto hay que mostrarlo en el mapa a los scouts que van a perseguirlos en sus bicicletas). Desde ese punto, los espías tienen que dejar un rastro de papel, no continuo, sino cada 100 metros. Los espías, con la desventaja del papel, seguramente serán alcanzados pronto, así que tienen que elegir un buen lugar junto al camino para esconder sus bicicletas, y cuando dejan el camino tienen que dejar señales de que lo hicieron (mejor que corran un trecho por el camino dejando todavía el rastro, para no mostrar a sus perseguidores el escondite de las bicicletas). Una vez fuera del camino, no tienen que dejar más rastro, pero su objetivo es quedar libres durante un cuarto de hora y después recuperar sus bicicletas y volver al cuartel sin ser atrapados por sus perseguidores. Los perseguidores tienen que buscar a los espías y capturar sus bicicletas si las encuentran, cuidando al mismo tiempo de que los espías no les roben las suyas. Para capturar a los espías, los perseguidores tienen que tocarlos de verdad, o si van en bicicleta, pasarlos en el camino. (Unos diez scouts es la cantidad ideal para este juego).
+Una persecución en bicicleta: dos espías escapan dejando un rastro de papel, y los demás tienen que alcanzarlos.
+
+1. La historia es esta: dos espías escaparon en bicicleta del cuartel. Se los vio por última vez pedaleando por el camino, unos 800 metros más adelante. Ese punto se les muestra en el mapa a los perseguidores, que también van en bicicleta.
+2. Desde ese punto, los espías tienen que dejar un rastro de papel, no continuo, sino cada unos 100 metros.
+3. Como dejar el rastro los demora, seguramente los van a alcanzar pronto. Por eso tienen que elegir un buen lugar junto al camino para esconder sus bicicletas.
+4. Cuando dejan el camino, tienen que marcar con una señal que se fueron del camino. Conviene que antes corran un trecho a pie por el camino, siguiendo con el rastro, para no mostrar dónde quedaron escondidas las bicicletas.
+5. Fuera del camino ya no dejan más rastro. Tienen que mantenerse libres durante un cuarto de hora y después recuperar sus bicicletas y volver al cuartel sin que los atrapen.
+6. Los perseguidores buscan a los espías y, si encuentran sus bicicletas, se las quedan. Al mismo tiempo tienen que cuidar que los espías no les saquen las suyas.
+7. Para capturar a un espía hay que tocarlo de verdad o, si va en bicicleta, pasarlo en el camino.
+
+**Cómo se gana:** los espías ganan si vuelven al cuartel sin ser atrapados; los perseguidores, si los capturan.
+
+Lo ideal es jugarlo con unos diez scouts.
 
 ## Cierre
 - ¿Dónde escondieron las bicis? ¿Cómo las encontraron?

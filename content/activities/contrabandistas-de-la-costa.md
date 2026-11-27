@@ -148,7 +148,18 @@ rama_rovers:
 Un grupo de contrabandistas llega "desde el mar" e intenta desembarcar su carga (un ladrillo por persona), esconderla en la "cueva" y volver a su bote. Los vigías se reparten a lo largo de la costa. Cuando uno ve el desembarco, da la alarma y junta al resto: el ataque solo vale si hay en el lugar al menos tantos vigías como contrabandistas.
 
 ## Desarrollo
-Un grupo de contrabandistas que viene del mar intenta desembarcar y esconder su mercadería (un ladrillo por hombre) en una base llamada "la Cueva de los Contrabandistas", y volver a irse en su bote. Otro grupo de "guardacostas" se reparte para vigilar la costa a lo largo de una gran distancia, con scouts solos. Apenas un guardacostas ve que los contrabandistas desembarcan, da la alarma y junta al resto para atacar, pero el ataque no puede tener éxito si no hay en el lugar al menos tantos guardacostas como contrabandistas. Los guardacostas tienen que quedarse acampados en su puesto hasta que los vigías den la alarma.
+Un juego de día o de noche entre contrabandistas que desembarcan y guardacostas que vigilan.
+
+1. Se arman dos grupos: los contrabandistas y los guardacostas.
+2. El original no dice cómo se marca el terreno, así que el grupo lo acuerda antes de empezar. Por ejemplo: una línea larga (un camino, un alambrado o una hilera de árboles) hace de costa; todo lo que queda de un lado es el «mar», y en el mar se marca un punto que es el «bote», desde donde salen los contrabandistas y adonde tienen que volver. Del lado de tierra, cerca de la costa, se marca la base llamada «la Cueva de los Contrabandistas».
+3. Cada contrabandista lleva su mercadería: un ladrillo. Tienen que salir del bote, cruzar la costa («desembarcar») en el punto que elijan, esconder la mercadería en la cueva y volver al bote.
+4. Los guardacostas se reparten para vigilar la costa, que es larga. Algunos quedan como vigías solitarios, cada uno en su punto.
+5. El resto de los guardacostas espera acampado en su puesto. No se puede mover hasta que un vigía dé la alarma.
+6. Apenas un vigía ve desembarcar a los contrabandistas, da la alarma y junta al resto para atacar.
+7. El ataque solo vale si en ese lugar hay por lo menos tantos guardacostas como contrabandistas.
+8. El original tampoco explica en qué consiste el ataque. El grupo lo acuerda antes: por ejemplo, que un contrabandista queda atrapado cuando lo toca un guardacostas (siempre que haya en ese lugar al menos tantos guardacostas como contrabandistas), y que el atrapado entrega su ladrillo y sale del juego.
+
+**Cómo se gana:** los contrabandistas ganan si esconden la mercadería en la cueva y se vuelven a ir; los guardacostas, si llegan a tiempo y en número suficiente para atraparlos.
 
 ## Cierre
 - ¿Dónde estaba el hueco en la vigilancia?

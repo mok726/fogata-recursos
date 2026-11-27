@@ -148,7 +148,17 @@ rama_rovers:
 Apenas se arma el campamento, cada guía recibe una hoja para hacer el croquis de los alrededores. Manda a sus scouts en distintas direcciones a relevar caminos, arroyos, construcciones y otros rasgos, y arma el mapa solo con sus informes. Gana el mejor croquis en el menor tiempo.
 
 ## Desarrollo
-Apenas se arma un campamento, lo primero que hay que hacer es averiguar cómo es la zona de alrededor; y esto es un tema excelente para una competencia entre patrullas. Cada guía recibe una hoja de papel en la que debe hacer un croquis de la zona, quizás de unos 3 km a la redonda; luego manda a sus scouts en todas direcciones a relevar y traer un informe de cada rasgo importante (caminos, vías de tren, arroyos, etc.), eligiendo a los mejores scouts para las direcciones más difíciles. Gana la patrulla cuyo guía le entrega al jefe del campamento el mejor mapa en el menor tiempo. Los guías tienen que hacer sus mapas únicamente con los informes de sus propios scouts.
+Una competencia entre patrullas para conocer la zona del campamento y dibujar un mapa.
+
+Lo primero que conviene hacer al llegar a un campamento es averiguar cómo es la zona de alrededor. Este juego lo convierte en desafío.
+
+1. A cada guía de patrulla se le da una hoja de papel para dibujar un croquis (un mapa simple, hecho a mano) de la zona, de unos 3 km a la redonda.
+2. El guía manda a los integrantes de su patrulla en todas las direcciones para recorrer el terreno y traerle un informe de todo lo importante: caminos, vías de tren, arroyos, y cosas así.
+3. Para las direcciones más difíciles, el guía elige a sus mejores exploradores.
+4. El guía tiene que dibujar el mapa únicamente con lo que le informan los de su propia patrulla.
+5. Cuando lo termina, se lo entrega al jefe del campamento.
+
+**Cómo se gana:** gana la patrulla cuyo guía entrega el mejor mapa en el menor tiempo.
 
 ## Cierre
 - ¿Qué datos les sirvieron más para dibujar?

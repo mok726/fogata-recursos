@@ -148,7 +148,16 @@ rama_rovers:
 Un sombrero en el piso. Un jugador de cada patrulla se inclina sobre él, cada uno con la mano derecha por encima y la izquierda por debajo de los brazos del otro. Hay que levantar el sombrero con la izquierda y escaparse antes de que el otro te dé una palmada en la espalda con la derecha. El que gana toma prisionero al otro.
 
 ## Desarrollo
-Se pone un sombrero en el piso. Sale al frente un scout de cada patrulla. Los dos se inclinan hacia el sombrero, cada uno con la mano derecha por encima y la izquierda por debajo de los brazos del rival. Lo que hay que hacer es levantar el sombrero con la mano izquierda y escaparse con él antes de que el otro te pegue en la espalda con la mano derecha. El que lo logra toma prisionero al rival que no lo logró. El juego sigue hasta que una patrulla tomó prisioneros a todos, o a la mitad, de la patrulla rival.
+Un duelo de rapidez entre dos patrullas: hay que levantar un sombrero del piso y escaparse antes de que el rival te pegue en la espalda.
+
+1. Se pone un sombrero (o una gorra) en el piso, en el medio del salón. Cada patrulla se ubica de un lado.
+2. Sale al frente un scout de cada patrulla. Los dos se ponen frente a frente, con el sombrero entre ellos, y se inclinan hacia adelante.
+3. Cada uno pone la mano derecha por encima de los brazos del rival y la mano izquierda por debajo. Así quedan como trabados, cada uno con un brazo arriba y otro abajo del otro.
+4. Lo que hay que hacer es levantar el sombrero con la mano izquierda y escaparse con él antes de que el otro te pegue en la espalda con la mano derecha.
+5. El que lo logra (o sea, el que se escapa con el sombrero sin que le peguen, o el que le pega en la espalda al que lo agarró) gana el duelo y toma prisionero al rival. El prisionero pasa al lado de la patrulla que lo capturó.
+6. Después sale otra pareja, y así sucesivamente.
+
+**Cómo se gana:** el juego sigue hasta que una patrulla tomó prisioneros a todos los de la otra, o a la mitad, según lo que se haya acordado antes de empezar.
 
 ## Cierre
 - ¿Ganó el más rápido o el más astuto?

@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,9 +137,18 @@ rama_rovers:
 # Correo General
 
 ## Cómo se juega
-Los jugadores en ronda alrededor del salón; cada uno toma el nombre de una ciudad. Un jugador en el centro. El que dirige nombra dos ciudades y dice «Carta», «Paquete» o «Telegrama». Las ciudades nombradas cambian de lugar y el del centro trata de ocupar uno de los asientos vacíos. En las «cartas», todos caminan; en los «paquetes», todos gatean (o saltan en un pie); en los «telegramas», todos corren; «todos» incluye al del centro.
+Un juego de ronda con asientos en el que hay que cambiar de lugar cuando nombran tu ciudad, moviéndose según el tipo de envío.
 
-**Variante:** el del centro tiene los ojos vendados y trata de atrapar a uno de los dos que se mueven; él no tiene que saltar ni gatear.
+1. Se ponen asientos en ronda alrededor del salón. Cada jugador se sienta en uno y elige el nombre de una ciudad (Córdoba, Mendoza, Rosario, Salta…). Un jugador se queda en el centro, sin asiento.
+2. El que dirige nombra dos ciudades y dice si es una «carta», un «paquete» o un «telegrama». Por ejemplo: «¡Carta de Salta a Rosario!».
+3. Las dos ciudades nombradas tienen que cambiar de asiento entre sí. Mientras tanto, el del centro trata de sentarse en uno de los dos asientos que quedan libres.
+4. La forma de moverse depende del envío, y vale para todos, incluido el del centro:
+   - si es «carta», todos caminan;
+   - si es «paquete», todos gatean (o saltan en un pie);
+   - si es «telegrama» (el envío urgente de la época), todos corren.
+5. Si el del centro consigue un asiento, el que se quedó sin lugar pasa al centro.
+
+**A ciegas (variante del original):** el del centro tiene los ojos vendados y, en lugar de buscar un asiento, trata de atrapar a uno de los dos jugadores que están cambiando de lugar. Él no tiene que saltar ni gatear.
 
 ### Variante: ¡Correo general!
 Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
@@ -148,6 +158,17 @@ Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
 
 ## Notas para educadores
 - Podés pegar en la pared un mapa de Argentina y, después del juego, que cada uno marque su ciudad.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GENERAL POST.**
+
+Players in circle round room, each takes the name of a town. One player in centre. Leader calls out two towns and “Letter”, “Parcel,” or “Telegram.” The towns mentioned change places and the one in centre tries to occupy one of the vacant seats. “Letters” all walk, “parcels” all crawl (or hop), “telegrams” all run; all includes one in centre.
+
+Variation.-Player in centre is blindfold and tries to catch one of the two moving, and need not hop or crawl.
 
 
 ## Texto original completo de la actividad

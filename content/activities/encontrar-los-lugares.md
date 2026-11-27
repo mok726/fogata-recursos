@@ -152,7 +152,15 @@ Un día o dos antes, el dirigente sale a caminar y escribe en tarjetas descripci
 2. Pensá una pregunta de control para cada lugar (¿de qué color es el buzón? ¿cuántos escalones tiene?) para comprobar que llegaron.
 
 ## Desarrollo
-Uno o dos días antes de jugar, el dirigente sale a caminar por el campo y lleva una provisión de tarjetas postales en blanco. En cada tarjeta escribe una breve descripción de distintos lugares por los que pasa, como "Puente de madera sobre un arroyo con tres sauces cerca" o "Tranquera blanca de cinco barras cerca de una casita en ruinas". El día del juego reparte estas tarjetas entre los scouts, que tienen cierto tiempo, según las condiciones del lugar, para encontrar los lugares descriptos en sus tarjetas e informar al dirigente, que se queda todo el tiempo en el punto de partida. Gana el scout que vuelve primero.
+Un juego de observación y de orientación: cada scout tiene que encontrar un lugar a partir de una descripción corta.
+
+1. Uno o dos días antes del juego, el dirigente sale a caminar por la zona con varias tarjetas en blanco.
+2. En cada tarjeta escribe una descripción breve de un lugar por el que pasa. Por ejemplo: «Puente de madera sobre un arroyo, con tres sauces cerca» o «Tranquera blanca de cinco barras, cerca de una casita en ruinas».
+3. El día del juego reparte las tarjetas entre los scouts.
+4. Cada scout tiene un tiempo determinado, según cómo sea el lugar, para encontrar el sitio de su tarjeta y volver a avisarle al dirigente qué encontró.
+5. El dirigente se queda todo el tiempo en el punto de partida.
+
+**Cómo se gana:** gana el scout que vuelve primero habiendo encontrado su lugar.
 
 ## Cierre
 - ¿Qué parte de la descripción te sirvió más?

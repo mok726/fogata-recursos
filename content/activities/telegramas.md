@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,15 +138,34 @@ rama_rovers:
 # Telegramas
 
 ## Cómo se juega
-Los jugadores por equipos. El que dirige dice una palabra y un tema, por ejemplo: «Fogón y el Jefe Scout». Cada equipo arma un telegrama sobre el Jefe o enviado por él, en el que cada palabra empieza con una letra de «fogón», en el mismo orden. Por ejemplo: «Fuimos Otra vez Gozosos, Orgullosos, Nuevos. EL JEFE». Gana el mejor telegrama hecho en menos tiempo.
+Un juego de ingenio por equipos: hay que armar un mensaje con las letras de una palabra.
 
-**Armar oraciones:** los jugadores por equipos. El que dirige dice una palabra, por ejemplo «conejo»; cada jugador de cada equipo dice una palabra en su turno, empezando con las letras de «conejo» en orden, de modo que entre todo el equipo armen una oración razonable. Por ejemplo: 1.º «Carlos», 2.º «olvidó», 3.º «nuevamente», 4.º «empanadas», 5.º «junto», 6.º «olla». Gana la mejor oración hecha en menos tiempo. La palabra de partida tiene tantas letras como jugadores tienen los equipos.
+1. El que dirige dice una palabra y un tema. Por ejemplo: «FOGÓN» y «un telegrama del Jefe Scout».
+2. Cada equipo arma un telegrama sobre ese tema, en el que cada palabra empieza con una letra de «fogón», en el mismo orden: F, O, G, O, N. Por ejemplo: «Felices. Olvidamos Galletitas. Organizamos Nuevamente. EL JEFE».
+3. Los telegramas eran mensajes cortos que se mandaban por el correo y se cobraban por palabra; por eso eran tan breves.
+
+**Cómo se gana:** gana el mejor telegrama hecho en menos tiempo.
+
+**Armar oraciones (variante del original):** el que dirige dice una palabra, por ejemplo «CONEJO». Cada jugador del equipo, por turno, dice una palabra que empiece con la letra que le toca, de modo que entre todos armen una oración que tenga sentido: «Carlos Olvidó Nuestras Empanadas, Juana Odió» (seis jugadores, una palabra cada uno). La palabra elegida tiene tantas letras como jugadores tiene cada equipo. Gana la mejor oración armada en menos tiempo.
 
 ## Para cerrar
 - ¿Qué era un telegrama? ¿Por qué se escribía tan corto? (Se pagaba por palabra.)
 
 ## Notas para educadores
 - Es una linda excusa para contar cómo se comunicaba la gente antes de los celulares.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TELEGRAMS.**
+
+Players in teams. Leader mentions a word and a subject, e.g. “Skiff and Chief Scout.” Each team then makes up a telegram about, or from the Chief, the words of the telegram starting with the letters of “skiff” in their right order. E.g. Still keeping in fine fettle. CHIEF. Best telegram in the shortest time wins.
+
+**SENTENCE MAKING.**
+
+Players in teams. Leader mentions a word (say) “Rabbit,” each player of each team must say a word in his turn, beginning with the letters of “Rabbit” in turn, so that the whole team make up a reasonable sentence. E.g., 1st player, Rain; 2nd, Angered; 3rd, Big; 4th, Burly; 5th, Idiotic; 6th, Thomas. Best sentence in shortest time wins. Word of origin has as many letters as there are players in the teams.
 
 
 ## Texto original completo de la actividad

@@ -149,7 +149,18 @@ rama_rovers:
 Sobre una mesa larga se dibujan círculos de distintos tamaños, cada uno con un número. A unos 20 m, un jugador se venda, gira tres veces y camina hasta la mesa. Al llegar apoya el dedo: si cae dentro de un círculo, suma ese número.
 
 ## Desarrollo
-Una carrera de obstáculos siempre es popular; la dificultad, en general, es conseguir obstáculos adecuados. El dibujo muestra una mesa larga, que se puede conseguir en la carpa comedor. Sobre ella se dibujan varios círculos a distancias irregulares. Se hace una marca a, digamos, 23 m, y a un scout se le vendan los ojos, se lo hace girar tres veces y se le permite ir hacia la mesa. Cada círculo tiene un número distinto adentro, y cuando el scout llega a la mesa tiene que apoyar los dedos en ella. Si apoya los dedos dentro de un círculo, ese número se suma a su puntaje; si no, no recibe nada. La idea del juego es sumar la mayor cantidad posible en una cantidad dada de turnos.
+Una carrera a ciegas hacia una mesa con círculos numerados: hay que llegar y apoyar el dedo en el número más alto posible.
+
+El original lo llama «carrera de obstáculos» porque la mesa es el obstáculo: lo difícil es llegar hasta ella y acertar sin ver.
+
+1. Sobre una mesa larga (por ejemplo, la mesa del comedor del campamento) se dibujan varios círculos, separados a distancias irregulares. Dentro de cada círculo se escribe un número distinto.
+2. A unos 23 metros de la mesa se marca la línea de partida.
+3. A un jugador se le vendan los ojos en la línea de partida, se lo hace girar tres veces sobre sí mismo y se lo deja caminar hacia la mesa.
+4. Cuando llega, tiene que apoyar los dedos sobre la mesa.
+5. Si apoya los dedos dentro de un círculo, suma ese número. Si cae afuera de los círculos, no suma nada.
+6. Cada jugador tiene la misma cantidad de turnos.
+
+**Cómo se gana:** gana el que suma más puntos en la cantidad de turnos acordada.
 
 ## Cierre
 - ¿Llegaste derecho a la mesa? ¿Por qué se desvía uno al caminar con los ojos cerrados?

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,12 +138,35 @@ rama_rovers:
 # Posta de Tiro al Blanco
 
 ## Cómo se juega
-Los equipos en fila india; delante de cada equipo, a unos 9 metros, se pone un blanco (un bolo o una botella de plástico con un poco de arena). Cada equipo tiene tres pelotas de tenis. Cada jugador, por turno, tira para voltear el blanco, buscando sus propias pelotas si hace falta, y cuando lo voltea lo vuelve a parar para el siguiente. Gana el primer equipo en el que todos voltean el blanco. Los que ya lo lograron pueden buscar las pelotas para su equipo.
+Una carrera de postas de puntería: cada jugador tiene que voltear un blanco con pelotas de tenis.
 
-**Carrera de las papas por equipos:** los equipos en fila; a unos 27 metros delante de cada equipo, un balde en el centro de un círculo (de unos 3 m de radio). Alrededor del círculo se ponen tres papas por cada integrante del equipo. Los equipos corren hasta el borde del círculo y cada jugador trata de meter sus tres papas en el balde de su equipo. Cuando un jugador ya metió todas sus papas, puede ayudar devolviendo las papas que no entraron. Gana el primer equipo que vuelve al punto de partida con todas sus papas en el balde.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo, a unos 9 metros, se para un blanco: un bolo, o una botella de plástico con un poco de arena para que no se caiga sola.
+2. Cada equipo tiene tres pelotas de tenis.
+3. A la señal, el primero de cada equipo tira las pelotas tratando de voltear el blanco. Si tira las tres y no lo voltea, va a buscar sus pelotas y vuelve a tirar desde la línea.
+4. Cuando lo voltea, va, vuelve a parar el blanco para el siguiente y le deja las pelotas.
+5. Los que ya voltearon el blanco pueden ir a buscar las pelotas para los compañeros que siguen.
+
+**Cómo se gana:** gana el primer equipo en el que todos voltearon el blanco.
+
+**Carrera de las papas por equipos (variante del original):** delante de cada equipo, a unos 27 metros, se pone un balde en el centro de un círculo de unos 3 metros de radio. Alrededor del círculo, en el borde, se ponen tres papas por cada jugador del equipo. A la señal, todo el equipo corre hasta el borde de su círculo y cada jugador trata de embocar sus tres papas en el balde, tirándolas desde afuera del círculo. Cuando un jugador ya metió las suyas, puede ayudar devolviéndoles a sus compañeros las papas que no entraron. Gana el primer equipo que vuelve al punto de partida con todas sus papas en el balde.
 
 ## Para cerrar
 - ¿Ayudar a los compañeros a buscar pelotas hizo que la patrulla ganara?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TARGET RELAY.**
+
+Teams in file; some target (Indian club) set up about 10 yards in front of each team. Each team has three tennis balls. Each player in turn throws to hit the target, retrieving his own balls, if necessary, and replacing the target after he hits it for the next. First team to all knock the target over wins. Successful players may retrieve balls for their team.
+
+**POTATO TEAM RACE.**
+
+Teams in line, a bucket about 30 yards in front of each team in the centre of a circle (radius about 3 yards). Placed round the circle three potatoes for each member of the team. Teams run to the edge of the circle, and each player tries to throw his three potatoes into his team’s bucket. A player, when all his potatoes are in the bucket, may help by throwing BACK potatoes which miss. First team back at the start with all its potatoes in the bucket wins.
 
 
 ## Texto original completo de la actividad

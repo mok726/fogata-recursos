@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,7 +140,15 @@ rama_rovers:
 # Carrera de Llenar la Botella
 
 ## Cómo se juega
-Los equipos en fila; cada equipo tiene un balde con agua en una punta de la fila, una botella vacía en la otra y una cucharita. Gana el primer equipo que llena la botella con agua hasta una marca fijada. El agua solo se puede llevar pasando la cucharita de un jugador a otro a lo largo de la fila.
+Una carrera de cooperación con paciencia: hay que llenar una botella pasando el agua de a una cucharita por vez.
+
+1. Cada equipo se forma en una fila, uno al lado del otro.
+2. En una punta de la fila se pone un balde con agua y en la otra punta una botella vacía, con una marca hasta donde hay que llenarla. Cada equipo tiene una cucharita de té.
+3. A la señal, el primero llena la cucharita con agua del balde y se la pasa al de al lado, que se la pasa al siguiente, y así hasta el último, que vuelca el agua en la botella.
+4. La cucharita vuelve vacía por la fila y se repite.
+5. El agua solo se puede llevar de esta manera: pasando la cucharita de mano en mano a lo largo de la fila. Nadie puede caminar con ella.
+
+**Cómo se gana:** gana el primer equipo que llena su botella hasta la marca.
 
 ## Para cerrar
 - ¿Cuánta agua se perdió en el camino?
@@ -147,6 +156,15 @@ Los equipos en fila; cada equipo tiene un balde con agua en una punta de la fila
 
 ## Notas para educadores
 - Una linda excusa para hablar del cuidado del agua. Al terminar, usá el agua del balde para regar plantas.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FILL THE BOTTLE RACE.**
+
+Teams in line; each team has a pail of water at one end of their line and an empty bottle at the other and a teaspoon. The team first to fill the bottle up to a fixed mark with water wins. The water may only be transferred by the spoon being passed from one player to another along the line.
 
 
 ## Texto original completo de la actividad

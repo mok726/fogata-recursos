@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,13 @@ rama_rovers:
 # Volver a Poner las Dos Sillas
 
 ## Cómo se juega
-Se dejan dos sillas como al descuido en el salón, en un lugar bastante visible, pero no se dice nada de ellas. Después se mueven y cada equipo, por turno, trata de volver a ponerlas exactamente donde estaban.
+Un juego de observación que se arma sin avisar.
+
+1. Al empezar la reunión, el que dirige deja dos sillas como al descuido en algún lugar bastante visible del salón, pero no dice nada de ellas.
+2. Más tarde, sin que los jugadores vean, mueve las dos sillas.
+3. Entonces pregunta dónde estaban, y cada equipo, por turno, trata de volver a ponerlas exactamente en el lugar y en la posición en que estaban.
+
+**Cómo se gana:** gana el equipo que las deja más cerca de su lugar original.
 
 ## Para cerrar
 - ¿Quién se había dado cuenta de las sillas? ¿Les llamó la atención en ese momento?
@@ -144,6 +151,15 @@ Se dejan dos sillas como al descuido en el salón, en un lugar bastante visible,
 ## Notas para educadores
 - Marcá con una tiza chiquita, donde no se vea, las patas de las sillas para poder corregir.
 - Funciona una sola vez por grupo: guardalo para el día justo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**REPLACE TWO CHAIRS.**
+
+Two chairs are left casually in the room in a rather noticeable position, but are not mentioned. They are then moved and each team in turn tries to replace them correctly.
 
 
 ## Texto original completo de la actividad

@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,9 +136,17 @@ rama_rovers:
 # Cuervos y Grullas
 
 ## Cómo se juega
-Dos equipos frente a frente, a 1,5 m uno del otro; uno se llama «Cuervos» y el otro «Grullas». El que dirige dice uno de los dos nombres, haciendo rodar la R, y el equipo que lleva ese nombre tiene que llegar a su punta del salón antes de que lo toque el otro equipo. Gana el equipo que primero atrapa a todos los del otro.
+Un juego de reflejos y carrera entre dos equipos: hay que reaccionar rápido al nombre que dice el que dirige, para escapar o para perseguir.
 
-**Variante:** cuando el que dirige dice «Cangrejos», nadie se puede mover; el que se mueve se considera atrapado por el otro bando. Lo demás, igual que antes.
+1. Se forman dos equipos en dos filas, mirándose de frente, a 1,5 m una de otra, en el medio del salón. Un equipo se llama «Cuervos» y el otro «Grullas». Cada equipo tiene su refugio en la pared o en la punta del salón que le queda a la espalda.
+2. El que dirige va a decir uno de los dos nombres, pero antes hace suspenso: hace una pausa larga, o hace sonar un «Rrrrrr…» que no da ninguna pista, y recién entonces dice de golpe «¡Cuervos!» o «¡Grullas!». Así nadie sabe hasta el último momento si le toca escapar o perseguir. (En el original, en inglés, los dos nombres empiezan igual, «Crows» y «Cranes», y el que dirige estira la R del principio para mantener la duda.)
+3. El equipo nombrado sale corriendo hacia su punta del salón, y el otro equipo sale a perseguirlo.
+4. El que es tocado antes de llegar a su punta queda atrapado por el equipo que lo tocó.
+5. Todos vuelven a formarse en las dos filas y el que dirige dice otro nombre.
+
+**Cómo se gana:** gana el equipo que primero atrapa a todos los del otro.
+
+**Cangrejos (variante del original):** el que dirige también puede decir «¡Cangrejos!». En ese caso nadie se puede mover: el que arranca a correr, aunque sea un paso, se considera atrapado por el otro equipo. Lo demás se juega igual.
 
 ### Variante: Verdadero o falso
 Un equipo es «Verdadero» y el otro «Falso». El que dirige dice una frase («El hornero hace su nido de barro») y, según sea cierta o no, escapa uno u otro. Sirve para repasar cualquier tema.
@@ -147,6 +156,17 @@ Un equipo es «Verdadero» y el otro «Falso». El que dirige dice una frase («
 
 ## Notas para educadores
 - La variante de verdadero o falso convierte el juego en un repaso de técnica scout, de naturaleza o de lo que estén trabajando.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CROWS AND CRANES.**
+
+Two teams facing each other 5 feet apart, one called “Crows,” the other “Cranes.” Leader calls one of these names, rolling the R, and the team with that name has to reach their end of the room before being touched by the other team. Team first catching all the others wins.
+
+Variation.-When leader calls “Crabs” none may move, any doing so are deemed caught by the other side. Otherwise as before.
 
 
 ## Texto original completo de la actividad

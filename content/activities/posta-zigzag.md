@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,17 @@ rama_rovers:
 # Posta en Zigzag
 
 ## Cómo se juega
-Los equipos en fila india, a unos 60 cm uno de otro. El último corre en zigzag entre los demás de su equipo hasta adelante; apenas llega, levanta la mano y sale el nuevo último. Gana el primer equipo que vuelve a quedar en su posición original. También se puede jugar saltando en un pie, corriendo para atrás, etc.
+Una carrera de postas en la que cada jugador corre en zigzag entre sus compañeros.
+
+1. Los equipos se forman en fila india, con unos 60 cm de distancia entre jugador y jugador.
+2. A la señal, el último de cada fila corre hacia adelante pasando en zigzag entre sus compañeros: por la derecha de uno, por la izquierda del siguiente, y así.
+3. Cuando llega adelante, se queda ahí, como primero de la fila, y levanta la mano.
+4. Al ver la mano levantada, sale el que ahora quedó último, y hace lo mismo.
+5. Se sigue hasta que el equipo vuelve a quedar en el orden en que empezó.
+
+**Cómo se gana:** gana el primer equipo que vuelve a su posición original.
+
+**Otras formas (variante del original):** también se puede jugar saltando en un pie, corriendo para atrás o de otras maneras.
 
 ### Variante: Saltando, para atrás, gateando
 Se hace en un pie, caminando para atrás o gateando.
@@ -145,6 +156,15 @@ Al llegar adelante, el corredor sigue hasta una marca y vuelve a ponerse adelant
 
 ## Para cerrar
 - ¿Qué parte costaba más: el zigzag o mantener la fila derecha?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ZIG-ZAG RELAY.**
+
+Teams in file, players about 2 feet apart. Back player runs zig-zag between the rest of his team to the front as soon as he gets there he holds up his hand, and the new back player starts. The team to first regain its original position wins. May also be played hopping, running backwards, etc.
 
 
 ## Texto original completo de la actividad

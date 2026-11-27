@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,26 @@ rama_rovers:
 # Deletrealo
 
 ## Cómo se juega
-Los jugadores en ronda. El que dirige señala a un jugador, dice una palabra y enseguida empieza a contar hasta 10 a ritmo parejo. El jugador señalado tiene que deletrear la palabra bien, pero al revés, antes de llegar a 10. Conviene empezar con palabras de 3 letras e ir subiendo a 5 o más.
+Un juego de concentración con palabras al revés.
+
+1. Los jugadores se sientan en ronda.
+2. El que dirige señala a uno, dice una palabra (por ejemplo, «sol») y enseguida empieza a contar hasta 10 a ritmo parejo.
+3. El jugador señalado tiene que deletrear la palabra al revés antes de que llegue a 10: «L, O, S».
+4. Se empieza con palabras de 3 letras y se va subiendo a 5 o más: mate, carpa, fogón, mochila.
+
+**Cómo se gana:** cada palabra bien deletreada a tiempo vale un punto.
 
 ## Para cerrar
 - ¿Qué truco usaron? ¿Se imaginaban la palabra escrita?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPELL IT.**
+
+Players in circle. Leader points to a player and says a word and at once starts to count 10 at a steady pace. The player pointed at must spell the word correctly backwards before 10 is reached. Best played starting with 3-letter words and getting on to 5 or more.
 
 
 ## Texto original completo de la actividad

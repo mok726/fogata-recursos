@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,10 +138,24 @@ rama_rovers:
 # Palabras que Faltan
 
 ## Cómo se juega
-El que dirige lee una serie de frases, a cada una de las cuales le falta una palabra. Los jugadores escriben una palabra que entre en el hueco, o incluso varias opciones. Por ejemplo: «El scout se lastimó el pie y se fue…»: sonriendo, silbando, rengueando, etc.
+Un juego de palabras: hay que completar frases.
+
+1. El que dirige lee frases a las que les falta una palabra. Por ejemplo: «El scout se lastimó el pie y se fue…».
+2. Cada jugador escribe una palabra que entre en el hueco, o varias: «sonriendo», «silbando», «rengueando», «al botiquín».
+
+**Cómo se gana:** cada palabra que tenga sentido vale un punto. Gana el que tiene más.
 
 ## Para cerrar
 - ¿Qué palabra los sorprendió? ¿Cambia mucho la frase con cada palabra?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**MISSING WORDS.**
+
+Leader reads out a series of sentences, each with a word missing. Players write down a word that will fit in the blank, or even several alternative words. E.g. “The Scout hurt his foot and ......” Smiled, whistled, limped, died, etc. etc.
 
 
 ## Texto original completo de la actividad

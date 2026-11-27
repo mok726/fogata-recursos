@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,9 +136,18 @@ rama_rovers:
 # Buzz
 
 ## Cómo se juega
-Los jugadores en ronda. Cuentan por turno, pero cada vez que toca el 7, un múltiplo de 7 o un número que tenga un 7 (como 14, 21, 27, 28, etc.), el jugador al que le toca tiene que decir «Buzz». Con dos errores, el jugador sale. El 71 es «buzz uno»; el 77, «buzz buzz». Después de cada error se vuelve a contar desde 1.
+Un juego de números para pensar rápido. Se dice «Buzz» (se pronuncia «bas») en lugar de ciertos números.
 
-**Whizz Buzz:** igual que el anterior, pero además de decir «Buzz» por el 7, los jugadores dicen «Whizz» por el 5. Por ejemplo, 57 es «whizz buzz»; 75 es «buzz whizz»; 35 es «whizz whizz buzz», porque es a la vez un número con 5, un múltiplo de 5 y un múltiplo de 7.
+1. Los jugadores se sientan en ronda.
+2. Empiezan a contar en voz alta, uno por vez: el primero dice «1», el siguiente «2», y así.
+3. Cuando al que le toca le corresponde decir el 7, un número que tiene un 7 (17, 27, 70…) o un múltiplo de 7 (14, 21, 28…), en lugar del número tiene que decir «Buzz».
+4. Algunos casos especiales: el 71 se dice «buzz uno» y el 77, «buzz buzz».
+5. Si alguien se equivoca (dice el número en lugar de «Buzz», o dice «Buzz» donde no va), se vuelve a contar desde 1.
+6. Con dos errores, el jugador sale de la ronda.
+
+**Cómo se gana:** gana el último que queda.
+
+**Whizz Buzz (variante del original, más difícil):** además de «Buzz» para el 7, se dice «Whizz» (se pronuncia «uis») para el 5, los números con 5 y los múltiplos de 5. Por ejemplo: 57 es «whizz buzz»; 75 es «buzz whizz»; 35 es «whizz whizz buzz», porque tiene un 5, es múltiplo de 5 y es múltiplo de 7.
 
 ### Variante: Para los más chicos
 Con lobatos, usá solo el 3 o el 5, que son más fáciles.
@@ -148,6 +158,19 @@ Con lobatos, usá solo el 3 o el 5, que son más fáciles.
 ## Notas para educadores
 - Es un juego para repasar las tablas sin que se note.
 - Que el ritmo sea rápido pero parejo: si alguien tarda, contá hasta tres en voz alta.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BUZZ.**
+
+Players in circle. They count in turn, but whenever the number 7 comes, or a multiple of 7, or a figure with 7 in it (such as 14, 21, 27, 28, etc.), the player whose turn it is must say “Buzz.” After two mistakes player drops out. 71 is “buzz one,” 77 is “buzz-buzz.” After each mistake the count starts again at 1.
+
+**WHIZZ BUZZ.**
+
+Exactly as for No. 2, except that as well as saying “ Buzz” for 7, the players also say “Whizz” for 5. E.g. 57 is “whizz buzz.” 75 is “buzz whizz.” 35 is “ whizz whizz buzz.” Being both a number with 5 in it, a multiple of 5, and a multiple of 7. For further details see No. 2.
 
 
 ## Texto original completo de la actividad

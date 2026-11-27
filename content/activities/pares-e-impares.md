@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,31 @@ rama_rovers:
 # Carrera de Impares alrededor de Pares
 
 ## Cómo se juega
-Los equipos en fila india; cada equipo tiene un número, y también cada jugador. A la orden «¡Impares alrededor de pares… YA!», cada jugador con número impar corre alrededor del número par más cercano. Gana el primer equipo que vuelve a estar en posición de «¡atención!». Hay otras órdenes, como «¡Equipos IMPARES alrededor de pares… YA!», etc. Se puede largar a los jugadores desde sentados.
+Una carrera de reacción rápida: hay que prestar atención a la orden y correr alrededor del compañero que corresponde.
+
+1. Los equipos se forman en fila india, uno al lado del otro. Cada equipo tiene un número (1, 2, 3…), y dentro de cada equipo cada jugador también tiene un número, contando desde adelante.
+2. El que dirige da una orden, por ejemplo: «¡Impares alrededor de pares… YA!».
+3. Con esa orden, cada jugador con número impar (1, 3, 5…) sale corriendo, da una vuelta alrededor del jugador con número par más cercano de su equipo y vuelve a su lugar.
+4. Cuando todos volvieron, el equipo se queda quieto en posición de «¡atención!», bien parados y derechos.
+5. El que dirige va cambiando las órdenes: por ejemplo, «¡Pares alrededor de impares… YA!», o «¡Equipos impares alrededor de equipos pares… YA!». En este último caso corren todos los jugadores de los equipos con número impar, alrededor del equipo par más cercano.
+6. Para hacerlo más difícil, los jugadores pueden empezar sentados en el piso.
+
+**Cómo se gana:** en cada orden, gana el primer equipo que vuelve a estar completo en posición de «¡atención!».
 
 ### Variante: Sentados
 Se arranca sentado en el piso, para hacerlo más difícil.
 
 ## Para cerrar
 - ¿Cuál fue la orden más confusa?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ODDS ROUND EVENS RACE.**
+
+Teams in file; each team has a given number, as does each player. On order “Odds round Evens ........ GO,” each player with an odd number runs round the nearest even number. First team back at “alert” wins. Other orders such as “ODD teams round Even... GO,” etc. Players may be started from a sitting position.
 
 
 ## Texto original completo de la actividad

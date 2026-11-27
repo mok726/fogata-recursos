@@ -58,6 +58,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,9 +145,13 @@ rama_rovers:
 3. Numeralas por detrás.
 
 ## Cómo se juega
-Se recortan en cartón varias figuras conocidas. Cada jugador, por turno y con los ojos vendados, trata de decir qué son tocándolas. Hay que marcar la parte de arriba de cada cartón para que el que toca sepa cómo agarrarlo.
+Un juego para adivinar formas solo con las manos.
 
-Por ejemplo: una serie de cabezas de animales, etc.
+1. Antes del juego, el que dirige recorta en cartón varias figuras conocidas, por ejemplo cabezas de animales (un caballo, un perro, un gallo, un elefante). En cada cartón marca cuál es la parte de arriba, para que el que toca sepa cómo agarrarlo.
+2. Por turno, a cada jugador se le vendan los ojos y se le da una figura.
+3. El jugador la toca, recorre el borde con los dedos y dice qué cree que es.
+
+**Cómo se gana:** cada figura adivinada vale un punto. Gana el que adivina más.
 
 ### Variante: Por patrullas
 Cada patrulla manda un jugador por ronda. Gana la patrulla con más aciertos en total.
@@ -161,6 +166,15 @@ En vez de siluetas, usá hojas de árboles del lugar (secas y ya caídas). Hay q
 ## Notas para educadores
 - Sirve para hablar de inclusión y de cómo usamos los otros sentidos cuando falta la vista.
 - Para Manada usá formas muy simples; para Scouts podés usar siluetas parecidas entre sí (dos herramientas, dos aves).
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT PROFILE.**
+
+A number of well-known shapes are cut out of cardboard. Each player in turn tries to say what they are by feeling blindfold. The top of each card should be marked for the feeler. E.g. A series of heads of animals, etc.
 
 
 ## Texto original completo de la actividad

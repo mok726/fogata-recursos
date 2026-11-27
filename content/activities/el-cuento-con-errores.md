@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,7 +143,13 @@ rama_rovers:
 2. Metele entre 10 y 15 errores: cosas imposibles, cosas que se contradicen («los cuatro de la patrulla: Ana, Leo y Sofi»), errores de técnica scout («el pañuelo se ata con nudo de rizo… en los cordones»).
 
 ## Cómo se juega
-Los jugadores en ronda; el que dirige lee un cuento en el que metió muchos errores y contradicciones. Gana el equipo o el jugador que, al final, tiene la mejor lista de errores.
+Un juego de atención: hay que cazar los errores de un cuento.
+
+1. Los jugadores se sientan en ronda.
+2. El que dirige lee un cuento en el que metió a propósito muchos errores y contradicciones: por ejemplo, «era una noche de sol», o un personaje que al principio es pelado y después se peina.
+3. Cada jugador o equipo anota todos los errores que descubre.
+
+**Cómo se gana:** al final se comparan las listas y gana el que encontró más errores.
 
 ### Variante: Escriban el suyo
 Cada patrulla escribe un cuento con diez errores para que las demás los descubran.
@@ -153,6 +160,15 @@ Cada patrulla escribe un cuento con diez errores para que las demás los descubr
 
 ## Notas para educadores
 - Si los errores son de técnica scout, el juego sirve para repasar sin que parezca una clase.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUEER STORY.**
+
+Players in circle; leader reads a story into which are introduced numerous inaccuracies and contradictions. The team or player with the best list of faults at the end wins.
 
 
 ## Texto original completo de la actividad

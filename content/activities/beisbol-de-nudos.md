@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,13 +145,36 @@ rama_rovers:
 2. Marcá un rombo con cuatro bases, a unos 15 metros entre sí.
 
 ## Cómo se juega
-Se juega al rounders (el juego inglés del que viene el béisbol), pero sin bate ni pelota. El lanzador y el bateador tienen sogas. El lanzador dice el nombre de un nudo y le tira una soga a cualquier jugador del campo. Si el bateador llega a la 1.ª base con el nudo bien hecho, se queda ahí; si la soga del jugador del campo, bien atada, llega antes, el bateador queda afuera; si el bateador no puede hacer el nudo, queda afuera; si el del campo no lo puede hacer, el equipo que batea suma un punto, pase lo que pase. Si los del campo quieren, con una soga bien atada pueden sacar a un jugador que está en la 2.ª o la 3.ª base, como en el rounders. Los del campo tienen que recibir la soga por turno, no solo el que mejor hace los nudos.
+Se juega como el rounders, pero sin bate ni pelota: en vez de pegarle a la pelota, hay que hacer un nudo.
+
+El rounders es el juego inglés del que viene el béisbol. Se juega en una cancha con cuatro bases (postes o marcas) dispuestas en ronda, más un lugar para batear. Un equipo batea y el otro está en el campo. Cada bateador, después de batear, corre de base en base. El que da la vuelta completa y llega a la cuarta base anota un punto, que se llama «rounder». El que llegó a una base se queda ahí, y cuando batea el siguiente compañero puede seguir corriendo a las bases siguientes. Cuando todos los del equipo que batea quedaron afuera, los equipos cambian de papel.
+
+1. Se arma la cancha. Hay un lanzador (del equipo del campo) y un bateador (del equipo que batea), y los dos tienen una soga.
+2. El lanzador dice el nombre de un nudo y le tira una soga a cualquier jugador del campo.
+3. Al mismo tiempo, el bateador y ese jugador del campo hacen el nudo que se dijo.
+4. El bateador, con su nudo hecho, corre hacia la primera base. El del campo, con su nudo hecho, lleva o tira la soga a la primera base para sacarlo, como si fuera la pelota.
+5. Si el bateador llega primero con el nudo bien hecho, se queda en la base. Si la soga del campo, bien atada, llega antes, el bateador queda afuera.
+6. Si el bateador no puede hacer el nudo, queda afuera.
+7. Si el del campo no puede hacer el nudo, el equipo que batea suma un rounder, pase lo que pase.
+8. Si los del campo quieren, con una soga bien atada pueden sacar a un jugador que está en la segunda o la tercera base, como en el rounders.
+9. Los del campo tienen que recibir la soga por turno, no solo el que mejor hace los nudos.
+
+**Puntaje:** gana el equipo que anota más rounders.
 
 ## Para cerrar
 - ¿Cómo se organizaron los fildeadores?
 
 ## Notas para educadores
 - La regla de que la soga vaya a un fildeador distinto cada vez es clave: hace que todos practiquen, no solo los que saben.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KNOTTING ROUNDERS.**
+
+Rounders, but no bat or ball. Pitcher and batter have ropes. Pitcher calls name of a knot and throws rope to any fielder. If batter reaches 1st base with knot right, he stays there; if fielder’s rope, tied right, gets there first, batter out; if batter cannot tie knot, out; if fielder cannot tie it, one rounder to batting side, whatever else happens. A correctly knotted rope may run out a player on 2nd or 3rd base, as in rounders, if fielders wish. The fielders must get the rope in turn, not only the best knotter.
 
 
 ## Texto original completo de la actividad

@@ -148,7 +148,15 @@ rama_rovers:
 Durante toda la reunión, un scout anota en secreto unas veinte frases llamativas que dijeron los demás. Hacia el final, las copia en hojas grandes numeradas. Se van mostrando una por una y cada jugador escribe quién cree que la dijo.
 
 ## Desarrollo
-Es una prueba de memoria, y vale mucho la pena probarla en el local. Durante toda la velada, y sin que los demás lo sepan, un scout debería anotar en una libreta a mano unas veinte de las frases más llamativas que se digan en la conversación general. Hacia el final de la velada, se escabulle y, en cada una de veinte hojas apartadas para eso, escribe uno de los "dichos" con letra grande. Para esto habría que usar crayón azul o negro, de modo que cada frase se vea claramente cuando se cuelguen las hojas. Las hojas se numeran, se sujetan juntas y se dan vuelta de a una, dejando tiempo suficiente para que los participantes escriban en un papelito "¿Quién dijo eso?".
+Una prueba de memoria para una reunión en el local: hay que recordar quién dijo cada frase durante la noche.
+
+1. Antes de empezar la reunión, el que dirige le encarga a un jugador, en secreto, que haga de anotador.
+2. Durante toda la reunión, sin que los demás se den cuenta, el anotador apunta en una libreta unas veinte de las frases más llamativas que se digan en la charla general, y quién las dijo.
+3. Hacia el final de la reunión, el anotador se aparta un momento y escribe cada frase en una hoja grande distinta (tiene unas veinte hojas preparadas). Usa un marcador o crayón azul o negro y letra grande, para que se lea bien de lejos.
+4. Numera las hojas y las cuelga todas juntas, una encima de la otra, como un rotafolio.
+5. Después las va dando vuelta de a una. Con cada frase deja el tiempo suficiente para que todos escriban en un papelito el número de la hoja y quién creen que la dijo.
+
+**Cómo se gana:** al final se leen las respuestas correctas, y gana el que acertó más.
 
 ## Cierre
 - ¿Qué frase fue la más fácil de reconocer? ¿Por qué?

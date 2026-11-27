@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,9 +138,18 @@ rama_rovers:
 # Carrera de Tres Piernas
 
 ## Cómo se juega
-Los equipos se dividen en parejas; cada pareja, uno al lado del otro, tiene atadas juntas las piernas de adentro a la altura de la rodilla y del tobillo. Cada pareja corre así hasta un punto dado y vuelve, y la segunda pareja sale cuando termina la primera. Gana el primer equipo que termina.
+La clásica carrera de a dos con una pierna atada a la del compañero, como si entre los dos tuvieran tres piernas.
 
-**Carrera de muchas piernas:** los equipos en fila, cada jugador con las piernas atadas a la altura de la rodilla y del tobillo a las de los jugadores de cada costado. En esa formación corren un recorrido dado. Gana el primer equipo que termina entero.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Enfrente se marca un punto de vuelta.
+2. Los dos de cada pareja se paran uno al lado del otro. Se atan juntas las piernas de adentro (la derecha de uno con la izquierda del otro) a la altura de la rodilla y del tobillo, con pañuelos o tiras de tela.
+3. A la señal, la primera pareja corre así, atada, hasta el punto marcado y vuelve.
+4. Cuando llega, sale la segunda pareja, y así hasta que pasaron todas.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todas las parejas.
+
+**Carrera de muchas piernas (variante del original):** cada equipo se para en una fila, todos uno al lado del otro. Cada jugador se ata las piernas, a la altura de la rodilla y del tobillo, con las de los compañeros que tiene a cada costado. Así, atados, todo el equipo corre un recorrido fijado. Gana el primer equipo que termina entero, sin desatarse ni romper la fila.
 
 ### Variante: Cuatro piernas con cucharas
 Tríos atados, y los de las puntas llevan una papa en una cuchara.
@@ -149,6 +159,19 @@ Tríos atados, y los de las puntas llevan una papa en una cuchara.
 
 ## Notas para educadores
 - El juego habla de ponerse de acuerdo: preguntá qué hicieron las parejas que no se cayeron.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**THREE-LEGGED RACE.**
+
+Teams divided into pairs of players, each pair having their inner legs, as they stand side by side, tied together at the knee and ankle. Each pair run to a given point and back in this position, the second pair starting as the first finishes. Team to finish first wins.
+
+**MANY-LEGGED RACE.**
+
+Teams in line, with each player’s legs tied at the knee and ankle to those of the players on either side of him. In this formation they race round a given course. First team to finish intact wins.
 
 
 ## Texto original completo de la actividad

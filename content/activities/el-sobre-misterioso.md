@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,9 +145,15 @@ rama_rovers:
 3. Guardá cada mensaje en un sobre con el nombre de la patrulla.
 
 ## Cómo se juega
-Cada guía de patrulla recibe un mensaje misterioso en un sobre cerrado, que se abre a una señal. Después cumple las órdenes del mensaje, que es una pista para encontrar un tesoro escondido.
+Una búsqueda del tesoro con mensajes en clave.
 
-Por ejemplo: «Desde P. O. ....... 1,5 m, buscá bronce». Es decir: a 1,5 metros de la pared oeste del salón, encontrá una chinche de cabeza dorada en el piso.
+1. Antes del juego, el que dirige esconde un «tesoro» y prepara mensajes con pistas en sobres cerrados.
+2. Le da un sobre a cada guía de patrulla, que no lo puede abrir hasta la señal.
+3. A la señal, cada guía abre el sobre y su patrulla sigue las órdenes del mensaje, que es una pista para encontrar el tesoro.
+
+**Ejemplo de mensaje:** «Desde P. O. 1,5 m, buscá bronce». Quiere decir: a 1,5 metros de la pared oeste del salón, buscá una chinche de cabeza dorada clavada en el piso.
+
+**Cómo se gana:** gana la primera patrulla que encuentra su tesoro.
 
 ### Variante: En cadena
 El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro mensajes, llegan al tesoro final.
@@ -156,6 +163,15 @@ El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro m
 
 ## Notas para educadores
 - Antes, repasá los puntos cardinales del local: pegá carteles con N, S, E y O en las paredes si hace falta.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HIDDEN TREASURE.**
+
+Each P.L. gets a mysterious message in a sealed envelope to be opened at a given signal. He then acts on the orders in the message which is a clue to hidden treasure. E.g. From W. W ....... D. 5 f., search for brass. I.e. 5 feet from the West Wall of the room find a brass-headed drawing-pin in the floor.
 
 
 ## Texto original completo de la actividad

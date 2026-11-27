@@ -146,7 +146,14 @@ rama_rovers:
 Unos doce jugadores se sientan en ronda con los pies hacia adentro, formando un círculo justo para que quepa uno de pie. El del centro se queda rígido y se deja caer hacia adelante o hacia atrás; los de la ronda lo reciben con las manos y lo pasan de uno a otro. Si alguien lo deja caer, pasa al centro.
 
 ## Desarrollo
-Este es un buen juego por la diversión que da y para desarrollar las muñecas y los brazos. Una docena de jugadores, más o menos, se sienta en ronda con los pies hacia adentro. Los pies forman un círculo apenas lo bastante grande para que otro jugador se pare adentro. El jugador del centro se queda completamente rígido y, apenas los demás están listos, se deja caer, hacia atrás o hacia adelante, sobre las manos extendidas de los jugadores de la ronda. Los de la ronda empujan al del centro de mano en mano, y cuando uno de ellos lo deja caer, cambia de lugar con el del centro y a su vez lo pasan por toda la ronda.
+Un juego de ronda en el que un jugador se deja caer, rígido como un palo, y los demás lo van pasando de mano en mano. Es muy divertido y fortalece las muñecas y los brazos.
+
+1. Unos doce jugadores se sientan en el suelo formando una ronda, con los pies hacia el centro. Los pies forman un círculo en el que entra justo un jugador parado.
+2. Un jugador se para en el centro, con el cuerpo completamente rígido.
+3. Los de la ronda levantan los brazos con las manos extendidas.
+4. Cuando todos están listos, el del centro se deja caer, hacia atrás o hacia adelante, sobre las manos de los de la ronda, sin doblarse.
+5. Los de la ronda lo empujan suavemente de mano en mano, alrededor del círculo.
+6. Si a alguno de la ronda se le cae, ese pasa al centro y el del centro ocupa su lugar en la ronda.
 
 ### Variante: Versión de pie
 Los de la ronda se paran hombro con hombro y el del centro se deja caer apenas, con el círculo bien cerrado. Es la versión que más se usa hoy como dinámica de confianza.

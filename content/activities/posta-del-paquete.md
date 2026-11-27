@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,10 +142,28 @@ rama_rovers:
 # Posta del Paquete
 
 ## Cómo se juega
-Los equipos en fila india; enfrente de cada equipo, un pedazo de papel madera, un poco de piolín y un objeto para poner en el paquete. El primero de cada equipo corre, arma el paquete hasta que el que dirige quede conforme y vuelve corriendo para largar al siguiente, que desarma el paquete, enrolla el piolín y dobla bien el papel para que el siguiente vuelva a armar el paquete, y así sucesivamente. Gana el primer equipo que termina.
+Una carrera de postas para aprender a armar un paquete prolijo y bien atado.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida.
+2. Enfrente de cada equipo, a cierta distancia, se deja un pedazo de papel madera, un poco de piolín y un objeto para envolver (un libro, una caja chica, lo que haya).
+3. A la orden, el primero de cada equipo corre hasta allá y arma el paquete: envuelve el objeto con el papel y lo ata con el piolín. Tiene que quedar bien hecho, a conformidad del que dirige, que lo revisa.
+4. Cuando el que dirige lo aprueba, el jugador vuelve corriendo y toca al segundo de su fila.
+5. El segundo corre y desarma el paquete: desata el piolín y lo enrolla, y dobla el papel con prolijidad. Vuelve y toca al tercero.
+6. El tercero vuelve a armar el paquete, el cuarto lo desarma, y así sucesivamente hasta que pasaron todos.
+
+**Cómo se gana:** gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Para qué sirve saber hacer un paquete bien atado? (Mudanzas, envíos, campamento.)
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PARCEL RELAY.**
+
+Teams in file; opposite each team a piece of brown paper, some string, and an object to be put in the parcel. Each first player runs up and makes up the parcel to the satisfaction of the leader, and runs back to start the next, who undoes the parcel, rolls up the string, and folds the paper neatly for the next to remake the parcel, and so on. First team to finish wins.
 
 
 ## Texto original completo de la actividad

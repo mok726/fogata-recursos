@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,12 +138,35 @@ rama_rovers:
 # Posta de los Porotos
 
 ## Cómo se juega
-Los equipos en fila india; delante de cada equipo, una fila de circulitos a unos 90 cm uno de otro, y un círculo más grande justo delante del primer jugador, con tantos porotos como círculos haya. Cada jugador, por turno, lleva los porotos de a uno a los circulitos, uno en cada círculo, y después los vuelve de a uno al círculo grande; luego larga al siguiente. Gana el primer equipo que termina.
+Una carrera de postas de paciencia: hay que llevar porotos de a uno y después volver a juntarlos.
 
-**Carrera de porotos en cuadrado:** se ponen tantos platitos como equipos haya, a la misma distancia uno de otro (con 4 equipos, en cuadrado; con 5, en pentágono, etc.). En cada platito hay tantos porotos como jugadores tiene cada equipo. Cada equipo corre para pasar los porotos de a uno al platito siguiente hacia su derecha. Nadie puede tocar más de un poroto por vez, y hay que llevarlos, no tirarlos. El equipo puede formar una cadena. Gana el equipo que tiene menos porotos en su platito cuando se termina el tiempo.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Delante de cada equipo se dibuja en el piso una fila de circulitos, separados unos 90 cm entre sí. Justo delante del primer jugador se dibuja un círculo más grande, con tantos porotos adentro como circulitos haya.
+3. A la señal, el primero de cada equipo agarra un poroto del círculo grande y lo lleva al primer circulito; vuelve, agarra otro y lo lleva al segundo, y así hasta que queda un poroto en cada circulito.
+4. Después hace el camino inverso: vuelve a traer los porotos de a uno al círculo grande.
+5. Cuando están todos de nuevo en el círculo grande, larga al siguiente, que hace lo mismo.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Carrera de porotos en cuadrado (variante del original):** se ponen tantos platitos como equipos haya, todos a la misma distancia uno de otro: con 4 equipos forman un cuadrado, con 5 un pentágono, y así. Cada equipo se ubica junto a su platito, que tiene tantos porotos como jugadores tiene el equipo. A la señal, cada equipo trata de pasar sus porotos al platito que tiene a su derecha. Nadie puede tocar más de un poroto por vez, y los porotos se llevan en la mano, no se tiran. El equipo se puede organizar en cadena, pasándose los porotos de mano en mano. Como todos los equipos hacen lo mismo, a cada platito le siguen llegando porotos. Gana el equipo que tiene menos porotos en su platito cuando se termina el tiempo fijado.
 
 ## Para cerrar
 - ¿Les convenía correr muy rápido o ir seguros para no perder porotos?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BEAN RELAY.**
+
+Teams in file; in front of each team a row of small circles about 3 feet apart, and a larger circle just in front of the first player, in which are as many beans as there are circles. Each player in turn moves the beans one by one into the small circles, one to each circle, and then one by one returns them to the large circle; then sending off the next player. Team to finish first wins.
+
+**SQUARE BEAN RACE.**
+
+As many saucers as there are teams are put at equal distances one from the next (if 4 teams in the form of a square; 5, pentagon, etc.). In each saucer are as many beans as there are players in each team. Each team races to remove the beans one by one into the next saucer to their right. No player may touch more than one bean at a time, and they must be carried, not thrown. A team may form a chain. Team with fewest beans in its saucer at end of allotted time wins.
 
 
 ## Texto original completo de la actividad

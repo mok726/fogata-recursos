@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,9 +142,15 @@ rama_rovers:
 2. Marcá en el piso un círculo grande o un cuadrado donde va la pila.
 
 ## Cómo se juega
-Se tira una pila de bastones mezclados en el piso. Cada jugador, por turno, usa su propio bastón como rastrillo y trata de sacar de la pila todos los bastones que pueda sin mover ninguno de los demás. Si lo logra, sigue jugando; si no, le toca al siguiente.
+Es como el juego de los palitos chinos, pero con bastones scouts, y se juega en el piso.
 
-Si la pila queda casi imposible de desarmar, conviene volver a mezclarla. Gana el que junta más bastones.
+1. Se juntan todos los bastones en una pila en el piso, bien mezclados y cruzados unos sobre otros. Cada jugador se queda con un bastón propio aparte: es su herramienta.
+2. Por turno, cada jugador usa su bastón como si fuera un rastrillo o un gancho para sacar un bastón de la pila, arrastrándolo, empujándolo o levantándolo.
+3. Mientras saca ese bastón, ningún otro de la pila se puede mover. Los demás miran con atención.
+4. Si lo saca sin mover ningún otro, se lo queda y vuelve a jugar. Si se mueve otro bastón, pierde el turno y le toca al siguiente.
+5. Si la pila queda tan trabada que ya casi no se puede sacar ninguno, conviene volver a mezclarla.
+
+**Cómo se gana:** cuando no quedan bastones en la pila, gana el que juntó más.
 
 ### Variante: Palos con puntaje
 Pintá una franja de color en algunos palos: los comunes valen 1 punto y los pintados, 3. Así conviene arriesgarse a sacar los difíciles.
@@ -155,6 +162,17 @@ Pintá una franja de color en algunos palos: los comunes valen 1 punto y los pin
 ## Notas para educadores
 - Es un buen juego tranquilo para después de una actividad movida o para un día de lluvia en el local.
 - Mantené la ronda abierta para que nadie quede detrás de otro con un palo en la mano.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GIANT SPILLIKINS.**
+
+A heap of staves is jumbled up on the floor. Each player in turn by using his own staff, as a rake, tries to remove as many other staves as he can without shaking any of the heap. If he succeeds he has another turn, if not the next player goes.
+
+If the game becomes almost impossible a re-shuffle is desirable. Player collecting most staves wins.
 
 
 ## Texto original completo de la actividad

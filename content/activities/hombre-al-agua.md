@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,13 +145,30 @@ rama_rovers:
 2. Probá antes a qué velocidad tiene que caminar el «hombre al agua» para que el juego sea parejo.
 
 ## Cómo se juega
-Dos rollos de soga están de un lado de una línea; un jugador agarra la punta de una de las sogas y se aleja caminando de la línea. Otro tiene que unir las dos sogas antes de que la soga que sostiene el «hombre al agua» pase por completo la línea. El ritmo al que hay que caminar solo se encuentra probando.
+Un juego para practicar cómo unir dos sogas rápido y bien, como si hubiera que alcanzarle una soga más larga a alguien que se cayó al agua.
+
+1. Se marca una línea en el suelo. Del mismo lado de la línea se dejan dos rollos de soga.
+2. Un jugador, el «hombre al agua», agarra la punta de una de las sogas y empieza a caminar alejándose de la línea. A medida que camina, la soga se va desenrollando y pasando la línea.
+3. Otro jugador tiene que unir la otra punta de esa soga con la segunda soga, con un nudo bien hecho, antes de que la primera soga termine de pasar la línea.
+4. Si la soga se le escapa por la línea antes de terminar el nudo, perdió: el «hombre al agua» se quedó sin soga.
+5. Se cambian los papeles y juega otra pareja.
+
+**Consejo del original:** la velocidad a la que tiene que caminar el «hombre al agua» solo se encuentra probando. Depende del largo de la soga y de la experiencia de los que atan.
 
 ## Para cerrar
 - ¿Qué nudo usaron para unir las sogas? ¿Por qué ese y no otro?
 
 ## Notas para educadores
 - El que camina nunca corre ni tira de golpe.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**MAN OVERBOARD.**
+
+Two coils of rope lie on one side of a line and one player takes one end of one of the ropes and walks away from the line. One of the others must join the two ropes together before the one the “man overboard” holds is pulled over the line. Pace of walking can only be found by trial.
 
 
 ## Texto original completo de la actividad

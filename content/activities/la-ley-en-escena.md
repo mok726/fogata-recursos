@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,7 +139,13 @@ rama_rovers:
 # Actuar la Ley
 
 ## Cómo se juega
-Un equipo actúa uno de los artículos de la Ley Scout para los demás; a esto le puede seguir muy bien una charla muy corta sobre ese artículo, y se puede hacer un artículo distinto cada semana.
+Una forma de trabajar la Ley Scout con teatro.
+
+1. Un equipo elige uno de los artículos de la Ley Scout y lo actúa en una escena corta delante de los demás, sin decir cuál es.
+2. Los demás adivinan qué artículo es.
+3. Después, el que dirige puede dar una charla muy corta sobre ese artículo.
+
+**Consejo del original:** se puede hacer un artículo distinto cada semana.
 
 ## Para cerrar
 - ¿Qué artículo les costó más representar? ¿Por qué?
@@ -147,6 +154,15 @@ Un equipo actúa uno de los artículos de la Ley Scout para los demás; a esto l
 ## Notas para educadores
 - Se puede hacer un artículo distinto cada semana, como propone el juego original.
 - Usá la redacción de la Ley de tu organización scout nacional.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ACTING THE LAW.**
+
+A team acts one of the Scout Laws for the benefit of the rest: this may well be followed by a very short talk on the law in question, and a different law done each week.
 
 
 ## Texto original completo de la actividad

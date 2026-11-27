@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,7 +137,15 @@ rama_rovers:
 # Formen Letras
 
 ## Cómo se juega
-Cualquier cantidad de equipos. El que dirige dice una letra del abecedario, y gana el equipo que primero se ubica de manera de formar esa letra. Se puede hacer muy bien acostados en el piso, y así la letra se lee mejor.
+Un juego rápido de equipo: hay que formar letras con el propio cuerpo.
+
+1. Se pueden armar todos los equipos que se quiera. Cada equipo se ubica en un lugar del salón con espacio libre a su alrededor.
+2. El que dirige dice en voz alta una letra del abecedario, por ejemplo: «¡La T!».
+3. Cada equipo se acomoda lo más rápido que puede para formar esa letra con los cuerpos de sus integrantes: unos parados en línea para el palo, otros para el travesaño, y así.
+4. Cuando el equipo termina de formar la letra, se queda quieto para que el que dirige la pueda ver.
+5. Funciona muy bien jugarlo acostados en el piso: así la letra se ve mucho más clara desde arriba o de costado.
+
+**Cómo se gana:** gana el equipo que forma primero la letra pedida. Se puede llevar la cuenta de varias vueltas.
 
 ### Variante: La palabra
 Al final, todas las patrullas juntas forman una palabra corta: SCOUT, LOBO, FOGÓN. ¡Sacale una foto desde arriba!
@@ -146,6 +155,15 @@ Al final, todas las patrullas juntas forman una palabra corta: SCOUT, LOBO, FOG�
 
 ## Notas para educadores
 - Una foto desde arriba (o con un drone, si alguien tiene) es un lindo recuerdo para el campamento.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FORM X's.**
+
+Any number of teams. Leader calls out a letter of the alphabet, and the team first forming up in such a way as to make that letter wins. Lying on the floor may well be substituted, and makes the letter formed easier to read.
 
 
 ## Texto original completo de la actividad

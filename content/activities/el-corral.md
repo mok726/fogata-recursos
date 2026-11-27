@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,26 @@ rama_rovers:
 # Encerrar las Ovejas
 
 ## Cómo se juega
-Se marcan varios corrales en el piso; 12 jugadores, en filas de a 4 tomados de las manos, son los pastores, y los demás son las ovejas. Los pastores tratan de atrapar a las ovejas o de llevarlas a un corral. A la oveja atrapada se la pone en el corral que quieran los pastores. Apenas hay 4 ovejas en un corral, se toman de las manos y pasan a ser otro pastor.
+Una mancha en equipo: los pastores, tomados de las manos, tratan de atrapar a las ovejas y meterlas en los corrales, y las ovejas encerradas se convierten en nuevos pastores.
+
+1. Se marcan varios corrales en el piso, por ejemplo con tiza o con sogas: son espacios cerrados repartidos por el salón o el terreno.
+2. Doce jugadores son los pastores. Se forman en tres filas de cuatro, tomados de las manos. Cada fila de cuatro se mueve como un solo pastor y no se puede soltar.
+3. Los demás jugadores son las ovejas, y corren libres.
+4. Los pastores tratan de atrapar a las ovejas (tocándolas o rodeándolas) o de arrinconarlas hasta meterlas en un corral.
+5. A una oveja atrapada, los pastores la meten en el corral que quieran.
+6. Apenas hay cuatro ovejas en un mismo corral, se toman de las manos, salen y pasan a ser un pastor nuevo que ayuda a los demás.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo los pastores para rodear a las ovejas?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PENNING SHEEP.**
+
+Various pens are marked out on floor, 12 players in lines of 4 holding hands are the shepherds, the rest are the sheep. The shepherds try to catch the sheep or to drive them into a pen. A caught sheep is put into any pen the shepherds like. As soon as there are 4 sheep in a pen they join hands and become another shepherd.
 
 
 ## Texto original completo de la actividad

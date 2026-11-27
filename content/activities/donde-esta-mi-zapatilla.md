@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,16 @@ rama_rovers:
 # Carrera del Zapato Perdido
 
 ## Cómo se juega
-Se avisa a todos los jugadores que vengan con los zapatos del uniforme o con zapatillas. Todos los zapatos se mezclan en una pila en la punta del salón; los jugadores corren hasta la pila, y gana el primero que vuelve al punto de partida con sus propios zapatos puestos y bien atados. No se pueden tirar muy lejos los zapatos de los demás.
+Una carrera cómica: hay que encontrar los propios zapatos en una montaña de calzado mezclado y ponérselos bien.
+
+1. Antes del día del juego, se avisa a todos que vengan con los zapatos del uniforme o con zapatillas, así todos los pares se parecen bastante.
+2. Todos se sacan el calzado y se lo junta en una pila, bien mezclado, en la otra punta del salón.
+3. Los jugadores se ponen en la línea de salida, descalzos o en medias.
+4. A la señal, todos corren hasta la pila, buscan sus propios zapatos, se los ponen y se los atan bien.
+5. Mientras buscan, no se vale revolear lejos los zapatos de los demás.
+6. Cuando un jugador tiene los dos zapatos puestos y atados, vuelve corriendo a la línea de salida.
+
+**Cómo se gana:** gana el primero que vuelve al punto de partida con sus propios zapatos puestos y bien atados.
 
 ## Para cerrar
 - ¿Cómo reconocieron las suyas? ¿Alguno las tenía con nombre?
@@ -143,6 +153,17 @@ Se avisa a todos los jugadores que vengan con los zapatos del uniforme o con zap
 ## Notas para educadores
 - Ideal para lobatos que están aprendiendo a atarse los cordones.
 - Un buen momento para recordar que en campamento todo va con nombre.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOST BOOT RACE.**
+
+All players are warned to wear uniform boots or shoes (gym. shoes). All these shoes are jumbled in a heap at the end of the room, players race to the heap, and first player to return to the starting-point wearing his own shoes, properly tied, wins.
+
+Other players’ shoes must not be thrown too far afield.
 
 
 ## Texto original completo de la actividad

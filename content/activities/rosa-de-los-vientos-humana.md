@@ -152,7 +152,18 @@ Se arma una estrella de ocho bastones en el piso, con uno apuntando al norte. Ca
 1. Con la brújula, ubicá el norte y armá la estrella de ocho bastones (N, NE, E, SE, S, SO, O, NO). En interior, dibujala con tiza.
 
 ## Desarrollo
-Este juego es una práctica excelente para aprender los puntos de la brújula. Se disponen ocho bastones en el suelo en forma de estrella, todos saliendo del centro. Un bastón tiene que apuntar exactamente al norte. Un scout se ubica en la punta exterior de cada bastón y representa uno de los ocho puntos principales de la brújula. El dirigente nombra dos puntos cualesquiera, por ejemplo SE y N, y los dos scouts correspondientes tienen que cambiar de lugar enseguida. Quien se mueva sin que lo nombren, vaya a un lugar equivocado o incluso dude, debería perder un punto. Al cambiar de lugar, los scouts no pueden cruzar los bastones: tienen que ir por afuera del círculo de jugadores. Cuando un scout pierde tres puntos, sale del juego. A medida que avanza el juego quedarán espacios vacíos, que lo harán un poco más difícil para los que quedan. Para hacerlo más difícil, se pueden usar dieciséis puntos en lugar de ocho. Si se juega en interior, las líneas de la brújula se pueden dibujar con tiza en el piso.
+Un juego para aprender los puntos cardinales: los jugadores forman una rosa de los vientos y tienen que cambiar de lugar rápido y sin equivocarse.
+
+1. Se ponen ocho bastones en el suelo en forma de estrella, todos saliendo del mismo centro. Uno de ellos tiene que apuntar exactamente al norte (se puede averiguar con una brújula). En el salón, las líneas se pueden dibujar con tiza en el piso.
+2. Un jugador se para en la punta de afuera de cada bastón. Cada uno representa uno de los ocho puntos principales: norte (N), noreste (NE), este (E), sudeste (SE), sur (S), sudoeste (SO), oeste (O) y noroeste (NO).
+3. El dirigente nombra dos puntos cualquiera, por ejemplo «¡Sudeste y norte!». Los dos jugadores que están en esos puntos tienen que cambiar de lugar enseguida.
+4. Para cambiar de lugar no se pueden cruzar los bastones: hay que ir por afuera del círculo de jugadores.
+5. Pierde un punto el que se mueve sin que lo nombren, el que va a un lugar equivocado o, incluso, el que duda.
+6. El que pierde tres puntos sale del juego. Con el tiempo van quedando lugares vacíos, y eso hace todo un poco más difícil para los que quedan.
+
+**Cómo se gana:** gana el último que queda en la rosa de los vientos.
+
+**Con dieciséis puntos (variante del original):** para hacerlo más difícil se usan dieciséis puntos en vez de ocho (sumando, por ejemplo, nor-noreste, este-noreste, etc.).
 
 ## Cierre
 - ¿Qué puntos les costaron más?

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -143,7 +144,18 @@ rama_rovers:
 3. Anotá vos la lista completa para corregir.
 
 ## Cómo se juega
-Los jugadores se ubican en la línea de partida, de espaldas al recorrido. A lo largo del recorrido se ponen distintos objetos. Los jugadores corren hasta la meta y todos a la vez hacen la lista de los objetos que vieron. El primero en llegar a la meta suma tantos puntos como corredores haya, y cada uno de los que llegan después, uno (o más) menos según el orden de llegada. A eso se le suma 1 punto por cada objeto anotado, se resta 1 por cada objeto que no anotó y se restan 2 por cada objeto imaginario.
+Una carrera en la que no solo gana el más rápido: también cuenta lo que viste mientras corrías.
+
+1. A lo largo del recorrido de la carrera, el que dirige pone distintos objetos a la vista: una taza, un pañuelo, un libro, una gorra, etc.
+2. Los jugadores se ubican en la línea de partida de espaldas al recorrido, para que no lo vean antes.
+3. A la señal, se dan vuelta y corren hasta la meta.
+4. Apenas llegan, todos a la vez escriben la lista de los objetos que vieron en el camino.
+
+**Cómo se gana (puntaje):**
+- El primero en llegar suma tantos puntos como corredores hay; el segundo, uno menos; y así según el orden de llegada.
+- A eso se suma 1 punto por cada objeto bien anotado.
+- Se resta 1 punto por cada objeto que había y no anotó, y 2 puntos por cada objeto que anotó pero no estaba.
+Gana el que suma más.
 
 ## Para cerrar
 - ¿Convenía correr rápido o ir un poco más lento y mirar mejor?
@@ -152,6 +164,15 @@ Los jugadores se ubican en la línea de partida, de espaldas al recorrido. A lo 
 ## Notas para educadores
 - Es una buena forma de mostrar que el apuro nos hace ver menos. Da para charlar sobre caminar por el monte o por la ciudad prestando atención.
 - Al terminar, que una patrulla levante todos los objetos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OBSERVATION RACE.**
+
+Players at starting line back to the course. Various objects are placed along the course. Players race to winning post and all at once make lists of objects noted. First past the post scores as many points as there are runners and each one after him one (or more) less in the order they finish. To this add 1 for every object noted; deduct 1 for every object not noted; deduct 2 for every imaginary object noted. O.
 
 
 ## Texto original completo de la actividad

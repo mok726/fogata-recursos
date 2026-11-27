@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,12 +137,33 @@ rama_rovers:
 # Carrera del Correo
 
 ## Cómo se juega
-Cada equipo en dos filas, una frente a la otra. El primer jugador de una fila le tira una pelota al de enfrente, que se la tira al segundo jugador de la otra fila, y así a lo largo del equipo. Cuando la pelota llega a la otra punta, vuelve de la misma manera. Gana el equipo que primero lo hace la cantidad de veces fijada. Al que se le cae la pelota tiene que recuperarla y volver a su lugar antes de pasarla.
+Una carrera de pases de pelota en zigzag entre dos filas, como un correo que lleva y trae.
 
-**Posta del correo:** los equipos formados como en el anterior, y el juego sigue igual, salvo que cuando la pelota llega a la punta de la fila, el último corre a la otra punta y vuelve a largar la pelota. Gana el primer equipo que vuelve a quedar en su orden original.
+1. Cada equipo se divide en dos filas, paradas una frente a la otra, a unos pocos pasos.
+2. El primer jugador de una fila le tira la pelota al de enfrente. Ese se la tira al segundo de la primera fila, que se la tira al segundo de la otra, y así la pelota va en zigzag de una fila a la otra hasta el final.
+3. Cuando llega a la otra punta, vuelve de la misma manera hasta el principio. Eso es una vuelta.
+4. El que dirige fija de antemano cuántas vueltas hay que hacer.
+5. Si a alguien se le cae la pelota, tiene que ir a buscarla y volver a su lugar antes de pasarla.
+
+**Cómo se gana:** gana el primer equipo que completa las vueltas fijadas.
+
+**Posta del correo (variante del original):** los equipos se forman igual y la pelota va en zigzag de la misma manera. Pero cuando llega al último, este corre con la pelota hasta la otra punta, se pone primero en su fila y vuelve a largarla. Así cada jugador va pasando adelante por turno. Gana el primer equipo que vuelve a quedar en su orden original.
 
 ## Para cerrar
 - ¿Qué tipo de pase iba más seguro?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**COURIER RACE.**
+
+Each team in two lines facing each other. First player in one line throws a ball to the player opposite him, who throws it to the second player in the other line, and so on along the team. When the ball reaches the other end it is returned in the same way. The team first to do this the allotted number of times wins. A player dropping the ball must recover it and regain his place before passing it on.
+
+**COURIER RELAY.**
+
+Teams lined up as in No. 23, and the game goes on as before, except that when the ball gets to the end of the line the last player runs up to the other end and re-starts the ball. The first team to regain its original order wins.
 
 
 ## Texto original completo de la actividad

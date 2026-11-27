@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,12 +137,29 @@ rama_rovers:
 # Posta Arriba y Abajo
 
 ## Cómo se juega
-Los equipos en fila india; el de adelante tiene una pelota o algún objeto más grande, que pasa por arriba de la cabeza, con las dos manos, al de atrás, y así a lo largo de la fila. Cuando la pelota llega al último, este corre adelante y la pasa para atrás entre las piernas. La vez siguiente, por arriba de la cabeza, y así. Hay que pasarla, no tirarla. Gana el primer equipo que vuelve a su orden original.
+Una carrera de pases en fila: la pelota va por arriba de las cabezas y por abajo, entre las piernas.
 
-**Variante:** el de adelante siempre la pasa por arriba, el siguiente por abajo, y así, alternando.
+1. Los equipos se forman en fila india, uno detrás del otro. El de adelante tiene una pelota o algún objeto más grande (una mochila, una almohada).
+2. A la señal, el de adelante pasa la pelota hacia atrás por arriba de su cabeza, con las dos manos, al compañero de atrás. Ese hace lo mismo, y así hasta el final de la fila.
+3. Cuando el último recibe la pelota, corre hasta adelante, se pone primero y la vuelve a largar hacia atrás, pero esta vez entre las piernas.
+4. La vez siguiente, el nuevo último corre adelante y la pasa otra vez por arriba de la cabeza, y así se va alternando: una vuelta por arriba y una por abajo.
+5. La pelota se pasa de mano en mano; no se vale tirarla.
+
+**Cómo se gana:** gana el primer equipo que vuelve a quedar en su orden original.
+
+**Arriba y abajo alternado (variante del original):** el primero de la fila siempre la pasa por arriba de la cabeza, el segundo por abajo entre las piernas, el tercero por arriba, y así, alternando a lo largo de toda la fila.
 
 ## Para cerrar
 - ¿Dónde se trababa la pelota? ¿Cómo lo resolvieron?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UNDER AND OVER RELAY.**
+
+Teams in file; front player has a ball or some larger object which he passes over his head, using both hands, to the player behind him, and so on down the line. When the last player gets the ball he runs to the front and passes it between his legs back down the line. Next time over the head, and so on. It must be passed, not thrown. First team to regain its original order wins. Variation—Front player always passes over and the next under, and so on alternately.
 
 
 ## Texto original completo de la actividad

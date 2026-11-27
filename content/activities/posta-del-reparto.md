@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,31 @@ rama_rovers:
 # Posta de los Pertrechos
 
 ## Cómo se juega
-Los equipos en fila india; delante de cada equipo, a cierta distancia, se pone una pila de objetos varios, uno menos que la cantidad de jugadores de cada equipo. Los primeros corren, levantan los objetos y bajan por un costado de su equipo dándole un objeto a cada jugador; después suben por el otro costado juntándolos otra vez, los vuelven a dejar en la pila y vuelven corriendo para largar al siguiente. Gana el primer equipo que termina. Al que se le cae un objeto lo tiene que levantar y volver a su lugar.
+Una carrera de postas en la que hay que repartir objetos a todo el equipo y volver a juntarlos.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Delante de cada equipo, a cierta distancia, se pone una pila de objetos varios (una gorra, una taza, un cordón, una pelota, lo que haya). Cada pila tiene un objeto menos que la cantidad de jugadores del equipo, así alcanza justo para todos los que se quedan en la fila.
+3. A la señal, el primero de cada equipo corre hasta la pila, levanta todos los objetos y vuelve.
+4. Baja por un costado de su fila dándole un objeto a cada compañero.
+5. Después sube por el otro costado y se los va sacando, hasta tenerlos todos de nuevo.
+6. Lleva los objetos otra vez a la pila, los deja ahí y vuelve corriendo para largar al siguiente, que hace lo mismo.
+7. Al que se le cae un objeto, lo tiene que levantar y volver al lugar donde estaba antes de seguir.
+
+**Cómo se gana:** gana el primer equipo en el que todos hicieron el reparto.
 
 ## Para cerrar
 - ¿Qué ayudaba más: cómo estaban los compañeros o cómo repartía el que corría?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ARTICLES OF WAR RELAY.**
+
+Teams in file, a heap of sundry articles put at a given distance in front of each team, one less article than there are players in each team. Front players run and pick up articles and run down one side of their team, giving one article to each player, and then up the other side, collecting them again, and put them back on the dump, running back to send off the next player. First team to finish win. Dropper must pick up any dropped article and regain his place.
 
 
 ## Texto original completo de la actividad

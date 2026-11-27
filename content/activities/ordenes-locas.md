@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -140,9 +141,15 @@ rama_rovers:
 2. Se pueden escribir en una clave simple para que primero haya que descifrarlas.
 
 ## Cómo se juega
-A cada jugador se le da una tarjeta con una orden. Apenas empieza el juego, todos tratan de cumplir la orden de su tarjeta. El éxito del juego depende de lo originales y variadas que sean las órdenes. Algunas tienen que ser para impedir que se cumplan otras.
+Un juego caótico y muy divertido: cada uno tiene una orden secreta que cumplir, y algunas órdenes chocan con las de otros.
 
-**Variante:** poner las órdenes en una clave muy simple.
+1. Antes de jugar, el que dirige prepara una tarjeta para cada jugador, cada una con una orden escrita. Por ejemplo: «Juntá tres zapatillas de otros», «Hacé que todos se sienten», «Llevá la silla de la punta al otro rincón», «No dejes que nadie toque la puerta».
+2. Algunas órdenes tienen que ser para impedir que se cumplan otras. Por ejemplo, si uno tiene que juntar las mochilas en un rincón, otro puede tener la orden de que no haya ninguna mochila en ese rincón.
+3. Se reparte una tarjeta a cada jugador, que la lee en secreto.
+4. Apenas el que dirige da la señal de empezar, todos tratan de cumplir su orden al mismo tiempo.
+5. El juego funciona mejor cuanto más originales y variadas sean las órdenes.
+
+**Órdenes en clave (variante del original):** las órdenes se escriben en una clave muy simple, así que primero hay que descifrarlas para saber qué hacer. Por ejemplo, cambiando cada letra por la que le sigue en el abecedario.
 
 ## Para cerrar
 - ¿Qué pasó cuando dos órdenes chocaban? ¿Cómo lo resolvieron?
@@ -150,6 +157,17 @@ A cada jugador se le da una tarjeta con una orden. Apenas empieza el juego, todo
 
 ## Notas para educadores
 - El juego da para charlar sobre negociación y conflictos: dos personas con objetivos opuestos pueden buscar una solución en la que ganen las dos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PANDEMONIUM.**
+
+Each player is given a card on which is an order. As soon as the game starts all try to carry out the orders on their cards. The success of the game depends on the originality, variety, etc., of the orders. Some should be to prevent others being carried out.
+
+Variation.—To put the orders in a very simple code.
 
 
 ## Texto original completo de la actividad

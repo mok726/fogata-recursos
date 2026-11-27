@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,13 +145,33 @@ rama_rovers:
 2. Probá antes cuánto se tarda en dar la vuelta: tiene que ser un poquito más que lo que tarda alguien que sabe hacer los dos nudos.
 
 ## Cómo se juega
-Los equipos en fila, frente a frente; un jugador de cada equipo va y le da una soga a cualquier jugador del otro, que tiene que atarla con un as de guía alrededor de su cintura y con un ballestrinque alrededor de un poste antes de que el que se la dio corra un recorrido fijado y vuelva a tocar al que ata, y así hasta que corrieron todos. Gana el equipo que gana más mangas. Las distancias solo se pueden encontrar probando.
+Una carrera entre dos equipos: uno tiene que atar dos nudos antes de que un corredor del otro equipo dé una vuelta.
+
+1. Los dos equipos se forman en fila, uno frente al otro. Cerca de cada fila tiene que haber un poste (puede ser un árbol, un mástil o una estaca firme) para atar la soga. Además se marca un recorrido para correr, que empieza y termina frente a las filas.
+2. En cada vuelta del juego, un jugador de cada equipo cruza y le da una soga a cualquier jugador del equipo contrario. Así se arman dos duelos al mismo tiempo: el corredor de un equipo contra el que ata del otro, y al revés.
+3. El que recibe la soga tiene que atársela alrededor de la cintura con un as de guía y, con la misma soga, hacer un ballestrinque alrededor del poste.
+4. Mientras tanto, el que le dio la soga sale a correr el recorrido y, al volver, trata de tocar al que está atando.
+5. Cada duelo es una manga aparte. Si el que ata termina los dos nudos bien hechos antes de que lo toquen, gana la manga para su equipo. Si el corredor lo toca antes, la manga es para el equipo del corredor. En cada vuelta se juegan entonces dos mangas, y puede pasar que cada equipo gane una.
+6. Se siguen jugando vueltas, con jugadores nuevos, hasta que corrieron todos.
+
+**Cómo se gana:** se suman las mangas que ganó cada equipo. Gana el equipo que ganó más.
+
+**Consejo del original:** el largo del recorrido solo se encuentra probando. Tiene que ser lo justo para que el que ata tenga tiempo si lo hace rápido y bien.
 
 ## Para cerrar
 - ¿Quién logró hacer los nudos sin mirar? ¿Les ayudó practicar antes?
 
 ## Notas para educadores
 - Cada nudo lo revisa el que dirige: un nudo mal hecho no cuenta.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BOWLINE, CLOVE-HITCH RACE.**
+
+Teams in line facing each other; one player of each team goes and gives any player of the other a rope, which must be tied in a bowline round that player’s waist, and a clove-hitch round a post before the giver can run round a set course and return to touch the knotter, and so on till all have run. Team winning the most heats wins. Distances can only be found by experiment.
 
 
 ## Texto original completo de la actividad

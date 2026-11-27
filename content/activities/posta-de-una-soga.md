@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -144,10 +145,26 @@ rama_rovers:
 2. Hacé una lista de los nudos que tiene que hacer cada uno según su progresión.
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, corre y hace todos los nudos de la primera etapa de progresión en un mismo pedazo de soga. Gana el primer equipo que termina sin ningún nudo mal hecho ni salteado.
+Una carrera de postas para repasar todos los nudos de la primera etapa de progresión en una misma soga.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida. Enfrente de cada equipo, a cierta distancia, se deja un pedazo de soga.
+2. A la orden, el primero de cada fila corre hasta la soga y hace en ella, uno después del otro, todos los nudos de la primera etapa de progresión. (En la época del original eran el nudo llano, la vuelta de escota, el ballestrinque, el as de guía, la vuelta redonda con dos medios cotes y la margarita; se pueden usar los que pida hoy la progresión de tu grupo.)
+3. Después deshace los nudos, vuelve corriendo y toca al siguiente de su fila, que hace lo mismo.
+4. El que dirige mira cada nudo: no se vale hacerlo mal ni saltearse ninguno.
+
+**Cómo se gana:** gana el primer equipo que termina sin ningún nudo mal hecho ni salteado.
 
 ## Para cerrar
 - ¿Qué nudo fallaba más? ¿Cómo lo pueden practicar en casa?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ONE-ROPE RELAY.**
+
+Teams in file; each player in turn runs up and ties all the tenderfoot knots in one bit of rope. First team to finish with no knots tied wrong or omitted wins.
 
 
 ## Texto original completo de la actividad

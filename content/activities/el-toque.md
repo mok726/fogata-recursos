@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,33 @@ rama_rovers:
 # El Toque
 
 ## Cómo se juega
-Dos equipos formados frente a frente en las dos puntas del salón. Un equipo extiende las manos con las palmas para abajo; el otro manda a un representante que le da un toque con el dedo en la palma a uno del otro lado y vuelve corriendo a su lugar; si lo atrapan, queda preso del rival; si no, el que recibió el toque queda preso. Después el otro equipo manda a uno a dar el toque. Atrapar a un rival también libera a un preso. Gana el equipo que primero se queda con todos los rivales. A nadie le pueden dar un toque dos veces hasta que les hayan dado a todos los de su equipo.
+Un juego de desafío y carrera entre dos equipos: uno va, le da un toque en la mano a un rival y vuelve corriendo antes de que lo atrapen.
+
+1. Los dos equipos se forman en fila, uno frente al otro, en las dos puntas del salón.
+2. Los jugadores del primer equipo extienden las manos hacia adelante, con las palmas para abajo.
+3. El otro equipo manda a uno de sus jugadores. Cruza el salón, le da un toque con el dedo en la mano a cualquier rival, y sale corriendo de vuelta a su lugar.
+4. El que recibió el toque lo persigue. Si lo alcanza antes de que llegue a su lugar, el que dio el toque queda preso del equipo rival. Si no lo alcanza, el que queda preso es el que recibió el toque.
+5. Los presos se apartan a un costado y no juegan mientras están presos.
+6. Después le toca al otro equipo: extiende las manos el que antes mandaba, y manda un jugador el que antes esperaba. Y así se van alternando.
+7. Cada vez que un equipo toma un preso, también libera a uno de sus propios presos, si tiene.
+8. A nadie se le puede dar un toque por segunda vez hasta que se les haya dado a todos los de su equipo.
+
+**Cómo se gana:** gana el equipo que primero toma presos a todos los rivales.
 
 ## Para cerrar
 - ¿A quién convenía tocar: al más lento o al que estaba distraído?
 
 ## Notas para educadores
 - Es pariente del «Martín Pescador» y de la «Bandera»: si ya los juegan, este es una buena variante.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FLIP.**
+
+Two teams line up facing each other at opposite ends of the room. One team holds out its hands, palms down, the other sends a representative who flips the palm of one of the other side with his finger and races back to his place; if he is caught he is his opponent's prisoner, if not, the one flipped is prisoner. The other team then sends a flipper. The capture of an enemy also releases one prisoner. The team to first take all their opponents wins. No player may be flipped twice till all his side have had a turn.
 
 
 ## Texto original completo de la actividad

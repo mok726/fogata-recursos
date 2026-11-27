@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,11 +140,19 @@ rama_rovers:
 # Barcos en la Niebla
 
 ## Cómo se juega
-Los equipos, con los ojos vendados, en fila india, con las manos en los hombros del de adelante, a cierta distancia de su guía, que no está vendado. El guía, dando órdenes, trata de pilotear su barco a través de la boca de un puerto formada por dos sillas. Gana el primer equipo que pasa.
+Un juego de confianza y comunicación: cada equipo es un barco que navega a ciegas en la niebla, y su guía, que sí ve, lo tiene que hacer entrar al puerto solo con la voz.
 
-**Variante:** el guía no puede llamar a su equipo por el nombre; los suyos tienen que distinguir su voz entre las demás.
+1. Con dos sillas se arma la boca del puerto: un paso angosto por donde hay que pasar.
+2. Cada equipo se forma en fila india, uno detrás del otro, con las manos en los hombros del de adelante y los ojos vendados. Ese es el barco.
+3. El guía de cada equipo no está vendado y se queda a cierta distancia de su barco.
+4. A la orden de empezar, cada guía le da órdenes a su barco para pilotearlo: «adelante», «más a la izquierda», «despacio», «paren». Los barcos tienen que avanzar hasta pasar entre las dos sillas.
+5. Como todos los guías hablan a la vez, cada equipo tiene que prestar mucha atención para seguir la voz del suyo.
 
-**Obstáculos en la niebla:** se ponen varias sillas como obstáculos por el salón y se marca una meta en una punta. Cada equipo, por turno, sale desde la otra punta con los ojos vendados y trata de llegar a la meta. Si un jugador toca un obstáculo, tiene que dar tres vueltas alrededor antes de seguir. Gana el equipo que logra pasar más jugadores en el tiempo fijado. Hay que cuidar que no haya ninguna luz fuerte que dé una pista de para dónde ir.
+**Cómo se gana:** gana el primer equipo que pasa completo por la boca del puerto.
+
+**Sin nombres (variante del original):** el guía no puede llamar a su equipo por el nombre. Los jugadores tienen que reconocer la voz de su guía entre todas las demás.
+
+**Obstáculos en la niebla (variante del original):** se ponen varias sillas desparramadas por el salón como obstáculos, y se marca una meta en una punta. Cada equipo, por turno, sale con los ojos vendados desde la otra punta y trata de llegar a la meta. Si un jugador toca un obstáculo, tiene que dar tres vueltas alrededor de él antes de seguir. Se fija un tiempo para cada equipo, y gana el que logra hacer llegar más jugadores a la meta en ese tiempo. Hay que cuidar que no haya ninguna luz fuerte, como una ventana o una lámpara, que les dé una pista de para dónde ir.
 
 ## Para cerrar
 - ¿Qué instrucciones servían y cuáles no? ¿Qué significa «a la derecha» si el barco está de frente?
@@ -151,6 +160,21 @@ Los equipos, con los ojos vendados, en fila india, con las manos en los hombros 
 
 ## Notas para educadores
 - Buen juego para trabajar confianza y comunicación clara en la patrulla.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHIPS IN A FOG.**
+
+Teams blindfold in single file with hands on each others shoulders at some distance from their leader, who is not blind. Leader, by giving orders, tries to pilot his ship through a given harbour-mouth formed by two chairs. First team through wins.
+
+Variation.-Leader may not address his team by name but must rely on his voice being picked out from the rest.
+
+**OBSTACLES IN A FOG.**
+
+A number of chairs as obstacles are placed about the room, and a goal marked at the end. Each team in turn starts at the other end, blindfold, and tries to get to the goal. If a player touches an obstacle he must walk round it three times before going on. Team getting most through in the specified time wins. Care must be taken that there is no bright light to give a hint as to the right direction.
 
 
 ## Texto original completo de la actividad

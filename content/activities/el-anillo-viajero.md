@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,29 @@ rama_rovers:
 # Pasar el Anillo por el Hilo
 
 ## Cómo se juega
-Se arma un hilo en ronda con un anillo pasado, y los jugadores sostienen el hilo. Uno en el centro trata de atrapar el anillo, que se pasa de un lado al otro de la ronda. El jugador en cuyas manos lo atrapan pasa al centro.
+Un juego de ronda para disimular: los jugadores se pasan un anillo por un hilo y uno en el centro tiene que descubrir quién lo tiene.
+
+1. Se pasa un anillo por un hilo o un cordón largo y se atan las puntas, para formar un círculo.
+2. Los jugadores se ponen en ronda, mirando hacia adentro, y sostienen el hilo con las dos manos, con los puños cerrados sobre el hilo.
+3. Uno se pone en el centro.
+4. Los de la ronda se van pasando el anillo por el hilo, de mano en mano, de un lado al otro, escondiéndolo dentro de los puños. Todos mueven las manos todo el tiempo, como si lo estuvieran pasando, para despistar.
+5. El del centro trata de atrapar el anillo: cuando cree que sabe dónde está, toca o agarra las manos de un jugador.
+6. Si el anillo está en esas manos, ese jugador pasa al centro.
 
 ## Para cerrar
 - ¿En qué se nota cuando alguien tiene el anillo?
 
 ## Notas para educadores
 - Es parecido al «anillo» o «la sortijita» que se juega en los cumpleaños.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING RING ON CORD.**
+
+A piece of string in a circle with a ring on it, players holding string. One in centre tries to catch ring which is passed to and fro about circle. Player in whose hands it is caught goes to centre.
 
 
 ## Texto original completo de la actividad

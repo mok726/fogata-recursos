@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,13 +143,29 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
 ## Cómo se juega
-Dos jugadores agarran cada uno una punta de una soga, y cada uno trata de hacer una margarita en su punta antes que el otro. Se puede tirar, etc., todo lo que se quiera.
+Un duelo de a dos: cada uno tiene que hacer una margarita en su punta de la soga mientras el otro tira.
+
+1. La margarita es un nudo que sirve para acortar una soga sin cortarla: se hacen dos pliegues en la soga, formando una especie de «S», y cada punta del pliegue se asegura con una vuelta.
+2. Dos jugadores agarran una soga, cada uno de una punta, como en una cinchada.
+3. A la orden, cada uno trata de hacer una margarita en su lado de la soga antes que el otro.
+4. Se vale tirar, aflojar, sacudir la soga y todo lo que haga falta para que al otro le cueste hacer su nudo.
+
+**Cómo se gana:** gana el primero que termina una margarita bien hecha.
 
 ## Para cerrar
 - ¿Para qué sirve la margarita? ¿Por qué aguanta solo si la soga está tensa?
 
 ## Notas para educadores
 - La margarita es un nudo para acortar sin cortar (ver la ficha Margarita: Acortar sin Cortar). Este juego muestra muy bien que se deshace si la soga se afloja.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHEEPSHANK TUG-OF-WAR.**
+
+Two players hold either end of a rope, each tries to tie a sheepshank in his end before the other. Any amount of pulling, etc., is allowed.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,29 @@ rama_rovers:
 # Carrera de Obstáculos a Ciegas
 
 ## Cómo se juega
-Se arma un recorrido de obstáculos muy simple y se deja que los jugadores lo hagan, usando la vista para aprender las distancias, etc. Después se les vendan los ojos y se sacan, en absoluto silencio, todos los obstáculos. Los jugadores salen y se los alienta mientras pasan los obstáculos que no existen. A medida que cada jugador se da cuenta, se lo saca y se lo hace disfrutar de la diversión. No se permite tantear los obstáculos. Obstáculos adecuados: pasar por arriba o por abajo de un banco, saltar un río marcado, etc.
+Una broma inofensiva con forma de carrera de obstáculos: los jugadores pasan, con los ojos vendados, obstáculos que ya no están.
+
+1. El que dirige arma un recorrido de obstáculos muy simple. Por ejemplo: pasar por arriba de un banco, pasar por abajo de otro, saltar un «río» marcado con dos sogas en el piso.
+2. Los jugadores hacen el recorrido con los ojos abiertos, mirando bien las distancias, para aprendérselo.
+3. Después se les vendan los ojos a los que van a correr. Mientras tanto, en absoluto silencio, se sacan todos los obstáculos.
+4. Los jugadores salen y van haciendo el recorrido de memoria: se agachan, levantan las piernas, saltan el río… que no existe. Los demás los alientan como si los obstáculos siguieran ahí.
+5. No se vale tantear con las manos para buscar los obstáculos.
+6. Cuando un jugador se da cuenta del engaño, se lo saca del recorrido, se le saca la venda y se queda mirando, para disfrutar de la diversión junto con los demás.
 
 ## Para cerrar
 - ¿Cuándo se dieron cuenta? ¿Qué les hizo sospechar?
 
 ## Notas para educadores
 - Es un juego de una sola vez por grupo. Que todos se rían con el que pasa, no de él.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD OBSTACLE RACE.**
+
+A very simple obstacle course is arranged and the players are allowed to go over it, using their eyes to learn distances, etc. They are then blindfolded, and all the obstacles are very quietly removed. Players then start and are cheered on as they negotiate the non-existent obstacles. As each player twigs it he is pulled out and made to enjoy the fun. No feeling for the obstacles is allowed. Suitable obstacles: over or under a bench, jump a marked river, etc.
 
 
 ## Texto original completo de la actividad

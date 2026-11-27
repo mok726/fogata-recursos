@@ -149,7 +149,15 @@ rama_rovers:
 El dirigente se para en el centro de una ronda y hace girar una soga con una bolsita de arena en la punta, soltando soga de a poco, hasta que los jugadores tienen que saltar para que no los barra. Cambia el sentido, la velocidad y la altura de a poco. Pierde el que es alcanzado por la soga.
 
 ## Desarrollo
-Este juego necesita una soga liviana de 4,5 a 7 m y una bolsa de lona o de cuero llena de arena que pese alrededor de medio kilo. El dirigente se para en el centro de una ronda de scouts y hace girar la bolsa, soltando soga de a poco hasta que los jugadores tienen que saltar para esquivarla. Hay que ir variando la dirección en que se hace girar la bolsa. La velocidad del giro, igual que la altura de la bolsa sobre el suelo, deberían ir aumentando de a poco. El objetivo de los jugadores es evitar que la soga o la bolsa los agarre y los tire al suelo.
+Un juego de saltos: el dirigente hace girar una soga con un peso en la punta, a ras del suelo, y los jugadores en ronda tienen que saltarla.
+
+1. Se necesita una soga liviana de 4,5 a 7 metros y, en una punta, una bolsa de lona o de cuero llena de arena que pese alrededor de medio kilo.
+2. Los jugadores forman una ronda. El dirigente se para en el centro.
+3. El dirigente hace girar la bolsa, cerca del suelo, y va soltando soga de a poco hasta que la bolsa llega a los pies de los jugadores. Cada uno tiene que saltar cuando le pasa por debajo.
+4. El dirigente va cambiando la dirección del giro.
+5. De a poco aumenta la velocidad y también la altura de la bolsa sobre el suelo.
+
+**El objetivo:** que la soga o la bolsa no te enganche y te tire al suelo.
 
 ## Cierre
 - ¿Qué tenías que mirar para saber cuándo saltar?

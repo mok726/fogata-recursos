@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,10 +137,27 @@ rama_rovers:
 # Salto de Ida y Vuelta
 
 ## Cómo se juega
-El guía de un equipo hace un salto en largo sin carrera desde una línea de tiza (con los talones en la línea). El guía del otro equipo salta para atrás desde el punto donde quedaron los talones del primero. Después el n.º 2 del primer equipo vuelve a saltar para adelante desde donde quedaron los talones del guía del segundo equipo. Después salta para atrás el n.º 2 del segundo equipo, y así sucesivamente. Si el último salto para atrás cae con los talones pasando la línea, gana el segundo equipo; si no, el primero.
+Un juego de saltos en largo entre dos equipos: uno salta hacia adelante y el otro trata de deshacer lo que avanzó, saltando hacia atrás.
+
+1. Se marca una línea de tiza en el piso. Se forman dos equipos, con el mismo número de jugadores y numerados (el n.º 1 es el guía).
+2. El guía del primer equipo se para con los talones en la línea y hace un salto en largo sin carrera, con los dos pies juntos, hacia adelante.
+3. Se marca el lugar donde quedaron sus talones. Desde ahí, el guía del segundo equipo salta hacia atrás, de vuelta hacia la línea, también sin carrera.
+4. Desde donde quedaron los talones del guía del segundo equipo, el n.º 2 del primer equipo salta otra vez hacia adelante.
+5. Después el n.º 2 del segundo equipo salta hacia atrás desde donde quedó el anterior, y así se van alternando hasta que saltaron todos.
+
+**Cómo se gana:** se mira el último salto, que siempre es uno hacia atrás del segundo equipo. Si con ese salto los talones quedan pasando la línea de partida, gana el segundo equipo. Si no llegan a la línea, gana el primero.
 
 ## Para cerrar
 - ¿Cómo eligieron el orden de los saltadores?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TO AND FRO JUMP.**
+
+Leader of one team takes a standing long jump from a chalk line (heels to the line). Leader of other team jumps back from the point the first jumper's heels got to. No. 2 of the first team then jumps out again from where the 2nd team's leader's heels got to. Then No. 2 of second team jumps back, and so on. If the last jump back lands with heels over the line the second team wins, otherwise first team.
 
 
 ## Texto original completo de la actividad

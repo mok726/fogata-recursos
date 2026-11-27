@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,7 +137,14 @@ rama_rovers:
 # ¿Qué Cuadrado?
 
 ## Cómo se juega
-Se marcan varios cuadraditos sobre una mesa y se pone un objeto chico en cada uno; los jugadores miran la mesa durante unos 45 segundos y después se sacan todos los objetos. El que dirige muestra cada objeto por turno, y el primer equipo o jugador que dice bien de qué cuadrado salió suma un punto. Un solo intento por jugador y por objeto. Gana el mejor total.
+Un juego de memoria visual.
+
+1. Sobre una mesa se dibujan varios cuadraditos (con tiza o con cinta) y se pone un objeto chico dentro de cada uno.
+2. Los jugadores miran la mesa durante unos 45 segundos.
+3. Después el que dirige saca todos los objetos de la mesa.
+4. Los muestra de a uno y pregunta: «¿De qué cuadrado salió?».
+
+**Cómo se gana:** el primer equipo o jugador que dice bien de qué cuadrado salió cada objeto suma un punto. Cada jugador tiene un solo intento por objeto. Gana el mejor total.
 
 ### Variante: Más difícil
 Usá una cuadrícula de 5 x 5 con objetos parecidos entre sí, por ejemplo, ocho piedras y ocho hojas distintas.
@@ -146,6 +154,15 @@ Usá una cuadrícula de 5 x 5 con objetos parecidos entre sí, por ejemplo, ocho
 
 ## Notas para educadores
 - Es una variante del Juego de Kim que, además del objeto, pide recordar la posición.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHICH SQUARE?**
+
+A number of small squares are marked out on a table, and a small object placed in each; the players look at the table for about ¾ of a minute and then all the objects are moved off the table. Leader holds up each object in turn, and the first team or player to correctly name the square it came out of scores a point. Only one guess per player per object. Best total wins.
 
 
 ## Texto original completo de la actividad

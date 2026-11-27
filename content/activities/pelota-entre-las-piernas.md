@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,17 +137,36 @@ rama_rovers:
 # Pelota entre las Piernas
 
 ## Cómo se juega
-Los jugadores en ronda, con las piernas abiertas y las rodillas derechas. Uno en el centro trata de tirar una pelota para sacarla de la ronda pasándola entre las piernas de los demás, que no se pueden mover pero pueden usar las manos para frenarla. El que la deja pasar va al centro.
+Un juego de ronda en el que hay que sacar la pelota por entre las piernas de los demás.
 
-**Variante:** los de la ronda tratan de pasar la pelota entre las piernas del del centro, que se puede mover pero siempre con las piernas abiertas.
+1. Los jugadores forman una ronda, mirando hacia adentro, con las piernas abiertas y las rodillas derechas. Cada uno apoya los pies tocando los pies de los vecinos, así la ronda queda cerrada y los únicos huecos son los de entre las piernas de cada jugador.
+2. Uno se pone en el centro con una pelota.
+3. El del centro trata de sacar la pelota fuera de la ronda, tirándola o haciéndola rodar por el piso entre las piernas de alguno.
+4. Los de la ronda no pueden mover los pies, pero sí pueden usar las manos para frenar la pelota.
+5. El jugador por entre cuyas piernas pasa la pelota va al centro, y el del centro ocupa su lugar.
 
-**Variante:** como la anterior, con dos en el centro atados como en una carrera de tres piernas.
+**Al revés (variante del original):** ahora los de la ronda son los que tienen la pelota, y tratan de pasarla entre las piernas del que está en el centro. El del centro se puede mover, girar y esquivar, pero siempre con las piernas abiertas. El que logra pasarla cambia de lugar con él.
+
+**Dos atados en el centro (variante del original):** igual que la anterior, pero con dos jugadores en el centro atados como en una carrera de tres piernas (el tobillo de uno atado al tobillo del otro).
 
 ## Para cerrar
 - ¿Cómo hicieron para defender su lugar y el del vecino?
 
 ## Notas para educadores
 - Con lobatos, la pelota va solo con la mano y rodando.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STRIDE BALL.**
+
+Players in circle, feet astride, knees straight. One in centre tries to throw a ball out between the legs of the rest who may not move but may use their hands to stop the ball. One who lets it out goes into the centre.
+
+Variation.-Those forming the circle try to throw ball between legs of one in centre who may move but must keep his feet astride.
+
+Variation.-As last with two in centre tied as for 3-legged race. See also under Team Games.
 
 
 ## Texto original completo de la actividad

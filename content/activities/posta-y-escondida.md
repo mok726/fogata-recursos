@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,32 @@ rama_rovers:
 # Posta y Escondida
 
 ## Cómo se juega
-Se larga algún tipo de carrera de postas y el que dirige se escapa sin que lo vean y se esconde en algún lugar del predio o del edificio. Apenas terminan la carrera, cada equipo trata de encontrar al que dirige y darle algún objeto. Gana el primer equipo que le entrega al que dirige el objeto acordado de antemano.
+Una carrera de postas con sorpresa: al terminar, hay que salir a buscar al que dirige, que se escondió mientras todos corrían.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Antes de empezar, cada equipo recibe un objeto que tiene que entregar al final (un pañuelo, una piedra pintada, un bastón): se acuerda de antemano cuál es el de cada uno.
+2. Se larga una carrera de postas cualquiera, la que el grupo ya conozca.
+3. Mientras los jugadores están concentrados en la carrera, el que dirige se escapa sin que lo vean y se esconde en algún lugar del predio o del edificio.
+4. Cuando un equipo termina la posta, sale enseguida a buscarlo, llevando su objeto.
+5. Al encontrarlo, le entregan el objeto que les tocaba.
+
+**Cómo se gana:** gana el primer equipo que le entrega al que dirige su objeto acordado.
 
 ## Para cerrar
 - ¿Alguien vio para dónde se fue? ¿Les sirvió prestar atención además de correr?
 
 ## Notas para educadores
 - Marcá bien el límite del predio para que nadie se aleje demasiado.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HIDE-AND-SEEK RELAY.**
+
+Some form of relay race is started and the leader slips out and hides somewhere in the grounds or building. As soon as they have finished the race each team tries find the leader and give him some object. First team to get their prearranged object to the leader wins.
 
 
 ## Texto original completo de la actividad

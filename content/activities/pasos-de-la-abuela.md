@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,13 +135,31 @@ rama_rovers:
 # Los Pasos de la Abuela
 
 ## Cómo se juega
-Los jugadores en fila; un jugador a unos 20 metros, de espaldas a ellos. Los jugadores tratan de acercarse a él sin que los vea moverse. El de la punta no se puede dar vuelta hasta que haya contado para sí un número entre 20 y 40 desde la última vez que se dio vuelta. El jugador al que ven moviéndose vuelve a empezar; si lo ven tres veces, sale. Gana el primero que toca a la «abuela».
+Un juego de acercarse sin ser visto: hay que llegar hasta la «abuela» moviéndose solo cuando está de espaldas.
+
+1. Un jugador es la «abuela». Se para a unos 20 metros de los demás, de espaldas a ellos.
+2. Los demás jugadores se forman en una fila, uno al lado del otro, en la línea de salida.
+3. Mientras la abuela está de espaldas, los jugadores avanzan hacia ella.
+4. En cualquier momento la abuela se da vuelta de golpe. Los jugadores tienen que quedarse quietos como estatuas. El que la abuela ve moviéndose, vuelve a empezar desde la línea de salida.
+5. La abuela no puede darse vuelta todo el tiempo: después de cada vez que se dio vuelta, tiene que contar en silencio hasta un número entre 20 y 40, el que ella elija, antes de poder darse vuelta otra vez.
+6. El jugador al que la abuela ve moviéndose tres veces sale del juego.
+
+**Cómo se gana:** gana el primero que llega a tocar a la abuela.
 
 ## Para cerrar
 - ¿Qué estrategia usaron: avanzar mucho de golpe o de a poquito?
 
 ## Notas para educadores
 - Es pariente del «Un, dos, tres… ¡estatua!» y de otros juegos de estatuas que se juegan en los patios de toda América.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GRANNY’S FOOTSTEPS.**
+
+Players in line, one player about 20 yards away back towards them. Players try to move up to the latter without being seen on the move. The player at the end may not turn till he has counted to himself a number between 20 and 40 since he last turned. Each player if caught moving starts again, if caught three times falls out. First to touch “granny” wins.
 
 
 ## Texto original completo de la actividad

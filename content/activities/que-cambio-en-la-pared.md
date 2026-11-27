@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,9 +138,16 @@ rama_rovers:
 # ¿Qué Se Movió?
 
 ## Cómo se juega
-Todos los jugadores miran una pared del local durante 2 minutos y después se dan vuelta. Se mueven o se sacan algunos objetos. Todos miran durante 1 minuto, se vuelven a dar vuelta y los equipos hacen la lista de los objetos movidos o que faltan. Se da 1 punto por cada observación correcta y se restan 2 por cada una equivocada o imaginaria. Gana el mejor total.
+Un juego de observación: hay que descubrir qué se movió.
 
-Una vez, no muevan nada y miren qué pasa.
+1. Todos los jugadores miran con atención una pared del local durante 2 minutos: los carteles, las fotos, los objetos colgados, lo que haya.
+2. A una orden, todos se dan vuelta, de espaldas a la pared. El que dirige mueve algunos objetos de lugar o saca algunos.
+3. Todos se vuelven a dar vuelta y miran la pared durante 1 minuto.
+4. Se dan vuelta otra vez y cada equipo escribe la lista de lo que se movió o de lo que falta.
+
+**Cómo se gana:** cada cambio bien anotado vale 1 punto. Cada cosa anotada que no cambió, o que nunca estuvo, resta 2 puntos. Gana el equipo con mejor total.
+
+**Consejo del original:** una vez, no muevan nada y miren qué pasa.
 
 ### Variante: La trampa
 Una vez cada tanto, no muevas nada. ¡Es muy divertido ver cuántos cambios «encuentran»!
@@ -153,6 +161,15 @@ En vez de una pared, un jugador se para al frente. Se da vuelta y cambia algo de
 
 ## Notas para educadores
 - La vuelta «sin cambios» enseña mucho sobre la diferencia entre ver y creer que vimos.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT'S MOVED.**
+
+All players look at a wall of the clubroom for 2 minutes and then about turn. Certain objects are moved or removed. All look for 1 minute then about turn and teams make lists of moved or missing objects. 1 point for every correct observation. 2 off for every wrong or imaginary one. Best total wins. Move nothing, and watch result.
 
 
 ## Texto original completo de la actividad

@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -143,15 +144,36 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
 ## Cómo se juega
-Los jugadores en ronda; uno hace un nudo en un pedazo de soga y lo deja caer a los pies de otro, que tiene que decir bien el nombre del nudo y si está bien hecho antes de que el que lo hizo dé la vuelta corriendo alrededor de la ronda. El que pierde hace el nudo siguiente, y así sucesivamente.
+Un juego de ronda para reconocer nudos rápido, mientras otro corre.
 
-**Alrededor de la ronda:** los jugadores en ronda; uno corre por afuera y le da una soga a otro diciendo el nombre de un nudo cualquiera. El que recibe la soga tiene que hacer ese nudo bien antes de que el que corre dé la vuelta a la ronda. Nota: cambien el tamaño de la ronda según la experiencia de los que hacen los nudos.
+1. Los jugadores se paran en ronda, mirando hacia el centro.
+2. Un jugador hace un nudo en un pedazo de soga y lo deja caer a los pies de otro jugador de la ronda.
+3. Enseguida sale corriendo alrededor de la ronda, por afuera, para volver a su lugar.
+4. El que recibió la soga tiene que decir el nombre del nudo y si está bien hecho o mal hecho, antes de que el que corre llegue a su lugar.
+5. Si contesta bien a tiempo, gana él; si no, gana el que corrió. El que pierde es el que hace el próximo nudo, y así se sigue.
+
+**Alrededor de la ronda (variante del original):** los jugadores se paran en ronda. Uno corre por afuera de la ronda y le da una soga a otro, diciéndole el nombre de un nudo cualquiera. El que recibe la soga tiene que hacer ese nudo, bien hecho, antes de que el que corre termine la vuelta a la ronda.
+
+**Consejo del original:** cambien el tamaño de la ronda según la experiencia de los que hacen los nudos: con chicos que recién aprenden, una ronda más grande les da más tiempo.
 
 ## Para cerrar
 - ¿Qué nudos salieron más rápido? ¿Cuáles cuesta todavía hacer bajo presión?
 
 ## Notas para educadores
 - Ajustá el tamaño de la ronda a lo que sabe el grupo: más chica si saben, más grande si están aprendiendo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KNOT RUN.**
+
+Players in circle, one ties a knot in a bit of rope and drops it at the feet of one of the others, who must name the knot correctly and say if it is tied right before the tier has run round the circle. Whichever loses ties the next knot, and so on.
+
+**ROUND THE CIRCLE.**
+
+Players in circle, one runs round outside and hands a rope to another calling out the name of any knot. The knotter must then tie that knot right before the runner can get round the circle. N.B.—Vary the diameter of the circle to suit the experience of the knotters.
 
 
 ## Texto original completo de la actividad

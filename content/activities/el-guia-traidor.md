@@ -148,7 +148,16 @@ rama_rovers:
 Todos defienden un campamento salvo una patrulla. Se ubican puestos de guardia alrededor. Uno de los defensores es el guía traidor: recorre la defensa, sale a escondidas y se encuentra con la patrulla atacante en un punto acordado. Después la guía hasta el centro, de a dos o tres o en fila india. Si un defensor toca a alguno, queda capturado.
 
 ## Desarrollo
-Para jugar de noche. Se elige una ciudad o un campamento y lo defienden todos los scouts presentes, salvo una patrulla. Los puestos avanzados tienen que ubicarse con cuidado alrededor. A esa patrulla la va a guiar hacia la ciudad un guía elegido entre los defensores; él es el traidor, y recorre y examina con cuidado las defensas; después se escurre fuera de la ciudad para encontrarse con la patrulla en un punto determinado. Trata de guiarlos hasta el centro de la ciudad, quizás llevándolos de a dos o tres por vez, o todos juntos en fila india. Si un defensor los toca, quedan capturados.
+Un juego nocturno: un baquiano (alguien que conoce bien el terreno) sale de entre los defensores y trata de meter a una patrulla enemiga hasta el centro sin que la descubran.
+
+1. Se juega de noche. Se elige un pueblo o un campamento, que van a defender todos los scouts presentes menos una patrulla.
+2. Los defensores ubican sus puestos de guardia con cuidado alrededor de todo el lugar.
+3. Se elige entre los defensores a uno que va a hacer de baquiano traidor. Primero recorre y estudia con cuidado las defensas, sin que se note.
+4. Después se escabulle afuera y se encuentra con la patrulla atacante en un punto acordado.
+5. Desde ahí trata de guiarla hasta el centro del lugar sin que la vean. Puede llevarlos de a dos o tres por vez, o a todos juntos en fila india, uno detrás del otro.
+6. Si un defensor toca a un atacante, ese atacante queda capturado.
+
+**Cómo se gana:** el baquiano y su patrulla ganan si llegan al centro; los defensores, si los capturan antes.
 
 ## Cierre
 - ¿Qué información del guía les sirvió más?

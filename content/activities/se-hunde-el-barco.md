@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,19 +136,43 @@ rama_rovers:
 # Sentadas sin Música
 
 ## Cómo se juega
-Los jugadores caminan en ronda; cada vez que el que dirige toca el silbato, todos se sientan en el piso, y el último en sentarse sale.
+Un juego de ronda para estar atentos y reaccionar rápido: hay que sentarse en el piso antes que los demás.
 
-**Variante:** el que dirige cuenta una historia y, cada vez que dice una palabra acordada de antemano («el», «que», «y», etc.), todos se sientan. Se puede combinar muy bien con el juego siguiente.
+1. Los jugadores caminan en ronda, uno detrás del otro, por el salón.
+2. Cada vez que el que dirige toca el silbato, todos se tienen que sentar en el piso lo más rápido posible.
+3. El último en sentarse sale del juego.
+4. Todos se levantan, siguen caminando y se repite.
 
-**¡Crash!:** los jugadores caminan en ronda y el que dirige dice: «¡Siéntense de a 5!» (por ejemplo). Todos los que no quedan en un grupo de 5, sentados en el piso, salen.
+**Cómo se gana:** gana el último que queda en el juego.
 
-**Variante:** el que dirige cuenta una historia y, cada vez que nombra un número, todos se sientan en grupos de ese número.
+**Con un cuento (variante del original):** en lugar de usar el silbato, el que dirige cuenta una historia mientras los jugadores caminan. Antes de empezar se acuerda una palabra muy común, como «el», «que» o «y». Cada vez que el que dirige dice esa palabra, todos se sientan. El último en sentarse sale. Se puede combinar con el juego que sigue.
+
+**¡Crash! (otro juego del original, parecido):** los jugadores caminan en ronda y, de golpe, el que dirige grita, por ejemplo: «¡Siéntense de a 5!». Todos tienen que juntarse rápido en grupos de exactamente esa cantidad y sentarse en el piso. Los que no consiguen quedar en un grupo completo, sentados, salen del juego. Se sigue con otros números hasta que quedan pocos.
+
+**¡Crash! con un cuento (variante del original):** el que dirige cuenta una historia y, cada vez que nombra un número («tres hermanos», «cinco días»), todos se sientan en grupos de esa cantidad. Se puede combinar con el juego del silbato: unas veces se sientan solos y otras en grupos.
 
 ## Para cerrar
 - ¿Qué hicieron cuando alguien quedaba solo? ¿Lo buscaban o lo dejaban afuera?
 
 ## Notas para educadores
 - Buen momento para hablar de inclusión: proponé que, en la segunda vuelta, los grupos solo cuenten si nadie quedó afuera por culpa de otros.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UNMUSICAL BUMPS.**
+
+Players move round in a circle, whenever leader blows his whistle all sit on the floor, and last down falls out.
+
+Variation.-Leader tells a yarn, and whenever a prearranged word is spoken (it, the, and, etc.) all sit down. May well be combined with No. 6.
+
+**CRASH.**
+
+Players move round in a circle, and leader says “Sit down in (say) 5's.” All who do not get into a group of 5, sitting on the floor, fall out
+
+Variation.-Leader tells a yarn, and whenever he mentions a number all sit down in groups of that number. May well be combined with No. 5.
 
 
 ## Texto original completo de la actividad

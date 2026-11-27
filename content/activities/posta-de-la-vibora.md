@@ -53,6 +53,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -134,10 +135,28 @@ rama_rovers:
 # Posta de la Víbora
 
 ## Cómo se juega
-Los equipos en fila india; un jugador de cada equipo se para a cierta distancia delante de su equipo con las piernas abiertas. El primer jugador de cada equipo pasa corriendo entre sus piernas y vuelve a su equipo, donde el segundo lo agarra de la cintura, y los dos pasan entre las piernas, y así hasta que todo el equipo corre agarrado de la cintura. Gana el primer equipo que termina. El que hace de arco se engancha cuando su equipo pasa por última vez.
+Una carrera en la que el equipo va creciendo como una víbora, y cada vuelta pasa entre las piernas de un compañero.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Un jugador de cada equipo se para a cierta distancia delante de su fila, con las piernas bien abiertas: hace de arco.
+3. A la señal, el primero de cada equipo corre, pasa por debajo, entre las piernas del arco, y vuelve hasta su fila.
+4. Ahí, el segundo lo agarra de la cintura y los dos juntos vuelven a correr y pasar entre las piernas del arco.
+5. Al volver, se engancha el tercero, y así. Cada vuelta la víbora es más larga, hasta que todo el equipo corre agarrado de la cintura.
+6. En la última pasada, el que hace de arco también se engancha al final de la víbora.
+
+**Cómo se gana:** gana el primer equipo que termina con todos enganchados.
 
 ## Para cerrar
 - ¿Qué pasaba cuando la víbora era larga?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SNAKE RELAY.**
+
+Teams in file; one player from each team stands some distance away in front of his team with feet astride. First player of each team runs between his legs and returns to his team, where the second player clasps him by the waist, and both run through the legs, and so on till all the team are running clasping each others’ waists. First team to finish wins. The player forming the arch joins on as his team passes the last time.
 
 
 ## Texto original completo de la actividad

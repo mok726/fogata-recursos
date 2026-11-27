@@ -151,7 +151,18 @@ Dos patrullas eligen cada una un mensajero. El dirigente se esconde en un punto 
 3. Marcá un círculo de unos 50 m alrededor de la salida y de la llegada: ahí no puede entrar nadie salvo los mensajeros.
 
 ## Desarrollo
-El juego se hace entre dos patrullas rivales, que para simplificar llamaremos los Lobos y los Teros. Cada patrulla elige a un scout como mensajero. El dirigente se ubica en un lugar determinado, de preferencia en medio de un bosque o, si es en una ciudad, en un cruce de varias calles, y los scouts elegidos salen desde puntos opuestos, a unos tres kilómetros del jefe, y tratan de llegar hasta él. El resto de cada patrulla tiene la tarea de impedir que el mensajero rival llegue a destino. Así, los Lobos vigilarán el terreno por donde probablemente venga el Tero elegido y, como gana la patrulla cuyo mensajero llegue primero al jefe, harán todo lo posible por capturar al Tero y quitarle el mensaje. Los Teros, a su vez, tratarán de lograr lo mismo. Cuando a un mensajero le capturan el mensaje, por supuesto no puede seguir. Las patrullas deben mantenerse a 180 m de los puntos de salida y de llegada, para darle al mensajero más posibilidades de llegar al jefe. Para capturarlo, uno de los defensores tiene que sujetarlo, pero no se permite pelear.
+Un juego entre dos patrullas: cada una manda un mensajero y trata de atrapar al mensajero de la otra.
+
+Para explicarlo, llamemos a las patrullas los Lobos y los Teros.
+
+1. Cada patrulla elige a un scout como mensajero.
+2. El dirigente se ubica en un punto fijo, mejor en el medio de un bosque. Si se juega en una ciudad, en un cruce de varias calles.
+3. Los dos mensajeros salen desde puntos opuestos, a unos 3 km del dirigente, y tratan de llegar hasta él.
+4. El resto de cada patrulla trata de que el mensajero rival no llegue. Por ejemplo, los Lobos vigilan el terreno por donde puede venir el mensajero de los Teros y tratan de capturarlo y quitarle el mensaje. Los Teros hacen lo mismo con el de los Lobos.
+5. Para capturar al mensajero hay que sujetarlo, pero no se permite pelear. El mensajero al que le capturan el mensaje no puede seguir.
+6. Los perseguidores (el resto de cada patrulla) no se pueden acercar a menos de 180 metros de los puntos de salida ni del dirigente, para darles más chances a los mensajeros. Esta regla no vale para los mensajeros, que tienen que llegar hasta el dirigente.
+
+**Cómo se gana:** gana la patrulla cuyo mensajero llega primero al dirigente.
 
 ## Cierre
 - ¿Cómo eligieron dónde vigilar?

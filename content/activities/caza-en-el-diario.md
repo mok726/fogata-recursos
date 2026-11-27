@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -140,7 +141,13 @@ rama_rovers:
 1. Leé el diario antes y anotá unas 15 cosas para buscar, de páginas distintas.
 
 ## Cómo se juega
-Cada jugador recibe un ejemplar del mismo diario. El que dirige nombra un lugar, un hecho o un objeto, y el primero que encuentra dónde se lo menciona en el diario suma un punto. Se puede hacer como competencia por equipos, repartiendo las hojas del diario.
+Un juego de búsqueda rápida en el diario.
+
+1. Cada jugador o cada equipo recibe un ejemplar del mismo diario (o de la misma revista).
+2. El que dirige nombra un lugar, un hecho o un objeto: «una ciudad de Italia», «el pronóstico del tiempo», «una bicicleta».
+3. Todos buscan en el diario dónde se lo menciona.
+
+**Cómo se gana:** el primero que lo encuentra y lo muestra suma un punto. También se puede jugar por equipos, repartiendo las hojas del diario entre los integrantes.
 
 ### Variante: Diario digital
 Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido usar el buscador del sitio.
@@ -151,6 +158,15 @@ Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido
 
 ## Notas para educadores
 - Sirve para trabajar alfabetización mediática: al final, charlá sobre qué es noticia, qué es opinión y qué es publicidad.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PAPER HUNT.**
+
+Each player is given a copy of the same paper. The leader mentions some place, event, or object, and the first to find mention of it in the paper gets a point. This may well be made a team contest, the paper being shared out.
 
 
 ## Texto original completo de la actividad

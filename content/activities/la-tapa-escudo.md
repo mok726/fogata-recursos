@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,10 +138,25 @@ rama_rovers:
 # Arroz Caliente
 
 ## Cómo se juega
-Un jugador tiene una tapa vieja de olla y los demás tratan de pegarle con una pelota. La pelota siempre se tiene que tirar desde donde cayó, pero se le puede pasar a otro jugador. Si agarran de aire una pelota que tiró el de la tapa, o si le pegan, él suelta enseguida la tapa, y su lugar lo toma el que tiró o el que agarró, al que se le puede tirar apenas toca la tapa.
+Un juego de tiro al blanco en movimiento: uno se defiende con una tapa de olla como si fuera un escudo, y los demás tratan de pegarle con una pelota.
+
+1. Un jugador recibe una tapa vieja de olla (o un plato de lata del equipo de campamento). Con ella se defiende, atajando o desviando la pelota.
+2. Todos los demás tratan de pegarle con una pelota.
+3. La pelota siempre se tira desde el lugar donde cayó. El que la junta no puede correr con ella para acercarse, pero sí se la puede pasar a otro jugador que esté mejor ubicado.
+4. Si la pelota le pega al de la tapa, o si él la desvía con la tapa y otro jugador la agarra en el aire antes de que toque el piso, el de la tapa la suelta enseguida.
+5. Su lugar lo toma el que le pegó o el que agarró la pelota en el aire. Apenas ese jugador toca la tapa, ya le pueden tirar.
 
 ## Para cerrar
 - ¿Qué convenía: tirar fuerte o pasarse la pelota para tirar de cerca?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HOT RICE.**
+
+One player has an old dixie lid, the others try to hit him with a ball. The ball must always be thrown from where it drops, but may be passed to another player. If the player is caught full pitch or is hit he at once drops the lid, and his place is taken by the thrower or catcher, who may be thrown at as soon as he has touched the lid.
 
 
 ## Texto original completo de la actividad

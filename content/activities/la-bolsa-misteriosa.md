@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,10 +138,29 @@ rama_rovers:
 # Posta del Revoltijo
 
 ## Cómo se juega
-Los jugadores en fila india; delante de cada equipo, una bolsa con el mismo juego de objetos para cada equipo. A cada jugador se le asigna un objeto determinado, y cada uno, por turno, va y saca su objeto de la bolsa solo tanteando, sin mirar. Gana el primer equipo que termina con todos sus objetos.
+Una carrera de postas en la que hay que encontrar un objeto en una bolsa solo con el tacto, sin mirar.
+
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Delante de cada equipo, a cierta distancia, se pone una bolsa con varios objetos. Todas las bolsas tienen el mismo juego de objetos: por ejemplo, una cuchara, un cordón, una piedra, un lápiz, una vela.
+3. El que dirige le asigna a cada jugador un objeto. A los primeros de cada fila les toca el mismo, a los segundos otro, y así.
+4. A la señal, el primero de cada equipo corre hasta la bolsa, mete la mano y busca su objeto solo tanteando, sin mirar adentro.
+5. Cuando lo encuentra, lo saca, vuelve corriendo y larga al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que todos trajeron su objeto.
 
 ## Para cerrar
 - ¿Qué objetos eran fáciles de reconocer? ¿Cuáles se confundían?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**RUMMAGE RELAY.**
+
+Players in file; in front of each team a sack containing the same set of articles for each team. Each player is allotted a particular article, and in turn each goes and fetches their article from the sack, only feeling for it, not looking. First team to finish complete with all its articles wins.
 
 
 ## Texto original completo de la actividad

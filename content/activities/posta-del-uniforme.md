@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,34 @@ rama_rovers:
 # Posta del Equipo
 
 ## Cómo se juega
-Los equipos en fila india; distintas prendas del uniforme o del equipo de cada jugador se ponen en distintos puntos del recorrido (por ejemplo, todos los sombreros en un lugar, todos los pañuelos en otro, etc.). Cada jugador, por turno, hace el recorrido y se pone su propia prenda en cada punto. Gana el primer equipo que termina con todos vestidos correctamente con su propio uniforme.
+Una carrera de postas en la que cada jugador va juntando su uniforme por el camino y se lo va poniendo.
 
-**Carrera de vestirse y desvestirse:** los equipos en fila india; cada equipo tiene un saco y un sombrero. El primer jugador de cada uno corre hasta un punto dado y vuelve poniéndose el saco y el sombrero y abrochándose todos los botones; cuando vuelve a su equipo se los saca y se los da al siguiente, y así sucesivamente. Gana el primer equipo que termina. No se puede empezar a sacar la ropa hasta que el jugador está de vuelta en su fila.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido con varias paradas.
+2. Antes de empezar, se juntan algunas prendas del uniforme o del equipo de cada jugador y se reparten por las paradas, agrupadas por tipo: por ejemplo, todos los sombreros o gorras en un lugar, todos los pañuelos scouts en otro, todos los cinturones en otro.
+3. A la señal, el primero de cada equipo hace el recorrido. En cada parada busca su propia prenda y se la pone. Al terminar, larga al siguiente.
+
+**Cómo se gana:** gana el primer equipo que termina con todos vestidos correctamente, cada uno con su propio uniforme.
+
+**Carrera de vestirse y desvestirse (variante del original):** cada equipo tiene un saco (o campera) y un sombrero. El primero corre hasta un punto marcado y vuelve, y mientras corre se pone el saco y el sombrero y se abrocha todos los botones. Cuando llega de vuelta a su equipo, se saca todo y se lo da al siguiente, que hace lo mismo. No se puede empezar a sacar la ropa hasta estar de vuelta en la fila. Gana el primer equipo en el que pasaron todos.
 
 ## Para cerrar
 - ¿Qué prenda costó más ponerse bien rápido?
 - ¿Qué significa para ustedes el uniforme?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**EQUIPMENT RELAY.**
+
+Teams in file; different items of each player’s uniform or gear are placed at various points round the course (i.e. all hats at one spot, all scarves at another, etc.). Each player in turn runs round the course and puts on his own article of clothing at each point. First team to finish correctly dressed in their own uniforms wins.
+
+**DRESSING AND UNDRESSING RACE.**
+
+Teams in file; each team has a coat and hat. Each first player runs to and from a given point putting on the coat and hat, doing up all buttons; on regaining his team he takes them off and hands them to the next, and so on. First team to finish wins. Clothes must not be begun to be removed till the player is back with his rank.
 
 
 ## Texto original completo de la actividad

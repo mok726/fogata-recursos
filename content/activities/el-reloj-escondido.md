@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,7 +138,14 @@ rama_rovers:
 # El Tictac del Reloj
 
 ## Cómo se juega
-Se pone un reloj que haga un tictac bastante fuerte en un lugar donde se lo pueda tocar. Entra al salón un jugador de cada equipo con los ojos vendados; todos tratan de tocar el reloj y, cuando lo logran, se sacan la venda y se quedan callados hasta que terminan todos. Se cambia el reloj de lugar, entra otro de cada equipo, y así sucesivamente.
+Un juego para encontrar un objeto guiándose solo por su sonido.
+
+1. Se pone en algún lugar del salón un reloj que haga un tictac bastante fuerte (puede ser un despertador a cuerda o un metrónomo), donde se lo pueda tocar.
+2. Entra al salón un jugador de cada equipo, con los ojos vendados. Todos tratan de encontrar el reloj escuchando el tictac.
+3. Cuando un jugador toca el reloj, se saca la venda y se queda callado hasta que lo encuentran todos.
+4. Se cambia el reloj de lugar, entra otro jugador de cada equipo, y así hasta que pasaron todos.
+
+**Cómo se gana:** el primero de cada vuelta que toca el reloj suma un punto para su equipo. Gana el equipo con más puntos.
 
 ## Para cerrar
 - ¿Les fue más fácil ir directo o hacer pausas para escuchar?
@@ -145,6 +153,15 @@ Se pone un reloj que haga un tictac bastante fuerte en un lugar donde se lo pued
 ## Notas para educadores
 - Si usás un celular, poné el volumen bajo: el juego es lindo cuando cuesta.
 - Sacá del medio sillas y mesas para que nadie se golpee.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CLOCK TICK.**
+
+A fairly loud ticking clock is placed where it can be touched. One player from each team enters the room blindfold, all try to touch the clock and on doing so remove bandage arid keep quiet till all have done so. Clock is moved and another from each team comes in, and so on.
 
 
 ## Texto original completo de la actividad

@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -147,9 +148,12 @@ rama_rovers:
 3. Marcá bien el límite del terreno.
 
 ## Cómo se juega
-Se reparten varios pedacitos de lana de distintos colores en una zona determinada o a lo largo de un rastro. Cada equipo trata de juntarlos.
+Un juego para darse cuenta de que algunos colores se ven mucho más que otros en la naturaleza.
 
-**Puntaje:** verde 6, gris 5, marrón 4, azul 3, rojo 2, blanco 1; o según el lugar.
+1. Antes del juego, el que dirige reparte pedacitos de lana de distintos colores en una zona determinada o a lo largo de un sendero, sin esconderlos demasiado.
+2. A la señal, cada equipo sale a buscarlos y a juntar todos los que pueda en un tiempo dado.
+
+**Cómo se gana (puntaje):** cada color vale distinto, según lo difícil que es verlo: verde 6 puntos, gris 5, marrón 4, azul 3, rojo 2 y blanco 1. El puntaje se puede cambiar según el lugar. Gana el equipo que suma más.
 
 ## Para cerrar
 - ¿Qué colores encontraron primero? ¿Cuáles costaron más?
@@ -158,6 +162,15 @@ Se reparten varios pedacitos de lana de distintos colores en una zona determinad
 ## Notas para educadores
 - Llevá la cuenta exacta de las lanas: no puede quedar ninguna en el terreno, porque los pájaros las usan para hacer nidos y se enredan.
 - Si el terreno es seco y marrón, cambiá los puntos según los colores que más se camuflen ahí.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPOT THE COLOURS.**
+
+A number of small ends of various coloured wool are distributed over a specified area, or along a trail. Each team tries to collect them. Scores.—Green 6, grey 5, brown 4, blue 3, red 2, white 1; or according to the surroundings. O.
 
 
 ## Texto original completo de la actividad

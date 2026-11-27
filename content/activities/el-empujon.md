@@ -144,7 +144,15 @@ rama_rovers:
 Dos equipos en fila, enfrentados en el medio del espacio, cada uno tomado de la cintura para formar un bloque. Al silbato, se inclinan y empujan con los hombros hasta hacer retroceder al otro unos 5 m. Se juega al mejor de tres.
 
 ## Desarrollo
-Dos equipos de scouts forman en línea y se paran frente a frente atravesando el medio del salón. Los scouts se toman unos a otros de la cintura para que cada línea quede compacta. Cuando suena el silbato, los equipos rivales se inclinan uno hacia el otro y empujan de forma pareja con la cabeza y los hombros hasta que una línea retrocede 5,5 m desde el lugar de partida. Esto se hace tres veces, y gana el equipo que gana dos "scrums" de los tres.
+Un juego de fuerza en equipo, parecido al «scrum» del rugby: dos líneas se empujan hasta que una retrocede.
+
+1. Se arman dos equipos. Cada uno se forma en una línea, hombro con hombro, y las dos líneas se paran frente a frente en el medio del salón.
+2. Los jugadores de cada línea se toman de la cintura unos a otros, para que la línea quede compacta.
+3. Cuando suena el silbato, las dos líneas se inclinan hacia adelante y empujan de forma pareja contra la otra con los hombros y la cabeza.
+4. Se sigue empujando hasta que una de las líneas retrocede unos 5,5 metros desde el lugar de partida. Esa línea pierde ese «scrum».
+5. Se juega tres veces.
+
+**Cómo se gana:** gana el equipo que gana dos de los tres scrums.
 
 ## Cierre
 - ¿Qué ayudó más: la fuerza o empujar todos juntos?

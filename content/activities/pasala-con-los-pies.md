@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,13 +137,29 @@ rama_rovers:
 # Posta de Pasar la Pelota con los Pies
 
 ## Cómo se juega
-Los equipos en fila, con unos 90 cm entre jugador y jugador. El primer jugador de cada equipo tiene una pelota apoyada entre los pies, sobre los empeines. Cada jugador le pasa la pelota a su vecino usando solo los pies; si la pelota se escapa, el que tuvo la culpa la puede recuperar con las manos, pero después de volver a su lugar la tiene que pasar de la manera habitual. Gana el primer equipo que pasa la pelota de una punta a la otra.
+Una carrera de pases en la que la pelota recorre la fila usando solo los pies.
+
+1. Cada equipo se forma en una fila, uno al lado del otro, con unos 90 cm entre jugador y jugador.
+2. El primer jugador de cada equipo tiene una pelota apoyada entre los pies, sobre los empeines (la parte de arriba del pie).
+3. A la señal, se la pasa al compañero de al lado usando solo los pies, sin tocarla con las manos. Ese la recibe con los pies y se la pasa al siguiente, y así a lo largo de la fila.
+4. Si la pelota se escapa, el jugador que tuvo la culpa la puede ir a buscar y traerla con las manos. Pero tiene que volver a su lugar y desde ahí pasarla otra vez con los pies, como siempre.
+
+**Cómo se gana:** gana el primer equipo que lleva la pelota de una punta de la fila a la otra.
 
 ### Variante: Sentados
 Más difícil: todos sentados en el piso y la pelota agarrada entre los dos pies.
 
 ## Para cerrar
 - ¿Qué técnica de pase funcionó mejor?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING BALL WITH FEET RELAY.**
+
+Teams in line about 3 feet between each player. The first player of each team has a ball resting between his feet on the insteps. Each player passes the ball on to his neighbour, using only his feet in the process; if the ball rolls away it may be recovered by the player at fault with his hands, but must pass it on in the usual way after regaining his place. First team to pass the ball from one end to the other wins.
 
 
 ## Texto original completo de la actividad

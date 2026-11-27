@@ -157,7 +157,17 @@ Una patrulla recibe la orden de ir hasta un campamento y actuar como le parezca 
 2. Dejá tres tazas junto al fogón como pista.
 
 ## Desarrollo
-Se le da la orden a una patrulla de marchar en cierta dirección hasta encontrar un campamento y, cuando llegue, actuar como le parezca mejor. Al poco tiempo encuentran el campamento, con todo revuelto, como si hubiera pasado algo grave. Hay una persona tirada en la carpa con un cartel: "No responde". Cerca hay otra con un cartel: "Pierna lastimada, no puede caminar", mientras que un poco más lejos todavía hay otra víctima, que se fue arrastrando y quedó desmayada fuera de la vista. Es interesante mirar a distintas patrullas trabajando. Una patrulla novata seguramente va a pasar los primeros diez minutos dando vueltas alrededor de la primera víctima al llegar a la escena, y quizás la mueva sin necesidad. Después de perder todo ese tiempo valioso, se ocupan de la persona de la pierna lastimada y la llevan a la rastra hasta la carpa, empeorando la lesión en el camino. Nadie pide ayuda. El rastro de la tercera víctima pasa inadvertido, y la dejan sola. Pero ahora miren la llegada de una patrulla con más experiencia. Apenas el guía ve la escena, se fija que no haya peligro para ellos y pone a alguien a vigilar; manda enseguida a dos scouts a pedir ayuda (o a llamar al número de emergencias) diciendo dónde están, qué pasó y cuántas víctimas hay; a la persona de la pierna lastimada no la mueven, la abrigan y la acompañan. Después uno de los scouts nota que hay tres tazas junto al fuego, así que buscan alrededor al dueño de la tercera. Cuando lo encuentran, se quedan con él hasta que llega la ayuda. Este juego es un buen tema para una exhibición.
+Una simulación de emergencia: la patrulla llega a un campamento donde pasó algo grave y tiene que actuar bien y rápido.
+
+1. El dirigente prepara antes la escena: un campamento con todo revuelto y tres «víctimas» (scouts que actúan). La primera está tirada en la carpa, con un cartel que dice «No responde». La segunda está cerca, con un cartel: «Pierna lastimada, no puede caminar». La tercera se fue arrastrando y está desmayada un poco más lejos, fuera de la vista, y deja un rastro. Junto al fuego hay tres tazas, una por cada persona.
+2. A la patrulla se le da una sola orden: marchar en cierta dirección hasta encontrar un campamento y, al llegar, actuar como le parezca mejor.
+3. Lo que se espera de una patrulla con experiencia es esto: el guía se fija primero que no haya peligro para ellos y pone a alguien a vigilar.
+4. A la víctima que «no responde» no la mueven: alguien se queda con ella.
+5. Manda enseguida a dos scouts a pedir ayuda (o a llamar al número de emergencias), diciendo dónde están, qué pasó, cuántas víctimas hay y que una de ellas no responde.
+6. A la persona de la pierna lastimada tampoco la mueven: la abrigan y la acompañan.
+7. Alguien nota las tres tazas y se da cuenta de que falta una persona. Buscan alrededor, siguen el rastro y encuentran a la tercera víctima, y se quedan con ella hasta que llega la ayuda.
+
+**Consejo del original:** es muy interesante mirar a distintas patrullas. Una novata pierde los primeros minutos alrededor de la primera víctima, mueve sin necesidad al lastimado, nadie pide ayuda y nadie ve el rastro de la tercera. Comentarlo después ayuda a aprender. El juego también sirve para una exhibición.
 
 ## Cierre
 - ¿Encontraron a todas las víctimas? ¿Qué pista los llevó?

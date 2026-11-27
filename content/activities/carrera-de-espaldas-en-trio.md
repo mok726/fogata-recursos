@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,25 @@ rama_rovers:
 # Carrera de Espaldas por Equipos
 
 ## Cómo se juega
-Los equipos en fila, tomados del brazo (3 es una buena cantidad para un equipo), de espaldas a la meta, salvo el jugador del centro, que mira hacia la meta y guía a su equipo. Gana el primer equipo que llega entero.
+Una carrera de tríos que corren de espaldas, guiados por el compañero del medio.
+
+1. Se arman equipos de 3 jugadores. Se paran uno al lado del otro y se toman del brazo.
+2. Los dos de los costados se ponen de espaldas a la meta. El del medio, en cambio, mira hacia la meta: es el que ve el camino y guía al equipo.
+3. A la señal, todos los tríos corren hacia la meta sin soltarse. Los de los costados van para atrás, y el del medio les avisa por dónde ir.
+
+**Cómo se gana:** gana el primer equipo que llega a la meta entero, sin soltarse.
 
 ## Para cerrar
 - ¿Cómo se sintieron los que iban de espaldas, confiando en el del medio?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BACKWARDS TEAM RACE.**
+
+Teams in line with arms linked (3 is a good number for a team), backs to the winning post, except the centre player of the team, who faces the winning post and steers his team. First team finishing intact wins.
 
 
 ## Texto original completo de la actividad

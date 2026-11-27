@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,13 +138,31 @@ rama_rovers:
 # Quemado en Línea
 
 ## Cómo se juega
-Se dibujan con tiza dos líneas paralelas, a unos 3 m una de otra. Un equipo se forma afuera de las líneas, con pelotas de tenis. El otro equipo corre de una punta a la otra entre las líneas hasta que le pegan con una pelota, y entonces sale. Por cada recorrido de punta a punta, el jugador suma un punto. Gana el equipo que hace más recorridos antes de que los «quemen» a todos.
+Una variante del quemado: un equipo corre por un pasillo y el otro, desde afuera, trata de pegarle con pelotas.
+
+1. Se dibujan con tiza dos líneas paralelas en el piso, a unos 3 m una de otra. Entre las dos queda un pasillo largo.
+2. Un equipo se reparte afuera del pasillo, del otro lado de las líneas, con varias pelotas de tenis. No pueden entrar al pasillo.
+3. El otro equipo corre por dentro del pasillo, de una punta a la otra, ida y vuelta, todas las veces que pueda.
+4. Los de afuera tiran las pelotas para pegarles a los corredores. El corredor al que le pegan queda «quemado» y sale del juego.
+5. Cada vez que un corredor llega de una punta a la otra del pasillo sin que le peguen, suma un punto para su equipo.
+6. Cuando quemaron a todos los corredores, los equipos cambian de papel.
+
+**Cómo se gana:** gana el equipo que hizo más recorridos completos antes de que quemaran a todos sus jugadores.
 
 ## Para cerrar
 - ¿Les convenía correr de a muchos o de a uno?
 
 ## Notas para educadores
 - Usá pelotas blandas de goma espuma o de trapo.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LINE DODGE BALL.**
+
+Two lines are chalked parallel about 10 feet apart. One team lines up outside these lines armed with tennis balls. The other team runs up and down between the lines until hit with a ball, when they fall out. For each journey from end to end a player scores one point. Team with most successful runs before all are dead, wins.
 
 
 ## Texto original completo de la actividad

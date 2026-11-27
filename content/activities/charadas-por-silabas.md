@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,15 +137,29 @@ rama_rovers:
 # Charadas
 
 ## Cómo se juega
-Se elige un equipo para actuar. Elige una palabra de 2, 3 o 4 sílabas. Después actúa una escena por cada sílaba y una para la palabra entera, en cada una de las cuales mete la sílaba o la palabra que corresponde. Los demás tratan de adivinar la palabra. Por ejemplo: «girasol» (gira + sol).
+Un juego de teatro para adivinar una palabra por partes.
 
-Nota: elijan una buena escena de actualidad y metan la palabra como sea.
+1. Un equipo elige en secreto una palabra de 2, 3 o 4 sílabas que se pueda separar en partes con sentido. Por ejemplo: «girasol» (gira + sol).
+2. Prepara una escena corta para cada parte y una última escena para la palabra entera. En cada escena tiene que aparecer, de alguna forma, esa parte de la palabra.
+3. Actúa las escenas en orden: primera parte, segunda parte, palabra entera.
+4. Los demás tratan de adivinar la palabra.
+
+**Consejo del original:** elijan una escena de actualidad y metan la palabra como sea.
 
 ## Para cerrar
 - ¿Qué escena estuvo mejor actuada? ¿Por qué se entendió?
 
 ## Notas para educadores
 - Funciona muy bien como número de fogón.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CHARADES.**
+
+One team is chosen to act. They choose a 2, 3 or 4 syllable word. They then act a scene for each syllable and one for the whole word into each of which they introduce the respective syllables or word. The rest try to guess the word. N.B. Choose a good topical scene and fit in the word somehow.
 
 
 ## Texto original completo de la actividad

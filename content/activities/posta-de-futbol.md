@@ -149,7 +149,17 @@ rama_rovers:
 Cada equipo tiene su arco y un punto de vuelta a varios metros. El primero lleva la pelota con el pie desde el arco hasta la vuelta y vuelve a meterla en el arco. Entonces sale el segundo, y así todos. Gana el equipo que termina primero.
 
 ## Desarrollo
-Es un juego de postas en el que el primer scout de cada bando empieza llevando la pelota con el pie desde su arco hasta un punto de vuelta a varios metros, y después la lleva de vuelta y la mete por el arco desde el que salió. Cuando metió el gol, el segundo scout repite lo que hizo el primero, y así cada scout repite el recorrido. Gana el bando que termina primero.
+Una carrera de postas en la que cada jugador lleva la pelota con el pie, ida y vuelta, y termina haciendo un gol.
+
+En una carrera de **postas** (o relevos) cada jugador del equipo hace el recorrido por turno, y recién cuando termina uno sale el siguiente.
+
+1. Se arman dos equipos (o bandos) iguales. Cada uno tiene un arco, que puede ser dos piedras, dos mochilas o dos estacas. Los jugadores de cada equipo se forman detrás de su arco.
+2. A varios metros de cada arco se marca un punto de vuelta, por ejemplo una estaca o un banderín.
+3. A la señal, el primer jugador de cada equipo sale llevando la pelota con el pie desde su arco hasta el punto de vuelta, lo rodea y vuelve llevándola de la misma forma.
+4. Al llegar, tiene que meter la pelota por el mismo arco del que salió.
+5. Recién cuando hizo el gol, sale el segundo jugador y repite todo el recorrido. Así siguen hasta que pasan todos.
+
+**Cómo se gana:** gana el equipo que termina primero.
 
 ## Cierre
 - ¿Qué convenía: ir rápido o con la pelota controlada?

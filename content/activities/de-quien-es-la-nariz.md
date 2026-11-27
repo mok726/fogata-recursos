@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -142,15 +143,33 @@ rama_rovers:
 2. Hacé un agujero chico, del tamaño de una moneda grande.
 
 ## Cómo se juega
-Se cuelga una sábana de modo que solo se vean las narices de los que están detrás. El equipo que está detrás muestra las narices de a una y los demás tratan de adivinar de quién son.
+Un juego para reconocer a los compañeros viendo solo una parte de ellos.
 
-**Variantes:** la mano, el pie, la sombra, etc.
+1. Se cuelga una sábana (de una soga, de una puerta o sostenida por dos personas) y se le hace un agujero chico, o se arma de modo que solo asome la nariz del que está detrás.
+2. Un equipo se pone detrás de la sábana. De a uno, cada jugador muestra la nariz por el agujero.
+3. El otro equipo trata de adivinar de quién es cada nariz.
+4. Después cambian los equipos.
+
+**Cómo se gana:** cada nariz bien adivinada vale un punto.
+
+**Variantes del original:** en lugar de la nariz se puede mostrar la mano, el pie, la sombra proyectada en la sábana, etc.
 
 ## Para cerrar
 - ¿Qué detalle les ayudó a reconocer a cada uno?
 
 ## Notas para educadores
 - Que nadie se sienta mal por su nariz: el juego va de observar, no de burlarse. Si notás incomodidad, pasá directo a la variante de manos o sombras.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHO'S NOSE?**
+
+A sheet is arranged so that only the noses of those behind it are visible. The team behind show their noses one at a time and the others try to guess the owners.
+
+Variations.-Hand, Foot, Shadow, etc.
 
 
 ## Texto original completo de la actividad

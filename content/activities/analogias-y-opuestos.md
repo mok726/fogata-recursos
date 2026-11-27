@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -141,12 +142,34 @@ rama_rovers:
 2. Prepará 15 pares de palabras: algunos opuestos (día / noche, subir / bajar) y otros que suenan parecido o no tienen relación (casa / caza, valla / vaya).
 
 ## Cómo se juega
-El que dirige lee una serie de frases como «El pie es al zapato como la mano es al…», y los jugadores tienen que completar la palabra que falta. O bien: «El scout es al lobato como la rana es al: estanque, pez, renacuajo, orilla», y los jugadores tienen que decir cuál de las opciones es la correcta.
+Dos juegos rápidos de palabras.
 
-**Opuestos:** el que dirige escribe dos columnas de palabras y los jugadores tienen que decir, muy rápido, si la palabra de la columna derecha es la opuesta de la de la izquierda o si no tiene nada que ver. Por ejemplo: mañana / tarde; sacar / devolver; vino / vino; mostrar / demostrar, etc.
+**Analogías:**
+1. El que dirige lee una frase incompleta del tipo: «El pie es al zapato como la mano es al…».
+2. Los jugadores tienen que decir la palabra que falta: «guante».
+3. También se puede leer con opciones: «El scout es al lobato como la rana es al: estanque, pez, renacuajo, orilla». Hay que elegir la correcta: «renacuajo» (el lobato es el scout cuando es chico, como el renacuajo es la rana cuando es chica).
+
+**Opuestos:**
+1. El que dirige escribe dos columnas de palabras en el pizarrón.
+2. Los jugadores tienen que decir, muy rápido, si la palabra de la derecha es lo opuesto de la de la izquierda o si no tiene nada que ver. Por ejemplo: «mañana / tarde» (opuestas); «sacar / devolver» (opuestas); «mostrar / demostrar» (no son opuestas).
+
+**Cómo se gana:** cada respuesta correcta vale un punto.
 
 ## Para cerrar
 - ¿Qué analogías tenían más de una respuesta posible? ¿Valían las dos?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ANALOGIES.**
+
+Leader reads out a series of sentences as “Foot is to boot as hand is to . . .” Players having to fill in the missing word. OR “Scout is to Cub as frog is to pond, fish, tadpole, bank.” Players having to state the correct one of the alternatives.
+
+**OPPOSITES.**
+
+Leader writes up two columns of words and players have to say if the word in the right-hand column is the opposite of that in the left or has no connection, all to be done fast. E.g. Morning Evening. Remove. Restore. New. Knew. Show. Demonstrate. etc. etc.
 
 
 ## Texto original completo de la actividad

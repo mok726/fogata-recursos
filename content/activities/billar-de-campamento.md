@@ -150,7 +150,13 @@ rama_rovers:
 La mesa de billar es una bolsa lisa estirada en el suelo parejo, con bastones como bandas. Las bolas son pelotitas y los tacos, los mismos bastones. Un juego simple para armar y jugar en el campamento.
 
 ## Desarrollo
-La mesa de billar es una bolsa lisa puesta sobre un pedazo de suelo parejo, y las "bandas" se hacen con bastones scouts. Las pelotitas de golf viejas reemplazan a las bolas de marfil de siempre, y en vez de un taco de billar de verdad, los scouts usan sus bastones.
+Un billar improvisado en el campamento, armado con lo que hay a mano.
+
+1. Se busca un pedazo de suelo bien parejo y se extiende encima una bolsa grande y lisa (de arpillera, por ejemplo): esa es la mesa.
+2. Alrededor de la bolsa se acuestan bastones scouts, que hacen de «bandas», es decir, los bordes de la mesa contra los que rebotan las bolas.
+3. En vez de bolas de billar se usan pelotitas de golf viejas.
+4. En vez de taco, cada jugador usa su propio bastón scout para pegarles a las pelotitas.
+5. Con esto armado, se juega como al billar común, con las reglas que conozca el grupo.
 
 ## Cierre
 - ¿Qué otros juegos se pueden improvisar con lo que hay en el campamento?

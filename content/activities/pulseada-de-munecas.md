@@ -143,7 +143,13 @@ rama_rovers:
 Dos jugadores frente a frente entrelazan los dedos de las dos manos y empujan las muñecas hacia abajo. Gana el que hace arrodillar al otro.
 
 ## Desarrollo
-Dos chicos se paran frente a frente, entrelazan los dedos de las dos manos y ven quién logra hacer que el otro se arrodille empujando las muñecas hacia abajo.
+Una prueba de fuerza en parejas, de pie.
+
+1. Dos jugadores se paran frente a frente.
+2. Entrelazan los dedos de las dos manos, palma contra palma.
+3. A la señal, cada uno empuja hacia abajo las muñecas del otro, haciendo fuerza con las manos y los brazos.
+
+**Cómo se gana:** gana el que logra que el otro se arrodille.
 
 ## Cierre
 - ¿Ganó el más fuerte o el que aguantó más?

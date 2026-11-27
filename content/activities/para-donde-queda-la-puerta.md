@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,11 +140,27 @@ rama_rovers:
 # ¿Para Qué Lado?
 
 ## Cómo se juega
-Se dibuja con tiza un círculo en el piso y se ponen adentro 3 o 4 objetos distintos. Cada jugador, por turno, mira el círculo unos momentos. Después de algo que lo distraiga, se le vendan los ojos y se lo lleva hasta el borde del círculo. Tiene que entrar al círculo y, tocando los objetos que hay adentro, señalar hacia dónde cree que queda la puerta (o cualquier otro punto elegido). Se puede jugar por equipos.
+Un juego para orientarse dentro de un salón sin ver.
+
+1. Se dibuja con tiza un círculo en el piso y se ponen adentro 3 o 4 objetos distintos (una silla, una mochila, una caja).
+2. Cada jugador, por turno, mira el círculo unos momentos y se fija dónde está cada objeto.
+3. Después de algo que lo distraiga, se le vendan los ojos y se lo lleva hasta el borde del círculo, girándolo un poco para que pierda la orientación.
+4. El jugador entra al círculo, toca los objetos para reconocerlos y, con eso, tiene que señalar hacia dónde cree que está la puerta (o cualquier otro punto que se elija).
+
+**Cómo se gana:** gana el que señala con más exactitud. Se puede jugar por equipos.
 
 ## Para cerrar
 - ¿Qué objeto les sirvió más para ubicarse?
 - ¿Cómo se usa esto para orientarse en el campamento de noche?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHICH WAY?**
+
+A circle is chalked on the floor, in which are put 3 or 4 different objects. Each player in turn looks at the circle for a few moments. After some distraction he is blindfolded and led to the edge of the circle. He must then enter the circle and by feeling the objects therein point in the direction in which he thinks that the door (or any other feature chosen) lies. This may be made a team game.
 
 
 ## Texto original completo de la actividad

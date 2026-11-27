@@ -147,7 +147,19 @@ rama_rovers:
 Todos menos uno se ubican dentro de un círculo grande. El que queda afuera tiene una pelota blanda y trata de "quemar" a los de adentro. Cada quemado sale y se suma a tirar, pero siempre con una sola pelota. Cuando quedan pocos, el juego se pone rapidísimo.
 
 ## Desarrollo
-Se marca una zona circular bastante grande y todos los scouts menos uno se ubican adentro. El scout que queda está "armado" con una pelota de tenis, con la que trata de "dispararle" a los scouts de adentro de la zona. Cada scout que recibe un "disparo" sale y ayuda a "disparar", pero durante todo el juego se usa una sola pelota de tenis. Los scouts de adentro, corriendo de un lado a otro, esquivando o saltando, pueden demorar un buen rato en ser alcanzados, y cuando quedan pocos, la diversión es rápida y furiosa. Los scouts "eliminados" deberían ubicarse alrededor del círculo para levantar rápido la pelota cuando cruza la zona. El juego se puede organizar como una competencia entre patrullas, así: una patrulla se ubica dentro de la zona y el guía de la patrulla rival empieza a "disparar". Por cada scout al que le pega, puede tener a uno de su propia patrulla para ayudarlo, y el scout alcanzado se retira. Se toma el tiempo que se tarda en "eliminar" a toda la patrulla rival, y gana la patrulla que tarda menos.
+Un juego de puntería y esquive con una pelota de tenis: el que es alcanzado queda eliminado y pasa a ayudar a tirar.
+
+1. Se marca en el suelo un círculo bastante grande.
+2. Todos los jugadores, menos uno, se ubican adentro del círculo.
+3. El que queda afuera tiene una pelota de tenis y trata de pegarles con ella a los de adentro.
+4. Al que le pegan queda eliminado: sale del círculo y pasa a ayudar a tirar. Durante todo el juego se usa una sola pelota.
+5. Los de adentro corren de un lado a otro, esquivan y saltan para que no les peguen.
+6. Los eliminados se reparten alrededor del círculo, para poder levantar la pelota enseguida cuando la cruza.
+7. Cuando quedan pocos adentro, el juego se pone rápido y muy divertido.
+
+**Cómo se gana:** gana el último que queda sin ser alcanzado.
+
+**Entre patrullas (variante del original):** una patrulla se mete en el círculo y el guía de la patrulla rival empieza a tirar desde afuera. Cada vez que le pega a alguien, ese jugador sale del círculo y el guía puede sumar a uno de su propia patrulla para que lo ayude a tirar. Se toma el tiempo que tardan en eliminar a toda la patrulla de adentro. Después se cambian los papeles. Gana la patrulla que tarda menos.
 
 ### Variante: Por patrullas
 Una patrulla entra al círculo y el guía de la otra empieza a tirar. Por cada quemado, suma un tirador de su patrulla. Se cronometra cuánto tardan en quemar a todos y gana la patrulla más rápida.

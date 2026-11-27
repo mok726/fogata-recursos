@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,10 +139,26 @@ rama_rovers:
 # Pelota de Piso, o Polo
 
 ## Cómo se juega
-Se marca un arco en cada punta del salón; cada equipo va «montado» en sillas, con una cuchara como taco de polo. Tratan de llevar una pelota de tenis hasta el arco del otro. No se permite patear ni cargar contra el otro.
+Un polo de salón: los jugadores «montan» en sillas como si fueran caballos y le pegan a una pelota de tenis con una cuchara, como si fuera el taco de polo.
+
+1. Se marca un arco en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
+2. Cada jugador va «montado» en una silla, sentado a caballo, y se desplaza arrastrándola o dando saltitos con ella. Lleva una cuchara en la mano, que es su taco.
+3. Se pone una pelota de tenis en el centro. Los jugadores le pegan con la cuchara para llevarla hasta el arco del otro equipo.
+4. No se permite patear la pelota ni cargar contra los otros, es decir, empujarlos o chocarlos a propósito.
+
+**Cómo se gana:** gana el equipo que hace más goles.
 
 ## Para cerrar
 - ¿Cómo se pasaban la pelota entre compañeros?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FLOOR BALL, OR POLO.**
+
+A goal is marked at each end of the room, each team is mounted on chairs, with a spoon as a polo stick. They try to propel a tennis ball through the other goal. Kicking or charging is not allowed.
 
 
 ## Texto original completo de la actividad

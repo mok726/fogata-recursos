@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -136,15 +137,36 @@ rama_rovers:
 # Interceptá la Pelota
 
 ## Cómo se juega
-Los jugadores en ronda; uno en el centro trata de interceptar una pelota que se tiran entre ellos. El que tiró un pase interceptado, una pelota imposible de agarrar o una pelota más alta que los hombros, cambia de lugar con el del centro.
+Un juego de ronda con pelota: uno en el centro trata de cortar los pases de los demás.
 
-**Variantes:** hacer picar o rodar la pelota, y poner dos jugadores en el centro.
+1. Los jugadores forman una ronda y uno se pone en el centro.
+2. Los de la ronda se tiran una pelota entre ellos, de un lado al otro, sin un orden fijo.
+3. El del centro trata de interceptarla, es decir, de tocarla o agarrarla en el aire antes de que llegue a destino.
+4. El jugador que tiró la pelota cambia de lugar con el del centro en cualquiera de estos tres casos:
+   - si el del centro intercepta su pase;
+   - si tiró una pelota imposible de agarrar para el compañero;
+   - si tiró la pelota más alta que los hombros (para que no valga tirarla por arriba del del centro).
+
+**Picando o rodando (variante del original):** en lugar de tirarla por el aire, la pelota se pasa haciéndola picar en el piso o rodando.
+
+**Dos en el centro (variante del original):** se ponen dos jugadores en el centro para que sea más difícil para la ronda.
 
 ## Para cerrar
 - ¿Qué pases eran los más difíciles de cortar?
 
 ## Notas para educadores
 - El clásico juego del «loco» o «monito» en sus muchas versiones. Usá una pelota blanda si es en interior.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**INTERCEPT THE BALL.**
+
+Players in circle, one in centre tries to intercept a ball thrown from one to another. Thrower of an intercepted pass, or of an uncatchable ball, or of a ball that goes above shoulder height changes places with the player in the centre.
+
+Variations.-Bouncing or rolling the ball, and having two in the centre.
 
 
 ## Texto original completo de la actividad

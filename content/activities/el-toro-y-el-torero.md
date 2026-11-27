@@ -150,7 +150,28 @@ rama_rovers:
 Doce jugadores: un toro, un torero, cuatro ayudantes y seis capoteros con pañuelos. El resto forma la plaza haciendo ronda. Primero los ayudantes tratan de arrancarle al toro las tiras de papel del lomo sin que los toque. Después, con el toro vendado, el torero tiene que sacarle el pañuelo del cuello sin ser tocado.
 
 ## Desarrollo
-Para el juego hacen falta doce jugadores; es interesante de mirar y queda bien como número de una exhibición. Los jugadores: 1 toro, 1 matador, 4 chulos y 6 portadores de pañuelos. PARTE I. El toro entra en la arena (que deben formar los scouts "haciendo cerco") con cuatro o cinco tiras de papel de 15 cm prendidas en la espalda. Los chulos tratan de arrancarlas sin que el toro los toque, pero si el toro los toca dos veces, quedan afuera. Los portadores de pañuelos, que llevan el pañuelo en la mano, se meten corriendo entre el toro y un chulo si este está en apuros y, agitando los pañuelos frente a la cara del toro, hacen que los siga. Si el toro toca una vez a un chulo, queda afuera. Solo se puede sacar una tira por vez. PARTE II. Cuando ya no quedan tiras, o murieron todos los chulos, se despeja la arena y se venda al toro, con un pañuelo atado al cuello de modo que salga de un tirón de una punta. Entonces entra el matador, que tiene que sacar el pañuelo sin que el toro lo toque. Si lo logra, el toro muere.
+Un juego de exhibición que imita una corrida de toros, sin ningún animal: un jugador hace de toro y los demás tratan de sacarle cosas sin que los toque. Es lindo de mirar.
+
+**Los personajes (12 jugadores):**
+- 1 toro;
+- 1 matador, el torero principal;
+- 4 chulos, los ayudantes del torero;
+- 6 portadores de pañuelos.
+
+El resto de los scouts forma la «arena»: se paran en ronda, uno al lado del otro, «haciendo cerco».
+
+**Primera parte:**
+1. El toro entra en la arena con cuatro o cinco tiras de papel de unos 15 cm prendidas en la espalda.
+2. Los chulos tratan de arrancarle las tiras sin que el toro los toque. Se puede sacar una sola tira por vez.
+3. Los portadores de pañuelos llevan el pañuelo en la mano. Cuando un chulo está en apuros, se meten corriendo entre él y el toro y agitan el pañuelo frente a la cara del toro, para que los persiga a ellos.
+4. El chulo que es tocado por el toro queda eliminado. El original da dos reglas distintas: en un lugar dice que queda eliminado si lo tocan dos veces y en otro que alcanza con una. Antes de empezar, elijan cuál van a usar.
+
+**Segunda parte:**
+1. Cuando el toro ya no tiene tiras, o cuando todos los chulos quedaron eliminados, se despeja la arena.
+2. Se le vendan los ojos al toro y se le ata un pañuelo al cuello, con un nudo que salga con un solo tirón de una punta.
+3. Entra el matador, que tiene que sacarle el pañuelo sin que el toro lo toque.
+
+**Cómo se gana:** si el matador logra sacar el pañuelo, gana él y el toro pierde. Si el toro lo toca antes, gana el toro.
 
 ## Cierre
 - ¿Cómo se ayudaban los capoteros y los ayudantes?

@@ -151,7 +151,21 @@ Una patrulla hace de asaltantes, otra de guarnición y las otras dos de columna 
 2. Marcá tres pueblos (más si hay más patrullas) y el lugar central de la columna de auxilio.
 
 ## Desarrollo
-Pueden participar cuatro patrullas, o hay que dividir la fuerza en cuatro partes iguales. Una patrulla hace de De Wet, otra de guarnición, y el resto de columna de auxilio de Kitchener. Se marca en el mapa una zona de alrededor de 2,5 km² por cada dos scouts de la columna de auxilio, y esa zona debería tener muchos caminos y senderos por donde se pueda andar en bicicleta. Se eligen tres lugares, de preferencia pueblos (o más si participan más de cuatro patrullas), que cuidará la patrulla de guarnición, dos scouts en cada lugar. El objetivo de De Wet es destruir la mayor cantidad posible de pueblos. Cuando entra en un pueblo, los dos scouts de la guarnición tienen que retirarse ante su número mayor: uno debe pedalear lo más rápido que pueda a buscar a la columna de auxilio, mientras el otro se queda vigilando los movimientos de De Wet. A cualquiera de los dos lo pueden capturar dos hombres de De Wet. Si De Wet logra ocupar el pueblo durante media hora, el pueblo queda destruido, pero tiene que retirarse si se acerca una columna de auxilio más fuerte que su fuerza. La columna de auxilio debería ubicarse en el centro de la zona y estar atenta a las señales de las guarniciones. De Wet debería impedir que lo sigan dividiendo a su grupo, con la instrucción de que todos se reúnan en el pueblo que se va a atacar, pero entrando desde direcciones distintas.
+Un gran juego en bicicleta, con cuatro patrullas: un grupo de saqueadores trata de tomar pueblos, y los demás los defienden.
+
+El nombre viene de una guerra en Sudáfrica (1899-1902): De Wet era un general bóer famoso por sus ataques rápidos y sorpresivos, y Kitchener el general británico que lo perseguía.
+
+1. Se juega con cuatro patrullas, o se divide la tropa en cuatro partes iguales. Una hace de «De Wet» (los atacantes), otra de guarnición (los guardias de los pueblos) y las otras dos forman la columna de auxilio de Kitchener.
+2. En el mapa se marca una zona con muchos caminos y senderos para andar en bicicleta. Tiene que tener unos 2,5 km² por cada dos scouts de la columna de auxilio.
+3. Se eligen tres lugares, mejor si son pueblos (más si juegan más de cuatro patrullas). La guarnición pone dos scouts en cada uno.
+4. La columna de auxilio se ubica en el centro de la zona y está atenta a las señales de las guarniciones.
+5. Cuando De Wet entra en un pueblo, los dos guardias tienen que retirarse porque son menos. Uno pedalea rápido a buscar a la columna de auxilio; el otro se queda vigilando a De Wet.
+6. A cualquiera de los dos guardias lo pueden capturar dos hombres de De Wet.
+7. Si De Wet ocupa un pueblo durante media hora, el pueblo queda destruido. Pero si se acerca una columna de auxilio más numerosa que él, tiene que retirarse.
+
+**Cómo se gana:** De Wet gana según cuántos pueblos destruye.
+
+**Consejo del original:** para que no lo sigan, a De Wet le conviene dividir su grupo y que todos se reúnan en el pueblo que van a atacar, entrando por lados distintos.
 
 ## Cierre
 - ¿Cómo se comunicaban la guarnición y la columna?

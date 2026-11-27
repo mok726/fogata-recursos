@@ -153,7 +153,18 @@ En un bosque, dos bandos acampan en lados opuestos. Un "traidor" del bando Rojo 
 2. Elegí al "traidor" del bando Rojo y explicale que deje algunas pistas (ramitas quebradas, huellas) para que su bando pueda rastrearlo.
 
 ## Desarrollo
-El mejor lugar para este juego es un bosque o un monte, pero se puede jugar en otro terreno si hace falta. La idea es esta: la tropa se divide en dos mitades; una acampa de un lado del bosque y la otra del otro. Estas mitades se llaman, respectivamente, "franceses" y "prusianos". En el campamento prusiano hay un traidor que acordó con los franceses dejar una carta con información importante sobre los planes prusianos en un árbol que marcará de cierta manera. Este árbol debería estar cerca del centro del bosque. Cuando empieza el juego, el "traidor" deja la carta en el árbol y vuelve a su campamento. Se supone que su traición se descubrió durante su ausencia, y al llegar lo arrestan. Se niega a revelar dónde escondió la carta. Queda "eliminado" y desde ese momento pasa a ser espectador. A una señal del árbitro, los prusianos salen a recuperar su carta y a impedir que los franceses la consigan, mientras los franceses salen al mismo tiempo de su campamento decididos a conseguirla y vigilando a los prusianos. Cada scout va armado con una pelota de tenis o de papel. El "traidor" debería tener cuidado, al esconder la carta, de quebrar una o dos ramitas y dejar aquí y allá la marca de su bota, para darles a los prusianos la posibilidad de encontrarla. Los franceses, por supuesto, tienen que buscar un árbol marcado de una manera determinada. Cuando se encuentran dos rivales, el primero que recibe un pelotazo queda "fuera de combate", y el scout alcanzado se compromete por su honor a no seguir participando en el juego. Cada hombre fuera de combate cuenta un punto en contra de los franceses o de los prusianos. El bando que se quede con la carta suma cuatro puntos. Gana el bando que sume más.
+Un gran juego de bosque entre dos bandos: uno trata de recuperar una carta secreta y el otro de conseguirla, siguiendo pistas.
+
+**La historia:** la tropa se divide en dos bandos, los «franceses» y los «prusianos» (los prusianos eran los habitantes de un antiguo reino alemán). Entre los prusianos hay un traidor que arregló con los franceses dejarles una carta con los planes prusianos escondida en un árbol, con una marca convenida.
+
+1. El mejor lugar es un bosque o un monte, aunque se puede jugar en otro terreno. Cada bando arma su campamento en un lado distinto del bosque.
+2. El traidor (en secreto, con los franceses) elige una marca para el árbol. El árbol tiene que estar cerca del centro del bosque.
+3. Al empezar, el traidor va, deja la carta en el árbol, lo marca y vuelve a su campamento. Al esconderla tiene que quebrar una o dos ramitas y dejar alguna huella aquí y allá, para que los prusianos puedan seguirle el rastro.
+4. Se supone que mientras estaba afuera descubrieron su traición. Cuando vuelve lo arrestan, se niega a decir dónde está la carta y queda eliminado: desde ese momento mira el juego sin participar.
+5. A una señal del árbitro, los dos bandos salen al mismo tiempo. Los prusianos buscan la carta siguiendo el rastro del traidor y tratan de que no la consigan los franceses. Los franceses buscan el árbol con la marca y vigilan a los prusianos.
+6. Cada scout lleva una pelota de tenis o una pelota de papel. Cuando se encuentran dos rivales, el primero que recibe un pelotazo queda fuera de combate y, por su honor, no sigue jugando.
+
+**Puntaje:** cada jugador fuera de combate resta un punto a su bando. El bando que se queda con la carta suma cuatro puntos. Gana el bando con más puntos.
 
 ## Cierre
 - ¿Qué pistas dejó el traidor? ¿Las vieron?

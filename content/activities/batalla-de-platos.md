@@ -147,7 +147,16 @@ rama_rovers:
 Dos bandos se ubican a distancia de tiro. Cada jugador, acostado boca abajo, clava delante suyo un plato con el borde en el suelo. A la voz de "¡ya!", todos tiran bollos de papel a los platos rivales. Al que le voltean el plato, queda fuera. Gana el bando que voltea más platos en el tiempo fijado.
 
 ## Desarrollo
-Para este juego hacen falta dos bandos, y la cantidad de jugadores se acuerda entre ellos. La munición es una buena cantidad de bollos de papel. Cada scout tiene un plato, y los bandos se ubican a distancia de tiro uno del otro. Si el terreno no es plano, se sortea quién se queda con la ventaja de la pendiente. Cada scout se acuesta boca abajo y, justo delante de él, apoya su plato clavando el borde en el suelo. A la voz de "¡ya!", cada guerrero le tira un bollo al plato de un rival. Cuando voltean un plato, el scout al que pertenece queda "fuera de combate". Gana el bando que logra "eliminar" a más rivales en un tiempo dado.
+Una batalla de bollos de papel entre dos bandos: hay que voltear los platos del enemigo.
+
+1. Se arman dos bandos. La cantidad de jugadores de cada uno se acuerda entre ellos.
+2. La munición es una buena cantidad de bollos de papel. Cada jugador tiene, además, un plato.
+3. Los bandos se ubican uno frente al otro, a una distancia desde la que se pueda tirar y llegar. Si el terreno está en pendiente, se sortea qué bando se queda con la parte de arriba, que tiene ventaja.
+4. Cada jugador se acuesta boca abajo y, justo delante de su cara, para su plato clavando el borde en el suelo, como si fuera un escudo.
+5. A la voz de «¡Ya!», todos empiezan a tirarles bollos a los platos de los rivales, sin levantarse.
+6. Cuando a un jugador le voltean el plato, queda «fuera de combate» y deja de tirar.
+
+**Cómo se gana:** el que dirige fija un tiempo. Cuando termina, gana el bando que eliminó a más rivales.
 
 ## Cierre
 - ¿Qué técnica de tiro funcionó mejor?

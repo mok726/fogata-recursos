@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,10 +136,28 @@ rama_rovers:
 # Atrapame
 
 ## Cómo se juega
-Los equipos en fila en las dos puntas del salón; un equipo, mirando a la pared. Todos los jugadores del otro equipo se acercan despacito, tocan a su compañero de número de la otra fila y después tratan de volver a su lugar sin que los toquen. Ningún perseguidor se puede mover hasta que lo toca su compañero de número. Se suma un punto por cada jugador atrapado. Después los equipos cambian de lugar, y gana el que tiene el mejor puntaje.
+Un juego de sigilo y persecución entre dos equipos: hay que acercarse sin ser oído, tocar al rival y volver corriendo antes de que te atrape.
+
+1. Los dos equipos, con la misma cantidad de jugadores, se numeran: 1, 2, 3… Se forman en fila en las dos puntas del salón.
+2. Un equipo se pone de cara a la pared, de espaldas al salón, así no ve lo que pasa.
+3. Todos los jugadores del otro equipo se acercan despacito, sin hacer ruido. Cada uno va hasta el jugador del otro equipo que tiene su mismo número, lo toca y sale corriendo para volver a su lugar.
+4. Cada jugador de la pared, apenas siente que lo tocan, se da vuelta y persigue al que lo tocó. Nadie puede moverse antes de que lo toque su rival de número.
+5. Por cada jugador atrapado antes de volver a su lugar, el equipo que persigue suma un punto.
+6. Después los equipos cambian de lugar: los que se acercaban pasan a la pared.
+
+**Cómo se gana:** gana el equipo que tiene el mejor puntaje.
 
 ## Para cerrar
 - ¿Qué convenía: acercarse rápido o despacio?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CATCH ME.**
+
+Teams in line at opposite ends of the room, one team facing the wall, all players of the other team creep up and touch their opposite numbers of the other rank and then try to regain their places without being touched. No chasing player may move till touched by his opposite number. One point is scored for each player caught. Teams then change places, and one with best score wins.
 
 
 ## Texto original completo de la actividad

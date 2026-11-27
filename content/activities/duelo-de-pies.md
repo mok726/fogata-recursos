@@ -146,7 +146,14 @@ rama_rovers:
 Dos jugadores frente a frente, con las manos atrás, parados en un solo pie. Con la pierna que tienen en el aire, cada uno intenta empujar al otro hasta que apoye el segundo pie.
 
 ## Desarrollo
-Dos chicos se paran frente a frente con las manos en la espalda. Tienen que pararse en una pierna, y cada uno trata de voltear al otro empujando con la pierna sobre la que no está parado.
+Un duelo de equilibrio para dos, parados en una pierna.
+
+1. Dos jugadores se paran frente a frente, con las manos en la espalda.
+2. Cada uno se para sobre una sola pierna.
+3. A la señal, cada uno trata de hacerle perder el equilibrio al otro empujándolo con la pierna que tiene levantada.
+4. No se vale usar las manos.
+
+**Cómo se gana:** pierde el que apoya el otro pie en el suelo o se cae.
 
 ## Cierre
 - ¿Qué te ayudó a mantener el equilibrio?

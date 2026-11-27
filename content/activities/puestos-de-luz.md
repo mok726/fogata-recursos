@@ -149,7 +149,20 @@ rama_rovers:
 Varias parejas, los "puestos", se ubican lejos de la salida con linternas. No se pueden mover, pero muestran o tapan su luz cuando quieren. Diez minutos después sale el corredor, con un farol siempre encendido, a buscarlos. Uno o dos minutos más tarde salen los scouts, que intentan atrapar al corredor y a los puestos. Cuando el corredor encuentra un puesto, este apaga su luz y vuelve a la salida.
 
 ## Desarrollo
-Dos o más scouts (según cuántos participen) salen de a dos con faroles comunes de bicicleta o similares, y se ubican a no menos de 400 metros (u otra distancia acordada) del punto de partida. Se llaman puestos, y no pueden moverse de su lugar, pero pueden mostrar o tapar su luz como les parezca mejor. Un scout sale, digamos, diez minutos más tarde llevando un farol de tormenta para descubrir los puestos. Se lo llama el corredor y no puede tapar su luz. Uno o dos minutos más tarde sale el resto a perseguir y capturar tanto al corredor como a los puestos. Se los llama scouts. Los puestos y los corredores no pueden llamarse entre sí. Los puestos muestran su luz cuando creen que el corredor está cerca, pero tienen que cuidarse de no delatar su posición a los scouts. Apenas el corredor encuentra un puesto, estos apagan su luz y se dirigen al punto de partida. Cuando el corredor descubrió todos los puestos, hace lo mismo. Ningún scout puede quedarse más cerca del punto de partida que la distancia acordada: 100 metros o algo así, según las circunstancias.
+Un juego nocturno con linternas: un corredor tiene que descubrir unos puestos escondidos en la oscuridad, mientras otro grupo intenta atrapar a todos.
+
+Hay tres papeles:
+- Los **puestos**: parejas que se esconden con una linterna y no se pueden mover de su lugar.
+- El **corredor**: el que sale a encontrar a los puestos, con una linterna o farol a pilas que siempre tiene que llevar prendido.
+- Los **cazadores** (en el original, «los scouts»): todos los demás, que salen a atrapar tanto al corredor como a los puestos.
+
+1. Las parejas de puestos (dos o más, según cuántos jueguen) salen con una linterna común y se ubican a no menos de 400 metros del punto de partida, u otra distancia que se acuerde.
+2. Unos diez minutos después sale el corredor, con su farol prendido. No lo puede tapar ni apagar.
+3. Uno o dos minutos más tarde salen los cazadores.
+4. Los puestos pueden mostrar o tapar su luz cuando quieran. La idea es prenderla cuando creen que el corredor anda cerca, para que los encuentre, pero cuidándose de que no los vean los cazadores.
+5. Ni los puestos ni el corredor pueden llamarse a los gritos entre ellos.
+6. Cuando el corredor encuentra un puesto, esa pareja apaga su luz y vuelve al punto de partida. Cuando el corredor encontró todos los puestos, también vuelve.
+7. Los cazadores no pueden quedarse esperando cerca del punto de partida: tienen que mantenerse a más de la distancia que se acuerde, unos 100 metros según el terreno.
 
 ## Cierre
 - ¿Cuándo convenía mostrar la luz?

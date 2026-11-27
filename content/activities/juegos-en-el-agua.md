@@ -152,7 +152,12 @@ B-P propone varios juegos acuáticos que, bien practicados, arman una exhibició
 1. Elegí solo los juegos que se puedan hacer con seguridad en el lugar que tenés y con quienes saben nadar.
 
 ## Desarrollo
-Hay varios tipos de deportes acuáticos que, cuando se practican lo suficiente, arman una exhibición muy interesante. I. WATERPOLO: se clavan estacas para hacer los arcos y se usa una pelota de goma grande, si no se consigue una pelota de waterpolo de verdad. II. PALO ENJABONADO: sujeto a la punta de un muelle o un embarcadero, con algún premio atado en la punta. (Nota: el palo no debería salir derecho de la punta del muelle, sino inclinarse hacia la derecha o la izquierda, para que se vea mejor desde la orilla). III. JUSTAS: en canoas chicas o sobre troncos, un chico rema y otro justa, armado con un escudo chico de madera y un palo de 1,80 m con algo blando atado en la punta. IV. Carreras de natación, competencias de zambullida y carreras para meterse en un salvavidas.
+Una serie de juegos en el agua que, bien practicados, arman una exhibición muy interesante.
+
+1. **Waterpolo:** se clavan estacas en el agua para marcar los arcos. Si no se consigue una pelota de waterpolo, se usa una pelota de goma grande. Dos equipos nadan y tratan de meter la pelota en el arco contrario.
+2. **Palo enjabonado:** se sujeta un palo resbaloso a la punta de un muelle o embarcadero, saliendo hacia el agua, con un premio atado en la otra punta. Los jugadores tratan de caminar o arrastrarse por el palo hasta agarrar el premio, y casi siempre terminan cayéndose al agua. El palo no tiene que salir derecho desde el muelle, sino inclinado hacia la derecha o la izquierda, para que se vea mejor desde la orilla.
+3. **Justas:** se forman parejas en canoas chicas o sobre troncos. Uno rema y el otro lleva un escudo chico de madera y un palo de unos 1,80 metros con algo blando atado en la punta. Cada justador trata de hacer caer al agua al de la otra canoa empujándolo con el palo.
+4. **Carreras y competencias:** carreras de natación, competencias de zambullida y carreras para meterse dentro de un salvavidas.
 
 ## Cierre
 - ¿Qué juego les gustó más?

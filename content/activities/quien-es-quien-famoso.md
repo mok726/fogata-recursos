@@ -152,7 +152,15 @@ Se pegan retratos de personas conocidas en tarjetas numeradas y cada jugador ano
 1. Elegí entre 15 y 25 retratos variados, con mujeres y varones, de tu país y del mundo, y de distintas épocas.
 
 ## Desarrollo
-Se puede armar un buen juego recortando de los diarios una selección de retratos de personas célebres, pegando cada retrato en una tarjeta numerada e invitando a los presentes a nombrarlos; los soldados, los reyes, los políticos, los predicadores y los deportistas serán los más fáciles de reconocer.
+Un juego para reconocer a personas famosas por su foto.
+
+1. Antes de la reunión, el que dirige recorta de diarios y revistas (o imprime) fotos de personas conocidas.
+2. Pega cada foto en una tarjeta y le pone un número.
+3. Muestra las tarjetas o las deja a la vista, y los jugadores anotan junto a cada número el nombre de la persona.
+
+**Cómo se gana:** gana el que reconoce a más personas.
+
+**Consejo del original:** los más fáciles de reconocer suelen ser los militares, los reyes, los políticos, los líderes religiosos y los deportistas. Para un grupo de hoy, elegí personas que los chicos puedan conocer: deportistas, artistas, próceres, científicos, gente de la ciudad.
 
 ## Cierre
 - ¿A quién no conocían? ¿Qué hizo?

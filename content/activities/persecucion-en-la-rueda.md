@@ -55,6 +55,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,10 +140,30 @@ rama_rovers:
 1. Dibujá un círculo de unos 6 metros de diámetro, un círculo chico en el medio y seis u ocho rayos que los unan.
 
 ## Cómo se juega
-Se dibuja con tiza en el piso una rueda de unos 2,70 m de radio, con un centro (el cubo) de unos 75 cm, una llanta de 30 cm y rayos. Los jugadores se ubican sobre la llanta. Dos jugadores persiguen a otro, y todos tienen que andar solo por la llanta o por los rayos. Los de afuera vigilan que nadie pise afuera. Se puede considerar que el perseguido está a salvo en el centro.
+Un juego de persecución en el que solo se puede correr por las líneas de una rueda dibujada en el piso.
+
+1. Con tiza (o marcando en la tierra) se dibuja en el piso una rueda grande, como la de una carreta:
+   - la llanta: el borde de afuera, un círculo de unos 2,70 m de radio, marcado como una franja de 30 cm de ancho;
+   - el cubo: un círculo chico en el centro, de unos 75 cm;
+   - los rayos: varias franjas que van desde el cubo hasta la llanta.
+2. Los jugadores se ubican sobre la llanta.
+3. Se eligen dos perseguidores y un perseguido. Los dos tratan de tocarlo.
+4. Todos, perseguidores y perseguido, solo pueden moverse pisando la llanta o los rayos. El que pisa afuera de las líneas comete falta. Antes de empezar, el grupo acuerda qué pasa con el que pisa afuera; por ejemplo, pasa a ser uno de los perseguidores.
+5. Los demás jugadores se ponen alrededor de la rueda y vigilan que nadie pise afuera.
+6. Se puede acordar que el cubo del centro sea un lugar a salvo: mientras el perseguido está ahí, no lo pueden tocar.
+7. Cuando tocan al perseguido, se eligen otros tres jugadores.
 
 ## Para cerrar
 - ¿Qué camino les convenía usar: los rayos o el borde?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHEEL PURSUIT.**
+
+Wheel chalked on floor about 9 feet radius, 2 feet 6 inches hub, 1-foot rim, and spokes. Players round rim. Two players chase another, all keeping to the rim or spokes. Players outside watch lest any step outside. Fugitive may be considered safe in the hub.
 
 
 ## Texto original completo de la actividad

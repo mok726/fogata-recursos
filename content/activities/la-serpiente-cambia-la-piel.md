@@ -148,7 +148,15 @@ rama_rovers:
 Los jugadores en fila india. Cada uno pasa la mano derecha entre sus piernas y se la toma el de atrás con la izquierda. El primero empieza a caminar hacia atrás, pasando por encima del segundo; el segundo hace lo mismo con el tercero, y así, hasta que el primero queda último. Bien rápido, parece una serpiente cambiando la piel.
 
 ## Desarrollo
-Los scouts se paran en fila india. Cada scout pasa la mano derecha entre las piernas, y el que está detrás se la toma. Entonces el primer scout camina hacia atrás, pasando a horcajadas por encima del n.º 2. El n.º 2 repite el movimiento, pasando a horcajadas por encima del n.º 3, y así hasta que el scout que era el primero queda en la última posición. Es una proeza gimnástica ingeniosa, y hecha rápido representa a una serpiente cambiando la piel.
+Una prueba de agilidad para toda la patrulla: la fila, tomada de las manos, se da vuelta entera sin soltarse, como una serpiente que cambia la piel.
+
+1. Los scouts se paran en fila india, uno detrás del otro, todos mirando para el mismo lado.
+2. Cada uno se agacha un poco, pasa la mano derecha hacia atrás por entre sus piernas y, con la izquierda, agarra la mano derecha del que tiene adelante. Así toda la fila queda unida.
+3. Sin soltarse, el primero de la fila camina hacia atrás y pasa con las piernas abiertas por encima del segundo, que se agacha para dejarlo pasar.
+4. El segundo hace lo mismo con el tercero, y así sigue toda la fila, uno después del otro.
+5. Al final, el que era el primero queda último, y la fila terminó dada vuelta.
+
+**Consejo del original:** hecho rápido, parece de verdad una serpiente cambiando la piel.
 
 ## Cierre
 - ¿Qué fue lo más difícil para no soltarse?

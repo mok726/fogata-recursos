@@ -144,7 +144,17 @@ rama_rovers:
 Dos grupos recorren una calle, uno por cada vereda, se cruzan al final y vuelven por la otra. Cada uno anota todo lo que esté torcido o fuera de lugar: un cartel caído, una persiana torcida, una mercadería mal puesta en una vidriera. No vale lo que está en movimiento. Además, hay que anotar con disimulo para que los que vienen detrás no se den cuenta.
 
 ## Desarrollo
-Hay que reunir a los scouts en un punto dado y dividirlos en dos secciones; cada una recorre una vereda de la calle, se cruzan al final y vuelven por la vereda opuesta. Se los puede mandar en fila o en forma irregular, de preferencia lo último; cada uno lleva lápiz y libreta o papel, y va anotando durante el recorrido cada objeto o cosa que esté torcida. Puede ser un cartel colgado en la puerta o en una pizarra de un comerciante, o un letrero colgante que no esté horizontal, persianas torcidas, mercadería notoriamente torcida en las vidrieras, y así. No hay que anotar irregularidades en vehículos en movimiento, porque el juez no tendría cómo verificarlas. Al acercarse al juez, cada scout firma su propio papel o libreta y se lo entrega; después se dan los puntos según el mérito, y se premia al scout más observador de la patrulla que sume más puntos entre todos sus scouts. La idea es que los scouts no solo observen los detalles, sino que además hagan sus anotaciones con tanta discreción y en momentos tales que los scouts que vienen detrás no los vean anotar. Se puede hacer con o sin límite de tiempo.
+Un juego de observación por la calle: hay que descubrir todo lo que está torcido, sin que los demás se den cuenta de lo que uno anota.
+
+1. Los jugadores se reúnen en un punto y se dividen en dos grupos, cada uno con lápiz y libreta o papel.
+2. Cada grupo camina por una vereda de la misma calle. Al final de la cuadra (o del tramo elegido) se cruzan y vuelven por la vereda de enfrente. Pueden ir en fila o, mejor todavía, sueltos y separados.
+3. Durante el recorrido, cada uno anota todo lo que vea que no está derecho: un cartel colgado torcido en la puerta de un negocio, un letrero que no está horizontal, una persiana torcida, mercadería claramente torcida en una vidriera, y cosas así.
+4. No se anotan cosas torcidas en vehículos en movimiento, porque el juez no tendría cómo comprobarlas.
+5. La gracia es que, además de observar, cada uno anote con disimulo y en el momento justo, para que los que vienen atrás no lo vean anotar y no se den cuenta de qué descubrió.
+6. Al llegar al juez (el dirigente), cada jugador firma su papel o su libreta y se lo entrega.
+7. Se puede jugar con o sin límite de tiempo.
+
+**Puntaje:** el juez da puntos a cada uno según lo que encontró. Gana la patrulla que suma más puntos entre todos sus integrantes, y dentro de esa patrulla se premia al jugador más observador.
 
 ## Cierre
 - ¿Qué detalle se le pasó a casi todos?

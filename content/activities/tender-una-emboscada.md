@@ -147,7 +147,19 @@ rama_rovers:
 La columna avanza por un camino con exploradores a los costados. Dos patrullas la siguen: una da un rodeo en semicírculo, se le adelanta y se esconde en emboscada; la otra la sigue de cerca para atacar por atrás justo cuando la columna llega a la emboscada. Si la columna descubre el rodeo, puede seguirlo y capturar a todos tocándolos.
 
 ## Desarrollo
-El grupo principal avanza por un camino, con scouts desplegados a ambos lados para evitar cualquier peligro de sorpresa. Dos patrullas (el enemigo) los siguen por detrás e intentan emboscarlos: una patrulla se les adelanta y la otra ataca por la retaguardia. Siguen al grupo principal mientras avanza hasta llegar a un lugar adecuado del terreno; entonces una patrulla intenta adelantarse dando un rodeo en semicírculo y volviendo al camino más adelante. Si lo logra, se esconde en emboscada y ataca al grupo principal cuando llega; la otra patrulla, que venía siguiéndolos por detrás, tiene que atacar enseguida por la retaguardia. Para que la emboscada salga bien, la patrulla de atrás tiene que poder atacar apenas el grupo llega a la emboscada, así que debe seguirlo de cerca. Si ven a la patrulla que da el rodeo, hay que seguirla y descubrir la emboscada; y tanto ella como la otra patrulla de atrás pueden ser capturadas, igual que en "Seguimiento", con solo tocarlas.
+Un juego de campo: dos patrullas tratan de atrapar a un grupo que avanza por un camino, atacándolo por delante y por detrás al mismo tiempo.
+
+Una **emboscada** es esconderse en un lugar del camino para sorprender al que pasa. La **retaguardia** es la parte de atrás del grupo.
+
+1. El grupo principal avanza por un camino, con algunos exploradores a los costados para que no los sorprendan.
+2. Dos patrullas hacen de enemigo y los siguen por detrás, sin ser vistas.
+3. Cuando llegan a un lugar del terreno que les sirve, una de las dos patrullas da un rodeo en semicírculo, se adelanta al grupo y vuelve al camino más adelante.
+4. Si lo logra, se esconde y ataca al grupo principal cuando llega a ese punto.
+5. En ese mismo momento, la otra patrulla, que venía detrás, ataca por la retaguardia. Para que la emboscada funcione, esta patrulla tiene que ir bien cerca, así puede atacar apenas empieza el ataque de adelante.
+6. Si el grupo principal ve a la patrulla que da el rodeo, la tiene que seguir para descubrir dónde prepara la emboscada.
+7. Igual que en el juego «Seguimiento», para atrapar a alguien de cualquiera de las dos patrullas basta con tocarlo.
+
+**Cómo se gana:** las patrullas enemigas ganan si logran la emboscada y el ataque por los dos lados; el grupo principal gana si la descubre a tiempo y atrapa a los que lo siguen.
 
 ## Cierre
 - ¿Por qué era clave atacar por adelante y por atrás al mismo tiempo?

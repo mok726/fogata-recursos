@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -138,12 +139,36 @@ rama_rovers:
 # Posta de la Papa y la Cuchara
 
 ## Cómo se juega
-Los equipos en fila india; cada jugador, por turno, corre hasta un punto dado y vuelve llevando una papa en una cuchara grande de madera. La cuchara se tiene que agarrar de la punta y con una sola mano. Gana el primer equipo que termina. En lugar de la papa y la cuchara se puede usar una pelota de tenis sobre un libro, o muchísimas otras cosas.
+Una carrera de postas de equilibrio: hay que llevar una papa en una cuchara sin que se caiga.
 
-**Posta de los libros en equilibrio:** los equipos en fila india; cada jugador, por turno, va y vuelve por el recorrido llevando dos o más libros en equilibrio sobre la cabeza. Si se le caen, tiene que empezar de nuevo. Gana el primer equipo que termina. Esta carrera se puede combinar muy bien con la anterior.
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
+
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Enfrente se marca un punto de vuelta.
+2. Cada equipo tiene una cuchara grande de madera y una papa.
+3. A la señal, el primero corre hasta el punto marcado y vuelve, llevando la papa en la cuchara. La cuchara se agarra de la punta del mango y con una sola mano; la otra no puede ayudar.
+4. Al volver, le pasa la cuchara y la papa al siguiente.
+
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Otros objetos (variante del original):** en vez de la papa y la cuchara se puede usar una pelota de tenis sobre un libro, o muchísimas otras combinaciones de objetos.
+
+**Posta de los libros en equilibrio (variante del original):** cada jugador, por turno, va y vuelve por el recorrido llevando dos o más libros en equilibrio sobre la cabeza. Si se le caen, tiene que empezar de nuevo. Gana el primer equipo que termina. Esta carrera se puede combinar con otras postas, por ejemplo con la de la papa en la cuchara.
 
 ## Para cerrar
 - ¿Qué truco usaron: ir rápido o ir despacio y seguro?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**POTATO AND SPOON RELAY.**
+
+Teams in file; each player in turn runs to a given point and back carrying a potato in a large wooden spoon. The spoon must be held at the end and only one hand used. Team to finish first wins. A tennis ball on a book may be used instead of the potato and spoon or any of a wide selection of other articles.
+
+**BALANCING BOOKS RELAY.**
+
+Teams in file; each player in turn goes up and down the course balancing two or more books on his head. If they fall off he must start again. First team to finish wins. N.B.—--This race may well be combined with one such as Nos. 22, 32, etc.
 
 
 ## Texto original completo de la actividad

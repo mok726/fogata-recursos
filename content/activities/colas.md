@@ -147,7 +147,15 @@ rama_rovers:
 Cada jugador lleva el pañuelo metido suelto en el cinturón, como una cola. El objetivo es sacarle la cola a la mayor cantidad posible de rivales sin perder la propia. B-P la propone como forma de definir cualquier juego de acecho, en vez de golpear los tobillos con el bastón.
 
 ## Desarrollo
-En los juegos de exploración, muchas tropas usan el "golpe en el tobillo" con los bastones para definir el resultado del día. Es una forma muy emocionante de atacar y defenderse, pero al mismo tiempo es bastante peligrosa y no requiere mucho trabajo de exploración real. Una forma mucho mejor de decidir qué bando gana es la siguiente. Los scouts de los dos bandos llevan su pañuelo metido suavemente en el cinturón, y el objetivo de cada bando es capturar la mayor cantidad posible de estas "colas". Acercarse por detrás a un scout rival y arrebatarle la "cola" antes de que te descubra exige mucha más cautela y técnica scout que el golpe en el tobillo común. Además, un scout puede descubrir de golpe que le falta la cola justo cuando está por capturar la de un enemigo, lo que suma a la diversión del juego. Por supuesto, si se prefiere, se pueden usar trozos de tela de colores o pañuelos comunes en vez de los pañuelos scouts.
+Una forma de definir quién gana en los juegos de exploración: cada scout lleva una «cola» y hay que arrebatársela al rival sin que te vea.
+
+1. Se usa dentro de cualquier juego de exploración entre dos bandos, en vez del «golpe en el tobillo» con el bastón que usaban muchas tropas, que es peligroso y casi no exige técnica scout.
+2. Cada scout de los dos bandos se mete el pañuelo suavemente en el cinturón, por detrás, colgando como una cola. Si se prefiere, se pueden usar trozos de tela de colores o pañuelos comunes.
+3. El objetivo de cada bando es capturar la mayor cantidad posible de colas del bando rival.
+4. Para eso hay que acercarse por detrás a un rival, sin que te descubra, y sacarle la cola. Eso pide mucha más cautela y técnica que un golpe con el bastón.
+5. Hay que estar atento: un scout puede descubrir de golpe que le sacaron la cola justo cuando estaba por sacarle la suya a un enemigo.
+
+**Cómo se gana:** gana el bando que capturó más colas.
 
 ## Cierre
 - ¿Por qué B-P prefería esto a golpear con el bastón?

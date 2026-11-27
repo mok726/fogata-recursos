@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,13 +136,28 @@ rama_rovers:
 # Llená el Hueco
 
 ## Cómo se juega
-Los jugadores en ronda, mirando hacia adentro; uno corre por afuera y le toca la espalda a otro. Los dos corren alrededor de la ronda en direcciones opuestas, y el que no llega primero a llenar el hueco sigue corriendo.
+Un juego de ronda de carrera: dos corren alrededor de la ronda para ver quién llega primero al hueco.
+
+1. Los jugadores forman una ronda, mirando hacia adentro.
+2. Un jugador corre por afuera de la ronda y, cuando quiere, le toca la espalda a alguno.
+3. En ese momento, los dos salen corriendo alrededor de la ronda en direcciones opuestas: uno para la derecha y el otro para la izquierda.
+4. Los dos tratan de llegar primero al lugar que quedó vacío (el hueco) y ocuparlo.
+5. El que llega primero se queda en la ronda. El que pierde sigue corriendo por afuera y le toca la espalda a otro.
 
 ## Para cerrar
 - ¿Les convenía tocar a alguien rápido o a alguien que estuviera distraído?
 
 ## Notas para educadores
 - Pedí que al cruzarse siempre pasen por la derecha: evita choques.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FILL THE GAP.**
+
+Players in circle, facing in, one runs round outside and taps another on the back. Both then race round the circle in opposite directions, and whichever fails to get back first and fill the gap carries on.
 
 
 ## Texto original completo de la actividad

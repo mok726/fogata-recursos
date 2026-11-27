@@ -151,7 +151,15 @@ rama_rovers:
 Un scout sale con media cebolla cruda y deja un rastro de olor frotándola en postes, piedras y troncos. Los demás lo siguen con los ojos vendados, guiándose por el olfato. El dirigente no va vendado, para avisar de cualquier peligro. Gana el primero que llega al final del rastro.
 
 ## Desarrollo
-Un scout sale con media cebolla cruda. Va dejando un "rastro de olor" frotando la cebolla en postes de tranqueras, piedras, troncos de árboles, postes de luz, etc. La tropa sigue este rastro con los ojos vendados; el dirigente, en cambio, no va vendado, para poder avisar a sus chicos de cualquier peligro (como al cruzar calles). Gana el scout o la patrulla que llega primero al final del rastro. El chico que deja el "rastro" se queda al final hasta que llega el primer "rastreador".
+Un juego de rastreo con el olfato: hay que seguir, con los ojos vendados, un rastro de olor a cebolla.
+
+1. Un scout sale primero con media cebolla cruda.
+2. Va dejando un «rastro de olor»: frota la cebolla en postes de tranqueras, piedras, troncos de árboles, postes de luz, etc.
+3. Al final del recorrido se queda esperando hasta que llega el primer rastreador.
+4. Después sale el resto de la tropa con los ojos vendados y sigue el rastro solo con el olfato.
+5. El dirigente va sin venda, acompañando, para avisar de cualquier peligro, por ejemplo al cruzar calles.
+
+**Cómo se gana:** gana el scout o la patrulla que llega primero al final del rastro.
 
 ## Cierre
 - ¿Qué tan lejos podías sentir el olor?

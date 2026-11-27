@@ -151,7 +151,19 @@ rama_rovers:
 Es una carrera de liebres y sabuesos común, pero las liebres dejan, junto a cada marca del rastro, una o dos etiquetas autoadhesivas. El sabueso que encuentra el rastro toca el silbato y todos buscan las etiquetas cerca. Quien las encuentra las pega en su bastón. Gana el que junta más.
 
 ## Desarrollo
-Este juego se juega igual que una carrera de papelitos común, salvo que las liebres llevan cierta cantidad de pequeñas etiquetas redondas engomadas, como las que usan los comerciantes para marcar el precio de la mercadería. Cada vez que se deja una marca del rastro, no deberían dejarse más de dos etiquetas con ella. Apenas un sabueso encuentra el rastro, toca el silbato. Los demás sabuesos van enseguida al lugar y buscan las dos etiquetas. Cuando las encuentran, se pegan en el bastón de quien las halló, y al final de la carrera gana el scout con más etiquetas. Esto ayuda a mantener el interés de los scouts más chicos, que de otro modo enseguida tenderían a quedarse atrás.
+Una versión de la carrera de papelitos en la que cada uno junta puntos en su bastón.
+
+Una «carrera de papelitos» es un juego de rastreo: unos jugadores, las «liebres», salen primero y van dejando un rastro (papelitos u otras marcas) y los demás, los «sabuesos», tienen que seguirlo para alcanzarlas.
+
+1. Se juega como una carrera de papelitos común, pero las liebres llevan además etiquetas autoadhesivas chicas y redondas, como las que se usan para marcar precios.
+2. Cada vez que las liebres dejan una marca del rastro, ponen junto a ella, escondidas cerca, no más de dos etiquetas.
+3. Apenas un sabueso encuentra una marca del rastro, toca el silbato.
+4. Todos los sabuesos van enseguida a ese lugar y buscan las dos etiquetas.
+5. El que encuentra una etiqueta la pega en su propio bastón.
+
+**Cómo se gana:** al final de la carrera gana el scout que tiene más etiquetas en el bastón.
+
+**Consejo del original:** este agregado ayuda a que los más chicos sigan interesados, porque si no, enseguida tienden a quedarse atrás.
 
 ## Cierre
 - ¿Dónde estaban escondidas las etiquetas más difíciles?

@@ -57,6 +57,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,7 +140,14 @@ rama_rovers:
 # Ubicar el Bastón
 
 ## Cómo se juega
-El que dirige clava un bastón en el suelo; cada jugador lo mira, se venda los ojos y después trata de clavar el suyo lo más cerca posible, saliendo desde unos 20 o 30 metros. No se permite tantear.
+Un juego para calcular distancias y caminar derecho sin ver.
+
+1. El que dirige clava un bastón en el suelo.
+2. Cada jugador lo mira bien desde unos 20 o 30 metros, se venda los ojos y sale caminando con su propio bastón en la mano.
+3. Cuando cree que llegó, clava su bastón lo más cerca posible del primero.
+4. No se vale tantear con las manos ni con el bastón para buscar el del que dirige.
+
+**Cómo se gana:** gana el que clava su bastón más cerca.
 
 ## Para cerrar
 - ¿Contar los pasos los ayudó? ¿Cuántos pasos tuyos son 20 metros?
@@ -147,6 +155,15 @@ El que dirige clava un bastón en el suelo; cada jugador lo mira, se venda los o
 ## Notas para educadores
 - Combina bien con la ficha de medidas personales (cuánto mide tu paso).
 - Si el piso es duro, usá en su lugar una marca en el suelo y que el jugador apoye la punta del bastón.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PLACING THE STAFF.**
+
+Leader places a staff in the ground, each player looks at it, is blindfold, then tries to place his as near to it as he can starting about 20 or 30 yards away. No feeling about must be allowed.
 
 
 ## Texto original completo de la actividad

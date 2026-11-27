@@ -58,6 +58,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -139,15 +140,34 @@ rama_rovers:
 # Tiro con un Ojo
 
 ## Cómo se juega
-Los equipos se forman frente a una fila de baldes, con un ojo tapado. Cada jugador, por turno, trata de meter una pelota de tenis en el balde de su equipo. Gana el equipo que mete más pelotas.
+Un juego de puntería con un ojo tapado, como un pirata: así cuesta mucho más calcular la distancia.
 
-**Falsa alarma:** cada equipo se forma frente a un aro chico, en cuyo centro se cuelga una campanita. Cada jugador, por turno, trata de pasar una pelota de tenis por el aro de su equipo sin tocar la campanita. Por un tiro limpio se suman 2 puntos; si suena la campanita se restan 2; si un jugador erra las tres veces, se resta 1 punto. Gana el mejor puntaje.
+1. Se pone una fila de baldes, uno para cada equipo, en una punta del salón.
+2. Cada equipo se forma en fila frente a su balde, a unos pasos de distancia. A cada jugador se le tapa un ojo con un pañuelo.
+3. Por turno, cada jugador trata de embocar una pelota de tenis en el balde de su equipo.
+
+**Cómo se gana:** gana el equipo que mete más pelotas en su balde.
+
+**Falsa alarma (variante del original):** frente a cada equipo se cuelga un aro chico, y en el centro del aro se cuelga una campanita. Cada jugador, por turno, tiene tres oportunidades para tratar de pasar una pelota de tenis por el aro de su equipo sin tocar la campanita. Si la pelota pasa limpia por el aro, el equipo suma 2 puntos. Si la pelota hace sonar la campanita, se restan 2 puntos. Si un jugador erra las tres veces, se le resta 1 punto al equipo. Gana el equipo con mejor puntaje.
 
 ## Para cerrar
 - ¿Por qué cuesta tanto calcular la distancia con un solo ojo?
 
 ## Notas para educadores
 - Buena excusa para explicar cómo los dos ojos nos dan la profundidad.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ONE-EYED SHOOTING.**
+
+Teams line up opposite a row of buckets and have one eye blindfold. Each player in turn tries to throw a tennis ball into his team's bucket. Team getting most balls in wins.
+
+**FALSE ALARM.**
+
+Each team lines up opposite a small hoop in the centre of which is hung a bell. Each player in turn tries to throw a tennis ball through his team's hoop without hitting the bell. For a clean throw through score 2 points, for ringing the bell take off 2 points, if a player misses every time in three chances deduct 1 point. Best score wins.
 
 
 ## Texto original completo de la actividad

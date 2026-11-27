@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,7 +136,15 @@ rama_rovers:
 # El Alfabeto del Barco
 
 ## Cómo se juega
-Los jugadores en ronda. El que dirige dice una letra, por ejemplo la «M». Después le pregunta al primer jugador: «¿Cómo se llama el barco?», y este contesta con cualquier nombre razonable que empiece con «M». Al segundo jugador le pregunta: «¿Cómo se llama el capitán?»; después, «¿A dónde va?», «¿Qué lleva?», etc., y así toda la ronda, cambiando la letra cuando haga falta. El jugador que se equivoca o no contesta pasa al último lugar.
+Un juego de ronda para pensar rápido palabras con una letra.
+
+1. Los jugadores se sientan en ronda. El que dirige dice una letra, por ejemplo la «M».
+2. Le pregunta al primero: «¿Cómo se llama el barco?». Tiene que contestar enseguida con un nombre que empiece con M: «La Mariposa».
+3. Al segundo: «¿Cómo se llama el capitán?» («Martín»). Al tercero: «¿A dónde va?» («A Mendoza»). Al cuarto: «¿Qué lleva?» («Mandarinas»). Y así siguiendo la ronda, con otras preguntas.
+4. Cuando hace falta, el que dirige cambia la letra.
+5. El que se equivoca o no contesta pasa al último lugar de la ronda.
+
+**Cómo se gana:** gana el que está en el primer lugar al terminar.
 
 ### Variante: El barco del campamento
 Todo lo que lleva el barco tiene que servir para el campamento: con la M, «mochilas», «mate», «mantas».
@@ -145,6 +154,15 @@ Todo lo que lleva el barco tiene que servir para el campamento: con la M, «moch
 
 ## Notas para educadores
 - Es un juego conocido en muchos países de habla hispana con distintos nombres. Ideal para esperar el colectivo o la comida.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHIP'S ALPHABET.**
+
+Players in circle. Leader names a letter (say) “C.” He then asks the first player “Name of the ship? “ who answers with any reasonable name starting with “ C.” Second player is asked “Name of the captain? Where to? What cargo? etc., and so on round the circle, the letter being changed as necessary. Any player making a mistake, or failing to reply, goes to the bottom.
 
 
 ## Texto original completo de la actividad

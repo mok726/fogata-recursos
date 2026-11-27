@@ -56,6 +56,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -137,12 +138,31 @@ rama_rovers:
 # Pasar el Palo
 
 ## Cómo se juega
-Los jugadores en ronda se van pasando un palo de uno a otro; el que lo tiene cuando suena el silbato pone las manos atrás de la espalda y queda salteado la próxima vez que el palo da la vuelta, pero no sale del juego. Se sigue hasta que quedan solo dos.
+Un juego de ronda en el que nadie quiere quedarse con el palo cuando suena el silbato.
 
-**Pasá el sombrero:** los jugadores en ronda; uno agarra un sombrero y se lo pone en la cabeza al siguiente, y así toda la ronda. El que tiene el sombrero en la mano o en la cabeza cuando suena el silbato se sienta. Gana el último que queda. Hay que fijarse que el sombrero se ponga de verdad en cada cabeza y no se pase simplemente de mano en mano.
+1. Los jugadores forman una ronda y se van pasando un palo (puede ser un bastón scout) de mano en mano, de uno al siguiente.
+2. El que dirige, de espaldas a la ronda o sin mirar, toca el silbato cuando quiere.
+3. El que tiene el palo en la mano en ese momento pone las manos atrás de la espalda y las deja ahí por el resto del juego.
+4. No sale del juego: se queda en su lugar en la ronda, pero ya no recibe el palo. En todas las vueltas siguientes, cuando el palo llega a él, se lo saltea y se lo pasa al siguiente que todavía tiene las manos adelante.
+5. Se sigue jugando hasta que quedan solo dos jugadores pasándose el palo.
+
+**Pasá el sombrero (otro juego del original, parecido):** los jugadores forman una ronda. Uno agarra un sombrero (o una gorra) y se lo pone en la cabeza al de al lado; ese se lo saca y se lo pone al siguiente, y así toda la ronda. Cuando suena el silbato, el que tiene el sombrero en la mano o puesto en la cabeza se sienta y sale del juego. Hay que fijarse que el sombrero se ponga de verdad en cada cabeza y no se pase simplemente de mano en mano. Gana el último que queda.
 
 ## Para cerrar
 - ¿Qué hacían cuando sentían que estaba por sonar el silbato?
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING THE STICK.**
+
+Players in circle pass a stick round one to another, whoever is holding it when the whistle blows puts his hands behind his back and is missed next time the stick comes round but does not fall out. Continue till only two are left.
+
+**PASS THE HAT.**
+
+Players in circle; one takes a hat and puts it on to the head of the next and so on round the circle. The player holding the hat, or having it on his head when the whistle goes, sits down. Last in wins. It must be seen that the hat is really put on each head and not merely passed from hand to hand.
 
 
 ## Texto original completo de la actividad

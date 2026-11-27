@@ -54,6 +54,7 @@ tags:
   - "juego-scout"
   - "gilcraft"
   - "dominio-publico"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -135,9 +136,20 @@ rama_rovers:
 # El Cura de la Parroquia
 
 ## Cómo se juega
-Los jugadores en ronda y numerados; el 1 y el 2 son además «el Cura» y «el Sacristán». El Cura empieza diciendo: «Al cura de la parroquia se le perdió el sombrero; unos dicen esto y otros dicen aquello, pero yo digo que el n.º 7», por ejemplo, y empieza a contar rápido hasta diez. El n.º 7 tiene que decir enseguida: «¿Yo, señor? No, señor». El Cura contesta: «Sí, señor, usted, señor». El n.º 7: «Yo no, señor». El Cura: «¿Quién, entonces, señor?». Y el n.º 7 se lo pasa a quien quiera, por número, o puede decir «el Cura» o «el Sacristán». El que no contesta antes de llegar a diez pasa al último lugar; todos suben y toman los números nuevos.
+Un juego de ronda con un diálogo que hay que decir sin trabarse.
 
-**Mateo, Marcos:** los jugadores en ronda, numerados desde uno. Los números 1, 2, 3 y 4 son además Mateo, Marcos, Lucas y Juan. Mateo empieza diciendo: «Mateo al…» (otro número o nombre), por ejemplo el 7. Ese tiene que decir enseguida: «El 7 al…» (otro número o nombre), y así sucesivamente. El jugador que no lo agarra enseguida pasa al último lugar, y los demás suben y toman sus números o nombres nuevos.
+1. Los jugadores se sientan en ronda y se numeran. El n.º 1 es además «el Cura» y el n.º 2, «el Sacristán».
+2. El Cura empieza: «Al cura de la parroquia se le perdió el sombrero. Unos dicen esto y otros dicen aquello, pero yo digo que lo tiene el n.º 7» (o el número que quiera). Y enseguida empieza a contar rápido hasta diez.
+3. Antes de que llegue a diez, el n.º 7 tiene que contestar: «¿Yo, señor? No, señor».
+4. El Cura: «Sí, señor, usted, señor».
+5. El n.º 7: «Yo no, señor».
+6. El Cura: «¿Quién, entonces, señor?».
+7. El n.º 7 nombra a otro: «El n.º 4» (o «el Cura», o «el Sacristán»). Y ahora el diálogo sigue con el n.º 4.
+8. El que no contesta a tiempo o se traba pasa al último lugar de la ronda. Todos los que estaban después de él suben un lugar y toman el número nuevo, así que hay que estar atento porque los números cambian.
+
+**Cómo se gana:** la meta es llegar a ser el Cura y quedarse ahí.
+
+**Mateo, Marcos (variante del original):** los jugadores en ronda, numerados. Los números 1, 2, 3 y 4 se llaman además Mateo, Marcos, Lucas y Juan. Mateo empieza diciendo: «Mateo al 7». El 7 tiene que decir enseguida: «El 7 al…» y otro número o nombre, y así. El que no contesta enseguida pasa al último lugar y los demás suben, con su número o nombre nuevo.
 
 ### Variante: Animales
 En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡Hornero a Yaguareté!» y el Yaguareté sigue «¡Yaguareté a Carpincho!». El que tarda va al último lugar y todos los demás cambian de animal.
@@ -147,6 +159,19 @@ En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡H
 
 ## Notas para educadores
 - Como los números cambian todo el tiempo, todos tienen que estar atentos aunque no les toque.
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PRIEST OF THE PARISH.**
+
+Players in circle and numbered, Nos. 1 and 2 are also “Priest and Beadle.” Priest starts by saying “The priest of the parish has lost his hat, some say this and some say that, but I say No. (say) 7,” and starts to count ten fast. No. 7 should at once say “No sir, not I sir.” Priest replies “Yes sir, you sir.” No. 7 says “Not I sir.” Priest says “Who then sir ?” No. 7 then passes it on to anyone he likes by number or he may say “priest “ or “beadle.” Any not replying before ten is reached goes to the bottom, all move up and take new numbers.
+
+**MATTHEW, MARK.**
+
+Players in circle numbered from one. Numbers 1, 2, 3, 4, are also Matthew, Mark, Luke and John. Matthew starts by saying “ Matthew to . . . “ (some other number or name) ....... say 7. That one should at once say “7 to .......“ (another number or name); and so on. Any player failing to pick it up at once goes to the bottom, the others move up and take their new numbers or names.
 
 
 ## Texto original completo de la actividad
