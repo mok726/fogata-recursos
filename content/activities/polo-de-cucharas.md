@@ -1,0 +1,153 @@
+---
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Polo de Cucharas"
+duration: "20 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/polo-de-cucharas/"
+description: "Partido de polo en el que los jugadores están sentados en sillas y le pegan a una pelota de tenis con una cuchara de madera."
+summary: "Hacer goles sentado en una silla, con una cuchara."
+
+# ========== AUTORÍA Y FUENTES ==========
+author:
+  - "Mariano S. Cosentino"
+source:
+  - "Inspirada en Gilcraft's Book of Games (1928)"
+
+# ========== IMAGEN Y ESTADO ==========
+original: true
+Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+version: "0.99"
+
+# ========== CLASIFICACIÓN ==========
+branch:
+  - "Comunidad"
+age: "7-14 años"
+age_group:
+  - "manada"
+  - "scouts"
+
+# ========== LOGÍSTICA ==========
+materials:
+  - "Una silla por jugador"
+  - "Una cuchara de madera por jugador"
+  - "Una pelota de tenis"
+tools: []
+responsible:
+  - "Scouter"
+prep_time: "10 minutos"
+participants: "10-30"
+location: "Interior"
+space_required: "Un salón con sillas en dos filas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
+sdgs:
+  - 3
+
+# ========== INSIGNIAS / CÓDIGO ==========
+activity_badges:
+  - "juegosscouts"
+activity_code: "juegosscouts-D16"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
+tags:
+  - "juego-scout"
+  - "gilcraft"
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+    url: "http://www.seascouts.ca/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
+  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
+    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    year: 1928
+  - entity: "Mariano S. Cosentino"
+    role: "texto, adaptación y desarrollo"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5
+reflective_component: 1
+active_component: 2
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1
+complexity_organizer: 2
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner. Scouts in uniform seated on wooden chairs spread across a hall, leaning down and swatting a tennis ball along the floor with wooden spoons. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+activity_type:
+  - "Juego"
+category:
+  - "Juegos scouts"
+skills:
+  - "Destreza física"
+  - "Trabajo en equipo"
+
+# ========== VALORES SCOUT ==========
+scout_values:
+  - "Optimismo y Alegría"
+scout_method:
+  - "Aprender Haciendo"
+  - "Sistema de Equipos"
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # Castores no tienen competencias definidas
+rama_lobatos:
+  - 9   # Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
+  - 8   # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+rama_scouts:
+  - 11  # Descubro los beneficios que tiene la actividad física y los deportes para mi bienestar físico y emocional.
+  - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+rama_caminantes:
+  - 10  # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 11  # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+---
+
+# Polo de Cucharas
+
+## De qué se trata
+Las sillas son los caballos. Cada jugador está sentado y no se puede levantar. Le pega a la pelota con una cuchara de madera para hacer gol en el arco contrario. Prohibido patear.
+
+## Cómo se juega
+1. Pongan las sillas mezclando los dos equipos por todo el salón, a un metro unas de otras.
+2. Marquen un arco en cada punta.
+3. Todos se sientan con su cuchara.
+4. El que dirige tira la pelota en el medio.
+5. Le pegan con la cuchara para mandarla al arco contrario. Hay que quedarse siempre sentado.
+6. Gol: la pelota entra en el arco. Gana el equipo con más goles en diez minutos.
+
+## Reglas
+- No se patea ni se levanta la cola de la silla.
+- La cuchara nunca sube por arriba de la rodilla.
+
+## Para cerrar
+- ¿Cómo se pasaban la pelota entre compañeros?
+
+---
+**Fuente:** inspirada en el juego «Floor Ball, or Polo» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
