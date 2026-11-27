@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/explorando-los-mares-polares.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -101,7 +101,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A majestic Arctic landscape with icebergs, sea ice, and polar animals dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, exploring the frozen ocean and observing wildlife. Polar expedition atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-15"
@@ -111,7 +111,7 @@ accessibility: []
 
 activity_type:
   - Expresión artística
-  - Indagación
+  - Investigación
 
 category:
   - Regiones polares

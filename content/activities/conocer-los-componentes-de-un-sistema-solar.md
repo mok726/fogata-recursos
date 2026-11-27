@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Conocer los componentes de un sistema solar fotovoltaico - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -36,7 +36,8 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "Hasta 10"
-location: "Interior o exterior (también con lluvia)"
+location: "Interior o exterior"
+location_detail: "También con lluvia"
 space_required: "Una mesa o el piso"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -90,8 +91,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (programa Scouts go Solar). Solafrica autorizó la publicación y adaptación de su material."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:
@@ -120,7 +119,7 @@ image_prompt: "Scouts kneeling around illustrated cards spread on a wooden floor
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 category:
   - Energía solar
   - Juegos

@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -97,7 +97,7 @@ main_type: "Narración"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child reading a book where soil plays an important role, with illustrations of soil and nature from the story dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing a reflection. Literary exploration and soil connection atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón de lectura"
 prep_time: "10 min"
 participants: "4-15"

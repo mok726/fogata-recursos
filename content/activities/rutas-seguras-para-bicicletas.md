@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/rutas-seguras-para-bicicletas.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,7 +93,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children starting a campaign for safe bicycle routes in their neighborhood, advocating for bike lanes and sustainable transport dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the campaign. Sustainable mobility and community advocacy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para planificar, vecindario para campaña"
 prep_time: "20 min"
 participants: "4-20"

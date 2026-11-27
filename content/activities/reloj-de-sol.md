@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/reloj-de-sol.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -48,6 +48,7 @@ responsible:
 prep_time: "30 min"
 participants: "4-20"
 location: "Exterior"
+momento: "día"
 space_required: "Lugar con luz solar directa"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -157,7 +158,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 category:
   - Astronomía
   - Energía solar

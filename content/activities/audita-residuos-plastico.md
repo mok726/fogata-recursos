@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/audita-residuos-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "5-25"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón para reuniones"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -129,7 +129,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Proyecto
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Consumo responsable

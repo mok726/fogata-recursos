@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/obra-de-teatro-sobre-el-agua.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón amplio o espacio para teatro"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

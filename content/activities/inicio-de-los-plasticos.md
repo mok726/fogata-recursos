@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/inicio-de-los-plasticos.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "5-25"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con pizarra y espacio para discusión"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -126,14 +126,14 @@ complexity_execution: 3  # Requiere entrevistas en casa
 complexity_organizer: 2  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing grandparents about their childhood, comparing old natural products with modern plastic items, showing a timeline of everyday objects. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Plásticos
   - Consumo sostenible

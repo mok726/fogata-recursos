@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/compras-inteligentes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón + visita al mercado"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -112,14 +112,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A shopping scene with reusable bags and products with minimal packaging dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing shopping habits and taking notes. Smart shopping education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Consumo
   - Reciclaje

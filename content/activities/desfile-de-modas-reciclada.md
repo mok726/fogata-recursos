@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/desfile-de-modas-reciclada.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -94,7 +94,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children in a recycled fashion show wearing costumes made from recycled materials dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, walking the runway. Creative recycling and sustainable fashion atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón o escenario"
 prep_time: "20 min"
 participants: "4-20"

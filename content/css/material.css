@@ -1,0 +1,69 @@
+/* /material/ — Material de apoyo (leyendas, cuentos, adivinanzas, coplas). */
+.material-index, .material-page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 1.5rem 16px 3rem;
+  line-height: 1.65;
+}
+.material-index-header h1, .material-header h1 { color: #23402a; margin-bottom: 0.4rem; }
+.material-index-header p { font-size: 1.05rem; }
+
+.material-cat {
+  background: #fff;
+  border: 1px solid #e3e9de;
+  border-radius: 14px;
+  padding: 0.6rem 1.4rem 1rem;
+  margin: 1.4rem 0;
+  box-shadow: 0 2px 8px rgba(35, 64, 42, 0.06);
+}
+.material-cat h2 {
+  display: flex; align-items: center; gap: 0.5rem;
+  color: #23402a;
+  border-bottom: 2px solid #e8732c;
+  padding-bottom: 0.3rem;
+}
+.material-cat-desc { color: #4a5a4d; margin-top: 0.4rem; }
+.material-list { list-style: none; padding: 0; margin: 0; }
+.material-list li { padding: 0.6rem 0; border-top: 1px solid #eef1ea; }
+.material-list li:first-child { border-top: 0; }
+.material-list a { font-weight: 700; color: #23402a; }
+.material-list p { margin: 0.2rem 0 0; color: #4a5a4d; }
+.material-meta {
+  display: inline-block; margin-left: 0.5rem;
+  font-size: 0.85rem; color: #6b5a3e;
+  background: #fdf6ec; border-radius: 999px; padding: 0 0.6rem;
+}
+.material-vacio { font-style: italic; color: #6b6b6b; }
+
+.material-migas { font-size: 0.9rem; margin-bottom: 1rem; }
+.material-migas a { color: #2e6b3d; }
+.material-summary { font-size: 1.1rem; font-style: italic; color: #4a5a4d; }
+.material-datos {
+  display: flex; flex-wrap: wrap; gap: 0.5rem 1.5rem;
+  margin: 1rem 0; padding: 0;
+}
+.material-datos div { display: flex; gap: 0.4rem; }
+.material-datos dt { font-weight: 700; color: #23402a; }
+.material-datos dt::after { content: ":"; }
+.material-datos dd { margin: 0; }
+
+.material-nota {
+  background: #fdf6ec;
+  border-left: 5px solid #e8732c;
+  border-radius: 10px;
+  padding: 0.4rem 1.2rem 0.8rem;
+  margin: 1.5rem 0;
+}
+.material-nota h2, .material-usan h2, .material-fuente h2 {
+  display: flex; align-items: center; gap: 0.4rem;
+  font-size: 1.1rem; color: #23402a;
+}
+.material-texto { font-size: 1.08rem; }
+.material-texto p { margin: 0 0 1rem; }
+.material-usan {
+  border-top: 2px solid #e3e9de; margin-top: 2rem; padding-top: 0.5rem;
+}
+.material-fuente {
+  border-top: 2px solid #e3e9de; margin-top: 2rem; padding-top: 0.5rem;
+  font-size: 0.92rem; color: #4a5a4d;
+}

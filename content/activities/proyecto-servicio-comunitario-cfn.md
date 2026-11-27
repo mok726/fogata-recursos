@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Proyecto de Servicio Comunitario"
-duration: "Variable (proyecto)"
+duration: "Variable"
+duration_detail: "Variable (proyecto)"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-servicio-comunitario-cfn/"
 description: "Planificá, ejecuta y evaluá un proyecto de servicio comunitario para abordar problemas ambientales relacionados con el consumo responsable o la biodiversidad."
@@ -18,7 +19,7 @@ source:
 image: "/imagenes/actividades/proyecto-servicio-comunitario-cfn.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Variable"
 participants: "Variable"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Variable"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

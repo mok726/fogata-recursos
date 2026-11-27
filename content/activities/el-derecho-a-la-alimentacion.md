@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-derecho-a-la-alimentacion.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -112,7 +112,7 @@ main_type: "Visita / Charla"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A human rights expert speaking to a group about the right to food dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Human rights education and food justice atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para la charla"
 prep_time: "20 min"
 participants: ""
@@ -124,7 +124,7 @@ accessibility: []
 
 activity_type:
   - Visita / Charla
-  - Indagación
+  - Investigación
 
 category:
   - Derechos humanos

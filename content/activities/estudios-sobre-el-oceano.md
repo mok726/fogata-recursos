@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/estudios-sobre-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,11 +93,11 @@ active_component: 1  # Actividad de escritorio
 complexity_execution: 3  # Requiere planificación
 complexity_organizer: 2  # Sencilla de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Scientific research equipment and underwater exploration tools dominate the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing research plans and studying marine biology books. Scientific discovery atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-15"
@@ -106,7 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Investigación

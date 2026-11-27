@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/campana-de-energia-renovable.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -94,7 +94,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group of young people learning about renewable energy and starting a campaign to promote its use in their area dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and campaigning. Renewable energy advocacy and community engagement atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para planificar, espacio para campaña"
 prep_time: "30 min"
 participants: "4-20"
@@ -104,7 +104,7 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 
 category:
   - Energía

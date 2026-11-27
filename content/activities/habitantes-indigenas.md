@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/habitantes-indigenas.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -110,7 +110,8 @@ main_type: "Expresión artística"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Indigenous people in a forest setting sharing traditional stories and legends dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing a play about indigenous legends. Cultural storytelling and respect for traditions atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Espacio para presentar la obra de teatro"
 prep_time: "30 min"
 participants: ""

@@ -213,6 +213,12 @@ collections.activities
               {{ badge.summary | textoRico | safe }}
             </div>
 
+            {% if badge.yunga_url %}
+              <p class="badge-yunga-link">
+                <a href="{{ badge.yunga_url }}" target="_blank" rel="noopener">Ver esta insignia en el sitio de YUNGA <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span></a>
+              </p>
+            {% endif %}
+
           </div>
 
         </div>
@@ -262,13 +268,22 @@ collections.activities
 
                 {% endfor %}
 
+                {# Insignias YUNGA ya publicadas: cómo pedir la insignia al terminar. #}
+                {% if badge.yunga_url and (badge.sections | length) %}
+                  <div class="badge-rule">
+                    <div class="badge-rule-icon">✓</div>
+                    <div class="badge-rule-text">Sacar fotos o grabar videos durante todo el proceso</div>
+                  </div>
+                  <div class="badge-rule">
+                    <div class="badge-rule-icon">✓</div>
+                    <div class="badge-rule-text">Al terminar, enviar un mail a <a href="mailto:yunga@fao.org">yunga@fao.org</a> o completar <a href="https://forms.cloud.microsoft/e/tz7eJR0QGU" target="_blank" rel="noopener">este formulario</a></div>
+                  </div>
+                {% endif %}
+
             </div>
 
           {% endif %}
         {% endif %}
-
-
-
 
         <!-- INICIO seccion colapsable del sitios web -->
 

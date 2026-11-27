@@ -35,7 +35,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min (armar la sopa de letras)"
 participants: "Toda la Manada, por seisenas"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesas o piso para escribir"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

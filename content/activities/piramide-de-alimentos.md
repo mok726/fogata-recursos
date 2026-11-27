@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/piramide-de-alimentos.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para trabajar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

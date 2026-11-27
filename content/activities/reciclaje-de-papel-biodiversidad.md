@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Reciclaje de Papel"
-duration: "2 horas + secado"
+duration: "2 horas"
+duration_detail: "2 horas + tiempo de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-papel-biodiversidad/"
 description: "Fabricación de papel reciclado para entender cómo el reciclaje ayuda a conservar la biodiversidad."
@@ -20,7 +21,7 @@ source:
 image: "/imagenes/actividades/reciclaje-de-papel-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -47,7 +48,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con espacio para manualidades"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

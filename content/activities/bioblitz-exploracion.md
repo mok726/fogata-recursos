@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/bioblitz-exploracion.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -133,7 +133,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 category:
   - Biodiversidad
   - Ciencia ciudadana

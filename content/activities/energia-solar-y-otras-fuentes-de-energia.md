@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Cuaderno de Trabajo Solar (2022) - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -36,7 +36,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "Equipos de 3 a 5"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Lugar con conexión a internet"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -90,8 +90,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (Cuaderno de Trabajo Solar, 2.ª ed. 2022; la primera edición, de 2015, se desarrolló con YUNGA, la OMMS y Greenpeace). La edición 2022 permite utilizar y adaptar el documento para usos no comerciales."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:
@@ -118,14 +116,14 @@ complexity_execution: 3
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Young adults around a table with laptops and a large hand-drawn map of a country with icons of solar panels, wind turbines, dams and a power plant, pie charts pinned on a wall."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Juego
 category:
   - Energía solar

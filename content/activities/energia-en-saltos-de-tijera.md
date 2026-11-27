@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/energia-en-saltos-de-tijera.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "4-30"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para moverse"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -851,3 +851,21 @@
 .badge-hero-nav:hover {
   background: rgba(0,0,0,.55);
 }
+
+/* Insignias YUNGA: enlace a su página y links en los pasos */
+.badge-yunga-link {
+  margin: 1rem 0 0;
+}
+.badge-yunga-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: .3rem;
+  font-weight: 600;
+}
+.badge-yunga-link .material-symbols-outlined {
+  font-size: 1rem;
+}
+.badge-rule-text a {
+  text-decoration: underline;
+  font-weight: 600;
+}

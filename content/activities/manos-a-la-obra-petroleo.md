@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/manos-a-la-obra-petroleo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -50,7 +50,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas (proteger la superficie)"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

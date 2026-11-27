@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-8 por tablero"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesas de trabajo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

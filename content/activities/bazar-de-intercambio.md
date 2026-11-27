@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/bazar-de-intercambio.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -94,7 +94,7 @@ main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group organizing a recycling exchange bazaar where people bring items they no longer need dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the event. Community sharing and circular economy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Escuela, iglesia o centro comunitario"
 prep_time: "30 min"
 participants: "4-20"

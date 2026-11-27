@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/profesor-por-un-dia.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón de clases"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/cual-es-tu-posicion.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con espacio para línea en el piso"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/charla-sobre-los-arboles.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -106,7 +106,7 @@ main_type: "Visita / Charla"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. An arborist or tree specialist talking about different tree species dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and asking questions. Expert learning and tree education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón para la charla"
 prep_time: "20 min"
 participants: ""

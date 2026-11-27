@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/revision-a-los-suelos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -92,11 +92,11 @@ active_component: 3  # Desplazamiento para entrevistar
 complexity_execution: 2  # Sencilla
 complexity_organizer: 3  # Requiere contactar expertos
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing local farmers and soil experts about soil problems in their area, taking notes and photos dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing findings. Community research and environmental investigation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para entrevistas y campo"
 prep_time: "30 min"
 participants: "4-20"
@@ -105,7 +105,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

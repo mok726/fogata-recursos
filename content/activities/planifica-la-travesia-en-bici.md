@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Conseguir mapas de la zona"
 participants: "4-20"
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para planificar; la travesía, según el plan"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

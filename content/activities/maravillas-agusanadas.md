@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/maravillas-agusanadas.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -96,11 +96,11 @@ active_component: 2  # Manipulación y observación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A clear container with layered soil and sand, with earthworms moving through the layers, children observing and taking notes dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing the wormery. Hands-on biology and soil ecosystem learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesa para el experimento"
 prep_time: "15 min"
 participants: "4-15"
@@ -109,7 +109,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

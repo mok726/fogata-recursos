@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/concurso-de-preguntas-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,7 +93,7 @@ main_type: "Juego"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Two teams competing in a quiz about water and sanitation, with questions and answers on a board dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, competing enthusiastically. Fun learning and team competition atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el concurso"
 prep_time: "15 min"
 participants: "4-20"

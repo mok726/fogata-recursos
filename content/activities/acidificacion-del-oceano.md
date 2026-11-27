@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/acidificacion-del-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -102,7 +102,7 @@ main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Three glass jars with seawater and seashells dissolving in acidic liquids dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing the experiment with pH test strips. Marine chemistry and environmental science atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para el experimento"
 prep_time: "20 min"
 participants: "4-15"

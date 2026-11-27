@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/concurso-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para jugar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

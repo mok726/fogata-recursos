@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/combatiendo-desperdicio-recursos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -44,7 +44,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para construir y ubicar los contenedores"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -123,7 +123,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 category:
   - Reciclaje
   - Residuos

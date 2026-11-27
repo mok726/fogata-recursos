@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/preguntas-respuestas.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -94,7 +94,7 @@ main_type: "Simulación / Juego de roles"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A simulation of a farmer and reporter interview about soil conditions, with a newspaper being created from the interviews dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting interviews. Journalism and agricultural learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para entrevistas"
 prep_time: "15 min"
 participants: "4-15"

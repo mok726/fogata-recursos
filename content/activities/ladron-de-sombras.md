@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Cuaderno de Trabajo Solar (2022) - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -34,6 +34,7 @@ responsible:
 prep_time: "0 min"
 participants: "6-30"
 location: "Exterior"
+momento: "día"
 space_required: "Cancha o patio con sol"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -82,8 +83,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (Cuaderno de Trabajo Solar, 2.ª ed. 2022; la primera edición, de 2015, se desarrolló con YUNGA, la OMMS y Greenpeace). La edición 2022 permite utilizar y adaptar el documento para usos no comerciales."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:

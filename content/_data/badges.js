@@ -25,6 +25,7 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/en",
       
     requirements: {
   summary:
@@ -62,10 +63,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/forests/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -135,6 +135,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/en",
       
     requirements: {
   summary:
@@ -172,10 +173,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -249,10 +249,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/plastics-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -321,10 +320,9 @@ sections: {
     organization: "FAO",
     year: "2013"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/water-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -780,13 +778,12 @@ sections: {
     organization: "FAO",
     year: "2009"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-security-and-climate-change-challenge/en",
       
   summary:
     "Esta insignia, relacionada con la del Cambio Climático, ayuda a crear conciencia sobre la forma en que nuestras actividades diarias contribuyen al cambio climático y cómo diferentes comunidades e individuos ya están siendo afectados por este, especialmente con relación al acceso al agua y a los alimentos.",
 
     requirements: {
-  summary:
-    "Los requerimientos varían, básicamente: Completar una actividad obligatoria de cada sección y 3 actividades adicionales por sección",
 
   rules: [
     "Completar una actividad obligatoria de cada sección A y B",
@@ -1000,10 +997,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/8257d981-c731-4f30-a208-c42c99de8405",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1121,6 +1117,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1158,6 +1155,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1193,6 +1191,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1228,10 +1227,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1292,9 +1290,9 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
@@ -1303,10 +1301,9 @@ sections: {
     location: "Roma",
     url: "https://doi.org/10.4060/ca7445es"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1371,10 +1368,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/85fb1f5d-9a29-4641-9592-4d967139984f",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1511,10 +1507,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/energy/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1568,6 +1563,7 @@ sections: {
       summary:
         "La insignia de Pérdida y Desperdicio de Alimentos invita a descubrir cuánta comida se pierde entre el campo y la mesa, y cuánta se tira en casa, en la escuela y en los comercios.\n\nPropone planificar, aprovechar las sobras, compostar, donar y llevar el mensaje a la comunidad.",
       logo: "/imagenes/insignias/desperdicio.png",
+      hero_image: "/imagenes/insignias/desperdicio-hero.jpg",
       hero_prompt: "A diverse group of scouts aged 11 to 17 sorting surplus fruit and vegetables at a community food bank, wooden crates of imperfect but fresh produce, a compost bin and a small school vegetable garden in the background, warm afternoon light.",
       sources: [
         {
@@ -1584,9 +1580,8 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-loss-an-waste/en",
       requirements: {
-        summary:
-          "Completar las dos actividades obligatorias de la sección A, una de las dos obligatorias de cada una de las secciones B, C y D, y al menos una actividad opcional de cada sección.",
         rules: [
           "Sección A: hacer A.1 y A.2, más al menos una actividad opcional",
           "Sección B: hacer B.1 o B.2, más al menos una actividad opcional",
@@ -1646,10 +1641,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ending-hunger-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1717,10 +1711,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/en",
   
     requirements: {
-	  summary:
-	    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
 	  rules: [
 	    "Completar una actividad obligatoria de cada sección",
@@ -1891,18 +1884,17 @@ sections: {
     }
   ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/en",
   
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -2103,18 +2095,17 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0."
   },
   attribution: {
     organization: "FAO",
     year: "2025"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/green-cities-challenge-badge/en",
 
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -2262,13 +2253,17 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por **Scouting for Boys** (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público: **Scouting for Boys** (1908) y **Scouting Games** (6.ª ed., 1921).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, Scouting for Boys (1908) – Project Gutenberg #65993",
       url: "https://www.gutenberg.org/ebooks/65993"
+    },
+    {
+      name: "Robert Baden-Powell, Scouting Games (The Scout Library n.º 4), 6.ª ed. (1921) – The Online Books Page",
+      url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
     }
   ],
   license: {
@@ -2324,6 +2319,46 @@ sections: {
     I: {
       title: "Juegos de Salón",
       description: "Los «juegos no scouts» que B-P recomienda para las noches en el local o en campamento, tomados del libro Social—to Save."
+    },
+    J: {
+      title: "Juegos de Exploración",
+      description: "Juegos del capítulo I de Scouting Games: mensajes, puestos, mapas y patrullas que se buscan en el terreno."
+    },
+    K: {
+      title: "Acecho y Rastreo",
+      description: "Juegos de los capítulos II y III de Scouting Games: seguir, emboscar y rastrear."
+    },
+    L: {
+      title: "Juegos de Interior",
+      description: "Juegos del capítulo IV de Scouting Games para el local: memoria, mesa y ronda."
+    },
+    M: {
+      title: "Juegos de Campamento",
+      description: "Juegos del capítulo V de Scouting Games para el campamento o el patio."
+    },
+    N: {
+      title: "Juegos en Bicicleta",
+      description: "Juegos del capítulo VI de Scouting Games, adaptados para Caminantes y Rovers en lugares sin tránsito."
+    },
+    O: {
+      title: "Juegos de Ciudad",
+      description: "Juegos del capítulo VII de Scouting Games: observar y moverse por el barrio."
+    },
+    P: {
+      title: "Juegos Nocturnos",
+      description: "Juegos del capítulo VIII de Scouting Games para jugar de noche."
+    },
+    Q: {
+      title: "Juegos de Invierno y de Agua",
+      description: "Juegos de los capítulos IX y X de Scouting Games: soga, postas, botes y agua."
+    },
+    R: {
+      title: "Juegos de Rescate",
+      description: "Los juegos del capítulo XI de Scouting Games que no dependen de técnicas de primeros auxilios de época."
+    },
+    S: {
+      title: "Juegos de Fuerza",
+      description: "Juegos del capítulo XII de Scouting Games: duelos y empujes por parejas o equipos."
     }
   }
 },
@@ -2481,6 +2516,10 @@ sections: {
     G: {
       title: "Amarres y Pionerismo",
       description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA)."
+    },
+    H: {
+      title: "Primeros Auxilios y Emergencias",
+      description: "Actividades propias para prepararse ante una emergencia sin tratamientos: botiquín, pedir ayuda, llamar al 107 o al 911, la cadena de ayuda, señales de auxilio y emergencias del hogar."
     }
   }
 },
@@ -2812,6 +2851,52 @@ sections: {
 
 	  
 {
+  id: "tradiciones",
+  name: "Tradiciones Argentinas",
+  description:
+    "Juegos tradicionales, costumbres, leyendas y la historia de nuestra región: lo que se juega, se cuenta y se comparte en la Argentina desde hace generaciones.",
+  summary:
+    "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Reúne actividades para conocer, jugar y transmitir la cultura popular argentina: los juegos de patio y de las fiestas criollas, las costumbres que se comparten en la mesa y en el fogón, las leyendas de los pueblos originarios y del campo, y la historia de cada región.\n\n<p>Las leyendas, cuentos y coplas completos están en el <a href=\"https://mok726.github.io/fogata-recursos/material/\">Material de apoyo</a>; las actividades de esta insignia los usan como punto de partida.\n\n<p>Muchos juegos cambian de nombre y de reglas según la provincia. Si en tu zona se juega distinto, usá la versión local: también es tradición.",
+  logo: "/imagenes/insignias/tradiciones.png",
+  hero_image: "/imagenes/insignias/tradiciones-hero.jpg",
+  sources: [],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  },
+  attribution: {
+    organization: "MSC",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias todavía: elegí las que se adapten a la edad y al lugar.",
+    rules: [
+      "Siempre que puedas, invitá a las familias y a los mayores de la comunidad: son quienes guardan la tradición",
+      "Respetá las notas de seguridad de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Juegos Tradicionales",
+      description: "Juegos de patio, de kermés y de fiestas criollas que jugaron nuestros padres y abuelos."
+    },
+    B: {
+      title: "Costumbres",
+      description: "Lo que compartimos en la mesa, en el fogón y en las fiestas: el mate, la cocina criolla, la danza y las fechas patrias."
+    },
+    C: {
+      title: "Leyendas en Acción",
+      description: "Actividades que parten de una leyenda para descubrir la naturaleza real que la inspiró, jugarla o representarla."
+    },
+    D: {
+      title: "Nuestra Región",
+      description: "Investigar los pueblos originarios, la historia y las costumbres del lugar donde vivimos."
+    }
+  }
+},
+
+{
   id: "asdeaprendiendo",
   name: "Aprendiendo a Ser (ASDE)",
   description:
@@ -2918,7 +3003,8 @@ sections: {
     "Fichas de valores, paz y desarrollo, igualdad e integración, ambiente y orientación vocacional para todas las ramas, de la carpeta de actividades de ASDE - Scouts de España (2001).",
   summary:
     "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades de la carpeta todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.\n\n<details class=\"license-details\"><summary>Fichas de la carpeta que no incluimos</summary><ul><li><b>Educación vial</b> (19 fichas): se basan en la ley y los organismos de tránsito de España. Para eso está la insignia Seguridad Vial.</li><li><b>Juegos de Kim</b>: ya está en el sitio (ver «El Juego de Kim»).</li><li><b>El náufrago</b>: el grupo vota a qué pasajero con discapacidad tirar al mar.</li><li><b>Cómo viven los demás</b> y <b>Silencio: juego límite</b>: simulan una discapacidad en la calle (horas con los ojos vendados o sin hablar), sin supervisión.</li><li><b>La Jaima</b>: propone reemplazar medicamentos por plantas, algunas tóxicas.</li></ul></details>",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/asdefichas2001.png",
+  hero_image: "/imagenes/insignias/asdefichas2001-hero.jpg",
   logo_prompt: "A round embroidered scout badge with an open ring binder of activity cards and a small campfire in front of it, warm colors, simple flat design.",
   hero_prompt: "Scouts of all ages, from small children to young adults, sitting in a wide circle on the grass at a campsite, sharing a group activity with cards, paper and a guitar, tents and pine trees behind them, golden late-afternoon light.",
   sources: [
@@ -3027,7 +3113,8 @@ sections: {
     "Actividades de educación para la paz y el desarrollo para todas las ramas: cooperación, derechos, consumo responsable, comercio justo, pobreza, globalización y participación, de ASDE - Scouts de España (2003).",
   summary:
     "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Repensar el mundo. Educación para la Paz y el Desarrollo»**, el manual que *ASDE - Scouts de España* publicó en 2003.\n\n<p>El manual trae una propuesta de actividades para cada rama, de Castores a Rovers. Las secciones siguen esas ramas.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las fichas son de 2003: los datos, campañas y sitios que mencionan pueden haber cambiado, y cada una lo avisa con una nota de actualización.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades del manual todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/asderepensar.png",
+  hero_image: "/imagenes/insignias/asderepensar-hero.jpg",
   logo_prompt: "A round embroidered scout badge showing the Earth held by two hands, with a small olive branch, blue and green tones, simple flat design.",
   hero_prompt: "Young scouts gathered around a large world map spread on a wooden table in a scout hall, connecting countries with string and paper notes, a globe and fair trade products nearby, natural light from a window.",
   sources: [
@@ -3190,7 +3277,7 @@ sections: {
   name: "Actividades Generales",
   description:
     "Actividades scouts sin una insignia específica asociada.",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/general-sitio.png",
   hero_image: "/imagenes/insignias/general-hero.png",
    generic: true,
   license: {
@@ -3205,6 +3292,26 @@ sections: {
     E: {
       title: "Extras",
       description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y yo solo documento."
+    },
+    B: {
+      title: "Bienestar Emocional",
+      description: "Reconocer las emociones, manejar el estrés y cuidarse: juegos, reflexiones y herramientas para sentirse bien."
+    },
+    D: {
+      title: "Ciudadanía Digital",
+      description: "Contraseñas, estafas, huella digital, tiempo de pantalla, diseño persuasivo y redes sociales: usar la tecnología con criterio."
+    },
+    I: {
+      title: "Inclusión y Accesibilidad",
+      description: "Detectar barreras, conocer las discapacidades que no se ven y organizar actividades en las que todos puedan participar."
+    },
+    C: {
+      title: "Cuidado de Mascotas",
+      description: "Qué necesita cada mascota, el bienestar animal y la tenencia responsable."
+    },
+    M: {
+      title: "Estación Meteorológica",
+      description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
 }

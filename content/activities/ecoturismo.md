@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/ecoturismo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -101,13 +101,13 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere preparación de folleto
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful ecotourism destination with forest activities and sustainable tourism dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating travel brochures and planning ecotours. Sustainable travel and forest conservation atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para investigar y crear folleto"
 prep_time: "20 min"
 participants: ""
@@ -118,7 +118,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Ecoturismo

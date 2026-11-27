@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/frutos-del-mar-sostenibles.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -101,11 +101,11 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A sustainable seafood display with eco-labels, fresh fish, and informational cards dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning about sustainable seafood choices. Responsible consumption and marine conservation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-20"
@@ -114,7 +114,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 
 category:

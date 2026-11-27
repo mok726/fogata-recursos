@@ -45,6 +45,7 @@ responsible:
 prep_time: "1 hora"
 participants: "4-15"
 location: "Exterior"
+momento: "día"
 space_required: "Lugar soleado"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

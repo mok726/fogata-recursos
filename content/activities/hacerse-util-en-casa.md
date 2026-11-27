@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "The Wolf Cub's Handbook - Baden-Powell (1938)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -35,7 +35,8 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "1-30"
-location: "Casa y local"
+location: "Interior"
+location_detail: "En casa y en el local"
 space_required: "La casa de cada lobato; una ronda en el local"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

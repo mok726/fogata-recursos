@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/un-mapa-de-la-costa.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -117,7 +117,7 @@ main_type: "Salida / Exploración"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A detailed coastal map with physical features, vegetation, and human developments dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating maps and surveying the coast. Coastal geography and cartography education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior y exterior"
 space_required: "Costa y salón de reunión"
 prep_time: "20 min"
 participants: ""
@@ -130,7 +130,7 @@ accessibility:
 
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 
 category:
   - Mapa

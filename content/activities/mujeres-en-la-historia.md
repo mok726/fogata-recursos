@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Recopilación de experiencias de la campaña 2012 Jugando juntos/as - ASDE Scouts de España"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -125,7 +125,7 @@ image_prompt: "Scouts of different ages standing in front of a long paper timeli
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 category:
   - Género
   - Historia

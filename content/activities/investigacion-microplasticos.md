@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-15"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Casa o salón para inventario"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -110,14 +110,14 @@ complexity_execution: 3  # Requiere investigación detallada
 complexity_organizer: 2  # Organización simple
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A home environment with youth examining everyday products like tennis balls, tea bags, wet wipes, glitter, face wash, and laundry tablets, looking for microplastics. Using the Beat the Microbead app to check products. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a microplastic investigation. Educational consumer awareness scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Microplásticos
   - Salud

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/habitos-saludables-personas-saludables.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "6-20"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Espacio amplio para jugar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

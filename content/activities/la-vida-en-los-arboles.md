@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/la-vida-en-los-arboles.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -107,7 +107,7 @@ main_type: "Taller / Construcción"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Intricate treehouse structures built by indigenous peoples in tropical forests dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building miniature replicas of treehouses. Indigenous architecture and cultural appreciation atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Espacio para construir réplicas"
 prep_time: "20 min"
 participants: ""
@@ -119,7 +119,7 @@ accessibility: []
 
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 
 category:
   - Pueblos indígenas

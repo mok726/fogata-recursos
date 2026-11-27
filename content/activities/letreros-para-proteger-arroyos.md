@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/letreros-para-proteger-arroyos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón y área junto al arroyo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

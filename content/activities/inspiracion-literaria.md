@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/inspiracion-literaria.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -108,7 +108,7 @@ main_type: "Expresión artística"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Open books with forest poetry and creative writing dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reading and writing in a forest setting. Literary inspiration and nature connection atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón de lectura y/o bosque"
 prep_time: "15 min"
 participants: ""
