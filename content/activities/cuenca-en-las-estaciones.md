@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/cuenca-en-las-estaciones.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

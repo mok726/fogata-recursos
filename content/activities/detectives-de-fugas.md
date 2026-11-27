@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/detectives-de-fugas.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

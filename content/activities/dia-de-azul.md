@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/dia-de-azul.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

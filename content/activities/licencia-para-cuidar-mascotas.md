@@ -47,7 +47,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - general
-activity_code: "general-M01"
+activity_code: "general-C01"
 required: false
 required_for: []
 required_comment: ""

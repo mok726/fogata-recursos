@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/clasificacion-de-carbono.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

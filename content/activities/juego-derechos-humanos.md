@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/juego-derechos-humanos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

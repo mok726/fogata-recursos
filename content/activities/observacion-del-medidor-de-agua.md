@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/observacion-del-medidor-de-agua.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

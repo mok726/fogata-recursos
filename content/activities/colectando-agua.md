@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/colectando-agua.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

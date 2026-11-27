@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad - ASDE Scouts de España"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

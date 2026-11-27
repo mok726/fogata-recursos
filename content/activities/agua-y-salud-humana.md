@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/agua-y-salud-humana.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

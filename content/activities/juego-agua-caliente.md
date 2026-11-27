@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/juego-agua-caliente.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

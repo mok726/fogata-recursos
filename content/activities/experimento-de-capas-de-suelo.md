@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/experimento-de-capas-de-suelo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

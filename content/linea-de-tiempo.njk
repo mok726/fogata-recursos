@@ -3,20 +3,17 @@ title: Línea de Tiempo
 description: "Los hitos de Fogata de Recursos: cuándo llegaron las colecciones, las insignias, los permisos y los cambios del sitio."
 layout: layouts/base.njk
 permalink: /linea-de-tiempo/
-noindex: true
-nosearch: true
-eleventyExcludeFromCollections: true
 styles:
   - /css/linea-de-tiempo.css
+  - /css/historia-nav.css
 ---
-{# Página sin enlaces desde el sitio, fuera del sitemap y de la búsqueda:
-   solo se llega con la dirección. #}
 {% set iconos = {
   inicio: "local_fire_department",
   fuente: "menu_book",
   sitio: "language",
   insignia: "military_tech",
-  permiso: "handshake",
+  permiso: "verified",
+  logro: "flag",
   licencia: "copyright",
   redes: "campaign",
   fichas: "library_add",
@@ -26,10 +23,14 @@ styles:
 <section class="ldt">
 
   <header class="ldt-header">
-    <h1>Línea de Tiempo</h1>
-    <p>Los hitos del proyecto, del más viejo al más nuevo. Las insignias nuevas, las tandas grandes de fichas y las cantidades redondas se suman solas cada vez que se actualiza el sitio.</p>
+    <h1>Historia del Proyecto</h1>
+    <nav class="historia-nav" aria-label="Formas de ver la historia">
+      <a href="{{ '/historia-del-proyecto/' | url }}"><span class="material-symbols-outlined" aria-hidden="true">auto_stories</span>Relato</a>
+      <a href="{{ '/linea-de-tiempo/' | url }}" aria-current="page"><span class="material-symbols-outlined" aria-hidden="true">timeline</span>Línea de tiempo</a>
+    </nav>
+    <p>Los hitos del proyecto, del más viejo al más nuevo. Las insignias nuevas, las tandas grandes de fichas y las cantidades redondas se suman solas cada vez que se actualiza el sitio. Las fechas anteriores a mayo de 2026 son aproximadas.</p>
     <p class="ldt-hoy">Hoy: <strong>{{ collections.activities | length }}</strong> fichas publicadas en <strong>{{ badges | length }}</strong> insignias.</p>
-    <p class="ldt-leyenda"><span class="ldt-chip">Hito</span> <span class="ldt-chip ldt-chip-auto">Automático</span></p>
+    <p class="ldt-leyenda"><span class="ldt-chip">Hito</span> <span class="ldt-chip ldt-chip-auto">Automático</span> <span class="ldt-chip ldt-chip-marca">Logro</span> <span class="ldt-chip ldt-chip-permiso">Permiso</span></p>
   </header>
 
   {% for grupo in lineaDeTiempoGrupos %}

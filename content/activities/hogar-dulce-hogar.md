@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/hogar-dulce-hogar.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza

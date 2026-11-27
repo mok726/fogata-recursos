@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/invierte-en-soluciones.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

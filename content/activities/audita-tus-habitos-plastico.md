@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/audita-tus-habitos-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - World Scout Bureau"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

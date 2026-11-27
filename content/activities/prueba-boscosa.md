@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/prueba-boscosa.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

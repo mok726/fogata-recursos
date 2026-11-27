@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/alimentos-alrededor-del-mundo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

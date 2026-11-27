@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/polinizadores-y-la-economia.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

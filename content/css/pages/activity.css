@@ -181,8 +181,42 @@ a.hero-category:focus-visible {
 .toolbar-actions,
 .activity-actions {
   display: flex;
-  gap: 0.75rem;
+  gap: 0.5rem;
   align-items: center;
+}
+
+/* Versión imprimible, Mochila y Compartir: mismo botón. */
+.ficha-accion {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  padding: .35rem .9rem;
+  border: 1px solid #e2d3b1;
+  border-radius: 999px;
+  background: white;
+  color: #23402a;
+  font: inherit;
+  font-size: .9rem;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.ficha-accion .material-symbols-outlined { font-size: 1.2rem; }
+.ficha-accion:hover { border-color: #23402a; }
+.ficha-accion:focus-visible { outline: 3px solid #e8732c; outline-offset: 2px; }
+
+.ficha-accion .txt-corto { display: none; }
+
+/* Celular: texto más chico y corto para que entren en un renglón. */
+@media (max-width: 600px) {
+  .activity-actions { flex-wrap: nowrap; gap: .35rem; }
+  .ficha-accion { padding: .3rem .6rem; font-size: .78rem; gap: .25rem; }
+  .ficha-accion .material-symbols-outlined { font-size: 1rem; }
+  .ficha-accion .txt-largo { display: none; }
+  .ficha-accion .txt-corto { display: inline; }
 }
 
 .toolbar-btn {

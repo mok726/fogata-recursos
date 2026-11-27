@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/quien-se-come-a-quien-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

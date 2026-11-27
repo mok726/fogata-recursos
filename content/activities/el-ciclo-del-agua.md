@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/el-ciclo-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

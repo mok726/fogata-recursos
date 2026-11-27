@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/album-sobre-usos-del-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

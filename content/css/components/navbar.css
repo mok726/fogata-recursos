@@ -203,3 +203,86 @@
     white-space: nowrap;
   }
 }
+
+/* ---------- Selector de modo (Todo / Scout / Docente) ---------- */
+.navbar-modo {
+  position: relative;
+}
+.navbar-modo-btn {
+  border: 0;
+  background: none;
+  cursor: pointer;
+  color: inherit;
+  padding: 0;
+}
+.navbar-modo-btn.activo {
+  background: var(--fogata-forest, #23402a);
+  color: #fff;
+}
+.navbar-modo-btn.activo:hover {
+  background: var(--fogata-forest, #23402a);
+  filter: brightness(1.2);
+}
+.navbar-modo-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  z-index: 50;
+  width: 250px;
+  padding: .4rem;
+  background: #fff;
+  border: 1px solid #e3ddd0;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, .15);
+}
+.navbar-modo-menu[hidden] { display: none; }
+.navbar-modo-tit {
+  margin: .2rem .5rem .4rem;
+  font-size: .75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: #6b6b6b;
+}
+.navbar-modo-menu a {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  padding: .45rem .5rem;
+  border-radius: 8px;
+  color: inherit;
+  text-decoration: none;
+}
+.navbar-modo-menu a:hover,
+.navbar-modo-menu a:focus-visible { background: #f4f1ea; }
+.navbar-modo-menu a[aria-current] {
+  background: #e8efe9;
+  color: var(--fogata-forest, #23402a);
+}
+.navbar-modo-menu a > span:last-child { display: flex; flex-direction: column; line-height: 1.2; }
+.navbar-modo-menu small { font-size: .75rem; color: #6b6b6b; }
+/* Con el ícono de modo son 5 íconos: en teléfonos se achican un
+   poco para que la marca y los íconos sigan en un solo renglón. */
+@media (max-width: 440px) {
+  .navbar { column-gap: .25rem; padding-left: .6rem; padding-right: .6rem; }
+  .navbar-right { gap: 0; }
+  .navbar-icon-button { width: 32px; height: 32px; }
+  .navbar-icon-button .material-symbols-outlined { font-size: 22px; }
+}
+@media (max-width: 900px) {
+  .navbar-modo { position: static; }
+  .navbar-modo-menu { right: .75rem; top: 3rem; }
+}
+@media print {
+  .navbar-modo { display: none !important; }
+}
+
+/* Flor de lis del modo Scout (no existe en Material Symbols). */
+.navbar-modo-lis { width: 24px; height: 24px; flex: none; }
+.navbar-modo-btn .navbar-modo-lis { display: none; }
+.navbar-modo-btn.con-lis .navbar-modo-lis { display: block; }
+.navbar-modo-btn.con-lis .navbar-modo-ico { display: none; }
+@media (max-width: 440px) {
+  .navbar-modo-lis { width: 22px; height: 22px; }
+}
+.navbar-modo-menu a > :first-child { width: 24px; flex: none; text-align: center; }

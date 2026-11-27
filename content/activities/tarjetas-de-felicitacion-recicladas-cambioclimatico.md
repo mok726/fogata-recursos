@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/tarjetas-de-felicitacion-recicladas-cambioclimatico.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

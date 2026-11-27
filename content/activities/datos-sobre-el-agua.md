@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/datos-sobre-el-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

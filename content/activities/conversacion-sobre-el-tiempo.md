@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/conversacion-sobre-el-tiempo.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -61,7 +61,7 @@ async function shareActivity() {
         <h1 class="hero-title">{{ title }}</h1>
 {% if version %}
 {% if version | isDraft %}
-        <span class="hero-version version-draft" title="Actividad pendiente de revisión manual">Borrador</span>
+        <span class="hero-version version-draft" title="{% if license and license.pending %}Borrador: esperando el permiso del titular para publicar la versión final{% else %}Actividad pendiente de revisión manual{% endif %}">Borrador</span>
 {% else %}
         <span class="hero-version" title="La versión sube cada vez que se modifica el contenido de la ficha. La 1.00 es una ficha completa, revisada y sin permisos pendientes.">Versión {{ version }}</span>
 {% endif %}
@@ -102,14 +102,12 @@ async function shareActivity() {
     </nav>
 
 <div class="activity-actions">
-<a
-  href="{{ page.url | url }}print/"
-  target="_blank">
-  Version Imprimible
-</a>
+  <a class="ficha-accion" href="{{ page.url | url }}print/" target="_blank">
+    <span class="material-symbols-outlined" aria-hidden="true">print</span>
+    <span class="txt-largo">Versión imprimible</span><span class="txt-corto" aria-hidden="true">Imprimir</span>
+  </a>
 
-
- <button type="button" class="mochila-btn mochila-btn-ficha"
+  <button type="button" class="ficha-accion mochila-btn mochila-btn-ficha"
     data-mochila="{{ page.url | url }}" data-mochila-ficha
     data-titulo="{{ title | smartTitle }}"
     data-dur="{{ duration or '' }}"
@@ -117,19 +115,15 @@ async function shareActivity() {
     data-tipo="{{ main_type or '' }}"
     aria-pressed="false">
     <span class="material-symbols-outlined mochila-ico" aria-hidden="true">backpack</span>
-    <span class="mochila-txt">Guardar en mi mochila</span>
+    <span class="mochila-txt txt-largo">Guardar en mi mochila</span><span class="mochila-txt-corto txt-corto" aria-hidden="true">Guardar</span>
   </button>
 
- <button onclick="shareActivity()">
-    <span class="material-symbols-outlined" aria-hidden="true">share</span> Compartir
+  <button type="button" class="ficha-accion" onclick="shareActivity()">
+    <span class="material-symbols-outlined" aria-hidden="true">share</span>
+    Compartir
   </button>
 </div>
 </div>
-  <p class="modo-aviso" data-solo-docente>
-    <span class="material-symbols-outlined" aria-hidden="true">school</span>
-    Vista docente: se ocultan el programa, los valores y el método scout.
-    <a href="?modo=todas" data-modo-salir>Ver la ficha completa</a>
-  </p>
 
   {# ===== LAYOUT DE TRES COLUMNAS ===== #}
 
@@ -530,6 +524,16 @@ async function shareActivity() {
 
     {# COLUMNA DERECHA #}
     <aside class="col-right">
+
+{# Vista docente: ocupa el lugar de Programa Scout, Método y Valores. #}
+<div class="info-card modo-aviso" data-solo-docente>
+  <h3>
+    <span class="material-symbols-outlined" aria-hidden="true">school</span>
+    Vista docente
+  </h3>
+  <p>Se ocultan el programa, los valores y el método scout.</p>
+  <a href="?modo=todas" data-modo-salir>Ver la ficha completa</a>
+</div>
 
 {% set competenciasData = (competencias or [])[0].ramas %}
 

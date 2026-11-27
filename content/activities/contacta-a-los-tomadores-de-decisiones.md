@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/contacta-a-los-tomadores-de-decisiones.jpg"
 original: "False"
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

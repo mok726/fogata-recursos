@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

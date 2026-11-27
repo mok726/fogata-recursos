@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/operacion-contra-la-basura.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

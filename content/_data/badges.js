@@ -25,6 +25,7 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/en",
       
     requirements: {
   summary:
@@ -62,10 +63,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/forests/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -135,6 +135,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/en",
       
     requirements: {
   summary:
@@ -172,10 +173,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -249,10 +249,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/plastics-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -321,10 +320,9 @@ sections: {
     organization: "FAO",
     year: "2013"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/water-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -780,13 +778,12 @@ sections: {
     organization: "FAO",
     year: "2009"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-security-and-climate-change-challenge/en",
       
   summary:
     "Esta insignia, relacionada con la del Cambio Climático, ayuda a crear conciencia sobre la forma en que nuestras actividades diarias contribuyen al cambio climático y cómo diferentes comunidades e individuos ya están siendo afectados por este, especialmente con relación al acceso al agua y a los alimentos.",
 
     requirements: {
-  summary:
-    "Los requerimientos varían, básicamente: Completar una actividad obligatoria de cada sección y 3 actividades adicionales por sección",
 
   rules: [
     "Completar una actividad obligatoria de cada sección A y B",
@@ -1000,10 +997,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/8257d981-c731-4f30-a208-c42c99de8405",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1121,6 +1117,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1158,6 +1155,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1193,6 +1191,7 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en",
       requirements: {
         summary:
           "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
@@ -1228,10 +1227,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1303,10 +1301,9 @@ sections: {
     location: "Roma",
     url: "https://doi.org/10.4060/ca7445es"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1371,10 +1368,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/85fb1f5d-9a29-4641-9592-4d967139984f",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1511,10 +1507,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/energy/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1585,9 +1580,8 @@ sections: {
         organization: "FAO",
         year: "2026"
       },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-loss-an-waste/en",
       requirements: {
-        summary:
-          "Completar las dos actividades obligatorias de la sección A, una de las dos obligatorias de cada una de las secciones B, C y D, y al menos una actividad opcional de cada sección.",
         rules: [
           "Sección A: hacer A.1 y A.2, más al menos una actividad opcional",
           "Sección B: hacer B.1 o B.2, más al menos una actividad opcional",
@@ -1647,10 +1641,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ending-hunger-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1718,10 +1711,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/en",
   
     requirements: {
-	  summary:
-	    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
 	  rules: [
 	    "Completar una actividad obligatoria de cada sección",
@@ -1900,10 +1892,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/en",
   
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -2112,10 +2103,9 @@ sections: {
     organization: "FAO",
     year: "2025"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/green-cities-challenge-badge/en",
 
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -2263,13 +2253,17 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por **Scouting for Boys** (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público: **Scouting for Boys** (1908) y **Scouting Games** (6.ª ed., 1921).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, Scouting for Boys (1908) – Project Gutenberg #65993",
       url: "https://www.gutenberg.org/ebooks/65993"
+    },
+    {
+      name: "Robert Baden-Powell, Scouting Games (The Scout Library n.º 4), 6.ª ed. (1921) – The Online Books Page",
+      url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
     }
   ],
   license: {
@@ -2325,6 +2319,46 @@ sections: {
     I: {
       title: "Juegos de Salón",
       description: "Los «juegos no scouts» que B-P recomienda para las noches en el local o en campamento, tomados del libro Social—to Save."
+    },
+    J: {
+      title: "Juegos de Exploración",
+      description: "Juegos del capítulo I de Scouting Games: mensajes, puestos, mapas y patrullas que se buscan en el terreno."
+    },
+    K: {
+      title: "Acecho y Rastreo",
+      description: "Juegos de los capítulos II y III de Scouting Games: seguir, emboscar y rastrear."
+    },
+    L: {
+      title: "Juegos de Interior",
+      description: "Juegos del capítulo IV de Scouting Games para el local: memoria, mesa y ronda."
+    },
+    M: {
+      title: "Juegos de Campamento",
+      description: "Juegos del capítulo V de Scouting Games para el campamento o el patio."
+    },
+    N: {
+      title: "Juegos en Bicicleta",
+      description: "Juegos del capítulo VI de Scouting Games, adaptados para Caminantes y Rovers en lugares sin tránsito."
+    },
+    O: {
+      title: "Juegos de Ciudad",
+      description: "Juegos del capítulo VII de Scouting Games: observar y moverse por el barrio."
+    },
+    P: {
+      title: "Juegos Nocturnos",
+      description: "Juegos del capítulo VIII de Scouting Games para jugar de noche."
+    },
+    Q: {
+      title: "Juegos de Invierno y de Agua",
+      description: "Juegos de los capítulos IX y X de Scouting Games: soga, postas, botes y agua."
+    },
+    R: {
+      title: "Juegos de Rescate",
+      description: "Los juegos del capítulo XI de Scouting Games que no dependen de técnicas de primeros auxilios de época."
+    },
+    S: {
+      title: "Juegos de Fuerza",
+      description: "Juegos del capítulo XII de Scouting Games: duelos y empujes por parejas o equipos."
     }
   }
 },
@@ -3275,9 +3309,13 @@ sections: {
       title: "Inclusión y Accesibilidad",
       description: "Detectar barreras, conocer las discapacidades que no se ven y organizar actividades en las que todos puedan participar."
     },
-    M: {
+    C: {
       title: "Cuidado de Mascotas",
       description: "Qué necesita cada mascota, el bienestar animal y la tenencia responsable."
+    },
+    M: {
+      title: "Estación Meteorológica",
+      description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
 }

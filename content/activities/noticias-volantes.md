@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Manos Unidas, en «Repensar el mundo» de ASDE - Scouts de España"
-version: "0.99"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -49,6 +49,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - manosunidas
+  - asderepensar
 activity_code: "manosunidas-E01"
 required: false
 required_for: []

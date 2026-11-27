@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -68,7 +68,10 @@ tags:
   - kim
 
 # ========== ENLACES Y ARCHIVOS ==========
-link: []
+link:
+  - url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf"
+    caption: "Variante «Kim» de ASDE - Scouts de España, Carpeta de fichas 2001, sección Igualdad e Integración (PDF)"
+    icon: "pdf"
 files: []
 
 # ========== REFERENCIAS ==========

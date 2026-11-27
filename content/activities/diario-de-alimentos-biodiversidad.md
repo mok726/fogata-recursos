@@ -22,7 +22,7 @@ source:
 image: "/imagenes/actividades/diario-de-alimentos-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
