@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "2-3 días"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio comunitario para la campaña"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

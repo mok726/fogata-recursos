@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/se-un-ecoturista.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -106,7 +106,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/manglares-poderosos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -103,7 +103,7 @@ complexity_execution: 3  # Requiere visita a manglar
 complexity_organizer: 4  # Requiere planificación de visita
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A powerful mangrove forest with intricate root systems protecting the coastline dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning about mangrove ecosystems. Coastal protection and mangrove conservation atmosphere. No text, no letters, no words. Wide shot."
@@ -121,7 +121,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
   - Salida / Exploración
 
 category:

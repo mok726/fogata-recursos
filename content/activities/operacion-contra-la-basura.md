@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/operacion-contra-la-basura.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "5-25"
-location: "Exterior / Interior"
+location: "Interior o exterior"
 space_required: "Salón para reuniones y espacio público para encuestas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -120,14 +120,14 @@ complexity_execution: 3  # Requiere planificación y trabajo de campo
 complexity_organizer: 3  # Requiere preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth conducting a community survey on littering behavior, interviewing diverse people on the street, educational environmental research. Left side contains open negative space reserved for website interface elements. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Comportamiento social
   - Basura

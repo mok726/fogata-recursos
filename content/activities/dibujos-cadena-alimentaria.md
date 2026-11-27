@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/dibujos-cadena-alimentaria.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para dibujar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -111,14 +111,14 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Organización mínima
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful educational diagram showing a food chain and food web with local plants and animals, connecting to the carbon cycle. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing food chain diagrams. Educational natural science scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Ecosistemas
   - Cadena alimentaria

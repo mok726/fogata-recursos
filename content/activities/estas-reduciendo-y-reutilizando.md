@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para trabajar en grupo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Fichas de actividades. Concurso de actividades de Medio Ambiente y Espiritualidad - ASDE Scouts de España"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -35,7 +35,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "Toda la unidad"
-location: "Exterior o interior"
+location: "Interior o exterior"
 space_required: "Un lugar donde cada uno pueda aislarse"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

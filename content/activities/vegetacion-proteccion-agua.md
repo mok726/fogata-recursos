@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/vegetacion-proteccion-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -47,7 +47,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Mesa para el experimento"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/alimentos-extranjeros.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -125,7 +125,7 @@ accessibility: []
 
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 
 category:
   - Cocina

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/amenazas-naturales.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -99,13 +99,13 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere preparación de nota
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dramatic scene of a natural disaster with forests playing a protective role dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reporting news about the disaster. Environmental journalism and natural disaster awareness atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para investigar y presentar"
 prep_time: "20 min"
 participants: ""
@@ -116,7 +116,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
   - Expresión artística
 
 category:

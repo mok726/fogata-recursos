@@ -24,9 +24,9 @@ Actualmente el sitio contiene cientos de actividades clasificadas por:
 
 ## ¿Para quién está pensado?
 
-Aunque gran parte del material tiene origen scout, el contenido está pensado para cualquier persona que trabaje con infancias y juventudes:
+Aunque gran parte del material tiene origen scout-guía, el contenido está pensado para cualquier persona que trabaje con infancias y juventudes:
 
-- Dirigentes scouts
+- Dirigentes scouts y guiadoras
 - Docentes
 - Educadores populares
 - Coordinadores de grupos juveniles
@@ -34,7 +34,7 @@ Aunque gran parte del material tiene origen scout, el contenido está pensado pa
 
 La intención es que las actividades puedan utilizarse en contextos educativos muy diversos.
 
-Hecho en Argentina 🇦🇷 para el mundo 🌎. Un espacio con acento Argentino para todos los scouts de habla hispana.
+Hecho en Argentina 🇦🇷 para el mundo 🌎. Un espacio con acento Argentino para todos los scouts y guías de habla hispana.
 
 ## ¿Por qué existe?
 
@@ -49,7 +49,7 @@ Fogata de Recursos nació para ayudar a preservar ese conocimiento y hacerlo má
 Fogata de Recursos es una iniciativa personal y sin fines de lucro.
 En otras palabras, soy un simple colaborador scout y educador compartiendo algo que para mí es útil.
 
-Este sitio no esta afiliado, patrocinado, ni representa oficialmente a la Organización Mundial del Movimiento Scout (OMMS/WOSM), ni a Scouts de Argentina (SAAC), ni a la Alianza Mundial de la Juventud y las Naciones Unidas (YUNGA), ni a la  Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), ni a las Naciones Unidas, ni a la Organización Mundial por la Salud, ni a ninguna otra organización nacional o internacional.
+Este sitio no esta afiliado, patrocinado, ni representa oficialmente a la Organización Mundial del Movimiento Scout (OMMS/WOSM), ni a la Asociación Mundial de las Guías Scouts (AMGS/WAGGGS), ni a Scouts de Argentina (SAAC), ni a la Alianza Mundial de la Juventud y las Naciones Unidas (YUNGA), ni a la  Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), ni a las Naciones Unidas, ni a la Organización Mundial por la Salud, ni a ninguna otra organización nacional o internacional.
 De hecho la mayoría no saben que existo, mucho menos que hice este sitio.
 
 En el sito utilizo sus marcos de referencia (como el Método Scout o las insignias) como guía de motivación pedagógica, pero las actividades, opiniones y recursos aquí compartidos son de creación propia o de autores y fuentes citadas, y no reflejan necesariamente la postura oficial de dichas organizaciones.

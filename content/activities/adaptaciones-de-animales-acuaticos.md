@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/adaptaciones-de-animales-acuaticos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -113,14 +113,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Various marine animals showing different adaptations and movement styles like coral, jellyfish, fish, and seals dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and comparing marine animal adaptations. Marine biology education environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Animales Marinos
   - Adaptación

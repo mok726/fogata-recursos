@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/adopta-un-area-natural.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

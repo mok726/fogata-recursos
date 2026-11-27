@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/macetas-de-botellas.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "5-25"
-location: "Interior / Exterior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para trabajar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

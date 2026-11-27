@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/empleos-forestales.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -107,7 +107,7 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People playing a guessing game about forest jobs and careers dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, acting out and guessing different forest careers. Career exploration and playful learning atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para jugar"
 prep_time: "10 min"
 participants: ""

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/trabajo-voluntario.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -106,7 +106,7 @@ main_type: "Servicio"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People volunteering at a food bank or community organization helping those in need dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working as volunteers. Community service and solidarity atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Organización comunitaria"
 prep_time: "20 min"
 participants: ""

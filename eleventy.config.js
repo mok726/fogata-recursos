@@ -232,22 +232,37 @@ eleventyConfig.addFilter("fechaCorta", function(fecha) {
 });
 
 // Landing, «Actividades destacadas»: las 3 últimas agregadas y
-// las actividades del día de ayer, anteayer y hace 3 días, sin
-// repetir (ni la de hoy, que ya tiene su bloque).
+// las actividades del día de los 3 días anteriores.
+// Devuelve [{ item, fecha }] (fecha vacía = recién agregada).
+// El build puede quedar de un día anterior (el build diario corre
+// a las 06:17 y a veces se atrasa): por eso se renderizan los días
+// de -3 a +1 respecto del build y el script de la landing muestra
+// los 3 anteriores a la fecha del navegador. Sin JS quedan los del
+// build (-1 a -3). Las recientes no repiten ninguna «del día» de
+// esa ventana (ni la de hoy o mañana, que tienen su bloque).
 eleventyConfig.addFilter("destacadas", function(recientes, diarias) {
   const hoy = actividadDelDia.fechaLocal();
-  const dia = n => actividadDelDia.delDia(diarias || [], actividadDelDia.sumarDias(hoy, n));
-  const usadas = new Set([dia(0)].filter(Boolean).map(i => i.url));
-  const pasadas = [dia(-1), dia(-2), dia(-3)].filter(Boolean);
-  pasadas.forEach(i => usadas.add(i.url));
+  const dia = n => {
+    const fecha = actividadDelDia.sumarDias(hoy, n);
+    return { fecha, item: actividadDelDia.delDia(diarias || [], fecha) };
+  };
+  const usadas = new Set();
+  for (let n = -3; n <= 2; n++) {
+    const d = dia(n);
+    if (d.item) usadas.add(d.item.url);
+  }
   const nuevas = [];
   for (const it of recientes || []) {
     if (nuevas.length >= 3) break;
-    if (!usadas.has(it.url)) { nuevas.push(it); usadas.add(it.url); }
+    if (!usadas.has(it.url)) { nuevas.push({ item: it, fecha: "" }); usadas.add(it.url); }
   }
-  // Si dos días cayeron en la misma ficha, no se muestra dos veces.
+  // Más reciente primero. Si dos días cayeron en la misma ficha,
+  // queda la del día más reciente.
   const vistas = new Set();
-  return nuevas.concat(pasadas).filter(i => !vistas.has(i.url) && vistas.add(i.url));
+  const pasadas = [1, 0, -1, -2, -3].map(dia)
+    .filter(d => d.item && !vistas.has(d.item.url) && vistas.add(d.item.url))
+    .map(d => Object.assign(d, { visible: d.fecha < hoy }));
+  return nuevas.concat(pasadas);
 });
 
 // Fecha de alta (primer commit) de una ficha, para los feeds.
@@ -364,9 +379,22 @@ eleventyConfig.addCollection(
     }
   );
 
-  eleventyConfig.addPassthroughCopy({
-    "content/robots.txt": "robots.txt"
-  });
+  // Enlaces escritos a mano con la dirección vieja del sitio
+  // (front matter `link:`, textos de fichas, badges.js): se reescriben
+  // a la dirección actual. Mientras el sitio siga en la dirección
+  // vieja, no cambia nada.
+  const urlActual = (site.url + site.pathPrefix).replace(/\/$/, "");
+  if (site.urlAnterior && site.urlAnterior !== urlActual) {
+    const vieja = new RegExp(site.urlAnterior.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "g");
+    eleventyConfig.addTransform("urlAnterior", function(content) {
+      const out = this.page.outputPath || "";
+      if (!/\.(html|xml|json|txt)$/.test(out)) return content;
+      return content
+        .replace(vieja, urlActual)
+        // Rutas sueltas con el prefijo viejo (galerías internas).
+        .replace(/(=["'])\/fogata-recursos\//g, `$1${site.pathPrefix}/`);
+    });
+  }
 
   // Notas y copias viejas de plantillas dentro de css/:
   // no se publican como páginas.
@@ -463,6 +491,22 @@ eleventyConfig.addCollection(
 
     }
   );
+
+
+// Redondea hacia abajo para textos tipo «más de N».
+// Menos de 100 → decenas; menos de 1000 → cincuentenas; más → centenas.
+//   {{ collections.activities | length | masDe }}  →  1300
+eleventyConfig.addFilter(
+  "masDe",
+  function(n) {
+
+    n = Number(n) || 0;
+    const paso = n < 100 ? 10 : (n < 1000 ? 50 : 100);
+    const r = Math.floor(n / paso) * paso;
+    return r.toLocaleString("es-AR");
+
+  }
+);
 
 
 // Una actividad es borrador si su versión es "DRAFT".
@@ -648,9 +692,90 @@ eleventyConfig.addFilter("splitBySections", (htmlContent) => {
     sections.push({ heading: headingText, content: contentHtml });
   });
 
-//  console.log(`Secciones encontradas: ${sections.length}`);
-  return sections;
+  return separarNotas(sections);
 });
+
+// Las «Nota de seguridad» y «Nota para el educador» que vienen como cita
+// (> **Nota de seguridad:** …) dentro de un paso o del cierre se sacan de ahí
+// y se juntan en sus propios bloques colapsables («Seguridad» y «Notas para el
+// educador»), que van después del cierre. Si la ficha ya tiene una sección
+// «## Seguridad» o «## Notas para el educador», las notas se suman a esa.
+const NOTAS_BLOQUES = [
+  { heading: "Seguridad", regex: /^nota de seguridad/i },
+  { heading: "Notas para el educador", regex: /^nota para el educador/i },
+];
+const SECCIONES_SIN_EXTRAER = /^(seguridad|texto original|checklist)/i;
+const ES_NOTAS_EDUCADOR = /^notas? para el educador$/i;
+
+function separarNotas(sections) {
+  const extraidas = { "Seguridad": [], "Notas para el educador": [] };
+  let hubo = false;
+
+  for (const section of sections) {
+    if (SECCIONES_SIN_EXTRAER.test(section.heading)) continue;
+    if (!section.content.includes("<blockquote")) continue;
+    const $ = cheerio.load(section.content, null, false);
+    let cambio = false;
+    $("blockquote").each((i, bq) => {
+      const primerP = $(bq).children().first();
+      const strong = primerP.children("strong").first();
+      if (!strong.length || primerP.contents().first()[0] !== strong[0]) return;
+      const etiqueta = strong.text().trim().replace(/:$/, "").trim();
+      const tipo = NOTAS_BLOQUES.find(t => t.regex.test(etiqueta));
+      if (!tipo) return;
+      // En «Notas para el educador» solo se sacan las de seguridad.
+      if (ES_NOTAS_EDUCADOR.test(section.heading) && tipo.heading !== "Seguridad") return;
+      // Si la etiqueta tiene un agregado («Nota para el educador (privacidad)»),
+      // se conserva como subtítulo de la nota.
+      const resto = etiqueta.replace(tipo.regex, "").replace(/^[\s(]+|[\s)]+$/g, "");
+      strong.remove();
+      const primerTexto = primerP.contents().first();
+      if (primerTexto.length && primerTexto[0].type === "text") {
+        const t = primerTexto[0].data.replace(/^[\s:]+/, "");
+        primerTexto[0].data = t.charAt(0).toUpperCase() + t.slice(1);
+      }
+      if (resto) primerP.prepend(`<strong>${resto.charAt(0).toUpperCase() + resto.slice(1)}:</strong> `);
+      extraidas[tipo.heading].push($(bq).html().trim());
+      $(bq).remove();
+      cambio = true;
+    });
+    if (cambio) {
+      section.content = $.html().trim();
+      hubo = true;
+    }
+  }
+  if (!hubo) return sections;
+
+  const resultado = [];
+  const existentes = {};
+  for (const section of sections) {
+    const t = NOTAS_BLOQUES.find(b => b.heading.toLowerCase() === section.heading.toLowerCase()
+      || (b.heading === "Notas para el educador" && /^notas? para el educador$/i.test(section.heading)));
+    if (t) existentes[t.heading] = section;
+  }
+  const bloques = NOTAS_BLOQUES.map(b => {
+    const notas = extraidas[b.heading];
+    if (!notas.length) return null;
+    const html = notas.map(n => `<div class="nota-extraida">${n}</div>`).join("");
+    const previa = existentes[b.heading];
+    if (previa) {
+      previa.content = previa.content + html;
+      return null;
+    }
+    return { heading: b.heading, content: html };
+  }).filter(Boolean);
+
+  // Los bloques nuevos van justo después del cierre (o del último paso).
+  const pasos = /^(resumen|preparaci[oó]n|desarrollo|cierre)/i;
+  let ultimoPaso = -1;
+  sections.forEach((s, i) => { if (pasos.test(s.heading)) ultimoPaso = i; });
+  sections.forEach((s, i) => {
+    resultado.push(s);
+    if (i === ultimoPaso) resultado.push(...bloques);
+  });
+  if (ultimoPaso === -1) resultado.push(...bloques);
+  return resultado;
+}
 
 
 
@@ -874,6 +999,12 @@ eleventyConfig.addFilter(
   }
 );
 
+
+// Línea de tiempo del proyecto: hitos manuales (_data/lineaDeTiempo.yml)
+// + insignias, tandas de fichas y marcas sacadas del historial git.
+eleventyConfig.addGlobalData("lineaDeTiempoGrupos", () =>
+  require("./lib/linea-de-tiempo.js").lineaDeTiempo(require("./content/_data/badges.js")())
+);
 
 eleventyConfig.addGlobalData("buildDate", () => {
   return new Date();
@@ -1301,7 +1432,7 @@ else {
         return "";
       }
 
-      if (/dia|semana|mes|proyecto|campamento/.test(d)) {
+      if (/dia|semana|mes|\bano\b|jornada|reuniones|proyecto|campamento/.test(d)) {
         return "larga";
       }
 
@@ -1526,7 +1657,7 @@ else {
               url: "/badges/" + entry.id + "/",
               title: entry.name,
               text: textoPlano(entry.description),
-              icon: entry.logo && !entry.generic ? entry.logo : "",
+              icon: entry.logo || "",
               cover: entry.hero_image && fs.existsSync(path.join(__dirname, entry.hero_image)) && fs.statSync(path.join(__dirname, entry.hero_image)).size > 0 ? thumb(entry.hero_image, "badgeHero") : ""
             };
             break;
@@ -1575,6 +1706,28 @@ else {
 
       });
 
+      // Insignias: primero las propias, después ASDE y Manos Unidas,
+      // YUNGA/FAO, OMMS, AMGS y el resto de las externas (en el orden
+      // en que están en badges.js, que es el orden en que se fueron
+      // sumando). Las que todavía no tienen actividades
+      // («Próximamente») van al final, con el mismo criterio.
+      if (kind === "badge") {
+        const PROPIAS = ["badenpowell", "badenpowellmanada", "tecnicascout", "vial", "tradiciones", "general"];
+        const rank = entry => {
+          const id = String(entry.id);
+          const org = String((entry.attribution && entry.attribution.organization) || "");
+          if (PROPIAS.includes(id)) return PROPIAS.indexOf(id) / 10;
+          if (id.startsWith("asde") || id === "manosunidas") return 1;
+          if (/OMMS|WOSM/.test(org) || id === "gosolar" || id === "mundomejor") return 3;
+          if (/FAO|YUNGA/.test(org)) return 2;
+          if (/WAGGGS|AMGS/.test(org)) return 4;
+          return 5;
+        };
+        const order = list.map((entry, i) => ({ card: cards[i], key: [cards[i].count ? 0 : 1, rank(entry), i] }));
+        order.sort((x, y) => x.key[0] - y.key[0] || x.key[1] - y.key[1] || x.key[2] - y.key[2]);
+        return order.map(o => o.card);
+      }
+
       // Valores, método, habilidades y tipos: orden alfabético (pedido de Mariano).
       if (["value", "method", "skill", "type"].includes(kind)) {
         cards.sort((x, y) => String(x.title).localeCompare(String(y.title), "es", { sensitivity: "base" }));
@@ -1589,7 +1742,7 @@ else {
   return {
 
     pathPrefix:
-      site.pathPrefix,
+      site.pathPrefix || "/",
 
     dir: {
       input: "content",

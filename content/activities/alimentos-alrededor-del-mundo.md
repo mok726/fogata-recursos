@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/alimentos-alrededor-del-mundo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -123,7 +123,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Taller / Construcción
-  - Indagación
+  - Investigación
 category:
   - Cultura
   - Alimentación

@@ -1,15 +1,19 @@
 /* Tarjeta de la «Actividad del día» para redes (pages/redes-tarjeta.njk).
    scripts/tarjeta-redes.js captura cada tarjeta con 12 px de margen
-   color papel alrededor (para que se vean las esquinas redondeadas).
+   alrededor: transparente en el PNG y blanco en el JPG (Instagram
+   sólo acepta JPG), así se ven las esquinas redondeadas.
    Es la misma de la portada; acá se fija el ancho, se usa un degradé
    en el envoltorio y se agrega la placa con nombre, URL y QR.
    Se captura a 540 px con escala 2 → imagen de 1080 px de ancho. */
 
+html:has(body.redes-tarjeta),
 body.redes-tarjeta {
   margin: 0;
   width: 540px;
-  background: var(--fogata-paper);
+  background: transparent;
 }
+/* El script la pone en blanco para sacar el JPG. */
+body.redes-tarjeta.fondo-blanco { background: #fff; }
 
 .redes-tarjeta .home-daily { margin: 0; padding: 12px; max-width: none; }
 
@@ -30,39 +34,47 @@ body.redes-tarjeta {
 /* Instagram no acepta imágenes más altas que 4:5: la descripción
    ya está limitada a 5 renglones en home.css. */
 
+/* Placa del pie: logo y nombre grandes y centrados, la URL debajo
+   y el QR a la derecha. */
 .home-daily-placa {
   display: flex;
   align-items: center;
-  gap: .65rem;
+  gap: .6rem;
   margin: .55rem .4rem .4rem;
-  padding: .55rem .8rem;
+  padding: .55rem .7rem .55rem .9rem;
   background: var(--fogata-card);
   border-radius: 16px;
 }
-.home-daily-placa div { flex: 1; min-width: 0; }
-.home-daily-placa b img { width: 24px; height: 24px; vertical-align: -5px; margin-right: .35rem; }
+.home-daily-placa div { flex: 1; min-width: 0; text-align: center; }
+.home-daily-placa b {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .4rem;
+  font-family: var(--fogata-slab);
+  font-weight: 800;
+  font-size: 1.75rem;
+  line-height: 1.1;
+  color: var(--fogata-forest);
+  white-space: nowrap;
+}
+.home-daily-placa b img { width: 52px; height: 52px; flex: 0 0 auto; }
+.home-daily-placa span {
+  display: block;
+  margin-top: .35rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #3d7a4e;
+  overflow-wrap: anywhere;
+}
 /* Fondo blanco con margen (zona de silencio) para que se pueda escanear. */
 .home-daily-qr {
-  width: 96px;
-  height: 96px;
+  width: 104px;
+  height: 104px;
   flex: 0 0 auto;
   padding: 6px;
   background: #fff;
   border-radius: 8px;
   image-rendering: pixelated;
-}
-.home-daily-placa b {
-  display: block;
-  font-family: var(--fogata-slab);
-  font-weight: 800;
-  font-size: 1rem;
-  color: var(--fogata-forest);
-}
-.home-daily-placa span {
-  display: block;
-  font-size: .8rem;
-  font-weight: 600;
-  line-height: 1.35;
-  color: #3d7a4e;
-  overflow-wrap: anywhere;
 }

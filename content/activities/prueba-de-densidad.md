@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/prueba-de-densidad.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -46,7 +46,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-15"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesa para experimentos"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

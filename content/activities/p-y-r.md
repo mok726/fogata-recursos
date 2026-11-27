@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/p-y-r.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
-version: "0.99"
+version: "1.00"
 
 branch:
   - Naturaleza
@@ -66,13 +66,11 @@ references:
     url: "https://doi.org/10.4060/ca7445es"
 
 license:
-  name: "© FAO – Licencia sin confirmar"
-  url: "https://www.fao.org/contact-us/terms/en/"
-  image: ""
-  note: "Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Nada confirmado."
-  pending: "Publicar esta traducción o adaptación: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
-  status: "permiso-pendiente"
+  name: "Creative Commons BY-NC-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+  note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
 
 attributions:
   - entity: "© FAO 2022"
@@ -96,7 +94,7 @@ main_type: "Visita / Charla"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A question and answer session with a hazard expert, with children asking questions and filming dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing and recording. Educational discussion and expert knowledge atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para la reunión con el experto"
 prep_time: "20 min (coordinar visita)"
 participants: "4-20"

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/transporte-y-comercio-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -107,7 +107,7 @@ accessibility: []
 
 activity_type:
   - Salida / Exploración
-  - Indagación
+  - Investigación
 
 category:
   - Transporte

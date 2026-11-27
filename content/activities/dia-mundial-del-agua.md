@@ -18,7 +18,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "6-30"
-location: "Interior y exterior"
+location: "Interior o exterior"
 space_required: "Escuela o lugar de reunión"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

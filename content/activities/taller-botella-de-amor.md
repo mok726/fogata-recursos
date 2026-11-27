@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-botella-de-amor.jpg"
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

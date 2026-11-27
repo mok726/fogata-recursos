@@ -1,0 +1,39 @@
+---
+title: Material de Apoyo
+description: "Leyendas, cuentos, adivinanzas y coplas tradicionales para usar en las actividades scouts: textos completos, de dominio público o con licencia libre."
+layout: layouts/base.njk
+permalink: /material/
+styles:
+  - /css/material.css
+---
+<section class="material-index">
+
+  <header class="material-index-header">
+    <h1>Material de Apoyo</h1>
+    <p>Textos para usar en las actividades: leyendas para el fogón, cuentos, adivinanzas y coplas. No son actividades en sí mismas: son el material que una actividad necesita. Cada texto indica su origen y su licencia, y enlaza a las actividades que lo usan.</p>
+  </header>
+
+  {% set todos = collections.material | sort(false, false, 'data.title') %}
+
+  {% for cat in materialCategories %}
+    {% set items = todos | selectattr('data.category', 'equalto', cat.id) %}
+    <section class="material-cat" id="{{ cat.id }}">
+      <h2><span class="material-symbols-outlined" aria-hidden="true">{{ cat.icon }}</span> {{ cat.name }}</h2>
+      <p class="material-cat-desc">{{ cat.description }}</p>
+      {% if items | length %}
+      <ul class="material-list">
+        {% for m in items %}
+        <li>
+          <a href="{{ m.url | url }}">{{ m.data.title }}</a>
+          {% if m.data.origin %}<span class="material-meta">{{ m.data.origin }}</span>{% endif %}
+          {% if m.data.summary %}<p>{{ m.data.summary }}</p>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p class="material-vacio">Próximamente.</p>
+      {% endif %}
+    </section>
+  {% endfor %}
+
+</section>

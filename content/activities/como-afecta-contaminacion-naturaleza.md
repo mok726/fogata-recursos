@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/como-afecta-contaminacion-naturaleza.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -45,7 +45,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

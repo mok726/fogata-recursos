@@ -1,7 +1,8 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "La Hora del Planeta"
-duration: "1.5 horas (evento)"
+duration: "1.5 horas"
+duration_detail: "1.5 horas (evento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-hora-del-planeta/"
 description: "Participación en el evento mundial de concienciación sobre el cambio climático apagando luces y realizando actividades sin electricidad."
@@ -18,7 +19,7 @@ source:
 image: "/imagenes/actividades/la-hora-del-planeta.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +42,8 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
+momento: "noche"
 space_required: "Espacio seguro sin electricidad"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

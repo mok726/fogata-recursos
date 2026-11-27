@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/energia-en-el-pasado.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Individual o en parejas"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Casa de un familiar o espacio para entrevista"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -108,14 +108,14 @@ complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Requiere planificar entrevista
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth interviewing an elderly grandparent about energy use in the past, taking notes and comparing answers about electricity, cooking fuel, home heating, and lighting. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting an intergenerational interview. Educational historical research scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Historia
   - Energía

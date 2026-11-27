@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/revisa-las-etiquetas.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -96,11 +96,11 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children checking food labels to find where their food comes from, discussing which foods travel the furthest dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reading labels and discussing. Food origin awareness and conscious consumption atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con alimentos y acceso a internet"
 prep_time: "15 min"
 participants: "4-20"
@@ -109,7 +109,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Alimentos

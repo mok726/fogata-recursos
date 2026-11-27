@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -90,11 +90,11 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children researching energy-efficient appliances and certification labels, recommending sustainable choices to their parents dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, comparing appliances. Energy efficiency and informed consumption atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-15"
@@ -103,7 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Energía

@@ -25,6 +25,7 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/agriculture-challenge-badge/en",
       
     requirements: {
   summary:
@@ -62,10 +63,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/forests/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -135,6 +135,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/gender-challenge-badge/en",
       
     requirements: {
   summary:
@@ -172,10 +173,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/nutrition-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -249,10 +249,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/plastics-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -321,10 +320,9 @@ sections: {
     organization: "FAO",
     year: "2013"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/water-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -780,13 +778,12 @@ sections: {
     organization: "FAO",
     year: "2009"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-security-and-climate-change-challenge/en",
       
   summary:
     "Esta insignia, relacionada con la del Cambio Climático, ayuda a crear conciencia sobre la forma en que nuestras actividades diarias contribuyen al cambio climático y cómo diferentes comunidades e individuos ya están siendo afectados por este, especialmente con relación al acceso al agua y a los alimentos.",
 
     requirements: {
-  summary:
-    "Los requerimientos varían, básicamente: Completar una actividad obligatoria de cada sección y 3 actividades adicionales por sección",
 
   rules: [
     "Completar una actividad obligatoria de cada sección A y B",
@@ -1000,10 +997,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/8257d981-c731-4f30-a208-c42c99de8405",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1121,6 +1117,7 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/governance-challenge-badge/en",
       
     requirements: {
   summary:
@@ -1131,6 +1128,78 @@ sections: {
 },
 sections: {
 },
+      documents: []
+    },
+
+    {
+      id: "restauracion",
+      name: "Restauración de Ecosistemas",
+      description:
+        "Recuperar y cuidar los ecosistemas degradados.",
+      summary:
+        "La insignia de Restauración de Ecosistemas invita a conocer cómo se degradan bosques, suelos, humedales y otros ambientes, y qué se puede hacer para recuperarlos.\n\nPromueve acciones concretas de cuidado y restauración en la comunidad.",
+      logo: "/imagenes/insignias/ecosystemsrestoration.png",
+      hero_image: "/imagenes/insignias/general-hero.png",
+      sources: [
+        {
+          name: "YUNGA Ecosystems Restoration Challenge Badge",
+          url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en"
+        }
+      ],
+      license: {
+        type: "© FAO – Licencia sin confirmar",
+        url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+        note: "Sin actividades publicadas. La FAO todavía no publicó el cuaderno de esta insignia."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ecosystems-restoration/en",
+      requirements: {
+        summary:
+          "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
+        rules: [
+        ]
+      },
+      sections: {
+      },
+      documents: []
+    },
+
+    {
+      id: "saludmental",
+      name: "Salud Mental",
+      description:
+        "Bienestar emocional, cuidado propio y de los demás.",
+      summary:
+        "La insignia de Salud Mental promueve el bienestar emocional y la comprensión de la salud mental como parte de la salud.\n\nFomenta el cuidado propio, la empatía y la búsqueda de ayuda cuando hace falta.",
+      logo: "/imagenes/insignias/mentalhealth.png",
+      hero_image: "/imagenes/insignias/general-hero.png",
+      sources: [
+        {
+          name: "YUNGA Mental Health Challenge Badge",
+          url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en"
+        }
+      ],
+      license: {
+        type: "© FAO – Licencia sin confirmar",
+        url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+        note: "Sin actividades publicadas. La FAO todavía no publicó el cuaderno de esta insignia."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/mental-health/en",
+      requirements: {
+        summary:
+          "Esta insignia fue anunciada por la FAO, pero todavía está en desarrollo. Cuando se publique el cuaderno, agregamos los detalles y las actividades.",
+        rules: [
+        ]
+      },
+      sections: {
+      },
       documents: []
     },
 
@@ -1158,10 +1227,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/the-ocean-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1222,9 +1290,9 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
@@ -1233,10 +1301,9 @@ sections: {
     location: "Roma",
     url: "https://doi.org/10.4060/ca7445es"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/disaster-risk-reduction/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1301,10 +1368,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://openknowledge.fao.org/items/85fb1f5d-9a29-4641-9592-4d967139984f",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1441,10 +1507,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/energy/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1491,6 +1556,68 @@ sections: {
     },
 
     {
+      id: "desperdicio",
+      name: "Pérdida y Desperdicio de Alimentos",
+      description:
+        "Entender por qué se pierde y se tira comida, qué impacto tiene y cómo evitarlo.",
+      summary:
+        "La insignia de Pérdida y Desperdicio de Alimentos invita a descubrir cuánta comida se pierde entre el campo y la mesa, y cuánta se tira en casa, en la escuela y en los comercios.\n\nPropone planificar, aprovechar las sobras, compostar, donar y llevar el mensaje a la comunidad.",
+      logo: "/imagenes/insignias/desperdicio.png",
+      hero_image: "/imagenes/insignias/desperdicio-hero.jpg",
+      hero_prompt: "A diverse group of scouts aged 11 to 17 sorting surplus fruit and vegetables at a community food bank, wooden crates of imperfect but fresh produce, a compost bin and a small school vegetable garden in the background, warm afternoon light.",
+      sources: [
+        {
+          name: "YUNGA Food loss & waste Challenge Badge",
+          url: "https://doi.org/10.4060/ce0688en"
+        }
+      ],
+      license: {
+        type: "CC BY-NC-SA 4.0",
+        url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+        note: "Adaptación y traducción de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio. Las fotos de la FAO no están incluidas."
+      },
+      attribution: {
+        organization: "FAO",
+        year: "2026"
+      },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/food-loss-an-waste/en",
+      requirements: {
+        rules: [
+          "Sección A: hacer A.1 y A.2, más al menos una actividad opcional",
+          "Sección B: hacer B.1 o B.2, más al menos una actividad opcional",
+          "Sección C: hacer C.1 o C.2, más al menos una actividad opcional",
+          "Sección D: hacer D.1 o D.2, más al menos una actividad opcional"
+        ]
+      },
+      sections: {
+        A: {
+          title: "Entender las pérdidas y el desperdicio de alimentos",
+          description: "Qué son las pérdidas y el desperdicio de alimentos, por qué ocurren y cómo se relacionan con los Objetivos de Desarrollo Sostenible."
+        },
+        B: {
+          title: "Impactos de las pérdidas y el desperdicio",
+          description: "Cómo afectan a la seguridad alimentaria, al ambiente y a la economía."
+        },
+        C: {
+          title: "Soluciones a las pérdidas y el desperdicio",
+          description: "Qué se puede hacer en cada eslabón de la cadena de valor de los alimentos y qué políticas ayudan."
+        },
+        D: {
+          title: "Tomá acción",
+          description: "Llevar lo aprendido a la escuela, al grupo y a la comunidad."
+        }
+      },
+      documents: [
+        {
+          title: "Food loss & waste – Challenge badge",
+          title_es: "Insignia de Pérdida y Desperdicio de Alimentos – Cuaderno de actividades (en inglés)",
+          url: "https://doi.org/10.4060/ce0688en",
+          type: "pdf"
+        }
+      ]
+    },
+
+    {
       id: "hambre",
       name: "Acabar con el Hambre",
       description:
@@ -1514,10 +1641,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/ending-hunger-challenge-badge/en",
       
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1585,10 +1711,9 @@ sections: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/soils-challenge-badge/en",
   
     requirements: {
-	  summary:
-	    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
 	  rules: [
 	    "Completar una actividad obligatoria de cada sección",
@@ -1759,18 +1884,17 @@ sections: {
     }
   ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
     year: "2021"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/pollinators-challenge-badge/en",
   
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -1971,18 +2095,17 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia sin confirmar",
-    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0."
   },
   attribution: {
     organization: "FAO",
     year: "2025"
   },
+  yunga_url: "https://www.fao.org/yunga/activities/challenge-badges/green-cities-challenge-badge/en",
 
     requirements: {
-  summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
     "Completar una actividad obligatoria de cada sección",
@@ -2353,6 +2476,274 @@ sections: {
   }
 },
 {
+  id: "dialogopaz",
+  name: "Diálogo para la Paz",
+  description:
+    "Escuchar, reconocer y responder: habilidades de diálogo para prevenir y transformar conflictos.",
+  summary:
+    "Desafío Dialogue for Peace de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. El recorrido tiene tres etapas: Escuchar, Reconocer y Responder, y termina con un Café del Diálogo.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/dialogopaz.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A diverse group of scouts aged 11 to 17 sitting in a circle on cushions in a bright scout hall, one speaking while the others listen attentively, a talking stick passed between them, colorful paper speech bubbles pinned on a wall behind them, warm afternoon light.",
+  sources: [
+    {
+      name: "Dialogue for Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/dialogue-peace"
+    },
+    {
+      name: "Dialogue for Peace Trainer Manual (OMMS – KAICIID)",
+      url: "https://learn.scout.org/resource/dialogue-peace-trainer-manual"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary:
+      "Recorrer las etapas Escuchar, Reconocer y Responder y cerrar con un Café del Diálogo.",
+    rules: [
+      "Hacer actividades de las etapas Escuchar y Reconocer",
+      "Hacer al menos una actividad de la etapa Responder",
+      "Cerrar con un Café del Diálogo"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Escuchar",
+      description: "Principios del diálogo, identidad y percepciones: escuchar a los demás y a uno mismo."
+    },
+    B: {
+      title: "Reconocer",
+      description: "Reconocer las causas de los conflictos, la exclusión y el propio estilo ante un desacuerdo."
+    },
+    C: {
+      title: "Responder",
+      description: "Poner en práctica el diálogo en una ronda facilitada."
+    }
+  }
+},
+{
+  id: "interreligioso",
+  name: "Diálogo Interreligioso",
+  description:
+    "Diálogo entre personas de distintas creencias y culturas, con respeto por la identidad de cada uno.",
+  summary:
+    "Desafío Interreligious Dialogue de la Organización Mundial del Movimiento Scout, desarrollado con KAICIID. Comparte sus actividades con Diálogo para la Paz: cuando se publiquen, van a aparecer acá como complementarias.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de KAICIID para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/interreligioso.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 12 to 17 from different cultures and faiths sharing tea around a low wooden table outdoors at a campsite, some wearing headscarves or kippahs, laughing and talking, tents and trees behind them, soft golden light.",
+  sources: [
+    {
+      name: "Interreligious Dialogue – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/interreligious-dialogue"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de KAICIID)."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement) y KAICIID",
+    year: "2022"
+  },
+  requirements: {
+    summary: "Hacer las actividades de Diálogo para la Paz marcadas también para este desafío.",
+    rules: []
+  },
+  sections: {}
+},
+{
+  id: "mensajerospaz",
+  name: "Mensajeros de la Paz",
+  description:
+    "Construir paz en la comunidad: diálogo, servicio y preparación ante desastres.",
+  summary:
+    "Mensajeros de la Paz (Messengers of Peace) es la iniciativa de la Organización Mundial del Movimiento Scout para que los jóvenes construyan paz en sus comunidades. En Scouts for SDGs funciona también como desafío.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/mensajerospaz.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Young scouts painting a colorful mural with doves and joined hands on a neighborhood wall, neighbors of different ages helping, buckets of paint and brushes on the sidewalk, sunny day.",
+  sources: [
+    {
+      name: "Messengers of Peace – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/initiatives/messengers-peace"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2022"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí las que se adapten a la edad del grupo.",
+    rules: []
+  },
+  sections: {
+    A: {
+      title: "Actividades",
+      description: "Actividades del desafío publicadas en Scouts for SDGs."
+    }
+  }
+},
+{
+  id: "impactinnovators",
+  name: "Impact Innovators",
+  description:
+    "Innovación social: detectar problemas de la comunidad, generar ideas, prototipar y probar soluciones.",
+  summary:
+    "Desafío Impact Innovators de la Organización Mundial del Movimiento Scout, desarrollado con Accenture y World's Largest Lesson. Propone el pensamiento de diseño (design thinking) para que los protagonistas encuentren problemas de su comunidad y diseñen soluciones.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/impactinnovators.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A patrol of scouts aged 11 to 16 building a cardboard prototype of a small community project on a table covered with sticky notes, markers, tape and sketches, a city neighborhood visible through the window, bright daylight.",
+  sources: [
+    {
+      name: "Impact Innovators – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/impact-innovators"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2024"
+  },
+  requirements: {
+    summary: "Recorrer las tres etapas: explorar el problema, generar ideas y prototipar y probar.",
+    rules: [
+      "Hacer al menos una actividad de cada sección",
+      "Las salidas a la comunidad se hacen con la cantidad de adultos que pida tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Explorar el Problema",
+      description: "Conocer la comunidad e identificar los problemas que se pueden resolver."
+    },
+    B: {
+      title: "Generar Ideas",
+      description: "Técnicas lúdicas para inventar soluciones creativas."
+    },
+    C: {
+      title: "Prototipar y Probar",
+      description: "Construir, probar y mejorar las soluciones con la comunidad."
+    }
+  }
+},
+{
+  id: "mindbuilders",
+  name: "Mind Builders",
+  description:
+    "Salud mental y bienestar: conocerse, cuidar los vínculos y disfrutar de lo que hacemos.",
+  summary:
+    "Desafío Mind Builders de la Organización Mundial del Movimiento Scout, parte de la iniciativa HealthAllies (Salud y Bienestar), desarrollado con contribución financiera y orientación técnica de la FAO (YUNGA).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org). No reemplazan la atención profesional en salud mental.\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) y de la FAO para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/mindbuilders.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 10 to 15 lying on the grass in a circle looking up at the sky and smiling, a calm lake and pine forest in the background, relaxed and peaceful mood, soft morning light.",
+  sources: [
+    {
+      name: "Mind Builders – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/mind-builders"
+    },
+    {
+      name: "Mind Builders Challenge – Implementation Manual (OMMS, 2025)",
+      url: "https://learn.scout.org/node/9861"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS (y, si corresponde, de la FAO) para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement), con apoyo de FAO/YUNGA",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal",
+      "Ante señales de malestar persistente, seguí el protocolo de cuidado de tu organización scout nacional"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Conocerme",
+      description: "Fortalezas, autoestima y propósito personal."
+    },
+    B: {
+      title: "Vínculos",
+      description: "Amabilidad, gratitud y escucha para cuidar las relaciones."
+    },
+    C: {
+      title: "Disfrutar Juntos",
+      description: "Actividades para vivir la concentración y el disfrute en equipo."
+    }
+  }
+},
+{
+  id: "eqaccion",
+  name: "EQ in Action",
+  description:
+    "Inteligencia emocional en acción: reconocer emociones, convivir con otros y ponerse metas.",
+  summary:
+    "Desafío EQ in Action de la Organización Mundial del Movimiento Scout, parte de la iniciativa LifeLeaders (Habilidades para la Vida).\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/eqaccion.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Young scouts aged 8 to 12 playing a game with emotion cards showing faces on a picnic blanket at a campsite, laughing and acting out feelings, a leader kneeling with them, tents behind, warm afternoon light.",
+  sources: [
+    {
+      name: "EQ in Action – Scouts for SDGs (OMMS)",
+      url: "https://sdgs.scout.org/challenges/eq-action"
+    },
+    {
+      name: "EQ in Action Challenge (OMMS)",
+      url: "https://learn.scout.org/node/9809"
+    }
+  ],
+  license: {
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Pendiente: autorización de la OMMS para traducir y publicar estas actividades y usar el nombre y el logo del desafío."
+  },
+  attribution: {
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2025"
+  },
+  requirements: {
+    summary: "No hay actividades obligatorias: elegí al menos una de cada sección según la edad del grupo.",
+    rules: [
+      "Nadie está obligado a compartir algo personal"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Reconocer Emociones",
+      description: "Juegos para ponerle nombre a lo que sentimos y reconocerlo en otros."
+    },
+    B: {
+      title: "Convivir",
+      description: "Entender y respetar otras formas de hacer las cosas."
+    },
+    C: {
+      title: "Metas",
+      description: "Aprender de lo vivido y ponerse metas personales."
+    }
+  }
+},
+{
   id: "vial",
   name: "Seguridad Vial",
   description:
@@ -2411,6 +2802,52 @@ sections: {
 
 
 	  
+{
+  id: "tradiciones",
+  name: "Tradiciones Argentinas",
+  description:
+    "Juegos tradicionales, costumbres, leyendas y la historia de nuestra región: lo que se juega, se cuenta y se comparte en la Argentina desde hace generaciones.",
+  summary:
+    "**No es una insignia oficial**, sino una creación propia de Fogata de Recursos. \n\n<p>Reúne actividades para conocer, jugar y transmitir la cultura popular argentina: los juegos de patio y de las fiestas criollas, las costumbres que se comparten en la mesa y en el fogón, las leyendas de los pueblos originarios y del campo, y la historia de cada región.\n\n<p>Las leyendas, cuentos y coplas completos están en el <a href=\"https://mok726.github.io/fogata-recursos/material/\">Material de apoyo</a>; las actividades de esta insignia los usan como punto de partida.\n\n<p>Muchos juegos cambian de nombre y de reglas según la provincia. Si en tu zona se juega distinto, usá la versión local: también es tradición.",
+  logo: "/imagenes/insignias/tradiciones.png",
+  hero_image: "/imagenes/insignias/tradiciones-hero.jpg",
+  sources: [],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  },
+  attribution: {
+    organization: "MSC",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias todavía: elegí las que se adapten a la edad y al lugar.",
+    rules: [
+      "Siempre que puedas, invitá a las familias y a los mayores de la comunidad: son quienes guardan la tradición",
+      "Respetá las notas de seguridad de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Juegos Tradicionales",
+      description: "Juegos de patio, de kermés y de fiestas criollas que jugaron nuestros padres y abuelos."
+    },
+    B: {
+      title: "Costumbres",
+      description: "Lo que compartimos en la mesa, en el fogón y en las fiestas: el mate, la cocina criolla, la danza y las fechas patrias."
+    },
+    C: {
+      title: "Leyendas en Acción",
+      description: "Actividades que parten de una leyenda para descubrir la naturaleza real que la inspiró, jugarla o representarla."
+    },
+    D: {
+      title: "Nuestra Región",
+      description: "Investigar los pueblos originarios, la historia y las costumbres del lugar donde vivimos."
+    }
+  }
+},
+
 {
   id: "asdeaprendiendo",
   name: "Aprendiendo a Ser (ASDE)",
@@ -2512,6 +2949,64 @@ sections: {
   }
 },
 {
+  id: "asdefichas2001",
+  name: "Carpeta de Fichas 2001 (ASDE)",
+  description:
+    "Fichas de valores, paz y desarrollo, igualdad e integración, ambiente y orientación vocacional para todas las ramas, de la carpeta de actividades de ASDE - Scouts de España (2001).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Fichas de actividades para las ramas/secciones educativas»**, la carpeta que *ASDE - Scouts de España* publicó en 2001.\n\n<p>La carpeta reúne fichas para Castores, Lobatos, Scouts, Escultas y Rovers, organizadas por ámbito educativo. Las secciones siguen esos ámbitos y, dentro de cada uno, las fichas van ordenadas por rama.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Cuando una ficha trabaja sobre una canción, un poema o un cuento con derechos de autor, la obra se cita pero no se copia: cada dirigente la consigue por su cuenta.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades de la carpeta todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.\n\n<details class=\"license-details\"><summary>Fichas de la carpeta que no incluimos</summary><ul><li><b>Educación vial</b> (19 fichas): se basan en la ley y los organismos de tránsito de España. Para eso está la insignia Seguridad Vial.</li><li><b>Juegos de Kim</b>: ya está en el sitio (ver «El Juego de Kim»).</li><li><b>El náufrago</b>: el grupo vota a qué pasajero con discapacidad tirar al mar.</li><li><b>Cómo viven los demás</b> y <b>Silencio: juego límite</b>: simulan una discapacidad en la calle (horas con los ojos vendados o sin hablar), sin supervisión.</li><li><b>La Jaima</b>: propone reemplazar medicamentos por plantas, algunas tóxicas.</li></ul></details>",
+  logo: "/imagenes/insignias/asdefichas2001.png",
+  hero_image: "/imagenes/insignias/asdefichas2001-hero.jpg",
+  logo_prompt: "A round embroidered scout badge with an open ring binder of activity cards and a small campfire in front of it, warm colors, simple flat design.",
+  hero_prompt: "Scouts of all ages, from small children to young adults, sitting in a wide circle on the grass at a campsite, sharing a group activity with cards, paper and a guitar, tents and pine trees behind them, golden late-afternoon light.",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Fichas de actividades para las ramas/secciones educativas (2001) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/12935/carpetadefichasdeactividades2001_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Las canciones, poemas y películas que citan algunas fichas pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2001"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Algunas fichas son de 2001: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Educación en Valores",
+      description: "Cuentos, canciones y dinámicas para descubrir y pensar los valores, desde el lema de los Castores hasta la Promesa."
+    },
+    B: {
+      title: "Paz y Desarrollo",
+      description: "Derechos de los chicos, desigualdad entre países, refugiados, migraciones y formas noviolentas de resolver conflictos."
+    },
+    C: {
+      title: "Igualdad e Integración",
+      description: "Discapacidad, accesibilidad, prejuicios y juegos para que todos participen."
+    },
+    D: {
+      title: "Ambiente y Consumo Responsable",
+      description: "Las 3R, el agua, la contaminación, los ecosistemas, los medios y el cambio climático."
+    },
+    E: {
+      title: "Orientación Vocacional y Autoestima",
+      description: "Autoestima, profesiones, liderazgo y primeros pasos en la búsqueda de trabajo."
+    }
+  }
+},
+{
   id: "asdesaludtic",
   name: "Salud y TIC (ASDE)",
   description:
@@ -2564,6 +3059,64 @@ sections: {
   }
 },
 {
+  id: "asderepensar",
+  name: "Repensar el Mundo (ASDE)",
+  description:
+    "Actividades de educación para la paz y el desarrollo para todas las ramas: cooperación, derechos, consumo responsable, comercio justo, pobreza, globalización y participación, de ASDE - Scouts de España (2003).",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de **«Repensar el mundo. Educación para la Paz y el Desarrollo»**, el manual que *ASDE - Scouts de España* publicó en 2003.\n\n<p>El manual trae una propuesta de actividades para cada rama, de Castores a Rovers. Las secciones siguen esas ramas.\n\n<p>Cada ficha trae el texto original completo y una adaptación al lenguaje y las costumbres de Argentina, con notas para el educador. Las fichas son de 2003: los datos, campañas y sitios que mencionan pueden haber cambiado, y cada una lo avisa con una nota de actualización.\n\n<p>Las actividades son de ASDE; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las fichas que faltan:** algunas actividades del manual todavía no están acá porque se basan en material de otros autores u organizaciones y estamos esperando su permiso para publicarlas. No las dejamos afuera por una decisión editorial ni por su contenido: se van a sumar en cuanto llegue la autorización.",
+  logo: "/imagenes/insignias/asderepensar.png",
+  hero_image: "/imagenes/insignias/asderepensar-hero.jpg",
+  logo_prompt: "A round embroidered scout badge showing the Earth held by two hands, with a small olive branch, blue and green tones, simple flat design.",
+  hero_prompt: "Young scouts gathered around a large world map spread on a wooden table in a scout hall, connecting countries with string and paper notes, a globe and fair trade products nearby, natural light from a window.",
+  sources: [
+    {
+      name: "ASDE - Scouts de España, Repensar el mundo. Educación para la Paz y el Desarrollo (2003) – Biblioteca Scout",
+      url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/13444/repensar_el_mundo2003_cmp.pdf"
+    }
+  ],
+  license: {
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "La publicación original de ASDE - Scouts de España está en la Biblioteca Scout de ASDE bajo licencia Creative Commons BY-NC-SA 4.0. Las adaptaciones son de Fogata de Recursos y se comparten bajo la misma licencia. Los textos de otros autores que cita el manual pertenecen a sus autores y no se reproducen."
+  },
+  attribution: {
+    organization: "ASDE - Scouts de España",
+    year: "2003"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Respetá las notas de seguridad y de cuidado de cada actividad",
+      "Las fichas son de 2003: revisá las notas de actualización"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Castores",
+      description: "Juegos cooperativos para descubrir que llegamos más lejos juntos."
+    },
+    B: {
+      title: "Lobatos",
+      description: "Necesidades básicas, derechos de los chicos y valores de paz."
+    },
+    C: {
+      title: "Scouts",
+      description: "Los conflictos del mundo, la intolerancia y cómo construir la paz."
+    },
+    D: {
+      title: "Escultas / Caminantes",
+      description: "Consumo responsable, comercio justo y las dimensiones de la pobreza."
+    },
+    E: {
+      title: "Rovers / Compañeros",
+      description: "Globalización, participación ciudadana y democracia."
+    }
+  }
+},
+{
   id: "asdecoeducacion",
   name: "Coeducación: Jugando Juntos y Juntas (ASDE)",
   description:
@@ -2612,11 +3165,71 @@ sections: {
   }
 },
 {
+  id: "manosunidas",
+  name: "Manos Unidas",
+  description:
+    "Dinámicas, juegos y cuentos de educación para el desarrollo de Manos Unidas: valores, desigualdad, alimentación, consumo, paz y derechos humanos.",
+  summary:
+    "*Esta no es una insignia oficial*: es una colección de actividades tomadas de los **recursos educativos de Manos Unidas**, la ONG española de cooperación para el desarrollo, que los publica para docentes de Infantil, Primaria y Secundaria.\n\n<p>Las secciones siguen los temas de su sitio. Las actividades se adaptan al lenguaje y las costumbres de Argentina, con notas para el educador, y se reparten por rama según la edad para la que fueron pensadas.\n\n<p>Las actividades son de Manos Unidas, que autorizó su publicación; acá solo las adaptamos y las acercamos a otros dirigentes.\n\n<p>**Sobre las actividades:** la colección recién empieza. Por ahora tiene una sola ficha, y el resto se va a sumar en las próximas semanas.",
+  logo: "/imagenes/insignias/manosunidas.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "A group of scouts aged 7 to 16 from different backgrounds sitting on the grass in a circle around a large world map spread on the ground, placing small paper cutouts of food, water drops and houses on different countries while talking, a leader kneeling with them, trees and a scout hall behind, warm afternoon light.",
+  sources: [
+    {
+      name: "Manos Unidas – Recursos educativos",
+      url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos"
+    }
+  ],
+  license: {
+    type: "© Manos Unidas – Publicación autorizada por Manos Unidas",
+    url: "https://www.manosunidas.org/donde-trabajamos/espana/profesores-alumnos/recursos-educativos",
+    note: "Manos Unidas autorizó el 18/11/2026 el uso de su material educativo. El permiso no cubre obras de otros autores que ese material cite (relatos, canciones, videos): esas se citan, no se copian."
+  },
+  attribution: {
+    organization: "Manos Unidas",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: es una colección para elegir libremente según la rama y el momento del año.",
+    rules: [
+      "Elegí las actividades que mejor se adapten a tu rama, su edad y el lugar",
+      "Cerrá cada dinámica con el momento de reflexión que propone la ficha: es donde está el aprendizaje"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Valores y Convivencia",
+      description: "Empatía, escucha, compromiso, justicia y trabajo en equipo."
+    },
+    B: {
+      title: "Desigualdad y Pobreza",
+      description: "Cómo se reparten la riqueza y las oportunidades en el mundo, y qué significa ser pobre."
+    },
+    C: {
+      title: "Alimentos y Agua",
+      description: "La alimentación y el agua como derechos de todas las personas."
+    },
+    D: {
+      title: "Consumo y Ambiente",
+      description: "Nuestro rol como consumidores y el cuidado del planeta."
+    },
+    E: {
+      title: "Paz, Derechos Humanos y Género",
+      description: "La paz como justicia, los derechos humanos y la igualdad entre varones y mujeres."
+    },
+    F: {
+      title: "Cuentos para Castores",
+      description: "Cuentos ilustrados con actividades para los más chicos: amistad, respeto, solidaridad, responsabilidad y generosidad."
+    }
+  }
+},
+{
   id: "general",
   name: "Actividades Generales",
   description:
     "Actividades scouts sin una insignia específica asociada.",
-  logo: "/imagenes/insignias/general-logo.png",
+  logo: "/imagenes/insignias/general-sitio.png",
   hero_image: "/imagenes/insignias/general-hero.png",
    generic: true,
   license: {

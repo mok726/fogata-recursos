@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/campana-de-carteles-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "5-25"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para dibujar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/red-de-vida.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "8-15"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con espacio para círculo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

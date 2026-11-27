@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/arte-de-reutilizar-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "5-25"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para manualidades"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

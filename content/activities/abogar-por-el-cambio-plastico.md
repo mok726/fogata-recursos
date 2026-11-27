@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Individual o grupo"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Espacio para escribir"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -116,7 +116,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 category:
   - Advocacy
   - Política

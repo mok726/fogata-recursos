@@ -1,0 +1,63 @@
+---
+title: Competencias por Rama
+description: "Los rastros de Manada y las competencias de Unidad Scout, Caminantes y Rovers que aparecen numerados en cada actividad de Fogata de Recursos."
+layout: layouts/base.njk
+permalink: /competencias/
+styles:
+  - /css/competencias.css
+---
+{# Referencia de los números que aparecen en «Programa Scout» de
+   cada ficha. Cada ítem tiene un ancla <rama>-<número>, que es a
+   donde apunta el número desde la ficha. #}
+{% set ramasRef = [
+  { id: "manada",     name: "Manada",       titulo: "Rastros",      pill: "lobatos",    agrupa: "categoria", img: "manada" },
+  { id: "scouts",     name: "Unidad Scout", titulo: "Competencias", pill: "scouts",     agrupa: "categoria", img: "unidad-scout" },
+  { id: "caminantes", name: "Caminantes",   titulo: "Competencias", pill: "caminantes", agrupa: "categoria", img: "caminantes" },
+  { id: "rovers",     name: "Rovers",       titulo: "Competencias", pill: "rovers",     agrupa: "ruta",      img: "rovers" }
+] %}
+{% set datos = competencias[0].ramas %}
+
+<section class="ps">
+
+  <header class="ps-header">
+    <h1>Competencias por Rama</h1>
+    <p>En cada actividad, el recuadro «Programa Scout» muestra con números qué rastros (Manada) o competencias (Unidad Scout, Caminantes y Rovers) se pueden trabajar con ella. Acá está la lista completa de cada rama, con su número.</p>
+    <nav class="ps-nav" aria-label="Ramas">
+      {% for r in ramasRef %}
+        <a href="#{{ r.id }}">
+          <img src="{{ ('/imagenes/ramas/' + r.img + '.png') | thumb("rama") | url }}" alt="" width="32" height="32">
+          {{ r.name }}
+        </a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  {% for r in ramasRef %}
+  <section class="ps-rama" id="{{ r.id }}">
+    <h2>
+      <img src="{{ ('/imagenes/ramas/' + r.img + '.png') | thumb("rama") | url }}" alt="" width="48" height="48">
+      {{ r.name }} <span class="ps-sub">· {{ r.titulo }}</span>
+    </h2>
+
+    {% set grupoActual = "" %}
+    {% for c in datos[r.id] %}
+      {% set grupo = c[r.agrupa] %}
+      {% if grupo != grupoActual %}
+        {% if not loop.first %}</ol>{% endif %}
+        <h3>{{ "Ruta" if r.agrupa == "ruta" else "" }}{{ ": " if r.agrupa == "ruta" else "" }}{{ grupo }}</h3>
+        <ol class="ps-lista">
+        {% set grupoActual = grupo %}
+      {% endif %}
+        <li class="ps-item" id="{{ r.id }}-{{ c.numero }}">
+          <span class="competencia-pill {{ r.pill }}">{{ c.numero }}</span>
+          {% if c.icon %}
+          <img class="ps-icono" src="{{ ('/imagenes/competencias/manada/' + c.icon) | thumb("rastro") | url }}" alt="" width="56" height="56" loading="lazy">
+          {% endif %}
+          <span class="ps-desc">{{ c.descripcion }}</span>
+        </li>
+      {% if loop.last %}</ol>{% endif %}
+    {% endfor %}
+  </section>
+  {% endfor %}
+
+</section>

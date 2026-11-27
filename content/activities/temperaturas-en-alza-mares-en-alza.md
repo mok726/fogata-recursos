@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/temperaturas-en-alza-mares-en-alza.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -98,7 +98,7 @@ main_type: "Experimento"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A large transparent container with a small island and melting ice cubes, showing rising water levels, dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting the experiment and marking water levels. Climate change and environmental science atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para el experimento"
 prep_time: "15 min"
 participants: "4-15"

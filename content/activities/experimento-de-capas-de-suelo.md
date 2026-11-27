@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/experimento-de-capas-de-suelo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -47,7 +47,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior/Exterior"
+location: "Interior o exterior"
 space_required: "Jardín o espacio con macetas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

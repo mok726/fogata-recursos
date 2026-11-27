@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -101,13 +101,13 @@ complexity_execution: 3  # Requiere investigación
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A team researching different forms of malnutrition and their causes worldwide dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting findings. Global malnutrition awareness and research atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para investigar y presentar"
 prep_time: "15 min"
 participants: ""
@@ -118,7 +118,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Malnutrición

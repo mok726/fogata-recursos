@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/cancion-viento-o-sol.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para trabajar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

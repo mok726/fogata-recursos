@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/entrevista-a-un-cientifico.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para entrevista"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -110,14 +110,14 @@ complexity_execution: 3  # Requiere coordinación
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A scientist being interviewed about biodiversity with a recorder and notebook on the table dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, interviewing a scientist and recording the conversation. Scientific research environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Ciencia
   - Entrevista

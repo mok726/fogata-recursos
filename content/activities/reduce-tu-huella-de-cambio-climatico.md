@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -95,7 +95,7 @@ main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people reflecting on their carbon footprint and making a plan to reduce their environmental impact dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, calculating their footprint. Environmental responsibility and sustainable lifestyle atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para reflexionar y planificar"
 prep_time: "15 min"
 participants: "4-15"

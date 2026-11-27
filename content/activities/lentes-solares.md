@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/lentes-solares.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -44,7 +44,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para manualidades"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

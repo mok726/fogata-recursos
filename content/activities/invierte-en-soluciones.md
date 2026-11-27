@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/invierte-en-soluciones.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón o espacio para evento"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

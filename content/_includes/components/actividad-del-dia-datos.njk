@@ -9,6 +9,7 @@
     "url": {{ ((site.url if absoluto else "") + (it.url | url)) | dump | safe }},
     "image": {{ ((site.url if absoluto else "") + (img | url)) | dump | safe }},
     "redes": {{ ((site.url if absoluto else "") + (("/redes/" + d.fecha + ".jpg") | url)) | dump | safe }},
+    "redesPng": {{ ((site.url if absoluto else "") + (("/redes/" + d.fecha + ".png") | url)) | dump | safe }},
     "card": {{ ((site.url if absoluto else "") + (it.data.image | thumb("card") | url)) | dump | safe }}
   }{% if not loop.last %},{% endif %}{% endfor %}
 ]

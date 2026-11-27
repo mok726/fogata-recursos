@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/conoce-tu-consumo-de-electricidad.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -111,14 +111,14 @@ complexity_execution: 3  # Requiere análisis
 complexity_organizer: 2  # Requiere materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Charts and graphs showing electricity consumption from highest to lowest dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, analyzing electricity usage and creating energy-saving plans. Energy analysis environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Energía
   - Consumo

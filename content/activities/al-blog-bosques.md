@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/al-blog-bosques.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -107,7 +107,7 @@ main_type: "Campaña"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A laptop or computer screen showing a blog about forest conservation with photos and content dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, working on computers and taking photos in the forest. Digital communication and environmental education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio con computadoras y bosque para fotografías"
 prep_time: "30 min"
 participants: ""

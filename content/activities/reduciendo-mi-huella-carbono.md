@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/reduciendo-mi-huella-carbono.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "6-30"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para círculo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -1,0 +1,192 @@
+# Hitos de la línea de tiempo (/linea-de-tiempo/) cargados a mano.
+#
+# Las insignias nuevas, las tandas grandes de fichas y las cantidades
+# redondas de fichas publicadas se agregan SOLAS desde el historial de
+# git en cada build: no hace falta cargarlas acá.
+#
+# Cada hito:
+#   - fecha: "2019-03-15"   # vale "2019", "2019-03", "2019-03-15" o texto
+#                           # libre como "aprox. 2015" (se ordena por el año)
+#     titulo: "Título corto"
+#     texto: "Una o dos líneas (opcional)."
+#     tipo: inicio          # inicio, fuente, sitio, insignia, permiso (verde),
+#                           # logro (dorado), licencia, redes, otro (ícono y color)
+#     enlace: "/acerca-de/" # opcional: ruta del sitio o URL completa
+#
+# El orden no importa: se ordenan por fecha al construir el sitio.
+
+# ========== ANTES DEL SITIO ==========
+# Fechas aproximadas: sirven para contar la historia, no son exactas.
+
+- fecha: "2021"
+  titulo: "Empiezo en la Manada"
+  texto: "Tengo poca idea de actividades y la experiencia universitaria no se adapta al mundo scout. Google trae cientos de resultados: muchos ya no existen, otros piden suscribirse, y lo útil es difícil de encontrar. Y lo peor: «el otro día vi la actividad ideal… ¿dónde era?»."
+  tipo: inicio
+
+- fecha: "2022-01"
+  titulo: "El acumulador"
+  texto: "Empiezo a juntar todo: PDFs, páginas guardadas, archivos de texto con ideas copiadas de internet, de WhatsApp o de lo que veo hacer en encuentros. Un índice local me ayuda a encontrar el archivo, pero después hay que abrirlo y buscar a mano."
+  tipo: inicio
+
+- fecha: "2022-06"
+  titulo: "Primer formato estándar: planillas CSV"
+  texto: "Empiezo con 5 columnas y termino con 12. Primero copio a mano a Excel; después escribo scripts en PowerShell que parsean los textos y los ubican en cada campo. El resto del año se va en estandarizar."
+  tipo: sitio
+
+- fecha: "2022-09"
+  titulo: "Scripts de búsqueda"
+  texto: "PowerShell, después bash y después Python, para buscar mejor y arreglar los errores que voy descubriendo."
+  tipo: sitio
+
+- fecha: "2022-11"
+  titulo: "El formato de Champions for Nature"
+  texto: "Encuentro el Action Kit de Champions for Nature y me encanta su formato. Lo tomo como base para mis fichas."
+  tipo: fuente
+  enlace: "https://scouts.com.au/wp-content/uploads/2020/10/Champions-for-Nature-Challenge_Action.kit_WEB_0.pdf"
+
+- fecha: "2023-01"
+  titulo: "La Manada elige Go Solar"
+  texto: "La Manada decide hacer actividades de naturaleza y el primer programa elegido es Go Solar."
+  tipo: fuente
+
+- fecha: "2023-03"
+  titulo: "Fichas lindas: CSV → Word → PDF"
+  texto: "Recreo el formato en Word y uso la combinación de correspondencia para convertir cada ficha del CSV en un PDF. Lleva bastante trabajo manual, pero el resultado es hermoso."
+  tipo: sitio
+
+- fecha: "2023-06"
+  titulo: "Dos desafíos a la vez"
+  texto: "La Manada pide más naturaleza y elige hacer Campeones de la Naturaleza y Plastic Tide Turners al mismo tiempo. Como no había plan de actividades en el país, armamos uno para cada desafío con mis fichas, el logo de la Manada y los datos del Grupo. Mundo Mejor (SAAC) aprueba las propuestas: la Manada ya tiene sus desafíos."
+  tipo: fuente
+
+- fecha: "2023-07"
+  titulo: "Primeras actividades propias"
+  texto: "Para que la Manada complete Campeones de la Naturaleza y Plastic Tide Turners creo o adapto mis primeros talleres: La Basura en Su Lugar, Tejido de Papel y de Plástico, Botella de Amor, Huerta de Botella, Macetas y Germinadoras, Leños Ecológicos y Papel Ecológico."
+  tipo: inicio
+  enlace: "/badges/general/"
+
+- fecha: "2023-10"
+  titulo: "Tres programas completos"
+  texto: "En unos meses la Manada completa los tres. Me convence de seguir documentando en el formato estándar: sirve para trabajar y para que los chicos elijan actividades."
+  tipo: inicio
+
+- fecha: "2024-01"
+  titulo: "A traducir se ha dicho"
+  texto: "Muchísimas actividades estaban en inglés y no las podía compartir. Busco versiones en español o traduzco, primero a lo bruto (cantidad antes que calidad) y después depurando. La traducción va al CSV; el PDF lindo se regenera cuando hace falta."
+  tipo: fuente
+
+- fecha: "2024-07"
+  titulo: "Lindo o buscable"
+  texto: "El formato lindo pierde las búsquedas: busco con los scripts sobre el CSV y comparto los PDF. Sí, es un engendro, pero funciona."
+  tipo: otro
+
+- fecha: "2025-02"
+  titulo: "La idea de un sitio web"
+  texto: "Pienso en un programa que guarde, busque y muestre las fichas, pero quiero poder compartirlas sin generar un PDF cada vez. Mejor una página web: gratis, sin publicidad ni seguimiento, apta para celular, para chicos y para docentes, sencilla y con espíritu scout."
+  tipo: sitio
+
+- fecha: "2025-05"
+  titulo: "RE-PO-D-Phi-Chas"
+  texto: "Primeras versiones en HTML de mi «repositorio de fichas» (así se llamaba en mi cabeza; sin comentarios). La idea era hostear páginas estáticas en Azure y listo."
+  tipo: sitio
+
+- fecha: "2025-10"
+  titulo: "Eleventy y Markdown"
+  texto: "Después de mucho pelear, investigar y aprender, descubro opciones mejores: Nunjucks + Eleventy, con las fichas pasadas de CSV a archivos .md."
+  tipo: sitio
+
+- fecha: "2026-04"
+  titulo: "Algo no tan feo"
+  texto: "Las primeras versiones presentables, todavía en mi máquina."
+  tipo: sitio
+
+# ========== EL SITIO ==========
+
+- fecha: "2026-05-21"
+  titulo: "Nace el sitio en GitHub Pages"
+  texto: "Descubro que puedo publicarlo gratis en GitHub Pages, con más opciones de las que había soñado. Arranco con unas 100 fichas (otro script, de CSV a .md) para probar; después se van intercalando mejoras del sitio con más insignias."
+  tipo: logro
+
+- fecha: "2026-05-28"
+  titulo: "Nueva funcionalidad: sitemap, página 404 y vista previa para compartir"
+  tipo: sitio
+
+- fecha: "2026-06-18"
+  titulo: "Nueva funcionalidad: clasificación educativa"
+  texto: "Las fichas se ordenan y filtran en base a sus propiedades, comenzando por habilidades."
+  tipo: sitio
+
+- fecha: "2026-06-22"
+  titulo: "Nueva funcionalidad: versión imprimible con QR"
+  texto: "Cada ficha se puede imprimir o guardar en PDF, con un QR que lleva a la versión en línea. Esto permite llevarlo al campamento o salida sin necesitar el celular ni señal."
+  tipo: sitio
+
+- fecha: "2026-10-25"
+  titulo: "Nueva funcionalidad: gran puesta a punto"
+  texto: "Buscador y filtros nuevos, imágenes livianas, publicación automática y rediseño de la portada y del listado de actividades."
+  tipo: sitio
+
+- fecha: "2026-10-26"
+  titulo: "Licencias y permisos"
+  texto: "Al revisar con más cuidado veo que no todo es libre: varias fuentes no permiten publicar sin autorización. Escribo a los titulares pidiendo permiso, dejo en espera lo no autorizado y me enfoco en lo que es de dominio público o tiene licencias abiertas. El contenido propio va con CC BY-NC-SA 4.0 y el código con MIT."
+  tipo: licencia
+  enlace: "/licencia/"
+
+- fecha: "2026-11-05"
+  titulo: "Nueva funcionalidad: actividad del día en redes"
+  texto: "Cada mañana se elige una actividad y se anuncia en Telegram, Facebook e Instagram."
+  tipo: redes
+
+- fecha: "2026-11-06"
+  titulo: "Nueva funcionalidad: taxonomías propias y política editorial"
+  texto: "Habilidades, valores, método y tipos de actividad con definiciones y criterios. Entre el 6 y el 10/11 se revisan ficha por ficha."
+  tipo: sitio
+  enlace: "/politica-editorial/"
+
+- fecha: "2026-11-09"
+  titulo: "Primer permiso: Solafrica"
+  texto: "Solafrica autoriza publicar el material de Go Solar."
+  tipo: permiso
+
+- fecha: "2026-11-13"
+  titulo: "Nueva funcionalidad: buscador por autor y fuente"
+  tipo: sitio
+
+- fecha: "2026-11-18"
+  titulo: "Permiso de Manos Unidas"
+  texto: "Manos Unidas autoriza publicar su material."
+  tipo: permiso
+
+- fecha: "2026-11-19"
+  titulo: "Aviso sobre el uso de inteligencia artificial"
+  texto: "Decido aclarar en el sitio para qué uso la inteligencia artificial y para qué no."
+  tipo: otro
+  enlace: "/aviso-legal/#uso-de-inteligencia-artificial"
+
+- fecha: "2026-11-21"
+  titulo: "Nueva funcionalidad: sección Material de apoyo"
+  texto: "Leyendas, cuentos, adivinanzas y coplas para usar en las actividades."
+  tipo: sitio
+  enlace: "/material/"
+
+- fecha: "2026-11-23"
+  titulo: "Dominio propio: fogata.com.ar"
+  tipo: logro
+
+- fecha: "2026-11-24"
+  titulo: "Nueva funcionalidad: actividades de día y de noche, adentro y afuera"
+  texto: "Filtros nuevos por momento y lugar, juegos nocturnos propios, y notas de seguridad y para el educador en bloques propios."
+  tipo: sitio
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: vista docente o scout"
+  texto: "Más filtros, competencias por rama y referencia del Programa Scout."
+  tipo: sitio
+  enlace: "/activities/"
+
+- fecha: "2026-11-25"
+  titulo: "Nueva funcionalidad: Mi Mochila"
+  texto: "Guardar actividades y armar el plan de la reunión."
+  tipo: sitio
+  enlace: "/mi-mochila/"
+

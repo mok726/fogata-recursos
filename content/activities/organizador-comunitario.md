@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/organizador-comunitario.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -98,7 +98,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A young community organizer planning an event to raise public awareness about a local issue, with banners and posters, contacting local media dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the event. Community organizing and advocacy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para el evento"
 prep_time: "30 min"
 participants: "4-30"

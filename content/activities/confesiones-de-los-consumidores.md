@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/confesiones-de-los-consumidores.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -100,13 +100,13 @@ complexity_execution: 2  # Sencilla de ejecutar
 complexity_organizer: 1  # Muy baja complejidad organizativa
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person writing in a journal surrounded by everyday products and consumption choices dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining products and discussing consumption habits. Personal reflection and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Hogar y espacio para reunión grupal"
 prep_time: "5 min"
 participants: ""
@@ -117,7 +117,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Consumo

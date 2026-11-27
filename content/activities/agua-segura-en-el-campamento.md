@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -116,7 +116,7 @@ image_prompt: "Scouts examining a clear mountain stream in the forest, one holdi
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Experimento
-  - Indagación
+  - Investigación
 category:
   - Técnicas scout
   - Campamento

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/seek-inaturalist.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

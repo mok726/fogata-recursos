@@ -4,365 +4,157 @@
 <head>
   <meta charset="utf-8">
 
+  {# Vista «docente» o «scout» (?modo=...), igual que en el resto del sitio. #}
+  <script>
+  (function () {
+    var m = new URLSearchParams(location.search).get('modo');
+    if (m === 'docente' || m === 'scout') document.documentElement.setAttribute('data-modo', m);
+  })();
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ activity.data.title }}</title>
 
   {# Versión imprimible: los buscadores deben indexar la ficha normal. #}
   <link rel="canonical" href="{{ site.url }}{{ activity.url | url }}">
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
 
-
-<!-- Google Fonts (text) – keep if you use it -->
-<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
-
-<!-- Google Material Symbols (icons) – add this -->
-<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
-
-
-
-<!--
-<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
--->
-
-  <link rel="stylesheet" href="{{ '/css/components/print.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/components/print.css' | url }}?v={{ buildDate.getTime() }}">
 </head>
 
 <body>
 
+{% set d = activity.data %}
+
+{# El encabezado se repite en cada hoja (thead). El pie lo pone el
+   navegador (fecha, URL y número de página). #}
 <table class="print-document">
-
   <thead>
-
-    <tr>
-      <td>
-
-
-
-<header class="print-header">
-
-  <img
-    src="{{ '/imagenes/favicon.png' | url }}"
-    class="header-logo"
-    alt="Fogata">
-
-  <div class="header-center">
-    {{ site.name }}
-  </div>
-
-  <img
-    src="{{ '/imagenes/favicon.png' | url }}"
-    class="header-logo"
-    alt="Fogata">
-
-</header>
-
-
-
-<div class="header-line"></div>
-
-      </td>
-    </tr>
-
+    <tr><td>
+      <header class="print-header">
+        <div class="ph-marca">
+          <img src="{{ '/imagenes/favicon.png' | url }}" class="ph-logo" alt="">
+          <span>{{ site.name }}</span>
+        </div>
+        <div class="ph-ficha">
+          {% if d.activity_code %}<span>{{ d.activity_code }}</span>{% endif %}
+          {% if d.version %}<span>v{% if d.version | isDraft %} borrador{% else %}{{ d.version }}{% endif %}</span>{% endif %}
+        </div>
+      </header>
+    </td></tr>
   </thead>
 
   <tbody>
+    <tr><td>
+<main class="print-main">
 
-    <tr>
-      <td>
+  <section class="pf-titulo">
+    <h1>{{ d.title }}</h1>
+    {% if d.summary %}<p class="pf-bajada">{{ d.summary }}</p>{% endif %}
+  </section>
 
+  {# ---------- Datos rápidos ---------- #}
+  <section class="pf-datos">
+    <div class="pf-chips">
+      {% if d.duration %}
+      <div class="pf-chip"><span class="material-symbols-outlined" aria-hidden="true">schedule</span>
+        <div><span class="pf-chip-et">Duración</span>{{ d.duration }}{% if d.duration_detail %}<small>{{ d.duration_detail }}</small>{% endif %}</div></div>
+      {% endif %}
+      {% if d.age_group %}
+      <div class="pf-chip"><span class="material-symbols-outlined" aria-hidden="true">cake</span>
+        <div><span class="pf-chip-et">Edades</span>{{ d.age_group | ageRange }}</div></div>
+      {% endif %}
+      {% if d.participants %}
+      <div class="pf-chip"><span class="material-symbols-outlined" aria-hidden="true">groups</span>
+        <div><span class="pf-chip-et">Participantes</span>{{ d.participants }}</div></div>
+      {% endif %}
+      {% if d.location %}
+      <div class="pf-chip"><span class="material-symbols-outlined" aria-hidden="true">share_location</span>
+        <div><span class="pf-chip-et">Lugar</span>{{ d.location }}{% if d.location_detail %}<small>{{ d.location_detail }}</small>{% endif %}</div></div>
+      {% endif %}
+    </div>
 
-<main class="print-page">
+    {% set niveles = [
+      ["Ejecución", d.complexity_execution],
+      ["Organización", d.complexity_organizer],
+      ["Lúdico", d.ludic_component],
+      ["Reflexivo", d.reflective_component],
+      ["Activo", d.active_component]
+    ] %}
+    <div class="pf-niveles">
+      {% for n in niveles %}{% if n[1] %}
+      <div class="pf-nivel">
+        <span class="pf-nivel-et">{{ n[0] }}</span>
+        <span class="pf-puntos" aria-label="{{ n[1] }} de 5">{% for k in range(1, 6) %}<i class="{{ 'on' if k <= n[1] else '' }}"></i>{% endfor %}</span>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  </section>
 
+  {# ---------- Para qué sirve ---------- #}
+    <section class="pf-programa">
 
-<aside class="print-sidebar">
-
-  <div class="sidebar-box">
-
-    <div class="sidebar-section">
-
-  <h3>Ficha Técnica</h3>
-
-
-      {% if activity.data.duration %}
-      <div class="meta-item">
-        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">schedule</span>  {{ activity.data.duration  or "N/E" }}{% if activity.data.duration_detail %} ({{ activity.data.duration_detail }}){% endif %}
+      {% if d.skills %}
+      <div class="pf-caja">
+        <h2 class="pf-caja-tit">Habilidades</h2>
+        <ul>{% for item in d.skills %}<li>{{ item }}</li>{% endfor %}</ul>
       </div>
       {% endif %}
 
-      {% if activity.data.age_group %}
-      <div class="meta-item">
-          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">productivity</span>  {{ activity.data.age_group | ageRange }}
+      {% if d.scout_method %}
+      <div class="pf-caja" data-modo-scout>
+        <h2 class="pf-caja-tit">Método Scout</h2>
+        <ul>{% for item in d.scout_method %}<li>{{ item }}</li>{% endfor %}</ul>
       </div>
       {% endif %}
 
-      {% if activity.data.participants %}
-       <div class="meta-item">
-        <span><span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">groups</span>  {{ activity.data.participants or "N/E" }}</span>
+      {% if d.scout_values %}
+      <div class="pf-caja" data-modo-scout>
+        <h2 class="pf-caja-tit">Valores Scout</h2>
+        <ul>{% for item in d.scout_values %}<li>{{ item }}</li>{% endfor %}</ul>
       </div>
-    {% endif %}
-
-
-      {% if activity.data.location %}
-       <div class="meta-item">
-          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">share_location</span>  {{ activity.data.location }}
-      </div>
-     {% endif %}
-
-
-  {% if activity.data.complexity_execution %}
-  <div class="meta-item">
-    <div class="meta-label">Ejecución:</div>
-    <div class="meta-value">
-      {{ "★".repeat(activity.data.complexity_execution) }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.complexity_organizer %}
-  <div class="meta-item">
-    <div class="meta-label">Organización:</div>
-    <div class="meta-value">
-      {{ "★".repeat(activity.data.complexity_organizer) }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.ludic_component %}
-  <div class="meta-item">
-    <div class="meta-label">Lúdico:</div>
-    <div class="meta-value">
-      {{ "★".repeat(activity.data.ludic_component) }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.reflective_component %}
-  <div class="meta-item">
-    <div class="meta-label">Reflexivo:</div>
-    <div class="meta-value">
-      {{ "★".repeat(activity.data.reflective_component) }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.active_component %}
-  <div class="meta-item">
-    <div class="meta-label">Activo:</div>
-    <div class="meta-value">
-      {{ "★".repeat(activity.data.active_component) }}
-    </div>
-  </div>
-  {% endif %}
-
-
-
-<!--
-  {% if activity.data.branch %}
-  <div class="meta-item">
-    <div class="meta-label"> ^area:</div>
-    <div class="meta-value">
-      {{ activity.data.branch | join(", ") }}
-    </div>
-  </div>
-  {% endif %}
-
-
-  {% if activity.data.prep_time %}
-  <div class="meta-item">
-    <div class="meta-label">Preparación:</div>
-    <div class="meta-value">
-      {{ activity.data.prep_time }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.space_required %}
-  <div class="meta-item">
-    <div class="meta-label">Espacio:</div>
-    <div class="meta-value">
-      {{ activity.data.space_required }}
-    </div>
-  </div>
-  {% endif %}
-
--->
-
-
-  {% if activity.data.activity_code %}
-  <div class="meta-item">
-    <div class="meta-label">ID:</div>
-    <div class="meta-value">
-      {{ activity.data.activity_code }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.version %}
-  <div class="meta-item">
-    <div class="meta-label">Versión:</div>
-    <div class="meta-value">
-      {% if activity.data.version | isDraft %}
-        BORRADOR
-      {% else %}
-        {{ activity.data.version }}
       {% endif %}
-    </div>
-  </div>
-  {% endif %}
 
-
-
-<!--
-  <div class="meta-item">
-    <div class="meta-label">Creado:</div>
-    <div class="meta-value">
-    </div>
-  </div>
--->
-  <div class="meta-item">
-    <div class="meta-label">Impreso:</div>
-    <div class="meta-value">
-      <span id="print-date"></span>
-    </div>
-  </div>
-
-
-
-
-
-    </div>
-
-    {% if activity.data.materials %}
-    <div class="sidebar-section">
-      <h3>Materiales</h3>
-      <ul>
-      {% for item in activity.data.materials %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    {% if activity.data.skills %}
-    <div class="sidebar-section">
-      <h3>Habilidades</h3>
-      <ul>
-      {% for item in activity.data.skills %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-
-    {% if activity.data.activity_badges %}
-    <div class="sidebar-section">
-      <h3>Insignias</h3>
-
-      <div class="icon-grid">
-
-        {% for rawBadge in activity.data.activity_badges %}
-        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-        {% set badgeInfo = badgeId | badgeById(badges) %}
-          <img
-             src="{{ (badgeId | badgeLogo(badges)) | url }}"
-                alt="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}"   title="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}" class="badge-icon">
-        {% endfor %}
+      {% if d.activity_badges or d.sdgs %}
+      <div class="pf-caja">
+        {% if d.activity_badges %}
+        <h2 class="pf-caja-tit">Insignias</h2>
+        <div class="icon-grid">
+          {% for rawBadge in d.activity_badges %}
+          {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+          {% set badgeInfo = badgeId | badgeById(badges) %}
+          <img src="{{ (badgeId | badgeLogo(badges)) | url }}"
+               alt="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}"
+               title="{{ badgeInfo.name if badgeInfo else 'Actividades Generales' }}" class="badge-icon">
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if d.sdgs %}
+        <h2 class="pf-caja-tit">ODS</h2>
+        <div class="icon-grid">
+          {% for item in d.sdgs %}
+          <img src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}" class="ods-icon" alt="ODS {{ item }}">
+          {% endfor %}
+        </div>
+        {% endif %}
       </div>
-    </div>
-    {% endif %}
+      {% endif %}
 
-    {% if activity.data.sdgs %}
-    <div class="sidebar-section">
-      <h3>ODS</h3>
-       <div class="icon-grid">
-        {% for item in activity.data.sdgs %}
-          <img
-            src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}"
-            class="ods-icon"
-            alt="ODS {{ item }}">
-        {% endfor %}
-      </div>    
-    </div>
-    {% endif %}
+    </section>
 
-
-
-{% if
-    activity.data.scout_method or
-    activity.data.scout_values or
-    activity.data.prep_time or
-    activity.data.space_required
-%}
-
-<div class="sidebar-section">
-
-  {% if activity.data.scout_method %}
-    <div class="sidebar-section">
-      <h3>MÉtodo Scout</h3>
-      <ul>
-      {% for item in activity.data.scout_method %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
+  {% if d.materials %}
+  <section class="pf-caja pf-materiales">
+    <h2 class="pf-caja-tit"><span class="material-symbols-outlined" aria-hidden="true">inventory_2</span> Materiales</h2>
+    <ul>
+    {% for item in d.materials %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+  </section>
   {% endif %}
 
-  {% if activity.data.scout_values %}
-    <div class="sidebar-section">
-      <h3>Valores Scout</h3>
-      <ul>
-      {% for item in activity.data.scout_values %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
-
-
-
-
-</div>
-
-
-
-  {% endif %}
-
-
-
-
-
-
-{% if activity.fileSlug %}
-<div class="sidebar-section">
-
-  <h3>Ver online</h3>
-
-  <img
-    src="{{ '/imagenes/actividades/qr/' | url }}{{ activity.fileSlug }}.png"
-    class="activity-qr"
-    alt="QR de la actividad">
-
-  <div class="qr-url">
-    {{ site.url }}{{ activity.url | url }}
-  </div>
-
-</div>
-{% endif %}
-
-  </div>
-
-</aside>
-
-
+  {# ---------- Desarrollo ---------- #}
   <section class="print-content">
-
-    <h1>{{ activity.data.title }}</h1>
-
-    {% if activity.data.summary %}
-    <div class="activity-summary">
-      {{ activity.data.summary }}
-    </div>
-    {% endif %}
-
     {% set sections = activity.templateContent | splitBySections %}
 
     {% for section in sections %}
@@ -385,247 +177,26 @@
       {% endif %}
 
     {% endfor %}
+  </section>
 
-{#
-
-    {% if activity.data.references %}
-    <section class="print-section">
-
-      <h2>Referencias</h2>
-
-      <ul>
-
-      {% for ref in activity.data.references %}
-        <li>
-
-          <strong>{{ ref.title }}</strong>
-
-          {% if ref.author %}
-          — {{ ref.author }}
-          {% endif %}
-
-          {% if ref.url %}
-          <br>
-          {{ ref.url }}
-          {% endif %}
-
-        </li>
-      {% endfor %}
-
-      </ul>
-
-    </section>
-    {% endif %}
-
-
-#}
-
-{#
-{% if activity.data.files | length %}
-<section class="print-section">
-
-  <h2>Recursos descargables</h2>
-
-  <div class="resource-list">
-
-  {% for file in activity.data.files %}
-
-    <div class="resource-card">
-
-      <div class="resource-title">
-
-        {% if file.icon == "pdf" %}
-        📄
-        {% elseif file.icon == "doc" %}
-        📝
-        {% elseif file.icon == "xls" %}
-        📊
-        {% else %}
-        📎
-        {% endif %}
-
-        {{ file.caption }}
-
-      </div>
-      {% if file.filepath %}
-      <div class="resource-url">
-        {{ file.filepath }}
-      </div>
+  {# ---------- Enlace a la ficha completa ---------- #}
+  <section class="pf-pie">
+    <div class="pf-online">
+      {% if activity.fileSlug %}
+      <img src="{{ '/imagenes/actividades/qr/' | url }}{{ activity.fileSlug }}.png" class="activity-qr" alt="QR de la ficha">
       {% endif %}
-
+      <div>
+        <strong>Ficha completa en línea</strong>
+        <p>Recursos descargables, créditos, atribuciones, licencia e información adicional.</p>
+        <p class="qr-url">{{ site.url }}{{ activity.url | url }}</p>
+        <p class="pf-impreso">Impreso el <span id="print-date"></span>{% if d.version %} · versión {% if d.version | isDraft %}borrador{% else %}{{ d.version }}{% endif %}{% endif %}</p>
+      </div>
     </div>
-
-  {% endfor %}
-
-  </div>
-
-</section>
-{% endif %}
-#}
-
-
-{#
-{% if activity.data.author or activity.data.source %}
-
-<section class="print-section credits-section">
-
-  <h2>Créditos</h2>
-
-  {% if activity.data.author %}
-
-    <h3>Autoría</h3>
-
-    <ul>
-    {% for item in activity.data.author %}
-      <li>{{ item }}</li>
-    {% endfor %}
-    </ul>
-
-  {% endif %}
-
-  {% if activity.data.source %}
-
-    <h3>Fuentes</h3>
-
-    <ul>
-    {% for item in activity.data.source %}
-      <li>{{ item }}</li>
-    {% endfor %}
-    </ul>
-
-  {% endif %}
-
-</section>
-
-{% endif %}
-
-#}
-
-{#
-
-{% if activity.data.license %}
-
-<section class="print-section">
-
-  <h2>Licencia</h2>
-  <table> <tr><td>
-  {% if activity.data.license.image %}
-
-    <img
-      src="{{ activity.data.license.image }}"
-      alt="{{ activity.data.license.name }}"
-      class="license-image">
-
-  {% endif %}
-  </td><td>
-
-    <strong>{{ activity.data.license.name }}</strong>
-
-    {% if activity.data.license.url %}
-      <br>
-      {{ activity.data.license.url }}
-    {% endif %}
-   </td></tr> </table>
-
-
-</section>
-
-{% endif %}
-
-#}
-
-
-{#
-{% if activity.data.attributions %}
-
-<section class="print-section">
-
-  <h2>Atribuciones</h2>
-
-  <ul>
-
-  {% for item in activity.data.attributions %}
-
-    <li>
-
-      <strong>{{ item.entity }}</strong>
-
-      {% if item.role %}
-        — {{ item.role }}
-      {% endif %}
-
-      {% if item.year %}
-        ({{ item.year }})
-      {% endif %}
-
-    </li>
-
-  {% endfor %}
-
-  </ul>
-
-</section>
-
-{% endif %}
-#}
-
-
-{#
-{% if activity.data.translation_notice %}
-
-<section class="print-section">
-
-  <h2>Aviso de traducción</h2>
-
-  {% if activity.data.translation_notice.es %}
-    <p>{{ activity.data.translation_notice.es }}</p>
-  {% endif %}
-
-</section>
-
-{% endif %}
-#}
-
-
- <section class="print-section">
-   <h2>NOTA: Recursos descargables, Créditos, Atribuciones, Licencias, e Información addicional disponible en la version online</h2>
- </section>
-
-
-
-</section>
-
+  </section>
 
 </main>
-
-      </td>
-    </tr>
-
+    </td></tr>
   </tbody>
-
-  <tfoot>
-
-    <tr>
-      <td>
-
-
-<footer class="print-footer">
-
-  <div>
-    {{ activity.fullUrl or (site.url + activity.url) }}
-  </div>
-
-  <div class="page-counter">
-    Página    /   
-  </div>
-
-</footer>
-
-      </td>
-    </tr>
-
-  </tfoot>
-
 </table>
 
 <script>
@@ -633,6 +204,5 @@ document.getElementById("print-date").textContent =
   new Date().toLocaleDateString("es-AR");
 </script>
 
+</body>
 </html>
-
-

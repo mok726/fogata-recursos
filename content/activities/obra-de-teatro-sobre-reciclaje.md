@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/obra-de-teatro-sobre-reciclaje.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -95,7 +95,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A theatre performance in school about reducing waste in landfills, showing creative ways to recycle and reduce trash dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing on stage. Environmental education through theater and creative advocacy atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón o escenario"
 prep_time: "30 min"
 participants: "4-20"

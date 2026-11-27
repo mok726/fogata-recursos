@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/un-dia-en-la-vida-de-un-pescador.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -103,13 +103,13 @@ complexity_execution: 3  # Requiere contacto
 complexity_organizer: 3  # Requiere organización
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT PARA IA ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fisherman working on a boat with fishing gear and the sea in background dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing and writing. Fishing livelihood and maritime culture atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Puerto pesquero o salón de reunión"
 prep_time: "20 min"
 participants: ""
@@ -120,7 +120,7 @@ accessibility: []
 # ========== CLASIFICACIONES ADICIONALES ==========
 
 activity_type:
-  - Indagación
+  - Investigación
   - Expresión artística
 
 category:

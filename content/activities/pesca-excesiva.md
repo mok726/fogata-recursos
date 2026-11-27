@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/pesca-excesiva.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -91,11 +91,11 @@ active_component: 2  # Desplazamiento para entrevistar
 complexity_execution: 3  # Requiere preparación de entrevista
 complexity_organizer: 3  # Requiere coordinar entrevista
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fishing harbor with boats and declining fish stocks visualization dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, interviewing fishermen and taking notes. Overfishing and marine conservation atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Salón para entrevistar o lugar de encuentro con pescadores"
 prep_time: "30 min (coordinar entrevistas)"
 participants: "4-15"
@@ -104,7 +104,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Pesca

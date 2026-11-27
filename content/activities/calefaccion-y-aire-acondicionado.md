@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/calefaccion-y-aire-acondicionado.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -89,7 +89,7 @@ active_component: 1  # Actividad de aprendizaje
 complexity_execution: 2  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A thermostat being adjusted to save energy, with children learning how people kept their homes warm or cool in the past dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning traditional methods. Energy conservation and traditional wisdom atmosphere. No text, no letters, no words. Wide shot."
 
@@ -102,7 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Energía

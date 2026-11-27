@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/construi-la-ciudad-de-tus-suenos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

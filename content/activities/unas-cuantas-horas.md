@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Fichas de actividades. Concurso de actividades de Salud y TIC - ASDE Scouts de España"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -36,7 +36,7 @@ responsible:
   - Docente o Scouter
 prep_time: "5 min"
 participants: "Toda la unidad"
-location: "Exterior o interior"
+location: "Interior o exterior"
 space_required: "Un patio o salón largo con pared o línea de partida"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/colores-de-la-energia-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -45,6 +45,7 @@ responsible:
 prep_time: "15 min"
 participants: "4-20"
 location: "Exterior"
+momento: "día"
 space_required: "Lugar con luz solar directa"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

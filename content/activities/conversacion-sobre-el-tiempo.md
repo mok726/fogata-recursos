@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/conversacion-sobre-el-tiempo.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para entrevistas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -110,14 +110,14 @@ complexity_execution: 2  # Simple
 complexity_organizer: 2  # Requiere coordinación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Elderly people sharing stories about weather changes from their youth dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, listening attentively and taking notes during conversations. Intergenerational learning environment. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Clima
   - Historia

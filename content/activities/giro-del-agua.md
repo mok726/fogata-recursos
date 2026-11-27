@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/giro-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "8-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón amplio para formar un círculo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

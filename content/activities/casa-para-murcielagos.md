@@ -21,7 +21,7 @@ source:
 image: "/imagenes/actividades/casa-para-murcielagos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -45,6 +45,7 @@ responsible:
 prep_time: "30 min"
 participants: "4-15"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Jardín o espacio exterior"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

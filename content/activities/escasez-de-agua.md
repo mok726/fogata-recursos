@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/escasez-de-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "8-24"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -113,14 +113,14 @@ complexity_execution: 3  # Investigación y juego
 complexity_organizer: 3  # Preparación de materiales
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth researching water use in different countries and playing a simulation game about water distribution, learning about water scarcity and inequality. Educational activity. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, working on research and playing the game. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Simulación / Juego de roles
 category:
   - Escasez

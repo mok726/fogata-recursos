@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-agua-como-un-derecho-humano.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -94,7 +94,7 @@ main_type: "Debate / Diálogo"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. The Universal Declaration of Human Rights with water highlighted, and children discussing why clean water access is a fundamental right dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and debating. Human rights awareness and civic engagement atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-15"
@@ -104,7 +104,7 @@ accessibility: []
 
 activity_type:
   - Debate / Diálogo
-  - Indagación
+  - Investigación
 
 category:
   - Agua

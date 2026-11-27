@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/arte-reciclado.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -46,7 +46,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior / Exterior"
+location: "Interior o exterior"
 space_required: "Salón o espacio público"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

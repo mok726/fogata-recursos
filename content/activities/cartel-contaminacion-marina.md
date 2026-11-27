@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/cartel-contaminacion-marina.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "5-25"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para trabajar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -130,7 +130,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 category:
   - Contaminación marina
   - Plásticos

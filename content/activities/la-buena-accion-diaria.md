@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "5 min"
 participants: "1-60"
-location: "Interior / Exterior"
+location: "Interior o exterior"
 space_required: "Cualquiera"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

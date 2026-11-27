@@ -37,6 +37,7 @@ responsible:
 prep_time: "20 min (recorrer antes el trayecto)"
 participants: "6-24"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Unas cuadras del barrio alrededor del local, o ida y vuelta a una plaza cercana"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
