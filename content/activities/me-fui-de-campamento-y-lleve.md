@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Me Fui de Campamento y Llevé…"
+title: "Tim el Novato"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/me-fui-de-campamento-y-lleve/"
@@ -9,13 +9,13 @@ summary: "Recordar en orden todo lo que hay en la mochila de la ronda."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,18 +132,19 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Me Fui de Campamento y Llevé…
+# Tim el Novato
 
-## De qué se trata
-El primero dice: «Me fui de campamento y llevé una linterna». El segundo repite y agrega: «Me fui de campamento y llevé una linterna y un jarro». Así, cada uno repite toda la lista y suma una cosa. El que se olvida o cambia el orden sale de la ronda.
+## Resumen
+Un juego de memoria en ronda.
 
-## Cómo se juega
-1. Siéntense en ronda. El que dirige anota la lista en un papel, para controlar.
-2. El primero dice la frase y una cosa: «Me fui de campamento y llevé una linterna».
-3. El segundo repite todo y agrega algo: «… una linterna y un jarro».
-4. Cada uno tiene que decir la lista completa, en orden, y sumar una cosa nueva.
-5. El que se olvida de algo, cambia el orden o repite una cosa que ya estaba, sale y ayuda a controlar.
-6. Gana el último que queda.
+## Desarrollo
+1. Los jugadores se sientan en ronda.
+2. El primero dice: «Tim el Novato se fue de campamento y llevó…» y nombra un objeto: «una carpa».
+3. El segundo repite la frase completa y agrega otro objeto: «Tim el Novato se fue de campamento y llevó una carpa y una linterna».
+4. El tercero repite todo y agrega un objeto más, y así sigue la ronda, con la lista cada vez más larga.
+5. El que se olvida un objeto o los dice en otro orden, sale. El que dirige va anotando la lista en un papel para controlar.
+
+**Cómo se gana:** gana el último que queda.
 
 ### Variante: Solo cosas útiles
 Solo valen cosas que de verdad hay que llevar al campamento. Si alguien dice «una heladera», el grupo decide si se acepta.
@@ -145,11 +152,24 @@ Solo valen cosas que de verdad hay que llevar al campamento. Si alguien dice «u
 ### Variante: Con gestos
 Cada cosa se dice con un gesto. Ayuda mucho a recordar.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas de la lista sí hay que llevar al campamento? ¿Cuáles faltaron?
 
-## Notas para educadores
+## Notas para el educador
 - Al final, usá la lista para revisar entre todos qué lleva una buena mochila.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TENDERFOOT TIM.**
+
+Players in circle. One starts by saying “Tenderfoot Tim went to camp and took ...,” mentioning some object. No. 2 repeats No. 1’s statement and adds another object, and so on. Each falls out as he fails to repeat the list. Last in wins; a list should be kept by the leader on paper.
+
 ---
-**Fuente:** inspirada en el juego «Tenderfoot Tim» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 23, «Tenderfoot Tim». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

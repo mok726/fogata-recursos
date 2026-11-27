@@ -130,10 +130,10 @@ rama_rovers:
 
 # Salto Triple por Patrullas
 
-## De qué se trata
+## Resumen
 El salto triple tiene tres partes: un pique sobre el pie derecho, un paso largo cayendo en el izquierdo y un salto final cayendo con los dos pies. En la versión por patrullas, el primero salta en largo con los pies juntos desde la línea, el segundo salta desde donde cayó el primero, y así. Gana la patrulla que llega más lejos.
 
-## Cómo se juega
+## Desarrollo
 1. Marquen una línea de salida.
 2. Practiquen el salto triple: piquen con el pie derecho cayendo en el derecho, den un paso largo cayendo en el izquierdo y salten cayendo con los dos pies.
 3. Para la versión por patrullas, el primero se para con la punta de los pies en la línea y salta en largo con los pies juntos.
@@ -141,7 +141,7 @@ El salto triple tiene tres partes: un pique sobre el pie derecho, un paso largo 
 5. El segundo se para en esa marca y salta otra vez. Y así, hasta el último.
 6. Gana la patrulla cuya última marca quedó más lejos.
 
-## Para cerrar
+## Cierre
 - ¿Qué ayudaba a saltar más lejos: los brazos, flexionar las rodillas?
 
 ---

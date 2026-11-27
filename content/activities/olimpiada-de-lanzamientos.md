@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Olimpíada de Lanzamientos"
+title: "Tirar Cosas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/olimpiada-de-lanzamientos/"
@@ -9,13 +9,13 @@ summary: "Competir tirando lejos objetos raros."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,28 +134,38 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Olimpíada de Lanzamientos
+# Tirar Cosas
 
-## De qué se trata
-Hay tantas pruebas como patrullas, y en cada prueba se tira un objeto distinto. Cada patrulla manda un jugador a cada prueba. En cada una gana el que tira más lejos. Gana la patrulla con más pruebas ganadas.
+## Resumen
+Una competencia de lanzamientos con objetos raros: hay que tirar cada cosa lo más lejos posible, y algunas son muy difíciles de tirar lejos.
 
-## Cómo se juega
-1. Pongan los objetos en fila sobre la línea de lanzamiento.
-2. Cada patrulla reparte a sus jugadores: uno para cada objeto.
-3. Por turno, en cada prueba tiran los jugadores de todas las patrullas.
-4. Se marca dónde cayó cada objeto (dónde tocó el piso por primera vez).
-5. El que tiró más lejos gana esa prueba para su patrulla.
-6. Al final se cuentan las pruebas ganadas.
+## Desarrollo
+1. Se pueden armar todos los equipos que se quiera. Se juntan tantos objetos distintos como equipos haya. El original propone, por ejemplo: un aro de soga de 60 cm de diámetro, una carpa (plegada), una maza, un globo, un avioncito de papel, una caja de fósforos vacía y un bastón.
+2. Cada equipo elige a un integrante para cada objeto. Así, cada objeto tiene un tirador de cada equipo.
+3. Se hace una competencia aparte con cada objeto: todos los que tienen que tirar ese objeto lo tiran, por turno, desde la misma línea, y se marca hasta dónde llegó cada uno.
+4. Gana esa competencia el que lo tira más lejos, y se anota el triunfo para su equipo.
+5. Después se pasa al objeto siguiente, hasta haberlos tirado todos.
 
-## Reglas
-- Todos los que no tiran se quedan detrás de la línea.
-- El bastón se tira como jabalina hacia un lugar sin gente, nunca hacia arriba.
+**Cómo se gana:** gana el equipo que gana más competencias.
 
-## Para cerrar
+## Cierre
 - ¿Qué objeto fue el más difícil de tirar? ¿Por qué el globo no llega lejos?
 
-## Notas para educadores
+## Notas para el educador
 - Da para charlar sobre el aire y la forma de las cosas: ¿por qué el avión llega más lejos que la hoja hecha un bollo, o al revés?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**THROWING THINGS.**
+
+Any number of teams, and as many assorted objects as there are teams. One member of each team allotted to each object. Separate contests take place trying to throw each object as far as possible. Team winning most contests wins. (Rope ring 2 feet diameter, tent, mallet, balloon, paper dart, empty match-box, staff, etc.).
+
 ---
-**Fuente:** inspirada en el juego «Throwing Things» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 27, «Throwing Things». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

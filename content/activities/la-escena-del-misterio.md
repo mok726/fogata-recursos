@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Escena del Misterio"
+title: "La Escena del Crimen"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-escena-del-misterio/"
@@ -9,13 +9,13 @@ summary: "Reconstruir qué pasó a partir de las pistas de una habitación."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,31 +136,44 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Escena del Misterio
-
-## De qué se trata
-El que dirige arma una escena en una habitación: «¡Alguien se comió la torta del cumpleaños del Grupo!». Por turno, cada patrulla entra cinco minutos a mirar las pistas sin tocar. Después escribe un informe sobre qué pasó, en qué orden y quién pudo haber sido. Al final se representa lo que pasó de verdad.
+# La Escena del Crimen
 
 ## Preparación
 1. Pensá una historia simple: quién, qué, cómo, por dónde entró y salió.
 2. Dejá entre 6 y 10 pistas que cuenten esa historia. Sumá una o dos pistas falsas que no tengan nada que ver.
 3. Armá la escena y sacale una foto para poder rearmarla igual entre patrulla y patrulla.
 
-## Cómo se juega
-1. Cada patrulla espera afuera hasta que la llaman.
-2. Entra la patrulla. Tiene cinco minutos para mirar todo. No se puede tocar ni mover nada.
-3. Sale, se sienta en un rincón y escribe: ¿Qué pasó? ¿En qué orden? ¿Por dónde entró y salió el culpable? ¿Qué pista los hizo pensar eso?
-4. Cuando pasaron todas las patrullas, cada una lee su informe.
-5. Los dirigentes representan lo que pasó de verdad, paso por paso.
-6. Gana la patrulla que más se acercó y mejor explicó sus pistas.
+## Resumen
+Un juego de observación y deducción, como en las películas de detectives.
 
-## Para cerrar
+## Desarrollo
+1. El que dirige arma en un salón la escena de un «crimen» representado: muebles movidos, objetos tirados, huellas, pistas.
+2. Cada patrulla, por turno, entra al salón durante 5 o 10 minutos a mirar todo con atención, sin tocar nada.
+3. Después escribe un informe de lo que cree que pasó.
+4. Al final, el que dirige vuelve a representar lo que pasó de verdad, para que todos comparen.
+
+**Cómo se gana:** gana la patrulla cuyo informe se acerca más a lo que pasó.
+
+## Cierre
 - ¿Qué pistas engañaron a todos?
 - ¿Por qué conviene separar lo que vimos de lo que imaginamos?
 
-## Notas para educadores
+## Notas para el educador
 - Mantené el misterio en el humor (una torta, un banderín, la mascota de la tropa). Evitá crímenes violentos.
 - Es un gran juego para una noche de campamento con lluvia.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SCENE OF THE CRIME.**
+
+Each patrol in turn has 5 or 10 minutes in a room where a crime has been enacted and then makes a report of what they think has taken place. The crime is then re-enacted.
+
 ---
-**Fuente:** inspirada en el juego «Scene of the Crime» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 69, «Scene of the Crime». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

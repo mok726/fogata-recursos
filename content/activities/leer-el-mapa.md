@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - mapas
   - orientacion
   - memoria
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Leer el Mapa!
+# Leer el Mapa
 
 ## Resumen
 El dirigente muestra un mapa de la zona y le asigna a cada scout un lugar para visitar, marcando el recorrido y los puntos que tiene que observar. Los scouts salen sin el mapa y vuelven con su informe. Gana el mejor informe en el menor tiempo.
@@ -149,10 +152,15 @@ El dirigente muestra un mapa de la zona y le asigna a cada scout un lugar para v
 2. Para cada destino, anotá dos o tres cosas que el scout tiene que observar en el camino (una plaza, una iglesia, un almacén, un puente).
 
 ## Desarrollo
-1. Mostrale a cada scout el mapa, su destino, el recorrido y los puntos a observar. No se lleva el mapa.
-2. Salen de a dos, cada pareja a su destino.
-3. Al volver, cada pareja informa lo que vio.
-4. Gana el informe más completo y correcto en el menor tiempo.
+Una prueba de lectura de mapas y de memoria: cada scout mira el mapa, se aprende un recorrido y después lo hace solo.
+
+1. El dirigente o el guía de patrulla lleva a la patrulla a una ciudad que no conocen o a una zona del campo complicada para orientarse.
+2. Les muestra un mapa de la zona. A cada scout le asigna un lugar para visitar, le marca en el mapa el camino y le señala cosas para observar en el recorrido: iglesias, almacenes, plazas, etc.
+3. Cada scout tiene que recorrer una distancia parecida y observar una cantidad fija de puntos.
+4. Los scouts salen sin el mapa, guiándose por lo que recuerdan.
+5. A medida que vuelven, el dirigente o el guía anota el informe de cada uno: por dónde fue y qué vio.
+
+**Cómo se gana:** gana el scout que trae el mejor informe en el menor tiempo.
 
 ## Cierre
 - ¿Cómo hiciste para acordarte del camino?
@@ -168,15 +176,12 @@ El dirigente muestra un mapa de la zona y le asigna a cada scout un lugar para v
 
 This is a test in map-reading and remembering the map read. The Scoutmaster or Patrol-leader in command takes his patrol into a strange town or an intricate part of the country and through them he wishes to find out particulars about the neighborhood; so he shows the Scouts a map of the district and appoints to each a place to be visited, showing the route on the map, and pointing out churches, inns, etc., to be noted on the way. Each Scout should have a fixed distance to go and a certain number of points to be noted. Then they start off, and as they return the Scoutmaster or Patrol-leader takes down their reports. The winner is the Scout who brings in the best report in the shortest time.
 
-**Versión en español:**
-
-**LEER EL MAPA.**
-
-Es una prueba de lectura de mapas y de memoria del mapa leído. El jefe de tropa o el guía a cargo lleva a su patrulla a una ciudad desconocida o a una parte enredada del campo y quiere averiguar, a través de ellos, datos sobre los alrededores; entonces les muestra un mapa de la zona y le asigna a cada uno un lugar para visitar, mostrándole el recorrido en el mapa y señalándole iglesias, posadas, etc., que debe observar en el camino. Cada scout debería tener una distancia fija para recorrer y una cantidad determinada de puntos para observar. Luego salen y, a medida que vuelven, el jefe o el guía toma nota de sus informes. Gana el scout que trae el mejor informe en el menor tiempo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 4: «Reading the Map». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

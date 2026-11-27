@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adiviná el Oficio"
+title: "Actuar un Oficio"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivina-el-oficio/"
@@ -9,13 +9,13 @@ summary: "Actuar oficios y situaciones para que los demás adivinen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,28 +132,41 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Adiviná el Oficio
+# Actuar un Oficio
 
-## De qué se trata
-Por turno, un jugador o una pareja actúa, sin hablar, un oficio o una escena de todos los días: el plomero y su ayudante, alguien afeitándose, un médico operando, el panadero, el colectivero. Siguen actuando hasta que alguien adivina.
+## Resumen
+Un juego de mímica para adivinar oficios.
 
-## Cómo se juega
-1. Cada jugador o pareja piensa un oficio o una situación. Si cuesta, el que dirige tiene tarjetas preparadas.
-2. Pasa al frente y actúa sin hablar.
-3. Los demás dicen lo que creen que es.
-4. El que adivina primero suma un punto y pasa a actuar.
-5. Si en dos minutos nadie lo adivinó, el que actuaba cuenta qué era y elige al siguiente.
+## Desarrollo
+1. Por turno, cada jugador (o cada pareja) actúa sin hablar algún oficio, profesión o situación de todos los días: el plomero y su ayudante, alguien afeitándose, un cirujano operando, etc.
+2. Sigue actuando hasta que los demás adivinan qué es.
 
-### Variante: Animales
-En vez de oficios, se actúan animales, aves, reptiles o insectos. Para lobatos, que sean animales de la selva de Mowgli o de Argentina.
+**Actuar animales (variante del original):** cada jugador, por turno, actúa un animal, pájaro, reptil o insecto, con movimientos y sonidos, hasta que lo adivinan.
 
-## Para cerrar
+## Cierre
 - ¿Qué oficios conocieron que no sabían que existían?
 - ¿Qué les gustaría ser cuando sean grandes?
 
-## Notas para educadores
+## Notas para el educador
 - Puede dar pie a una charla sobre oficios del barrio o a una visita a un taller (ver Visita a Talleres y Fábricas).
 - Evitá estereotipos de género en las tarjetas: que haya médicas, plomeras, enfermeros.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ACTING A TRADE.**
+
+Each player or pair of players in turn act some trade, profession or everyday event, and continue to do so until it is guessed. E.g. Plumber and mate, shaving, surgeon operating, etc.
+
+**ACTING ANIMALS.**
+
+Each player in turn acts as some animal, bird, reptile or insect and continues to do so till it is guessed.
+
 ---
-**Fuente:** inspirada en el juego «Acting a Trade / Acting Animals» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 80, «Acting a Trade» y n.º 86, «Acting Animals». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

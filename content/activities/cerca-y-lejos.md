@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cerca y Lejos"
+title: "Lejos y Cerca"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cerca-y-lejos/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,10 +142,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Cerca y Lejos!
+# Lejos y Cerca
 
 ## Resumen
-Una caminata con premio para el que mejor observa. Antes de salir, el árbitro da una lista de cosas para buscar "cerca y lejos, arriba y abajo". Cada vez que alguien encuentra una, avisa y suma puntos.
+Un juego de observación para hacer durante una caminata, en la ciudad o en el campo: hay que descubrir detalles cerca y lejos, arriba y abajo.
 
 ## Preparación
 1. Elegí el recorrido.
@@ -156,10 +160,24 @@ Una caminata con premio para el que mejor observa. Antes de salir, el árbitro d
 3. Prepará una planilla con el nombre de cada participante.
 
 ## Desarrollo
-1. El árbitro recorre el camino con la patrulla.
-2. Cada participante busca los detalles de la lista. Cuando ve uno, corre a avisarle al árbitro (o le entrega el objeto, si lo encontró en el piso y se puede levantar).
-3. El árbitro anota los puntos.
-4. Gana quien suma más puntos al final de la caminata.
+1. Antes de salir, el que dirige elige unos 8 o 10 detalles para buscar y le da a cada uno un valor en puntos. Conviene cambiarlos cada vez que se juega.
+2. El que dirige (que hace de árbitro) sale a caminar por una calle o un camino con la patrulla. Lleva una tarjeta con el nombre de cada scout para anotar los puntos.
+3. Cada scout va atento a los detalles de la lista. Apenas ve uno, corre hasta el árbitro y le avisa; si es un objeto que encontró en el suelo, se lo entrega.
+4. El árbitro le anota los puntos junto a su nombre.
+
+**Ejemplo de lista (adaptada del original):**
+- cada botón encontrado: 1 punto;
+- cada tapita de botella encontrada: 1 punto;
+- huellas de pájaro: 2 puntos;
+- un remiendo en la ropa o en el calzado de alguien que pasa: 2 puntos;
+- un caballo blanco o tordillo: 2 puntos;
+- una paloma volando: 2 puntos;
+- un gorrión posado: 1 punto;
+- un fresno: 2 puntos;
+- una chimenea o una teja rota: 2 puntos;
+- una ventana rota: 1 punto.
+
+**Cómo se gana:** gana el scout que junta más puntos en la caminata.
 
 ## Cierre
 - ¿Qué detalles costó más encontrar? ¿Dónde estaban: arriba, abajo, cerca, lejos?
@@ -203,33 +221,8 @@ Broken chimney pot                                  2 marks.
 Broken window                                       1 mark.
 ```
 
-**Versión en español:**
-
-**CERCA Y LEJOS. (Para ciudad o campo.)**
-
-El árbitro recorre un camino o un trayecto determinado con una patrulla en formación de patrulla. Lleva una tarjeta de puntaje con el nombre de cada scout.
-
-Cada scout busca los detalles pedidos y, apenas nota uno, corre hasta el árbitro y le avisa, o le entrega el objeto si es algo que encontró. El árbitro anota el punto correspondiente junto a su nombre. Gana el scout que suma más puntos en la caminata.
-
-Hay que elegir detalles como los siguientes, para desarrollar la observación del scout y animarlo a mirar cerca y lejos, arriba y abajo, etc.
-
-Los detalles deben cambiarse cada vez que se juega, y hay que dar unos 8 o 10 por vez.
-
-```
-Cada fósforo encontrado                          1 punto
-Cada botón encontrado                            1 punto
-Huellas de pájaro                                2 puntos
-Remiendo en la ropa o las botas de un extraño    2 puntos
-Un caballo gris                                  2 puntos
-Una paloma volando                               2 puntos
-Un gorrión posado                                1 punto
-Un fresno                                        2 puntos
-Una chimenea rota                                2 puntos
-Una ventana rota                                 1 punto
-```
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,16 +142,23 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Dibujá una Cara!
+# Dibujá una Cara
 
 ## Resumen
-Akela dibuja una cara en el aire con el índice izquierdo, en un orden determinado: contorno en el sentido de las agujas del reloj, ojo derecho, ojo izquierdo, nariz hacia abajo y boca de derecha a izquierda. Cada lobato tiene que repetirlo exactamente igual.
+Un juego de atención y coordinación: hay que copiar exactamente una cara que el dirigente dibuja en el aire.
 
 ## Desarrollo
-1. Todos en ronda.
-2. Akela dibuja una cara en el aire con el índice izquierdo: primero el contorno, en el sentido de las agujas del reloj; después el ojo derecho, el ojo izquierdo, la nariz de arriba hacia abajo y la boca de derecha a izquierda.
-3. Cada lobato, por turno, lo repite exactamente igual: misma mano, mismo orden, mismos sentidos.
-4. Los demás observan y marcan los errores. Después se puede variar el dibujo.
+El Viejo Lobo es el dirigente de la Manada, como se llama a los adultos que guían a los lobatos.
+
+1. Los lobatos se paran en ronda, de modo que todos vean al Viejo Lobo.
+2. El Viejo Lobo dibuja una cara en el aire con el dedo índice de la mano izquierda, despacio y en este orden:
+   - primero el contorno de la cara, en el sentido de las agujas del reloj;
+   - después el ojo derecho;
+   - después el ojo izquierdo;
+   - la nariz, de arriba hacia abajo;
+   - la boca, de derecha a izquierda.
+3. Después cada lobato trata de dibujar la cara en el aire exactamente igual: con el índice izquierdo, en el mismo orden y con los trazos en la misma dirección.
+4. El Viejo Lobo mira quién la hizo exactamente igual.
 
 ## Cierre
 - ¿Qué detalle se les escapaba más: la mano, el orden o el sentido?
@@ -162,13 +170,8 @@ Akela dibuja una cara en el aire con el índice izquierdo, en un orden determina
 Draw a face. — Players in circle. The Old Wolf draws a face in the air:
 First the outline, clockwise; then right eye, then left eye; nose downward; mouth right to left, all with the left index finger. Each Cub tries to draw the face in exactly the same order and in the same way.
 
-**Versión en español:**
-
-**Dibujá una cara.** Los jugadores en ronda. El Viejo Lobo dibuja una cara en el aire:
-primero el contorno, en el sentido de las agujas del reloj; después el ojo derecho, después el ojo izquierdo; la nariz hacia abajo; la boca de derecha a izquierda, todo con el índice izquierdo. Cada lobato trata de dibujar la cara exactamente en el mismo orden y de la misma manera.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

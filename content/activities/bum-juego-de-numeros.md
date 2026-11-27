@@ -1,21 +1,21 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Bum!"
+title: "Buzz"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/bum-juego-de-numeros/"
-description: "En ronda se cuenta en voz alta, pero en lugar del 7, de los números que tienen un 7 y de los múltiplos de 7 hay que decir «¡Bum!»."
-summary: "Contar en ronda y decir «¡Bum!» en el 7 y sus múltiplos."
+description: "En ronda se cuenta en voz alta, pero en lugar del 7, de los números que tienen un 7 y de los múltiplos de 7 hay que decir «Buzz»."
+summary: "Contar en ronda y decir «Buzz» en el 7 y sus múltiplos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,31 +132,54 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Bum!
+# Buzz
 
-## De qué se trata
-Todos en ronda cuentan por turno: uno, dos, tres… Cuando toca el 7, un número que tenga un 7 (17, 27, 70) o un múltiplo de 7 (14, 21, 28), en vez del número hay que decir «¡Bum!». El que se equivoca pierde una vida y se vuelve a empezar desde el 1.
+## Resumen
+Un juego de números para pensar rápido. Se dice «Buzz» (se pronuncia «bas») en lugar de ciertos números.
 
-## Cómo se juega
-1. Siéntense en ronda. El que empieza dice «uno», el de su derecha «dos», y así.
-2. Cuando le toca a alguien un número con 7 o que sea de la tabla del 7, dice «¡Bum!» en vez del número.
-3. Por ejemplo: 5, 6, ¡Bum!, 8… 13, ¡Bum! (14), 15, 16, ¡Bum! (17).
-4. Si alguien dice el número en vez de «¡Bum!», o dice «¡Bum!» cuando no tocaba, o tarda mucho, pierde una vida y se vuelve a contar desde 1.
-5. Con dos vidas perdidas, sale de la ronda y ayuda a controlar.
-6. El 77 es «¡Bum bum!». Gana el último que queda.
+## Desarrollo
+1. Los jugadores se sientan en ronda.
+2. Empiezan a contar en voz alta, uno por vez: el primero dice «1», el siguiente «2», y así.
+3. Cuando al que le toca le corresponde decir el 7, un número que tiene un 7 (17, 27, 70…) o un múltiplo de 7 (14, 21, 28…), en lugar del número tiene que decir «Buzz».
+4. Algunos casos especiales: el 71 se dice «buzz uno» y el 77, «buzz buzz».
+5. Si alguien se equivoca (dice el número en lugar de «Buzz», o dice «Buzz» donde no va), se vuelve a contar desde 1.
+6. Con dos errores, el jugador sale de la ronda.
 
-### Variante: ¡Bum y Paf!
-Para Scouts y más grandes: además del 7, el 5 también tiene palabra. Los números con 5 o de la tabla del 5 son «¡Paf!». El 35 es de las dos tablas y tiene un 5: «¡Paf paf bum!».
+**Cómo se gana:** gana el último que queda.
+
+**Whizz Buzz (variante del original, más difícil):** además de «Buzz» para el 7, se dice «Whizz» (se pronuncia «uis») para el 5, los números con 5 y los múltiplos de 5. Por ejemplo: 57 es «whizz buzz»; 75 es «buzz whizz»; 35 es «whizz whizz buzz», porque tiene un 5, es múltiplo de 5 y es múltiplo de 7.
 
 ### Variante: Para los más chicos
 Con lobatos, usá solo el 3 o el 5, que son más fáciles.
 
-## Para cerrar
+### Variante: ¡Feliz Domingo!
+A mí, esta actividad me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden. 
+Así que la variante seria cambiar el numero del múltiplo cada tanto, así no se estancan y tienen que pensar en lugar de hacerlo automático.
+
+## Cierre
 - ¿Qué truco usaron para no equivocarse?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego para repasar las tablas sin que se note.
 - Que el ritmo sea rápido pero parejo: si alguien tarda, contá hasta tres en voz alta.
+- A mí me recuerda de un juego similar en el programa "Feliz Domingo para la juventud" donde gritaban "domingo" con cada multiplo. Los Argentinos un poco más grandes quizás lo acuerden.  
+
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BUZZ.**
+
+Players in circle. They count in turn, but whenever the number 7 comes, or a multiple of 7, or a figure with 7 in it (such as 14, 21, 27, 28, etc.), the player whose turn it is must say “Buzz.” After two mistakes player drops out. 71 is “buzz one,” 77 is “buzz-buzz.” After each mistake the count starts again at 1.
+
+**WHIZZ BUZZ.**
+
+Exactly as for No. 2, except that as well as saying “ Buzz” for 7, the players also say “Whizz” for 5. E.g. 57 is “whizz buzz.” 75 is “buzz whizz.” 35 is “ whizz whizz buzz.” Being both a number with 5 in it, a multiple of 5, and a multiple of 7. For further details see No. 2.
 
 ---
-**Fuente:** inspirada en el juego «Buzz / Whizz-Buzz» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 2, «Buzz» y n.º 26, «Whizz Buzz». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -137,10 +137,10 @@ rama_rovers:
 
 # El Robot Scout
 
-## De qué se trata
+## Resumen
 Un robot no entiende «andá para allá»: solo entiende órdenes exactas. En la cuadrícula del piso, un lobato es el robot y solo sabe tres cosas: avanzar un casillero, girar a la izquierda y girar a la derecha (sin moverse del lugar). Otro es el programador y tiene que guiarlo hasta el muñeco que hay que rescatar. Un tercero es el probador: mira y avisa cuando algo sale mal. Cuando el robot hace algo que no queríamos, ¡encontramos un error en el programa!
 
-## Cómo se juega
+## Desarrollo
 1. Marquen la cuadrícula. Pongan el muñeco en un casillero y al robot en otro.
 2. Repartan los papeles: robot, programador y probador.
 3. El programador da las órdenes de a una: «Adelante», «Girá a la izquierda», «Girá a la derecha».
@@ -152,11 +152,11 @@ Un robot no entiende «andá para allá»: solo entiende órdenes exactas. En la
 ### Variante: Obstáculos
 Pongan casilleros prohibidos (un «pantano») que el robot no puede pisar.
 
-## Para cerrar
+## Cierre
 - ¿Por qué el robot no entiende «andá para allá»?
 - ¿Qué hicieron cuando el programa tenía un error?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Los errores son parte del juego. Las computadoras también fallan cuando el programa está mal, y los programadores pasan mucho tiempo buscándolos.
 

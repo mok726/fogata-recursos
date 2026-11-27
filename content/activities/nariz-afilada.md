@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - sentidos
   - olfato
   - rastreo
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -142,16 +145,21 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Nariz Afilada!
+# Nariz Afilada
 
 ## Resumen
 Un scout sale con media cebolla cruda y deja un rastro de olor frotándola en postes, piedras y troncos. Los demás lo siguen con los ojos vendados, guiándose por el olfato. El dirigente no va vendado, para avisar de cualquier peligro. Gana el primero que llega al final del rastro.
 
 ## Desarrollo
-1. El que deja el rastro sale frotando la cebolla en postes, troncos y piedras, a la altura de la cara, cada pocos metros.
-2. Los demás se vendan y salen detrás, de a uno o por patrulla, a buen ritmo pero caminando.
-3. El dirigente acompaña sin venda y avisa si hay peligro.
-4. El que dejó el rastro espera al final hasta que llega el primero.
+Un juego de rastreo con el olfato: hay que seguir, con los ojos vendados, un rastro de olor a cebolla.
+
+1. Un scout sale primero con media cebolla cruda.
+2. Va dejando un «rastro de olor»: frota la cebolla en postes de tranqueras, piedras, troncos de árboles, postes de luz, etc.
+3. Al final del recorrido se queda esperando hasta que llega el primer rastreador.
+4. Después sale el resto de la tropa con los ojos vendados y sigue el rastro solo con el olfato.
+5. El dirigente va sin venda, acompañando, para avisar de cualquier peligro, por ejemplo al cruzar calles.
+
+**Cómo se gana:** gana el scout o la patrulla que llega primero al final del rastro.
 
 ## Cierre
 - ¿Qué tan lejos podías sentir el olor?
@@ -167,15 +175,12 @@ Un scout sale con media cebolla cruda y deja un rastro de olor frotándola en po
 
 One Scout goes off with half a raw onion. 'He lays a "scent " by rubbing, the onion on gateposts, stones, tree trunks, telegraph poles, etc. The troop follow this trail blindfolded - the Scoutmaster, however, is not blindfolded, so that he may warn his boys of any danger (as when crossing roads). The Scout or patrol which arrives at the end of the trail first wins the game. The boy who lays the " scent " stays at the end of the trail till the first " scenter " arrives.
 
-**Versión en español:**
-
-**"NARIZ AFILADA".**
-
-Un scout sale con media cebolla cruda. Va dejando un "rastro de olor" frotando la cebolla en postes de tranqueras, piedras, troncos de árboles, postes del telégrafo, etc. La tropa sigue este rastro con los ojos vendados; el jefe de tropa, en cambio, no va vendado, para poder avisar a sus chicos de cualquier peligro (como al cruzar calles). Gana el scout o la patrulla que llega primero al final del rastro. El chico que deja el "rastro" se queda al final hasta que llega el primer "rastreador".
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. III (Tracking Games), juego 6. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. III (Tracking Games), juego 6: «"sharp-nose."». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

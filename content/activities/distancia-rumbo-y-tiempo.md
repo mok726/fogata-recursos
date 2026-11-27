@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - orientacion
   - brujula
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,18 +140,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Distancia, Rumbo y Tiempo!
+# Distancia, Rumbo y Tiempo
 
 ## Resumen
-Tres prácticas para entrenar a cada scout en la noción de distancia, rumbo y tiempo:
-1. **Rumbo y distancia:** "Andá 2 km al nornoreste. Escribí un informe que muestre exactamente dónde estás (con croquis si podés) y traelo lo antes posible." Después se compara con el mapa.
-2. **Llegar sin ser visto:** parejas que compiten, cada una por un camino distinto, para llegar al mismo punto con el mapa sin que la otra las vea.
-3. **Calcular el tiempo:** cada scout sale con una tira que dice cuánto tiempo tiene que estar afuera (7, 10 minutos…) y vuelve sin mirar reloj. Se anota la hora real de salida y de llegada.
+Unas prácticas de *Scouting for Boys* para que cada scout aprenda a calcular distancias, a seguir un rumbo y a tener noción del tiempo sin mirar el reloj.
 
 ## Desarrollo
-1. Preparás las consignas y anotás quién sale y a qué hora.
-2. Al volver, cada uno entrega su informe o su tiempo.
-3. Comprobás con el mapa o el reloj cuánto se desvió.
+**1. Distancia y rumbo.**
+1. El que dirige manda a cada scout, de a uno, en una dirección distinta, con una orden escrita como esta: «Andá 3 kilómetros hacia el nornoreste. Escribí un informe que diga exactamente dónde estás (con un croquis, si podés, para explicarlo). Traé tu informe lo más rápido posible».
+2. Cuando vuelve, se controla con una carta topográfica o un mapa (o de otra manera) cuánto se desvió de la distancia y el rumbo que se le pidieron.
+
+**2. Llegar sin ser visto.** Se manda a los scouts en parejas, y cada pareja compite contra las demás. Todas tienen que llegar al mismo lugar, pero cada una sale por un camino distinto, se guía con el mapa y tiene que llegar a la meta sin que las otras la vean en el camino. Esto entrena la lectura de mapas, el ojo para el terreno, el arte de esconderse y la vigilancia.
+
+**3. Calcular el tiempo.**
+1. El que dirige manda a los scouts en distintas direcciones, cada uno con un papelito que dice cuánto tiempo tiene que estar afuera: por ejemplo, siete minutos uno, diez otro, y así.
+2. Anota la hora exacta en que sale cada uno y vuelve a anotarla cuando regresa.
+3. Los scouts se comprometen, por su honor, a no mirar relojes ni celulares.
+
+El original no dice cómo se gana; una opción es que, en las prácticas 1 y 3, gane el que más se acerca a lo pedido (la distancia y el rumbo, o el tiempo exacto), y en la práctica 2, la pareja que llega primero a la meta sin haber sido vista.
+
+**Consejo del original:** muchos de estos juegos y prácticas se pueden hacer en la ciudad tan bien como en el campo.
 
 ## Cierre
 - ¿Quién se acercó más? ¿Qué referencias usaron para calcular?
@@ -186,26 +198,8 @@ Scouts must be put on their honour not to consult watches or clocks.
 N.B.--Many of these games and practices can be carried out in town just
 as well as in the country.
 
-**Versión en español:**
-
-Para enseñar a tus scouts, de a uno, la noción de tiempo y distancia, mandá a cada uno en una dirección distinta con una orden como esta: "Andá dos millas al nornoreste. Escribí un informe que muestre exactamente dónde estás (con un croquis, si es posible, para explicarlo). Traé tu informe lo más rápido posible".
-
-Después comprobá con los mapas topográficos o de otra manera cuánto se desvió de la distancia y la dirección ordenadas.
-
-Manden scouts en parejas, para competir pareja contra pareja. Cada pareja sale por un camino distinto para llegar al mismo lugar, encontrando el camino con el mapa, y tiene que llegar a la meta sin ser vista por las otras en el camino.
-
-Esto desarrolla la lectura de mapas, el ojo para el terreno, el ocultamiento, la vigilancia, etc.
-
-Para calcular el tiempo: mandá scouts en distintas direcciones, cada uno con un papelito que dice cuánto tiempo tiene que estar afuera, digamos siete minutos uno, diez otro, y así.
-
-Anotá la hora exacta de salida, y volvé a anotarla cuando regresa.
-
-Los scouts tienen que comprometerse por su honor a no consultar relojes.
-
-N. B.: Muchos de estos juegos y prácticas se pueden hacer en la ciudad tan bien como en el campo.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

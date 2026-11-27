@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -62,6 +62,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - fuego
@@ -74,7 +75,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -149,22 +153,32 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros a mí o a otras personas.
 ---
 
-# ¡Tres Fuegos para Cocinar!
+# Tres Fuegos para Cocinar
 
 ## Resumen
-«De un vistazo al fuego de un campamentista se sabe qué clase de baqueano es», dice Kephart. No se cocina bien sobre un montón de leños humeantes ni sobre llamaradas. Hay que saber hacer el fuego justo. El **fuego de almuerzo** es una pirámide chica, «no más grande que tu sombrero», que hierve el agua enseguida y deja brasas para freír. El **fuego de cena**, entre dos troncos, da un calor parejo para varias ollas. Las **brasas** sirven para hornear y cocinar despacio. Y nunca se va uno sin dejar el fuego completamente apagado.
+Una técnica de cocina de campamento, tomada de Horace Kephart, para saber armar el fuego adecuado para cada comida. Kephart dice que hay que aprender a hacer tres tipos de fuego: (1) uno chico, rápido y caliente, que hierva el agua enseguida y deje brasas suaves para freír; (2) una buena cama de brasas que dure, para hornear, asar o hervir despacio; y (3) un gran fuego de troncos que tire calor hacia adelante y dure horas. El texto explica los dos primeros.
 
 ## Preparación
 1. Confirmá que en el lugar se permite hacer fuego y que no hay alerta de incendio.
 2. Despejá un círculo de 3 m sin hojas ni pasto seco y tené listos el balde de agua y la pala.
 
 ## Desarrollo
-1. Juntar leña: solo leña muerta caída, separada por grosor. El original pide no tomar ramitas que estén en el suelo, porque suelen estar húmedas: buscá las que quedan levantadas.
-2. Fuego de almuerzo: clavá una estaca con horqueta y apoyá una rama verde inclinada, con una piedra en la punta de abajo, para colgar la olla a unos 30 cm del suelo.
-3. Hacé tres palitos con virutas («palitos peinados»), paralos como trípode debajo de la olla y armá alrededor una pirámide chica de ramitas, dejando espacio para el aire. Encendé las virutas.
-4. Cuando el agua hierve, poné dos troncos paralelos al lado, pasá las brasas entre ellos y apoyá la sartén. Kephart dice que en veinte minutos la comida está lista: ¿lo logran?
-5. Fuego de cena: dos troncos paralelos sobre dos piedras, con la leña cruzada en capas entre ellos, para varias ollas a la vez.
-6. Apagado: echá agua, revolvé las cenizas con un palo, echá más agua y tocá con el dorso de la mano cerca de las cenizas. Si se siente calor, todavía no está apagado.
+**Fuego de almuerzo (rápido, para hervir y freír)**
+1. Se clava en el suelo una estaca con horqueta. Sobre ella se apoya una rama verde, inclinada desde el suelo hacia arriba, y se le pone una piedra encima en la punta de abajo. Así se puede regular la altura de la olla.
+2. En la punta de arriba la rama tiene una muesca o un muñón de ramita para colgar la olla, que debe quedar a unos 30 centímetros del suelo.
+3. Se junta un atado de ramitas secas, del grosor de un lápiz al de un dedo. No se usan las que están tiradas en el suelo, porque suelen estar húmedas o podridas. Mejor si es madera dura, que dura más.
+4. Con tres de los mejores palitos se hacen «palitos de virutas»: se les sacan virutas finas a lo largo de la mitad del palito, sin cortarlas del todo. Se paran en trípode bajo la olla, con los rulos para abajo.
+5. Alrededor se arma una pirámide chica con las otras ramitas, del tamaño de un sombrero, dejando espacio para que pase el aire.
+6. Se encienden los palitos de virutas. Hierve enseguida. Se alimenta con ramitas.
+7. Mientras tanto se consiguen dos troncos de unos 10 o 12 centímetros de grosor, o dos piedras planas. Cuando la olla hirvió, la leña ya es brasa: se sacan los tizones que humean, se ponen los dos troncos a los lados de las brasas, paralelos y nivelados, y se apoya la sartén encima. En veinte minutos está la comida.
+
+**Fuego de cena (parejo, para varias ollas)**
+1. Primero se junta mucha leña y astillas.
+2. Se ponen dos piedras planas, o dos tacos de tronco, a un metro uno del otro. Sobre ellos se apoyan dos troncos de 1,20 metros, paralelos y a unos centímetros entre sí: ahí van las ollas.
+3. Entre los troncos y debajo se acomodan las astillas, y encima se cruzan capas de palitos: cortos atravesados, largos a lo largo, y así, cada vez más gruesos.
+4. Recién ahí se enciende. Así todo se hace brasa al mismo tiempo y hay un calor parejo bajo varias ollas.
+
+**Precauciones del original:** antes de hacer fuego, se despeja el lugar de hojas secas, agujas de pino y basura. No se hace el fuego contra un tronco viejo y podrido, que puede quedar ardiendo días. Nunca se deja una chispa al irse: se empapa bien el fuego o se lo tapa del todo con tierra o arena. Kephart recuerda que un descuido puede provocar un incendio forestal terrible.
 
 ## Cierre
 - ¿Qué fuego fue más fácil de controlar? ¿Cuál cocinó mejor?
@@ -257,28 +271,8 @@ by a tornado of flame and burned alive. The person whose carelessness
 starts such a holocaust is worse than a fool--he is a criminal, and a
 disgrace to the good earth he treads."
 
-**Versión en español:**
-
-«Si uno quiere comer bien cocinando al aire libre y ahorrarse mucho tiempo y fastidio, o sea, si quiere estar cómodo en el monte, tiene que aprender a hacer a voluntad (1) un fuego chico, rápido y caliente que hierva el agua en un momento y que enseguida se convierta en brasas no demasiado fuertes para freír; o (2) un lecho firme de brasas duraderas que den un calor parejo, encendido y sin humo, para hornear, asar o hervir despacio; o (3) un gran fuego de troncos que tire el calor hacia adelante, sobre el suelo y adentro de una carpa o un refugio, y que dure varias horas sin agregarle leña.
-
-»*Fuego de almuerzo*. Para el almuerzo, o cualquier otra comida rápida, cuando solo hay que hervir café y freír algo, no hace falta un fuego grande. Clavá en el suelo una estaca con horqueta, apoyá encima una rama verde que suba inclinada desde el suelo y poné una piedra sobre la punta de abajo, de modo que puedas regular fácilmente la altura de la olla. La rama inclinada tiene que tener una muesca, o el muñón de una ramita en la punta de arriba, para sostener la olla, y estar puesta en un ángulo tal que la olla cuelgue a unos treinta centímetros del suelo.
-
-»Después juntá un atadito de ramitas sanas y secas, del grosor de un lápiz al de un dedo. No tomes ninguna ramita que esté tirada en el suelo, porque suelen estar húmedas o podridas. Elegí madera dura, si hay, porque dura más.
-
-»Elegí tres de tus mejores palitos para encender. Sacales virutas casi hasta el fondo, a lo largo de la mitad del palito, dejando la punta de abajo de las virutas pegada al palo, una debajo de la otra. Paralos en trípode debajo de la olla colgada, con los rulos hacia abajo. Alrededor armá con los otros palitos una *pequeña* pirámide cónica, cada uno parado de punta e inclinado hacia un centro común. Todo el armado no es más grande que tu sombrero. Dejá espacios libres para el aire entre los palitos. El fuego necesita aire, y mucho, y arde mejor cuando tiene por dónde trepar; de ahí la forma de pirámide. Ahora encendé los palitos con virutas y en un momento vas a tener un pequeño horno debajo de la olla. Va a levantar hervor enseguida. Alimentalo con palitos a medida que haga falta.
-
-»Mientras tanto, conseguí dos troncos de diez a doce centímetros de grosor, o un par de piedras planas, para apoyar la sartén. La leña se va a convertir toda en brasas poco después de que hierva la olla. Sacá los tizones que humean y dejá solo las brasas limpias y encendidas. Poné los troncos a cada lado, paralelos y nivelados. Apoyá la sartén encima y a freír. Así, en veinte minutos desde que clavaste la estaca, la comida está lista.
-
-»*Fuego de cena*. Primero juntá mucha leña y astillas. Si encontrás dos piedras grandes y planas, o varias chicas de la misma altura, usalas como morillos; si no, poné dos cortes cortos de un tronco de doce a quince centímetros, frente a vos y a un metro uno del otro. Sobre esas piedras o tacos apoyá dos troncos de un metro veinte, paralelos y a unos centímetros uno del otro, como apoyo para los utensilios. Acomodá las astillas entre ellos y debajo, con palitos chicos cruzados sobre los troncos, un par de palitos largos a lo largo, después más palitos cortos cruzados, otro par a lo largo y palitos cortos más gruesos cruzados. Después encendelo. Muchos prefieren encender las astillas enseguida e ir alimentando el fuego de a poco; pero yo lo hago como dije, para tener un calor parejo bajo varias ollas a la vez, y así los palos se hacen brasas todos juntos.
-
-[…]
-
-»*Precauciones*. Ya dije que hace falta despejar de material inflamable el terreno del campamento antes de hacer fuego, juntándolo hacia el centro y quemando todas las hojas secas, las agujas de pino y la basura; si no, puede prenderse y extenderse sin control apenas te des vuelta. No hagas el fuego contra un tronco viejo y podrido; puede quedar ardiendo sin llama uno o dos días después de que te fuiste y después estallar en llamas cuando lo avive la brisa.
-
-»*Nunca* dejes una chispa de fuego cuando levantás el campamento o cuando te vas por el día. Asegurate por completo empapando bien el fuego o tapándolo del todo con tierra o arena. Nunca tires al suelo un fósforo encendido sin pisarlo. ¿Viste alguna vez un incendio forestal? Es terrible. Se destruyen miles de hectáreas, y muchas veces hombres, mujeres y chicos quedaron atrapados por un tornado de llamas y murieron quemados. La persona cuyo descuido provoca una catástrofe así es peor que un tonto: es un criminal y una vergüenza para la tierra que pisa.»
-
 ---
-**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

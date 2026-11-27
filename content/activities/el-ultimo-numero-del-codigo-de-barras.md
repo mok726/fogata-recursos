@@ -136,29 +136,29 @@ rama_rovers:
 
 # El Último Número del Código de Barras
 
-## De qué se trata
+## Resumen
 Casi nadie revisa el ticket del supermercado porque confiamos en el código de barras. Y tiene razón: el último número del código es un «dígito verificador», que se calcula con los otros doce. Si la máquina lee mal un número, la cuenta no da, y la caja pide que se pase el producto de nuevo. Lo comprobamos con productos de verdad.
 
-## Cómo se juega
+## Desarrollo
 1. Cada patrulla elige un paquete y copia los 13 números del código de barras.
 2. Tapen el último número.
 3. Sumen los números que están en los lugares impares (el 1.°, el 3.°, el 5.°… hasta el 11.°).
 4. Sumen los números en los lugares pares (el 2.°, el 4.°… hasta el 12.°) y multipliquen esa suma por 3.
 5. Sumen los dos resultados.
-6. ¿Cuánto le falta a ese número para llegar a la próxima decena? Por ejemplo, si da 87, le faltan 3 para llegar a 90.
+6. ¿Cuánto le falta a ese número para llegar a la próxima decena? Por ejemplo, si da 87, le faltan 3 para llegar a 90, así que el número calculado es 3. Si la suma ya da una decena exacta (por ejemplo, 90), no le falta nada: el número calculado es 0.
 7. Destapen el último número. ¿Es el que calcularon?
 8. Ahora cambien un número del código a propósito y hagan la cuenta. ¿Se dan cuenta del error?
 
 ### Variante: Detectives de códigos
 Una patrulla copia códigos con un error escondido; la otra tiene que encontrar cuáles están mal.
 
-## Para cerrar
+## Cierre
 - ¿Por qué no alcanza con sumar todos los números, sin multiplicar por 3?
 - ¿Qué otros números usan un dígito verificador? (El CUIT y el CBU, por ejemplo.)
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
-- Los primeros tres números del código dicen de qué país es la empresa que lo registró: 779 es Argentina.
+- Los primeros tres números del código dicen de qué país es la empresa que lo registró: los códigos que empiezan con 778 o con 779 son de Argentina.
 
 ---
 **Fuente:** adaptada de la lección «Product code check digits» de [CS Unplugged](https://www.csunplugged.org/en/topics/error-detection-and-correction/product-code-check-digits/), del Computer Science Education Research Group de la Universidad de Canterbury (Nueva Zelanda), publicada bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es). El texto y la adaptación de esta ficha son de Fogata de Recursos (2026).

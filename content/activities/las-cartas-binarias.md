@@ -136,13 +136,13 @@ rama_rovers:
 
 # Las Cartas Binarias
 
-## De qué se trata
+## Resumen
 Las computadoras guardan todo con solo dos cosas: prendido o apagado, 1 o 0. Con cinco cartas que tienen 1, 2, 4, 8 y 16 puntos se ve clarito cómo funciona. Cada carta puede estar mostrando sus puntos (1) o dada vuelta (0). Sumando los puntos que se ven, se forma cualquier número del 0 al 31. Esa forma de escribir números se llama sistema binario.
 
 ## Preparación
 1. Prepará las cinco cartas grandes. Dibujá los puntos bien visibles.
 
-## Cómo se juega
+## Desarrollo
 1. Cinco voluntarios pasan al frente, cada uno con una carta, en este orden de derecha a izquierda: 1, 2, 4, 8 y 16 puntos.
 2. Miren las cartas: ¿qué patrón tienen? Cada una tiene el doble de puntos que la de la derecha.
 3. El dirigente pide un número, por ejemplo 5. Los demás tienen que decir qué cartas se muestran y cuáles se dan vuelta para que se vean exactamente 5 puntos (4 + 1).
@@ -157,11 +157,11 @@ Las computadoras guardan todo con solo dos cosas: prendido o apagado, 1 o 0. Con
 ### Variante: Contar con los dedos
 Con cada dedo levantado o bajado, como si fueran cartas, ¿hasta cuánto se puede contar con una mano?
 
-## Para cerrar
+## Cierre
 - ¿Por qué las computadoras usan solo dos estados?
 - ¿Qué otras cosas tienen dos estados (una lamparita, una puerta, un silbato)?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - La carta de 1 es la que cambia siempre: por eso todos los números impares la tienen mostrando.
 

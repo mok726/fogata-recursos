@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - ciudad
   - rastreo
   - persecucion
@@ -66,10 +67,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -134,17 +137,25 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Seguimiento en la Ciudad!
+# Seguimiento en la Ciudad
 
 ## Resumen
 Un scout elegido sale con dos minutos de ventaja. Dos de la patrulla lo siguen de cerca; los demás esperan sin mirar. Pasados los dos minutos, uno de los dos perseguidores vuelve a buscar al resto, mientras el otro no le pierde pisada y deja marcas de tiza para mostrar el camino. Si el perseguido se mantiene lejos el tiempo acordado, gana.
 
 ## Desarrollo
-1. Se reúnen en una calle tranquila. El perseguido sale con dos minutos de ventaja.
-2. Dos perseguidores lo siguen de cerca; los demás no miran.
-3. A los dos minutos, uno vuelve a buscar al resto; el otro sigue y marca el camino con tiza.
-4. El perseguido usa trucos para despistar (sin meterse en negocios ni casas).
-5. Si aguanta el tiempo acordado sin ser alcanzado, gana.
+Un juego de persecución por las calles de la ciudad: una patrulla tiene que seguirle el rastro a un compañero que intenta perderse.
+
+1. El guía de patrulla elige a un jugador para que sea el perseguido. Toda la patrulla se reúne en una calle bastante tranquila.
+2. Al perseguido se le dan dos minutos de ventaja. Durante ese tiempo, el resto de la patrulla se esconde y no lo mira, salvo dos jugadores que lo siguen de cerca.
+3. Pasados los dos minutos, uno de esos dos vuelve corriendo a buscar al resto de la patrulla y la guía tras el perseguido.
+4. Mientras tanto, el otro perseguidor no le pierde pisada al perseguido, con cuidado y paciencia. Los dos van por lo menos cuatro o cinco minutos adelante del resto.
+5. Para que los demás sepan por dónde fueron, el perseguidor va tirando papel picado o haciendo marcas con tiza, hasta que la patrulla lo alcanza.
+6. El perseguido puede usar todas las mañas que se le ocurran para despistar a los que lo siguen.
+7. Antes de empezar se acuerda un tiempo límite.
+
+**Cómo se gana:** si el perseguido logra mantenerse lejos durante todo el tiempo acordado, gana él. Si lo alcanzan antes, gana la patrulla.
+
+**Consejo del original:** todos tienen que estar bien entrenados para correr y para usar sus técnicas scouts.
 
 ## Cierre
 - ¿Qué marcas fueron más fáciles de seguir?
@@ -162,15 +173,12 @@ Un scout elegido sale con dos minutos de ventaja. Dos de la patrulla lo siguen d
 
 Patrol-leader picks a scout to be pursued; then the whole patrol meets in a fairly quiet street in a town. The chosen Scout is allowed two minutes' grace, whilst the others hide and do not watch him during that time, except two, who follow him closely. After two minutes one of them then runs back and brings the rest of the patrol along, hot on the track of the pursued one. Meanwhile the remaining shadower holds on carefully and tenaciously, pursuer and pursued being at least four or five minutes in advance of the rest. To show which way they have gone, the pursuing Scout drops confetti or makes chalk-marks until the others reach him. All must, of course, be well trained in running and using their Scoutcraft, and the pursued Scout can make use of many dodges to throw his pursuers off the track. It should be agreed beforehand that if he keeps away for a certain time he wins the game.
 
-**Versión en español:**
-
-**SEGUIMIENTO.**
-
-El guía elige a un scout para que sea perseguido; luego toda la patrulla se reúne en una calle bastante tranquila de una ciudad. Al scout elegido se le dan dos minutos de ventaja, mientras los demás se esconden y no lo miran durante ese tiempo, salvo dos, que lo siguen de cerca. Pasados los dos minutos, uno de ellos vuelve corriendo y trae al resto de la patrulla, pisándole los talones al perseguido. Mientras tanto, el otro perseguidor no le pierde pisada con cuidado y tenacidad, y perseguidor y perseguido van al menos cuatro o cinco minutos adelante del resto. Para mostrar hacia dónde fueron, el scout que persigue tira papel picado o hace marcas de tiza hasta que los demás lo alcanzan. Todos tienen que estar, por supuesto, bien entrenados en correr y en usar su técnica scout, y el perseguido puede usar muchas mañas para despistar a sus perseguidores. Hay que acordar de antemano que si se mantiene lejos durante cierto tiempo, gana el juego.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VII (Town Games), juego 1. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VII (Town Games), juego 1: «Shadowing». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

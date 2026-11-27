@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "A Oscuras como el Lobo"
+title: "El Lobo Tiene Bigotes para Tantear el Camino"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-oscuras-como-el-lobo/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,19 +147,24 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡A Oscuras como el Lobo!
+# El Lobo Tiene Bigotes para Tantear el Camino
 
 ## Resumen
-B-P cuenta que un scout tiene que trabajar de noche tanto como de día, y que una vez guió soldados por un bosque oscuro tanteando sus propias huellas. Propone practicar a oscuras y con los ojos vendados, guiándose por sonidos y olores.
+Una charla de B-P para los lobatos sobre cómo arreglarse en la oscuridad usando el oído, el olfato y el tacto, igual que el lobo, que tantea el camino con los bigotes y se guía por la nariz. Sirve para abrir una reunión o un juego nocturno.
 
 ## Preparación
 1. Prepará un recorrido seguro con "pistas": una campanita en un punto, un olor fuerte en otro, una textura distinta en el piso o en una pared.
 
 ## Desarrollo
-1. En parejas: uno con los ojos vendados, el otro lo cuida sin guiarlo (solo lo frena si hay peligro).
-2. El vendado recorre el camino guiándose por las pistas: el sonido de la campanita, el olor a café o a naranja, la textura del piso.
-3. Al llegar, cambian los roles.
-4. Como desafío para la casa: vestirse a la mañana, lavarse los dientes y peinarse sin prender la luz, como propone B-P (con permiso de la familia).
+1. **La idea.** Un scout de verdad no confía solo en la vista. Tiene que moverse tanto de noche como de día, y en la oscuridad no se ve bien, así que necesita usar los otros sentidos.
+2. **El ejemplo de B-P.** Cuenta que una vez tuvo que guiar de noche a un grupo grande de soldados a través de un bosque oscuro. Como había pasado por ahí el día anterior, encontró sus propias huellas en el suelo y las fue siguiendo con los pies, tanteándolas a medida que avanzaba.
+3. **Lo que propone practicar.** Levantarse a oscuras a la mañana y hacer todo sin prender la luz: lavarse, cepillarse los dientes, hacer los ejercicios, vestirse y hasta hacerse el nudo de la corbata y peinarse. Al principio cuesta, pero enseguida sale fácil. También se puede practicar encontrar el camino con los ojos vendados.
+4. **El oído.** Hay sonidos que ayudan a saber hacia dónde se va: las campanadas del reloj de una iglesia, el silbato del tren en la estación o el canto de un pájaro en un bañado.
+5. **El olfato.** Por el olor se puede saber que uno pasa al lado de un establo, de un almacén o de un corral, y guiarse por eso.
+
+**El relato del guía ciego (del original):** en Egipto había un viejo guía árabe completamente ciego que, aun en el desierto, sabía por dónde iba oliendo la arena. Cada tanto levantaba un puñado y lo olía para ver si iba bien, y reconocía el olor de cada lugar de campamento. Una vez sus compañeros quisieron hacerle una broma: llevaron una bolsa con arena del campamento anterior y, al llegar al nuevo, le dieron a oler esa arena diciéndole que la acababan de juntar. El ciego la olió, se quedó desconcertado, la volvió a oler y les pidió disculpas: creía que se había equivocado y los había llevado de vuelta al campamento de antes. Estuvo muy apenado hasta que, riéndose, le contaron la broma.
+
+**Cómo usarlo en la reunión:** el que dirige cuenta la idea y el relato con sus palabras y después propone a los lobatos alguna de las prácticas del punto 3, por ejemplo recorrer un trayecto corto con los ojos vendados guiándose por sonidos y olores.
 
 ## Cierre
 - ¿Qué sentido te ayudó más cuando no podías ver?
@@ -190,27 +196,8 @@ The blind man smelt it, looked puzzled, and smelt it again, and then said he was
 He was quite miserable about it till they told him laughingly of the trick they had played him.
 [The section continues with anecdotes from the Zulu and South African wars and a criminal case in France, omitted here.]
 
-**Versión en español:**
-
-**EL LOBO TIENE BIGOTES PARA TANTEAR EL CAMINO**
-Un scout de verdad no confía solo en la vista, porque tiene que trabajar tanto de noche como de día y, claro, en la oscuridad no ve tan bien, así que tiene que usar otros sentidos, como el oído, el olfato y el tacto.
-Una vez tuve que guiar de noche a una gran tropa de soldados a través de un bosque oscuro para atacar al enemigo. Había estado ahí el día anterior, así que encontré mis propias huellas y las seguí tanteándolas a medida que avanzaba.
-Todo scout tiene que trabajar en la oscuridad, así que le aconsejo a cada lobato que aprenda a hacerlo.
-Es una muy buena práctica levantarse a oscuras todas las mañanas, bañarse o frotarse con la toalla, lavarse los dientes, hacer los ejercicios, vestirse y hasta hacerse el nudo de la corbata y peinarse sin prender nunca la luz. Enseguida te sale bastante fácil.
-También podés practicar encontrar el camino con los ojos vendados.
-Entonces descubrís lo útil que es tener otros sentidos.
-Podés escuchar sonidos que te ayudan a saber la dirección. Podés oír las campanadas del reloj de la iglesia, o un silbato en la estación de tren, o el canto de un zarapito en el pantano: todas esas cosas pueden ayudarte a saber hacia dónde vas cuando no podés ver.
-O podés, por el olor, saber que estás pasando por un establo, por el almacén o por un corral, y guiarte de esa manera.
-
-**EL LOBO TIENE BUEN OLFATO**
-Había un viejo guía árabe en Egipto que era completamente ciego y, sin embargo, conocía el camino, incluso en el desierto, por el olor de la arena. De vez en cuando levantaba un puñado y lo olía para ver si iba por buen camino. Conocía el olor de cada lugar de campamento cuando llegaba.
-Una vez sus compañeros quisieron hacerle una broma: trajeron una bolsa de arena del campamento anterior y, al llegar al nuevo, le dieron un poco de esa arena para oler, diciéndole que la acababan de levantar.
-El ciego la olió, puso cara de desconcierto, la volvió a oler y entonces dijo que lo sentía muchísimo: se había equivocado y los había llevado de vuelta al campamento anterior.
-Estuvo muy apenado hasta que, riéndose, le contaron la broma que le habían hecho.
-[La sección sigue con anécdotas de las guerras zulú y sudafricana y un caso policial en Francia, que se omiten acá.]
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

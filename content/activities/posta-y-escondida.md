@@ -9,13 +9,13 @@ summary: "Terminar la posta y encontrar al que se escondió."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,22 +135,38 @@ rama_rovers:
 
 # Posta y Escondida
 
-## De qué se trata
-Las patrullas corren una posta común. Mientras están concentradas, el que dirige se escapa y se esconde en el predio. Cuando cada patrulla termina la posta, tiene que encontrarlo y entregarle el objeto que le tocó. Gana la primera que lo logra.
+## Resumen
+Una carrera de postas con sorpresa: al terminar, hay que salir a buscar al que dirige, que se escondió mientras todos corrían.
 
-## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. Cada guía recibe un objeto para entregar después.
-3. Se corre una posta simple: cada uno corre hasta una marca y vuelve a tocar al siguiente.
-4. Mientras todos corren, el que dirige se escapa sin que lo vean y se esconde. Otro dirigente sigue controlando la posta.
-5. Cuando una patrulla termina, sale a buscarlo toda junta.
-6. La primera patrulla que lo encuentra y le entrega su objeto, gana.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-## Para cerrar
+1. Antes de empezar, cada equipo recibe un objeto que tiene que entregar al final (un pañuelo, una piedra pintada, un bastón): se acuerda de antemano cuál es el de cada uno.
+2. Se larga una carrera de postas cualquiera, la que el grupo ya conozca.
+3. Mientras los jugadores están concentrados en la carrera, el que dirige se escapa sin que lo vean y se esconde en algún lugar del predio o del edificio.
+4. Cuando un equipo termina la posta, sale enseguida a buscarlo, llevando su objeto.
+5. Al encontrarlo, le entregan el objeto que les tocaba.
+
+**Cómo se gana:** gana el primer equipo que le entrega al que dirige su objeto acordado.
+
+## Cierre
 - ¿Alguien vio para dónde se fue? ¿Les sirvió prestar atención además de correr?
 
-## Notas para educadores
+## Notas para el educador
 - Marcá bien el límite del predio para que nadie se aleje demasiado.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HIDE-AND-SEEK RELAY.**
+
+Some form of relay race is started and the leader slips out and hides somewhere in the grounds or building. As soon as they have finished the race each team tries find the leader and give him some object. First team to get their prearranged object to the leader wins.
+
 ---
-**Fuente:** inspirada en el juego «Hide-and-Seek Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 9, «Hide-and-seek Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

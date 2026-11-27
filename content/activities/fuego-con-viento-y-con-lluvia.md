@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - fuego
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -144,18 +148,27 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Fuego con Viento y con Lluvia!
+# Fuego con Viento y con Lluvia
 
 ## Resumen
-«Hacer fuego al aire libre cuando llueve es una buena prueba del ingenio de una persona», dice Kephart. Para la lluvia, busca leña seca debajo de troncos caídos levantados, de rocas salientes o en el corazón de un tocón viejo. También en la cara de abajo de un árbol muerto inclinado. Para el viento, enseña a encender el fósforo **mirando hacia el viento**, con las manos en cuenco y la cabeza del fósforo hacia el viento, para que la llama suba por el palito. Es un desafío por patrullas con pocos fósforos.
+Consejos de técnica de campamento para prender fuego cuando el tiempo no ayuda. Sirven para practicar en una salida, con la supervisión de un dirigente.
 
 ## Desarrollo
-1. Mostrá cómo se enciende un fósforo con viento: de frente al viento, manos en cuenco con el dorso hacia el viento, la cabeza del fósforo apuntando hacia el viento. Raspá cerca y volvé enseguida a cubrirlo.
-2. Práctica: cada scout tiene dos fósforos para lograrlo con viento (o con alguien abanicando).
-3. Búsqueda de leña seca: cada patrulla tiene 10 minutos para encontrar material seco en un terreno húmedo (o después de rociarlo). Piensen dónde no llegó la lluvia.
-4. Partir para encontrar lo seco: con el cuchillo, mostrá cómo la parte de adentro de un palo mojado suele estar seca, y hacé virutas.
-5. Desafío: con un máximo de tres fósforos, cada patrulla tiene que encender un fuego chico y hacerlo durar cinco minutos.
-6. Apaguen todo con agua y revuelvan hasta que esté frío.
+**Un buen material para encender.** El original recomienda la corteza de abedul, un árbol del hemisferio norte: está llena de aceite resinoso, prende enseguida, arde aunque haya viento y con ella se llegan a encender palos mojados. La idea es buscar un material fino, seco y resinoso que cumpla la misma función.
+
+**Hacer fuego cuando llueve.** Lograrlo es una buena prueba del ingenio de cada uno. Cómo hacerlo depende del lugar:
+
+1. Si hay pino resinoso (madera de pino cargada de resina), es fácil: se parte en astillas y se hace el fuego debajo de un tronco grande caído, que lo protege de la lluvia.
+2. Se puede encontrar leña seca, y un lugar seco para el fuego, debajo de troncos grandes que quedaron levantados, de rocas que forman un alero, de otros reparos naturales parecidos, o adentro de un tocón viejo (lo que queda de un árbol cortado).
+3. Si no hay nada de eso, se busca un árbol muerto de madera blanda que esté inclinado. La cara de abajo del tronco, la que mira al suelo, va a estar seca: se saca un poco de madera y corteza de ahí, se parte fino y se hace el fuego al reparo del tronco.
+
+**Encender un fósforo con viento:**
+
+1. Ponete de frente al viento.
+2. Hacé un cuenco con las dos manos, con el dorso hacia el viento.
+3. Sostené el fósforo con la cabeza apuntando hacia el fondo del cuenco, es decir, hacia el viento.
+4. Sacá la mano derecha apenas un instante para raspar el fósforo en algo que tengas muy cerca, y volvé enseguida a cerrar el cuenco.
+5. Así la llama sube por el palito en lugar de apagarse, y tiene de qué alimentarse.
 
 ## Cierre
 - ¿Dónde encontraron la leña más seca?
@@ -198,18 +211,8 @@ then instantly resume the former position. The flame will run up the
 match stick, instead of being blown away from it, and so will have
 something to feed on.
 
-**Versión en español:**
-
-»La corteza de todas las especies de abedul, pero sobre todo la del abedul papirífero, es excelente para encender y para antorchas. Está llena de aceite resinoso, se enciende enseguida, arde con cualquier viento y con ella se pueden encender palos mojados.
-
-»*Hacer fuego en lo mojado*. Hacer fuego al aire libre cuando llueve es una buena prueba del ingenio de una persona. La mejor forma de hacerlo depende de las condiciones del lugar. Si se encuentra pino resinoso, el truco es fácil: partilo y empezá el fuego debajo de un tronco grande caído. Muchas veces se encuentra leña seca y un lugar para hacer fuego debajo de troncos grandes levantados, rocas salientes y reparos naturales parecidos, o en el corazón de un tocón viejo. Si no hay nada de eso, buscá un árbol muerto de madera blanda que se incline hacia el sur. La madera y la corteza de la cara de abajo van a estar secas; cortá un poco, partilo fino y hacé el fuego al reparo del tronco.
-
-»*Encender un fósforo*. Cuando no hay nada seco donde rasparlo, raspá la cabeza del fósforo hacia adelante contra los dientes.
-
-»Para encender un fósforo con viento, poné la cara *hacia* el viento. Hacé un cuenco con las manos, con el dorso hacia el viento, y sostené el fósforo con la cabeza apuntando hacia el fondo del cuenco, es decir, hacia el viento. Sacá la mano derecha apenas el tiempo justo para raspar el fósforo en algo muy cerca; después volvé enseguida a la posición anterior. La llama va a subir por el palito del fósforo, en vez de alejarse de él con el viento, y así va a tener de qué alimentarse.
-
 ---
-**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

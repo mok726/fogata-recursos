@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué Pasó Acá? Huellas en la Arena"
+title: "Problemas de Huellas en la Arena"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-paso-aca-huellas-en-la-arena/"
@@ -9,13 +9,13 @@ summary: "Leer las huellas de una escena y contar qué pasó."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -132,30 +138,44 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¿Qué Pasó Acá? Huellas en la Arena
-
-## De qué se trata
-Se alisa un pedazo de arena. Mientras las patrullas no miran, uno o dos dirigentes actúan una escena corta: llegan caminando, uno corre, deja caer una pelota, otro la patea, se sientan, se van para lados distintos. Las patrullas miran las huellas unos minutos y cuentan qué pasó.
+# Problemas de Huellas en la Arena
 
 ## Preparación
 1. Alisá bien la arena o la tierra húmeda.
 2. Planeá una escena corta con cuatro o cinco acciones claras.
 
-## Cómo se juega
-1. Las patrullas se alejan y se quedan de espaldas.
-2. Los dirigentes hacen la escena sobre la arena, despacio, para que las huellas queden claras.
-3. Cada patrulla, por turno, se acerca hasta el borde. Pueden mirar tres minutos, pero no pisar la arena.
-4. Se juntan y escriben la historia: ¿cuántas personas había? ¿Quién corrió y quién caminó? ¿Qué pasó en el medio? ¿Para dónde se fueron?
-5. Cada patrulla cuenta su versión.
-6. Los dirigentes repiten la escena a la vista de todos. Gana la patrulla que más se acercó.
+## Resumen
+Un juego de rastreo: leer en el suelo lo que pasó.
 
-## Para cerrar
+## Desarrollo
+1. Se prepara una franja de arena o de tierra suelta y alisada.
+2. Sin que los jugadores miren, uno o dos dirigentes representan ahí una escena simple: por ejemplo, alguien camina, se para, deja caer algo, otro llega corriendo, se pelean, uno se va arrastrando un pie.
+3. Cada equipo puede estudiar las huellas durante unos minutos, sin pisarlas.
+4. Después cada equipo da su informe: qué cree que pasó y por qué.
+5. Al final se vuelve a representar la escena delante de todos para comparar.
+
+**Cómo se gana:** gana el equipo que mejor reconstruye lo que pasó.
+
+## Cierre
 - ¿En qué se nota en la huella si alguien corre o camina?
 - ¿Qué huellas de animales podrían encontrar en el lugar del campamento?
 
-## Notas para educadores
+## Notas para el educador
 - Antes del juego, mostrá cómo cambia la huella al caminar, correr, cargar peso o caminar para atrás.
 - Combina con las fichas de rastreo de B-P (Dibujá la Huella, Memoria de Huellas).
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SAND TRACK PROBLEMS.**
+
+A simple scene is performed on a sand track or other prepared ground. Each team is allowed to study the tracks for a few minutes and then gives its report. The scene is then re- enacted.
+
 ---
-**Fuente:** inspirada en el juego «Sand Track Problems» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 74, «Sand Track Problems». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

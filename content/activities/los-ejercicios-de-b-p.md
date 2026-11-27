@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los Ejercicios de B-P"
+title: "Ejercicios Corporales"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/los-ejercicios-de-b-p/"
@@ -50,6 +50,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -63,11 +64,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,17 +144,34 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Los Ejercicios de B-P!
+# Ejercicios Corporales
 
 ## Resumen
-B-P propone dos ejercicios para hacer todos los días, muy despacio: estirarse hacia el cielo y bajar a tocar la punta de los pies con las rodillas rectas; y, en puntas de pie con las manos en la cintura, bajar flexionando las rodillas hasta quedar en cuclillas y volver a subir, respirando por la nariz al subir.
+Dos ejercicios físicos que B-P recomendaba a los lobatos para crecer sanos y fuertes. Se pueden enseñar en la reunión para que cada uno los haga en casa.
 
 ## Desarrollo
-1. **Tocar la punta de los pies:** parados con los pies un poco separados, manos en la cabeza, mirar al cielo inclinándose un poco hacia atrás y tomar aire por la nariz.
-2. Estirar los brazos bien arriba, soltar el aire diciendo el número de la repetición, y bajar despacio con las rodillas rectas hasta tocar la punta de los pies (o las canillas, si todavía no llegan). Subir despacio. Repetir varias veces.
-3. **Flexión de rodillas:** en posición de alerta, descalzos si se puede, manos en la cintura, en puntas de pie con las rodillas hacia afuera. Bajar despacio hasta quedar en cuclillas sin apoyar los talones, y volver a subir.
-4. Respirar por la nariz al subir y soltar el aire contando por la boca al bajar.
-5. Propongan hacerlos cada mañana y cada noche durante una semana.
+**Cuándo y cómo.** B-P pide hacerlos todos los días, o varias veces por día (sobre todo al levantarse y antes de acostarse), y no «una vez cada muerte de obispo». Hay que hacerlos muy despacio, estirando bien cada músculo.
+
+**1. Tocarse la punta de los pies.** Trabaja la parte baja del cuerpo y la parte de atrás de los muslos, y también es un ejercicio de respiración.
+1. Parate con los pies un poco separados, apoyá las dos manos en la cabeza y mirá al cielo, inclinándote hacia atrás todo lo que puedas.
+2. Tomá aire por la nariz.
+3. Estirá los dos brazos hacia arriba todo lo que puedas y soltá el aire diciendo el número de la repetición que estás haciendo.
+4. Inclinate despacio hacia adelante y hacia abajo, con las rodillas rectas, hasta tocarte la punta de los pies con la punta de los dedos.
+5. Sin doblar brazos ni rodillas, volvé a subir de a poco a la posición del principio. Repetilo varias veces.
+
+Al que no llega a los pies, B-P le aconseja tocarse primero las canillas y seguir intentando: en unos días llega. Él se los tocaba con los nudillos, que es más difícil. ¡A ver quién puede!
+
+Si alguien quiere sumar una oración, B-P propone que, al mirar al cielo, le diga a Dios: «Soy tuyo de pies a cabeza».
+
+**2. Flexión de rodillas.** Trabaja las piernas y los pies.
+1. Parate derecho, en posición de alerta, mejor descalzo (así se fortalecen los dedos de los pies, que ayudan a correr y saltar), con las puntas de los pies hacia afuera y las manos en la cintura.
+2. Ponete en puntas de pie y girá las rodillas hacia afuera.
+3. Doblá las rodillas de a poco hasta quedar en cuclillas, sin apoyar los talones en ningún momento. Mientras bajás, soltá el aire por la boca contando.
+4. Subí de a poco hasta volver a la posición de alerta, tomando aire por la nariz. Repetilo varias veces.
+
+Durante todo el ejercicio, la parte baja de la espalda va derecha y el peso del cuerpo está siempre en las puntas de los pies.
+
+**La idea de B-P:** así como en este ejercicio las manos en la cintura te sostienen firme, estés parado o sentado, trabajando o descansando, tratá de mantenerte firme y de hacer lo correcto.
 
 ## Cierre
 - ¿Llegaste a tocarte la punta de los pies? ¿Y al final de la semana?
@@ -184,27 +202,8 @@ The weight of the body must be on the toes all the time, and the knees turned ou
 And since this exercise makes you alternately stand up and squat down, you can remember that whether you are standing or sitting, at work or resting, you will hold yourself together, as your hands on your hips are doing, and make yourself do what is right.
 These exercises are not merely intended as a way of passing time, but really to help a fellow to grow big as well as to grow strong.
 
-**Versión en español:**
-
-**EJERCICIOS CORPORALES**
-Ahora hay algunos ejercicios corporales para que practiques. Si los aprendés y los hacés de verdad vos mismo todos los días, o varias veces por día —sobre todo al levantarte a la mañana y antes de acostarte a la noche—, te van a ayudar a crecer sano, fuerte y grande mucho más rápido que si no los practicaras.
-Pero hay que hacerlos todos los días, no cuando se te ocurre, una vez cada muerte de obispo.
-Y hay que hacerlos muy despacio, estirando cada músculo de adentro del cuerpo además de los de afuera, y en un abrir y cerrar de ojos vas a estar grandote y fuerte.
-**"Ejercicio de tocarse la punta de los pies".** Para la parte baja del cuerpo y la parte de atrás de los muslos. También es un ejercicio de respiración con el que se desarrollan los pulmones y el corazón, y la sangre se vuelve fuerte y sana. Simplemente te parás, te estirás todo lo que puedas hacia el cielo y después te inclinás hacia adelante y hacia abajo hasta tocarte la punta de los pies con los dedos, sin doblar las rodillas.
-Parate con los pies un poco separados, tocate la cabeza con las dos manos y mirá al cielo, inclinándote hacia atrás todo lo que puedas, como en la Fig. 1.
-Si mezclás la oración con tus ejercicios, mientras mirás hacia arriba así podés decirle a Dios: "Soy tuyo de pies a cabeza", y respirar el aire de Dios (por la nariz, no por la boca). Después estirá las dos manos hacia arriba todo lo que puedas (Fig. 2), soltá el aire diciendo el número de la repetición que estás haciendo; después inclinate despacio hacia adelante y hacia abajo, con las rodillas rectas, hasta tocarte la punta de los pies con la punta de los dedos (Fig. 3).
-Después, manteniendo los brazos y las rodillas rectos, volvé a subir de a poco a la primera posición, y repetí el ejercicio varias veces.
-A algunos les cuesta mucho tocarse la punta de los pies, pero tienen que seguir intentando, tocándose primero las canillas; en unos días van a llegar a los pies. Yo me toco la punta de los pies con los nudillos, que es bastante más difícil que con la punta de los dedos, y estira muy bien los tendones de atrás de las piernas. ¡A ver si podés!
-**"Ejercicio de flexión de rodillas".** Para las piernas y los pies; y, por dentro, para la parte de arriba del estómago.
-Parate en posición de alerta (mejor descalzo, porque así se fortalecen los dedos de los pies, y los dedos fuertes ayudan a correr y a saltar). Puntas de los pies hacia afuera. Poné las manos en la cintura, parate en puntas de pie, girá las rodillas hacia afuera y flexionalas de a poco hasta ir bajando a la posición de cuclillas, sin apoyar los talones en ningún momento.
-Después subí el cuerpo de a poco hasta volver a la posición de alerta. Repetilo varias veces.
-La parte baja de la espalda tiene que estar metida. Hay que tomar el aire por la nariz al subir y soltarlo contando, por la boca, al bajar.
-El peso del cuerpo tiene que estar todo el tiempo en las puntas de los pies, con las rodillas hacia afuera para mantener el equilibrio más fácil. Mientras hacés el ejercicio, acordate de que su objetivo es fortalecer los muslos, las pantorrillas y los tendones de los dedos de los pies, además de ejercitar el estómago, así que si lo practicás en cualquier momento libre del día te va a hacer todavía mejor.
-Y como este ejercicio te hace pararte y agacharte alternadamente, podés recordar que, estés parado o sentado, trabajando o descansando, te vas a mantener firme, como hacen tus manos en la cintura, y te vas a obligar a hacer lo correcto.
-Estos ejercicios no son solo una forma de pasar el tiempo, sino que de verdad ayudan a crecer tanto en tamaño como en fuerza.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Soplá por el Aro"
+title: "Soplá, Soplá"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sopla-por-el-aro/"
@@ -9,13 +9,13 @@ summary: "Hacer pasar un globo por el aro soplando."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,24 +135,38 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Soplá por el Aro
+# Soplá, Soplá
 
-## De qué se trata
-Cada patrulla se agrupa debajo de un aro colgado, un poco más arriba de sus cabezas. Tienen un globo que deben hacer pasar por el aro, de cualquier lado, solo soplando. Si cae al piso, se puede levantar con las manos; si no, nadie lo puede tocar.
+## Resumen
+Un juego de soplido en equipo: hay que hacer pasar un globo por un aro colgado, solo soplando.
 
-## Cómo se juega
-1. Colguen los aros a unos 20 cm por arriba de la cabeza del más alto.
-2. Cada patrulla se pone debajo de su aro con su globo.
-3. A la orden, tiran el globo para arriba y soplan para que pase por el aro.
-4. No lo pueden tocar con el cuerpo mientras está en el aire.
-5. Si cae al piso, cualquiera lo levanta y lo vuelve a tirar.
-6. Gana la primera patrulla que hace pasar el globo tres veces.
+## Desarrollo
+1. Para cada equipo se cuelga un aro chico de madera (o de otro material liviano), de modo que la parte de abajo del aro quede apenas por arriba de la cabeza de un jugador de estatura promedio.
+2. Cada equipo se agrupa alrededor de su aro y recibe un globo inflado.
+3. A la orden de empezar, los jugadores soplan el globo para mantenerlo en el aire y hacerlo pasar por el aro. Puede pasar en cualquier dirección.
+4. El globo no se puede tocar con las manos ni con nada mientras está en el aire. Solo si se cae al piso se lo puede levantar con la mano para volver a empezar.
+5. Cada vez que el globo pasa por el aro es un «soplido», es decir, un tanto.
 
-## Para cerrar
+**Cómo se gana:** gana el primer equipo que hace tres «soplidos».
+
+## Cierre
 - ¿Cómo se organizaron para soplar todos para el mismo lado?
 
-## Notas para educadores
+## Notas para el educador
 - Juego cortito y muy divertido para hacer bajo techo.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLOW, BLOW.**
+
+Each team is grouped round a small wooden hoop hung so that the bottom is just above the average player’s head. Each team has a toy balloon which they try to blow through their hoop in any direction. If the balloon falls to the floor it may be picked up, hut otherwise may not be touched. First team to score three “ blows” wins.
+
 ---
-**Fuente:** inspirada en el juego «Blow, Blow» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 61, «Blow, Blow». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

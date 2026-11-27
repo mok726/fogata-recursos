@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Gato y el Ratón en las Calles"
+title: "El Gato y el Ratón"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gato-y-el-raton-en-las-calles/"
@@ -9,13 +9,13 @@ summary: "Perseguir al ratón por calles que cambian con el silbato."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,21 +132,32 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Gato y el Ratón en las Calles
+# El Gato y el Ratón
 
-## De qué se trata
-Los jugadores forman filas de a cuatro o cinco, agarrados de las manos con los de al lado: así quedan calles entre las filas. Un gato persigue a un ratón por las calles. Cuando el que dirige toca el silbato, todos giran a la derecha y se agarran de las manos con los nuevos vecinos: las calles cambian de dirección y el gato o el ratón quedan encerrados.
+## Resumen
+Una mancha en la que un gato persigue a un ratón por calles formadas por los demás jugadores, y las calles cambian de golpe.
 
-## Cómo se juega
-1. Formen filas iguales, de cuatro o cinco, una detrás de la otra, con los brazos estirados agarrando a los de al lado.
-2. Entre las filas quedan calles. Se eligen un gato y un ratón.
-3. A la orden, el gato persigue al ratón, solo por las calles. Nadie puede pasar por debajo de los brazos.
-4. Cuando suena el silbato, todos giran a la derecha y se agarran de las manos con los nuevos vecinos.
-5. Ahora las calles van para el otro lado.
-6. Si el gato atrapa al ratón, o si pasa un rato y no lo atrapa, se eligen otros dos.
+## Desarrollo
+1. Todos los jugadores, menos dos, se forman en filas de a cuatro, una detrás de otra, como un cuadriculado. Cada uno toma de las manos a los de sus costados, con los brazos estirados. Así, entre fila y fila quedan calles por donde se puede correr.
+2. De los dos que quedan afuera, uno es el gato y el otro es el ratón. El gato persigue al ratón por las calles, entrando y saliendo de la formación.
+3. Cada vez que el que dirige toca el silbato, todos los jugadores de la formación giran a la derecha y se toman de las manos con los que ahora tienen a los costados. Así, las calles cambian de dirección y el gato o el ratón pueden quedar encerrados de golpe.
+4. Si el ratón no es atrapado en un tiempo bastante corto, también hay que cambiar a los corredores, para que todos jueguen.
 
-## Para cerrar
+## Cierre
 - ¿Quién les sacó ventaja a los cambios de calle?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CAT AND MOUSE.**
+
+Players fall-in in fours, holding hands of those on each side. One player chases another in and out of the lines. Each time the leader blows a whistle all players turn right and hold hands with the player now on each side of them, thus changing the lanes for the runs. If the mouse is not caught in a fairly short time a change of runners should be made.
+
 ---
-**Fuente:** inspirada en el juego «Cat and Mouse» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 2, «Cat and Mouse». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,16 +140,19 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Memoria de Huellas!
+# Memoria de Huellas
 
 ## Resumen
-Una patrulla se sienta con los pies levantados y las demás estudian sus suelas tres minutos. Después, sin que nadie mire, uno de ellos deja huellas en tierra blanda. Cada scout pasa a mirarlas y dice quién las hizo.
+Un juego de observación y rastreo: hay que reconocer quién dejó una huella mirando la suela de su calzado.
 
 ## Desarrollo
-1. La patrulla "modelo" muestra las suelas durante tres minutos.
-2. Los observadores se van a otro lugar sin ver.
-3. Un integrante de la patrulla modelo camina sobre tierra blanda o arena.
-4. Los observadores pasan de a uno, miran las huellas y dicen (en voz baja al árbitro) quién las hizo.
+1. Una patrulla se sienta con los pies levantados, mostrando las suelas de las zapatillas o los botines.
+2. Los demás scouts tienen unos 3 minutos para estudiar bien esas suelas: el dibujo, el tamaño, si están gastadas de algún lado, si tienen alguna marca especial.
+3. Después los scouts que estudiaron se van a una habitación o a un lugar desde donde no puedan ver.
+4. Mientras tanto, uno de la patrulla deja algunas huellas en un pedazo de suelo bueno para marcar: tierra blanda, arena o barro.
+5. Se llama a los scouts de a uno. Cada uno mira la huella y dice quién de la patrulla la hizo.
+
+**Cómo se gana:** el original no da puntaje; lo natural es que gane el que acierta, o se le da un punto a cada uno que reconoce bien al dueño de la huella. Se puede repetir con otro integrante de la patrulla.
 
 ## Cierre
 - ¿Qué detalles de la suela los ayudaron (dibujo, desgaste, tamaño)?
@@ -164,14 +171,8 @@ leaving the scouts in a room or out of sight let one of the patrol make
 some footmarks in a good bit of ground. Call up the scouts one by one
 and let them see the track and say who made it.
 
-**Versión en español:**
-
-**MEMORIA DE HUELLAS.**
-
-Hacé que una patrulla se siente con los pies levantados para que otros scouts puedan estudiarlos. Dales a los scouts, digamos, tres minutos para estudiar los botines. Después, dejando a los scouts en una habitación o donde no puedan ver, hacé que uno de la patrulla deje algunas huellas en un buen pedazo de suelo. Llamá a los scouts de a uno, que vean la huella y digan quién la hizo.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

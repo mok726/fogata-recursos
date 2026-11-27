@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "As de Guía: el Lazo que No Corre"
+title: "As de Guía"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/as-de-guia-el-lazo-que-no-corre/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - nudos
   - as-de-guia
@@ -66,7 +67,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -133,19 +137,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡As de Guía: el Lazo que No Corre!
+# As de Guía
 
 ## Resumen
-El as de guía hace un lazo del tamaño que quieras, que no se cierra ni se suelta. El manual enseña un método paso a paso sobre la palma de la mano. Primero se mide el lazo, después se hace un seno chico y por ahí entra y sale el chicote. Se practica primero en la mano, después alrededor de un poste, después alrededor de la propia cintura y finalmente con los ojos cerrados.
+El as de guía es un nudo que forma un lazo fijo en la punta de una soga: el lazo se puede hacer del tamaño que se quiera y no se cierra ni se afloja, aunque se tire fuerte, y después se desata fácil.
 
 ## Desarrollo
-1. Contá que el manual lo considera el nudo que podría haber salvado vidas en las cataratas del Niágara, porque un lazo en la punta de una cuerda de rescate permite agarrarse.
-2. Método de la palma: medí sobre la palma de la mano izquierda la cuerda que necesitás para el lazo y soltá el chicote.
-3. Con la cuerda en la palma, hacé un seno chico girándola hacia la punta de los dedos.
-4. Tomá el chicote con la mano derecha: pasalo hacia arriba por el seno, por detrás y alrededor del firme, y de nuevo hacia abajo por el seno.
-5. Apretá tirando del chicote y del lazo contra el firme. Probá que el lazo no se cierra al tirar.
-6. Práctica en tres niveles: alrededor de un poste, alrededor de la propia cintura (hacia afuera, como cinturón) y con los ojos cerrados.
-7. Carrera de patrullas: cada integrante corre hasta un poste, ata un as de guía alrededor y vuelve. Un juez revisa cada nudo; si está mal, hay que rehacerlo.
+**Para qué sirve:** sobre todo para subir o bajar personas o cosas con una soga. También sirve para hacer un cabestro (la soga con que se lleva a un caballo) o, junto con la vuelta de escota, para armar un cerco o una soga de seguridad. El original cuenta que, en un accidente en las cataratas del Niágara, la gente que estaba en el puente tiró una soga a quienes estaban en peligro; si le hubieran hecho un as de guía en la punta, para que pudieran meterse en el lazo, quizás se habrían salvado una o hasta tres vidas.
+
+**Cómo se hace:**
+1. Agarrá la punta de la soga con la mano derecha.
+2. Pasá la soga hacia vos por encima de la palma de la mano izquierda, midiendo cuánta soga necesitás para el tamaño de lazo que querés.
+3. Soltá la punta.
+4. Con la soga sobre la palma izquierda, girala hacia la punta de los dedos para formar un ojito (un pequeño bucle) en la mano. La parte larga de la soga, la que no se mueve, se llama «firme».
+5. Volvé a tomar la punta con la mano derecha.
+6. Pasala de abajo hacia arriba por adentro del ojito.
+7. Rodeá con ella el firme por detrás.
+8. Volvé a bajarla por adentro del ojito.
+9. Para ajustar, tirá de la punta y del lazo hacia un lado y del firme hacia el otro.
+
+Un truco para recordarlo que usan muchos educadores: el ojito es el pozo, la punta es el conejo que sale del pozo, da la vuelta al árbol (el firme) y vuelve a meterse en el pozo.
 
 ## Cierre
 - ¿En qué se diferencia el as de guía de un lazo corredizo?
@@ -191,34 +202,8 @@ Down through the bight;
 
 Pull the end and the rope forming the loop against the standing part.
 
-**Versión en español:**
-
-**3. As de guía**
-
-Si la gente que estaba en el puente de las cataratas del Niágara hubiera hecho un as de guía en la punta de la cuerda antes de tirarla como cuerda de rescate, podría haber salvado una vida, si no tres. El as de guía se usa sobre todo para izar y bajar; puede servir de cabestro o, junto con la vuelta de escota, para hacer una baranda o un cerco de cuerda. Es un nudo que sostiene un lazo, que puede hacerse de cualquier tamaño y que no se traba ni cede.
-
-Para hacer un as de guía:
-
-Tomá el chicote con la mano derecha;
-
-Llevá la cuerda hacia vos sobre la palma de la mano izquierda, midiendo lo que haga falta para el tamaño de lazo que querés;
-
-Soltá el chicote;
-
-Hacé un seno chico en la palma de la mano izquierda girando la cuerda hacia la punta de los dedos;
-
-Tomá el chicote con la mano derecha;
-
-Pasalo hacia arriba por el seno;
-
-Por detrás y alrededor del firme;
-
-Hacia abajo por el seno;
-
-Tirá del chicote y de la cuerda que forma el lazo contra el firme.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

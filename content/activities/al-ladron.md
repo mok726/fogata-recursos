@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - campamento
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,14 +143,19 @@ rama_rovers:
 # ¡Al Ladrón!
 
 ## Resumen
-A la mañana se cuelga un trapo rojo en el campamento. El árbitro le susurra a cada uno "hay un ladrón en el campamento", pero a uno le dice "y sos vos" y le indica un lugar de destino. En algún momento de las próximas horas, el ladrón roba el trapo y corre hacia ese lugar. Quien note que falta el trapo da la alarma y todos lo persiguen.
+Un juego que dura toda una mañana: uno de los scouts es un ladrón secreto que tiene que robar un trapo rojo y escaparse, y todos los demás tienen que estar atentos para perseguirlo apenas se dé la alarma.
 
 ## Desarrollo
-1. Colgá el trapo rojo a la vista.
-2. Pasá por cada participante mientras trabaja o juega y susurrale el mensaje. Al ladrón le decís que es él y adónde tiene que llegar.
-3. El ladrón elige el momento. Tiene que llevar el trapo atado al cuello, no escondido.
-4. Quien note el robo grita la alarma. Todos dejan lo que hacen y lo persiguen.
-5. Gana quien le saca el trapo (o un pedazo). Si llega al destino, gana el ladrón.
+1. A la mañana, el árbitro cuelga un trapo rojo en algún lugar del campamento o del salón, a la vista.
+2. Durante la mañana, mientras todos trabajan o juegan, el árbitro se acerca a cada scout, de a uno, y le dice al oído: «Hay un ladrón en el campamento».
+3. A uno solo le dice algo distinto: «Hay un ladrón en el campamento, y sos vos», y le agrega el nombre de un lugar conocido que esté a un kilómetro y medio, más o menos (por ejemplo, una plaza, una iglesia o un monumento del lugar). Ese es su refugio.
+4. El ladrón sabe que, en cualquier momento de las tres horas siguientes, tiene que robar el trapo y escapar corriendo con él hasta ese lugar. Nadie más sabe quién es el ladrón, adónde va a correr ni cuándo va a actuar.
+5. El ladrón tiene que llevar el trapo atado al cuello, a la vista. No lo puede guardar en el bolsillo ni esconderlo.
+6. Apenas alguien se da cuenta de que el trapo desapareció, da la alarma gritando «¡Al ladrón!». Todos dejan lo que estén haciendo y salen a perseguirlo.
+
+**Cómo se gana:** gana el scout que le saca al ladrón el trapo, o aunque sea un pedazo. Si nadie lo consigue antes de que llegue a su refugio, gana el ladrón.
+
+**Nota del original:** B-P cuenta que es parecido al juego «Espía hostil», de Ernest Thompson Seton.
 
 ## Cierre
 - ¿Quién se dio cuenta primero? ¿Por qué?
@@ -175,12 +184,8 @@ gets the rag or a bit of it wins. If none succeed in doing this, the
 thief wins. He must carry the rag tied round his neck, and not in his
 pocket or hidden away.
 
-**Versión en español:**
-
-**ALARMA. "¡AL LADRÓN!"** Es parecido al juego "Espía hostil" del "Birchbark Roll of Woodcraft Indians", del señor Thompson Seton. A la mañana se cuelga un trapo rojo en el campamento o en la habitación; el árbitro pasa por cada scout, de a uno, mientras están trabajando o jugando, y le susurra: "Hay un ladrón en el campamento"; pero a uno le susurra: "Hay un ladrón en el campamento, y sos vos: Marble Arch", o algún otro lugar conocido a una milla de distancia. Ese scout sabe entonces que tiene que robar el trapo en cualquier momento de las próximas tres horas y escapar con él hasta Marble Arch. Nadie más sabe quién es el ladrón, adónde va a correr ni cuándo lo va a robar. Apenas alguien nota que robaron el trapo rojo, da la alarma, y todos dejan lo que estén haciendo en ese momento y salen corriendo a perseguir al ladrón. Gana el scout que consigue el trapo o un pedazo. Si nadie lo logra, gana el ladrón. Tiene que llevar el trapo atado al cuello, no en el bolsillo ni escondido.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

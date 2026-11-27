@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Acecho en Ronda"
+title: "Acecho"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/acecho-en-ronda/"
@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -66,11 +67,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -142,16 +143,17 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Acecho en Ronda!
+# Acecho
 
 ## Resumen
-Un lobato con los ojos vendados se sienta en el centro de la ronda. A la señal, alguien de la ronda intenta llegar sin hacer ruido y tocarlo. Si lo toca, pasa al centro; si el vendado lo oye y lo señala antes, vuelve a su lugar.
+Un juego de ronda para practicar acercarse sin hacer ruido y, para el del centro, escuchar con atención.
 
 ## Desarrollo
-1. Todos en ronda; uno sentado en el centro con los ojos vendados.
-2. Akela señala en silencio a alguien de la ronda.
-3. Ese lobato intenta acercarse sin hacer ruido y tocar al del centro.
-4. Si lo toca, pasa al centro. Si el vendado lo oye y lo señala antes, vuelve a su lugar y Akela elige a otro.
+1. Los lobatos se sientan en ronda. Uno se sienta en el medio, con los ojos vendados.
+2. El Viejo Lobo (así se llama a los dirigentes de la Manada) señala en silencio a un lobato de la ronda.
+3. Ese lobato se levanta y trata de llegar hasta el del centro sin hacer nada de ruido, para tocarlo.
+4. Si el del centro lo oye venir, lo señala con el brazo. Si lo señala antes de que lo toquen, el que se acercaba vuelve a su lugar en la ronda y el Viejo Lobo elige a otro.
+5. Si el que se acerca logra tocarlo sin que lo descubran, pasa al centro, se pone la venda, y el que estaba ahí vuelve a la ronda.
 
 ## Cierre
 - ¿Qué hacían los que llegaban sin ser oídos?
@@ -164,13 +166,8 @@ Un lobato con los ojos vendados se sienta en el centro de la ronda. A la señal,
 Stalking. — A Cub sits blindfolded in the middle of a circle. At a signal from an Old Wolf, a Cub from the circle tries to creep in noiselessly and touch the Cub in the centre.
 If he succeeds, he goes into the centre instead of the Cub already there. If the Cub in the centre hears him, and succeeds in pointing at him before he is touched, he goes back to his place in the circle.
 
-**Versión en español:**
-
-**Acecho.** Un lobato se sienta con los ojos vendados en el medio de un círculo. A una señal de un Viejo Lobo, un lobato de la ronda trata de acercarse sin hacer ruido y tocar al lobato del centro.
-Si lo consigue, pasa al centro en lugar del que estaba ahí. Si el lobato del centro lo oye y logra señalarlo antes de que lo toque, vuelve a su lugar en la ronda.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -60,6 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - orientacion
   - mapas
@@ -72,7 +73,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -143,18 +147,31 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Croquis con Signos Convencionales!
+# Croquis con Signos Convencionales
 
 ## Resumen
-«La observación es la raíz de hacer mapas», dice el manual. Un mapa es una forma de contar una historia con signos para que otro llegue adonde vos llegaste. Todo mapa tiene que tener cuatro cosas: **dirección** (una flecha al norte, arriba), **distancia** (la escala), **puntos de referencia** y la **explicación de los signos** en el margen. Para hacer un croquis no hace falta escala exacta, pero sí observar bien. La patrulla dibuja el croquis de un recorrido y otra patrulla tiene que seguirlo.
+Una actividad para aprender a hacer y a leer mapas. Con un buen mapa podés guiar a otros hasta un sendero lindo que conocés, o ayudar a alguien que no conoce la zona a orientarse en una ciudad o en el campo.
 
 ## Desarrollo
-1. Mirá con el grupo un mapa real y busquen las cuatro cosas que pide el manual: dirección, distancia, puntos de referencia y referencias de los signos.
-2. Acuerden un juego de signos convencionales simples (carpa, árbol, edificio, camino, sendero, arroyo, puente, fuente de agua, teléfono o puesto de ayuda).
-3. Cada patrulla recorre un trayecto corto con la brújula, contando pasos entre los puntos importantes y anotando lo que ve.
-4. Dibujen el croquis: norte arriba, escala, puntos de partida y llegada, cruces y puntos de referencia. Las referencias de los signos van en el margen.
-5. Intercambien croquis: cada patrulla tiene que seguir el de otra, orientando el mapa con la brújula (el este del mapa hacia el este real).
-6. Al llegar, cada patrulla le cuenta a la autora qué estaba claro y qué no.
+**Lo que no puede faltar en un mapa:**
+- **La dirección:** se marca con una flecha o una línea con una N que apunta al norte. El norte va arriba en la hoja, y todo lo demás se dibuja en relación con él.
+- **La distancia:** se muestra con la **escala**, que es usar una medida chica para representar una grande. Por ejemplo, si 1 centímetro del papel equivale a 1 kilómetro del terreno, una zona de 8 por 10 kilómetros entra en una hoja chica. La escala siempre se anota en el mapa.
+- **Los puntos de referencia:** las cosas que se reconocen en el terreno y que sirven de guía. Son lo más importante y hay que ubicarlas con cuidado.
+- **Las referencias en el margen:** la explicación de todos los símbolos o **signos convencionales** que usaste (por ejemplo, cómo dibujaste un puente, una iglesia o un arroyo).
+
+**Qué poner según el tipo de mapa:**
+- Para una caminata: el punto de partida y la llegada, todos los cruces de caminos, arroyos, puentes, senderos, vertientes, lugares de interés y miradores.
+- Para una ciudad: además de las calles, las líneas de colectivo, tren o subte, los edificios públicos, la biblioteca, las iglesias, los hoteles, los negocios, la comisaría, el hospital o la sala de primeros auxilios, el cuartel de bomberos y el correo o los buzones.
+- Para un pueblo: además, el camino a la ciudad grande más cercana y la estación de tren o de micros.
+
+**Cómo se hace:**
+1. Las distancias reales se averiguan contando pasos (sabiendo cuánto mide tu paso) o por triangulación, que es calcular una distancia midiendo ángulos desde dos puntos.
+2. Los puntos de referencia y los lugares útiles se descubren observando con atención.
+3. Para los signos, usá los que están en uso (el original traía una lámina de signos; hoy se pueden tomar los del Instituto Geográfico Nacional) y explicalos en el margen.
+
+**Leer un mapa** es tan importante como hacerlo: hay que entender los signos, calcular las distancias y saber las direcciones. Para esto último ayuda **orientar el mapa**, es decir, girarlo para que quede en la misma dirección que el terreno: el este del mapa hacia el este de verdad.
+
+**El croquis:** un croquis es un mapa rápido, que no está hecho a escala ni tiene las direcciones y distancias exactas, pero tiene la información justa y correcta para guiar a alguien. Se hace muy rápido si uno observó bien la zona. La observación es la base de todo mapa.
 
 ## Cierre
 - ¿Qué faltaba en los croquis que costaron más seguir?
@@ -220,28 +237,8 @@ giving enough accurate information to serve in guiding a stranger truly,
 can be made very quickly and easily if the district sketched has
 been observed closely. Observation is at the root of map making.
 
-**Versión en español:**
-
-Si conocés un camino o un sendero lindo, con un mapa podés guiar a otros hasta él, y haciendo el mapa de una ciudad o de una zona rural ayudás a un forastero a orientarse. Nuestros mapas tienen que tener estos elementos fundamentales: dirección, distancia, puntos de referencia y la explicación en el margen de todos los símbolos o signos convencionales usados. Para las caminatas hacen falta un punto de partida y una meta, y hay que señalar todos los cruces de caminos, los arroyos, puentes, senderos, vertientes, lugares de interés, miradores, etc.
-
-El mapa de una ciudad tiene que señalar, además de las calles, las líneas de tranvía o de ómnibus, los edificios públicos, la biblioteca, las iglesias, los hoteles, los negocios, la comisaría, los teléfonos públicos, el consultorio de un médico, la alarma de incendio y el buzón.
-
-El mapa de un pueblo tiene que mostrar además el camino hasta la ciudad grande más cercana, la estación de tren, etc.
-
-La dirección se muestra con un símbolo, una flecha o una línea con una N que apunta al norte, que tiene que estar arriba en el mapa, y todas las líneas y signos tienen que hacerse en relación con ella.
-
-La distancia se muestra con lo que se llama escala. Sería imposible e innecesario hacer un mapa con las medidas exactas de las distancias de una zona, pero podemos indicar esas distancias dibujando el mapa, aunque sea muy chico, de modo que las líneas, ángulos, círculos y puntos guarden entre sí la misma relación que los lugares que representan. Esto se hace usando una medida chica para representar una medida grande. Si se usara un centímetro para representar un kilómetro, un mapa de una zona de 8 por 10 kilómetros entraría en un papel relativamente chico. Pero la escala que se use tiene que anotarse en el mapa.
-
-Las distancias reales se averiguan contando pasos o por triangulación. Los puntos interesantes, útiles y necesarios se conocen por observación. Son las verdaderas guías cuando se usa un mapa, y hay que ubicarlos con la mayor exactitud. En la figura que acompaña se muestran algunos de los símbolos más usados para hacer mapas.
-
-Saber leer un mapa es tan importante como saber hacerlo. Hay que entender los signos, leer las distancias y conocer las direcciones. Para esto último ayuda sostener el mapa de modo que su posición coincida con los puntos cardinales: el este del mapa hacia el este. Esto se llama orientar el mapa.
-
-[…]
-
-Un croquis, que no está hecho a escala ni es exacto en dirección o distancia, pero que da información correcta suficiente para guiar bien a un forastero, se puede hacer muy rápido y fácil si se observó con atención la zona que se dibuja. La observación es la raíz de hacer mapas.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

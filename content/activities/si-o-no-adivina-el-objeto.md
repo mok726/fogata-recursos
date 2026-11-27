@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sí o No: Adiviná el Objeto"
+title: "Sí o No, ¿Qué Es?"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/si-o-no-adivina-el-objeto/"
@@ -9,13 +9,13 @@ summary: "Adivinar un objeto con preguntas de sí o no."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,28 +133,44 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Sí o No: Adiviná el Objeto
+# Sí o No, ¿Qué Es?
 
-## De qué se trata
-Un integrante de cada patrulla sale del salón y entre ellos eligen una cosa. Vuelven, pero cada uno va a una patrulla que no es la suya. Ahí solo pueden contestar «sí» o «no». La primera patrulla que adivina qué eligieron, gana.
+## Resumen
+Un juego de adivinar con preguntas de «sí» o «no».
 
-## Cómo se juega
-1. Sale un jugador de cada patrulla. Afuera eligen juntos una cosa: puede ser un objeto, un animal o un lugar.
-2. Cada uno vuelve y se sienta con una patrulla que no es la suya.
-3. La patrulla le hace preguntas que se contestan con sí o con no: «¿Está vivo?», «¿Es más grande que una silla?», «¿Lo llevamos al campamento?».
-4. Si una pregunta no se puede contestar con sí o con no, el mensajero se queda callado.
-5. Cuando la patrulla cree que sabe, le dice la respuesta en voz baja al mensajero. Si acierta, gritan «¡Lo tenemos!».
-6. Gana la primera patrulla en adivinar. Después salen otros cuatro mensajeros.
+## Desarrollo
+1. Los jugadores se dividen en equipos.
+2. Sale del salón un integrante de cada equipo. Afuera, entre ellos, eligen un objeto.
+3. Vuelven, y cada uno va a un equipo que **no** es el suyo.
+4. Cada equipo le hace preguntas al que le tocó, y él solo puede contestar «sí» o «no». Si una pregunta no se puede contestar así, se queda callado.
 
-### Variante: Tierra, aire o agua
-La primera pregunta siempre es «¿Es de la tierra, del aire o del agua?», y es la única que no se contesta con sí o no. Ayuda a los más chicos.
+**Cómo se gana:** gana el primer equipo que descubre el objeto.
 
-## Para cerrar
+**Tierra, aire o agua (variante del original):** un solo jugador piensa en un objeto y todos los demás le hacen preguntas para descubrir qué es. El que dirige puede limitar el tipo de objetos (por ejemplo, solo animales, o solo cosas del campamento).
+
+## Cierre
 - ¿Qué preguntas sirvieron más? ¿Cuáles no ayudaron nada?
 - ¿Cómo se pusieron de acuerdo en la patrulla para no repetir preguntas?
 
-## Notas para educadores
+## Notas para el educador
 - Buen juego para trabajar preguntas «grandes» (que descartan mucho) y preguntas «chicas». Charlalo al final.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**YES OR NO, WHAT IS IT? or CLUMPS.**
+
+Players in teams. One member of each team goes out of the room, and these settle on some object. They then return to any team but their own, and will only answer Yes or No to any question; if this is impossible they remain silent. The first team to discover the object wins.
+
+**EARTH, AIR, OR WATER.**
+
+One player thinks of an object and the others questioning try to find out what it is. The range of may be limited at the discretion of the leader. .
+
 ---
-**Fuente:** inspirada en el juego «Yes or No, What Is It? (Clumps) / Earth, Air, or Water?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 29, «Yes or No, What Is It? or Clumps» y n.º 7, «Earth, Air, or Water». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

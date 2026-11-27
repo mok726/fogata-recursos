@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tender una Emboscada"
+title: "Emboscada"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/tender-una-emboscada/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - emboscada
   - estrategia
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,25 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Tender una Emboscada!
+# Emboscada
 
 ## Resumen
 La columna avanza por un camino con exploradores a los costados. Dos patrullas la siguen: una da un rodeo en semicírculo, se le adelanta y se esconde en emboscada; la otra la sigue de cerca para atacar por atrás justo cuando la columna llega a la emboscada. Si la columna descubre el rodeo, puede seguirlo y capturar a todos tocándolos.
 
 ## Desarrollo
-1. La columna sale con dos exploradores a los costados.
-2. Las dos patrullas la siguen sin dejarse ver.
-3. En un buen lugar, una patrulla se separa, da un rodeo y vuelve al camino más adelante para esconderse.
-4. Cuando la columna llega a la emboscada, atacan las dos patrullas a la vez: la de adelante y la de atrás.
-5. Si la columna ve a los que dan el rodeo, puede seguirlos y descubrir la emboscada. Se captura tocando.
+Un juego de campo: dos patrullas tratan de atrapar a un grupo que avanza por un camino, atacándolo por delante y por detrás al mismo tiempo.
+
+Una **emboscada** es esconderse en un lugar del camino para sorprender al que pasa. La **retaguardia** es la parte de atrás del grupo.
+
+1. El grupo principal avanza por un camino, con algunos exploradores a los costados para que no los sorprendan.
+2. Dos patrullas hacen de enemigo y los siguen por detrás, sin ser vistas.
+3. Cuando llegan a un lugar del terreno que les sirve, una de las dos patrullas da un rodeo en semicírculo, se adelanta al grupo y vuelve al camino más adelante.
+4. Si lo logra, se esconde y ataca al grupo principal cuando llega a ese punto.
+5. En ese mismo momento, la otra patrulla, que venía detrás, ataca por la retaguardia. Para que la emboscada funcione, esta patrulla tiene que ir bien cerca, así puede atacar apenas empieza el ataque de adelante.
+6. Si el grupo principal ve a la patrulla que da el rodeo, la tiene que seguir para descubrir dónde prepara la emboscada.
+7. Igual que en el juego «Seguimiento», para atrapar a alguien de cualquiera de las dos patrullas basta con tocarlo.
+
+**Cómo se gana:** las patrullas enemigas ganan si logran la emboscada y el ataque por los dos lados; el grupo principal gana si la descubre a tiempo y atrapa a los que lo siguen.
 
 ## Cierre
 - ¿Por qué era clave atacar por adelante y por atrás al mismo tiempo?
@@ -164,15 +175,12 @@ La columna avanza por un camino con exploradores a los costados. Dos patrullas l
 
 The main body advances along a road, with Scouts thrown out on either side to prevent any danger of surprise. Two patrols (the enemy) are following them behind, and attempt to ambush them by one patrol getting in front and the other attacking in the rear. They shadow the main body as it advances until a suitable part of the country is reached, when one patrol attempts to get ahead by going round in a semicircle and joining the road again further on. If they can do it, they hide in an ambush and attack the main body when it comes up; the other patrol which has been following behind should then immediately attack in the rear. For it to be a successful ambush the patrol in the rear should be able to attack immediately the ambush is reached, and so should follow closely behind. If the patrol making the semi-circle are seen, they should be followed and the ambush discovered; both they and the other patrol behind can be captured, just as in 11 Shadowing," by merely being touched.
 
-**Versión en español:**
-
-**EMBOSCADA.**
-
-El grupo principal avanza por un camino, con scouts desplegados a ambos lados para evitar cualquier peligro de sorpresa. Dos patrullas (el enemigo) los siguen por detrás e intentan emboscarlos: una patrulla se les adelanta y la otra ataca por la retaguardia. Siguen al grupo principal mientras avanza hasta llegar a un lugar adecuado del terreno; entonces una patrulla intenta adelantarse dando un rodeo en semicírculo y volviendo al camino más adelante. Si lo logra, se esconde en emboscada y ataca al grupo principal cuando llega; la otra patrulla, que venía siguiéndolos por detrás, tiene que atacar enseguida por la retaguardia. Para que la emboscada salga bien, la patrulla de atrás tiene que poder atacar apenas el grupo llega a la emboscada, así que debe seguirlo de cerca. Si ven a la patrulla que da el rodeo, hay que seguirla y descubrir la emboscada; y tanto ella como la otra patrulla de atrás pueden ser capturadas, igual que en "Seguimiento", con solo tocarlas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. II (Stalking Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. II (Stalking Games), juego 5: «Ambushing». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - acecho
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -135,10 +139,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡La Caza del Scout!
+# La Caza del Scout
 
 ## Resumen
-Una escondida scout. Uno sale a esconderse con ventaja; el resto lo busca. El escondido gana si no lo encuentran o si logra volver a la base, dentro del tiempo, sin que lo toquen.
+Un juego de escondida en grande, al aire libre: uno se esconde y todos los demás lo salen a buscar.
 
 ## Preparación
 1. Marcá los límites del área y la base.
@@ -146,10 +150,12 @@ Una escondida scout. Uno sale a esconderse con ventaja; el resto lo busca. El es
 3. Antes, podés enseñar a elegir un fondo del mismo color que la ropa para pasar desapercibido (ver "El Ciervo").
 
 ## Desarrollo
-1. Un participante sale con unos minutos de ventaja y se esconde.
-2. El resto sale a buscarlo.
-3. El escondido gana si no lo encuentran, o si vuelve a la base dentro del tiempo sin que lo toquen.
-4. Se rota quién se esconde.
+1. Se elige a un scout, que sale antes que los demás y tiene un rato para ir a esconderse donde quiera dentro de la zona de juego.
+2. Pasado ese tiempo, el resto sale a buscarlo.
+3. El escondido puede quedarse quieto en su escondite o intentar volver al punto de partida sin que lo toquen.
+4. El que dirige fija de antemano un tiempo límite para el juego.
+
+**Cómo se gana:** el escondido gana si no lo encuentran, o si logra volver al punto de partida dentro del tiempo fijado sin que nadie lo toque. Si lo tocan antes, ganan los que lo buscaban.
 
 ## Cierre
 - ¿Qué escondite funcionó mejor? ¿Por qué?
@@ -167,14 +173,8 @@ One scout is given time to go out and hide himself, the remainder then
 start to find him, he wins if he is not found, or if he can get back to
 the starting point within a given time without being touched.
 
-**Versión en español:**
-
-**LA CAZA DEL SCOUT.**
-
-Se le da tiempo a un scout para salir y esconderse; los demás salen después a buscarlo. Gana si no lo encuentran, o si logra volver al punto de partida dentro de un tiempo dado sin que lo toquen.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

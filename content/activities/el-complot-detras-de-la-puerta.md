@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Complot detrás de la Puerta"
+title: "El Complot Escuchado"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-complot-detras-de-la-puerta/"
@@ -9,13 +9,13 @@ summary: "Escuchar con atención y hacer un informe fiel."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,30 +135,42 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Complot detrás de la Puerta
-
-## De qué se trata
-Sin avisar, dos dirigentes se ponen del otro lado de la puerta y charlan en voz alta y misteriosa sobre un «plan»: robarse el banderín de la tropa, por ejemplo. El que dirige pide silencio apenas se empieza a escuchar. Cuando terminan, cada patrulla escribe un informe para «la policía».
+# El Complot Escuchado
 
 ## Preparación
 1. Escribí un diálogo corto (dos minutos) con datos concretos: nombres, un día, una hora, un lugar, una seña, un objeto.
 2. Que los dos dirigentes lo ensayen una vez y cambien un poco la voz.
 
-## Cómo se juega
-1. La reunión sigue normal. De golpe se escuchan voces del otro lado de la puerta.
-2. El que dirige dice bajito: «¡Shhh! ¡Escuchen!». Todos se quedan callados.
-3. Las voces cuentan su plan y se van.
-4. Cada patrulla se junta y escribe todo lo que escucharon: qué van a hacer, cuándo, dónde, quiénes son, cómo sonaban sus voces.
-5. Se leen los informes.
-6. Los dirigentes vuelven a decir el diálogo, ahora a la vista. Gana el informe más completo y más fiel.
+## Resumen
+Un juego de atención y memoria auditiva, que se hace por sorpresa.
 
-## Para cerrar
+## Desarrollo
+1. En medio de la reunión, sin avisar, dos personas (dirigentes o ayudantes) se ponen del otro lado de la puerta y hablan en voz alta y ronca, como si estuvieran planeando algo: un robo, una fuga, una broma.
+2. Apenas se empieza a escuchar el complot, el que dirige pide silencio para que todos puedan oír.
+3. Cuando los que conspiran terminan, se le pide a cada equipo un informe para la policía: qué planeaban, cuándo, dónde, cuántos eran, cómo hablaban.
+
+**Cómo se gana:** gana el informe más completo y exacto.
+
+## Cierre
 - ¿Por qué cada patrulla escuchó cosas un poco distintas?
 - ¿Qué pasa con los chismes cuando alguien cuenta algo que escuchó a medias?
 
-## Notas para educadores
+## Notas para el educador
 - Que el «plan» sea gracioso y no dé miedo: nada de violencia ni amenazas.
 - Sirve para hablar de rumores y de la diferencia entre lo que se escuchó y lo que se interpretó.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OVERHEARD PLOT.**
+
+During the meeting two loud hoarse voices are heard plotting outside the door. Each team, after they have finished, is asked to produce a report for the police. No warning should be given, but the leader calls for silence as soon as the plotting is first heard.
+
 ---
-**Fuente:** inspirada en el juego «Overheard Plot» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 67, «Overheard Plot». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

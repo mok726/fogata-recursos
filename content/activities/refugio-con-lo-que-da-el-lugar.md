@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Refugio con lo que Da el Lugar"
+title: "Medias Cuevas"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/refugio-con-lo-que-da-el-lugar/"
@@ -61,6 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - refugio
@@ -73,7 +74,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Shelters, Shacks and Shanties"
+  - title: "Shelters, Shacks and Shanties (impreso original)"
+    author: "Daniel Carter Beard"
+    year: 1914
+  - title: "Shelters, Shacks and Shanties (versión alternativa en línea)"
     author: "Daniel Carter Beard"
     year: 1914
     series: "Project Gutenberg, eBook #28255"
@@ -146,22 +150,33 @@ rama_rovers:
   - 3   # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡Refugio con lo que Da el Lugar!
+# Medias Cuevas
 
 ## Resumen
-Para Beard, el primer refugio de América fue un alero de roca: una «media cueva» que la lluvia y el hielo fueron cavando en la base de un barranco. Su consejo vale para cualquier terreno: **usá lo que el lugar te da**. Un alero, la pared de tierra que deja la raíz de un árbol caído o dos árboles bien ubicados pueden ser la mitad del refugio. Y una regla que hasta los instructores de su época olvidaban: las ramas van **con las puntas hacia abajo**, para que escurran la lluvia hacia afuera y no adentro. La patrulla recorre el terreno, evalúa lugares y prueba esa regla con agua.
+Cómo aprovechar lo que ofrece el terreno para armar un refugio de campamento: un alero de roca, el barranco, las raíces de un árbol caído o unos árboles bien ubicados. Tomado de un libro de construcciones de campamento de 1914.
 
 ## Preparación
 1. Recorré el terreno antes y marcá lugares posibles y lugares peligrosos (alero con piedras sueltas, árbol caído inestable, cauce seco).
 2. Prepará una planilla: ¿qué pared natural hay? ¿De dónde viene el viento? ¿Por dónde escurre el agua? ¿Hay peligros arriba?
 
 ## Desarrollo
-1. Leé el texto de Beard. Preguntá: ¿qué cosas del terreno pueden servir de pared o de techo?
-2. Cada patrulla recorre el terreno 20 minutos y evalúa al menos tres lugares con la planilla. Usen la brújula para ver de dónde viene el viento dominante.
-3. Prueba de las ramas: apoyen unas ramas muertas contra una roca o un tronco, primero con las puntas hacia arriba y después hacia abajo. Rieguen con la regadera. ¿En qué caso el agua cae adentro?
-4. Cada patrulla elige el mejor lugar y dibuja cómo sería su refugio: dónde va la pared natural, dónde los palos inclinados, dónde la entrada (siempre de costado, dice Beard, si una pared tapa el frente).
-5. Ronda de presentación: cada patrulla muestra su lugar y las demás buscan peligros que se le hayan pasado.
-6. Desarmen todo y dejen el lugar como estaba.
+**Las medias cuevas.** En algunos barrancos de roca en capas, las capas de abajo se van desprendiendo con la lluvia, el hielo y las raíces de las plantas. Con los años queda una roca saliente, como un techo, con un hueco abajo donde entra una persona agachada. Eso es una media cueva. Para usarla como refugio:
+1. Aunque no siempre hace falta, conviene cerrar el frente abierto, aun para un campamento corto.
+2. Apoyá palos inclinados contra la pared del barranco, del lado de afuera.
+3. Encima de los palos armá una cubierta con ramas (de pino u otras coníferas, hojas de palmera o lo que haya) que escurra la lluvia y no deje que el viento la meta debajo de la roca y moje la cama.
+
+**Las paredes.** No siempre hace falta techar las paredes. Pueden alcanzar unas cuantas ramas verdes con hojas, apoyadas contra el barranco.
+- La clave: poné las ramas cabeza abajo, con las puntas hacia abajo y no hacia arriba como crecen. Así escurren el agua hacia afuera en lugar de juntarla y gotear adentro.
+- El autor cuenta que vio a unos instructores de ciudad enseñándoles a unos scouts a poner las ramas con las puntas para arriba, como si solo sirvieran para tapar la vista. Se olvidaban de que su función principal es parar la lluvia.
+
+**Usar lo que haya a mano.** No siempre hay un barranco donde queremos acampar, y entonces hay que usar otros materiales:
+1. Un árbol arrancado de raíz deja al caer una pared de tierra y raíces, como de adobe, contra la que se pueden apoyar los palos del techo de un alero.
+2. La ladera de un barranco sirve de la misma manera.
+3. Dos o tres árboles bien ubicados pueden hacer de postes.
+4. Cuando una de las paredes es la roca, las raíces o el barranco, la puerta tiene que ir en uno de los costados de la choza.
+5. Si el suelo es pedregoso y los postes no se pueden clavar, hay que apuntalarlos con palos inclinados.
+
+Cada lugar plantea sus propios problemas, y resolverlos es parte de lo lindo de armar un campamento.
 
 ## Cierre
 - ¿Qué lugar parecía bueno y resultó peligroso?
@@ -235,28 +250,8 @@ there it will be necessary to brace them with slanting poles (Fig. 25).
 Each camp will offer problems of its own, problems which add much to the
 interest and pleasure of camp making.
 
-**Versión en español:**
-
-**Medias cuevas**
-
-Las cornisas salientes de piedra azul con vetas horizontales forman medias cuevas cuando las capas de abajo del barranco se desprenden por la lluvia y el hielo, muchas veces ayudados por las raíces finas del abedul negro, el roble de las rocas y otras plantas, hasta que la naturaleza, después de trabajar el tiempo suficiente como cantera, hace medias cuevas lo bastante grandes para dar refugio a un hombre agachado (figs. 8, 9 y 10).
-
-Aunque no siempre hace falta, a veces conviene cerrar el frente abierto de una cueva así, aunque solo la necesitemos para un campamento pasajero (fig. 10); esto se puede hacer apoyando palos inclinados contra la pared del barranco y armando encima una cubierta de abeto, pino, tsuga, palmito, hojas de palmera o cualquier material disponible para techar, que escurra la lluvia y evite que el viento la meta debajo del alero y nos moje la cama.
-
-**Paredes**
-
-No siempre hace falta techar la pared; unas cuantas ramas verdes con sus hojas, apoyadas contra el barranco, pueden cumplir esa función. Poné las ramas cabeza abajo para que escurran la lluvia y no la retengan y goteen adentro del campamento. Usá el sentido común y la viveza, que te van a enseñar que todas las ramas tienen que apuntar hacia abajo y no hacia arriba, como crecen naturalmente la mayoría. Te llamo la atención sobre esto porque hace poco vi a unos hombres enseñando a unos Boy Scouts a hacer campamentos, y ponían las ramas alrededor del refugio de los chicos con las puntas hacia arriba, de manera que no podían escurrir la lluvia. Estos instructores eran hombres de ciudad y aparentemente creían que las ramas no servían para otra cosa que dar privacidad a los ocupantes del refugio, olvidando que en la naturaleza salvaje la misma soledad da la privacidad.
-
-La media cueva fue probablemente el primer alero o refugio de este país, pero no siempre hay barrancos salientes donde queremos acampar, y en esos lugares hay que recurrir a otras formas de refugio y a otros materiales.
-
-[…]
-
-**Material**
-
-Para construir un refugio usá todo lo que tengas a mano; muchas veces un árbol arrancado de raíz te da una pared de adobe bien hecha: al caer, las raíces abiertas arrancaron la tierra de la superficie y lo que era la parte de abajo es ahora una pared de arcilla al descubierto, contra la que podés apoyar los palos del techo de un alero. O la ladera de un barranco (fig. 23) te puede dar la misma oportunidad. Tal vez encuentres dos o tres árboles dispuestos a hacer de postes (fig. 24). Cuando uses una pared de cualquier tipo, roca, raíces o barranca, la puerta va a tener que ir, claro, a un costado de la choza, como en la fig. 23. Puede que los postes estén en suelo pedregoso, donde no se pueden clavar bien en la tierra, y ahí va a hacer falta apuntalarlos con palos inclinados (fig. 25). Cada campamento te va a plantear sus propios problemas, y esos problemas le suman mucho interés y gusto a armar el campamento.
-
 ---
-**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914). Dominio público. Texto tomado de Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
+**Fuente:** Daniel Carter Beard, en *Shelters, Shacks and Shanties* (Daniel Carter Beard, 1914), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28255: https://www.gutenberg.org/ebooks/28255
 
 **Traducción:** Fogata de Recursos (2026).
 

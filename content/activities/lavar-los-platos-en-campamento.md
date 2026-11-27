@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lavar los Platos en Campamento"
+title: "Lavar los Platos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lavar-los-platos-en-campamento/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Girls - Girl Scouts of the USA (1920)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - cocina
@@ -73,7 +74,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -146,19 +150,21 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible y sustentable.
 ---
 
-# ¡Lavar los Platos en Campamento!
+# Lavar los Platos
 
 ## Resumen
-«No hay ninguna razón para que lavar los platos no sea un placer», dice el manual. Si se sigue su método, en diez minutos el grupo terminó. Cada uno raspa su plato y lo limpia con una servilleta. Se rascan las ollas, se lava en una palangana con jabón y se enjuaga en otra con agua caliente. Una persona lava y dos secan. La patrulla organiza su «línea de lavado», la cronometra y la adapta para gastar poca agua y no contaminar.
+Un método para lavar los platos en campamento rápido y bien, de forma que deje de ser una tarea pesada y se vuelva parte de la diversión.
 
 ## Desarrollo
-1. Antes de comer, armá la línea de lavado: restos, lavado (agua caliente con poco detergente), enjuague (agua caliente) y secado.
-2. Paso 1: cada uno raspa su plato. Los restos van a una bolsa, no al fuego (hacen humo feo) ni al suelo.
-3. Paso 2: limpiá el plato con una servilleta o un trozo de pan antes de lavarlo. Así se ensucia menos el agua.
-4. Paso 3: rascá las ollas. Si algo se quemó, dejala en remojo con agua caliente.
-5. Paso 4: lavá en la primera palangana y enjuagá en la segunda. Una persona lava y dos secan.
-6. Cronometren: ¿lo logran en diez minutos, como dice el manual?
-7. El agua usada se cuela (los restos van a la bolsa) y se tira lejos del agua del arroyo, en el lugar indicado.
+1. Cada uno tira los restos de comida de su plato en un recipiente para residuos (o en el pozo de residuos del campamento). No se tiran restos al fuego, porque hacen un humo feo.
+2. Cada uno limpia su plato y sus cubiertos lo mejor posible con una servilleta de papel, y tira la servilleta al fuego.
+3. Se rascan todas las ollas. Si a alguna se le quemó comida en el fondo, se la hace hervir con agua y un poco de soda para lavar (unos 30 gramos por litro de agua).
+4. Todo lo que ya se preparó así se apila al lado de dos palanganas o fuentones.
+5. Se llenan las dos palanganas hasta la mitad con agua hirviendo. En una se pone una cucharadita colmada de jabón en polvo o detergente: esa es la de lavar. La otra queda con agua limpia: es la de enjuagar.
+6. Uno lava los platos con un estropajo o una esponja en la palangana con jabón y los enjuaga en la otra.
+7. Si el agua se mantiene caliente, el que lava puede tener ocupados a dos secando.
+
+**Consejo del original:** para un grupo de cuatro, todo no debería llevar más de diez minutos. Si se hace mal, sin suficiente agua caliente o sin preparar las cosas antes, es una tarea desagradable: la idea es que sea agradable.
 
 ## Cierre
 - ¿Lo hicieron en diez minutos? ¿Qué los retrasó?
@@ -201,26 +207,8 @@ whole operation for a party of four should not take over ten minutes. If
 unskillfully done, without sufficient hot water or preparation, it is a
 disagreeable task. Try to make it a pleasant one.
 
-**Versión en español:**
-
-**Lavar los platos**
-
-Todo el trabajo del campamento tiene que ser un placer, y no hay ninguna razón para que lavar los platos sea una excepción. Si se siguen estas indicaciones para lavar los platos, el trabajo se puede hacer tan rápido y tan bien que se vuelve parte de la diversión.
-
-1. Cada chica tiene que tirar los restos de su plato en una zanja o en un recipiente. No tires restos de comida al fuego, porque hacen un humo desagradable.
-
-2. Limpiá cada plato y los demás utensilios lo mejor posible con una servilleta de papel, y tirá la servilleta al fuego.
-
-3. Rascá todas las ollas. Si se quemó algo en ellas, hacelas hervir con treinta gramos de soda para lavar por litro de agua.
-
-4. Apilá todos los platos así preparados al lado de las dos palanganas. Llená hasta la mitad las palanganas con agua hirviendo y poné una cucharadita colmada de jabón en polvo en una.
-
-5. Lavá los platos con un estropajo y enjuagalos en la otra palangana de agua caliente.
-
-Si se mantiene el agua caliente, una chica puede tener ocupadas a dos secando, y toda la tarea para un grupo de cuatro no tendría que llevar más de diez minutos. Si se hace con poca habilidad, sin suficiente agua caliente ni preparación, es una tarea desagradable. Tratá de que sea agradable.
-
 ---
-**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Girl Scouts of the USA, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

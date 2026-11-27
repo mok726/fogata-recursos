@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Correo de Pelota"
+title: "Carrera del Correo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/correo-de-pelota/"
@@ -9,13 +9,13 @@ summary: "Pasar la pelota en zigzag de punta a punta y de vuelta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,41 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Correo de Pelota
+# Carrera del Correo
 
-## De qué se trata
-Cada patrulla se divide en dos filas enfrentadas, a unos 3 metros. La pelota se pasa en zigzag: del primero de una fila al primero de la otra, de ahí al segundo de la primera fila, y así hasta el final. Después vuelve igual. Si se cae, el que la tiró la levanta y la vuelve a tirar desde su lugar.
+## Resumen
+Una carrera de pases de pelota en zigzag entre dos filas, como un correo que lleva y trae.
 
-## Cómo se juega
-1. Cada patrulla forma dos filas, una frente a la otra, a unos 3 metros.
-2. El primero de una fila tiene la pelota.
-3. A la orden, la tira al de enfrente, que se la tira al segundo de la primera fila, y así, en zigzag.
-4. Cuando llega al final, vuelve igual hasta el principio.
-5. Si alguien la deja caer, la levanta, vuelve a su lugar y recién ahí sigue.
-6. Gana la primera patrulla que la hace ir y volver tres veces.
+## Desarrollo
+1. Cada equipo se divide en dos filas, paradas una frente a la otra, a unos pocos pasos.
+2. El primer jugador de una fila le tira la pelota al de enfrente. Ese se la tira al segundo de la primera fila, que se la tira al segundo de la otra, y así la pelota va en zigzag de una fila a la otra hasta el final.
+3. Cuando llega a la otra punta, vuelve de la misma manera hasta el principio. Eso es una vuelta.
+4. El que dirige fija de antemano cuántas vueltas hay que hacer.
+5. Si a alguien se le cae la pelota, tiene que ir a buscarla y volver a su lugar antes de pasarla.
 
-### Variante: Correo con corredor
-Cuando la pelota llega al final, el último corre con ella al principio de la fila y la vuelve a largar. Gana la patrulla que vuelve al orden del principio.
+**Cómo se gana:** gana el primer equipo que completa las vueltas fijadas.
 
-## Para cerrar
+**Posta del correo (variante del original):** los equipos se forman igual y la pelota va en zigzag de la misma manera. Pero cuando llega al último, este corre con la pelota hasta la otra punta, se pone primero en su fila y vuelve a largarla. Así cada jugador va pasando adelante por turno. Gana el primer equipo que vuelve a quedar en su orden original.
+
+## Cierre
 - ¿Qué tipo de pase iba más seguro?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**COURIER RACE.**
+
+Each team in two lines facing each other. First player in one line throws a ball to the player opposite him, who throws it to the second player in the other line, and so on along the team. When the ball reaches the other end it is returned in the same way. The team first to do this the allotted number of times wins. A player dropping the ball must recover it and regain his place before passing it on.
+
+**COURIER RELAY.**
+
+Teams lined up as in No. 23, and the game goes on as before, except that when the ball gets to the end of the line the last player runs up to the other end and re-starts the ball. The first team to regain its original order wins.
+
 ---
-**Fuente:** inspirada en el juego «Courier Race / Courier Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 23, «Courier Race» y n.º 24, «Courier Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

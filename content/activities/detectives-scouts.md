@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Detectives Scouts"
+title: "Juegos y Competencias de Deducción"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/detectives-scouts/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - deduccion
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -140,23 +144,30 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Detectives Scouts!
+# Juegos y Competencias de Deducción
 
 ## Resumen
-B-P propone varios juegos de deducción, de menor a mayor dificultad:
-1. **Personas desconocidas:** pasan personas que los chicos no conocen; después cada uno las describe y adivina a qué se dedican, o conversa dos minutos con una para averiguar todo lo posible.
-2. **La escena:** se prepara un lugar con huellas y pistas, se lee el comienzo de la historia y cada patrulla tiene unos minutos para examinarlo y dar su solución.
-3. **Patrulla contra patrulla:** una patrulla deja rastros representando una serie de hechos y la otra tiene que descubrir qué pasó.
+Una serie de juegos de *Scouting for Boys* para entrenar a los scouts a observar con atención y a sacar conclusiones, como hacen los detectives de las novelas.
 
 ## Preparación
 1. Empezá con escenas muy simples: por ejemplo, huellas y fósforos usados junto a un árbol, donde alguien tuvo problemas para prender algo.
 2. Marcá un camino de tiras de tela o papel para pisar, así no se borran las pistas.
 
 ## Desarrollo
-1. Leé la historia hasta el punto del misterio.
-2. Cada patrulla entra por separado tres minutos a la escena.
-3. Media hora después, cada patrulla presenta su solución, por escrito o en voz alta.
-4. Se revela la verdad y se comparan los razonamientos.
+**1. Los transeúntes.** El que dirige le pide a algunas personas de confianza, que los chicos no conozcan, que pasen caminando por la calle o el camino como si fueran gente cualquiera. Cada scout, por su cuenta, se fija en todo lo que puede de cada una. Un rato después, cada uno da una descripción completa de cada persona: cómo era, qué rasgos la hacían fácil de reconocer y a qué cree que se dedica.
+
+**2. La charla de dos minutos.** Otra forma: cada scout conversa dos minutos con una de esas personas y trata de averiguar todo lo que pueda sobre ella, preguntando y observando.
+
+**3. La escena preparada.** El que dirige prepara un cuarto o un pedazo de terreno con pequeñas señales y huellas, como si ahí hubiera pasado algo: es la escena de un «crimen» o misterio inventado por él. Lee en voz alta la historia de ese caso hasta el momento en que se descubre la escena, sin contar qué pasó ni quién fue. Cada scout o cada patrulla, por turno, examina la escena durante un tiempo fijo y después le cuenta en privado al que dirige su explicación de lo que pasó.
+
+- Al principio, las escenas tienen que ser muy simples, e ir complicándose de a poco. Por ejemplo: unas pisadas junto a un árbol que muestran que alguien se quedó ahí un rato largo, dando vueltas, tratando de hacer algo.
+- Para una escena más elaborada, B-P propone armar un cuarto basado en un cuento de Sherlock Holmes («El paciente residente»): pisadas de botas embarradas sobre la alfombra, un destornillador y tornillos, y otros objetos que cuentan lo que pasó.
+- Se marca en el piso un caminito de pañuelos, papeles o trapos, que funcionan como «piedras de paso»: los investigadores solo pueden pisar ahí, para no borrar ni mezclar las huellas.
+- Cada scout o patrulla entra por separado y tiene tres minutos para investigar. Después sale, y media hora más tarde da su solución, por escrito o de palabra.
+
+**4. Huellas de una patrulla para la otra.** Una patrulla deja huellas haciendo una serie de acciones, como en la escena que resolvió D'Artagnan, el mosquetero de las novelas de Alejandro Dumas, que reconstruyó lo que había pasado mirando las marcas en el suelo. La otra patrulla hace de detectives y trata de descubrir qué pasó a partir de las huellas y las otras señales.
+
+**Teatro (variante del original):** cualquiera de las historias de Sherlock Holmes sirve para armar una buena obra de teatro.
 
 ## Cierre
 - ¿Qué pista fue clave? ¿Cuál los confundió?
@@ -207,26 +218,8 @@ PLAY.
 
 Any one of Sherlock Holmes stories makes a good play.
 
-**Versión en español:**
-
-**JUEGOS Y COMPETENCIAS DE DEDUCCIÓN.**
-
-Consigan personas que los chicos no conozcan para que pasen como transeúntes por la calle o el camino, y que los chicos, cada uno por separado, se fijen en todo sobre ellas; y después de un rato pídanle a cada uno una descripción completa de cada transeúnte: su aspecto, sus rasgos reconocibles y a qué supone que se dedica. O que cada chico tenga dos minutos de conversación con tu amigo y trate de averiguar todo lo que pueda sobre él en ese tiempo, preguntando y observando.
-
-Preparen una habitación o un pedazo de terreno con pequeñas señales, huellas, etc.; lean en voz alta la historia del crimen hasta ese punto, y que cada chico o cada patrulla, por turno, examine la escena durante un tiempo fijo y después dé su solución en privado.
-
-Al principio hay que dar los esquemas más simples y elementales, que después se pueden ir complicando. Por ejemplo, unas pisadas y fósforos usados junto a un árbol, que muestran dónde un hombre tuvo dificultades para prender la pipa, etc.
-
-Para un tema más elaborado, tomen un misterio como el de las "Memorias de Sherlock Holmes" llamado "El paciente residente". Preparen una habitación que represente el cuarto del paciente, donde lo encontraron ahorcado, con huellas de botas embarradas en la alfombra, puntas de cigarro mordidas o cortadas en la chimenea, ceniza de cigarro, un destornillador y tornillos, etc. Pongan una tira o "piedras de paso" de tela, pañuelos o papel, por donde caminen los participantes (para no confundir las huellas que hay). Que cada scout (o patrulla) entre por separado y tenga tres minutos para investigar. Después, que salga y dé su solución, por escrito o de palabra, media hora más tarde.
-
-Que una patrulla deje huellas representando una serie de hechos como la que resolvió D'Artagnan. La otra patrulla hace de detectives y trata de desentrañar el misterio a partir de las huellas y otras señales.
-
-**OBRA.**
-
-Cualquiera de las historias de Sherlock Holmes sirve para una buena obra de teatro.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -9,13 +9,13 @@ summary: "Saltar en largo para ganarle terreno al otro equipo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,19 +135,33 @@ rama_rovers:
 
 # Salto de Ida y Vuelta
 
-## De qué se trata
-Se marca una línea. El primero del equipo A salta en largo, sin carrera, desde la línea hacia adelante. El primero del equipo B salta hacia atrás (de vuelta) desde donde cayeron los talones del anterior. El segundo del A salta otra vez hacia adelante desde donde cayó el del B, y así. Si el último salto de vuelta termina pasando la línea, gana el B; si no, gana el A.
+## Resumen
+Un juego de saltos en largo entre dos equipos: uno salta hacia adelante y el otro trata de deshacer lo que avanzó, saltando hacia atrás.
 
-## Cómo se juega
-1. Marquen una línea en el piso. Los dos equipos se ponen al costado.
-2. El primero del A se para con los talones en la línea y salta en largo, con los pies juntos y sin carrera.
-3. Se marca dónde cayeron sus talones.
-4. El primero del B se para ahí, mirando hacia la línea, y salta de vuelta hacia la línea.
-5. Se marca dónde cayó. El segundo del A salta otra vez hacia adelante desde esa marca. Y así, alternando.
-6. Cuando saltaron todos: si la última marca quedó pasando la línea de salida, gana el B. Si quedó del lado de adelante, gana el A.
+## Desarrollo
+1. Se marca una línea de tiza en el piso. Se forman dos equipos, con el mismo número de jugadores y numerados (el n.º 1 es el guía).
+2. El guía del primer equipo se para con los talones en la línea y hace un salto en largo sin carrera, con los dos pies juntos, hacia adelante.
+3. Se marca el lugar donde quedaron sus talones. Desde ahí, el guía del segundo equipo salta hacia atrás, de vuelta hacia la línea, también sin carrera.
+4. Desde donde quedaron los talones del guía del segundo equipo, el n.º 2 del primer equipo salta otra vez hacia adelante.
+5. Después el n.º 2 del segundo equipo salta hacia atrás desde donde quedó el anterior, y así se van alternando hasta que saltaron todos.
 
-## Para cerrar
+**Cómo se gana:** se mira el último salto, que siempre es uno hacia atrás del segundo equipo. Si con ese salto los talones quedan pasando la línea de partida, gana el segundo equipo. Si no llegan a la línea, gana el primero.
+
+## Cierre
 - ¿Cómo eligieron el orden de los saltadores?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TO AND FRO JUMP.**
+
+Leader of one team takes a standing long jump from a chalk line (heels to the line). Leader of other team jumps back from the point the first jumper's heels got to. No. 2 of the first team then jumps out again from where the 2nd team's leader's heels got to. Then No. 2 of second team jumps back, and so on. If the last jump back lands with heels over the line the second team wins, otherwise first team.
+
 ---
-**Fuente:** inspirada en el juego «To and Fro Jump» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 13, «To and Fro Jump». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,10 +143,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Seguí el Rastro!
+# Seguí el Rastro
 
 ## Resumen
-Una persona, la "liebre", sale primero y va dejando un rastro. La patrulla sale un rato después y tiene que seguirlo hasta encontrarla. Es la base de todos los juegos de rastreo y sirve para aprender las señales de pista.
+Un juego de rastreo para la patrulla: alguien sale adelante dejando marcas y la patrulla lo tiene que encontrar siguiéndolas.
 
 ## Preparación
 1. Definí el área de juego y sus límites.
@@ -150,10 +154,13 @@ Una persona, la "liebre", sale primero y va dejando un rastro. La patrulla sale 
 3. Repasá con el grupo las señales de pista (camino a seguir, camino equivocado, carta escondida a X pasos, fin de la pista).
 
 ## Desarrollo
-1. La liebre sale con unos minutos de ventaja y va dejando marcas cada tanto.
-2. Puede usar también otras señales: cerrar un camino que no se usa o esconder una nota con indicaciones para el siguiente tramo.
-3. La patrulla sale después y sigue el rastro hasta encontrar a la liebre.
-4. A medida que avanza, la patrulla borra o levanta las marcas, para dejar el lugar limpio y no confundir a otros.
+1. Se elige a una «liebre», que es el que sale primero y deja el rastro. Puede ir a pie o en bicicleta.
+2. La liebre lleva el bolsillo lleno de cosas chicas, como granos de maíz, cáscaras de nuez, papelitos picados o botones, y va dejando caer algunos aquí y allá para marcar el camino.
+3. Un rato después sale la patrulla y sigue ese rastro hasta encontrar a la liebre.
+
+**Con tiza (variante del original):** en vez de tirar cosas, la liebre lleva una tiza y dibuja cada tanto el signo de la patrulla (el dibujo o símbolo que la identifica) en paredes, postes, veredas, faroles o árboles. La patrulla la busca siguiendo esas marcas. A medida que pasan, los de la patrulla borran las marcas, por prolijidad y para no confundir a otra patrulla que practique otro día.
+
+**Con señales de pista (variante del original):** se pueden sumar las otras señales de pista scouts, por ejemplo marcar con una cruz los caminos que no hay que tomar, o esconder una carta en algún punto con la indicación de hacia dónde seguir.
 
 ## Cierre
 - ¿Qué marcas fueron fáciles de ver y cuáles costaron?
@@ -184,18 +191,8 @@ The other road signs should also be used, such as closing up certain
 roads as not used, and hiding a letter at some point, giving directions
 as to the next turn.
 
-**Versión en español:**
-
-**SEGUÍ EL RASTRO.**
-
-Mandá a una "liebre", a pie o en bicicleta, con un bolsillo lleno de granos de maíz, cáscaras de nuez, papelitos de confeti o botones, etc., que vaya dejando caer algunos aquí y allá para marcar un rastro que la patrulla pueda seguir.
-
-O salí con un trozo de tiza y dibujá el signo de la patrulla en paredes, postes de tranqueras, veredas, faroles, árboles, etc., cada tanto, y que la patrulla te busque siguiendo esas marcas. Las patrullas deben borrar todas las marcas a medida que pasan, por prolijidad y para no confundir a otra patrulla que practique otro día.
-
-También deben usarse las demás señales de pista, como cerrar ciertos caminos que no se usan y esconder una carta en algún punto con indicaciones para el siguiente desvío.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

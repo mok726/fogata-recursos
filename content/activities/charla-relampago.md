@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Charla Relámpago"
+title: "El que Habla Más Rápido"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/charla-relampago/"
@@ -9,13 +9,13 @@ summary: "Hablar sin parar ni reírse frente a otro que también habla."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,20 +133,34 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Charla Relámpago
+# El que Habla Más Rápido
 
-## De qué se trata
-Dos jugadores se paran frente a frente delante de los demás. A la orden, los dos empiezan a hablar a toda velocidad sobre cualquier tema, sin hacer gestos. El primero que se frena, duda o se ríe, pierde. Si ninguno afloja en dos minutos, los demás votan al ganador.
+## Resumen
+Un duelo de palabras: hay que hablar sin parar.
 
-## Cómo se juega
-1. Pasan dos al frente y se paran cara a cara.
-2. A la orden, los dos empiezan a hablar a la vez, rápido y sin parar, del tema que quieran.
-3. No pueden mover las manos ni hacer gestos.
-4. El primero que se queda callado, repite palabras sin sentido o se ríe, pierde.
-5. Si pasan dos minutos y ninguno aflojó, los demás votan quién habló mejor.
+## Desarrollo
+1. Dos jugadores se paran frente a frente delante de los demás.
+2. A la señal, cada uno le habla al otro lo más rápido que puede, sobre el tema que quiera, y sin parar.
+3. No se permiten gestos.
+4. Pierde el primero que hace una pausa o se ríe.
 
-## Para cerrar
+**Cómo se gana:** si ninguno se quiebra en dos minutos, los demás votan al ganador.
+
+## Cierre
 - ¿Qué es más difícil: hablar o no escuchar al otro?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUICKEST TALKER.**
+
+Two players stand up facing each other in front of the rest and must make a speech to each other as fast as they can on any subject they like. No gestures are allowed. The first player to pause or start laughing loses. If neither break down in two minutes the winner is decided by vote of the rest.
+
 ---
-**Fuente:** inspirada en el juego «Quickest Talker» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 17, «Quickest Talker». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

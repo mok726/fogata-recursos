@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cortá el Pase"
+title: "Interceptá la Pelota"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/corta-el-pase/"
@@ -9,13 +9,13 @@ summary: "Pasarse la pelota sin que la corte el del medio."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,29 +133,44 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Cortá el Pase
+# Interceptá la Pelota
 
-## De qué se trata
-Todos en ronda se pasan una pelota. Uno en el medio intenta agarrarla o tocarla. Si la corta, el que hizo el pase pasa al medio. También pasa al medio el que tira una pelota imposible de agarrar o por arriba de los hombros.
+## Resumen
+Un juego de ronda con pelota: uno en el centro trata de cortar los pases de los demás.
 
-## Cómo se juega
-1. Formen una ronda de unos 6 metros de diámetro. Uno va al centro.
-2. La ronda se pasa la pelota, de cualquier manera, a cualquiera.
-3. El del centro intenta agarrar la pelota o tocarla.
-4. Si la corta, cambia de lugar con el que la tiró.
-5. También cambia el que tira una pelota que nadie puede agarrar o que va por arriba de los hombros.
+## Desarrollo
+1. Los jugadores forman una ronda y uno se pone en el centro.
+2. Los de la ronda se tiran una pelota entre ellos, de un lado al otro, sin un orden fijo.
+3. El del centro trata de interceptarla, es decir, de tocarla o agarrarla en el aire antes de que llegue a destino.
+4. El jugador que tiró la pelota cambia de lugar con el del centro en cualquiera de estos tres casos:
+   - si el del centro intercepta su pase;
+   - si tiró una pelota imposible de agarrar para el compañero;
+   - si tiró la pelota más alta que los hombros (para que no valga tirarla por arriba del del centro).
 
-### Variante: Picando o rodando
-Solo valen pases que piquen una vez o que vayan rodando por el piso.
+**Picando o rodando (variante del original):** en lugar de tirarla por el aire, la pelota se pasa haciéndola picar en el piso o rodando.
 
-### Variante: Dos en el medio
-Con rondas grandes, pongan dos jugadores en el centro.
+**Dos en el centro (variante del original):** se ponen dos jugadores en el centro para que sea más difícil para la ronda.
 
-## Para cerrar
+## Cierre
 - ¿Qué pases eran los más difíciles de cortar?
 
-## Notas para educadores
+## Notas para el educador
 - El clásico juego del «loco» o «monito» en sus muchas versiones. Usá una pelota blanda si es en interior.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**INTERCEPT THE BALL.**
+
+Players in circle, one in centre tries to intercept a ball thrown from one to another. Thrower of an intercepted pass, or of an uncatchable ball, or of a ball that goes above shoulder height changes places with the player in the centre.
+
+Variations.-Bouncing or rolling the ball, and having two in the centre.
+
 ---
-**Fuente:** inspirada en el juego «Intercept the Ball» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 13, «Intercept the Ball». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

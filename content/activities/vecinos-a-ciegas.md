@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Vecinos a Ciegas"
+title: "Vecinos"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vecinos-a-ciegas/"
@@ -9,13 +9,13 @@ summary: "Reconocer a tu vecino por la voz."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,21 +133,33 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Vecinos a Ciegas
+# Vecinos
 
-## De qué se trata
-En la ronda, uno de cada dos jugadores se venda los ojos. Los otros cambian de lugar en silencio y se ponen entre los vendados. Después, cada vendado le pide a su vecino de la derecha que hable, cante o conteste preguntas, para adivinar quién es.
+## Resumen
+Un juego de ronda para reconocer a los compañeros por la voz.
 
-## Cómo se juega
-1. Formen una ronda. Uno sí y uno no se vendan los ojos.
-2. Los que ven cambian de lugar sin hacer ruido.
-3. Cada vendado le dice al de su derecha: «Cantá algo», «Decí tu comida favorita», «Contá hasta diez».
-4. Puede hacer tres pedidos. No valen preguntas directas como «¿De qué color tenés el pelo?».
-5. Después dice quién cree que es.
-6. Se cambian los papeles: se vendan los que veían.
+## Desarrollo
+1. Los jugadores forman una ronda. Uno sí y uno no se vendan los ojos: así queda un vendado, uno sin venda, un vendado, y así.
+2. Los que no tienen venda, en silencio, dan una vuelta y se reacomodan en otros lugares, siempre entre dos vendados.
+3. Cada vendado le pide a su vecino de la derecha que hable, que cante o que conteste preguntas, para adivinar quién es por la voz. El vecino puede cambiar la voz para despistar.
+4. Las preguntas directas que delatan, como «¿De qué color tenés el pelo?», no hace falta contestarlas.
+5. Cuando todos los vendados dicen quién creen que es su vecino, se sacan la venda para ver si acertaron. Después se cambian los papeles.
 
-## Para cerrar
+## Cierre
 - ¿Qué los ayudó a reconocer al vecino? ¿La voz, la risa, algo que dijo?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**NEIGHBOURS.**
+
+Players in circle, every other one blindfold. Those not blind move round and take positions between the others. Those blindfold then tell their right-hand neighbours to talk or sing or ask questions with a view to guessing their identity. Direct questions such as “What is the colour of your hair? “need not be answered.
+
 ---
-**Fuente:** inspirada en el juego «Neighbours» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 30, «Neighbours». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Dónde Queda?"
+title: "Reconocer el Lugar"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-queda/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - observacion
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -136,19 +140,22 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡¿Dónde Queda?!
+# Reconocer el Lugar
 
 ## Resumen
-Mostrá fotos o dibujos de detalles del barrio que todos deberían conocer si anduvieran atentos: una esquina, una ventana rara, una veleta, un árbol, un reflejo en el agua. Hay que adivinar dónde están.
+Un juego de observación bajo techo, para la ciudad o el campo: hay que reconocer lugares del barrio a partir de fotos.
 
 ## Preparación
 Sacá entre 10 y 20 fotos de detalles cercanos. Mezclá algunos fáciles con otros muy difíciles.
 
 ## Desarrollo
-1. Mostrá cada foto un rato.
-2. Cada patrulla o pareja anota dónde cree que está.
-3. Se revisan las respuestas y se suman puntos.
-4. Como dice B-P, después las parejas pueden jugar entre sí, y las patrullas desafiarse.
+1. Antes de la reunión, el que dirige saca fotos (o hace dibujos) de cosas del barrio que cualquiera conocería si anduviera con los ojos bien abiertos. Por ejemplo: una esquina, una ventana curiosa, un adorno raro en la fachada de un edificio, una veleta en un techo, un árbol, el reflejo de un edificio en un charco o en una vidriera (y hay que adivinar qué edificio es).
+2. En la reunión muestra las fotos de a una.
+3. Los scouts tienen que decir dónde está cada cosa.
+
+El original no dice cómo se gana; una opción es que gane el que reconoce más lugares.
+
+**En parejas (variante del original):** dos scouts pueden jugar este y otros juegos parecidos entre ellos, como práctica. El guía de patrulla puede enfrentar a una pareja de su patrulla contra otra pareja, para que practiquen en serio; y cuando ya son muy buenos, puede desafiar a otras patrullas a competir contra la suya.
 
 ## Cierre
 - ¿Qué lugares pasamos todos los días sin verlos?
@@ -176,18 +183,8 @@ in the game, and thus get them really practised at it, and when they
 become really good he can challenge other patrols to compete against
 his.
 
-**Versión en español:**
-
-**RECONOCER EL LUGAR (bajo techo, en la ciudad o en el campo).**
-
-Mostrá una serie de fotos o dibujos de cosas del vecindario que todos los scouts conocerían si anduvieran con los ojos abiertos; por ejemplo, un cruce de caminos, una ventana curiosa, una gárgola o una veleta, un árbol, un reflejo en el agua (adivinar qué edificio lo produce), etc.
-
-Una pareja de scouts puede jugar entre sí, como práctica, la mayoría de las competencias de arriba, si quiere.
-
-Los guías de patrulla pueden enfrentar a una pareja de sus scouts contra otra en el juego, y así hacerlos practicar de verdad; y cuando ya son muy buenos, el guía puede desafiar a otras patrullas a competir contra la suya.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

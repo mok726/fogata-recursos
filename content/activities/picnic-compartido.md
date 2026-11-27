@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - compartir
   - solidaridad
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -139,15 +143,18 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Picnic Compartido!
+# Picnic Compartido
 
 ## Resumen
-Para practicar el desprendimiento, B-P propone un picnic al que cada uno aporta lo que puede según sus posibilidades. La regla clave: **no se permite ningún comentario** sobre cuánto trajo cada uno.
+Una actividad de B-P para practicar el desprendimiento, es decir, la generosidad de compartir sin pensar en uno mismo.
 
 ## Desarrollo
-1. Explicá la idea con anticipación, sin pedir cantidades.
-2. Todo se pone en común en el centro.
-3. Se reparte entre todos por igual.
+1. Se organiza un picnic, una merienda o un almuerzo al aire libre, con la patrulla o el grupo.
+2. Cada uno lleva para compartir lo que pueda, según sus posibilidades. No hay una cuota fija ni una lista de lo que tiene que llevar cada uno.
+3. Todo lo que se trae se pone en común y se reparte entre todos por igual.
+4. La regla más importante: nadie hace ningún comentario sobre cuánto o qué trajo cada uno. Ni para bien ni para mal.
+
+La idea es que todos disfruten juntos y que nadie se sienta menos por lo que pudo aportar.
 
 ## Cierre
 - ¿Cómo se sintieron al compartir sin comparar?
@@ -163,12 +170,8 @@ Practice unselfishness by a picnic to which all contribute what they are
 able to, according to their means. No remarks to be allowed on the
 amounts given.
 
-**Versión en español:**
-
-Practiquen el desprendimiento con un picnic al que todos contribuyen con lo que pueden, según sus medios. No se permite ningún comentario sobre lo que aporta cada uno.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -73,11 +74,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -153,16 +154,23 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 ---
 
-# ¡Incendios de Campo!
+# Incendios de Campo
 
 ## Resumen
-B-P dice que los incendios de pastizal y de bosque nunca los empiezan los verdaderos Scouts, sino los "pies tiernos" descuidados. Explica cómo se limpia el pasto alrededor del fogón, cómo se desarma, se pisa y se moja el fuego hasta que no quede ni una chispa, que la tierra o la arena sirven tanto como el agua, y el error de ponerse a sotavento (del lado hacia donde el viento lleva humo, llamas y chispas).
+Una charla de B-P para los lobatos sobre cómo evitar los incendios de campo y cómo no quemarse al apagar un fuego. Sirve para contarla antes de una salida o de una actividad con fuego.
 
 ## Desarrollo
-1. Aten cintas a un palo y observen hacia dónde las lleva el viento. Expliquen "barlovento" (de donde viene el viento) y "sotavento" (hacia donde va).
-2. Juego: el educador grita "¡viento del norte!" (o cualquier dirección) y todos corren al lado seguro: a barlovento de un "fuego" imaginario marcado en el centro. El que va a sotavento queda "quemado".
-3. Demostración: cómo se apaga un fogón de verdad. Se desarma, se moja, se revuelve, se vuelve a mojar y se toca la ceniza con el dorso de la mano (lejos) para ver que esté fría.
-4. Tarjetas de situaciones: ¿qué hacen si ven humo en el campo? (alejarse por barlovento y avisar a un adulto y a los bomberos).
+**La idea del original:**
+
+1. Todo scout se asegura de que su fuego de cocina quede bien apagado antes de irse: le echa agua a las cenizas calientes hasta que no quede ni una chispa que pueda prender el pasto. En verano es muy peligroso, porque una vez que empieza un incendio de pastizal, nadie sabe dónde va a terminar.
+2. Antes de prender un fogón, los scouts con experiencia limpian el pasto alrededor del lugar, para que el fuego no se pueda extender.
+3. Cuando terminan de cocinar, desarman el fuego, lo pisan todo y le echan agua a las cenizas que todavía humean.
+4. Los incendios de campo y de bosque nunca los empiezan los verdaderos scouts, sino los «pies tiernos» (los novatos) tontos y descuidados.
+5. Un incendio de campo avanza rapidísimo: en pocos minutos es demasiado grande para que una persona lo pare, y quema cultivos, bosques, animales, casas y hasta pueblos enteros.
+6. Por eso el que sabe de vida al aire libre tiene el cuidado como costumbre: aun cuando quema yuyos en el fondo de una casa, primero saca todo lo que se pueda prender, y al terminar pisa hasta la última chispa.
+7. La tierra o la arena muchas veces sirven tanto como el agua para apagar un fuego.
+
+**Barlovento y sotavento.** Para apagar un fuego chico se lo pisa o se lo golpea con bolsas o ramas, pero muchos novatos se ponen del lado equivocado. *Barlovento* es el lado de donde viene el viento; *sotavento* es el lado contrario, hacia donde el viento lleva las cosas. Detrás de una casa o una roca, el sotavento es un buen lugar para resguardarse del viento frío. Pero en un fuego es el peor lugar, porque el humo, las llamas y las chispas van todos hacia allá. B-P cuenta que supo de un chico que se quemó mucho por ponerse de ese lado. Como dice el epígrafe del original: el sotavento de una roca está bien; el sotavento de un fuego es otra cosa.
 
 ## Cierre
 - ¿Por qué un incendio de campo es tan peligroso?
@@ -190,24 +198,8 @@ The lee side of a house or a rock is a good place to get to when a cold wind is 
 But that is very often the side to which a tenderfoot goes in order to stop a fire spreading. I have heard of one boy who badly burnt himself in doing so.
 [Captions:] The lee side of a rock is all right — the lee side of a fire is another thing.
 
-**Versión en español:**
-
-**INCENDIOS DE CAMPO**
-Todo Scout sabe lo importante que es asegurarse de que su fuego de cocina esté bien apagado antes de irse. Echa agua sobre las cenizas calientes, para que no quede ni una chispa que pueda prender el pasto alrededor del campamento. En verano es un gran peligro, porque una vez que empieza un incendio de pastizal, nunca sabés dónde va a terminar.
-Los Scouts veteranos tienen mucho cuidado de cortar, o de quemar de a poco, el pasto alrededor del lugar donde van a hacer el fogón, para que, cuando esté encendido, no se extienda al campo de alrededor.
-Después, cuando terminan de cocinar, los acampantes veteranos tienen muchísimo cuidado de desarmar el fuego, pisarlo todo y echar agua sobre las cenizas que todavía humean, para que no quede ni una chispa que después pueda empezar otro fuego.
-Los incendios de pastizal y de bosque nunca los empiezan los verdaderos Scouts, sino solo los pies tiernos tontos y descuidados.
-Un incendio de campo, una vez que empieza, arde y se extiende a una velocidad tremenda, y en pocos minutos es demasiado grande para que un hombre lo pare. Entonces avanza por el campo quemando cultivos y bosques, ganado y granjas, y hasta pueblos y ciudades a su paso.
-Por eso un verdadero hombre de los bosques tiene mucho cuidado con su fogón. Ese cuidado es un hábito para él, así que, aun cuando quema malezas sin peligro en el fondo de una casa, primero corta todo lo que pueda prenderse, y cuando termina, pisa con cuidado hasta la última chispa antes de irse.
-Acordate de que la arena o la tierra muchas veces sirven tanto como el agua para apagar un fuego.
-Los pies tiernos, cuando tratan de apagar un fuego pisándolo o golpeándolo con bolsas o ramas —que es lo correcto—, muchas veces lo hacen mal y se ponen a sotavento del fuego. ¿Sabés qué quiere decir?
-Barlovento es hacia el viento, es decir, el lado de donde sopla el viento, el lado ventoso. Sotavento es el lado opuesto.
-El lado de sotavento de una casa o de una roca es un buen lugar para ponerse cuando sopla un viento frío. Pero, en el caso de un fuego, es un mal lugar, porque el humo, las llamas y las chispas van todos hacia sotavento.
-Y muchas veces es justamente el lado al que va un pie tierno para que el fuego no se extienda. Supe de un chico que se quemó mucho por hacer eso.
-[Epígrafes:] El lado de sotavento de una roca está bien; el lado de sotavento de un fuego es otra cosa.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

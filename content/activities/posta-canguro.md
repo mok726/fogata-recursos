@@ -9,13 +9,13 @@ summary: "Saltar las piernas de toda la patrulla como un canguro."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,22 +133,36 @@ rama_rovers:
 
 # Posta Canguro
 
-## De qué se trata
-La patrulla se sienta en una fila, con las piernas estiradas para adelante y medio metro de distancia entre uno y otro. El primero se para y salta con los pies juntos por encima de las piernas de todos sus compañeros. Al llegar al final, corre por detrás y vuelve a sentarse en su lugar. Entonces sale el siguiente.
+## Resumen
+Una carrera de postas en la que se salta como un canguro por encima de las piernas de los compañeros.
 
-## Cómo se juega
-1. Cada patrulla se sienta en fila, de costado, con las piernas estiradas.
-2. A la orden, el primero se para y salta, con los pies juntos, por encima de las piernas de cada compañero.
-3. Al llegar al final, corre por detrás de la fila y vuelve a su lugar.
-4. Cuando se sienta, el siguiente se levanta y salta para los dos lados: primero hacia el final y después hacia el principio.
-5. Gana la primera patrulla en la que saltaron todos.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-## Reglas
-- Los sentados no pueden mover las piernas.
-- Se salta con cuidado: el que pisa a alguien vuelve a empezar.
+1. Cada equipo se sienta en el piso en una fila, uno detrás del otro, con las piernas estiradas hacia adelante y unos 60 cm de distancia entre jugador y jugador.
+2. A la señal, el primero de cada equipo se para y salta con los pies juntos por encima de las piernas de todos sus compañeros, hasta el final de la fila. Después vuelve corriendo por afuera hasta su lugar y se sienta.
+3. Apenas se sienta, sale el segundo: salta por encima de las piernas de los que están detrás de él hasta el final, vuelve corriendo por afuera hasta la punta de adelante y salta por encima de las piernas del primero para llegar a su lugar.
+4. Así sigue cada jugador: salta todas las piernas de la fila, menos las suyas, y vuelve a sentarse donde estaba.
 
-## Para cerrar
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
+
+**Formas de saltar (variante del original):** se puede pedir que todos salten con los pies juntos, que todos salten en un pie, o que se alterne: un jugador con los dos pies y el siguiente en un pie.
+
+## Cierre
 - ¿Les dio miedo que los pisaran? ¿Cómo se cuidaron?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KANGAROO RELAY.**
+
+Teams in line sitting on floor with legs straight out in front of them, players about 2 feet apart. First player of each team jumps with feet together over the legs of his team and then runs round the back of his team to his place. As soon as he sits down the next player hops down the row, runs to the other end, and hops over the first players legs to his place, and so on. First team to finish wins. Players should either jump or hop or alternate players do different things.
+
 ---
-**Fuente:** inspirada en el juego «Kangaroo Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Kangaroo Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

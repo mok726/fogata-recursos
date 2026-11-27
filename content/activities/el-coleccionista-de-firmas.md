@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - ciudad
   - persecucion
   - estrategia
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,23 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Coleccionista de Firmas!
+# El Coleccionista de Firmas
 
 ## Resumen
 Se arma un circuito de hasta seis bases en una zona amplia. En cada base hay un "scout de base" (rojo) con una libreta, y dos guardias (azules). El coleccionista (rojo) recorre el circuito: si llega a la base sin que lo toquen, le firman la libreta y sigue. Si lo tocan, le da su firma al guardia y pierde esa base. Los de base pueden hacerle señas de cuándo conviene entrar.
 
 ## Desarrollo
-1. Marcá las bases (unos 40 m cada una) en círculo.
-2. Ubicá en cada una al scout de base y a dos guardias. El árbitro, en la salida.
-3. El coleccionista intenta llegar a cada base. Si lo tocan, entrega su firma al guardia y sigue a la próxima.
-4. Si consigue la firma, los guardias de esa base quedan vencidos y vuelven a la salida.
-5. Gana el equipo (rojos o azules) con más firmas.
+Un juego por las calles del centro: un coleccionista tiene que juntar firmas en varias bases, esquivando a los que las custodian.
+
+1. Se elige un circuito de calles largas y con mucha gente. En el medio de algunas de esas calles se marca una base: un tramo de unos 50 metros de vereda.
+2. En el centro de cada base se para un «scout de base». Cada base tiene, además, dos scouts oponentes que la custodian. Según cuántos sean, se arman hasta seis bases, ubicadas en círculo, de modo que el recorrido termine donde empezó. Ahí espera el árbitro.
+3. Hay dos bandos. Los «rojos» son el coleccionista y todos los scouts de base: llevan una cinta roja prendida en la ropa. Los «azules» son los oponentes: llevan una cinta azul.
+4. El coleccionista recorre las bases y trata de conseguir la firma de cada scout de base. Los scouts de base están de su lado y pueden hacerle señas de cuándo le conviene entrar.
+5. Los dos oponentes de cada base tratan de tocar al coleccionista antes de que llegue a la base. Si lo tocan, el coleccionista le da su propia firma al que lo tocó (esa firma cuenta para los azules) y pierde su oportunidad en esa base.
+6. Si llega a la base sin que lo toquen, está a salvo: consigue la firma y sigue hacia la siguiente sin que lo molesten. Puede intentarlo en todas las bases.
+7. Reglas: no se vale esconderse en negocios, para esconderse o cubrirse solo se puede usar la calle, y todos tienen que tener claros los límites de cada base (se pueden marcar con tiza). Cuando el coleccionista pasó una base, los oponentes de esa base no pueden ir a otra: están vencidos y vuelven al punto de partida.
+
+**Cómo se gana:** gana el bando (rojos o azules) que junta más firmas.
 
 ## Cierre
 - ¿Funcionaron las señas de los scouts de base?
@@ -176,25 +185,12 @@ RULES.
 
 4) When the collector has got through a base and obtained the signature, the opposing Scouts who were guarding that base must not watch round another base : they are beaten and must make for the starting-point.
 
-**Versión en español:**
-
-**EL COLECCIONISTA DE FIRMAS.**
-
-Se elige un circuito conveniente de calles largas y concurridas, y se forma un área de base, de unas cincuenta yardas de calle, en el medio de algunas de esas calles. Se ubica un scout en el centro del área, al que se llamará "scout de base". La cantidad de bases dependerá de la cantidad de scouts, ya que cada base necesita un scout de base y dos oponentes. No debería haber más de seis bases. El coleccionista de firmas y todos los scouts de base llevan una cinta roja sujeta a la insignia del ojal o prendida al saco. Los scouts oponentes llevan cintas azules. El coleccionista tiene que recorrer el circuito de bases y tratar de conseguir la firma de cada scout de base. Los scouts oponentes se ubican de a dos en cada base para impedir que el coleccionista llegue hasta el scout de base, con solo tocarlo. Si lo tocan mientras intenta llegar a una base, el coleccionista le entrega su propia firma a su captor y pierde su oportunidad en esa base. Pero si llega al área de la base sin que lo toquen, está a salvo para conseguir la firma y salir sin que lo molesten a intentar la siguiente base. Se entiende que puede intentarlo en todas las bases. Las bases se ubican en círculo, de modo que cuando termina su recorrido vuelve al punto de partida, donde está el árbitro. Los scouts de base, que están confabulados con el coleccionista, pueden ayudarlo haciéndole señas de cuándo es mejor intentarlo. Así, el juego se convierte en una competencia entre "rojos" y "azules". Gana el grupo de scouts que consigue más firmas.
-
-REGLAS.
-
-1) No se permite esconderse en negocios.
-
-2) Hay que cubrirse solo en la calle.
-
-3) Todos los jugadores de una base tienen que tener claros sus límites. Si hace falta, se pueden marcar con tiza.
-
-4) Cuando el coleccionista pasó una base y consiguió la firma, los scouts oponentes que cuidaban esa base no pueden ir a vigilar otra: están vencidos y tienen que ir al punto de partida.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VII (Town Games), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VII (Town Games), juego 4: «The Signature Collector». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

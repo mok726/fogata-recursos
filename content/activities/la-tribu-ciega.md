@@ -9,13 +9,13 @@ summary: "Salir de una ronda de vendados sin que te toquen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,22 +136,36 @@ rama_rovers:
 
 # La Tribu Ciega
 
-## De qué se trata
-Los de la ronda se paran con los brazos abiertos, tocándose apenas las puntas de los dedos, y se vendan los ojos. En el medio hay dos jugadores atados del tobillo, como en la carrera de tres piernas. Tienen que salir de la ronda sin que los toquen. Los vendados pueden estirar los brazos, pero no mover los pies.
+## Resumen
+Un juego de ronda en el que dos jugadores atados tienen que escaparse de una «tribu» de jugadores con los ojos vendados.
 
-## Cómo se juega
-1. Formen una ronda con los brazos abiertos, de manera que se toquen las puntas de los dedos con los vecinos.
-2. Todos se vendan los ojos y quedan con los pies quietos.
-3. Dos jugadores, en el medio, se atan juntos del tobillo con un pañuelo.
-4. Los del medio tienen que salir de la ronda sin que nadie los toque. Pueden ir despacio y en silencio.
-5. Los de la ronda escuchan y estiran los brazos para tocarlos, sin mover los pies.
-6. Si los tocan, el que tocó pasa al medio con un compañero. Si salen, eligen a los próximos.
+## Desarrollo
+1. Los jugadores forman una ronda, separados de modo que, con los brazos estirados hacia los costados, se toquen apenas las puntas de los dedos con los vecinos. Todos se vendan los ojos: son la tribu ciega.
+2. En el centro se ponen otros dos jugadores, sin venda: son las víctimas. Van atados como en una carrera de tres piernas, es decir, uno al lado del otro, con el tobillo derecho de uno atado al tobillo izquierdo del otro.
+3. A la señal, las víctimas tratan de salir de la ronda pasando entre los ciegos sin que las toquen. Tienen que moverse juntas y en silencio, porque los ciegos se guían por el oído.
+4. Los ciegos pueden estirar los brazos y agacharse para tocarlas, pero no pueden mover los pies de su lugar.
+5. Si un ciego toca a una de las víctimas, quedan atrapadas. Después se eligen otras dos víctimas.
 
-## Para cerrar
+**Cómo se gana:** las víctimas ganan si logran salir de la ronda sin que las toquen.
+
+## Cierre
 - ¿Por qué era tan difícil para los del medio moverse en silencio?
 
-## Notas para educadores
+## Notas para el educador
 - El nudo del tobillo tiene que ser flojo y de pañuelo, nunca de soga.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND TRIBE.**
+
+Players in circle so that, with arms extended, their fingers just touch, and blindfold. Two other players in centre tied as in a 3-legged race but not blindfold. The victims try to get out of the circle without being touched by the blind men, who may reach out but must not move from their original positions.
+
 ---
-**Fuente:** inspirada en el juego «Blind Tribe» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 10, «Blind Tribe». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

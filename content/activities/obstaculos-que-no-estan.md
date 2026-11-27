@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Obstáculos que No Están"
+title: "Carrera de Obstáculos a Ciegas"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obstaculos-que-no-estan/"
@@ -9,13 +9,13 @@ summary: "Una pista de obstáculos a ciegas… sin obstáculos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,28 +134,37 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Obstáculos que No Están
+# Carrera de Obstáculos a Ciegas
 
-## De qué se trata
-Se arma una pista de obstáculos simple: pasar por arriba de un banco, por abajo de una soga, saltar un «río» marcado. Los jugadores la recorren una vez mirando. Después se vendan los ojos… y, sin hacer ruido, se sacan todos los obstáculos. Los jugadores salen a recorrerla a ciegas, saltando y agachándose donde no hay nada. A medida que cada uno se da cuenta, se saca la venda y se queda mirando a los demás.
+## Resumen
+Una broma inofensiva con forma de carrera de obstáculos: los jugadores pasan, con los ojos vendados, obstáculos que ya no están.
 
-## Cómo se juega
-1. Armen una pista con tres o cuatro obstáculos simples.
-2. Todos la recorren una vez, mirando bien las distancias.
-3. Se vendan los ojos y esperan su turno, de espaldas.
-4. Los dirigentes sacan en silencio todos los obstáculos.
-5. De a uno, cada jugador sale a recorrer la pista a ciegas. Los demás lo alientan: «¡Cuidado con el banco!».
-6. Cuando se da cuenta de la broma, se saca la venda y se suma a alentar al siguiente.
+## Desarrollo
+1. El que dirige arma un recorrido de obstáculos muy simple. Por ejemplo: pasar por arriba de un banco, pasar por abajo de otro, saltar un «río» marcado con dos sogas en el piso.
+2. Los jugadores hacen el recorrido con los ojos abiertos, mirando bien las distancias, para aprendérselo.
+3. Después se les vendan los ojos a los que van a correr. Mientras tanto, en absoluto silencio, se sacan todos los obstáculos.
+4. Los jugadores salen y van haciendo el recorrido de memoria: se agachan, levantan las piernas, saltan el río… que no existe. Los demás los alientan como si los obstáculos siguieran ahí.
+5. No se vale tantear con las manos para buscar los obstáculos.
+6. Cuando un jugador se da cuenta del engaño, se lo saca del recorrido, se le saca la venda y se queda mirando, para disfrutar de la diversión junto con los demás.
 
-## Reglas
-- Un dirigente acompaña a cada jugador vendado.
-- No se tantea con las manos: la gracia es confiar en la memoria.
-
-## Para cerrar
+## Cierre
 - ¿Cuándo se dieron cuenta? ¿Qué les hizo sospechar?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego de una sola vez por grupo. Que todos se rían con el que pasa, no de él.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD OBSTACLE RACE.**
+
+A very simple obstacle course is arranged and the players are allowed to go over it, using their eyes to learn distances, etc. They are then blindfolded, and all the obstacles are very quietly removed. Players then start and are cheered on as they negotiate the non-existent obstacles. As each player twigs it he is pulled out and made to enjoy the fun. No feeling for the obstacles is allowed. Suitable obstacles: over or under a bench, jump a marked river, etc.
+
 ---
-**Fuente:** inspirada en el juego «Blindfold Obstacle Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 40, «Blindfold Obstacle Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

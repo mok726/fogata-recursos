@@ -137,10 +137,10 @@ rama_rovers:
 
 # El Truco de Magia de la Paridad
 
-## De qué se trata
+## Resumen
 El dirigente pide que alguien arme un cuadrado de cinco por cinco cartas, cada una de un color o del otro, como quiera. Después, «para hacerlo más difícil», el mago agrega una fila y una columna más. Se da vuelta, alguien cambia una sola carta y el mago la encuentra al toque. ¿El truco? Las cartas que agregó hacen que en cada fila y cada columna haya siempre una cantidad par de cartas de un color. Cuando se da vuelta una, se rompe ese patrón. Las computadoras hacen lo mismo para darse cuenta cuando un dato llega con un error.
 
-## Cómo se juega
+## Desarrollo
 1. El mago (un dirigente) pide a un voluntario que arme un cuadrado de 5 × 5 cartas, eligiendo él el color de cada una.
 2. El mago agrega una columna más a la derecha y una fila más abajo, «para hacerlo más difícil». En secreto, elige el color de cada carta nueva para que en cada fila y columna haya una cantidad par de cartas oscuras.
 3. El mago se da vuelta. El voluntario cambia una sola carta, cualquiera.
@@ -151,11 +151,11 @@ El dirigente pide que alguien arme un cuadrado de cinco por cinco cartas, cada u
 ### Variante: Dos cartas
 ¿Qué pasa si se dan vuelta dos cartas? ¿El mago las puede encontrar?
 
-## Para cerrar
+## Cierre
 - ¿Para qué le serviría esto a una computadora o a un celular?
 - ¿Dónde más se usa algo para comprobar que no hay errores (el número de un documento, el CBU)?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Se llama «bit de paridad»: un dato extra que se agrega para poder detectar errores. Lo usan los discos, las redes y las memorias.
 

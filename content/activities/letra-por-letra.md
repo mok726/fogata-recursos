@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Letra por Letra"
+title: "Concurso de Deletreo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/letra-por-letra/"
@@ -9,13 +9,13 @@ summary: "Agregar letras sin ser el que termina la palabra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,26 +132,41 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Letra por Letra
+# Concurso de Deletreo
 
-## De qué se trata
-El primero dice una letra. El siguiente agrega otra pensando en una palabra que empiece así, y así siguiendo. El que, al agregar su letra, completa una palabra de más de tres letras, pierde una vida. También se puede desafiar al anterior si uno cree que con esas letras no se puede formar ninguna palabra.
+## Resumen
+Un juego de palabras en ronda, sin papel.
 
-## Cómo se juega
-1. Siéntense en ronda. El primero dice una letra, por ejemplo: «C».
-2. El segundo agrega otra pensando en alguna palabra: «C, A».
-3. El tercero sigue: «C, A, M». Y así.
-4. Si al agregar tu letra se forma una palabra completa de más de tres letras (por ejemplo, C-A-M-A), perdés una vida.
-5. Ojo: si la palabra puede seguir (CAMA → CAMARA → CAMARERO), no está terminada. Solo pierde el que deja una palabra a la que no se le puede agregar nada más… o el que se queda sin ideas.
-6. Si creés que el anterior puso una letra al azar, lo podés desafiar: tiene que decir en qué palabra pensaba. Si no tiene, pierde él la vida. Si tenía, la perdés vos.
-7. Con tres vidas perdidas se sale. Gana el último.
+## Desarrollo
+1. Los jugadores se sientan en ronda. El primero dice una letra, pensando en alguna palabra.
+2. El siguiente agrega otra letra, también pensando en una palabra que pueda empezar así. Por ejemplo: «C», «A», «M»…
+3. La idea es seguir sumando letras **sin completar** una palabra de más de tres letras.
+4. Una palabra no está completa si todavía se le puede agregar algo: «cama» puede seguir hasta «camarero», y a muchas se les puede agregar una «s» para el plural.
+5. Pierde una vida el que completa una palabra o el que no agrega su letra en un minuto.
+6. **Desafío:** si un jugador cree que con las letras que le llegan no se puede formar ninguna palabra, puede desafiar al anterior. El anterior tiene que decir en qué palabra pensaba. Si no tenía ninguna, pierde él la vida; si tenía, la pierde el que desafió.
+7. Con tres vidas perdidas, se sale.
 
-## Para cerrar
+**Cómo se gana:** gana el último que queda.
+
+## Cierre
 - ¿Qué palabras salieron que nadie esperaba?
 
-## Notas para educadores
+## Notas para el educador
 - Para que el juego no se trabe, aclarar al principio que los plurales y las formas verbales cuentan como «palabra que sigue».
 - Es mejor con Scouts y Caminantes: para lobatos es difícil.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPELLING BEE.**
+
+Players in circle. Each adds a letter in turn, endeavouring not to complete a word of more than three letters, but having in view a word that will be ultimately formed. Any player failing to add a letter in a minute, or completing a word, loses a life, third time he falls out. If a player doubts the letters reaching him, being able to form a word, he may challenge, if it is upheld his predecessor loses a life, if not he does. A word is not complete if any addition is possible, as whomsoever or adding “s” for a plural.
+
 ---
-**Fuente:** inspirada en el juego «Spelling Bee» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 17, «Spelling Bee». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

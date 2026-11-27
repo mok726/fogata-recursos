@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - noche
   - distancias
   - linterna
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,17 +144,22 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Mostrar la Luz!
+# Mostrar la Luz
 
 ## Resumen
 Un scout se aleja en la oscuridad y, cuando el dirigente toca el silbato, muestra la luz cinco segundos y la tapa. Los demás estiman a qué distancia y dónde está, y salen a buscarlo. El primero que llega recibe la linterna y es el próximo en salir. Sirve para entrenar la vista, el oído y el cálculo de distancias.
 
 ## Desarrollo
-1. Un scout sale caminando por el campo en la oscuridad.
-2. El dirigente toca el silbato; el scout muestra la luz cinco segundos, la tapa y se queda quieto.
-3. Cada uno dice su estimación de distancia y el dirigente la anota.
-4. Todos salen a buscarlo. El primero que llega se queda con la linterna y sale en la ronda siguiente.
-5. Al final, el dirigente dice quién estimó mejor.
+Un juego nocturno para calcular distancias en la oscuridad y orientarse por una luz que se ve apenas unos segundos.
+
+1. Un scout se aleja por el campo en la oscuridad con una linterna o un farol a pilas.
+2. Cuando oye el silbato del que dirige, prende la luz durante cinco segundos.
+3. Después la tapa y se queda quieto en ese lugar.
+4. Los demás scouts estiman en qué lugar está y a qué distancia, y le dicen su cálculo al dirigente, que lo anota.
+5. Después todos salen hacia donde creen que se vio la luz. Cada uno trata de llegar antes que los demás.
+6. El que tiene la linterna se la da al primero que llega hasta él. Ahora le toca a ese alejarse y mostrar la luz.
+
+**Consejo del original:** el dirigente anota los cálculos de todos. Aunque no pueda averiguar la distancia exacta, tiene que saber qué scout dio la cifra más cercana.
 
 ## Cierre
 - ¿Es más difícil calcular distancias de noche? ¿Por qué?
@@ -167,15 +175,12 @@ Un scout se aleja en la oscuridad y, cuando el dirigente toca el silbato, muestr
 
 This night-scouting game not only affords recreation but is a good test for hearing and eyesight, and furnishes a splendid practice in judging distances. A Scout makes his way across fields, in the dark, and on hearing his leader's whistle, shows a light from a lantern for five seconds. He remains there, but hides the light, and the rest of the Scouts estimate how far away and whereabouts he is. I Then they set out to where they think the light was shown and each one tries to get there before the others. The lantern bearer hands over the lantern to the Scout who first reaches him, and then it is that boy's turn to go away and show the light. The Scoutmaster should note the various estimates propounded by the Scouts, and though he may be unable to discover the exact distance he should know which Scout gave the nearest figure.
 
-**Versión en español:**
-
-**MOSTRAR LA LUZ.**
-
-Este juego de exploración nocturna no solo es una recreación, sino que es una buena prueba para el oído y la vista, y da una práctica espléndida en calcular distancias. Un scout se va por los campos en la oscuridad y, al oír el silbato de su líder, muestra la luz de un farol durante cinco segundos. Se queda ahí, pero tapa la luz, y el resto de los scouts estima a qué distancia y en qué lugar está. Después salen hacia donde creen que se mostró la luz, y cada uno trata de llegar antes que los demás. El que tiene el farol se lo entrega al scout que llega primero hasta él, y entonces le toca a ese chico alejarse y mostrar la luz. El jefe de tropa debería anotar las distintas estimaciones que proponen los scouts, y aunque no pueda averiguar la distancia exacta, debería saber qué scout dio la cifra más cercana.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VIII (Night Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VIII (Night Games), juego 5: «Showing the Light». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

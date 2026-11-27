@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Llevar un Mensaje"
+title: "Llevar un Mensaje Corriendo"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/llevar-un-mensaje/"
@@ -53,6 +53,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -66,11 +67,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -143,17 +144,22 @@ rama_rovers:
   - 2  # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Llevar un Mensaje!
+# Llevar un Mensaje Corriendo
 
 ## Resumen
-B-P advierte que muchos piensan solo en correr rápido y olvidan el mensaje. La regla es "aprendé el mensaje y después corré con él": repetirlo al que lo manda, repetirlo en el camino y entregarlo palabra por palabra.
+Consejos de B-P para una de las pruebas de la Segunda Estrella de los lobatos: llevar un mensaje corriendo. Sirven para practicar en la reunión.
 
 ## Desarrollo
-1. Akela le da un mensaje a cada lobato (por ejemplo: "Decile a Baloo que la seisena roja necesita tres sogas y una linterna antes de las cinco").
-2. El lobato lo repite en voz alta a Akela hasta estar seguro de que lo entendió.
-3. Corre hasta el punto de entrega repitiéndolo para sí.
-4. Lo entrega a quien está ahí, que anota si llegó exacto. Se suman puntos por exactitud, no por velocidad.
-5. Variante: cadena de mensajeros con varios relevos, como advierte B-P.
+**La idea.** Muchos, cuando les toman esta prueba, piensan solo en correr rápido y muy poco en el mensaje. B-P propone darlo vuelta: no es «correr con un mensaje», sino «aprender el mensaje y después correr con él». Si el mensaje llega mal, no sirve de nada haber llegado primero: hay que volver a buscarlo.
+
+**Cómo llevar un mensaje:**
+1. Escuchá con atención las palabras exactas del mensaje.
+2. Repetítelo a vos mismo y después repetíselo en voz alta al que te lo dio, para confirmar que lo tenés bien.
+3. Asegurate de que lo entendiste antes de salir.
+4. Mientras vas corriendo, seguí repitiéndotelo, así llegás seguro de entregarlo bien.
+5. Al llegar, decilo con las mismas palabras.
+
+**Cuando el mensaje pasa de uno a otro.** Si el mensaje va en cadena, cada uno tiene que asegurarse de haberlo recibido bien del anterior antes de pasarlo al siguiente. B-P advierte que alcanza con que uno o dos de la cadena sean descuidados para que el mensaje llegue al final completamente cambiado.
 
 ## Cierre
 - ¿Qué pasó cuando alguien corrió sin aprender bien el mensaje?
@@ -171,18 +177,8 @@ If you don't do this you are sure to bungle up the message, so that if you get t
 And the same way in passing on a message. Be sure that you have got it correctly from the last speaker before you pass it on to the next.
 If one or two of a chain are careless in this way, a message gets very much altered before it gets round.
 
-**Versión en español:**
-
-**LLEVAR UN MENSAJE CORRIENDO**
-Esta es otra prueba de la Segunda Estrella, y demasiados chicos, cuando los ponen a prueba, piensan solo en correr, es decir, en qué tan rápido pueden llegar con el mensaje, y piensan demasiado poco en el mensaje en sí.
-Tenés que darlo vuelta en tu cabeza. Tiene que ser: "Aprendé el mensaje y corré con él".
-Prestá mucha atención a las palabras del mensaje, repetítelo a vos mismo, y otra vez al que te lo manda. Asegurate de que lo tenés bien y de que lo entendés antes de salir; y después seguí repitiéndotelo mientras vas, así estás seguro de entregarlo bien en el otro extremo.
-Si no hacés esto, seguro vas a arruinar el mensaje, y aunque llegues antes que nadie no sirve de nada, y tenés que volver a buscarlo una segunda vez.
-Y lo mismo al pasar un mensaje. Asegurate de haberlo recibido correctamente del anterior antes de pasárselo al siguiente.
-Si uno o dos de la cadena son descuidados así, el mensaje cambia muchísimo antes de llegar.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

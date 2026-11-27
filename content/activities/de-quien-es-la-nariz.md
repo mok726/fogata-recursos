@@ -9,13 +9,13 @@ summary: "Reconocer a los compañeros por la nariz, la mano o el pie."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -131,28 +137,43 @@ rama_rovers:
 
 # ¿De Quién Es la Nariz?
 
-## De qué se trata
-Se cuelga una sábana con un agujero. Una patrulla se pone detrás y, de a uno, sus integrantes asoman la nariz por el agujero. Las otras patrullas tienen que adivinar de quién es cada nariz.
-
 ## Preparación
 1. Colgá la sábana de una soga, a la altura de las caras, de manera que no se vea nada de lo que pasa atrás.
 2. Hacé un agujero chico, del tamaño de una moneda grande.
 
-## Cómo se juega
-1. Una patrulla se esconde detrás de la sábana. Las demás se sientan enfrente.
-2. Los de atrás eligen un orden en secreto y van asomando la nariz de a uno, durante unos segundos.
-3. Las patrullas que miran anotan, para cada nariz, de quién creen que es: «nariz 1: Juli», «nariz 2: Tomi».
-4. Cuando pasaron todos, se muestran en el mismo orden y cada patrulla cuenta sus aciertos.
-5. Después le toca a otra patrulla esconderse.
+## Resumen
+Un juego para reconocer a los compañeros viendo solo una parte de ellos.
 
-### Variante: Manos, pies o sombras
-En vez de la nariz, asomen una mano, un pie descalzo o, con una linterna atrás, la sombra del perfil.
+## Desarrollo
+1. Se cuelga una sábana (de una soga, de una puerta o sostenida por dos personas) y se le hace un agujero chico, o se arma de modo que solo asome la nariz del que está detrás.
+2. Un equipo se pone detrás de la sábana. De a uno, cada jugador muestra la nariz por el agujero.
+3. El otro equipo trata de adivinar de quién es cada nariz.
+4. Después cambian los equipos.
 
-## Para cerrar
+**Cómo se gana:** cada nariz bien adivinada vale un punto.
+
+**Variantes del original:** en lugar de la nariz se puede mostrar la mano, el pie, la sombra proyectada en la sábana, etc.
+
+## Cierre
 - ¿Qué detalle les ayudó a reconocer a cada uno?
 
-## Notas para educadores
+## Notas para el educador
 - Que nadie se sienta mal por su nariz: el juego va de observar, no de burlarse. Si notás incomodidad, pasá directo a la variante de manos o sombras.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHO'S NOSE?**
+
+A sheet is arranged so that only the noses of those behind it are visible. The team behind show their noses one at a time and the others try to guess the owners.
+
+Variations.-Hand, Foot, Shadow, etc.
+
 ---
-**Fuente:** inspirada en el juego «Who's Nose?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 43, «Who's Nose?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

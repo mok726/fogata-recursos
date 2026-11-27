@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dibujá la Huella"
+title: "Dibujo de Huellas"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibuja-la-huella/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,16 +142,17 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Dibujá la Huella!
+# Dibujo de Huellas
 
 ## Resumen
-La patrulla sigue un rastro de pisadas hasta encontrar un tramo donde se vean bien, y cada uno dibuja una huella. Gana el dibujo más fiel.
+Una práctica de rastreo: seguir las pisadas de alguien y dibujar una de ellas lo mejor posible.
 
 ## Desarrollo
-1. Alguien deja un rastro de pisadas (o usá uno real de animal).
-2. La patrulla lo sigue hasta encontrar una huella nítida.
-3. Cada uno la dibuja, con medidas si tiene cinta.
-4. Se comparan los dibujos con la huella.
+1. El que dirige sale con una patrulla y la pone sobre un rastro de pisadas, es decir, una serie de huellas que dejó una persona al caminar (puede ser alguien que pasó antes a propósito).
+2. Los scouts siguen el rastro hasta encontrar un tramo de suelo donde una de las huellas quedó bien marcada y clara, por ejemplo en barro, arena o tierra blanda.
+3. Ahí, cada scout dibuja esa huella con el mayor detalle que pueda: la forma, el tamaño, el dibujo de la suela, el taco, si hay algo gastado o roto.
+
+**Cómo se gana:** hay un premio para el scout que haga el dibujo más exacto.
 
 ## Cierre
 - ¿Qué cambia entre una huella en barro y una en arena seca?
@@ -165,14 +170,8 @@ scout who makes the most accurate drawing of one of the footprints of
 the track. The scouts should be allowed to follow up the track till they
 get to a bit of ground where a good impression of it can be found.
 
-**Versión en español:**
-
-**DIBUJO DE HUELLAS.**
-
-Saquen a una patrulla y pónganla sobre un rastro de pisadas. Dale un premio al scout que haga el dibujo más exacto de una de las huellas del rastro. Hay que dejar que los scouts sigan el rastro hasta llegar a un tramo donde se encuentre una buena impresión.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

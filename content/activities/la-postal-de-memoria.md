@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Postal de Memoria"
+title: "Reproducir la Imagen"
 duration: "25 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-postal-de-memoria/"
@@ -9,13 +9,13 @@ summary: "Dibujar de memoria una imagen vista un minuto."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,27 +134,40 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Postal de Memoria
+# Reproducir la Imagen
 
-## De qué se trata
-Cada jugador mira una postal o una foto durante un minuto. Después se hace un juego movido de unos minutos para distraerse. Al volver, cada uno dibuja de memoria lo más importante que vio.
+## Resumen
+Un juego para entrenar la memoria visual.
 
-## Cómo se juega
-1. Cada uno recibe una imagen boca abajo. A la orden la dan vuelta y la miran un minuto entero. ¡A grabarla en la cabeza!
-2. Dan vuelta la imagen y la entregan.
-3. Ahora viene la distracción: juegan cinco minutos a algo movido, como una mancha.
-4. Vuelven a la mesa y dibujan la imagen de memoria: qué había, dónde estaba cada cosa, cuántas había, de qué color.
-5. Al final comparan su dibujo con la imagen. Se cuentan los detalles que estaban bien puestos.
+## Desarrollo
+1. Cada jugador mira una postal o una foto durante un minuto.
+2. Se la guarda, y durante unos minutos se hace algo que distraiga mucho: un juego movido, una canción, una carrera.
+3. Después, cada jugador trata de dibujar o de describir por escrito los puntos más importantes de la imagen: qué había, dónde estaba cada cosa, los colores.
+
+**Cómo se gana:** se compara con la postal y gana el que recordó más detalles importantes.
 
 ### Variante: Por patrullas
 Toda la patrulla mira la misma imagen y después la dibuja entre todos, cada uno aportando lo que recuerda.
 
-## Para cerrar
+## Cierre
 - ¿Qué recordaron mejor: las formas, los colores, la cantidad de cosas?
 - ¿Les sirvió el truco de nombrar las cosas en voz baja mientras miraban?
 
-## Notas para educadores
+## Notas para el educador
 - No importa si dibujan lindo: se valora lo que recordaron. Aclaralo al principio para que nadie se frene.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PICTURE REPRODUCTIONS.**
+
+Each player looks at a picture postcard for a minute, after a few minutes violent counter-attraction he tries to reproduce the essential points of the picture.
+
 ---
-**Fuente:** inspirada en el juego «Picture Reproductions» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 48, «Picture Reproductions». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Papa en la Cuchara"
+title: "Posta de la Papa y la Cuchara"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-papa-en-la-cuchara/"
@@ -9,13 +9,13 @@ summary: "Llevar una papa en la cuchara sin que se caiga."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,27 +135,44 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Papa en la Cuchara
+# Posta de la Papa y la Cuchara
 
-## De qué se trata
-Cada jugador va hasta una marca y vuelve llevando una papa en una cuchara grande. La cuchara se agarra solo de la punta del mango y con una sola mano. Si la papa se cae, se levanta y se sigue desde donde cayó.
+## Resumen
+Una carrera de postas de equilibrio: hay que llevar una papa en una cuchara sin que se caiga.
 
-## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El primero recibe la cuchara con la papa.
-3. A la orden, va hasta la marca y vuelve, sin tocar la papa con la otra mano.
-4. Si se cae, la vuelve a poner en la cuchara y sigue desde ahí.
-5. Le pasa la cuchara al siguiente sin tocar la papa.
-6. Gana la primera patrulla que termina.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-### Variante: El libro en la cabeza
-En vez de la cuchara, se lleva un libro en equilibrio sobre la cabeza. Si se cae, se vuelve al principio.
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Enfrente se marca un punto de vuelta.
+2. Cada equipo tiene una cuchara grande de madera y una papa.
+3. A la señal, el primero corre hasta el punto marcado y vuelve, llevando la papa en la cuchara. La cuchara se agarra de la punta del mango y con una sola mano; la otra no puede ayudar.
+4. Al volver, le pasa la cuchara y la papa al siguiente.
 
-### Variante: La pelota en el libro
-Una pelota de tenis encima de un libro.
+**Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
-## Para cerrar
+**Otros objetos (variante del original):** en vez de la papa y la cuchara se puede usar una pelota de tenis sobre un libro, o muchísimas otras combinaciones de objetos.
+
+**Posta de los libros en equilibrio (variante del original):** cada jugador, por turno, va y vuelve por el recorrido llevando dos o más libros en equilibrio sobre la cabeza. Si se le caen, tiene que empezar de nuevo. Gana el primer equipo que termina. Esta carrera se puede combinar con otras postas, por ejemplo con la de la papa en la cuchara.
+
+## Cierre
 - ¿Qué truco usaron: ir rápido o ir despacio y seguro?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**POTATO AND SPOON RELAY.**
+
+Teams in file; each player in turn runs to a given point and back carrying a potato in a large wooden spoon. The spoon must be held at the end and only one hand used. Team to finish first wins. A tennis ball on a book may be used instead of the potato and spoon or any of a wide selection of other articles.
+
+**BALANCING BOOKS RELAY.**
+
+Teams in file; each player in turn goes up and down the course balancing two or more books on his head. If they fall off he must start again. First team to finish wins. N.B.—--This race may well be combined with one such as Nos. 22, 32, etc.
+
 ---
-**Fuente:** inspirada en el juego «Potato and Spoon Relay / Balancing Books» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 22, «Potato and Spoon Relay» y n.º 31, «Balancing Books Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

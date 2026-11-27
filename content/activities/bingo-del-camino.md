@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bingo del Camino"
+title: "Cribbage del Camino"
 duration: "Variable"
 duration_detail: "Durante el viaje o la caminata"
 layout: "layouts/activity.njk"
@@ -18,7 +18,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Boy Scouts Handbook - Boy Scouts of America (1911)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - juego-scout
   - observacion
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Boy Scouts Handbook (1.ª ed.)"
+  - title: "Boy Scouts Handbook (1.ª ed.) (impreso original)"
+    author: "Boy Scouts of America"
+    year: 1911
+  - title: "Boy Scouts Handbook (1.ª ed.) (versión alternativa en línea)"
     author: "Boy Scouts of America"
     year: 1911
     series: "Project Gutenberg, eBook #29558"
@@ -143,18 +147,20 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Bingo del Camino!
+# Cribbage del Camino
 
 ## Resumen
-Seton lo jugaba en el tren «para pasar el tiempo agradablemente». Se acuerda una lista de cosas para ver, cada una con su puntaje: un cuervo o una vaca, 1 punto; un gato, 2; un halcón, 3; un búho, 4; una oveja, 5; una cabra, 6; un caballo, 7. Gana el primero que llega a 25 o 50 puntos. Si se va caminando, dice, se toman otras cosas, como ciertos árboles o flores. Ideal para viajes al campamento y caminatas.
+Un juego para viajes largos: gana el que primero ve ciertos animales o cosas por la ventanilla. El nombre viene del cribbage, un juego de cartas inglés en el que se van sumando puntos de a poco hasta llegar a una meta.
 
 ## Desarrollo
-1. Antes de salir, armen la tabla con 7 a 10 cosas, con más puntos para las más difíciles de ver. Usen animales y plantas del lugar (por ejemplo: vaca 1, caballo 2, chimango o carancho 3, ñandú 5, un árbol nativo 4).
-2. Se puede jugar de a uno o por patrullas, cada patrulla mirando por un lado del micro o del camino.
-3. Quien ve primero algo de la lista lo dice en voz alta y lo señala. Si otro lo confirma, suma los puntos.
-4. Gana el primero en llegar a 25 o 50 puntos.
-5. Variante para caminatas: sumen huellas, nidos, flores o señales de tránsito.
-6. Al llegar, hagan la lista de todo lo que vieron.
+1. Antes de empezar se arma una lista de cosas para buscar y cuántos puntos vale cada una. El original propone esta: un pájaro negro o una vaca, 1 punto; un gato, 2; un halcón o un carancho, 3; una lechuza, 4; una oveja, 5; una cabra, 6; un caballo, 7.
+2. Se acuerda también a cuántos puntos se juega: 25 o 50.
+3. Los jugadores se reparten. A veces un equipo mira por las ventanillas del lado derecho y el otro por las del lado izquierdo. Otras veces todos se sientan del mismo lado y miran lo mismo.
+4. Cuando alguien ve una de las cosas de la lista, la canta en voz alta. Se anota los puntos el primero que la vio.
+
+**Cómo se gana:** gana el primero que llega a los puntos acordados.
+
+**A pie (variante del original):** cuando se va caminando, se eligen otras cosas para sumar puntos, como ciertos árboles o flores.
 
 ## Cierre
 - ¿Qué fue lo más raro que vieron?
@@ -196,32 +202,8 @@ points, as agreed.
 When afoot, one naturally takes other things for points, as certain
 trees, flowers, etc.
 
-**Versión en español:**
-
-**Cribbage del camino**
-
-Este es un juego que jugamos seguido en el tren, para pasar el tiempo agradablemente.
-
-A veces un equipo toma el lado derecho del camino, con las ventanillas de ese lado, y el otro el izquierdo. A veces todos los jugadores se sientan del mismo lado.
-
-El juego consiste en que el primero en ver ciertas cosas acordadas suma tantos puntos.
-
-Así:
-
-Un cuervo o una vaca cuenta 1
-Un gato 2
-Un halcón 3
-Un búho 4
-Una oveja 5
-Una cabra 6
-Un caballo 7
-
-Gana el primero que llega a veinticinco o cincuenta puntos, según lo acordado.
-
-Cuando se va a pie, naturalmente se toman otras cosas para sumar puntos, como ciertos árboles, flores, etc.
-
 ---
-**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911). Dominio público. Texto tomado de Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
+**Fuente:** Ernest Thompson Seton, en *Boy Scouts Handbook (1.ª ed.)* (Boy Scouts of America, 1911), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #29558: https://www.gutenberg.org/ebooks/29558
 
 **Traducción:** Fogata de Recursos (2026).
 

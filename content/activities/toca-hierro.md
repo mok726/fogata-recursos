@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,16 +142,18 @@ rama_rovers:
   - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
 ---
 
-# ¡Tocá Hierro!
+# Tocá Hierro
 
 ## Resumen
-En medio de cualquier juego, Akela grita "¡Tocá hierro!", "¡Tocá madera!" o "¡Tocá algo amarillo!", y todos corren a hacerlo. El último en tocar pierde un punto.
+Un juego cortito y rápido para meter en medio de otro juego o de cualquier actividad, y que todos estén atentos.
 
 ## Desarrollo
-1. Mientras la Manada juega o se mueve libremente, Akela grita una orden: "¡Tocá hierro!", "¡Tocá madera!", "¡Tocá algo amarillo!".
-2. Todos corren a tocar algo que cumpla con la orden.
-3. El último en tocar pierde un punto.
-4. Agregá órdenes más difíciles: plástico, vidrio, algo natural, algo reciclable.
+1. Mientras se está jugando a cualquier otra cosa, el Viejo Lobo (el dirigente de la Manada) grita de golpe una orden como «¡Tocá hierro!», «¡Tocá madera!» o «¡Tocá algo amarillo!».
+2. Enseguida todos los lobatos corren a tocar algo de ese material o de ese color: una reja, un banco, una pelota amarilla, lo que encuentren.
+3. El último en tocar algo que corresponda pierde un punto.
+4. Después se sigue con el juego que se estaba haciendo, hasta la próxima orden.
+
+El original no dice cómo se gana; una opción es que, al terminar, gane el que perdió menos puntos.
 
 ## Cierre
 - ¿Cómo distinguieron el hierro de otros metales o de la madera pintada?
@@ -163,12 +166,8 @@ En medio de cualquier juego, Akela grita "¡Tocá hierro!", "¡Tocá madera!" o 
 
 Touch Iron. — During any game the Old Wolf says "Touch iron," "Touch wood," "Touch something yellow," etc., and at once all the Cubs run to do so. The last to touch loses a point.
 
-**Versión en español:**
-
-**Tocá hierro.** Durante cualquier juego, el Viejo Lobo dice "¡Tocá hierro!", "¡Tocá madera!", "¡Tocá algo amarillo!", etc., y enseguida todos los lobatos corren a hacerlo. El último en tocar pierde un punto.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

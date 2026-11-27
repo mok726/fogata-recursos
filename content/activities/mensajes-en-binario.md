@@ -138,26 +138,29 @@ rama_rovers:
 
 # Mensajes en Binario
 
-## De qué se trata
-Si a cada letra le damos un número (A = 1, B = 2…), y cada número lo escribimos en binario con cinco cartas, cualquier palabra se puede escribir solo con ceros y unos. Eso es lo que hace una computadora cada vez que escribís un mensaje. La patrulla codifica una palabra y se la manda a otra con linterna (prendida = 1, apagada = 0), silbato o dibujos.
+## Resumen
+Si a cada letra le damos un número (A = 1, B = 2…), y cada número lo escribimos en binario con cinco cartas, cualquier palabra se puede escribir solo con ceros y unos. Eso es lo que hace una computadora cada vez que escribís un mensaje. La patrulla codifica una palabra y se la manda a otra con destellos largos y cortos de linterna, con pitazos largos y cortos de silbato o con dibujos.
 
-## Cómo se juega
+## Desarrollo
 1. Repasen las cartas binarias: cinco cartas, 16, 8, 4, 2 y 1 puntos.
 2. Miren la tabla de letras. ¿Qué número es la S? ¿Y la O?
 3. Cada patrulla elige una palabra corta (por ejemplo, FOGÓN o SCOUT) y la convierte: letra → número → cinco ceros y unos.
 4. Escriban el mensaje en el papel, letra por letra.
-5. Ahora mándenlo a otra patrulla: con la linterna (prendida = 1, apagada = 0, un destello por número), con el silbato (pitazo largo = 1, corto = 0) o con dibujitos (sol = 1, luna = 0).
+5. Ahora mándenlo a otra patrulla. Cada cero o uno se manda con una señal, y cada letra son siempre cinco señales:
+   - Con la linterna, cada señal es un destello: un destello largo (contando hasta tres) es un 1 y un destello corto (un segundo) es un 0. Entre una señal y la otra se apaga un momento, y al terminar cada letra se deja apagada mientras se cuenta hasta cinco, para que se note que empieza la letra siguiente.
+   - Con el silbato se hace igual: un pitazo largo es un 1, un pitazo corto es un 0, y entre letra y letra se hace una pausa larga.
+   - Con dibujitos, se dibuja un sol para el 1 y una luna para el 0, y se deja un espacio grande entre letra y letra.
 6. La otra patrulla lo anota y lo descifra.
 7. ¿Llegó bien el mensaje? Si no, ¿dónde se equivocaron?
 
 ### Variante: Mensaje en la ropa
 Hagan una pulsera o un collar con cuentas de dos colores que diga su nombre en binario.
 
-## Para cerrar
+## Cierre
 - ¿Cuántos ceros y unos hacen falta para una palabra de cinco letras?
 - ¿Cómo harían para que entren las mayúsculas, los números o los emojis?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Pueden combinarlo con las señales de linterna o de silbato de la insignia Técnica Scout.
 

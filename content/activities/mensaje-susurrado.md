@@ -51,6 +51,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -64,11 +65,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -141,16 +142,21 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Mensaje Susurrado!
+# Mensaje Susurrado
 
 ## Resumen
-Cada seisena forma en fila, con unos dos metros entre cada lobato. Akela le dice un mensaje a cada seisenero, que vuelve y se lo susurra al siguiente, y así hasta el último. Gana la seisena que hace llegar el mensaje más parecido al original.
+Un juego por seisenas para practicar la atención y la memoria: hay que pasar un mensaje en secreto, de boca en boca, sin que cambie.
 
 ## Desarrollo
-1. Cada seisena forma en fila detrás de su seisenero, con unos dos metros entre lobato y lobato.
-2. Akela les dice el mismo mensaje a todos los seiseneros, aparte.
-3. Cada seisenero vuelve y se lo susurra al primero de su fila, que lo pasa al siguiente, y así hasta el final.
-4. El último de cada seisena dice el mensaje en voz alta. Gana la seisena más fiel al original.
+Para entender los términos: la **seisena** es el pequeño equipo de lobatos (de unos seis chicos), el **seisenero** es el que la guía, y **Akela** es el dirigente que conduce la manada.
+
+1. Cada seisena forma una fila, uno detrás del otro, con el seisenero adelante. Entre lobato y lobato quedan unos 2 metros.
+2. Akela llama a los seiseneros y les dice a todos el mismo mensaje en voz baja.
+3. Cada seisenero vuelve a su seisena y le susurra el mensaje al oído al lobato que tiene detrás.
+4. Ese lobato camina hasta el siguiente y se lo susurra a él, y así hasta llegar al último de la fila.
+5. El último de cada seisena le dice a Akela el mensaje tal como le llegó.
+
+**Cómo se gana:** gana la seisena que hace llegar el mensaje hasta el final de la manera más correcta, o sea, más parecido al original.
 
 ## Cierre
 - ¿Dónde se deformó el mensaje? ¿Por qué?
@@ -164,13 +170,8 @@ Cada seisena forma en fila, con unos dos metros entre cada lobato. Akela le dice
 GAMES
 Whispering a message. — Each Six stands in file behind the Sixer, with about two yards between each Cub. The Sixers are told a message by Akela which they must take back to their Sixes and whisper to the next Cub. That Cub repeats the message to the Cub behind him, and so on. The team which passes the message down to the end most correctly wins.
 
-**Versión en español:**
-
-**JUEGOS**
-**Mensaje susurrado.** Cada seisena forma en fila detrás del seisenero, con unos dos metros entre cada lobato. Akela les dice un mensaje a los seiseneros, que tienen que llevarlo a sus seisenas y susurrárselo al lobato siguiente. Ese lobato le repite el mensaje al que tiene detrás, y así sucesivamente. Gana el equipo que pasa el mensaje hasta el final de la forma más correcta.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

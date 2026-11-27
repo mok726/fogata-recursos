@@ -9,13 +9,13 @@ summary: "Frenar la pelota con las manos sin mover las piernas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,28 +135,42 @@ rama_rovers:
 
 # Pelota entre las Piernas
 
-## De qué se trata
-Todos en ronda, con las piernas abiertas y tocando el pie del vecino. El del medio tira la pelota, por el piso, intentando que pase entre las piernas de alguien. Los de la ronda no pueden mover los pies, pero sí agacharse y frenarla con las manos. Si la pelota sale entre las piernas de alguien, ese pasa al medio.
+## Resumen
+Un juego de ronda en el que hay que sacar la pelota por entre las piernas de los demás.
 
-## Cómo se juega
-1. Formen una ronda, piernas abiertas, cada pie tocando el del vecino.
-2. Uno se pone en el medio con la pelota.
-3. El del medio tira o patea suave la pelota por el piso, intentando que salga entre las piernas de alguien.
-4. Los de la ronda se agachan y frenan la pelota con las manos. Prohibido mover los pies o cerrar las piernas.
-5. Si la pelota sale entre las piernas de alguien, ese pasa al medio.
-6. Si sale entre dos jugadores, pasa al medio el que tenía esa pelota más cerca de su mano derecha.
+## Desarrollo
+1. Los jugadores forman una ronda, mirando hacia adentro, con las piernas abiertas y las rodillas derechas. Cada uno apoya los pies tocando los pies de los vecinos, así la ronda queda cerrada y los únicos huecos son los de entre las piernas de cada jugador.
+2. Uno se pone en el centro con una pelota.
+3. El del centro trata de sacar la pelota fuera de la ronda, tirándola o haciéndola rodar por el piso entre las piernas de alguno.
+4. Los de la ronda no pueden mover los pies, pero sí pueden usar las manos para frenar la pelota.
+5. El jugador por entre cuyas piernas pasa la pelota va al centro, y el del centro ocupa su lugar.
 
-### Variante: Al revés
-El del medio se para con las piernas abiertas y la ronda intenta hacerle pasar la pelota entre las piernas. Él puede girar, pero sin cerrar las piernas.
+**Al revés (variante del original):** ahora los de la ronda son los que tienen la pelota, y tratan de pasarla entre las piernas del que está en el centro. El del centro se puede mover, girar y esquivar, pero siempre con las piernas abiertas. El que logra pasarla cambia de lugar con él.
 
-### Variante: De a dos
-En el medio hay dos jugadores atados del tobillo, como en la carrera de tres piernas.
+**Dos atados en el centro (variante del original):** igual que la anterior, pero con dos jugadores en el centro atados como en una carrera de tres piernas (el tobillo de uno atado al tobillo del otro).
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para defender su lugar y el del vecino?
 
-## Notas para educadores
+## Notas para el educador
 - Con lobatos, la pelota va solo con la mano y rodando.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STRIDE BALL.**
+
+Players in circle, feet astride, knees straight. One in centre tries to throw a ball out between the legs of the rest who may not move but may use their hands to stop the ball. One who lets it out goes into the centre.
+
+Variation.-Those forming the circle try to throw ball between legs of one in centre who may move but must keep his feet astride.
+
+Variation.-As last with two in centre tied as for 3-legged race. See also under Team Games.
+
 ---
-**Fuente:** inspirada en el juego «Stride Ball» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 16, «Stride Ball». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

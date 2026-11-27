@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - salvamento
   - incendio
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,16 +141,16 @@ rama_rovers:
   - 28   # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡La Cadena de Baldes!
+# La Cadena de Baldes
 
 ## Resumen
-Para practicar cómo se combatía un incendio antes de los bomberos modernos: dos filas, una pasa los baldes llenos hacia el fuego y la otra devuelve los vacíos. Las filas se relevan seguido, intercambiando tareas.
+Una práctica de B-P para estar preparados ante un incendio: pasarse baldes de agua de mano en mano, en una cadena humana, desde donde está el agua hasta donde está el fuego.
 
 ## Desarrollo
-1. Formá dos filas paralelas entre la canilla y el recipiente a llenar.
-2. Una fila pasa los llenos y la otra los vacíos.
-3. A la señal, las filas intercambian funciones.
-4. Como juego: dos equipos compiten por llenar primero su recipiente.
+1. Los jugadores se forman en dos filas paralelas, que van desde la fuente de agua (una canilla, un tanque, un arroyo) hasta el lugar del «incendio».
+2. Una fila pasa los baldes llenos, de mano en mano, desde el agua hasta el fuego. El último de esa fila tira el agua.
+3. La otra fila devuelve los baldes vacíos, también de mano en mano, hasta el que llena.
+4. Cada tanto, el que dirige da la orden y las dos filas cambian de tarea: la que pasaba los llenos pasa los vacíos y al revés. Así se reparten el esfuerzo, porque pasar baldes llenos cansa mucho más.
 
 ## Cierre
 - ¿Qué pasaba cuando alguien se apuraba de más?
@@ -163,12 +167,8 @@ Para practicar cómo se combatía un incendio antes de los bomberos modernos: do
 Practise making two lines of bucket-men, for full and empty buckets.
 Each line to relieve the other frequently by exchanging duties.
 
-**Versión en español:**
-
-Practiquen formar dos filas de hombres con baldes, para los baldes llenos y los vacíos. Cada fila releva a la otra con frecuencia, intercambiando tareas.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

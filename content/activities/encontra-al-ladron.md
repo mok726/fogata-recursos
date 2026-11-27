@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -57,6 +57,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - rastreo
@@ -69,7 +70,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,21 +141,25 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Encontrá al Ladrón!
+# Encontrá al Ladrón
 
 ## Resumen
-Un juego de rastreo y deducción. Alguien deja una huella sin que el grupo lo vea. Los participantes la estudian y después tienen que reconocer quién la hizo, entre ocho o diez personas que caminan frente a ellos.
+Un juego de rastreo: hay que reconocer, entre varias personas, a la que dejó una huella.
 
 ## Preparación
 1. Elegí un sector con tierra, arena o barro donde las huellas queden bien marcadas, y alisalo.
 2. Conseguí ocho a diez personas para el "desfile": dirigentes, familias o participantes de otra patrulla. Una de ellas va a ser el "ladrón".
 
 ## Desarrollo
-1. Sin que el grupo lo vea, el "ladrón" camina por el sector y deja su huella.
-2. Los participantes estudian la huella: forma, tamaño, dibujo de la suela, largo del paso.
-3. Se alisa el sector (o se usa otro). Las ocho o diez personas, numeradas, caminan por él de a una.
-4. Cada participante le dice en secreto al árbitro el número de quien cree que dejó la primera huella.
-5. Gana quien acierta. Si acierta más de uno, gana quien dibuja de memoria la mejor huella.
+1. Se busca un terreno blando, con tierra, arena o barro, donde las pisadas queden marcadas.
+2. Se le pide a una persona que los scouts no conozcan (el «ladrón») que camine por ahí y deje sus huellas, sin que los scouts lo vean.
+3. Los scouts estudian bien esas huellas: el tamaño, la forma de la suela, el largo del paso, para poder reconocerlas después.
+4. Después, el ladrón se mezcla con otras ocho o diez personas. Una por una, todas caminan por el terreno a la vista de los chicos, dejando sus huellas. Cada una tiene un número según el orden en que pasa.
+5. Por turno, cada scout se acerca al árbitro y le dice en secreto el número de la persona que, según él, dejó la huella original.
+
+**Cómo se gana:** gana el que acierta. Si aciertan varios, cada uno dibuja de memoria la huella original, y gana el que hace el mejor dibujo.
+
+**Como prueba para una insignia (variante del original):** el juego también puede usarse para sumar puntos para una insignia. Descubrir al ladrón vale dos puntos, y si además se dibuja bien la huella, se suma un punto más.
 
 ## Cierre
 - ¿Qué detalle de la huella te ayudó más?
@@ -182,18 +190,8 @@ This game may also be carried out as a test for marks towards a badge of
 honour. Correct detection of the thief counts two marks; if good diagram
 is also drawn another mark may be added.
 
-**Versión en español:**
-
-**ENCONTRÁ AL LADRÓN.**
-
-Conseguí que un extraño deje una huella sin que los scouts lo vean. Los scouts estudian su rastro para poder reconocerlo después.
-
-Luego poné al extraño entre otros ocho o diez y hacé que todos dejen sus huellas a la vista de los chicos, pasando de a uno. Después, cada scout le dice en secreto al árbitro cuál de ellos hizo la huella original, indicándolo por el número que tenía al pasar. Gana el scout que responde correctamente; si responde bien más de uno, gana el que después dibuja de memoria el mejor diagrama de la huella.
-
-Este juego también puede hacerse como prueba para sumar puntos para una insignia de honor. Descubrir correctamente al ladrón vale dos puntos; si además se dibuja un buen diagrama, se puede agregar otro punto.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

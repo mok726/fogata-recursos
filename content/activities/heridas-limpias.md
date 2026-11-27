@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Heridas Limpias"
+title: "El Peligro de la Suciedad en una Herida"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/heridas-limpias/"
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -70,11 +71,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -150,17 +151,20 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad, la empatía y el compromiso social como formas esenciales de vivir junto a las demás personas.
 ---
 
-# ¡Heridas Limpias!
+# El Peligro de la Suciedad en una Herida
 
 ## Resumen
-B-P cuenta que a los soldados japoneses se les daban baños calientes todos los días porque una herida en piel sucia se infecta y en piel limpia se cura rápido. Por eso pide lavarse las manos seguido, mantener toda herida, por chica que sea, bien lavada y cubierta con algo limpio, y cuenta el caso de un señor al que un rasguño en la nariz se le infectó gravemente por no cuidarlo.
+Una charla de B-P para los lobatos sobre por qué hay que mantenerse limpio y cuidar hasta las heridas más chicas. Sirve para contarla en la reunión, por ejemplo antes de un campamento o junto con la costumbre de lavarse las manos.
 
 ## Desarrollo
-1. Juego de los gérmenes: un lobato se pone brillantina en las manos y saluda a varios. ¿Hasta dónde llegó? Así viajan los gérmenes.
-2. Lavado de manos: con agua y jabón, entre los dedos y bajo las uñas, durante unos 20 segundos.
-3. En parejas, sobre un raspón dibujado en el brazo: lavar la herida con agua limpia y jabón alrededor, secar con una gasa limpia sin tocar la herida con los dedos y cubrir con una curita o una gasa y venda.
-4. Revisen el botiquín de la Manada: qué hay y para qué sirve cada cosa.
-5. Repasen la regla: con cualquier herida, avisar siempre a un adulto.
+**La idea del original:**
+
+1. B-P cuenta que los soldados japoneses de su época tenían que estar muy limpios, y que se hacía un gran esfuerzo para que tuvieran un baño caliente todos los días. ¿Por qué? Porque cuando alguien se lastima con la piel sucia, la herida muchas veces se infecta y empeora; con la piel limpia, en cambio, se cura rápido.
+2. Por eso hay que mantenerse limpio y lavarse las manos seguido: siempre te podés cortar un dedo o raspar los nudillos. Si entra mugre en el corte, se puede hinchar, infectar y tardar mucho en curarse, con dolor.
+3. Para que los chicos lo recuerden, cuenta una historia: un señor bailaba en una fiesta cuando a su compañera se le soltó la peineta, y al levantar la mano para agarrarla le rasguñó la nariz sin querer. Él no le dio importancia, entró polvo en la pequeña herida, se le infectó, y murió más o menos en una semana.
+4. La conclusión de B-P: toda herida, por chica que sea, se mantiene limpia y tapada para que no le entre polvo, y lo que la tapa tiene que estar bien limpio. Tapada, además, arde menos.
+
+El original recomendaba ponerse yodo en cualquier rasguño o corte. Hoy se enseña distinto: consultá un curso de primeros auxilios vigente.
 
 ## Cierre
 - ¿Por qué una herida chica también hay que cuidarla?
@@ -182,18 +186,8 @@ A gentleman was dancing at a ball with a lady when a comb in her hair came loose
 So be careful to keep all wounds, however small, well washed, and covered up so that dust cannot get to them, and they will quickly heal. But the covering must be particularly clean and free from germs.
 Keeping them covered from the cold air also makes them smart less.
 
-**Versión en español:**
-
-**EL PELIGRO DE LA SUCIEDAD EN UNA HERIDA**
-Los soldados japoneses tienen que mantenerse especialmente limpios, y se hace un gran esfuerzo para que tengan baños calientes todos los días. ¿Y por qué te parece que se toman ese trabajo?
-Porque si un hombre se lastima cuando tiene la piel sucia, muchas veces la herida se infecta y empeora, pero si tiene la piel bien limpia, la herida se cura muy rápido.
-Por eso tenés que mantenerte limpio y lavarte las manos seguido, porque siempre te podés cortar un dedo o rasparte los nudillos, o alguna alegría por el estilo; y si tenés la piel limpia se va a curar rápido, pero si dejás que entre mugre en el corte, se puede poner caliente, hincharse e infectarse, y tardar bastante en curarse, con dolor, todo por no haber tenido cuidado de mantener limpia la herida. Así que, si te rasguñás o te cortás, ponete un poco de yodo y todo va a andar bien.
-Un señor estaba bailando con una dama en una fiesta cuando a ella se le soltó una peineta del pelo; al levantar la mano rápido para agarrarla, sin querer le rasguñó la nariz a su compañero. Él no le dio importancia y no se lo cuidó, y probablemente dejó que el polvo del salón entrara en la pequeña herida; el resultado fue que se le infectó y le envenenó la sangre, y murió más o menos en una semana.
-Así que tené cuidado de mantener todas las heridas, por chicas que sean, bien lavadas y cubiertas para que no les llegue el polvo, y se van a curar rápido. Pero lo que las cubre tiene que estar especialmente limpio y libre de gérmenes.
-Mantenerlas tapadas del aire frío también hace que ardan menos.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

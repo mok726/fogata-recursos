@@ -9,13 +9,13 @@ summary: "Correr y, a la vez, ver todo lo que hay en el camino."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -131,29 +137,46 @@ rama_rovers:
 
 # Carrera de Observación
 
-## De qué se trata
-A lo largo de un recorrido se dejan objetos a la vista, algunos fáciles y otros medio camuflados. Los jugadores salen de espaldas al recorrido, corren hasta la meta y, al llegar, anotan todo lo que vieron. El que llegó primero suma puntos, pero también suma cada objeto bien anotado.
-
 ## Preparación
 1. Marcá la salida y la meta.
 2. Dejá los objetos al costado del camino: algunos bien visibles, otros sobre una rama, al pie de un poste, en el pasto.
 3. Anotá vos la lista completa para corregir.
 
-## Cómo se juega
-1. Todos se ponen en la línea de salida, de espaldas al recorrido. Nadie mira antes de tiempo.
-2. A la orden, se dan vuelta y corren hasta la meta, mirando todo lo que pueden mientras corren.
-3. Al llegar, cada uno se sienta y anota, sin hablar con nadie, todos los objetos que vio.
-4. Puntos por llegada: el primero suma tantos puntos como jugadores hay; el segundo, uno menos; y así.
-5. Puntos por observación: 1 punto por cada objeto bien anotado. Se resta 1 por cada objeto que se le pasó y 2 por cada objeto inventado.
-6. Se suman las dos cosas. Gana quien tenga más.
+## Resumen
+Una carrera en la que no solo gana el más rápido: también cuenta lo que viste mientras corrías.
 
-## Para cerrar
+## Desarrollo
+1. A lo largo del recorrido de la carrera, el que dirige pone distintos objetos a la vista: una taza, un pañuelo, un libro, una gorra, etc.
+2. Los jugadores se ubican en la línea de partida de espaldas al recorrido, para que no lo vean antes.
+3. A la señal, se dan vuelta y corren hasta la meta.
+4. Apenas llegan, todos a la vez escriben la lista de los objetos que vieron en el camino.
+
+**Cómo se gana (puntaje):**
+- El primero en llegar suma tantos puntos como corredores hay; el segundo, uno menos; y así según el orden de llegada.
+- A eso se suma 1 punto por cada objeto bien anotado.
+- Se resta 1 punto por cada objeto que había y no anotó, y 2 puntos por cada objeto que anotó pero no estaba.
+Gana el que suma más.
+
+## Cierre
 - ¿Convenía correr rápido o ir un poco más lento y mirar mejor?
 - ¿Qué objetos no vio casi nadie? ¿Por qué?
 
-## Notas para educadores
+## Notas para el educador
 - Es una buena forma de mostrar que el apuro nos hace ver menos. Da para charlar sobre caminar por el monte o por la ciudad prestando atención.
 - Al terminar, que una patrulla levante todos los objetos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OBSERVATION RACE.**
+
+Players at starting line back to the course. Various objects are placed along the course. Players race to winning post and all at once make lists of objects noted. First past the post scores as many points as there are runners and each one after him one (or more) less in the order they finish. To this add 1 for every object noted; deduct 1 for every object not noted; deduct 2 for every imaginary object noted. O.
+
 ---
-**Fuente:** inspirada en el juego «Observation Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 44, «Observation Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

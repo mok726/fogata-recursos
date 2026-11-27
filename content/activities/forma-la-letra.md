@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Formá la Letra"
+title: "Formen Letras"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/forma-la-letra/"
@@ -9,13 +9,13 @@ summary: "Formar letras con el cuerpo en patrulla."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,27 +133,41 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Formá la Letra
+# Formen Letras
 
-## De qué se trata
-El que dirige dice una letra, un número o un símbolo. Cada patrulla tiene que formarlo con sus cuerpos, acostados en el piso. Gana la primera que lo forma bien y se puede leer.
+## Resumen
+Un juego rápido de equipo: hay que formar letras con el propio cuerpo.
 
-## Cómo se juega
-1. Cada patrulla se para en su rincón.
-2. El que dirige grita: «¡La A!».
-3. Cada patrulla se acuesta en el piso formando la letra. Uno puede ser la rayita del medio, otros las patas.
-4. Cuando la patrulla cree que está lista, el guía levanta la mano.
-5. El que dirige mira desde arriba (de una silla o un banco) y dice quién la formó primero y bien.
-6. Siguen con otras letras, números o símbolos: la flor de lis, una flecha, el número de la patrulla.
+## Desarrollo
+1. Se pueden armar todos los equipos que se quiera. Cada equipo se ubica en un lugar del salón con espacio libre a su alrededor.
+2. El que dirige dice en voz alta una letra del abecedario, por ejemplo: «¡La T!».
+3. Cada equipo se acomoda lo más rápido que puede para formar esa letra con los cuerpos de sus integrantes: unos parados en línea para el palo, otros para el travesaño, y así.
+4. Cuando el equipo termina de formar la letra, se queda quieto para que el que dirige la pueda ver.
+5. Funciona muy bien jugarlo acostados en el piso: así la letra se ve mucho más clara desde arriba o de costado.
+
+**Cómo se gana:** gana el equipo que forma primero la letra pedida. Se puede llevar la cuenta de varias vueltas.
 
 ### Variante: La palabra
 Al final, todas las patrullas juntas forman una palabra corta: SCOUT, LOBO, FOGÓN. ¡Sacale una foto desde arriba!
 
-## Para cerrar
+## Cierre
 - ¿Quién organizó a la patrulla? ¿Cómo decidieron quién era cada parte?
 
-## Notas para educadores
+## Notas para el educador
 - Una foto desde arriba (o con un drone, si alguien tiene) es un lindo recuerdo para el campamento.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FORM X's.**
+
+Any number of teams. Leader calls out a letter of the alphabet, and the team first forming up in such a way as to make that letter wins. Lying on the floor may well be substituted, and makes the letter formed easier to read.
+
 ---
-**Fuente:** inspirada en el juego «Form X's» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 16, «Form X's». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pasos en Silencio"
+title: "Juego de Escuchar"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasos-en-silencio/"
@@ -9,13 +9,13 @@ summary: "Pasar sin ruido al lado de un centinela que escucha."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,29 +133,42 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Pasos en Silencio
+# Juego de Escuchar
 
-## De qué se trata
-Un jugador se sienta con los ojos vendados cerca de una punta del salón. Los demás, de a uno, cruzan desde la otra punta lo más callados posible. Cuando terminan, el centinela dice cuántos pasaron por su derecha y cuántos por su izquierda.
+## Resumen
+Un juego para entrenar el oído: hay que adivinar cuántos pasaron por cada lado sin verlos.
 
-## Cómo se juega
-1. El centinela se sienta en una silla, con los ojos vendados, cerca de una de las paredes.
-2. Los demás se quedan en la otra punta. El que dirige elige en secreto quiénes van a cruzar: pueden ser todos, la mitad o solo dos. El centinela no lo sabe.
-3. De a uno, cada elegido cruza el salón y pasa al lado del centinela, por el lado que quiera, sin hacer nada de ruido.
-4. Los que cruzan se quedan quietos y callados detrás del centinela.
-5. Cuando pasaron todos, el que dirige pregunta: «¿Cuántos pasaron por tu derecha? ¿Y por tu izquierda?».
-6. Se comparan las respuestas con lo que pasó de verdad. Después cambia el centinela.
+## Desarrollo
+1. Un jugador, el que escucha, se para cerca de una punta del salón con los ojos vendados.
+2. El que dirige elige en secreto a algunos jugadores. Uno por uno, salen desde la otra punta y tratan de pasar al lado del que escucha, por la derecha o por la izquierda, lo más silenciosamente que puedan.
+3. Cuando pasaron todos los elegidos, el que escucha dice cuántos cree que pasaron por su derecha y cuántos por su izquierda.
+4. La cantidad que pasa tiene que cambiar cada vez y el que escucha no la tiene que saber.
+
+**Cómo se gana:** el que escucha suma un punto por cada número que acierta. Después se cambia de oyente.
 
 ### Variante: Con calzado o descalzos
 Prueben una vuelta con zapatillas y otra en medias. ¿Cuál hace menos ruido?
 
-## Para cerrar
+## Cierre
 - ¿Qué ruidos los delataron: los pasos, la ropa, la respiración?
 - ¿Cómo se camina en el monte para no espantar a los animales?
 
-## Notas para educadores
+## Notas para el educador
 - Se puede usar antes de una salida de observación de aves o de un juego de acecho.
 - Cambiá la cantidad de los que cruzan cada vez: si siempre son todos, el centinela adivina sin escuchar.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LISTENING GAME.**
+
+One player is blindfold near one end of the room. The rest, one at a time, try to come from the other end as quietly as they can. When all have passed the listener states how many he thinks have passed on either side of him. The number should be varied each time, and be unknown to the listener.
+
 ---
-**Fuente:** inspirada en el juego «Listening Game» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 36, «Listening Game». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

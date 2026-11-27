@@ -9,13 +9,13 @@ summary: "Hacer todos los nudos de la progresión en una sola soga."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -133,23 +139,36 @@ rama_rovers:
 
 # Posta de una Soga
 
-## De qué se trata
-Cada jugador, por turno, corre hasta su soga y hace en ella todos los nudos de la progresión, uno detrás del otro: nudo simple, de rizo, as de guía, ballestrinque (alrededor de un palito), margarita. Vuelve y sale el siguiente. Gana la primera patrulla en la que todos terminaron sin nudos mal hechos ni faltantes.
-
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Hacé una lista de los nudos que tiene que hacer cada uno según su progresión.
 
-## Cómo se juega
-1. Cada patrulla forma fila. Las sogas están en el piso, a 10 metros.
-2. A la orden, el primero corre a una soga.
-3. Hace todos los nudos de la lista, uno al lado del otro.
-4. Cuando termina, levanta la mano. El que dirige revisa.
-5. Si falta un nudo o está mal, lo tiene que hacer de nuevo.
-6. Vuelve y sale el siguiente. Gana la primera patrulla con todas las sogas aprobadas.
+## Resumen
+Una carrera de postas para repasar todos los nudos de la primera etapa de progresión en una misma soga.
 
-## Para cerrar
+## Desarrollo
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida. Enfrente de cada equipo, a cierta distancia, se deja un pedazo de soga.
+2. A la orden, el primero de cada fila corre hasta la soga y hace en ella, uno después del otro, todos los nudos de la primera etapa de progresión. (En la época del original eran el nudo llano, la vuelta de escota, el ballestrinque, el as de guía, la vuelta redonda con dos medios cotes y la margarita; se pueden usar los que pida hoy la progresión de tu grupo.)
+3. Después deshace los nudos, vuelve corriendo y toca al siguiente de su fila, que hace lo mismo.
+4. El que dirige mira cada nudo: no se vale hacerlo mal ni saltearse ninguno.
+
+**Cómo se gana:** gana el primer equipo que termina sin ningún nudo mal hecho ni salteado.
+
+## Cierre
 - ¿Qué nudo fallaba más? ¿Cómo lo pueden practicar en casa?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ONE-ROPE RELAY.**
+
+Teams in file; each player in turn runs up and ties all the tenderfoot knots in one bit of rope. First team to finish with no knots tied wrong or omitted wins.
+
 ---
-**Fuente:** inspirada en el juego «One-Rope Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 21, «One-rope Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

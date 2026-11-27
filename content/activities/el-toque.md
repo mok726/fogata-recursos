@@ -9,13 +9,13 @@ summary: "Tocar la mano del rival y volver sin que te atrape."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,23 +134,39 @@ rama_rovers:
 
 # El Toque
 
-## De qué se trata
-Dos equipos en líneas, uno en cada punta del salón. Un equipo extiende las manos con las palmas para arriba. Del otro sale un jugador, cruza, le da un toquecito con el dedo en la palma a alguien y sale corriendo a su lugar. Si el tocado lo atrapa, se lo lleva prisionero. Si no, el prisionero es el tocado.
+## Resumen
+Un juego de desafío y carrera entre dos equipos: uno va, le da un toque en la mano a un rival y vuelve corriendo antes de que lo atrapen.
 
-## Cómo se juega
-1. Los dos equipos se paran en fila, uno en cada punta, mirándose.
-2. El equipo A estira los brazos con las palmas de las manos hacia arriba.
-3. Sale un jugador del B, cruza caminando y le da un toque en la palma a cualquiera del A.
-4. Apenas lo toca, sale corriendo de vuelta a su fila. El tocado lo persigue.
-5. Si lo atrapa antes de que llegue, el que tocó queda prisionero del A. Si llega, el tocado queda prisionero del B.
-6. Después sale uno del A a tocar al B. Atrapar a un rival libera a un prisionero propio.
-7. Nadie puede ser tocado dos veces hasta que les toque a todos. Gana el equipo que se queda con todos los rivales.
+## Desarrollo
+1. Los dos equipos se forman en fila, uno frente al otro, en las dos puntas del salón.
+2. Los jugadores del primer equipo extienden las manos hacia adelante, con las palmas para abajo.
+3. El otro equipo manda a uno de sus jugadores. Cruza el salón, le da un toque con el dedo en la mano a cualquier rival, y sale corriendo de vuelta a su lugar.
+4. El que recibió el toque lo persigue. Si lo alcanza antes de que llegue a su lugar, el que dio el toque queda preso del equipo rival. Si no lo alcanza, el que queda preso es el que recibió el toque.
+5. Los presos se apartan a un costado y no juegan mientras están presos.
+6. Después le toca al otro equipo: extiende las manos el que antes mandaba, y manda un jugador el que antes esperaba. Y así se van alternando.
+7. Cada vez que un equipo toma un preso, también libera a uno de sus propios presos, si tiene.
+8. A nadie se le puede dar un toque por segunda vez hasta que se les haya dado a todos los de su equipo.
 
-## Para cerrar
+**Cómo se gana:** gana el equipo que primero toma presos a todos los rivales.
+
+## Cierre
 - ¿A quién convenía tocar: al más lento o al que estaba distraído?
 
-## Notas para educadores
+## Notas para el educador
 - Es pariente del «Martín Pescador» y de la «Bandera»: si ya los juegan, este es una buena variante.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FLIP.**
+
+Two teams line up facing each other at opposite ends of the room. One team holds out its hands, palms down, the other sends a representative who flips the palm of one of the other side with his finger and races back to his place; if he is caught he is his opponent's prisoner, if not, the one flipped is prisoner. The other team then sends a flipper. The capture of an enemy also releases one prisoner. The team to first take all their opponents wins. No player may be flipped twice till all his side have had a turn.
+
 ---
-**Fuente:** inspirada en el juego «Flip» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 18, «Flip». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

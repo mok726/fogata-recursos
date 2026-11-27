@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cadena de Nudos"
+title: "Posta de Nudos"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cadena-de-nudos/"
@@ -9,13 +9,13 @@ summary: "Armar entre todos una cadena de nudos distintos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,35 +136,67 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Cadena de Nudos
-
-## De qué se trata
-Cada patrulla se pone en fila. El primero corre hasta un compañero que espera en la otra punta y le hace un as de guía en la cintura. El segundo ata otra soga a la primera con un nudo de rizo. El tercero agrega otra con un nudo de escota, el cuarto con un nudo de pescador, el quinto acorta la última con una margarita y el sexto ata la punta a su pierna con un ballestrinque. Gana la patrulla que termina primero y con todos los nudos bien hechos.
+# Posta de Nudos
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Hacé una tarjeta por patrulla con el orden de los nudos.
 
-## Cómo se juega
-1. Cada patrulla forma fila. Un compañero se para a 10 metros, al lado de las sogas.
-2. El primero corre y le hace un as de guía en la cintura al compañero. Vuelve y toca al segundo.
-3. El segundo corre y ata otra soga a la punta libre con un nudo de rizo.
-4. El tercero agrega otra soga con un nudo de escota.
-5. El cuarto agrega otra con un nudo de pescador.
-6. El quinto acorta la última soga con una margarita.
-7. El sexto ata la punta final a su propia pierna con un ballestrinque. Si la patrulla tiene menos jugadores, alguno corre dos veces.
-8. El que dirige revisa cada nudo. Si alguno está mal, ese jugador tiene que volver a hacerlo. Gana la primera cadena correcta.
+## Resumen
+Una carrera de postas en la que cada jugador del equipo agrega un nudo distinto a una misma cadena de sogas.
+
+## Desarrollo
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida.
+2. A unos 9 metros de cada equipo se para un jugador (puede ser alguien del mismo equipo o un ayudante) con una pila de sogas a sus pies.
+3. A la orden, el primero de cada fila corre hasta ese jugador y le ata un as de guía alrededor de la cintura. Después vuelve corriendo y toca al segundo de su fila.
+4. El segundo corre, agarra otra soga y la une a la primera con un nudo llano. Vuelve y toca al tercero.
+5. El tercero agrega otra soga con una vuelta de escota.
+6. El cuarto agrega otra soga con un nudo de pescador.
+7. El quinto acorta la última soga atada haciéndole una margarita (el nudo que sirve para acortar una soga sin cortarla).
+8. El sexto ata la punta que queda libre con un ballestrinque alrededor de la pierna del jugador que está parado.
+9. El que dirige revisa que todos los nudos estén bien hechos.
+
+**Cómo se gana:** gana el primer equipo que termina con todos los nudos correctos.
+
+**Carrera de nudos (variante del original):** se juega con equipos de seis, formados uno al lado del otro. Los jugadores número 1, 2, 3 y 4 tienen cada uno un pedazo de soga, y el número 6 se para enfrente del centro de su equipo. En orden:
+- El 1 se ata una punta de su soga alrededor del cuerpo con un as de guía.
+- El 2 ata su soga a la otra punta de la del 1 con un nudo llano.
+- El 3 ata su soga a la otra punta de la del 2 con una vuelta de escota.
+- El 4 ata su soga a la otra punta de la del 3 con un nudo de pescador.
+- El 5 ata la otra punta de la soga del 4 a su propia pierna con un ballestrinque.
+- Por último, el 6 hace una margarita en el medio de la cadena.
+
+Gana el primer equipo que termina la cadena con todos los nudos bien hechos.
 
 ### Variante: Sin correr
 Toda la patrulla en fila y cada uno con su soga: van armando la cadena de mano en mano, sin moverse.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudo se trabó más? ¿Cómo lo revisaron?
 - ¿Para qué sirve cada uno de esos nudos en la vida real?
 
-## Notas para educadores
+## Notas para el educador
 - El as de guía en la cintura no se aprieta: tiene que quedar holgado.
 - Valorá más los nudos bien hechos que la velocidad.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KNOTTING RELAY.**
+
+Teams in file, one player in front of each team about 10 yards away with a heap of ropes. First player must run and tie a bowline round the former’s waist and come back to start the next, who ties another
+
+rope on to the first with a reef, and so on; 3rd ties sheetbend; 4th ties fisherman; 5th shortens the rope last tied on ; 6th ties the end in a clove-hitch round his leg. Team first finishing correct wins.
+
+**KNOTTING RACE.**
+
+Teams of six in line. Nos. 1, 2, 3, 4, each have a bit of rope, 6th player stands opposite the centre of his team. No. 1 ties one end of his rope round himself (bowline). No. 2 ties his on to the other end (reef). No. 3 ties his on to the other end of No. 2‘s (sheetbend). No. 4 ties his on to the other end of No. 3’s (fisherman). No. 5 ties other end of No. 4’s to his own leg (clove-hitch). No. 6 ties a sheepshank in middle.
+
 ---
-**Fuente:** inspirada en el juego «Knotting Relay / Knotting Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 8, «Knotting Relay» y n.º 9, «Knotting Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

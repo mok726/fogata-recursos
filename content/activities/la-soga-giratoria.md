@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Soga Giratoria"
+title: "Despejar la Línea"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-soga-giratoria/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - soga
   - saltar
   - ronda
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,21 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡La Soga Giratoria!
+# Despejar la Línea
 
 ## Resumen
 El dirigente se para en el centro de una ronda y hace girar una soga con una bolsita de arena en la punta, soltando soga de a poco, hasta que los jugadores tienen que saltar para que no los barra. Cambia el sentido, la velocidad y la altura de a poco. Pierde el que es alcanzado por la soga.
 
 ## Desarrollo
-1. Los jugadores forman una ronda alrededor del dirigente.
-2. El dirigente hace girar la soga a ras del suelo, soltándola de a poco.
-3. Cada uno salta cuando pasa la soga.
-4. El dirigente cambia el sentido y va subiendo de a poco la velocidad y la altura.
-5. El que es alcanzado sale (o suma un punto en contra).
+Un juego de saltos: el dirigente hace girar una soga con un peso en la punta, a ras del suelo, y los jugadores en ronda tienen que saltarla.
+
+1. Se necesita una soga liviana de 4,5 a 7 metros y, en una punta, una bolsa de lona o de cuero llena de arena que pese alrededor de medio kilo.
+2. Los jugadores forman una ronda. El dirigente se para en el centro.
+3. El dirigente hace girar la bolsa, cerca del suelo, y va soltando soga de a poco hasta que la bolsa llega a los pies de los jugadores. Cada uno tiene que saltar cuando le pasa por debajo.
+4. El dirigente va cambiando la dirección del giro.
+5. De a poco aumenta la velocidad y también la altura de la bolsa sobre el suelo.
+
+**El objetivo:** que la soga o la bolsa no te enganche y te tire al suelo.
 
 ## Cierre
 - ¿Qué tenías que mirar para saber cuándo saltar?
@@ -165,15 +172,12 @@ El dirigente se para en el centro de una ronda y hace girar una soga con una bol
 
 This game requires a light rope, five to eight yards of Canvas or leather filled with sand and weighing about 1 lb. The Scoutmaster stands in the centre of a ring of Scouts and swings the bag round, gradually paying out the rope until it becomes necessary for the players to jump to avoid it. The direction in which the bag is swung should be varied. The rate of swinging as well as the height of the bag from the ground should be gradually increased. The object of the players is to avoid being caught by the rope or bag and brought to the ground.
 
-**Versión en español:**
-
-**DESPEJAR LA LÍNEA.**
-
-Este juego necesita una soga liviana de cinco a ocho yardas (4,5 a 7 m) y una bolsa de lona o de cuero llena de arena que pese alrededor de una libra (medio kilo). El jefe de tropa se para en el centro de una ronda de scouts y hace girar la bolsa, soltando soga de a poco hasta que los jugadores tienen que saltar para esquivarla. Hay que ir variando la dirección en que se hace girar la bolsa. La velocidad del giro, igual que la altura de la bolsa sobre el suelo, deberían ir aumentando de a poco. El objetivo de los jugadores es evitar que la soga o la bolsa los agarre y los tire al suelo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IX (Winter Games), juego 6. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IX (Winter Games), juego 6: «Clear the Line». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

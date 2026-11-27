@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Quemado en el Círculo"
+title: "Tiro"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/quemado-en-el-circulo/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - pelota
   - quemado
 
@@ -66,10 +67,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,25 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Quemado en el Círculo!
+# Tiro
 
 ## Resumen
 Todos menos uno se ubican dentro de un círculo grande. El que queda afuera tiene una pelota blanda y trata de "quemar" a los de adentro. Cada quemado sale y se suma a tirar, pero siempre con una sola pelota. Cuando quedan pocos, el juego se pone rapidísimo.
 
 ## Desarrollo
-1. Marcá un círculo grande.
-2. Uno se queda afuera con la pelota; los demás, adentro.
-3. Los de adentro esquivan corriendo, agachándose o saltando.
-4. Cada quemado sale y se ubica alrededor del círculo para seguir tirando.
-5. Gana el último que queda adentro.
+Un juego de puntería y esquive con una pelota de tenis: el que es alcanzado queda eliminado y pasa a ayudar a tirar.
+
+1. Se marca en el suelo un círculo bastante grande.
+2. Todos los jugadores, menos uno, se ubican adentro del círculo.
+3. El que queda afuera tiene una pelota de tenis y trata de pegarles con ella a los de adentro.
+4. Al que le pegan queda eliminado: sale del círculo y pasa a ayudar a tirar. Durante todo el juego se usa una sola pelota.
+5. Los de adentro corren de un lado a otro, esquivan y saltan para que no les peguen.
+6. Los eliminados se reparten alrededor del círculo, para poder levantar la pelota enseguida cuando la cruza.
+7. Cuando quedan pocos adentro, el juego se pone rápido y muy divertido.
+
+**Cómo se gana:** gana el último que queda sin ser alcanzado.
+
+**Entre patrullas (variante del original):** una patrulla se mete en el círculo y el guía de la patrulla rival empieza a tirar desde afuera. Cada vez que le pega a alguien, ese jugador sale del círculo y el guía puede sumar a uno de su propia patrulla para que lo ayude a tirar. Se toma el tiempo que tardan en eliminar a toda la patrulla de adentro. Después se cambian los papeles. Gana la patrulla que tarda menos.
 
 ### Variante: Por patrullas
 Una patrulla entra al círculo y el guía de la otra empieza a tirar. Por cada quemado, suma un tirador de su patrulla. Se cronometra cuánto tardan en quemar a todos y gana la patrulla más rápida.
@@ -166,15 +177,12 @@ Una patrulla entra al círculo y el guía de la otra empieza a tirar. Por cada q
 
 A fairly large circular area is marked out and all the Scouts but one take up their positions inside it. The remaining Scout is "armed " with a tennis ball, with which he endeavors to "shoot" the Scouts inside the area. Each Scout who is "shot" comes outside and helps in the "shooting," but only one tennis ball is used throughout the game. The Scouts inside the area, by rushing from one side to the other, dodging or jumping, can delay being hit for some time, and when their numbers become few, the fun is fast and furious. The Scouts who are "shot" should arrange themselves round the circle, so as to pick up the ball quickly as it flies across the area. The game may be arranged as an inter-patrol contest in this way : One patrol takes up its position inside the area, and the leader of the opposing patrol commences " shooting." For each Scout he hits he is allowed to have one of his own patrol to assist him, the Scout who is hit retiring. The time taken to kill off the whole of the opposing patrol is noted, the winners being the patrol taking the shortest time.
 
-**Versión en español:**
-
-**TIRO.**
-
-Se marca una zona circular bastante grande y todos los scouts menos uno se ubican adentro. El scout que queda está "armado" con una pelota de tenis, con la que trata de "dispararle" a los scouts de adentro de la zona. Cada scout que recibe un "disparo" sale y ayuda a "disparar", pero durante todo el juego se usa una sola pelota de tenis. Los scouts de adentro, corriendo de un lado a otro, esquivando o saltando, pueden demorar un buen rato en ser alcanzados, y cuando quedan pocos, la diversión es rápida y furiosa. Los scouts "fusilados" deberían ubicarse alrededor del círculo para levantar rápido la pelota cuando cruza la zona. El juego se puede organizar como una competencia entre patrullas, así: una patrulla se ubica dentro de la zona y el guía de la patrulla rival empieza a "disparar". Por cada scout al que le pega, puede tener a uno de su propia patrulla para ayudarlo, y el scout alcanzado se retira. Se toma el tiempo que se tarda en "matar" a toda la patrulla rival, y gana la patrulla que tarda menos.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 18. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 18: «Shooting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

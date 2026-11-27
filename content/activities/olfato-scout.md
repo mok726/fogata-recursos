@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - sentidos
@@ -71,7 +72,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,21 +142,24 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Olfato Scout!
+# Olfato Scout
 
 ## Resumen
-Un buen scout no observa solo con los ojos. En este juego, los participantes huelen una fila de bolsitas iguales y después tienen que decir qué había en cada una, en el orden correcto.
+Un juego bajo techo para entrenar el olfato y la memoria: hay que reconocer olores y recordar en qué orden aparecieron.
 
 ## Preparación
 1. Prepará varias bolsitas de papel iguales y poné en cada una algo con olor distinto: cebolla picada, cáscara de naranja, hojas de menta, canela, café, jabón, pétalos de rosa, cuero, anís.
 2. Numeralas y ubicalas en fila, a unos 60 cm una de otra.
 
 ## Desarrollo
-1. Cada participante recorre la fila y huele cada bolsita durante cinco segundos, sin mirar adentro.
-2. Al final tiene un minuto para escribir o decirle al árbitro qué había en cada bolsita, de memoria y en el orden correcto.
-3. Gana quien acierta más.
+1. Antes del juego, el que dirige prepara varias bolsas de papel iguales, para que no se puedan distinguir por fuera. En cada una pone algo con un olor distinto. El original propone cebolla picada, corteza de curtir (la que se usaba para curtir cueros), hojas de rosa, cuero, anís, talco perfumado de violetas y cáscara de naranja; sirve cualquier cosa de olor reconocible.
+2. Las bolsas se ponen en fila, a unos 60 cm una de otra.
+3. Cada competidor recorre la fila y huele cada bolsa durante cinco segundos, sin mirar adentro.
+4. Al final de la fila tiene un minuto para escribir, o para decirle al árbitro, qué había en cada bolsa, de memoria y en el orden correcto.
 
-## Variantes
+**Cómo se gana:** el original no lo dice; una opción es que gane el que nombra más olores bien y en el orden en que estaban.
+
+### Variantes
 - **Para los más chicos:** menos bolsitas y olores bien conocidos; no hace falta respetar el orden.
 - **Con los ojos vendados:** se pasan frascos tapados con gasa.
 
@@ -176,14 +183,8 @@ down the line and have five seconds' sniff at each. At the end he has
 one minute in which to write down or to state to the umpire the names of
 the different objects smelled, from memory, in their correct order.
 
-**Versión en español:**
-
-**OLFATO SCOUT (bajo techo).**
-
-Prepará varias bolsas de papel, todas iguales, y poné en cada una un objeto con olor distinto, como cebolla picada en una, corteza de curtir en otra, hojas de rosa, cuero, anís, talco de violetas, cáscara de naranja, etc. Poné estos paquetes en fila, a unos 60 cm uno de otro, y que cada competidor recorra la fila y huela cada uno durante cinco segundos. Al final tiene un minuto para escribir o decirle al árbitro los nombres de los distintos objetos que olió, de memoria y en el orden correcto.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

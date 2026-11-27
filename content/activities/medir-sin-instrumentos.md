@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Medir sin Instrumentos"
+title: "Prácticas de Orientación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/medir-sin-instrumentos/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - orientacion
   - medicion
@@ -68,7 +69,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -137,28 +141,30 @@ rama_rovers:
   - 17   # Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 ---
 
-# ¡Medir sin Instrumentos!
+# Prácticas de Orientación
 
 ## Resumen
-Además de reconocer estrellas y leer mapas, B-P enseña dos métodos para medir sin instrumentos y una forma de entrenar la estimación:
-- **Ancho de un río:** con pasos, una estaca y una línea perpendicular.
-- **Altura de un árbol:** con un palo de altura conocida y triángulos semejantes.
-- **Tablero de referencias:** medidas reales de lugares conocidos del barrio para comparar con las estimaciones.
+Un conjunto de prácticas de B-P para aprender a orientarse y a calcular distancias y alturas a ojo, sin cinta métrica ni instrumentos.
 
 ## Desarrollo
-**Ancho del río**
-1. Elegí un objeto X en la otra orilla (un árbol, una piedra). Parate enfrente, en A.
-2. Caminá en ángulo recto 90 pasos por tu orilla. A los 60 clavá una estaca (B); seguí 30 más hasta C.
-3. En C girá 90° y caminá alejándote del río hasta que la estaca B quede alineada con X. Ese punto es D.
-4. Los pasos de C a D son **la mitad** del ancho del río.
+**Qué practicar, según el original:** reconocer algunas estrellas y constelaciones (en el original, la Osa Mayor, la Estrella Polar y Orión; desde la Argentina no se ven las dos primeras, así que se usan la Cruz del Sur y Orión); calcular la hora por el sol; ubicar los puntos cardinales con un reloj de agujas; leer un mapa y seguir un camino con él; marcar un recorrido con señales de rastreo (ramas quebradas y señales dibujadas en el suelo); y calcular distancias, alturas, pesos y cantidades.
 
-**Altura del árbol**
-1. Alejate unos pasos del árbol y clavá un palo de altura conocida (B).
-2. Seguí alejándote hasta que, con el ojo al ras del suelo, la punta del palo quede alineada con la copa (C).
-3. Altura del árbol = (distancia del árbol a C ÷ distancia del palo a C) × altura del palo.
+**Cómo medir el ancho de un río sin cruzarlo:**
+1. Elegí en la otra orilla algo fácil de ver, como un árbol o una piedra (lo llamamos X). Parate en tu orilla justo enfrente de él (punto A).
+2. Caminá por tu orilla en ángulo recto con respecto a X, contando los pasos. Al llegar, por ejemplo, a 60 pasos, clavá un palo o poné una piedra (punto B).
+3. Seguí caminando en la misma dirección 30 pasos más, es decir, la mitad de lo que caminaste hasta B. Ese es el punto C.
+4. En C girá en ángulo recto y alejate del río, tierra adentro, contando los pasos, hasta que el palo B y el árbol X queden en la misma línea, uno detrás del otro. Ese es el punto D.
+5. Los pasos que diste de C a D son la mitad del ancho del río. Multiplicalos por dos y tenés el ancho.
 
-**Estimar**
-Armen un tablero con medidas reales de lugares conocidos y después salgan a estimar otras. Comprueben con cinta, con un mapa o contando vueltas de rueda de bicicleta.
+**Cómo medir la altura de un árbol o de una casa:**
+1. Alejate del pie del árbol (punto A) una cierta distancia, por ejemplo 9 metros, y ahí clavá derecho un palo de altura conocida, por ejemplo de 2 metros (punto B).
+2. Seguí alejándote en la misma línea hasta un punto C desde donde, mirando con el ojo bien cerca del suelo, la punta del palo y la punta del árbol queden alineadas.
+3. Medí la distancia total desde el pie del árbol hasta C, y la distancia desde el palo hasta C.
+4. La altura del árbol es a la distancia total lo mismo que la altura del palo es a la distancia del palo a C. Por ejemplo: si del palo a C hay 3 metros y del árbol a C hay 12 metros, el árbol es 4 veces más alto que el palo, o sea que mide 8 metros.
+
+**Práctica en el barrio (idea de un dirigente inglés, el señor G. L. Boundy, de Exeter):** en el local se cuelga un cartel con las medidas reales de calles, cuadras y edificios del barrio que los chicos conocen bien. Eso les da una referencia. Después salen a estimar alturas y distancias de otras cosas que les marca el dirigente, que ya averiguó antes las medidas correctas. Así se aprende mucho sin salir del barrio, aun en el medio de la ciudad.
+
+**Consejo del original:** si el dirigente tiene bicicleta, puede medir antes varias distancias contando las vueltas que da la rueda. Después hace que los chicos las estimen y las compara con la medida correcta, que él ya conoce.
 
 ## Cierre
 - ¿Cuánto se equivocaron? ¿Qué método fue más preciso?
@@ -215,24 +221,8 @@ a number of distances beforehand by running over them and counting the
 revolutions of his wheel. He can then make the boys guess those
 distances, and can check them, knowing the correct distance himself._
 
-**Versión en español:**
-
-**PRÁCTICAS DE ORIENTACIÓN.**
-
-Enseñen a los chicos a reconocer la Osa Mayor, la Estrella Polar y Orión; a calcular la hora por el sol; a encontrar el sur con el reloj. Practiquen la lectura de mapas y encontrar el camino con el mapa; y marquen caminos con cortes en los árboles, ramas quebradas y señales dibujadas en el suelo. Practiquen calcular distancias, alturas, pesos y cantidades.
-
-La forma de calcular el ancho de un río es tomar un objeto X, como un árbol o una piedra de la orilla opuesta; partir en ángulo recto desde A y caminar, digamos, noventa yardas por tu orilla; al llegar a las sesenta yardas, clavar un palo o poner una piedra, B; al llegar a C, treinta yardas más allá, o sea a noventa del comienzo, girar en ángulo recto y caminar tierra adentro, contando los pasos, hasta que el palo y el árbol lejano queden alineados; la cantidad de pasos que diste desde la orilla, C D, te da entonces la mitad de la distancia A X.
-
-Para encontrar la altura de un objeto, como un árbol (A X) o una casa, caminá una distancia de, digamos, ocho yardas desde él, y ahí, en B, clavá un palo de, digamos, seis pies de alto; después seguí caminando hasta llegar a un punto C donde la punta del palo quede alineada con la punta del árbol; entonces la distancia total A C desde el pie es a A X, la altura del árbol, lo mismo que la distancia B C, desde el palo, es a la altura del palo; es decir, si la distancia total A C es de treinta y tres pies y la distancia B C desde el palo es de nueve (con el palo de seis pies de alto), el árbol tiene veintidós pies de alto.
-
-El señor G. L. Boundy, de Exeter, ha estado practicando con sus chicos el cálculo de distancias de la siguiente manera:
-
-Tiene un tablero en el que figuran las distancias, alturas y medidas reales de las distintas calles y edificios de los alrededores, que ellos conocen bien. Esto les da a los chicos una referencia para trabajar, y después salen a estimar alturas y distancias, y otras cosas que les da el señor Boundy, quien previamente averiguó sus medidas correctas preguntando o de otra manera. Así pueden aprender bastante del tema en su propio barrio, en el medio de la ciudad.
-
-Muchas veces es útil que el instructor, si tiene bicicleta, mida antes varias distancias recorriéndolas y contando las vueltas de la rueda. Después puede hacer que los chicos estimen esas distancias, y puede comprobarlas, porque él conoce la distancia correcta.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

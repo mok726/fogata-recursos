@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Huerta de la Manada"
+title: "Jardinero"
 duration: "Varias reuniones"
 duration_detail: "Varias reuniones (60 minutos la primera)"
 layout: "layouts/activity.njk"
@@ -62,6 +62,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -77,11 +78,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -164,18 +165,43 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y los recursos disponibles para alcanzar mis metas.
 ---
 
-# ¡La Huerta de la Manada!
+# Jardinero
 
 ## Resumen
-B-P dice que la jardinería enseña paciencia ("pegarse"), previsión, observación, amor por la naturaleza y habilidad manual, y que la puede disfrutar cualquier chico, tenga o no un jardín. Explica cómo preparar la tierra, cómo sembrar semillas grandes y chicas, ralear, plantar, poner tutores, regar a la tarde y bien a fondo, cuidar las macetas (golpeando la maceta para saber si tiene sed), hacer brotar un bulbo en un frasco y berro sobre un paño húmedo, y cuidar las herramientas.
+Consejos de B-P para que los lobatos se enganchen con la jardinería, una de sus especialidades: tener una huerta o un jardín, o, si no hay terreno, plantas en maceta o en un frasco.
 
 ## Desarrollo
-1. Elijan un lugar al sol. Remuevan la tierra, saquen los yuyos y agreguen compost u hojas descompuestas. Desmenucen y alisen con el rastrillo.
-2. Siembren: las semillas grandes (girasol, capuchina) de a una, a un centímetro de profundidad; las chicas, espolvoreadas y apretadas suave. ¡Nunca en un día de viento!
-3. Experimentos para todos: un bulbo apoyado en la boca de un frasco con agua (a oscuras hasta que salgan raíces, después a la ventana) y semillas de berro o alfalfa sobre un paño húmedo en un plato.
-4. Turnos de cuidado por seisena: regar a la tarde y a fondo, ralear cuando las plantitas estén amontonadas, poner tutores, sacar yuyos.
-5. Al terminar, limpiar y guardar las herramientas, como pide B-P.
-6. Lleven un registro (dibujos o fotos) de cómo crece cada cosa.
+**Para los dirigentes (nota del original):** la jardinería desarrolla paciencia y constancia, previsión, observación, amor por la naturaleza y habilidad con las manos. Se puede proponer a chicos de cualquier casa, de la ciudad o del campo: quien no tiene terreno puede hacer las pruebas alternativas (macetas, jardineras, bulbos en frasco). Y el «microbio» de la jardinería suele durar toda la vida.
+
+**El año en el jardín.** A fines del invierno y principios de la primavera se cava la tierra, se abona y se prepara para sembrar. Después vienen la siembra y la plantación; en verano, trasplantar, desmalezar y regar. En otoño se prepara el año siguiente: se cava hondo la tierra libre y se juntan las hojas y restos blandos en un rincón, para enterrarlos cuando estén descompuestos (abono). Hay que pensar con anticipación y no aflojar: si se abandona el jardín unas semanas, los yuyos crecen más rápido que lo que uno sembró. También conviene mirar otros jardines y escuchar a los jardineros: se aprenden muchos trucos.
+
+**Cómo empezar (en primavera):**
+1. Elegí un pedazo de tierra que no tenga sombra de árboles.
+2. Cavalo bastante hondo y sacá los yuyos.
+3. Si conseguís, mezclá estiércol u hojas viejas descompuestas.
+4. Desmenuzá bien la tierra y alisala con el rastrillo.
+
+**Sembrar.** Las semillas se compran en sobrecitos, que muchas veces dicen cuándo y cómo sembrarlas. Hay plantas *anuales* (florecen y mueren en un año), *bienales* (tardan dos años en florecer) y *perennes* (florecen todos los años y duran varios). Conviene tener algunas de cada una.
+1. Si la tierra está muy suelta, pisala un poco antes.
+2. Las semillas grandes (arvejilla, capuchina) se ponen de a una, a 1 cm de profundidad. Las chicas (amapola) se espolvorean encima y se aprieta suavemente la tierra. No siembres semillas chicas con viento.
+3. No te impacientes: pueden tardar una o dos semanas en brotar.
+4. Cuando las plantitas crecen, hay que *ralear*: arrancar algunas para que las demás tengan sol y aire. A veces hay que hacerlo dos veces. Si hace mucho calor, dales sombra.
+
+**Plantar.** Con una pala de mano, hacé un hoyo grande para que las raíces se extiendan. Cubrilas con tierra fina y apretala hasta que la planta no salga si la tirás suavemente con dos dedos. Carpí la superficie (aflojala con la azada) para matar yuyos y que entren el aire y la humedad.
+
+**Tutores.** A las plantas que el viento puede tumbar, poneles un apoyo: ramitas para las livianas y una estaca para las pesadas, que se vea lo menos posible.
+
+**Riego y yuyos.** Regá a la tarde y en abundancia, porque las raíces están hondo. Arrancá los yuyos sin piedad; los peores son los de raíces que se enroscan, como la correhuela y la gramilla.
+
+**Plantas en maceta.** Para saber si una maceta de barro necesita agua, golpeale el costado: si suena claro, está seca, y hay que llenarla de agua varias veces hasta que pase bien; si suena apagado, no está seca. No riegues con agua muy fría (la de lluvia es la mejor) y no dejes la maceta parada en un plato con agua. A los helechos y a algunas otras plantas les gusta que las dejes una o dos horas sumergidas en un balde con agua, y en un día de lluvia templado podés sacar las macetas afuera, pero cuidándolas del viento frío. Necesitan aire y sol, pero no corrientes de aire. Se les puede limpiar el polvo de las hojas con una esponja y agua tibia, muy suavemente. Son buenas los geranios, las fucsias y los bulbos como narcisos o jacintos.
+
+**Jardineras.** Con bulbos en primavera, geranios en verano o flores anuales como capuchinas o alhelíes. Mejor un buen remojón de vez en cuando que muchas regaditas.
+
+**Un bulbo en un frasco.** Conseguí un frasco con la boca más chica que el bulbo, llenalo de agua y apoyá el bulbo en la boca. Dejalo a oscuras hasta que salgan raíces y después pasalo a la luz, por ejemplo al borde de la ventana. Cambiá el agua una vez por semana. Al principio no lo tengas en un lugar muy cálido. (Para bulbos en una maceta con tierra o turba, pedile a un adulto que te enseñe, porque la tierra no tiene que quedar ni muy mojada ni muy seca; dejalos en un lugar oscuro y no muy cálido hasta que crezcan unos 2,5 cm.)
+
+**Mostaza y berro sobre franela.** Poné en un plato un pedazo de franela del mismo tamaño, mojala bien y espolvoreá las semillas encima. Fijate que la franela nunca se seque.
+
+**Herramientas y álbum.** Un buen jardinero limpia sus herramientas y las guarda bajo techo. Y es muy divertido armar un álbum con láminas y consejos de catálogos de semillas y revistas de jardinería.
 
 ## Cierre
 - ¿Qué fue lo más difícil: esperar, regar o acordarse?
@@ -216,37 +242,8 @@ Growing mustard and cress on flannel. — Take a saucer or dish and a piece of f
 Tools. — A good gardener always looks after his tools. Clean them carefully after using them and put them away tidily under cover.
 Scrapbook. — You will get a lot of fun and knowledge by making a scrapbook of coloured pictures and hints from seedsmen's catalogues and gardening magazines.
 
-**Versión en español:**
-
-**JARDINERO**
-**NOTA PARA LOS JEFES DE MANADA**
-Los Jefes de Manada deberían recordar que el pasatiempo de la jardinería fomenta varias cualidades que les gustaría ver en todos los lobatos: paciencia o "constancia", previsión, observación, amor por la naturaleza y habilidad con las manos.
-Además, es posible interesar en alguna forma de jardinería a lobatos de todo tipo de hogares, de la ciudad o del campo. Los afortunados pueden tener jardín, pero las pruebas alternativas permiten que los lobatos sin un terreno propio conozcan las alegrías de la jardinería, aunque sea de forma limitada.
-Y los Jefes de Manada que contagien a su Manada la locura por la jardinería van a tener la satisfacción de saber que les dieron a los lobatos un pasatiempo que probablemente les dure toda la vida, ¡porque el microbio de la fiebre de la jardinería es prácticamente incurable!
-**CONSEJOS DE JARDINERÍA PARA LOBATOS**
-Los lobatos que tienen la suerte de tener su propio jardín saben que la jardinería es un trabajo interesantísimo todo el año. A fines del invierno y principios de la primavera hay que cavar la tierra, abonarla y prepararla para sembrar semillas de verduras o flores. Después vienen la siembra y la plantación; luego, en verano, el trasplante, el desmalezado y el riego. En otoño hay mucho que hacer preparando el año siguiente. La tierra libre hay que cavarla hondo y dejarla en terrones para que la helada la rompa. Las hojas y los restos blandos hay que barrerlos y ponerlos en un rincón apartado, para volver a enterrarlos cuando estén descompuestos; los otros residuos hay que quemarlos, y hay que limpiar en general, o en verano el jardín no va a valer la pena. Así que todo jardinero tiene que pensar con anticipación.
-Además de planificar, es muy importante "no aflojar": no descuides tu jardín unas semanas, porque después te va a costar ponerte al día. Los yuyos, no se sabe cómo, crecen más rápido que las plantitas que uno sembró.
-Otro consejo: cuando tengas oportunidad, mirá los jardines de otros y escuchá lo que hablan los jardineros, porque así podés aprender un montón de trucos.
-Vas a tener mejores resultados si empezás en primavera. Si podés elegir, buscá un pedazo de tierra que no tenga sombra de árboles. Cavalo bastante hondo y sacá los yuyos. Si conseguís, enterrá un poco de estiércol o de hojas viejas descompuestas. Desmenuzá bien la tierra y alisala con el rastrillo. Ya estás listo para poner algo en la tierra.
-Sembrar semillas. — Se pueden comprar toda clase de semillas en sobrecitos, y muchas veces las instrucciones del sobre dicen cuándo y cómo sembrarlas. Hay flores ANUALES, como el alhelí, el aciano y la reseda. Hay otras BIENALES, que tardan dos años en florecer. Y hay PERENNES, que florecen todos los años y duran varios. Lo mejor es tener algunas de cada una.
-Cuando siembres, si la tierra está muy suelta, pisala un poco antes, porque las semillas crecen mejor en tierra bastante firme. Si las semillas son bastante grandes (como la arvejilla y la capuchina), ponelas de a una, a un centímetro de la superficie. Si son chicas, como las de amapola, espolvorealas sobre la tierra y después apretá suavemente. No siembres semillas chicas en un día de viento, porque se te pueden volar fuera del jardín.
-Algunas semillas brotan en pocos días, pero depende del tiempo, así que no te impacientes si pasan una o dos semanas sin que veas nada verde. Cuando las plantitas crecieron un poco, puede que haya que arrancar algunas; esto se llama "ralear", y se hace porque las plantas necesitan mucho sol y aire. Tal vez haya que hacerlo una segunda vez, porque si las plantitas están amontonadas, ninguna crece bien. Cuando hace mucho calor, puede que haya que darles sombra.
-Plantar. — Si en vez de semillas decidís poner plantas, usá siempre una pala de mano y cavá un hoyo lo bastante grande para que las raíces se extiendan bien. Cubrilas con tierra fina y apretala firme alrededor de las raíces, para que la planta no salga si la tirás suavemente con dos dedos. Mantené la superficie carpida, para matar los yuyos y dejar entrar el aire y la humedad, sobre todo después de regar.
-Tutores. — Muchas plantas necesitan un apoyo para que el viento no las tumbe. Para las plantas livianas, tratá de usar ramitas que las sostengan sin que se vean. Cuando haga falta un tutor más grueso, que se vea lo menos posible.
-Riego y desmalezado. — Si te parece que el jardín necesita agua, regalo a la tarde, y no mojes solo la superficie: las raíces llegan bastante hondo, así que hace falta mucha agua.
-Arrancá todos los yuyos sin piedad; solo con la experiencia se aprende cuáles son yuyos. Claro que todos conocen el diente de león, la ortiga y los yuyos que son distintas clases de pasto. Pero hay muchos otros, y de los peores son la correhuela y la gramilla, que tienen unas raíces horribles, como víboras, que se enroscan en las otras plantas y las ahogan.
-Plantas en maceta. — Una planta en maceta necesita todavía más cuidado que una que crece afuera, y hay que saber bastantes cosas sobre ellas. Por ejemplo, no es fácil saber cuándo necesita agua. Pero si golpeás el costado de la maceta de barro y suena claro, la planta está demasiado seca; entonces llená la parte de arriba con agua varias veces, hasta que el agua pase fácilmente. Si suena apagado, la planta no está muy seca. Un lobato de oído fino enseguida nota la diferencia. Nunca riegues con agua muy fría de la canilla —la mejor es el agua de lluvia— y nunca dejes la maceta parada en un plato con agua.
-A veces a los helechos y a algunas otras plantas les gusta que las pongas una o dos horas en un balde con agua, y podés sacar las macetas y los helechos afuera en un día de lluvia templado. Pero cuidado con los vientos fríos afuera y con las corrientes de aire en la casa. Las plantas en maceta necesitan aire y sol, pero odian las corrientes de aire. A veces conviene limpiarles las hojas con una esponja y agua tibia para sacarles el polvo, pero muy suavemente.
-Buenas plantas para maceta son los geranios y las fucsias, o bulbos como los narcisos o los jacintos.
-Jardineras. — Pueden quedar muy lindas, con bulbos en primavera o, en verano, con dos o tres geranios —de los rosados trepadores—, o podés sembrar anuales. Las capuchinas crecen muy bien en jardineras, y también los alhelíes amarillos o el alhelí de Virginia. ¡Acordate de que un buen remojón de vez en cuando es mejor que muchas regaditas!
-Hacer crecer un bulbo en agua, turba, arena o tierra. Conseguí un frasco con la boca más chica que tu bulbo, para que no se caiga adentro. Llenalo de agua, elegí un bulbo lindo y firme y apoyalo en la boca del frasco. Ponelo a oscuras hasta que empiecen a aparecer las raíces, y después llevalo a la luz. El alféizar de la ventana es un buen lugar. Cambiá el agua más o menos una vez por semana. Al principio no tengas el bulbo en un lugar demasiado cálido.
-Si querés hacer crecer bulbos en una maceta ancha, pedile a un adulto que te explique cómo, porque es importante que la turba o la tierra no estén ni demasiado mojadas ni demasiado secas. Acordate de poner la maceta en un lugar oscuro y no muy cálido hasta que el bulbo haya crecido unos dos centímetros y medio.
-Hacer crecer mostaza y berro sobre franela. — Tomá un plato o una fuente y un pedazo de franela que entre justo. Mojá bien la franela y espolvoreá las semillas por toda la superficie. Fijate que la franela nunca se seque.
-Herramientas. — Un buen jardinero siempre cuida sus herramientas. Limpialas con cuidado después de usarlas y guardalas ordenadas bajo techo.
-Álbum. — Te vas a divertir mucho y vas a aprender un montón haciendo un álbum con láminas en colores y consejos de los catálogos de semillas y las revistas de jardinería.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

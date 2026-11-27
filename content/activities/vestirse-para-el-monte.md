@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Vestirse para el Monte"
+title: "La Ropa"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vestirse-para-el-monte/"
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - tecnica-scout
   - campamento
   - ropa
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Girls, Official Handbook of the Girl Scouts"
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (impreso original)"
+    author: "Girl Scouts of the USA"
+    year: 1920
+  - title: "Scouting for Girls, Official Handbook of the Girl Scouts (versión alternativa en línea)"
     author: "Girl Scouts of the USA"
     year: 1920
     series: "Project Gutenberg, eBook #28490"
@@ -144,18 +148,22 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Vestirse para el Monte!
+# La Ropa
 
 ## Resumen
-«Cuando buscás un guía en la montaña, primero te mira a los ojos y después los zapatos», escribe Kephart. Explica que la ropa ayuda al cuerpo a mantener su temperatura. Tiene que dejar salir la transpiración: si la tela se empapa y queda húmeda, al parar o al recibir viento llega el enfriamiento. Por eso prefiere la lana al algodón. Con un experimento simple y la ropa de cada uno, la patrulla arma su «equipo por capas».
+Un texto, tomado de Horace Kephart, un experto en campamentos de principios del siglo XX, sobre cómo elegir la ropa para la vida al aire libre. Sirve para charlar con la patrulla antes de preparar la mochila de un campamento.
 
 ## Desarrollo
-1. Leé la frase de los ojos y los zapatos. ¿Qué quiere decir?
-2. Experimento: envolvé dos frascos de agua caliente, uno con una prenda de algodón mojada y otro con una de lana (o polar) mojada. Esperá 15 minutos y compará cuál se enfrió más.
-3. Rociá agua sobre distintas telas y fijate cuál absorbe y queda empapada, y cuál deja pasar o seca rápido.
-4. Armá con las prendas el sistema de tres capas: una capa junto a la piel que saque la humedad, una capa abrigada y una capa exterior contra viento y lluvia.
-5. Cada uno revisa la ropa que trajo y piensa qué cambiaría para un campamento de invierno y para uno de verano.
-6. Armen entre todos la lista de ropa para el próximo campamento.
+**La idea:** afuera uno se puede arreglar con un refugio improvisado o hasta pasar hambre un rato, pero no hay nada que reemplace una ropa cómoda y adecuada para mantenerse sano. Estar bien vestido no quiere decir estar a la moda, sino llevar ropa probada por la experiencia para lo que se va a hacer. Kephart dice que un guía de montaña te mira primero a los ojos y después los zapatos: si las dos cosas están bien, estás bien.
+
+**Lo que explica Kephart:**
+1. La ropa sirve para ayudar al cuerpo a mantener su temperatura y protegerlo del sol, la helada, el viento, la lluvia y los golpes. *Ayudar*, ojo: el cuerpo también hace su parte.
+2. El cuerpo se regula transpirando. Por eso la ropa tiene que dejar pasar el aire y la humedad: tiene que «respirar».
+3. En verano, lo mejor es ropa que deje evaporar la transpiración por todo el cuerpo. En invierno es igual, pero hacen falta más capas o ropa más gruesa encima para guardar el calor y frenar el viento.
+4. La ropa interior conviene que sea de tejido flojo: el aire que queda atrapado en el tejido aísla y evita tanto enfriarse de golpe como acalorarse.
+5. **Lana contra algodón.** El algodón y el lino absorben la transpiración pero la retienen hasta empaparse, y quedan húmedos y pegajosos. Si después de un esfuerzo te sentás a descansar o te pega un viento frío, como al llegar a la cima de una loma, te enfriás. La lana, en cambio, deja pasar la humedad: por eso abriga en invierno y es fresca en verano. Kephart lo resume así: uno se envuelve en una frazada de lana para guardar el calor adentro, y envuelve el hielo en una frazada para dejar el calor afuera.
+
+**Cómo usarlo:** después de leerlo, cada uno revisa la ropa que piensa llevar al campamento y se pregunta si abriga, si deja pasar la humedad y si sirve aunque se moje.
 
 ## Cierre
 - ¿Qué pasó en el experimento? ¿Por qué el algodón mojado enfría más?
@@ -229,28 +237,8 @@ keep warm--to keep the heat _in_. He wraps ice in a blanket to keep it
 from melting--to keep the heat _out_.' In other words, wool is the best
 material to maintain an equable normal temperature."
 
-**Versión en español:**
-
-**Ropa**
-
-Viviendo al aire libre, uno puede arreglárselas sin techo, o incluso pasar hambre un rato, pero no hay nada que reemplace una ropa cómoda y segura si uno quiere mantenerse sano. Horace Kephart, el maestro campamentista, le dedica mucho espacio a este tema, y lo mejor que podemos hacer es seguir su consejo de *Camping and Woodcraft*.
-
-«* * * Uno pronto aprende que la diferencia entre la comodidad y el sufrimiento, si no entre la salud y la enfermedad, puede depender de estar bien vestido. Bien, en este caso, no quiere decir a la moda, sino adecuado, útil, probado por la piedra de toque de la experiencia como lo mejor para el trabajo o el juego que se tiene entre manos. Cuando buscás un guía en la montaña, primero te mira a los ojos y después los zapatos. Si las dos cosas están bien, vos estás bien.
-
-»Las funciones principales de la ropa son ayudar al cuerpo a mantener su temperatura normal y protegerlo del sol, la helada, el viento, la lluvia y las lastimaduras. *Ayudar*, ojo: al cuerpo hay que dejarle hacer su parte.
-
-»La transpiración es el mecanismo con el que el cuerpo regula su calor. La ropa tiene que dificultar lo menos posible que salga de la piel. Por eso las prendas tienen que ser *permeables* al aire. El cuerpo se enfría por evaporación rápida, como la bolsa de agua tropical, que es lo bastante porosa como para dejar salir un poco de agua. Así que la mejor ropa de verano es la que permite una evaporación libre, en todo el cuerpo, de la cabeza a los pies. En invierno es igual: la humedad del cuerpo tiene que pasar libremente a través de la ropa interior, pero hacen falta más capas o más espesor en la ropa de afuera para retener el calor del cuerpo y protegerse del viento; aun así, todas las prendas tienen que ser permeables al aire. * * *
-
-»La ropa interior, en cualquier estación, tiene que ser de tejido flojo, para que retenga aire y absorba la humedad del cuerpo. El aire atrapado en los huecos no conduce el calor, y así ayuda a evitar tanto un enfriamiento repentino como un acaloramiento. Un tejido flojo absorbe la transpiración pero no la retiene: la humedad puede pasar libremente a las prendas de afuera y atravesarlas. En la ciudad podemos soportar en verano una ropa interior de tejido cerrado, si es bastante fina, porque nos movemos poco y podemos bañarnos y cambiarnos seguido. En el monte tendríamos que cambiarnos cuatro veces por día para estar * * * igual de secos.
-
-»*Lana contra algodón*. La permeabilidad también depende del material. Las telas comunes de algodón y de lino no permiten una evaporación rápida. Absorben la humedad de la piel, pero la retienen hasta que se saturan. Entonces, cuando ya no pueden absorber más, se ponen pegajosas, y el sudor solo puede salir chorreando por la piel.
-
-»Después de un esfuerzo grande con esas prendas, si te sentás a descansar o te pega un viento frío de golpe, como al llegar a la cima de una loma, es probable que te enfríes, y lo siguiente es un "resfrío fuerte" o un lumbago, reuma o algo peor.
-
-»La lana, en cambio, es permeable. Por eso (si tiene el peso adecuado y un tejido flojo) es más fresca en verano y más abrigada en invierno que las telas de fibra vegetal. "Uno se envuelve en una frazada de lana para mantenerse caliente, para guardar el calor *adentro*. Envuelve el hielo en una frazada para que no se derrita, para dejar el calor *afuera*". En otras palabras, la lana es el mejor material para mantener una temperatura normal y pareja.»
-
 ---
-**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920). Dominio público. Texto tomado de Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
+**Fuente:** Horace Kephart, en *Scouting for Girls, Official Handbook of the Girl Scouts* (Girl Scouts of the USA, 1920), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #28490: https://www.gutenberg.org/ebooks/28490
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - supervivencia
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,15 +142,17 @@ rama_rovers:
   - 37   # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
-# ¡Comida Silvestre!
+# Comida Silvestre
 
 ## Resumen
-Cada scout o patrulla tiene que nombrar al menos doce tipos distintos de comida silvestre que encontraría en su región si no hubiera carnicerías, panaderías ni almacenes. Un lucio y una trucha no cuentan como dos tipos distintos: pescado es un solo tipo.
+Un juego de conocimiento de la naturaleza, que se puede hacer por patrullas o de a uno, oral o por escrito.
 
 ## Desarrollo
-1. Explicá la regla: tienen que ser tipos de alimento distintos.
-2. Cada patrulla arma su lista en un tiempo fijo.
-3. Se comparan las listas y se discute cada respuesta.
+1. El que dirige plantea la situación: supongamos que no hay carnicerías, panaderías, almacenes ni verdulerías, y que tenemos que vivir de lo que da la naturaleza en nuestra zona.
+2. Cada jugador o patrulla tiene que nombrar por lo menos doce clases distintas de comida silvestre que se puedan conseguir en la Argentina (o en la región donde estamos): frutos, plantas, animales, peces, etc.
+3. Ojo con la palabra «clases»: dos especies parecidas no cuentan como dos clases distintas. Por ejemplo, un pejerrey y una trucha cuentan como una sola clase de comida: pescado de río.
+
+**Cómo se cumple:** cumple la prueba el que llega a doce clases distintas. El original no dice cómo se gana si se juega entre varios; una opción es que gane el que nombra más clases válidas.
 
 ## Cierre
 - ¿Cuáles de estos alimentos vieron alguna vez en el lugar? ¿Cuáles están protegidos?
@@ -165,14 +171,8 @@ supplies available from butchers, bakers, grocers, or greengrocers.
 N.B.--A pike or a trout are not considered different _kinds_ of food for
 this competition.
 
-**Versión en español:**
-
-**JUEGO.** Comida: nombrar no menos de doce tipos distintos de alimento silvestre, como los que encontrarías en Gran Bretaña, suponiendo que no hubiera provisiones de carniceros, panaderos, almaceneros ni verduleros.
-
-N. B.: Un lucio y una trucha no se consideran *tipos* distintos de alimento para esta competencia.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Tabla y las Piedras del Arroyo"
+title: "Caminar por la Tabla y Piedras para Cruzar"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-tabla-y-las-piedras-del-arroyo/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -144,16 +145,22 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡La Tabla y las Piedras del Arroyo!
+# Caminar por la Tabla y Piedras para Cruzar
 
 ## Resumen
-La prueba original pedía caminar por una tabla angosta de 3,6 m a la altura de una mesa. B-P propone desafíos más interesantes: caminar por una tabla de canto, un caño o un muro bajo hasta un premio, agacharse a levantarlo, darse vuelta y volver; y cruzar un "arroyo" por piedras irregulares, la segunda vez llevando una pelota sobre una tablita.
+Dos ejercicios de equilibrio para lobatos. Vienen de una de sus pruebas: caminar por una tabla de 3,6 metros de largo y 15 centímetros de ancho, puesta a la altura de una mesa común. B-P dice que los lobatos no se van a conformar con eso y van a inventar formas más difíciles de practicar.
 
 ## Desarrollo
-1. **La tabla:** coloquen una tabla, caño o borde bajo con un premio en la punta. Cada lobato camina hasta el final, se agacha a levantar el premio, se da vuelta y vuelve sin caerse.
-2. **Piedras del arroyo:** marquen un camino zigzagueante de "piedras" (cartones fijados al piso o círculos de tiza), algunas juntas y otras separadas.
-3. Cada lobato lo cruza dos veces: la primera libre; la segunda llevando en la mano una tablita con una pelota de tenis encima, que no se puede caer.
-4. Quien pisa el "agua" o deja caer la pelota vuelve a empezar.
+**Caminar por la tabla.**
+1. Para practicar, busquen algo largo y angosto por donde caminar: un caño de 10 a 15 centímetros de diámetro apoyado en el suelo, un par de tablas paradas de canto (apoyadas sobre el lado angosto) o un muro bajo.
+2. En la otra punta se pone una manzana o un premio chico.
+3. Por turno, cada lobato camina por encima hasta la punta, se agacha o se inclina para levantar el premio, se da vuelta y vuelve sin caerse.
+4. El que lo logra se queda con el premio.
+
+**Piedras para cruzar el arroyo.**
+1. Se arma un recorrido en zigzag de «piedras», como si hubiera que cruzar un arroyo saltando de piedra en piedra. Pueden ser pedacitos de tabla o de cartón clavados al suelo, o marcas dibujadas en el piso. Algunas van juntas y otras más separadas.
+2. Cada lobato, por turno, hace el recorrido pisando solo las piedras. Tiene dos intentos.
+3. En el segundo intento lleva en la mano una tablita de unos 20 centímetros de lado con una pelota de tenis apoyada encima, y no se le puede caer.
 
 ## Cierre
 - ¿Qué te ayudó a mantener el equilibrio?
@@ -171,16 +178,8 @@ The test says: "Walk a plank 12 feet by 6 inches, the height of an ordinary tabl
 STEPPING-STONES
 Put down small bits of board, or cardboard (nailed to the ground), or mark on the ground a twisty line of stepping-stones as if for crossing a brook — some close together, others far apart. Each Cub to try the course in turn, two tries. In the second try he carries in his hand a board about eight inches square, on which is a tennis-ball, which must not be dropped.
 
-**Versión en español:**
-
-**CAMINAR POR LA TABLA**
-La prueba dice: "Caminar por una tabla de 3,6 metros por 15 centímetros, a la altura de una mesa común sobre el suelo", pero los lobatos no se van a conformar con eso: se les van a ocurrir toda clase de formas más difíciles de aprender a mantener bien el equilibrio. Para practicar, busquen un caño de desagüe de hierro de 10 o 15 centímetros en el suelo, o un par de tablas de canto, o un muro bajo, con una manzana o un premito en la punta para el lobato que pueda caminar por encima, agacharse o inclinarse a levantar el premio, darse vuelta y traerlo de vuelta sin caerse.
-
-**PIEDRAS PARA CRUZAR**
-Pongan pedacitos de tabla o de cartón (clavados al suelo), o marquen en el suelo una línea zigzagueante de piedras como para cruzar un arroyo, algunas juntas y otras separadas. Cada lobato prueba el recorrido por turno, dos intentos. En el segundo lleva en la mano una tablita de unos 20 centímetros de lado con una pelota de tenis encima, que no se puede caer.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

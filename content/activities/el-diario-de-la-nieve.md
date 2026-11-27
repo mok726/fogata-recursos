@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Diario de la Nieve"
+title: "Un Diario Hecho de Nieve"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-diario-de-la-nieve/"
@@ -55,6 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -69,11 +70,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -150,20 +151,28 @@ rama_rovers:
   - 29 # Indago en las causas y consecuencias de las injusticias, desigualdades y problemáticas sociales, actuando comprometida y coherentemente para la construcción de una sociedad cada vez más justa, equitativa e igualitaria.
 ---
 
-# ¡El Diario de la Nieve!
+# Un Diario Hecho de Nieve
 
 ## Resumen
-B-P cuenta que la nieve es un diario que escriben las hadas: el gorrión dejó pasitos de a saltos y un pedazo de pan, pasó el conejo, la gata lo acechaba y el perro la corrió. La Manada aprende a "leer" huellas en la nieve o, donde no hay, en arena o barro.
+Un relato del *Wolf Cub's Handbook* para enseñar a leer huellas: la nieve es como un diario donde los animales y las personas dejan escritas sus «noticias». Se puede leer en voz alta en la Manada y, si hay barro, arena húmeda o nieve, salir después a buscar huellas de verdad.
 
 ## Preparación
 1. Alisá un terreno de arena, tierra o barro. Dejá huellas que cuenten una historia corta (pasos que caminan y corren, saltitos de pájaro, un objeto que se cae, alguien que vuelve).
 2. Leé antes el cuento de B-P para contarlo.
 
 ## Desarrollo
-1. Contá el cuento del diario de nieve, mostrando cómo camina cada animal: los pajaritos que viven en arbustos saltan con los dos pies juntos; las aves grandes caminan un pie tras otro; los patos caminan con los dedos para adentro; la gata pisa con la pata de atrás donde pisó la de adelante.
-2. Llevá a la Manada al terreno preparado. Por seisenas, observen sin pisar las huellas.
-3. Cada seisena reconstruye la historia: quién pasó, en qué orden (qué huella pisa a cuál), si caminaba o corría, qué pasó al final.
-4. Cada seisena cuenta su versión; después revelás la historia real.
+B-P empieza con una imagen: cuando llega el invierno, manda un ejército de hadas blancas, los copos de nieve, que cubren todo con una sábana blanca. Esa sábana es su diario. Parece vacía, pero quien mira con atención encuentra marcas que cuentan cosas.
+
+El relato es un paseo leyendo las huellas, y cada huella enseña algo:
+
+1. **El gorrión.** Las huellas van de a pares: es un pajarito que vive en los arbustos, porque esos pájaros saltan con las dos patas juntas. Un pinzón tendría patas más chicas y rozaría la nieve con la cola; un zorzal, patas más grandes y saltos más largos. Las aves más grandes o que viven en el suelo (gallinas, faisanes) caminan, una pata y después la otra. Las aves de agua, como los patos y los gansos, caminan bamboleándose con los dedos hacia adentro.
+2. **El pan.** El gorrión se paró a pelearse con un pedazo de pan grande, que dejó marca en la nieve, y siguió saltando con él en el pico. Más adelante está el pan tirado.
+3. **El conejo.** Sus huellas cruzan el camino del gorrión. Pero la huella del gorrión está encima de la del conejo: el gorrión pasó después. Además, si el pan hubiera estado ahí antes, el conejo lo habría mordisqueado.
+4. **La gata.** Al lado del pan, las huellas del gorrión terminan: salió volando. ¿Por qué? Hay otras huellas: un animal que pisa con las patas de atrás justo donde pisó con las de adelante, así que parece que tuviera dos patas en vez de cuatro. Es la gata, que se acercó acechando, cada vez con pasos más cortos, rozando la nieve con la cola.
+5. **El perro.** De golpe, la gata salta y sale disparada a grandes saltos. La perseguía Torombolo, el perro, cuyas huellas se hunden y levantan nieve al galopar.
+6. **El dueño.** Las huellas del señor Gil, el dueño del perro, muestran dónde se paró a gritarle. Le tiró el bastón, y el perro fue hasta el bastón y volvió con él: las huellas del perro van y vuelven, las del señor Gil no, y el bastón ya no está.
+
+Todo termina bien y nadie sale lastimado: el gorrión pía en una chimenea, la gata se escapó y el conejo está en su cueva. Y las hadas, cuando sale el sol, se derriten, suben al cielo como nubes y vuelven a bajar otro día para escribir más noticias, para quien sepa leerlas.
 
 ## Cierre
 - ¿Cómo se sabe qué huella es más nueva?
@@ -206,40 +215,8 @@ So that ends the news of the day.
 Well, when they fall to the ground they die like other people; they lie cold and white until the sun comes and calls them to wake. Then they melt away and disappear, but their spirits fly up to Heaven again, and then they crowd together in great white clouds, and sail across the sky.
 Then, when you want more news on earth they come flying down as snowflakes to the ground, and spread again their newspaper for you to read — if you know how to read it.
 
-**Versión en español:**
-
-**UN DIARIO HECHO DE NIEVE**
-¿Cómo puede un diario estar hecho de nieve? Bueno, cuando llega el invierno, manda un ejército de hadas blancas chiquitas a hacer un diario para contarte las noticias.
-Los copos de nieve son las hadas que bajan volando por cientos, miles, millones y miles de millones, hasta que cubren el suelo y extienden una sábana blanca sobre todo el campo.
-Ese es su diario, y cualquiera que sea despierto puede leer sus noticias. Al principio la nieve parece toda blanca y vacía. Pero si mirás de cerca, enseguida ves puntitos y marcas que, si sabés leerlos, te dan noticias interesantes.
-Vamos a dar un paseo por la nieve a ver qué tiene para contarnos.
-¡Epa! ¿Qué es esto?
-El señor Gorrión anduvo por la nieve. ¿Cómo lo sé? Bueno, porque los pajaritos que viven en los arbustos por lo general saltan con los dos pies juntos.
-Si hubiera sido la señorita Pinzón, las patitas habrían sido más chicas, y la cola habría rozado la nieve de vez en cuando, dejando una marquita como de escoba. Si hubiera sido la señora Zorzal, las patas habrían sido más grandes y los saltos más largos.
-Las aves más grandes, y las que viven en el suelo, como los faisanes, las gallinas y los pavos reales, por lo general caminan, un pie y después el otro.
-Y las que viven en el agua solo caminan bamboleándose sobre sus grandes patas planas, con los dedos hacia adentro, como la vieja Mamá Pata Chata o el Patito Amarillo, o como el viejo Concejal Ganso, que tiene gota en los dedos.
-¿Y esto qué es?
-El señor Gorrión se paró acá a pelearse con un pedazo de pan que se había robado. Después siguió saltando con el pan en el pico, porque era un pedazo bastante grande —a juzgar por la marca que dejó en la nieve— y, sin embargo, no quedó nada tirado ahí y no se lo pudo haber comido todo, así que debe haberlo llevado.
-¡Sí, miren! Ahí está el pan tirado en el suelo, más allá, y las huellas saltando hasta él.
-¿Pero qué es esto que cruza el camino del señor Gorrión? ¡Si es el Hermano Conejo que salió a pasear!
-Y justo más allá, donde está el pan, las huellas del señor Gorrión terminan de golpe. Salió volando.
-¿Lo habrá asustado el Hermano Conejo al pasar? No; su huella está encima de la que dejó el Hermano Conejo, así que debe haber venido un rato después de que el Hermano Conejo pasó por ahí. Y además, me imagino que si el pan hubiera estado ahí antes de que llegara el Hermano Conejo, lo habría mordisqueado. ¿No les parece?
-¿Pero qué pudo haber hecho que el señor Gorrión dejara de saltar de golpe, soltara el pan y saliera volando?
-¡Ah! Ya veo.
-Hay otras huellas. ¿Quién es esta que camina con tanto cuidado que las patas de atrás pisan casi exactamente donde pisaron las de adelante, de modo que, en lugar de dejar en la nieve las marcas de cuatro patas distintas, parece que hubiera solo dos?
-¡Es la señora Gata! Y también salió a cazar, porque sus pasos se van haciendo cada vez más cortos a medida que se acerca acechando al señor Gorrión, y su cola, que se mueve nerviosa, roza la nieve acá y allá.
-¿Pero qué significa este cambio repentino? Salta con sus largas patas traseras, gira a medias hacia la derecha y después sale disparada, galopando a grandes saltos hacia la izquierda. ¡Ah, es porque el viejo Torombolo, el perro, la está persiguiendo! Ahí se ven sus huellas, al galope, hundiéndose en la nieve y levantándola en sus saltos violentos mientras corre detrás de la gata.
-Y qué enojado está el viejo señor Gil, su dueño. Acá se ve dónde se paró en su caminata para gritarle a Torombolo.
-Ah, sí; ¿y ven ahí? Le tiró el bastón a Torombolo. Y el pobre Torombolo volvió humildemente hacia su dueño, trayendo el bastón en la boca (porque, como ven, las huellas del señor Gil no van hasta donde estaba el bastón, pero las del perro van hasta ahí y vuelven hasta el señor Gil, y el bastón ya no está tirado en la nieve).
-Y así todo termina bien; nadie salió lastimado.
-El señor Gil se fue a casa clavando el bastón en la nieve, con Torombolo corriendo detrás; la señora Gata se escapó con la cola parada; el señor Gorrión pía arriba de la chimenea; y el Hermano Conejo está a salvo y calentito en su cueva seca.
-Así terminan las noticias del día.
-"¿Y qué pasa con las hadas?", me preguntan.
-Bueno, cuando caen al suelo mueren como todo el mundo; quedan frías y blancas hasta que llega el sol y las llama a despertar. Entonces se derriten y desaparecen, pero sus espíritus vuelven a volar al Cielo, y ahí se juntan en grandes nubes blancas y navegan por el cielo.
-Después, cuando hacen falta más noticias en la tierra, bajan volando como copos de nieve al suelo y vuelven a extender su diario para que lo leas, si sabés leerlo.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

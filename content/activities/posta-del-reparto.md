@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Reparto"
+title: "Posta de los Pertrechos"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-reparto/"
@@ -9,13 +9,13 @@ summary: "Repartir y juntar cosas lo más rápido posible."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,22 +133,39 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta del Reparto
+# Posta de los Pertrechos
 
-## De qué se trata
-Frente a cada patrulla hay un montón de objetos, uno menos que la cantidad de jugadores. El primero corre, los agarra todos y los reparte a sus compañeros pasando por un costado de la fila. Vuelve por el otro costado juntándolos, los deja en el montón y vuelve a darle la salida al siguiente.
+## Resumen
+Una carrera de postas en la que hay que repartir objetos a todo el equipo y volver a juntarlos.
 
-## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. Frente a cada fila, a unos 10 metros, hay un montón de objetos.
-3. El primero corre, agarra todos los objetos y vuelve.
-4. Baja por un costado de la fila y le da un objeto a cada compañero.
-5. Sube por el otro costado y los vuelve a juntar todos.
-6. Los lleva al montón y vuelve a tocar al siguiente.
-7. Si se le cae algo, lo levanta él y sigue. Gana la primera patrulla que termina.
+## Desarrollo
+En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
-## Para cerrar
+1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
+2. Delante de cada equipo, a cierta distancia, se pone una pila de objetos varios (una gorra, una taza, un cordón, una pelota, lo que haya). Cada pila tiene un objeto menos que la cantidad de jugadores del equipo, así alcanza justo para todos los que se quedan en la fila.
+3. A la señal, el primero de cada equipo corre hasta la pila, levanta todos los objetos y vuelve.
+4. Baja por un costado de su fila dándole un objeto a cada compañero.
+5. Después sube por el otro costado y se los va sacando, hasta tenerlos todos de nuevo.
+6. Lleva los objetos otra vez a la pila, los deja ahí y vuelve corriendo para largar al siguiente, que hace lo mismo.
+7. Al que se le cae un objeto, lo tiene que levantar y volver al lugar donde estaba antes de seguir.
+
+**Cómo se gana:** gana el primer equipo en el que todos hicieron el reparto.
+
+## Cierre
 - ¿Qué ayudaba más: cómo estaban los compañeros o cómo repartía el que corría?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ARTICLES OF WAR RELAY.**
+
+Teams in file, a heap of sundry articles put at a given distance in front of each team, one less article than there are players in each team. Front players run and pick up articles and run down one side of their team, giving one article to each player, and then up the other side, collecting them again, and put them back on the dump, running back to send off the next player. First team to finish win. Dropper must pick up any dropped article and regain his place.
+
 ---
-**Fuente:** inspirada en el juego «Articles of War Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 11, «Articles of War Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

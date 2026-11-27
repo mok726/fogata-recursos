@@ -131,10 +131,10 @@ rama_rovers:
 
 # Cinchada de Tres
 
-## De qué se trata
-Una soga cerrada en círculo, agarrada por tres jugadores separados a la misma distancia. Detrás de cada uno, a un metro de su alcance, hay un pañuelo en el piso. A la orden, los tres tiran. El primero que logra agarrar su pañuelo sin soltar la soga, gana.
+## Resumen
+Tres jugadores agarran una soga cerrada en círculo y se separan a la misma distancia uno del otro, formando un triángulo. Detrás de cada uno, a un metro de su alcance, hay un pañuelo en el piso. A la orden, los tres tiran. El primero que logra agarrar su pañuelo sin soltar la soga, gana.
 
-## Cómo se juega
+## Desarrollo
 1. Unan las puntas de la soga con un nudo firme.
 2. Tres jugadores la agarran, formando un triángulo, y la tensan.
 3. Detrás de cada uno, a un metro de donde llega su mano, se pone un pañuelo.
@@ -142,16 +142,16 @@ Una soga cerrada en círculo, agarrada por tres jugadores separados a la misma d
 5. Hay que agarrar el pañuelo con una mano sin soltar la soga con la otra.
 6. El primero que lo levanta, gana.
 
-## Reglas
+### Reglas
 - Nadie suelta la soga de golpe: si alguien quiere abandonar, avisa y suelta despacio.
 
 ### Variante: De a cuatro
-Cuatro jugadores o cuatro patrullas en cuadrado, con una soga cerrada. Cada uno agarra con una sola mano.
+Se juega igual, pero con cuatro jugadores que agarran la soga cerrada formando un cuadrado, y con un pañuelo detrás de cada uno. Para que no quede tan trabado entre cuatro, desde el principio cada jugador agarra la soga con una sola mano y tiene la otra libre para buscar el pañuelo. Si juegan cuatro patrullas, cada patrulla manda a un jugador por vuelta: los cuatro se enfrentan, el que levanta primero su pañuelo gana un punto para su patrulla, y en la vuelta siguiente salen otros cuatro, hasta que hayan pasado todos.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía tirar todo el tiempo o esperar a que los otros dos se cansaran?
 
-## Notas para educadores
+## Notas para el educador
 - Pensar la estrategia es parte del juego: a veces conviene aflojar y dejar que los otros dos se peleen.
 
 ---

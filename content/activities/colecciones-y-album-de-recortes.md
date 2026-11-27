@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Colecciones y Álbum de Recortes"
+title: "Colecciones y Álbumes de Recortes"
 duration: "60 min +"
 duration_detail: "60 minutos + continuidad en casa"
 layout: "layouts/activity.njk"
@@ -59,6 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -74,11 +75,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -154,20 +155,32 @@ rama_rovers:
   - 13 # Tomo consciencia de mis emociones y las expreso comprendiendo como impactan en mí y en mi entorno.
 ---
 
-# ¡Colecciones y Álbum de Recortes!
+# Colecciones y Álbumes de Recortes
 
 ## Resumen
-B-P supone que todo lobato tiene alguna colección, pero dice que es más divertido coleccionar dibujos propios: flores (que así no se marchitan ni hay que arrancarlas) o banderas. También cuenta que lleva álbumes de recortes toda la vida y explica cómo armarlos: un álbum por año, un sobre para ir juntando, engrudo casero y el truco del diario para pegar sin ensuciar.
+Una actividad para hacer en casa, de a poco, y mostrar en la Manada: armar una colección propia y llevar un álbum de recortes. B-P cuenta en primera persona cómo lo hacía él.
 
 ## Preparación
 1. Prepará el engrudo con un adulto: una cucharada y media de harina en un bol, un poco de agua fría para hacer una pasta fina y después agua hirviendo revolviendo sin parar hasta que espese. Dejalo enfriar.
 
 ## Desarrollo
-1. Cuenten que B-P tenía un álbum que empezaba con un retrato de sus padres y un dibujo que hizo a los tres años.
-2. Cada uno elige: una colección de dibujos propios (flores, aves, banderas, insectos) o un álbum de recortes (de la Manada, de la escuela, de las vacaciones).
-3. En la primera página: nombre y fecha de inicio.
-4. Para pegar, el truco de B-P: poner la foto boca abajo sobre un diario, untar el revés con engrudo hasta los bordes y pegarla en el álbum; después doblar el diario para tener otra parte limpia.
-5. Debajo de cada imagen, escribir nombre y fecha. Lo que se junte durante la semana va al sobre, hasta el próximo día de lluvia.
+**Colecciones.** Casi todos los chicos coleccionan algo: estampillas, caracoles, postales, figuritas. Está bien, pero B-P dice que es mucho más divertido hacer una colección de dibujos propios. Por ejemplo:
+- El que es aficionado a las flores puede dibujar con lápices de colores o pinturas cada flor distinta que encuentra. Las flores dibujadas no se marchitan, como pasaría si las arrancara, y con el tiempo va a tener un registro de todas las que encontró.
+- El que piensa que las flores son difíciles de dibujar puede coleccionar banderas: las de los distintos países, las de las provincias argentinas y las del código de señales de los barcos. Alcanza con lápices de colores y papel.
+- Esto sirve después para la especialidad de coleccionista.
+
+**El álbum de recortes.** B-P llevó álbumes toda su vida: su primer álbum empieza con un retrato de sus padres y un dibujo que hizo a los tres años. Le sirvieron para acordarse de cosas de hace mucho. Así lo armaba:
+1. Conseguí un álbum de hojas de cartulina fina, porque el papel común se arruga cuando le pegás algo. Si no hay, cualquier cuaderno sirve. El tamaño ideal es de unos 30 por 20 centímetros, porque uno más chico se llena enseguida y a veces vas a querer pegar una foto grande.
+2. En la primera hoja escribí tu nombre y la fecha en que lo empezás. Está bueno empezarlo a principio de año o en tu cumpleaños, y tener un álbum por año. Otra opción es tener uno para la escuela (fotos, amigos, programas de actos y torneos) y otro para la casa y las vacaciones.
+3. No hace falta pegar cosas todo el tiempo: es un pasatiempo extra y no tiene que ocupar el lugar de las otras actividades ni dejar el cuarto desordenado. Lo mejor es tener un sobre grande donde ir guardando lo que te parezca interesante: fotos de scouts en campamento, notas de diarios y revistas, fotos de todo tipo. Después, un día de lluvia, lo ordenás y lo pegás.
+4. Las fotos propias quedan muy lindas. Pero lo mejor de todo es dibujar vos mismo cosas en el álbum. El que dibuja bien puede ir por la especialidad de artista.
+
+**Cómo pegar, según B-P:**
+1. Hacé engrudo: poné una cucharadita y media de harina (o de almidón) en un recipiente, agregá un poco de agua fría y revolvé hasta que quede una pasta líquida. Después agregá agua hirviendo, con ayuda de un adulto, sin dejar de revolver, hasta que quede una pasta espesa. B-P le agregaba unos clavos de olor para que no se agriara. Hoy también se puede usar plasticola.
+2. Prepará además un pincel para el engrudo, una tijera, un lápiz para escribir nombres y fechas debajo de cada cosa, un cesto para los recortes que sobran y un diario viejo.
+3. Poné la foto boca abajo sobre el diario y pasale engrudo por todo el revés, sobre todo en los bordes y las esquinas. Después pegala en su lugar en el álbum.
+4. La parte del diario que quedó pegajosa se tapa doblando la hoja, y así tenés otro lugar limpio para la próxima.
+5. Si la foto tiene un borde oscuro, queda mejor recortarlo. También queda prolijo cortarle apenas las esquinas.
 
 ## Cierre
 - ¿Qué te gustaría mirar en tu álbum dentro de diez años?
@@ -208,37 +221,8 @@ Besides that, you want a paste brush, a pair of scissors, and something by way o
 The newspaper is an excellent thing which I myself find extremely useful, and therefore recommend to you; you place the photo face downwards on the newspaper and smear the back of it all over and its edges and corners with paste, and then put it in its right position in the album. The place where you smeared it on the newspaper is then all sticky, but by doubling over the sheet you get another clean "smearing-place."
 Very often, photographs have a dark edge all round, and it is nicer to cut that off; it also looks very neat if you just clip off the corners.
 
-**Versión en español:**
-
-**COLECCIONES**
-Y estoy seguro de que todo lobato tiene alguna colección, o, si todavía no tiene, va a empezar una, sea de estampillas extranjeras o de caracoles, de postales o de figuritas.
-Bueno, está muy bien tener esas colecciones, pero es muchísimo más divertido hacer una colección de dibujos propios.
-Por ejemplo, a los que les gustan las flores pueden dibujar todas las flores distintas que encuentren, con lápices de colores o pinturas. Las flores dibujadas así nunca se marchitan, como pasa con las de verdad si se las arranca, y con el tiempo vas a tener un registro espléndido de todas las flores que encontraste.
-Alguno dirá que las flores son muy difíciles de dibujar; en ese caso, hacé una colección de las banderas de los distintos países.
-Un lobato puede dibujarlas con lápices de colores y un pedazo de papel, y podría agregar las banderas de los distintos dominios británicos de ultramar y las del código de señales naval.
-Vas a saber más sobre colecciones cuando empieces a preparar tu especialidad de Coleccionista.
-**ÁLBUMES DE RECORTES DE LOS LOBATOS**
-Los lobatos tendrían que llevar álbumes de recortes. Pueden ser muy interesantes, con dibujos, fotos y recortes de diarios. Todo tiene que estar ordenado y bien pegado, y seguramente, dentro de unos años, esos álbumes van a ser interesantísimos para sus dueños.
-Lo sé porque llevé álbumes de recortes toda mi vida, y no solo me parecen muy interesantes, sino que muchas veces son valiosos para recordarme cosas que pasaron hace mucho.
-Mi primer álbum empieza con un retrato de mi padre y mi madre, ¡y después un dibujo que hice cuando tenía solo tres años! Como dibujo no es gran cosa, pero igual es divertido ver lo que intentaba hacer cuando era un lobato tan chico.
-Pero una de las partes más divertidas es armar el álbum y pegar las cosas. Tenerlo prolijo, limpio y ordenado es todo un arte. Así empiezo yo.
-Si puedo, consigo un álbum de hojas de cartulina fina, porque el papel fino común se arruga cuando le pegás algo; pero, claro, cualquier cuaderno es mejor que nada.
-Lo mejor es que el álbum tenga unos 30 por 20 centímetros, porque uno más chico se llena enseguida, y muchas veces vas a querer poner una foto grande.
-En la primera página, escribí tu nombre y la fecha en que empezás el álbum. Siempre es lindo empezar a principio de año o en tu cumpleaños, para tener un álbum por año, como tengo yo, o uno para cada parte de tu vida.
-Por ejemplo, si vas a la escuela, podrías tener un álbum para fotos de tu escuela y de tus amigos de ahí, y programas de actos o competencias deportivas —vas a disfrutar muchísimo mirándolo cuando seas grande—, y después, tal vez, un segundo álbum para tu vida en casa y tus vacaciones.
-Pero, claro, hacer un álbum es solo un pasatiempo extra y no puede interferir con tus otras actividades y juegos de lobato, así que no podés estar todo el tiempo jugando con el engrudo, recortando papel y desordenando tu cuarto.
-El mejor plan (por lo menos para mí) es tener un sobre bastante grande donde ir guardando todo lo que te parezca interesante.
-Fotos de scouts de campamento, notas interesantes de los diarios y fotos de todo tipo van a quedar juntas y ordenadas, listas para que las clasifiques en un rato libre de un día de lluvia.
-Por supuesto, si podés sacar fotos vos mismo, es especialmente lindo guardarlas, pero eso es bastante caro. Lo más lindo y lo mejor de todo es dibujar vos mismo las cosas en tu álbum.
-Si dibujás bien de esta manera, tal vez puedas presentarte a la prueba y ganar tu especialidad de Artista.
-Cuando llegue el momento de pegar tus "recortes" en el álbum, vas a necesitar engrudo. El engrudo de harina o almidón es muy fácil de hacer, y se hace así:
-Poné una cucharadita y media de harina (o terrones de almidón) en un bol chico. Agregá un poco de agua fría y revolvé hasta hacer una pasta fina. Después agregá agua hirviendo, revolviendo todo el tiempo, hasta que quede una pasta espesa y azulada; y no te olvides de ponerle unos clavos de olor para que no se agrie.
-Además, necesitás un pincel para el engrudo, una tijera, algo que sirva de papelero (porque recortar ensucia mucho el cuarto), un lápiz para escribir nombres y fechas debajo de las fotos, y un diario viejo.
-El diario es algo excelente, que a mí me resulta utilísimo y por eso te lo recomiendo: ponés la foto boca abajo sobre el diario, untás todo el revés, los bordes y las esquinas con engrudo, y después la ponés en su lugar en el álbum. La parte del diario donde untaste queda toda pegajosa, pero doblando la hoja tenés otro "lugar para untar" limpio.
-Muchas veces las fotos tienen un borde oscuro alrededor, y queda más lindo recortarlo; también queda muy prolijo cortarles apenas las esquinas.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

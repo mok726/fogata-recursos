@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - campamento
   - improvisacion
 
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,15 +144,19 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Billar de Campamento!
+# Billar de Campamento
 
 ## Resumen
 La mesa de billar es una bolsa lisa estirada en el suelo parejo, con bastones como bandas. Las bolas son pelotitas y los tacos, los mismos bastones. Un juego simple para armar y jugar en el campamento.
 
 ## Desarrollo
-1. Estirá la bolsa o la lona en un lugar bien parejo.
-2. Rodeala con bastones a modo de bandas. Si querés, marcá troneras en las esquinas.
-3. Jueguen con las reglas de billar o pool que conozcan, o inventen las suyas.
+Un billar improvisado en el campamento, armado con lo que hay a mano.
+
+1. Se busca un pedazo de suelo bien parejo y se extiende encima una bolsa grande y lisa (de arpillera, por ejemplo): esa es la mesa.
+2. Alrededor de la bolsa se acuestan bastones scouts, que hacen de «bandas», es decir, los bordes de la mesa contra los que rebotan las bolas.
+3. En vez de bolas de billar se usan pelotitas de golf viejas.
+4. En vez de taco, cada jugador usa su propio bastón scout para pegarles a las pelotitas.
+5. Con esto armado, se juega como al billar común, con las reglas que conozca el grupo.
 
 ## Cierre
 - ¿Qué otros juegos se pueden improvisar con lo que hay en el campamento?
@@ -162,15 +169,12 @@ La mesa de billar es una bolsa lisa estirada en el suelo parejo, con bastones co
 
 The billiard table consists of a smooth sack placed on a level piece of ground-the " cushions " being made of Scout staves. Old golf balls take the place of the usual ivory kind, and instead of a proper billiard cue the Scouts use their staves.
 
-**Versión en español:**
-
-**BILLAR DE CAMPAMENTO.**
-
-La mesa de billar es una bolsa lisa puesta sobre un pedazo de suelo parejo, y las "bandas" se hacen con bastones scouts. Las pelotitas de golf viejas reemplazan a las bolas de marfil de siempre, y en vez de un taco de billar de verdad, los scouts usan sus bastones.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 9. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 9: «Camp Billiards». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

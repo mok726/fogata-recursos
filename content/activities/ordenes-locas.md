@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Órdenes Locas"
+title: "Pandemónium"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ordenes-locas/"
@@ -9,13 +9,13 @@ summary: "Cumplir tu orden secreta en medio del caos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,31 +133,45 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Órdenes Locas
-
-## De qué se trata
-Cada jugador recibe una tarjeta con una orden. Por ejemplo: «Conseguí tres firmas», «Llevá la silla roja al rincón», «Que nadie se siente en la silla roja», «Hacé que tu patrulla cante el himno scout», «Juntá todos los pañuelos verdes». A la orden, todos intentan cumplir la suya a la vez. Gana el que la cumple primero, o los que la cumplen antes de que termine el tiempo.
+# Pandemónium
 
 ## Preparación
 1. Escribí una orden por jugador. Que sean variadas y algunas choquen con otras: una lleva la silla a un rincón y otra la tiene que llevar al rincón opuesto.
 2. Se pueden escribir en una clave simple para que primero haya que descifrarlas.
 
-## Cómo se juega
-1. Cada uno recibe su tarjeta y la lee en secreto.
-2. A la orden, todos intentan cumplir la suya.
-3. Pueden pedir ayuda, negociar o convencer a otros.
-4. Cuando alguien la cumple, se la muestra al que dirige.
-5. Se juega cinco minutos. Gana el que la cumplió primero.
+## Resumen
+Un juego caótico y muy divertido: cada uno tiene una orden secreta que cumplir, y algunas órdenes chocan con las de otros.
 
-## Reglas
-- Nadie puede usar la fuerza ni quitarle cosas a otro.
+## Desarrollo
+1. Antes de jugar, el que dirige prepara una tarjeta para cada jugador, cada una con una orden escrita. Por ejemplo: «Juntá tres zapatillas de otros», «Hacé que todos se sienten», «Llevá la silla de la punta al otro rincón», «No dejes que nadie toque la puerta».
+2. Algunas órdenes tienen que ser para impedir que se cumplan otras. Por ejemplo, si uno tiene que juntar las mochilas en un rincón, otro puede tener la orden de que no haya ninguna mochila en ese rincón.
+3. Se reparte una tarjeta a cada jugador, que la lee en secreto.
+4. Apenas el que dirige da la señal de empezar, todos tratan de cumplir su orden al mismo tiempo.
+5. El juego funciona mejor cuanto más originales y variadas sean las órdenes.
 
-## Para cerrar
+**Órdenes en clave (variante del original):** las órdenes se escriben en una clave muy simple, así que primero hay que descifrarlas para saber qué hacer. Por ejemplo, cambiando cada letra por la que le sigue en el abecedario.
+
+## Cierre
 - ¿Qué pasó cuando dos órdenes chocaban? ¿Cómo lo resolvieron?
 - ¿Negociaron? ¿Se ayudaron?
 
-## Notas para educadores
+## Notas para el educador
 - El juego da para charlar sobre negociación y conflictos: dos personas con objetivos opuestos pueden buscar una solución en la que ganen las dos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PANDEMONIUM.**
+
+Each player is given a card on which is an order. As soon as the game starts all try to carry out the orders on their cards. The success of the game depends on the originality, variety, etc., of the orders. Some should be to prevent others being carried out.
+
+Variation.—To put the orders in a very simple code.
+
 ---
-**Fuente:** inspirada en el juego «Pandemonium» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 23, «Pandemonium». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

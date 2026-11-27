@@ -117,3 +117,19 @@
 .footer-redes a.red-bluesky:hover, .footer-redes a.red-bluesky:focus-visible { background: #1185fe; }
 .footer-redes a.red-mastodon:hover, .footer-redes a.red-mastodon:focus-visible { background: #6364ff; }
 .footer-redes a.red-github:hover, .footer-redes a.red-github:focus-visible { background: #000; }
+
+/* Logo de la licencia CC en la columna «Legal». */
+.footer-bottom a.footer-cc {
+  display: inline-block;
+  margin-top: 0.25rem;
+  line-height: 0;
+}
+.footer-cc img {
+  display: block;
+  width: 88px;
+  height: auto;
+}
+.footer-cc:focus-visible {
+  outline: 2px solid #cbd5e1;
+  outline-offset: 3px;
+}

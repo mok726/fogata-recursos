@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -68,11 +69,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -147,16 +148,23 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades, buscando la superación personal y colectiva.
 ---
 
-# ¡Tejer y Trenzar!
+# Tejer y Trenzar
 
 ## Resumen
-B-P dice que un lobato debería saber tejer: los hombres de Shackleton en el Ártico tejían sus medias y sus guantes. Cuenta que en las montañas de Cachemira usaba sandalias de pasto trenzado, tan buenas que "podría haber caminado por la pared", y que se las hacía mientras caminaba porque duraban dos o tres días. También aconseja saber hacer canastos con ramitas o juncos.
+Una charla de B-P para los lobatos sobre por qué vale la pena aprender a tejer, trenzar y hacer canastos. Se puede contar en la Manada antes de un taller de manualidades.
 
 ## Desarrollo
-1. Cuenten la historia de B-P y sus sandalias de pasto.
-2. Postas a elección: trenzar tres tiras para hacer una pulsera o un cordón; tejer en un telar de cartón o con agujas gruesas; hacer un canastito con juncos o con tiras de papel de diario enrolladas.
-3. Los que ya saben ayudan a los que empiezan.
-4. Muestren lo que hicieron y piensen para qué se puede usar (un cordón para el pañuelo, un portalápices, un posavasos).
+**La idea:** tejer no es nada difícil y es muy útil para hacer cosas para uno o para los demás, sobre todo si algún día salís a explorar lugares lejanos.
+
+**Lo que cuenta B-P:**
+1. Los hombres de Shackleton, el explorador de las expediciones a los polos, sabían tejerse sus propias medias y guantes. Y él conoció a muchos viajeros, cazadores y soldados, sobre todo escoceses, que se tejían sus medias.
+2. Trenzar también sirve. Cuando viajó por Cachemira, en la India, las laderas eran tan empinadas y resbaladizas que con sus botas no podía subir. Tuvo que hacer como la gente del lugar y usar «chaplis», unas sandalias tejidas con pasto. Agarraban tan bien que sentía que podía caminar por la pared y el techo como una mosca.
+3. Pero las sandalias de pasto duran poco: hacía falta un par nuevo cada dos o tres días. Así que aprendió a hacérselas él mismo. Mientras caminaba, trenzaba una soga larga de pasto, se la iba enrollando en el cuello y después, con ella, armaba las sandalias.
+4. También le sirvió mucho saber hacer canastos. En el campo no hay negocios donde comprar bolsos, y hace falta algo para llevar la comida, el pescado, la fruta o lo que se junte. Hay ramitas y juncos por todos lados; lo que hay que saber es tejerlos. Es fácil de aprender y muy lindo de hacer.
+
+**Para cerrar, según el original:** lo que se hace también se puede vender, y así se junta plata para uno, para la familia o para la Manada.
+
+**Cómo usarlo:** después de la charla, se puede enseñar a los lobatos un punto básico de tejido, una trenza de tres o un canasto sencillo de juncos o mimbre.
 
 ## Cierre
 - ¿Qué te costó más y cómo lo resolviste?
@@ -183,23 +191,8 @@ Similarly, I found it most valuable to be able to make baskets. In the wilds you
 There are plenty of twigs about and rushes. The thing is to know how to weave them into baskets. It is quite easy to learn and very pleasant to do.
 Of course, in a civilised country you can always sell these things when you have made them, and they bring in lots of money for you or your parents or your Pack.
 
-**Versión en español:**
-
-**TEJER Y TRENZAR**
-Una de las cosas que un lobato debería saber hacer es tejer. No es nada difícil de aprender, y es muy útil para hacer cosas para vos o para otros.
-Es especialmente útil si más adelante salís a lugares salvajes como pionero o explorador.
-Los hombres de Shackleton en las expediciones polares sabían tejer sus propias medias y guantes, y conocí a muchos cazadores, viajeros y soldados, sobre todo escoceses, que siempre podían tejerse sus medias.
-Tejer y trenzar también son saberes muy útiles.
-Cuando viajé por Cachemira, las laderas de las montañas eran tan empinadas y resbaladizas que era imposible subirlas con botas inglesas comunes, y tuve que hacer como la gente del lugar, es decir, usar "chaplis", unas sandalias tejidas con pasto.
-Eran comodísimas y agarraban tan bien que uno podía subir o bajar una ladera con tanta seguridad que sentía que podría haber caminado por la pared de una habitación y por el techo, ¡como una mosca!
-Pero, como te imaginarás, las sandalias de pasto no duran mucho, así que hacía falta un par nuevo cada dos o tres días.
-Por eso tuve que hacérmelas yo, y lo hacía tejiendo una soga larga de pasto, enrollándomela en el cuello y después trenzándola en forma de sandalia mientras caminaba durante la marcha del día.
-Del mismo modo, me resultó muy valioso saber hacer canastos. En lugares salvajes no podés comprar valijas ni bolsos donde quieras, pero necesitás algo para llevar la carne cuando cazaste, o para llevar pescado, fruta, bayas o verduras silvestres.
-Hay muchas ramitas y juncos por ahí. La cuestión es saber tejerlos para hacer canastos. Es muy fácil de aprender y muy lindo de hacer.
-Por supuesto, en un país civilizado siempre podés vender estas cosas una vez que las hiciste, y te traen mucha plata para vos, para tus padres o para tu Manada.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera de Espaldas en Trío"
+title: "Carrera de Espaldas por Equipos"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-de-espaldas-en-trio/"
@@ -9,13 +9,13 @@ summary: "Correr en trío, dos de espaldas y uno que guía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,23 +132,33 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Carrera de Espaldas en Trío
+# Carrera de Espaldas por Equipos
 
-## De qué se trata
-Los jugadores se agrupan de a tres, agarrados del brazo. Los dos de las puntas miran para atrás y el del medio, hacia la meta. El del medio guía. Así tienen que llegar hasta la meta sin soltarse.
+## Resumen
+Una carrera de tríos que corren de espaldas, guiados por el compañero del medio.
 
-## Cómo se juega
-1. Formen tríos agarrados del brazo, codo con codo.
-2. Los dos de las puntas se ponen de espaldas a la meta. El del medio mira hacia la meta.
-3. A la orden, avanzan. El del medio guía: «¡Más rápido! ¡Un poco a la izquierda!».
-4. Si se sueltan, vuelven a la salida.
-5. Gana el primer trío que cruza la meta entero.
+## Desarrollo
+1. Se arman equipos de 3 jugadores. Se paran uno al lado del otro y se toman del brazo.
+2. Los dos de los costados se ponen de espaldas a la meta. El del medio, en cambio, mira hacia la meta: es el que ve el camino y guía al equipo.
+3. A la señal, todos los tríos corren hacia la meta sin soltarse. Los de los costados van para atrás, y el del medio les avisa por dónde ir.
 
-## Reglas
-- Nada de correr a toda velocidad: se camina rápido.
+**Cómo se gana:** gana el primer equipo que llega a la meta entero, sin soltarse.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sintieron los que iban de espaldas, confiando en el del medio?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BACKWARDS TEAM RACE.**
+
+Teams in line with arms linked (3 is a good number for a team), backs to the winning post, except the centre player of the team, who faces the winning post and steers his team. First team finishing intact wins.
+
 ---
-**Fuente:** inspirada en el juego «Backwards Team Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 29, «Backwards Team Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

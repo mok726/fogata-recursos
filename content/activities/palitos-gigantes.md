@@ -9,13 +9,13 @@ summary: "Sacar bastones de una pila sin mover los demás."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,36 +136,47 @@ rama_rovers:
 
 # Palitos Gigantes
 
-## De qué se trata
-Se tiran todos los bastones juntos en el piso, bien mezclados. Por turno, cada jugador usa su propio bastón como gancho o rastrillo para sacar palos de la pila. Si saca uno sin que se mueva ningún otro, se lo queda y sigue. Gana quien junte más.
-
 ## Preparación
 1. Juntá los bastones y revisá que no tengan astillas ni clavos.
 2. Marcá en el piso un círculo grande o un cuadrado donde va la pila.
 
-## Cómo se juega
-1. Formen una ronda alrededor del lugar de la pila, todos con un bastón en la mano.
-2. El que dirige agarra todos los bastones juntos, parados, y los suelta para que caigan mezclados.
-3. Empieza el más chico. Con la punta de su bastón tiene que arrastrar, levantar o empujar un palo de la pila hasta sacarlo afuera del círculo.
-4. Mientras lo saca, ningún otro palo se puede mover. Todos miran con atención: si alguno se mueve aunque sea un poquito, se avisa.
-5. Si lo logró, se queda con ese palo y vuelve a jugar. Si movió otro, pierde el turno y le toca al de al lado.
-6. Cuando la pila queda tan trabada que nadie puede sacar nada, se juntan los palos que quedan y se vuelven a tirar.
-7. Cuando no quedan más palos, cada uno cuenta los suyos. Gana el que tiene más.
+## Resumen
+Es como el juego de los palitos chinos, pero con bastones scouts, y se juega en el piso.
 
-## Reglas
-- Solo se puede tocar la pila con el bastón, nunca con las manos.
-- No se vale empujar con el pie ni soplar.
+## Desarrollo
+1. Se juntan todos los bastones en una pila en el piso, bien mezclados y cruzados unos sobre otros. Cada jugador se queda con un bastón propio aparte: es su herramienta.
+2. Por turno, cada jugador usa su bastón como si fuera un rastrillo o un gancho para sacar un bastón de la pila, arrastrándolo, empujándolo o levantándolo.
+3. Mientras saca ese bastón, ningún otro de la pila se puede mover. Los demás miran con atención.
+4. Si lo saca sin mover ningún otro, se lo queda y vuelve a jugar. Si se mueve otro bastón, pierde el turno y le toca al siguiente.
+5. Si la pila queda tan trabada que ya casi no se puede sacar ninguno, conviene volver a mezclarla.
+
+**Cómo se gana:** cuando no quedan bastones en la pila, gana el que juntó más.
 
 ### Variante: Palos con puntaje
 Pintá una franja de color en algunos palos: los comunes valen 1 punto y los pintados, 3. Así conviene arriesgarse a sacar los difíciles.
 
-## Para cerrar
+## Cierre
 - ¿Qué palos convenía sacar primero?
 - ¿Qué les costó más: tener paciencia o tener buen pulso?
 
-## Notas para educadores
+## Notas para el educador
 - Es un buen juego tranquilo para después de una actividad movida o para un día de lluvia en el local.
 - Mantené la ronda abierta para que nadie quede detrás de otro con un palo en la mano.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GIANT SPILLIKINS.**
+
+A heap of staves is jumbled up on the floor. Each player in turn by using his own staff, as a rake, tries to remove as many other staves as he can without shaking any of the heap. If he succeeds he has another turn, if not the next player goes.
+
+If the game becomes almost impossible a re-shuffle is desirable. Player collecting most staves wins.
+
 ---
-**Fuente:** inspirada en el juego «Giant Spillikins» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 34, «Giant Spillikins». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Corran la Silla"
+title: "Corran el Asiento"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/corran-la-silla/"
@@ -9,13 +9,13 @@ summary: "Correrse de silla antes que el del medio la ocupe."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,28 +133,36 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Corran la Silla
+# Corran el Asiento
 
-## De qué se trata
-Las sillas forman una ronda y hay una sola vacía. Uno está parado en el medio. Los sentados se van corriendo hacia la silla vacía de al lado, para que siempre haya alguien que la ocupe. El del medio intenta sentarse en la vacía antes que nadie. Cuando lo logra, el que se quedó sin silla pasa al medio.
+## Resumen
+Un juego de ronda con asientos: todos se van corriendo de lugar mientras uno trata de quedarse con el asiento vacío.
 
-## Cómo se juega
-1. Pongan las sillas en ronda, mirando al centro. Todos se sientan menos uno, que va al medio. Queda una silla vacía.
-2. El de al lado de la silla vacía se corre a ocuparla. Ahora queda vacía la suya, y el siguiente se corre, y así.
-3. Todos se van corriendo siempre para el mismo lado, lo más rápido que pueden.
-4. El del medio intenta sentarse en la silla vacía antes que el que se corre.
-5. Si lo logra, el que se quedó parado pasa al medio.
-6. Cada tanto, el que dirige grita «¡Cambio!» y se empiezan a correr para el otro lado.
+## Desarrollo
+1. Se arma una ronda grande de asientos: sillas, bancos, troncos, cajones, lo que haya, aunque sean de distintas alturas.
+2. Cada jugador se sienta en un asiento, menos uno, que se para en el centro. Así queda siempre un asiento vacío.
+3. Los jugadores sentados tienen que ir corriéndose al asiento de al lado apenas queda libre, siempre en el mismo sentido. Así el asiento vacío va «viajando» por la ronda.
+4. El del centro trata de sentarse en el asiento vacío antes de que lo ocupe alguno de la ronda.
+5. Cuando lo logra, el jugador que se quedó sin lugar (el que tenía que ocupar ese asiento y no llegó) pasa al centro, y el juego sigue.
 
-## Reglas
-- Hay que sentarse de verdad, no apoyarse.
-- No se vale empujar al del medio.
-
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron para que el del medio no pudiera sentarse?
 
-## Notas para educadores
+## Notas para el educador
 - Usá sillas firmes. Si son plásticas livianas, mejor bancos largos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASS ALONG THE CAR.**
+
+Players seated round a large circle of seats of various heights, one player in the centre and one vacant seat. Players move round the circle to occupy the next seat as it falls vacant. Player in centre tries to occupy the vacant seat first. When he succeeds the player ousted takes his place.
+
 ---
-**Fuente:** inspirada en el juego «Pass Along the Car» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 12, «Pass Along the Car». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

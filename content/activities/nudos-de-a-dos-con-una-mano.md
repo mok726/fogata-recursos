@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Nudos de a Dos con una Mano"
+title: "Nudos en Pareja"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/nudos-de-a-dos-con-una-mano/"
@@ -9,13 +9,13 @@ summary: "Hacer nudos de a dos, usando una mano cada uno."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -132,25 +138,41 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Nudos de a Dos con una Mano
-
-## De qué se trata
-Los jugadores se ponen en parejas, cada uno con un cabo de soga y con una mano atrás de la espalda. Entre los dos, usando solo la mano libre de cada uno, tienen que unir las dos sogas con el nudo que diga el que dirige. Gana la primera pareja que lo hace bien.
+# Nudos en Pareja
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
-1. Formen parejas. Cada uno pone una mano atrás de la espalda.
-2. El que dirige dice el nudo: «¡Nudo de rizo!».
-3. Entre los dos, con una mano cada uno, unen las dos sogas.
-4. Tienen que ponerse de acuerdo: uno sostiene mientras el otro pasa la punta.
-5. La primera pareja que termina levanta el nudo. Si está bien, suma un punto.
-6. Siguen con otros nudos.
+## Resumen
+Un juego de nudos en pareja en el que cada uno puede usar una sola mano. Hay que ponerse de acuerdo para atar entre los dos.
 
-## Para cerrar
+## Desarrollo
+1. Los jugadores se ponen de a dos. Cada uno tiene un pedazo de soga.
+2. Cada jugador pone una mano atrás de la espalda y no la puede usar en todo el juego.
+3. El que dirige dice qué nudo hay que hacer para unir dos sogas, por ejemplo un nudo llano o una vuelta de escota.
+4. Cada pareja tiene que unir sus dos sogas con ese nudo, usando entre los dos solo las dos manos libres.
+5. El que dirige revisa el nudo de cada pareja.
+
+**Cómo se gana:** gana la primera pareja que termina el nudo bien hecho.
+
+**Otros nudos (variante del original):** se puede jugar con otros nudos, cambiando el que se pide en cada vuelta.
+
+## Cierre
 - ¿Cómo se organizaron? ¿Uno dirigía o se iban turnando?
 - ¿Qué pasa en la patrulla cuando cada uno tiene solo una parte de lo que hace falta?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PAIRS KNOTTING.**
+
+Players in pairs; each player, having a piece of rope, puts one hand behind his back. The pairs then try to tie their two ropes together with whatever knot is desired. First pair correct wins. Can be varied to suit other knots.
+
 ---
-**Fuente:** inspirada en el juego «Pairs Knotting» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Pairs Knotting». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

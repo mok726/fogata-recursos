@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -62,6 +62,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - naturaleza
   - plantas
@@ -75,7 +76,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -147,16 +151,26 @@ rama_rovers:
   - 37   # Valoro la naturaleza como una oportunidad de conexión conmigo mismo y con lo trascendente.
 ---
 
-# ¡Herbario y Huerta de Patrulla!
+# Herbario y Huerta de Patrulla
 
 ## Resumen
-B-P propone varias prácticas para conocer las plantas: juntar hojas, frutos y flores y observar el árbol en verano y en invierno; calcar hojas y escribir el nombre del árbol; reconocer cultivos en sus distintas etapas; hacer una huerta de patrulla o individual; y conocer las plantas silvestres comestibles. Como desafío, una colección prensada de al menos 25 hojas con su nombre, y un premio al mejor cantero de flores cultivado por cada uno. La huerta puede producir para vender y juntar fondos.
+Un conjunto de actividades de naturaleza propuestas por B-P: reconocer árboles y cultivos, armar una colección de hojas y tener una huerta de patrulla.
 
 ## Desarrollo
-1. **Colección:** junten hojas y prénsenlas entre hojas de diario con peso, una semana. Péguenlas con el nombre del árbol, o calquen o dibujen la hoja.
-2. **Estaciones:** elijan un árbol y vuelvan a observarlo en otra estación.
-3. **Cultivos:** visiten una huerta o una chacra y aprendan a reconocer los cultivos desde que brotan.
-4. **Huerta:** armen un cantero o macetas de patrulla. Repartan tareas de riego y cuidado.
+**Prácticas:**
+
+1. **Muestras de árboles.** Salgan con los scouts a juntar hojas, frutos o flores de distintos árboles y arbustos. Observen la forma y el aspecto de cada árbol, y vuelvan a verlos en verano y en invierno para notar cómo cambian.
+2. **Hojas calcadas.** Junten hojas de distintos árboles. Cada scout las calca en un papel y escribe al lado el nombre del árbol.
+3. **Cultivos.** En el campo, que los scouts miren los cultivos en todas sus etapas, desde que asoman hasta la cosecha, para que aprendan a reconocer a simple vista qué se está sembrando.
+4. **Huerta.** Si se puede, empiecen una huerta de patrulla o una huerta de cada scout. Que cultiven flores y verduras y las vendan para pagar su equipo.
+5. **Plantas comestibles.** Muéstrenles las plantas silvestres que se pueden comer.
+
+**Competencias:**
+
+- **Colección de hojas.** Un scout de primera clase puede sumar puntos para una insignia con una colección de por lo menos veinticinco tipos de hojas, prensadas, con el nombre de cada una escrito prolijo al lado. Vale 3 puntos. Si en lugar de prensarlas las dibuja en papel, vale 4.
+- **Cantero de flores.** Un premio para el mejor cantero o maceta de flores sembrado y cuidado por el propio scout.
+
+**Huerta para vender (variante del original):** la patrulla o la tropa puede trabajar una parcela o una huerta y vender lo que produce para juntar fondos.
 
 ## Cierre
 - ¿Qué árbol les costó más identificar?
@@ -199,30 +213,8 @@ himself._
 MARKET GARDENING.--The patrol or troop can work an allotment or other
 garden and sell the produce for their fund.
 
-**Versión en español:**
-
-**PRÁCTICAS.**
-
-Saquen a los scouts a conseguir muestras de hojas, frutos o flores de distintos árboles, arbustos, etc., y a observar la forma y el carácter del árbol, tanto en verano como en invierno.
-
-Junten hojas de distintos árboles; que los scouts las calquen y escriban en cada una el nombre del árbol.
-
-En el campo, hagan que los scouts examinen los cultivos en todas las etapas de su crecimiento, para que reconozcan bastante bien a simple vista qué clase de cultivo está saliendo.
-
-Empiecen huertas, si es posible, ya sea una huerta de patrulla o una huerta individual de cada scout. Que cultiven flores y verduras para vender y pagar su equipo, etc.
-
-Muestren todas las plantas silvestres que se pueden aprovechar como alimento.
-
-**COMPETENCIAS Y JUEGOS.**
-
-Se pueden dar puntos para una Insignia de Honor a los scouts de primera clase por una colección de no menos de veinticinco tipos de hojas, prensadas, con los nombres prolijamente escritos al lado. Puntos: 3; o las hojas se pueden dibujar en papel. Puntos posibles: 4.
-
-Premio al mejor cantero de flores sembrado y cultivado por el propio scout.
-
-**HUERTA PARA VENDER.** La patrulla o la tropa puede trabajar una parcela u otra huerta y vender lo que produce para su fondo.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Para Dónde Queda la Puerta?"
+title: "¿Para Qué Lado?"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/para-donde-queda-la-puerta/"
@@ -9,13 +9,13 @@ summary: "Orientarse a ciegas tocando objetos conocidos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,22 +136,35 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¿Para Dónde Queda la Puerta?
+# ¿Para Qué Lado?
 
-## De qué se trata
-Se marca un círculo en el piso con tres o cuatro objetos adentro. Cada jugador lo mira unos segundos. Después de un rato, con los ojos vendados, lo llevan hasta el borde del círculo. Tiene que entrar, tocar los objetos para ubicarse y señalar para dónde queda la puerta (o el árbol, o el mástil).
+## Resumen
+Un juego para orientarse dentro de un salón sin ver.
 
-## Cómo se juega
-1. Pongan los objetos dentro del círculo, en lugares fijos.
-2. Cada jugador mira el círculo y el lugar durante 20 segundos.
-3. Se distraen un rato con otra cosa.
-4. El jugador se venda los ojos. Un compañero lo hace girar y lo lleva hasta un punto cualquiera del borde.
-5. El jugador entra, toca los objetos y piensa dónde está cada uno.
-6. Señala con el brazo para dónde cree que queda la puerta. Si acierta, suma un punto.
+## Desarrollo
+1. Se dibuja con tiza un círculo en el piso y se ponen adentro 3 o 4 objetos distintos (una silla, una mochila, una caja).
+2. Cada jugador, por turno, mira el círculo unos momentos y se fija dónde está cada objeto.
+3. Después de algo que lo distraiga, se le vendan los ojos y se lo lleva hasta el borde del círculo, girándolo un poco para que pierda la orientación.
+4. El jugador entra al círculo, toca los objetos para reconocerlos y, con eso, tiene que señalar hacia dónde cree que está la puerta (o cualquier otro punto que se elija).
 
-## Para cerrar
+**Cómo se gana:** gana el que señala con más exactitud. Se puede jugar por equipos.
+
+## Cierre
 - ¿Qué objeto les sirvió más para ubicarse?
 - ¿Cómo se usa esto para orientarse en el campamento de noche?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHICH WAY?**
+
+A circle is chalked on the floor, in which are put 3 or 4 different objects. Each player in turn looks at the circle for a few moments. After some distraction he is blindfolded and led to the edge of the circle. He must then enter the circle and by feeling the objects therein point in the direction in which he thinks that the door (or any other feature chosen) lies. This may be made a team game.
+
 ---
-**Fuente:** inspirada en el juego «Which Way?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 108, «Which Way?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -56,6 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - punteria
@@ -67,7 +68,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -134,20 +138,29 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Derribá las Botellas!
+# Derribá las Botellas
 
 ## Resumen
-Dos patrullas compiten. Los blancos (uno por jugador) representan a la patrulla contraria. Las dos patrullas, en fila a unos 20 m de los blancos, tiran a la señal. Cada vez que cae un blanco, el árbitro le indica al jugador correspondiente de la otra patrulla que se siente. Se juega hasta que cae toda una patrulla, o con proyectiles o tiempo limitado (un minuto).
+Un juego de puntería entre dos patrullas: cada blanco que cae deja afuera a un jugador del equipo contrario.
 
 ## Desarrollo
-1. Poné los blancos de cada patrulla en una fila, numerados según sus jugadores.
-2. Las patrullas se ubican a 20-25 m.
-3. A la señal, tiran. Por cada blanco caído, el árbitro hace sentar a un jugador rival.
-4. Gana la patrulla a la que le queda gente parada.
+En el original se llama *Shoot Out* («tiroteo»), porque los blancos hacen de los jugadores del otro equipo.
 
-> **Nota para el educador:** el original usa botellas o ladrillos y piedras. Lo cambiamos por botellas plásticas y pelotas porque el vidrio roto y las piedras son un riesgo serio; el juego es el mismo.
+1. **Se arman los blancos.** Cada patrulla para en el suelo, en fila, tantas botellas o ladrillos como jugadores tenga la patrulla contraria. Cada blanco representa a un jugador del otro equipo. Hoy conviene usar botellas de plástico o latas en vez de botellas de vidrio.
+2. **Se forman las patrullas.** Las dos patrullas se ponen en fila, una al lado de la otra, a unos 20 metros de los blancos.
+3. **Se tira.** Cuando el árbitro dice «¡Fuego!», todos tiran piedritas (o pelotitas) contra los blancos del otro equipo.
+4. **Cuando cae un blanco,** el árbitro le indica al jugador que ese blanco representa que se siente: quedó eliminado y ya no tira.
+5. **El juego sigue** hasta que todos los jugadores de una patrulla quedan eliminados, si hay suficientes piedras.
 
-> **Nota de seguridad:** nadie se acerca a los blancos mientras se tira. Se juntan las pelotas solo cuando el árbitro lo indica.
+**Cómo se gana:** gana la patrulla que deja eliminada a toda la otra.
+
+**Con límite (variante del original):** en vez de jugar hasta el final, se le da a cada patrulla una cantidad fija de piedras, o se fija un tiempo, por ejemplo un minuto.
+
+El original no dice quién gana en esta variante; una opción es que gane la patrulla que tiene más jugadores todavía en pie cuando se terminan las piedras o el tiempo.
+
+## Cierre
+- ¿Qué les sirvió para apuntar mejor?
+- ¿Cómo se organizó la patrulla para decidir quién tiraba?
 
 ## Texto original completo de la actividad
 
@@ -162,12 +175,8 @@ on, if there are plenty of stones, till the whole of one patrol is
 killed. Or a certain number of stones can be given to each patrol, or a
 certain time limit, say one minute.
 
-**Versión en español:**
-
-**"TIROTEO."** Compiten dos patrullas. Blancos: botellas o ladrillos parados que representan a la patrulla contraria. Las dos patrullas se forman en fila a unas 20 o 25 yardas de los blancos. A la voz de "fuego", tiran piedras a los blancos. Apenas cae un blanco, el árbitro le indica al jugador correspondiente de la otra patrulla que se siente: muerto. El juego sigue, si hay suficientes piedras, hasta que muere toda una patrulla. O se puede dar a cada patrulla una cantidad fija de piedras, o fijar un tiempo límite, digamos un minuto.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

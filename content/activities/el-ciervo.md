@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Ciervo"
+title: "Cómo Enseñar el Acecho"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-ciervo/"
@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -58,6 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - juego-scout
   - acecho
@@ -70,7 +71,10 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting for Boys"
+  - title: "Scouting for Boys (impreso original)"
+    author: "Robert Baden-Powell"
+    year: 1908
+  - title: "Scouting for Boys (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1908
     series: "Project Gutenberg, eBook #65993"
@@ -138,25 +142,26 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Ciervo!
+# Cómo Enseñar el Acecho
 
 ## Resumen
-El educador hace de "ciervo": se queda parado, moviéndose apenas. Los participantes tratan de acercarse sin ser vistos. En la variante con los ojos vendados, hay que acercarse sin hacer ruido. Antes del juego se muestra cómo el color del fondo ayuda a pasar desapercibido.
+Una práctica de *Scouting for Boys* para aprender a acechar, es decir, a acercarse a alguien sin que te vea ni te escuche, como un cazador que se arrima a un ciervo.
 
 ## Preparación
 **Demostración del camuflaje.** Mandá a un participante a unos 100 a 300 m y pedile que se pare contra distintos fondos, hasta encontrar uno parecido al color de su ropa. El resto observa cómo se vuelve casi invisible con el fondo justo: alguien de gris se ve contra arbustos oscuros, pero no contra una piedra o una pared gris; alguien de ropa oscura se ve en un campo verde, pero no en el hueco de una puerta en sombra.
 
 ## Desarrollo
-**El ciervo**
-1. El educador se para en un lugar visible. No se esconde, pero puede moverse un poco de vez en cuando.
-2. Los participantes salen a buscarlo y cada uno, a su manera, trata de acercarse sin que lo vea.
-3. Cuando el ciervo ve a alguien, le indica que se pare: quedó afuera.
-4. Al terminar el tiempo, todos se paran donde llegaron. Gana quien quedó más cerca.
+**Primero, el color del fondo.** Para mostrar por qué importa que el color de la ropa se parezca al del fondo, se manda a un chico a unos 450 metros. Desde ahí, se va parando delante de distintos fondos, uno por vez, hasta encontrar uno parecido al color de su ropa. El resto de la patrulla mira y se da cuenta de cuánto «desaparece» cuando el fondo es el adecuado. Por ejemplo, un chico con ropa gris se ve bastante delante de arbustos oscuros, pero mucho menos delante de una roca o una pared gris; uno con ropa oscura se ve muchísimo en un campo verde, pero casi nada si se para en una puerta abierta, contra la sombra oscura de adentro.
 
-**El ciervo ciego (pisar sin ruido)**
-1. El árbitro se venda los ojos, en un lugar con ramitas secas y piedritas en el piso.
-2. Cada participante sale desde unos 90 m y tiene un minuto y medio para tocarlo antes de que lo oiga.
-3. Si el árbitro oye a alguien, lo señala y queda afuera.
+**El juego del ciervo.**
+1. El instructor hace de ciervo: no se esconde, se queda parado, y si quiere se mueve un poco de vez en cuando.
+2. Los scouts salen a buscarlo y cada uno, a su manera, trata de acercarse sin ser visto, aprovechando arbustos, pozos, sombras y el color del terreno.
+3. Apenas el instructor ve a un scout, se lo señala y le indica que se ponga de pie: ese scout falló y queda donde está.
+4. Pasado un tiempo, el instructor grita «¡Tiempo!». Todos se paran en el lugar al que llegaron.
+
+**Cómo se gana:** gana el que quedó más cerca del ciervo.
+
+**El ciego (variante del original):** sirve para practicar pisar sin hacer ruido. El árbitro tiene los ojos vendados y escucha. Conviene jugarlo donde haya ramitas secas, piedritas o grava en el suelo. Cada scout empieza a unos 90 metros y tiene que llegar bastante rápido, en un minuto y medio más o menos, y tocar al ciego antes de que lo oiga. Si el ciego lo escucha y lo señala, falló.
 
 ## Cierre
 - ¿Qué te delató: el movimiento, el color, el ruido?
@@ -201,26 +206,8 @@ start to stalk the blind enemy at 100 yards distance, and he must do it
 fairly fast--say in one minute and a half--to touch the blind man before
 he hears him.
 
-**Versión en español:**
-
-**CÓMO ENSEÑAR EL ACECHO.**
-
-*Mostrá el valor de que el color de la ropa se adapte al fondo, mandando a un chico a unos 450 metros para que se pare contra distintos fondos, por turno, hasta que encuentre uno de color parecido al de su ropa.*
-
-*El resto de la patrulla observa y nota qué invisible se vuelve cuando tiene un fondo adecuado; por ejemplo, un chico de traje gris parado delante de arbustos oscuros se ve bastante, pero mucho menos si se para delante de una roca o una casa gris; un chico de traje oscuro se ve mucho en un campo verde, pero no cuando se para en el hueco de una puerta, contra la sombra oscura del interior.*
-
-**ACECHO.**
-
-El instructor hace de ciervo: no se esconde, sino que se queda parado, moviéndose un poco de vez en cuando si quiere.
-
-Los scouts salen a encontrarlo y cada uno, a su manera, trata de acercarse sin ser visto.
-
-Apenas el instructor ve a un scout, le indica que se pare, porque falló. Pasado cierto tiempo, el instructor dice "tiempo", todos se paran en el lugar al que llegaron, y gana el que está más cerca.
-
-El mismo juego se puede jugar para probar a los scouts en pisar suavemente, con el árbitro con los ojos vendados. La práctica conviene hacerla donde haya ramitas secas en el piso, grava, etc. El scout puede empezar a acechar al enemigo ciego desde unos 90 metros, y tiene que hacerlo bastante rápido (digamos en un minuto y medio) para tocar al ciego antes de que lo oiga.
-
 ---
-**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908). Dominio público. Texto tomado de Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
+**Fuente:** Robert Baden-Powell, *Scouting for Boys* (1908), impreso original. Dominio público. Versión alternativa en línea: Project Gutenberg, eBook #65993: https://www.gutenberg.org/ebooks/65993
 
 **Traducción:** Fogata de Recursos (2026).
 

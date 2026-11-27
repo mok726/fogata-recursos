@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Vidriera de Houdini"
+title: "Usá los Ojos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vidriera-de-houdini/"
@@ -54,6 +54,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
+  - "dominio-publico"
   - baden-powell
   - manada
   - wolf-cub
@@ -67,11 +68,11 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "The Wolf Cub's Handbook (9.ª ed.)"
+  - title: "The Wolf Cub's Handbook (9.ª ed.) (impreso original)"
     author: "Robert Baden-Powell"
     year: 1938
     series: "The Boy Scouts Association, Londres"
-  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944)"
+  - title: "The Wolf Cub's Handbook (reimpresión de la Boy Scouts Association de la India, 1944) (versión alternativa en línea)"
     author: "Robert Baden-Powell"
     year: 1944
     series: "Internet Archive, 2015.206592"
@@ -146,16 +147,20 @@ rama_rovers:
   - 21 # Valoro mi identidad y promuevo la herencia cultural, rescatando los saberes ancestrales de mi comunidad y de mi país.
 ---
 
-# ¡La Vidriera de Houdini!
+# Usá los Ojos
 
 ## Resumen
-B-P cuenta que el mago Houdini se entrenaba de chico mirando una vidriera unos segundos y, dándose vuelta, diciendo todo lo que había. La Manada hace lo mismo en una salida por el barrio, y además arma un cuaderno con veletas, estatuas y detalles que casi nadie mira.
+Una charla de B-P para lobatos sobre el hábito de observar, con varios ejercicios para practicar en la reunión y en la vida de todos los días.
 
 ## Desarrollo
-1. Salgan en grupo por una calle con negocios (o armen una "vidriera" en una mesa del local).
-2. Frente a una vidriera, cada lobato mira 10 a 15 segundos. Después se dan vuelta y cada uno dice o anota todo lo que recuerda.
-3. Comparen con la vidriera y cuenten aciertos. Repitan en otras vidrieras, con menos tiempo.
-4. Durante el recorrido, busquen cosas que casi nadie mira: veletas, estatuas, adornos de los edificios, placas. Dibújenlas en un cuaderno y anoten dónde están.
+**La idea.** Antes de ser un buen rastreador, un scout tiene que aprender a notar cada detalle que le sirva para llegar a su objetivo. Y no solo con los ojos: también con los oídos, la nariz y las manos. Sobre todo, tiene que usar la cabeza para deducir qué significa lo que nota. B-P propone practicarlo todo el día, no solo en la Manada, hasta que observar se vuelva una costumbre.
+
+**Lo que cuenta B-P de chico.** Se fijaba en el número de la placa de cada policía que se cruzaba y recordaba dónde lo había visto, sobre todo los que estaban siempre en la misma esquina dirigiendo el tránsito. Después llevaba a un amigo hasta ahí, y desde lejos, haciéndose visera con la mano, «leía» el número del policía. Cuando pasaban al lado, el amigo creía que tenía una vista maravillosa.
+
+**Ejercicios para practicar:**
+1. **La vidriera de Houdini.** Houdini, el gran mago, hacía muchos trucos recordando de un solo vistazo un montón de objetos chiquitos. Lo aprendió de chico: miraba una vidriera unos segundos, se daba vuelta y les decía a sus amigos todo lo que había. Pruébenlo: cada lobato mira una vidriera (o una mesa con objetos) unos segundos, se da vuelta y dice todo lo que recuerda.
+2. **Veletas y estatuas.** Muy poca gente mira para arriba. B-P tenía una libretita donde dibujaba las veletas que veía, y cuenta que arriba de la Bolsa de Londres hay una langosta dorada enorme que casi nadie nota. Busquen las veletas, estatuas y adornos de su barrio y dibújenlos. ¿Saben dónde hay una estatua de tal o cual prócer en su ciudad?
+3. **Patentes.** Lean las patentes de los autos que pasan y fíjense a qué hora los vieron. Recuérdenlas y anótenlas más tarde. Es buena práctica, y algún día puede servir: si la policía busca un auto que atropelló a alguien y se fue, ustedes podrían decir dónde y cuándo lo vieron.
 
 ## Cierre
 - ¿Qué cosas recordaron todos y cuáles nadie vio?
@@ -183,25 +188,8 @@ If a Manchester Boy Scout were asked where is there a statue of St. George and t
 Houdini, the great conjurer, used to do many of his tricks by noticing, in one glance, a number of small articles and remembering them. He learnt this first while a boy, by looking in at a shop window for a few seconds, and then, turning his back on it, would tell his companions all the different things that were on view in the window. That is awfully good practice for Wolf Cubs. Try it.
 You can also read the numbers of motor cars as they pass you, and notice the time at which you saw them. Then remember them, and later on write them down; it is good practice, and may some day be useful, because sometimes a motor car is "wanted" by the police for knocking somebody down and then running away. If the number of the car is published by the police, you may be able to report that you saw the car at such and such a place at such and such a time.
 
-**Versión en español:**
-
-**USÁ LOS OJOS**
-Cuando tenía la edad de un lobato, me fijaba en el número del cuello de cada policía que me cruzaba y después recordaba dónde lo había visto. Entonces le pedía a un amigo que viniera a caminar conmigo hasta alguno de los puntos donde ese policía estaba de servicio (un policía "de punto" es el que se queda siempre más o menos en el mismo lugar para dirigir el tránsito y demás, no como el policía "de ronda", que recorre una zona propia).
-Cuando estábamos a la vista del policía, pero bastante lejos, me hacía visera con la mano, miraba fijo hacia él y de a poco deletreaba su número y la letra de su división. Después pasábamos al lado, ¡y mi compañero creía que mi vista maravillosa los había leído bien!
-
-**VELETAS Y ESTATUAS**
-No está mal conocer de vista todas las veletas de la ciudad. Yo tenía una libretita en la que dibujaba las veletas que veía. Muy poca gente mira para arriba y se fija en ellas.
-Arriba de la Bolsa Real de Londres hay una enorme langosta dorada como veleta. Supongo que miles de personas pasan por ahí todos los días y, sin embargo, muy pocas la notan. No andan con los ojos atentos como un buen scout o lobato.
-
-**ENTRENAR LOS SENTIDOS**
-Antes de que un scout pueda ser un buen rastreador, tiene que ser capaz de notar cada cosita que pueda ayudarlo a llegar a su objetivo. No solo tiene que verlo todo, sino usar los oídos, la nariz y las manos. Y sobre todo tiene que usar la cabeza, para poder deducir qué significan las cosas que nota.
-Así que, como lobatos, tienen que aprender a usar los ojos, los oídos, la nariz, las manos y la cabeza. ¡Ahí tienen una lista! Les va a dar mucho que hacer, y les voy a mostrar cómo pueden encararlo, no solo cuando están con la Manada sino todo el día, hasta que notar todo se vuelva una costumbre.
-Si a un scout de Manchester le preguntaran dónde hay una estatua de San Jorge y el Dragón, probablemente les diría enseguida que arriba de la estatua de la Reina Victoria, en Piccadilly, hay una estatuita de él.
-Houdini, el gran mago, hacía muchos de sus trucos notando, de un solo vistazo, un montón de objetos chiquitos y recordándolos. Lo aprendió de chico, mirando una vidriera unos segundos y después, dándole la espalda, diciéndoles a sus compañeros todas las cosas que había en exhibición. Es una práctica buenísima para los lobatos. Pruébenla.
-También pueden leer las patentes de los autos que pasan y fijarse a qué hora los vieron. Después recuérdenlas y más tarde anótenlas; es una buena práctica, y algún día puede servir, porque a veces la policía "busca" un auto que atropelló a alguien y se dio a la fuga. Si la policía publica la patente, tal vez puedan informar que vieron el auto en tal lugar a tal hora.
-
 ---
-**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive). Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
+**Fuente:** Robert Baden-Powell, *The Wolf Cub's Handbook*, 9.ª ed. (1938), cotejada con la reimpresión de la India (1944, Internet Archive), impreso original. Dominio público en Argentina, el Reino Unido y otros países (el autor murió en 1941); para el resto se espera autorización de The Scout Association.
 
 **Traducción:** Fogata de Recursos (2026).
 

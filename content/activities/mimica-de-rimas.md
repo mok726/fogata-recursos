@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mímica de Rimas"
+title: "Rimas Mudas"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mimica-de-rimas/"
@@ -9,13 +9,13 @@ summary: "Adivinar una palabra actuando palabras que riman."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,38 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Mímica de Rimas
+# Rimas Mudas
 
-## De qué se trata
-Una patrulla sale del salón. Las demás eligen una palabra, por ejemplo GATO, y cuando vuelve le dicen: «Rima con PATO». La patrulla tiene que actuar, sin hablar, palabras que rimen: un plato, un zapato, un rato… Las demás dicen «¡No!» hasta que actúan la correcta y gritan «¡Sí!».
+## Resumen
+Un juego de mímica con rimas.
 
-## Cómo se juega
-1. Sale una patrulla. Las demás eligen una palabra fácil de actuar.
-2. Cuando vuelve, le dicen con qué rima la palabra.
-3. La patrulla se junta un momento a pensar palabras que rimen.
-4. Actúan una, sin hablar ni hacer ruidos con la boca. Las demás patrullas adivinan qué actuaron y dicen «¡No es!» o «¡Sí, es esa!».
-5. Si no es, actúan otra.
-6. Se mide el tiempo. Después sale otra patrulla. Gana la que adivina más rápido.
+## Desarrollo
+1. Un equipo sale del salón.
+2. Los demás eligen una palabra fácil de actuar, por ejemplo «gato».
+3. Cuando el equipo vuelve, le dicen solamente con qué palabra rima: «Rima con pato».
+4. El equipo tiene que actuar con mímica, sin hablar, las palabras que se le ocurran que riman: un plato, un zapato, un rato… Los demás les dicen «No» hasta que actúan la palabra correcta.
+5. Se toma el tiempo. Después sale otro equipo.
 
-## Para cerrar
+**Cómo se gana:** gana el equipo que acierta en menos tiempo.
+
+## Cierre
 - ¿Qué palabra fue la más difícil de actuar? ¿Cómo lo resolvieron?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego para soltarse y perder la vergüenza de actuar delante de los demás. Ideal antes de preparar un número para el fogón.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DUMB CRAMBO.**
+
+One team goes out of the room, the rest choose a word (say) “moat” and tell the acting team that it rhymes with (say) “boat.” The acting team then act in dumb show all the words they can think of which rhyme with the given word, until they hit on the right one. Then another team goes out and the one taking the shortest time to succeed wins.
+
 ---
-**Fuente:** inspirada en el juego «Dumb Crambo» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 77, «Dumb Crambo». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Quemado en el Pasillo"
+title: "Quemado en Línea"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/quemado-en-el-pasillo/"
@@ -9,13 +9,13 @@ summary: "Correr por el pasillo sin que te quemen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,28 +134,39 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Quemado en el Pasillo
+# Quemado en Línea
 
-## De qué se trata
-Se marcan dos líneas paralelas a 3 metros de distancia: es el pasillo. Un equipo se para afuera, a los costados, con pelotas blandas. El otro corre de punta a punta por adentro del pasillo, todas las veces que pueda. El que es tocado por una pelota queda quemado y sale. Cada viaje de punta a punta suma un punto.
+## Resumen
+Una variante del quemado: un equipo corre por un pasillo y el otro, desde afuera, trata de pegarle con pelotas.
 
-## Cómo se juega
-1. Marquen el pasillo. Un equipo se reparte a los dos costados, afuera de las líneas.
-2. El otro equipo se pone en una punta del pasillo.
-3. A la orden, los corredores van y vienen por el pasillo. Cada viaje completo suma un punto para su equipo.
-4. Los de afuera tiran pelotas para tocarlos, siempre abajo de la cintura.
-5. El tocado sale. Se juega hasta que no queda ningún corredor.
-6. Cambian los papeles. Gana el equipo que sumó más viajes.
+## Desarrollo
+1. Se dibujan con tiza dos líneas paralelas en el piso, a unos 3 m una de otra. Entre las dos queda un pasillo largo.
+2. Un equipo se reparte afuera del pasillo, del otro lado de las líneas, con varias pelotas de tenis. No pueden entrar al pasillo.
+3. El otro equipo corre por dentro del pasillo, de una punta a la otra, ida y vuelta, todas las veces que pueda.
+4. Los de afuera tiran las pelotas para pegarles a los corredores. El corredor al que le pegan queda «quemado» y sale del juego.
+5. Cada vez que un corredor llega de una punta a la otra del pasillo sin que le peguen, suma un punto para su equipo.
+6. Cuando quemaron a todos los corredores, los equipos cambian de papel.
 
-## Reglas
-- Los tiros van abajo de la cintura. Un pelotazo en la cabeza no vale y el que lo tiró sale.
-- Los de afuera no pueden pisar el pasillo.
+**Cómo se gana:** gana el equipo que hizo más recorridos completos antes de que quemaran a todos sus jugadores.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía correr de a muchos o de a uno?
 
-## Notas para educadores
+## Notas para el educador
 - Usá pelotas blandas de goma espuma o de trapo.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LINE DODGE BALL.**
+
+Two lines are chalked parallel about 10 feet apart. One team lines up outside these lines armed with tennis balls. The other team runs up and down between the lines until hit with a ball, when they fall out. For each journey from end to end a player scores one point. Team with most successful runs before all are dead, wins.
+
 ---
-**Fuente:** inspirada en el juego «Line Dodge Ball» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 44, «Line Dodge Ball». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

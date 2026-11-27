@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Ronda de Confianza"
+title: "Alrededor de la Ronda"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-ronda-de-confianza/"
@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - confianza
   - ronda
   - dinamica
@@ -66,10 +67,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,16 +140,20 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡La Ronda de Confianza!
+# Alrededor de la Ronda
 
 ## Resumen
 Unos doce jugadores se sientan en ronda con los pies hacia adentro, formando un círculo justo para que quepa uno de pie. El del centro se queda rígido y se deja caer hacia adelante o hacia atrás; los de la ronda lo reciben con las manos y lo pasan de uno a otro. Si alguien lo deja caer, pasa al centro.
 
 ## Desarrollo
-1. Se sientan en ronda, bien juntos, con los pies hacia el centro.
-2. Uno se para en el centro, con el cuerpo rígido y los brazos cruzados sobre el pecho.
-3. Avisa "¡Listo!" y se deja caer. Los de la ronda lo reciben y lo empujan suavemente de mano en mano.
-4. Si alguno lo deja caer, cambian de lugar.
+Un juego de ronda en el que un jugador se deja caer, rígido como un palo, y los demás lo van pasando de mano en mano. Es muy divertido y fortalece las muñecas y los brazos.
+
+1. Unos doce jugadores se sientan en el suelo formando una ronda, con los pies hacia el centro. Los pies forman un círculo en el que entra justo un jugador parado.
+2. Un jugador se para en el centro, con el cuerpo completamente rígido.
+3. Los de la ronda levantan los brazos con las manos extendidas.
+4. Cuando todos están listos, el del centro se deja caer, hacia atrás o hacia adelante, sobre las manos de los de la ronda, sin doblarse.
+5. Los de la ronda lo empujan suavemente de mano en mano, alrededor del círculo.
+6. Si a alguno de la ronda se le cae, ese pasa al centro y el del centro ocupa su lugar en la ronda.
 
 ### Variante: Versión de pie
 Los de la ronda se paran hombro con hombro y el del centro se deja caer apenas, con el círculo bien cerrado. Es la versión que más se usa hoy como dinámica de confianza.
@@ -165,15 +172,12 @@ Los de la ronda se paran hombro con hombro y el del centro se deja caer apenas, 
 
 This is a good game for the fun it gives and for developing the wrists and arms. About one dozen players sit down in a ring with their feet pointing inward. The feet make a circle just big enough for another player to stand in. The player inside the circle stands perfectly rigid, and as soon as the other players are ready lets himself fall, either backwards or forwards, on to the outstretched hands of the players forming, the ring. The members of the ring push the center player from hand to hand, and when one of the former lets him fall he changes places with the center player, and in his turn is passed round the circle.
 
-**Versión en español:**
-
-**ALREDEDOR DE LA RONDA.**
-
-Este es un buen juego por la diversión que da y para desarrollar las muñecas y los brazos. Una docena de jugadores, más o menos, se sienta en ronda con los pies hacia adentro. Los pies forman un círculo apenas lo bastante grande para que otro jugador se pare adentro. El jugador del centro se queda completamente rígido y, apenas los demás están listos, se deja caer, hacia atrás o hacia adelante, sobre las manos extendidas de los jugadores de la ronda. Los de la ronda empujan al del centro de mano en mano, y cuando uno de ellos lo deja caer, cambia de lugar con el del centro y a su vez lo pasan por toda la ronda.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 19. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 19: «Round the Ring». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---
