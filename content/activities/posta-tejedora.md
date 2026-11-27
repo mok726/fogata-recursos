@@ -135,9 +135,10 @@ rama_rovers:
 
 # Posta del Tejedor
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en ronda: cada corredor da la vuelta pasando en zigzag entre los demás, como el hilo en un tejido.
 
+## Desarrollo
 1. Dos o más equipos forman una sola ronda, mirando hacia adentro, con más o menos un metro entre jugador y jugador. Cada equipo se ubica junto, sus jugadores seguidos, sin mezclarse con los de otro equipo. Los jugadores de cada equipo se numeran: n.º 1, n.º 2, etc.
 2. A la orden de «¡Ya!», el n.º 1 de cada equipo sale corriendo alrededor de la ronda hacia su derecha, pasando en zigzag entre todos los demás jugadores: por delante de uno, por detrás del siguiente, y así.
 3. Cuando completa la vuelta y llega a su lugar, toca al n.º 2, que sale a hacer lo mismo. Y así hasta que corren todos.
@@ -149,7 +150,7 @@ Una carrera de postas en ronda: cada corredor da la vuelta pasando en zigzag ent
 
 **Por arriba y por debajo (variante del original):** igual, pero los que están sentados levantan las manos unidas, y el corredor pasa una vez por arriba de las manos y la siguiente por debajo.
 
-## Para cerrar
+## Cierre
 - ¿Qué patrulla tejía más prolijo? ¿Y la más rápida?
 
 

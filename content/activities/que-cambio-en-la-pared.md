@@ -137,9 +137,10 @@ rama_rovers:
 
 # ¿Qué Se Movió?
 
-## Cómo se juega
+## Resumen
 Un juego de observación: hay que descubrir qué se movió.
 
+## Desarrollo
 1. Todos los jugadores miran con atención una pared del local durante 2 minutos: los carteles, las fotos, los objetos colgados, lo que haya.
 2. A una orden, todos se dan vuelta, de espaldas a la pared. El que dirige mueve algunos objetos de lugar o saca algunos.
 3. Todos se vuelven a dar vuelta y miran la pared durante 1 minuto.
@@ -155,11 +156,11 @@ Una vez cada tanto, no muevas nada. ¡Es muy divertido ver cuántos cambios «en
 ### Variante: Con una persona
 En vez de una pared, un jugador se para al frente. Se da vuelta y cambia algo de su ropa: se arremanga, se saca el pañuelo, se desata un cordón.
 
-## Para cerrar
+## Cierre
 - ¿Quién anotó cosas que no habían cambiado? ¿Por qué nos pasa eso?
 - ¿Dónde les sirve en la vida diaria darse cuenta de los cambios?
 
-## Notas para educadores
+## Notas para el educador
 - La vuelta «sin cambios» enseña mucho sobre la diferencia entre ver y creer que vimos.
 
 

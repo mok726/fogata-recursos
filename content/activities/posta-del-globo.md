@@ -137,9 +137,10 @@ rama_rovers:
 
 # Posta del Globo a Palmadas
 
-## Cómo se juega
+## Resumen
 Una carrera de postas con globos: hay que llevar el globo por el aire a palmadas, sin que toque el suelo.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido. Cada equipo tiene un globo chico inflado.
@@ -153,7 +154,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Carrera del pastor (variante del original):** cada equipo tiene un «rebaño» de varios globos inflados y lo tiene que llevar por un recorrido en zigzag, abanicando, soplando o de la forma que fije el que dirige. Al final del recorrido hay una caja, que es el corral. Si un globo se sale de los límites del recorrido, tiene que volver a empezar. Gana el primer equipo que mete todo su rebaño en el corral.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: controlar el globo o ir rápido?
 
 

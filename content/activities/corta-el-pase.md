@@ -136,9 +136,10 @@ rama_rovers:
 
 # Interceptá la Pelota
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con pelota: uno en el centro trata de cortar los pases de los demás.
 
+## Desarrollo
 1. Los jugadores forman una ronda y uno se pone en el centro.
 2. Los de la ronda se tiran una pelota entre ellos, de un lado al otro, sin un orden fijo.
 3. El del centro trata de interceptarla, es decir, de tocarla o agarrarla en el aire antes de que llegue a destino.
@@ -151,10 +152,10 @@ Un juego de ronda con pelota: uno en el centro trata de cortar los pases de los 
 
 **Dos en el centro (variante del original):** se ponen dos jugadores en el centro para que sea más difícil para la ronda.
 
-## Para cerrar
+## Cierre
 - ¿Qué pases eran los más difíciles de cortar?
 
-## Notas para educadores
+## Notas para el educador
 - El clásico juego del «loco» o «monito» en sus muchas versiones. Usá una pelota blanda si es en interior.
 
 

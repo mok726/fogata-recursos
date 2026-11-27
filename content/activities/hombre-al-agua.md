@@ -144,9 +144,10 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Probá antes a qué velocidad tiene que caminar el «hombre al agua» para que el juego sea parejo.
 
-## Cómo se juega
+## Resumen
 Un juego para practicar cómo unir dos sogas rápido y bien, como si hubiera que alcanzarle una soga más larga a alguien que se cayó al agua.
 
+## Desarrollo
 1. Se marca una línea en el suelo. Del mismo lado de la línea se dejan dos rollos de soga.
 2. Un jugador, el «hombre al agua», agarra la punta de una de las sogas y empieza a caminar alejándose de la línea. A medida que camina, la soga se va desenrollando y pasando la línea.
 3. Otro jugador tiene que unir la otra punta de esa soga con la segunda soga, con un nudo bien hecho, antes de que la primera soga termine de pasar la línea.
@@ -155,10 +156,10 @@ Un juego para practicar cómo unir dos sogas rápido y bien, como si hubiera que
 
 **Consejo del original:** la velocidad a la que tiene que caminar el «hombre al agua» solo se encuentra probando. Depende del largo de la soga y de la experiencia de los que atan.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudo usaron para unir las sogas? ¿Por qué ese y no otro?
 
-## Notas para educadores
+## Notas para el educador
 - El que camina nunca corre ni tira de golpe.
 
 

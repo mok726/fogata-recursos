@@ -135,9 +135,10 @@ rama_rovers:
 
 # Posta de Iniciativa
 
-## Cómo se juega
+## Resumen
 Una carrera de postas de imaginación: cada uno tiene que inventar una forma distinta de avanzar.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido.
@@ -149,10 +150,10 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Posta genuina (variante del original):** a lo largo del recorrido se marcan varias estaciones, y en cada una se ubica un jugador de cada equipo. Se corre como una posta común, pasándose el relevo de estación en estación, pero en cada tramo se avanza de una forma distinta: los de la primera estación saltan en un pie, los de la segunda gatean, los de la tercera caminan para atrás, los de la cuarta ruedan, y así. Gana el primer equipo que termina.
 
-## Para cerrar
+## Cierre
 - ¿Qué forma fue la más original? ¿Y la más rápida?
 
-## Notas para educadores
+## Notas para el educador
 - Que la patrulla piense antes en las formas: la estrategia es parte del juego.
 
 

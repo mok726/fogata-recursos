@@ -135,9 +135,10 @@ rama_rovers:
 
 # Recuerdos
 
-## Cómo se juega
+## Resumen
 Un juego de memoria en ronda, con ideas encadenadas.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. El primero dice: «Pensé en una pava».
 3. El siguiente dice algo que esa palabra le recuerda: «Eso me recuerda al vapor». El siguiente: «Eso me recuerda a un tren», y así dando la vuelta.
@@ -146,10 +147,10 @@ Un juego de memoria en ronda, con ideas encadenadas.
 
 **Cómo se gana:** gana el que pierde menos vidas.
 
-## Para cerrar
+## Cierre
 - ¿Qué asociaciones fueron las más raras? ¿Quién las puede explicar?
 
-## Notas para educadores
+## Notas para el educador
 - Las asociaciones dicen mucho de cada uno: si alguna toca algo sensible, seguí sin detenerte en ella.
 
 

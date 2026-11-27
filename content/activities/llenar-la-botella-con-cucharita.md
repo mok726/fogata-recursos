@@ -139,9 +139,10 @@ rama_rovers:
 
 # Carrera de Llenar la Botella
 
-## Cómo se juega
+## Resumen
 Una carrera de cooperación con paciencia: hay que llenar una botella pasando el agua de a una cucharita por vez.
 
+## Desarrollo
 1. Cada equipo se forma en una fila, uno al lado del otro.
 2. En una punta de la fila se pone un balde con agua y en la otra punta una botella vacía, con una marca hasta donde hay que llenarla. Cada equipo tiene una cucharita de té.
 3. A la señal, el primero llena la cucharita con agua del balde y se la pasa al de al lado, que se la pasa al siguiente, y así hasta el último, que vuelca el agua en la botella.
@@ -150,11 +151,11 @@ Una carrera de cooperación con paciencia: hay que llenar una botella pasando el
 
 **Cómo se gana:** gana el primer equipo que llena su botella hasta la marca.
 
-## Para cerrar
+## Cierre
 - ¿Cuánta agua se perdió en el camino?
 - ¿Cuánta agua gastamos por día? ¿Y si tuviéramos que traerla así, de a poquito?
 
-## Notas para educadores
+## Notas para el educador
 - Una linda excusa para hablar del cuidado del agua. Al terminar, usá el agua del balde para regar plantas.
 
 

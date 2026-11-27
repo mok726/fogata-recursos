@@ -134,9 +134,10 @@ rama_rovers:
 
 # Posta de la Víbora
 
-## Cómo se juega
+## Resumen
 Una carrera en la que el equipo va creciendo como una víbora, y cada vuelta pasa entre las piernas de un compañero.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
 2. Un jugador de cada equipo se para a cierta distancia delante de su fila, con las piernas bien abiertas: hace de arco.
 3. A la señal, el primero de cada equipo corre, pasa por debajo, entre las piernas del arco, y vuelve hasta su fila.
@@ -146,7 +147,7 @@ Una carrera en la que el equipo va creciendo como una víbora, y cada vuelta pas
 
 **Cómo se gana:** gana el primer equipo que termina con todos enganchados.
 
-## Para cerrar
+## Cierre
 - ¿Qué pasaba cuando la víbora era larga?
 
 

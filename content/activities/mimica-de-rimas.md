@@ -136,9 +136,10 @@ rama_rovers:
 
 # Rimas Mudas
 
-## Cómo se juega
+## Resumen
 Un juego de mímica con rimas.
 
+## Desarrollo
 1. Un equipo sale del salón.
 2. Los demás eligen una palabra fácil de actuar, por ejemplo «gato».
 3. Cuando el equipo vuelve, le dicen solamente con qué palabra rima: «Rima con pato».
@@ -147,10 +148,10 @@ Un juego de mímica con rimas.
 
 **Cómo se gana:** gana el equipo que acierta en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué palabra fue la más difícil de actuar? ¿Cómo lo resolvieron?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego para soltarse y perder la vergüenza de actuar delante de los demás. Ideal antes de preparar un número para el fogón.
 
 

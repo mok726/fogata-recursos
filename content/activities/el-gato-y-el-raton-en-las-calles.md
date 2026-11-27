@@ -135,15 +135,16 @@ rama_rovers:
 
 # El Gato y el Ratón
 
-## Cómo se juega
+## Resumen
 Una mancha en la que un gato persigue a un ratón por calles formadas por los demás jugadores, y las calles cambian de golpe.
 
+## Desarrollo
 1. Todos los jugadores, menos dos, se forman en filas de a cuatro, una detrás de otra, como un cuadriculado. Cada uno toma de las manos a los de sus costados, con los brazos estirados. Así, entre fila y fila quedan calles por donde se puede correr.
 2. De los dos que quedan afuera, uno es el gato y el otro es el ratón. El gato persigue al ratón por las calles, entrando y saliendo de la formación.
 3. Cada vez que el que dirige toca el silbato, todos los jugadores de la formación giran a la derecha y se toman de las manos con los que ahora tienen a los costados. Así, las calles cambian de dirección y el gato o el ratón pueden quedar encerrados de golpe.
 4. Si el ratón no es atrapado en un tiempo bastante corto, también hay que cambiar a los corredores, para que todos jueguen.
 
-## Para cerrar
+## Cierre
 - ¿Quién les sacó ventaja a los cambios de calle?
 
 

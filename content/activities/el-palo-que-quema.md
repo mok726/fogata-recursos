@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pasar el Palo
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que nadie quiere quedarse con el palo cuando suena el silbato.
 
+## Desarrollo
 1. Los jugadores forman una ronda y se van pasando un palo (puede ser un bastón scout) de mano en mano, de uno al siguiente.
 2. El que dirige, de espaldas a la ronda o sin mirar, toca el silbato cuando quiere.
 3. El que tiene el palo en la mano en ese momento pone las manos atrás de la espalda y las deja ahí por el resto del juego.
@@ -148,7 +149,7 @@ Un juego de ronda en el que nadie quiere quedarse con el palo cuando suena el si
 
 **Pasá el sombrero (otro juego del original, parecido):** los jugadores forman una ronda. Uno agarra un sombrero (o una gorra) y se lo pone en la cabeza al de al lado; ese se lo saca y se lo pone al siguiente, y así toda la ronda. Cuando suena el silbato, el que tiene el sombrero en la mano o puesto en la cabeza se sienta y sale del juego. Hay que fijarse que el sombrero se ponga de verdad en cada cabeza y no se pase simplemente de mano en mano. Gana el último que queda.
 
-## Para cerrar
+## Cierre
 - ¿Qué hacían cuando sentían que estaba por sonar el silbato?
 
 

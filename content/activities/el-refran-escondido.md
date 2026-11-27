@@ -137,9 +137,10 @@ rama_rovers:
 
 # Refranes
 
-## Cómo se juega
+## Resumen
 Un juego para adivinar un refrán letra por letra, parecido al ahorcado.
 
+## Desarrollo
 1. El que dirige elige un refrán, por ejemplo «Al que madruga Dios lo ayuda», y lo escribe en el pizarrón poniendo una X por cada letra, separadas en palabras: XX XXX XXXXXXX XXXX XX XXXXX.
 2. Cada jugador, por turno, dice una letra. Si está en el refrán, el que dirige la escribe en todos los lugares donde va.
 3. Cada jugador tiene un solo intento de adivinar el refrán completo, y lo puede usar cuando quiera.
@@ -149,10 +150,10 @@ Un juego para adivinar un refrán letra por letra, parecido al ahorcado.
 ### Variante: Frases scouts
 En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
 
-## Para cerrar
+## Cierre
 - ¿Qué quiere decir el refrán? ¿Están de acuerdo con lo que dice?
 
-## Notas para educadores
+## Notas para el educador
 - Una buena excusa para charlar sobre el sentido de los refranes y de dónde vienen.
 - Para lobatos, usá frases cortas y conocidas.
 

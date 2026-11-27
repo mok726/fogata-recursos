@@ -135,9 +135,10 @@ rama_rovers:
 
 # Tim el Novato
 
-## Cómo se juega
+## Resumen
 Un juego de memoria en ronda.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. El primero dice: «Tim el Novato se fue de campamento y llevó…» y nombra un objeto: «una carpa».
 3. El segundo repite la frase completa y agrega otro objeto: «Tim el Novato se fue de campamento y llevó una carpa y una linterna».
@@ -152,10 +153,10 @@ Solo valen cosas que de verdad hay que llevar al campamento. Si alguien dice «u
 ### Variante: Con gestos
 Cada cosa se dice con un gesto. Ayuda mucho a recordar.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas de la lista sí hay que llevar al campamento? ¿Cuáles faltaron?
 
-## Notas para educadores
+## Notas para el educador
 - Al final, usá la lista para revisar entre todos qué lleva una buena mochila.
 
 

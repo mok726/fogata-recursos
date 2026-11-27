@@ -140,9 +140,10 @@ rama_rovers:
 ## Preparación
 1. Prepará unas diez series, de fáciles a difíciles. Por ejemplo: 3, 6, 9, 12… / 1, 2, 4, 8, 16… / 1, 1, 2, 3, 5, 8… / A, C, E, G… / Z, A, Y, B, X, C…
 
-## Cómo se juega
+## Resumen
 Un juego de lógica: hay que descubrir cómo sigue una serie.
 
+## Desarrollo
 1. El que dirige lee en voz alta, o escribe en el pizarrón, el comienzo de una serie de números o de letras. Por ejemplo: 2 - 4 - 6 - 8 - 10.
 2. Los jugadores tienen que descubrir la regla y escribir los cinco que siguen (en el ejemplo, 12 - 14 - 16 - 18 - 20) antes de que el que dirige cuente hasta diez.
 3. Las series se van haciendo más difíciles. Por ejemplo: Z A Y B X C… (sigue W D V E U: una letra desde el final del abecedario y una desde el principio).
@@ -152,10 +153,10 @@ Un juego de lógica: hay que descubrir cómo sigue una serie.
 ### Variante: Inventen la suya
 Cada patrulla inventa una serie para las demás.
 
-## Para cerrar
+## Cierre
 - ¿Qué series les costaron más? ¿Qué truco usaron?
 
-## Notas para educadores
+## Notas para el educador
 - Juego de pensamiento lógico, muy cercano a lo que después se ve en computación (ver Computación Desenchufada).
 
 

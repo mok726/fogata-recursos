@@ -135,19 +135,20 @@ rama_rovers:
 
 # Sardinas
 
-## Cómo se juega
+## Resumen
 Una variante de la escondida, pero al revés: se esconde uno solo, y los que lo encuentran se esconden con él, hasta quedar todos apretados como sardinas en lata.
 
+## Desarrollo
 1. Un jugador va a esconderse mientras los demás cuentan con los ojos cerrados.
 2. Después, todos salen a buscarlo, cada uno por su cuenta.
 3. Cuando un jugador lo encuentra, no avisa a nadie: se mete en el mismo escondite, al lado de él, sin hacer ruido.
 4. Así, el escondite se va llenando y cada vez es más difícil disimular que hay gente ahí.
 5. El juego sigue hasta que están todos en el mismo lugar.
 
-## Para cerrar
+## Cierre
 - ¿Qué los delató? ¿Las risas?
 
-## Notas para educadores
+## Notas para el educador
 - Marcá bien los límites del terreno y los lugares prohibidos.
 
 

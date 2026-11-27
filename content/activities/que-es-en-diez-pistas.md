@@ -140,9 +140,10 @@ rama_rovers:
 ## Preparación
 1. Prepará cada adivinanza con diez pistas. Ejemplo, el hornero: 1) Vivo en casi todo el país. 2) Soy muy trabajador. 3) Canto a dúo. 4) Tengo pareja para toda la vida. 5) Me gustan los postes. 6) Construyo con barro. 7) Soy un ave. 8) Mi casa tiene dos cuartos. 9) Soy marrón y pecho claro. 10) Soy el ave nacional argentina.
 
-## Cómo se juega
+## Resumen
 Un juego de adivinanzas con pistas que se van haciendo más fáciles.
 
+## Desarrollo
 1. El que dirige piensa en algo (un animal, un objeto, un lugar) y prepara diez pistas, de la más difícil a la más fácil. Por ejemplo, para «cuervo»: la primera pista podría ser «Es un pájaro» y la última, «Hace cra, cra».
 2. Lee las pistas de a una.
 3. Cada jugador tiene un solo intento. Cuando cree que sabe qué es, lo escribe en un papel junto con el número de la última pista que escuchó. Se escribe para no ayudar a los que todavía están pensando.
@@ -154,10 +155,10 @@ Un juego de adivinanzas con pistas que se van haciendo más fáciles.
 ### Variante: Inventen las suyas
 Cada patrulla prepara una adivinanza de diez pistas para las demás. ¡Es lo más difícil del juego!
 
-## Para cerrar
+## Cierre
 - ¿Qué pista fue la que les abrió la cabeza?
 
-## Notas para educadores
+## Notas para el educador
 - Se escribe para que nadie le sople al que todavía está pensando.
 - Tiene sentido como cierre de un tema: animales del lugar, técnica scout, historia del Grupo.
 

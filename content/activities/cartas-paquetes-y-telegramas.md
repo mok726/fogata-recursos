@@ -136,9 +136,10 @@ rama_rovers:
 
 # Correo General
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con asientos en el que hay que cambiar de lugar cuando nombran tu ciudad, moviéndose según el tipo de envío.
 
+## Desarrollo
 1. Se ponen asientos en ronda alrededor del salón. Cada jugador se sienta en uno y elige el nombre de una ciudad (Córdoba, Mendoza, Rosario, Salta…). Un jugador se queda en el centro, sin asiento.
 2. El que dirige nombra dos ciudades y dice si es una «carta», un «paquete» o un «telegrama». Por ejemplo: «¡Carta de Salta a Rosario!».
 3. Las dos ciudades nombradas tienen que cambiar de asiento entre sí. Mientras tanto, el del centro trata de sentarse en uno de los dos asientos que quedan libres.
@@ -153,10 +154,10 @@ Un juego de ronda con asientos en el que hay que cambiar de lugar cuando nombran
 ### Variante: ¡Correo general!
 Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
 
-## Para cerrar
+## Cierre
 - ¿Qué ciudades eligieron? ¿Saben dónde quedan en el mapa?
 
-## Notas para educadores
+## Notas para el educador
 - Podés pegar en la pared un mapa de Argentina y, después del juego, que cada uno marque su ciudad.
 
 

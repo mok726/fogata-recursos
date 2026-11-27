@@ -137,9 +137,10 @@ rama_rovers:
 
 # Tirar Cosas
 
-## Cómo se juega
+## Resumen
 Una competencia de lanzamientos con objetos raros: hay que tirar cada cosa lo más lejos posible, y algunas son muy difíciles de tirar lejos.
 
+## Desarrollo
 1. Se pueden armar todos los equipos que se quiera. Se juntan tantos objetos distintos como equipos haya. El original propone, por ejemplo: un aro de soga de 60 cm de diámetro, una carpa (plegada), una maza, un globo, un avioncito de papel, una caja de fósforos vacía y un bastón.
 2. Cada equipo elige a un integrante para cada objeto. Así, cada objeto tiene un tirador de cada equipo.
 3. Se hace una competencia aparte con cada objeto: todos los que tienen que tirar ese objeto lo tiran, por turno, desde la misma línea, y se marca hasta dónde llegó cada uno.
@@ -148,10 +149,10 @@ Una competencia de lanzamientos con objetos raros: hay que tirar cada cosa lo m�
 
 **Cómo se gana:** gana el equipo que gana más competencias.
 
-## Para cerrar
+## Cierre
 - ¿Qué objeto fue el más difícil de tirar? ¿Por qué el globo no llega lejos?
 
-## Notas para educadores
+## Notas para el educador
 - Da para charlar sobre el aire y la forma de las cosas: ¿por qué el avión llega más lejos que la hoja hecha un bollo, o al revés?
 
 

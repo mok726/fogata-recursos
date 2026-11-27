@@ -141,9 +141,10 @@ rama_rovers:
 1. Prepará unas 15 analogías: «el lobato es a la Manada como el scout es a la…», «el pájaro es al nido como la abeja es a la…», «el norte es al sur como el este es al…».
 2. Prepará 15 pares de palabras: algunos opuestos (día / noche, subir / bajar) y otros que suenan parecido o no tienen relación (casa / caza, valla / vaya).
 
-## Cómo se juega
+## Resumen
 Dos juegos rápidos de palabras.
 
+## Desarrollo
 **Analogías:**
 1. El que dirige lee una frase incompleta del tipo: «El pie es al zapato como la mano es al…».
 2. Los jugadores tienen que decir la palabra que falta: «guante».
@@ -155,7 +156,7 @@ Dos juegos rápidos de palabras.
 
 **Cómo se gana:** cada respuesta correcta vale un punto.
 
-## Para cerrar
+## Cierre
 - ¿Qué analogías tenían más de una respuesta posible? ¿Valían las dos?
 
 

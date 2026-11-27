@@ -135,9 +135,10 @@ rama_rovers:
 
 # Atrapame
 
-## Cómo se juega
+## Resumen
 Un juego de sigilo y persecución entre dos equipos: hay que acercarse sin ser oído, tocar al rival y volver corriendo antes de que te atrape.
 
+## Desarrollo
 1. Los dos equipos, con la misma cantidad de jugadores, se numeran: 1, 2, 3… Se forman en fila en las dos puntas del salón.
 2. Un equipo se pone de cara a la pared, de espaldas al salón, así no ve lo que pasa.
 3. Todos los jugadores del otro equipo se acercan despacito, sin hacer ruido. Cada uno va hasta el jugador del otro equipo que tiene su mismo número, lo toca y sale corriendo para volver a su lugar.
@@ -147,7 +148,7 @@ Un juego de sigilo y persecución entre dos equipos: hay que acercarse sin ser o
 
 **Cómo se gana:** gana el equipo que tiene el mejor puntaje.
 
-## Para cerrar
+## Cierre
 - ¿Qué convenía: acercarse rápido o despacio?
 
 

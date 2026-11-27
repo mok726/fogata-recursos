@@ -138,9 +138,10 @@ rama_rovers:
 
 # Pelota al Sombrero
 
-## Cómo se juega
+## Resumen
 Un juego de puntería con gorras y una pelota: primero hay que embocar en una gorra y después pegarle a alguien.
 
+## Desarrollo
 1. Se marca en el piso un círculo de unos 3 m de radio. En el centro se juntan las gorras (o sombreros) de todos los jugadores, boca arriba, bien juntas. Los jugadores se ponen en el borde del círculo.
 2. Un jugador tira una pelota de tenis tratando de meterla en una gorra que no sea la suya.
 3. Si no emboca, se le pone una marca en su gorra (una piedrita o una ficha). Si erra tres veces, deja de tirar y otro toma su lugar.
@@ -151,10 +152,10 @@ Un juego de puntería con gorras y una pelota: primero hay que embocar en una go
 
 **Cómo se gana:** al final, gana el que tiene menos fichas en su gorra (el original habla de equipos: se pueden sumar las fichas de los jugadores de cada equipo).
 
-## Para cerrar
+## Cierre
 - ¿Qué convenía: escapar lejos o quedarse cerca para embocar después?
 
-## Notas para educadores
+## Notas para el educador
 - Usá pelota blanda y pedí que los tiros sean siempre abajo de la cintura.
 
 

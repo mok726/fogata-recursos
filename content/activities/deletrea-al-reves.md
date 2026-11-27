@@ -135,9 +135,10 @@ rama_rovers:
 
 # Deletrealo
 
-## Cómo se juega
+## Resumen
 Un juego de concentración con palabras al revés.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. El que dirige señala a uno, dice una palabra (por ejemplo, «sol») y enseguida empieza a contar hasta 10 a ritmo parejo.
 3. El jugador señalado tiene que deletrear la palabra al revés antes de que llegue a 10: «L, O, S».
@@ -145,7 +146,7 @@ Un juego de concentración con palabras al revés.
 
 **Cómo se gana:** cada palabra bien deletreada a tiempo vale un punto.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron? ¿Se imaginaban la palabra escrita?
 
 

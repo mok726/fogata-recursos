@@ -139,9 +139,10 @@ rama_rovers:
 
 # Clavar la Estaca a Ciegas
 
-## Cómo se juega
+## Resumen
 Un juego de orientación a ciegas con una estaca de carpa.
 
+## Desarrollo
 1. Se clava una estaca en el suelo.
 2. Cada jugador, por turno, se para a unos 5 metros, con los ojos vendados y una maza en la mano. Da unas 3 vueltas sobre sí mismo.
 3. Después camina hasta donde cree que está la estaca y trata de pegarle con la maza en la cabeza.
@@ -149,10 +150,10 @@ Un juego de orientación a ciegas con una estaca de carpa.
 
 **Cómo se gana:** gana el que le pega de lleno en la cabeza a la estaca con menos golpes.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se dieron cuenta de para dónde estaban mirando después de las vueltas?
 
-## Notas para educadores
+## Notas para el educador
 - Usá maza de madera o de goma, nunca un martillo de metal.
 - Buen juego para el día de armado del campamento: después todos saben clavar estacas.
 

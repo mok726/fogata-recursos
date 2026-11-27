@@ -136,9 +136,10 @@ rama_rovers:
 
 # Sí o No, ¿Qué Es?
 
-## Cómo se juega
+## Resumen
 Un juego de adivinar con preguntas de «sí» o «no».
 
+## Desarrollo
 1. Los jugadores se dividen en equipos.
 2. Sale del salón un integrante de cada equipo. Afuera, entre ellos, eligen un objeto.
 3. Vuelven, y cada uno va a un equipo que **no** es el suyo.
@@ -148,11 +149,11 @@ Un juego de adivinar con preguntas de «sí» o «no».
 
 **Tierra, aire o agua (variante del original):** un solo jugador piensa en un objeto y todos los demás le hacen preguntas para descubrir qué es. El que dirige puede limitar el tipo de objetos (por ejemplo, solo animales, o solo cosas del campamento).
 
-## Para cerrar
+## Cierre
 - ¿Qué preguntas sirvieron más? ¿Cuáles no ayudaron nada?
 - ¿Cómo se pusieron de acuerdo en la patrulla para no repetir preguntas?
 
-## Notas para educadores
+## Notas para el educador
 - Buen juego para trabajar preguntas «grandes» (que descartan mucho) y preguntas «chicas». Charlalo al final.
 
 

@@ -136,20 +136,21 @@ rama_rovers:
 
 # Pasar los Palitos Cruzados
 
-## Cómo se juega
+## Resumen
 Un juego de truco: el que dirige sabe el secreto y los demás tienen que descubrirlo.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda. El que dirige tiene dos palitos.
 2. Se los pasa a su vecino, cruzados o no, y al hacerlo dice: «Paso estos palitos cruzados» o «Paso estos palitos descruzados».
 3. **El secreto:** lo que importa no son los palitos sino los tobillos de quien habla. Si tiene los tobillos cruzados, tiene que decir «cruzados»; si no, «descruzados». Los palitos pueden estar como quieran.
 4. El que recibe los palitos dice: «Recibo estos palitos… y los paso…» (cruzados o descruzados), y el que dirige le dice si está bien o mal.
 5. El juego sigue dando vueltas a la ronda hasta que todos descubren el truco y lo hacen bien. El que lo descubre no lo cuenta: lo demuestra haciéndolo bien.
 
-## Para cerrar
+## Cierre
 - ¿Cuánto tardaron en darse cuenta? ¿Qué los despistó?
 - ¿Les pasa en la vida que miran donde no está la respuesta?
 
-## Notas para educadores
+## Notas para el educador
 - Si después de un buen rato nadie lo descubre, empezá a exagerar el cruce de piernas.
 - Funciona con cualquier objeto: lápices, cucharas o ramitas.
 

@@ -139,9 +139,10 @@ rama_rovers:
 
 # Barcos en la Niebla
 
-## Cómo se juega
+## Resumen
 Un juego de confianza y comunicación: cada equipo es un barco que navega a ciegas en la niebla, y su guía, que sí ve, lo tiene que hacer entrar al puerto solo con la voz.
 
+## Desarrollo
 1. Con dos sillas se arma la boca del puerto: un paso angosto por donde hay que pasar.
 2. Cada equipo se forma en fila india, uno detrás del otro, con las manos en los hombros del de adelante y los ojos vendados. Ese es el barco.
 3. El guía de cada equipo no está vendado y se queda a cierta distancia de su barco.
@@ -154,11 +155,11 @@ Un juego de confianza y comunicación: cada equipo es un barco que navega a cieg
 
 **Obstáculos en la niebla (variante del original):** se ponen varias sillas desparramadas por el salón como obstáculos, y se marca una meta en una punta. Cada equipo, por turno, sale con los ojos vendados desde la otra punta y trata de llegar a la meta. Si un jugador toca un obstáculo, tiene que dar tres vueltas alrededor de él antes de seguir. Se fija un tiempo para cada equipo, y gana el que logra hacer llegar más jugadores a la meta en ese tiempo. Hay que cuidar que no haya ninguna luz fuerte, como una ventana o una lámpara, que les dé una pista de para dónde ir.
 
-## Para cerrar
+## Cierre
 - ¿Qué instrucciones servían y cuáles no? ¿Qué significa «a la derecha» si el barco está de frente?
 - ¿Cómo se sintieron confiando en la voz del capitán?
 
-## Notas para educadores
+## Notas para el educador
 - Buen juego para trabajar confianza y comunicación clara en la patrulla.
 
 

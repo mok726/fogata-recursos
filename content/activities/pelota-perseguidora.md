@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pasá Más Rápido
 
-## Cómo se juega
+## Resumen
 Un juego de pases en ronda entre dos equipos: cada equipo trata de que su pelota alcance a la del otro.
 
+## Desarrollo
 1. Los dos equipos forman una sola ronda, mirando hacia adentro, intercalados: un jugador de un equipo, uno del otro, y así.
 2. El guía de cada equipo tiene una pelota. Los dos guías se ubican exactamente en lados opuestos de la ronda. Conviene que las pelotas sean de distinto color.
 3. A la señal, cada jugador pasa o tira la pelota al siguiente jugador de su propio equipo hacia la derecha, es decir, saltando al rival que tiene al lado.
@@ -153,7 +154,7 @@ Un juego de pases en ronda entre dos equipos: cada equipo trata de que su pelota
 ### Variante: Zigzag
 Los equipos forman dos rondas, una adentro de la otra, intercalados. La pelota se pasa en zigzag de un círculo al otro.
 
-## Para cerrar
+## Cierre
 - ¿Qué pases salieron mejor: cortos y seguros o rápidos y arriesgados?
 
 

@@ -137,9 +137,10 @@ rama_rovers:
 
 # Posta del Equipo
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador va juntando su uniforme por el camino y se lo va poniendo.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido con varias paradas.
@@ -150,7 +151,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Carrera de vestirse y desvestirse (variante del original):** cada equipo tiene un saco (o campera) y un sombrero. El primero corre hasta un punto marcado y vuelve, y mientras corre se pone el saco y el sombrero y se abrocha todos los botones. Cuando llega de vuelta a su equipo, se saca todo y se lo da al siguiente, que hace lo mismo. No se puede empezar a sacar la ropa hasta estar de vuelta en la fila. Gana el primer equipo en el que pasaron todos.
 
-## Para cerrar
+## Cierre
 - ¿Qué prenda costó más ponerse bien rápido?
 - ¿Qué significa para ustedes el uniforme?
 

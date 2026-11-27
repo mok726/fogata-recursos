@@ -134,9 +134,10 @@ rama_rovers:
 
 # Negocios
 
-## Cómo se juega
+## Resumen
 Un juego de correr y pensar a la vez.
 
+## Desarrollo
 1. Cada dirigente (o ayudante) se para en un lugar distinto del salón: cada uno es un negocio (almacén, ferretería, librería, verdulería, farmacia…). Los jugadores se ubican alrededor del salón, numerados.
 2. El que dirige dice el nombre de un negocio y una letra, **hace una pausa** y después dice un número. Por ejemplo: «Ferretería… con C… ¡número 3!».
 3. Los jugadores que tienen ese número piensan algo que empiece con esa letra y que se venda en ese negocio («clavos»), y apenas lo tienen, corren hasta el dirigente que es ese negocio y se lo dicen.
@@ -146,10 +147,10 @@ Un juego de correr y pensar a la vez.
 
 **Nota del original:** la pausa es fundamental, para que todos piensen y no solo corran.
 
-## Para cerrar
+## Cierre
 - ¿Qué negocios hay en el barrio del local? ¿Cuáles ya casi no se ven?
 
-## Notas para educadores
+## Notas para el educador
 - Podés cambiar los negocios por lugares del campamento: la intendencia, la enfermería, la cocina de patrulla.
 
 

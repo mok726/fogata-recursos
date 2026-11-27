@@ -136,9 +136,10 @@ rama_rovers:
 
 # Robar la Huerta
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que un «ladrón» tiene que robar una manzana sin saber quién es el que la cuida.
 
+## Desarrollo
 1. Los jugadores forman una ronda. Uno hace de «ladrón» y sale del salón un momento para no ver lo que pasa.
 2. Mientras tanto, se elige en secreto a uno de la ronda para que sea el «granjero», el dueño de la huerta. En el centro de la ronda se pone una «manzana» (puede ser una manzana de verdad, una pelota o cualquier objeto).
 3. Vuelve el ladrón. Elige un lugar de la ronda, entra por ahí, va hasta el centro y trata de agarrar la manzana y escaparse.
@@ -147,7 +148,7 @@ Un juego de ronda en el que un «ladrón» tiene que robar una manzana sin saber
 
 **Cómo se gana:** si el ladrón sale de la ronda con la manzana sin que el granjero lo toque, ganó. Si lo tocan, perdió. Después se eligen otro ladrón y otro granjero.
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron los de la ronda para no delatar al chacarero?
 
 

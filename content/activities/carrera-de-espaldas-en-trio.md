@@ -135,16 +135,17 @@ rama_rovers:
 
 # Carrera de Espaldas por Equipos
 
-## Cómo se juega
+## Resumen
 Una carrera de tríos que corren de espaldas, guiados por el compañero del medio.
 
+## Desarrollo
 1. Se arman equipos de 3 jugadores. Se paran uno al lado del otro y se toman del brazo.
 2. Los dos de los costados se ponen de espaldas a la meta. El del medio, en cambio, mira hacia la meta: es el que ve el camino y guía al equipo.
 3. A la señal, todos los tríos corren hacia la meta sin soltarse. Los de los costados van para atrás, y el del medio les avisa por dónde ir.
 
 **Cómo se gana:** gana el primer equipo que llega a la meta entero, sin soltarse.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sintieron los que iban de espaldas, confiando en el del medio?
 
 

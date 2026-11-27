@@ -135,9 +135,10 @@ rama_rovers:
 
 # A los Gritos
 
-## Cómo se juega
+## Resumen
 Un juego ruidoso y muy divertido: dos equipos tienen que comunicarse a los gritos mientras otros dos hacen todo el ruido posible para que no se escuchen.
 
+## Desarrollo
 1. Se arman cuatro equipos y cada uno se ubica en un rincón del salón.
 2. Dos de los equipos, los que están en rincones opuestos en diagonal, son los que se comunican. El que dirige le da a uno de ellos un mensaje simple, por ejemplo una pregunta: «¿A qué hora sale el tren?».
 3. Ese equipo le grita el mensaje al equipo del rincón de enfrente. No se vale hacer señas ni gestos: todo tiene que ser con la voz.
@@ -147,11 +148,11 @@ Un juego ruidoso y muy divertido: dos equipos tienen que comunicarse a los grito
 
 **Cómo se gana:** ganan los equipos que logran pasar el mensaje y recibir una respuesta con sentido en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué hicieron para que el mensaje se entendiera? ¿Gritaron todos juntos o uno solo?
 - ¿Les pasa algo parecido en la vida, que no se escuchan por el ruido?
 
-## Notas para educadores
+## Notas para el educador
 - Juego para descargar energía y, de paso, charlar sobre cómo comunicarse con claridad (hablar todos juntos, articular, repetir).
 - Al final, un minuto de silencio absoluto: el contraste es parte del juego.
 

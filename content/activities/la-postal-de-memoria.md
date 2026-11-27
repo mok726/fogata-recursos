@@ -137,9 +137,10 @@ rama_rovers:
 
 # Reproducir la Imagen
 
-## Cómo se juega
+## Resumen
 Un juego para entrenar la memoria visual.
 
+## Desarrollo
 1. Cada jugador mira una postal o una foto durante un minuto.
 2. Se la guarda, y durante unos minutos se hace algo que distraiga mucho: un juego movido, una canción, una carrera.
 3. Después, cada jugador trata de dibujar o de describir por escrito los puntos más importantes de la imagen: qué había, dónde estaba cada cosa, los colores.
@@ -149,11 +150,11 @@ Un juego para entrenar la memoria visual.
 ### Variante: Por patrullas
 Toda la patrulla mira la misma imagen y después la dibuja entre todos, cada uno aportando lo que recuerda.
 
-## Para cerrar
+## Cierre
 - ¿Qué recordaron mejor: las formas, los colores, la cantidad de cosas?
 - ¿Les sirvió el truco de nombrar las cosas en voz baja mientras miraban?
 
-## Notas para educadores
+## Notas para el educador
 - No importa si dibujan lindo: se valora lo que recordaron. Aclaralo al principio para que nadie se frene.
 
 

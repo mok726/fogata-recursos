@@ -141,9 +141,10 @@ rama_rovers:
 1. Juntá los bastones y revisá que no tengan astillas ni clavos.
 2. Marcá en el piso un círculo grande o un cuadrado donde va la pila.
 
-## Cómo se juega
+## Resumen
 Es como el juego de los palitos chinos, pero con bastones scouts, y se juega en el piso.
 
+## Desarrollo
 1. Se juntan todos los bastones en una pila en el piso, bien mezclados y cruzados unos sobre otros. Cada jugador se queda con un bastón propio aparte: es su herramienta.
 2. Por turno, cada jugador usa su bastón como si fuera un rastrillo o un gancho para sacar un bastón de la pila, arrastrándolo, empujándolo o levantándolo.
 3. Mientras saca ese bastón, ningún otro de la pila se puede mover. Los demás miran con atención.
@@ -155,11 +156,11 @@ Es como el juego de los palitos chinos, pero con bastones scouts, y se juega en 
 ### Variante: Palos con puntaje
 Pintá una franja de color en algunos palos: los comunes valen 1 punto y los pintados, 3. Así conviene arriesgarse a sacar los difíciles.
 
-## Para cerrar
+## Cierre
 - ¿Qué palos convenía sacar primero?
 - ¿Qué les costó más: tener paciencia o tener buen pulso?
 
-## Notas para educadores
+## Notas para el educador
 - Es un buen juego tranquilo para después de una actividad movida o para un día de lluvia en el local.
 - Mantené la ronda abierta para que nadie quede detrás de otro con un palo en la mano.
 

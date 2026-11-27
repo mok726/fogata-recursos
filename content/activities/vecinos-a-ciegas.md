@@ -136,16 +136,17 @@ rama_rovers:
 
 # Vecinos
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para reconocer a los compañeros por la voz.
 
+## Desarrollo
 1. Los jugadores forman una ronda. Uno sí y uno no se vendan los ojos: así queda un vendado, uno sin venda, un vendado, y así.
 2. Los que no tienen venda, en silencio, dan una vuelta y se reacomodan en otros lugares, siempre entre dos vendados.
 3. Cada vendado le pide a su vecino de la derecha que hable, que cante o que conteste preguntas, para adivinar quién es por la voz. El vecino puede cambiar la voz para despistar.
 4. Las preguntas directas que delatan, como «¿De qué color tenés el pelo?», no hace falta contestarlas.
 5. Cuando todos los vendados dicen quién creen que es su vecino, se sacan la venda para ver si acertaron. Después se cambian los papeles.
 
-## Para cerrar
+## Cierre
 - ¿Qué los ayudó a reconocer al vecino? ¿La voz, la risa, algo que dijo?
 
 

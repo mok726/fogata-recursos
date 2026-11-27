@@ -135,19 +135,20 @@ rama_rovers:
 
 # Escape
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que uno o más jugadores encerrados tratan de escaparse sin romper el círculo.
 
+## Desarrollo
 1. Los jugadores forman una ronda tomados de las manos. Uno o más jugadores (los que se quieren escapar) se ponen en el centro.
 2. A la señal, los del centro tratan de salir de la ronda pasando por arriba o por debajo de los brazos de los demás.
 3. Los de la ronda se defienden moviendo los brazos, subiéndolos y bajándolos para cerrarles el paso, pero sin soltarse las manos.
 4. Hay dos reglas importantes: los del centro no pueden salir a la fuerza, empujando o rompiendo las manos de la ronda; y la ronda no se puede cerrar, es decir, los jugadores no pueden achicar el círculo ni amontonarse sobre los que están adentro.
 5. Cuando salieron todos, o después de un rato, se cambian los jugadores del centro.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron los que lograron salir?
 
-## Notas para educadores
+## Notas para el educador
 - Para que nadie se golpee, la ronda tiene que tener brazos estirados y no achicarse.
 
 

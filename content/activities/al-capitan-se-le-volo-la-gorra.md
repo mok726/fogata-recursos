@@ -135,9 +135,10 @@ rama_rovers:
 
 # El Cura de la Parroquia
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con un diálogo que hay que decir sin trabarse.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda y se numeran. El n.º 1 es además «el Cura» y el n.º 2, «el Sacristán».
 2. El Cura empieza: «Al cura de la parroquia se le perdió el sombrero. Unos dicen esto y otros dicen aquello, pero yo digo que lo tiene el n.º 7» (o el número que quiera). Y enseguida empieza a contar rápido hasta diez.
 3. Antes de que llegue a diez, el n.º 7 tiene que contestar: «¿Yo, señor? No, señor».
@@ -154,10 +155,10 @@ Un juego de ronda con un diálogo que hay que decir sin trabarse.
 ### Variante: Animales
 En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡Hornero a Yaguareté!» y el Yaguareté sigue «¡Yaguareté a Carpincho!». El que tarda va al último lugar y todos los demás cambian de animal.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: el diálogo o acordarse del número nuevo?
 
-## Notas para educadores
+## Notas para el educador
 - Como los números cambian todo el tiempo, todos tienen que estar atentos aunque no les toque.
 
 

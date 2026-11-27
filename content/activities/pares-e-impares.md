@@ -135,9 +135,10 @@ rama_rovers:
 
 # Carrera de Impares alrededor de Pares
 
-## Cómo se juega
+## Resumen
 Una carrera de reacción rápida: hay que prestar atención a la orden y correr alrededor del compañero que corresponde.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno al lado del otro. Cada equipo tiene un número (1, 2, 3…), y dentro de cada equipo cada jugador también tiene un número, contando desde adelante.
 2. El que dirige da una orden, por ejemplo: «¡Impares alrededor de pares… YA!».
 3. Con esa orden, cada jugador con número impar (1, 3, 5…) sale corriendo, da una vuelta alrededor del jugador con número par más cercano de su equipo y vuelve a su lugar.
@@ -150,7 +151,7 @@ Una carrera de reacción rápida: hay que prestar atención a la orden y correr 
 ### Variante: Sentados
 Se arranca sentado en el piso, para hacerlo más difícil.
 
-## Para cerrar
+## Cierre
 - ¿Cuál fue la orden más confusa?
 
 

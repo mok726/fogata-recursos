@@ -135,9 +135,10 @@ rama_rovers:
 
 # El Toque
 
-## Cómo se juega
+## Resumen
 Un juego de desafío y carrera entre dos equipos: uno va, le da un toque en la mano a un rival y vuelve corriendo antes de que lo atrapen.
 
+## Desarrollo
 1. Los dos equipos se forman en fila, uno frente al otro, en las dos puntas del salón.
 2. Los jugadores del primer equipo extienden las manos hacia adelante, con las palmas para abajo.
 3. El otro equipo manda a uno de sus jugadores. Cruza el salón, le da un toque con el dedo en la mano a cualquier rival, y sale corriendo de vuelta a su lugar.
@@ -149,10 +150,10 @@ Un juego de desafío y carrera entre dos equipos: uno va, le da un toque en la m
 
 **Cómo se gana:** gana el equipo que primero toma presos a todos los rivales.
 
-## Para cerrar
+## Cierre
 - ¿A quién convenía tocar: al más lento o al que estaba distraído?
 
-## Notas para educadores
+## Notas para el educador
 - Es pariente del «Martín Pescador» y de la «Bandera»: si ya los juegan, este es una buena variante.
 
 

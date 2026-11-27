@@ -144,9 +144,10 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Marcá un rombo con cuatro bases, a unos 15 metros entre sí.
 
-## Cómo se juega
+## Resumen
 Se juega como el rounders, pero sin bate ni pelota: en vez de pegarle a la pelota, hay que hacer un nudo.
 
+## Desarrollo
 El rounders es el juego inglés del que viene el béisbol. Se juega en una cancha con cuatro bases (postes o marcas) dispuestas en ronda, más un lugar para batear. Un equipo batea y el otro está en el campo. Cada bateador, después de batear, corre de base en base. El que da la vuelta completa y llega a la cuarta base anota un punto, que se llama «rounder». El que llegó a una base se queda ahí, y cuando batea el siguiente compañero puede seguir corriendo a las bases siguientes. Cuando todos los del equipo que batea quedaron afuera, los equipos cambian de papel.
 
 1. Se arma la cancha. Hay un lanzador (del equipo del campo) y un bateador (del equipo que batea), y los dos tienen una soga.
@@ -161,10 +162,10 @@ El rounders es el juego inglés del que viene el béisbol. Se juega en una canch
 
 **Puntaje:** gana el equipo que anota más rounders.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron los fildeadores?
 
-## Notas para educadores
+## Notas para el educador
 - La regla de que la soga vaya a un fildeador distinto cada vez es clave: hace que todos practiquen, no solo los que saben.
 
 

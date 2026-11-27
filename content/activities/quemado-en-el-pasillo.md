@@ -137,9 +137,10 @@ rama_rovers:
 
 # Quemado en Línea
 
-## Cómo se juega
+## Resumen
 Una variante del quemado: un equipo corre por un pasillo y el otro, desde afuera, trata de pegarle con pelotas.
 
+## Desarrollo
 1. Se dibujan con tiza dos líneas paralelas en el piso, a unos 3 m una de otra. Entre las dos queda un pasillo largo.
 2. Un equipo se reparte afuera del pasillo, del otro lado de las líneas, con varias pelotas de tenis. No pueden entrar al pasillo.
 3. El otro equipo corre por dentro del pasillo, de una punta a la otra, ida y vuelta, todas las veces que pueda.
@@ -149,10 +150,10 @@ Una variante del quemado: un equipo corre por un pasillo y el otro, desde afuera
 
 **Cómo se gana:** gana el equipo que hizo más recorridos completos antes de que quemaran a todos sus jugadores.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía correr de a muchos o de a uno?
 
-## Notas para educadores
+## Notas para el educador
 - Usá pelotas blandas de goma espuma o de trapo.
 
 

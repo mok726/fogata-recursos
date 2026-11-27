@@ -142,9 +142,10 @@ rama_rovers:
 1. Armá la bandeja pensando en una persona concreta. Por ejemplo: un carpintero que vive en un barrio cerca de la vía, que fue al médico y tiene un perro.
 2. Elegí objetos que den pistas sin decirlo todo.
 
-## Cómo se juega
+## Resumen
 Un juego de deducción, como los detectives.
 
+## Desarrollo
 1. El que dirige cuenta que encontraron a un hombre que perdió la memoria y no sabe quién es.
 2. Pone en una bandeja todo lo que el hombre tenía en los bolsillos: por ejemplo, un boleto, unas llaves, un lápiz, una servilleta, monedas, un papel con una lista.
 3. Cada equipo estudia los objetos y trata de deducir todo lo que pueda sobre el hombre: qué hace, dónde vive, dónde estuvo, qué le gusta.
@@ -152,11 +153,11 @@ Un juego de deducción, como los detectives.
 
 **Cómo se gana:** gana el equipo con las deducciones más razonables y mejor justificadas.
 
-## Para cerrar
+## Cierre
 - ¿Qué diferencia hay entre lo que sabemos y lo que suponemos?
 - ¿Alguna vez sacaron conclusiones de alguien por una sola cosa y se equivocaron?
 
-## Notas para educadores
+## Notas para el educador
 - Juego excelente para trabajar pensamiento crítico: valorá más el razonamiento que el acierto.
 - Da para charlar sobre prejuicios: qué suponemos de alguien por cómo se ve o lo que tiene.
 

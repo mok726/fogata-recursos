@@ -135,9 +135,10 @@ rama_rovers:
 
 # Sentadas sin Música
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para estar atentos y reaccionar rápido: hay que sentarse en el piso antes que los demás.
 
+## Desarrollo
 1. Los jugadores caminan en ronda, uno detrás del otro, por el salón.
 2. Cada vez que el que dirige toca el silbato, todos se tienen que sentar en el piso lo más rápido posible.
 3. El último en sentarse sale del juego.
@@ -151,10 +152,10 @@ Un juego de ronda para estar atentos y reaccionar rápido: hay que sentarse en e
 
 **¡Crash! con un cuento (variante del original):** el que dirige cuenta una historia y, cada vez que nombra un número («tres hermanos», «cinco días»), todos se sientan en grupos de esa cantidad. Se puede combinar con el juego del silbato: unas veces se sientan solos y otras en grupos.
 
-## Para cerrar
+## Cierre
 - ¿Qué hicieron cuando alguien quedaba solo? ¿Lo buscaban o lo dejaban afuera?
 
-## Notas para educadores
+## Notas para el educador
 - Buen momento para hablar de inclusión: proponé que, en la segunda vuelta, los grupos solo cuenten si nadie quedó afuera por culpa de otros.
 
 

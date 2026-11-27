@@ -137,9 +137,10 @@ rama_rovers:
 
 # Carrera de Obstáculos a Ciegas
 
-## Cómo se juega
+## Resumen
 Una broma inofensiva con forma de carrera de obstáculos: los jugadores pasan, con los ojos vendados, obstáculos que ya no están.
 
+## Desarrollo
 1. El que dirige arma un recorrido de obstáculos muy simple. Por ejemplo: pasar por arriba de un banco, pasar por abajo de otro, saltar un «río» marcado con dos sogas en el piso.
 2. Los jugadores hacen el recorrido con los ojos abiertos, mirando bien las distancias, para aprendérselo.
 3. Después se les vendan los ojos a los que van a correr. Mientras tanto, en absoluto silencio, se sacan todos los obstáculos.
@@ -147,10 +148,10 @@ Una broma inofensiva con forma de carrera de obstáculos: los jugadores pasan, c
 5. No se vale tantear con las manos para buscar los obstáculos.
 6. Cuando un jugador se da cuenta del engaño, se lo saca del recorrido, se le saca la venda y se queda mirando, para disfrutar de la diversión junto con los demás.
 
-## Para cerrar
+## Cierre
 - ¿Cuándo se dieron cuenta? ¿Qué les hizo sospechar?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego de una sola vez por grupo. Que todos se rían con el que pasa, no de él.
 
 

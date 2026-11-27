@@ -134,9 +134,10 @@ rama_rovers:
 
 # Posta de Imitación de Animales
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador hace el recorrido imitando a un animal, con los movimientos y con el sonido.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido, por ejemplo hasta un punto y de vuelta.
@@ -155,7 +156,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 ### Variante: Ñandú, carpincho y yacaré
 Que los animales sean de Argentina o de la selva de Mowgli: el ñandú, el carpincho, el yacaré, el oso Baloo, Kaa la serpiente.
 
-## Para cerrar
+## Cierre
 - ¿Qué animal fue el más cansador?
 
 

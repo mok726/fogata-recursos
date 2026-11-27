@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta del Caballo de Tiro
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador avanza en cuatro patas pero boca arriba, como un caballo de tiro que arrastra el carro (o como un cangrejo), apoyado en las manos y los pies.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Enfrente se marca un punto fijo, no muy lejos, porque esta forma de caminar cansa mucho.
@@ -149,10 +150,10 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Posta de los que llevan papas (variante del original):** delante de cada equipo se dibuja una fila de circulitos en el piso, con una papa en cada uno. Cada jugador lleva una cajita apoyada sobre la panza y avanza caminando como cangrejo. El primero recorre la fila de círculos, junta las papas en la cajita y vuelve para largar al siguiente. El segundo hace el recorrido al revés: va dejando una papa en cada círculo. Y así, uno junta y el otro reparte, hasta que pasaron todos. Gana el primer equipo que termina.
 
-## Para cerrar
+## Cierre
 - ¿Qué músculos sintieron después?
 
-## Notas para educadores
+## Notas para el educador
 - Que el recorrido sea corto: cansa mucho los brazos.
 
 

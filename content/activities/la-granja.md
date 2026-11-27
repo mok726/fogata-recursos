@@ -136,19 +136,20 @@ rama_rovers:
 
 # El Corral
 
-## Cómo se juega
+## Resumen
 Un juego de ruidos de animales: cada uno tiene que encontrar a su pareja imitando el sonido que le tocó.
 
+## Desarrollo
 1. Los jugadores se ubican en ronda alrededor del salón.
 2. El que dirige le dice a cada uno, en secreto al oído, el nombre de un pájaro o de un animal: vaca, perro, gallo, pato, gato, oveja… Cada animal se le da a dos jugadores, que forman una pareja sin saberlo.
 3. A la señal, todos hacen el sonido de su animal y caminan por el salón buscando a quien hace el mismo sonido.
 4. Cuando dos jugadores se encuentran, se van a sentar juntos.
 5. Para que sea más divertido, el que dirige puede darle el «burro» a un solo jugador. Ese jugador nunca va a encontrar pareja y se va a quedar solo rebuznando hasta el final.
 
-## Para cerrar
+## Cierre
 - ¿Qué animal fue el más difícil de imitar?
 
-## Notas para educadores
+## Notas para el educador
 - El burro solitario es un chiste del juego original: elegí a alguien que lo disfrute.
 - Sirve para armar parejas para la actividad siguiente.
 

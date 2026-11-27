@@ -144,9 +144,10 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Probá antes cuánto se tarda en dar la vuelta: tiene que ser un poquito más que lo que tarda alguien que sabe hacer los dos nudos.
 
-## Cómo se juega
+## Resumen
 Una carrera entre dos equipos: uno tiene que atar dos nudos antes de que un corredor del otro equipo dé una vuelta.
 
+## Desarrollo
 1. Los dos equipos se forman en fila, uno frente al otro. Cerca de cada fila tiene que haber un poste (puede ser un árbol, un mástil o una estaca firme) para atar la soga. Además se marca un recorrido para correr, que empieza y termina frente a las filas.
 2. En cada vuelta del juego, un jugador de cada equipo cruza y le da una soga a cualquier jugador del equipo contrario. Así se arman dos duelos al mismo tiempo: el corredor de un equipo contra el que ata del otro, y al revés.
 3. El que recibe la soga tiene que atársela alrededor de la cintura con un as de guía y, con la misma soga, hacer un ballestrinque alrededor del poste.
@@ -158,10 +159,10 @@ Una carrera entre dos equipos: uno tiene que atar dos nudos antes de que un corr
 
 **Consejo del original:** el largo del recorrido solo se encuentra probando. Tiene que ser lo justo para que el que ata tenga tiempo si lo hace rápido y bien.
 
-## Para cerrar
+## Cierre
 - ¿Quién logró hacer los nudos sin mirar? ¿Les ayudó practicar antes?
 
-## Notas para educadores
+## Notas para el educador
 - Cada nudo lo revisa el que dirige: un nudo mal hecho no cuenta.
 
 

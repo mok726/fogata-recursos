@@ -135,9 +135,10 @@ rama_rovers:
 
 # La Muralla China
 
-## Cómo se juega
+## Resumen
 Una mancha de cruzar el terreno: hay que pasar de un lado al otro sin que te toque el que cuida la muralla, y la muralla se va llenando de guardias.
 
+## Desarrollo
 1. Se marcan en el centro del terreno, a lo ancho, dos líneas paralelas a unos 3 m una de otra. El espacio entre las dos es la muralla.
 2. Un jugador es el guardia y se para en la muralla. Solo se puede mover dentro de ella.
 3. Los demás jugadores se ubican en un lado del terreno. A una señal, todos corren hacia el otro lado, cruzando la muralla.
@@ -145,7 +146,7 @@ Una mancha de cruzar el terreno: hay que pasar de un lado al otro sin que te toq
 5. Los que llegan al otro lado sin que los toquen esperan la señal siguiente para volver a cruzar.
 6. Así, en cada cruce hay más guardias y es más difícil pasar.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía cruzar todos juntos o de a uno?
 
 

@@ -135,9 +135,10 @@ rama_rovers:
 
 # Posta en Zigzag
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador corre en zigzag entre sus compañeros.
 
+## Desarrollo
 1. Los equipos se forman en fila india, con unos 60 cm de distancia entre jugador y jugador.
 2. A la señal, el último de cada fila corre hacia adelante pasando en zigzag entre sus compañeros: por la derecha de uno, por la izquierda del siguiente, y así.
 3. Cuando llega adelante, se queda ahí, como primero de la fila, y levanta la mano.
@@ -154,7 +155,7 @@ Se hace en un pie, caminando para atrás o gateando.
 ### Variante: Zigzag y vuelta
 Al llegar adelante, el corredor sigue hasta una marca y vuelve a ponerse adelante.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte costaba más: el zigzag o mantener la fila derecha?
 
 

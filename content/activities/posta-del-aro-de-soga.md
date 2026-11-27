@@ -136,9 +136,10 @@ rama_rovers:
 
 # Carrera del Aro
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador tiene que pasar entero a través de un aro.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 Un aro de soga es una soga con las puntas atadas, formando un anillo. Para este juego tiene que ser apenas lo bastante grande como para que pase el cuerpo de un jugador.
@@ -153,10 +154,10 @@ Un aro de soga es una soga con las puntas atadas, formando un anillo. Para este 
 
 **Carrera de los remeros (variante del original):** los equipos se sientan en el piso en fila india. Cada equipo tiene un aro de soga de unos 45 cm de diámetro. El primero, sin levantarse, se pasa el aro por los pies, lo sube por el cuerpo, lo saca por la cabeza y se lo da al de atrás, que hace lo mismo. Cuando el aro llega al último, este se lo pasa al revés, de la cabeza a los pies, y lo devuelve hacia adelante, y así vuelve pasando por todos. Gana el equipo cuyo aro llega primero otra vez al de adelante. Otra forma: cuando el aro llega al último, este corre hasta la punta de adelante, se sienta ahí y lo vuelve a largar; se sigue hasta que todos recuperaron su lugar.
 
-## Para cerrar
+## Cierre
 - ¿Qué técnica era la más rápida?
 
-## Notas para educadores
+## Notas para el educador
 - El aro de soga lo puede hacer la patrulla antes, con un empalme corto (ver Técnica Scout).
 
 

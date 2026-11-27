@@ -144,9 +144,10 @@ rama_rovers:
 2. Para cada uno, escribí un mensaje abreviado que diga a qué distancia y de qué está. Usá abreviaturas fáciles: P. = pared, N. S. E. O. = puntos cardinales, m = metros, p = pasos.
 3. Guardá cada mensaje en un sobre con el nombre de la patrulla.
 
-## Cómo se juega
+## Resumen
 Una búsqueda del tesoro con mensajes en clave.
 
+## Desarrollo
 1. Antes del juego, el que dirige esconde un «tesoro» y prepara mensajes con pistas en sobres cerrados.
 2. Le da un sobre a cada guía de patrulla, que no lo puede abrir hasta la señal.
 3. A la señal, cada guía abre el sobre y su patrulla sigue las órdenes del mensaje, que es una pista para encontrar el tesoro.
@@ -158,10 +159,10 @@ Una búsqueda del tesoro con mensajes en clave.
 ### Variante: En cadena
 El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro mensajes, llegan al tesoro final.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte del mensaje les costó más? ¿Cómo lo resolvieron?
 
-## Notas para educadores
+## Notas para el educador
 - Antes, repasá los puntos cardinales del local: pegá carteles con N, S, E y O en las paredes si hace falta.
 
 

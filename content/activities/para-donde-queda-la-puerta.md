@@ -139,9 +139,10 @@ rama_rovers:
 
 # ¿Para Qué Lado?
 
-## Cómo se juega
+## Resumen
 Un juego para orientarse dentro de un salón sin ver.
 
+## Desarrollo
 1. Se dibuja con tiza un círculo en el piso y se ponen adentro 3 o 4 objetos distintos (una silla, una mochila, una caja).
 2. Cada jugador, por turno, mira el círculo unos momentos y se fija dónde está cada objeto.
 3. Después de algo que lo distraiga, se le vendan los ojos y se lo lleva hasta el borde del círculo, girándolo un poco para que pierda la orientación.
@@ -149,7 +150,7 @@ Un juego para orientarse dentro de un salón sin ver.
 
 **Cómo se gana:** gana el que señala con más exactitud. Se puede jugar por equipos.
 
-## Para cerrar
+## Cierre
 - ¿Qué objeto les sirvió más para ubicarse?
 - ¿Cómo se usa esto para orientarse en el campamento de noche?
 

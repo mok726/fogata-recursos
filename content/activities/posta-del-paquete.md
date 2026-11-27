@@ -141,9 +141,10 @@ rama_rovers:
 
 # Posta del Paquete
 
-## Cómo se juega
+## Resumen
 Una carrera de postas para aprender a armar un paquete prolijo y bien atado.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida.
 2. Enfrente de cada equipo, a cierta distancia, se deja un pedazo de papel madera, un poco de piolín y un objeto para envolver (un libro, una caja chica, lo que haya).
 3. A la orden, el primero de cada equipo corre hasta allá y arma el paquete: envuelve el objeto con el papel y lo ata con el piolín. Tiene que quedar bien hecho, a conformidad del que dirige, que lo revisa.
@@ -153,7 +154,7 @@ Una carrera de postas para aprender a armar un paquete prolijo y bien atado.
 
 **Cómo se gana:** gana el primer equipo que termina.
 
-## Para cerrar
+## Cierre
 - ¿Para qué sirve saber hacer un paquete bien atado? (Mudanzas, envíos, campamento.)
 
 

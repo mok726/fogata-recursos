@@ -135,19 +135,20 @@ rama_rovers:
 
 # Actuar un Oficio
 
-## Cómo se juega
+## Resumen
 Un juego de mímica para adivinar oficios.
 
+## Desarrollo
 1. Por turno, cada jugador (o cada pareja) actúa sin hablar algún oficio, profesión o situación de todos los días: el plomero y su ayudante, alguien afeitándose, un cirujano operando, etc.
 2. Sigue actuando hasta que los demás adivinan qué es.
 
 **Actuar animales (variante del original):** cada jugador, por turno, actúa un animal, pájaro, reptil o insecto, con movimientos y sonidos, hasta que lo adivinan.
 
-## Para cerrar
+## Cierre
 - ¿Qué oficios conocieron que no sabían que existían?
 - ¿Qué les gustaría ser cuando sean grandes?
 
-## Notas para educadores
+## Notas para el educador
 - Puede dar pie a una charla sobre oficios del barrio o a una visita a un taller (ver Visita a Talleres y Fábricas).
 - Evitá estereotipos de género en las tarjetas: que haya médicas, plomeras, enfermeros.
 

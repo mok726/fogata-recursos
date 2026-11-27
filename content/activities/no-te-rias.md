@@ -136,16 +136,17 @@ rama_rovers:
 
 # No Te Rías
 
-## Cómo se juega
+## Resumen
 Un juego para aguantar la risa.
 
+## Desarrollo
 1. Los jugadores se forman en fila.
 2. El que dirige dice: «Hagan lo que yo hago, y no se rían».
 3. Hace gestos, muecas y movimientos graciosos, y todos tienen que copiarlo lo mejor que puedan.
 4. El que se ríe pierde una vida.
 5. Los que pierden tres vidas salen y pagan una prenda al final (una prenda es una pequeña penitencia divertida: cantar, imitar a alguien, etc.).
 
-## Para cerrar
+## Cierre
 - ¿Qué gesto hizo reír a más gente?
 
 

@@ -136,9 +136,10 @@ rama_rovers:
 
 # El Scout Perdido
 
-## Cómo se juega
+## Resumen
 Un juego de observación de los compañeros.
 
+## Desarrollo
 1. En medio de la reunión, el que dirige manda a un jugador fuera del salón sin que los demás lo noten.
 2. Después anuncia: «Falta alguien. Para el grupo de búsqueda necesito una descripción de cómo es y de qué ropa tiene puesta».
 3. Cada jugador o cada equipo escribe la descripción del que falta: quién es, cómo es, qué ropa lleva, de qué color.
@@ -146,11 +147,11 @@ Un juego de observación de los compañeros.
 
 **Cómo se gana:** gana la descripción más exacta del compañero y de su ropa.
 
-## Para cerrar
+## Cierre
 - ¿Qué detalles fueron los más difíciles de recordar?
 - ¿Saben qué hacer si en una salida se pierde alguien de verdad? ¿A quién se avisa primero?
 
-## Notas para educadores
+## Notas para el educador
 - Buena entrada para hablar de qué hacer si alguien se pierde en un campamento o en la calle, y de la importancia de avisar enseguida a un adulto.
 - Elegí a alguien que no se ponga incómodo con ser el centro de atención.
 

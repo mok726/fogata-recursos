@@ -136,9 +136,10 @@ rama_rovers:
 
 # ¡Agarrá!
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para estar atentos a las órdenes y ser rápidos: hay que agarrar un objeto antes de que se terminen.
 
+## Desarrollo
 1. Los jugadores forman una ronda. En el centro se ponen varios objetos chicos (pañuelos, piedras, tapitas, lo que haya), uno menos que la cantidad de jugadores. Si juegan 10, se ponen 9 objetos.
 2. El que dirige va dando distintas órdenes, y los jugadores las cumplen: «¡manos arriba!», «¡un paso atrás!», «¡en cuclillas!», «¡den una vuelta!».
 3. Pero cada vez que dice «¡Agarrá!», todos se tiran al centro para tratar de agarrar uno de los objetos.
@@ -147,10 +148,10 @@ Un juego de ronda para estar atentos a las órdenes y ser rápidos: hay que agar
 
 **Cómo se gana:** gana el último que queda.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: escuchar bien o ser rápido?
 
-## Notas para educadores
+## Notas para el educador
 - Usá objetos blandos y ronda amplia para evitar cabezazos. Con muchos jugadores, poné los objetos esparcidos y no todos juntos.
 
 

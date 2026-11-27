@@ -135,9 +135,10 @@ rama_rovers:
 
 # Dos y Tres
 
-## Cómo se juega
+## Resumen
 Un juego de persecución en ronda, en el que el perseguido se salva parándose delante de una pareja.
 
+## Desarrollo
 1. Los jugadores forman una ronda de parejas, mirando hacia adentro: uno adelante y su compañero parado justo detrás. Así la ronda queda de «dos en fondo».
 2. Se eligen dos jugadores más: uno persigue y el otro escapa. Corren por afuera y por entre las parejas.
 3. Cuando el perseguido quiere salvarse, se para delante de una pareja. En ese momento quedan tres en fila, y sobra uno: el de más atrás de esa fila pasa a ser el nuevo perseguido y tiene que salir corriendo.
@@ -149,10 +150,10 @@ Un juego de persecución en ronda, en el que el perseguido se salva parándose d
 
 **Otras formas de moverse (variante del original):** en vez de correr, se puede jugar caminando, saltando en un pie, etc.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía salvarse rápido o seguir corriendo?
 
-## Notas para educadores
+## Notas para el educador
 - Un clásico del patio. Con mucha gente, que haya dos perseguidores a la vez.
 
 

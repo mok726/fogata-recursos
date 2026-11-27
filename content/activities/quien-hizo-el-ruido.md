@@ -135,19 +135,20 @@ rama_rovers:
 
 # El Ciego
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para reconocer a los compañeros por la voz.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda. Uno, el ciego, se para en el centro con los ojos vendados.
 2. El ciego señala hacia cualquier lado y hace un ruido: un maullido, un ladrido, una risa, un silbido, lo que quiera (que sea un ruido razonable).
 3. El jugador al que señaló tiene que imitar ese mismo ruido lo mejor que pueda.
 4. El ciego trata de adivinar quién lo imitó. Si acierta, cambian de lugar. Si no, sigue señalando.
 5. Cada vez que hay un ciego nuevo, los de la ronda cambian de lugar entre ellos, para que no sepa quién está en cada lado.
 
-## Para cerrar
+## Cierre
 - ¿Cómo reconocieron a sus compañeros aunque cambiaran la voz?
 
-## Notas para educadores
+## Notas para el educador
 - Un juego muy simple para lobatos, para arrancar una reunión o para esperar un rato.
 
 

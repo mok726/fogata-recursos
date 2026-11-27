@@ -137,9 +137,10 @@ rama_rovers:
 
 # El Bastón que Cae
 
-## Cómo se juega
+## Resumen
 Un juego de reflejos: hay que agarrar el bastón antes de que caiga al piso cuando dicen tu número.
 
+## Desarrollo
 1. Los jugadores se sientan en el piso, en ronda, y a cada uno se le da un número. Los números se reparten mezclados, no en orden, para que nadie sepa dónde le toca al siguiente.
 2. El que dirige se para en el centro con un bastón scout parado en el piso, sosteniéndolo derecho solo con un dedo apoyado en la punta de arriba.
 3. De golpe dice un número y saca el dedo.
@@ -152,10 +153,10 @@ Un juego de reflejos: hay que agarrar el bastón antes de que caiga al piso cuan
 
 **Atrapá el globo (otro juego del original, parecido):** los jugadores se sientan en el piso en ronda, numerados pero no en orden. El que dirige se para en el centro con un globo chico inflado en la mano. Lo suelta y, al mismo tiempo, dice un número. El jugador que tiene ese número trata de agarrar el globo antes de que toque el piso.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: escuchar el número o ser rápido?
 
-## Notas para educadores
+## Notas para el educador
 - La ronda no debería ser muy grande: con un radio de unos dos metros todos tienen chance.
 
 

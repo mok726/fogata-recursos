@@ -137,9 +137,10 @@ rama_rovers:
 
 # Juego de Observación
 
-## Cómo se juega
+## Resumen
 Un juego para aprender a describir con detalle.
 
+## Desarrollo
 1. El que dirige pone dos objetos chicos sobre una silla, por ejemplo dos tornillos.
 2. Pregunta a todos qué hay en la silla.
 3. Al principio la respuesta va a ser «Dos tornillos». Con la práctica tiene que mejorar, hasta llegar a algo así: «Dos tornillos: uno de bronce, de unos 4 cm de largo, con la cabeza grande y la rosca gruesa; el otro, de unos 2 cm de largo y muy oxidado».
@@ -147,11 +148,11 @@ Un juego para aprender a describir con detalle.
 
 **Cómo se gana:** gana la descripción más completa y exacta. El nivel tiene que mejorar muy rápido de una vuelta a otra.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas aprendieron a mirar que antes no miraban?
 - ¿Para qué le sirve a alguien saber describir bien? (Por ejemplo, para contarle a un adulto o a la policía cómo era algo que se perdió.)
 
-## Notas para educadores
+## Notas para el educador
 - Conviene repetirlo varias reuniones seguidas, un ratito cada vez: el progreso se nota rápido y eso motiva.
 
 

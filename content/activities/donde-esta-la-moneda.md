@@ -136,9 +136,10 @@ rama_rovers:
 
 # Arriba, Jenkins
 
-## Cómo se juega
+## Resumen
 Un juego de mesa entre dos equipos: hay que descubrir quién esconde la moneda.
 
+## Desarrollo
 1. Los dos equipos se sientan uno a cada lado de una mesa. Cada equipo tiene un capitán.
 2. Un equipo tiene una moneda chica. Con las manos debajo de la mesa, se la pasan entre ellos hasta que uno se la queda escondida en el puño.
 3. El capitán del otro equipo grita: «¡Arriba, Jenkins!» (es la frase del juego original inglés; se puede decir «¡Arriba las manos!»). Todos los del equipo de la moneda levantan los puños cerrados.
@@ -151,10 +152,10 @@ Un juego de mesa entre dos equipos: hay que descubrir quién esconde la moneda.
 - Si se equivoca, pierde 1 o 5 puntos según el caso.
 - Cuando pierde el equipo que tenía la moneda, la moneda pasa al otro equipo. El capitán cambia en cada partida.
 
-## Para cerrar
+## Cierre
 - ¿Qué gestos delataban al que tenía la moneda?
 
-## Notas para educadores
+## Notas para el educador
 - Un clásico para tardes de lluvia en campamento.
 
 

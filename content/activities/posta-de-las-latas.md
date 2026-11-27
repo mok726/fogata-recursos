@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta de las Macetas
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que se avanza parado sobre dos macetas, sin tocar el suelo.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo se ponen dos macetas dadas vuelta, o dos latas firmes, que aguanten el peso de un jugador. Enfrente se marca un punto de vuelta.
@@ -149,10 +150,10 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Cómo se gana:** gana el primer equipo en el que pasaron todos.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía ir rápido o ir seguro?
 
-## Notas para educadores
+## Notas para el educador
 - Usá latas firmes (de pintura) o ladrillos. Las de conserva se doblan y cortan.
 
 

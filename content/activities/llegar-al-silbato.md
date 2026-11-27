@@ -141,9 +141,10 @@ rama_rovers:
 1. Revisá el terreno: nada de pozos, piedras, ramas bajas ni alambrados.
 2. Elegí uno o dos dirigentes o scouts más grandes como custodios, que caminen sin hablar al lado de los jugadores para que nadie se lastime.
 
-## Cómo se juega
+## Resumen
 Un juego para aprender a orientarse con el oído.
 
+## Desarrollo
 1. El que dirige se ubica en algún lugar de un espacio abierto. Los equipos se forman a cierta distancia, y a todos los jugadores se les vendan los ojos.
 2. El que dirige toca el silbato cada tanto. Los jugadores caminan hacia el sonido.
 3. Cuando un jugador llega hasta el que dirige, se saca la venda y se queda callado, para no ayudar a los demás con su voz.
@@ -152,11 +153,11 @@ Un juego para aprender a orientarse con el oído.
 
 **¿Qué silbato? (variante del original):** cada guía de equipo se aleja la misma distancia del punto de partida y se lleva un silbato que suena distinto de los demás. Los equipos, con los ojos vendados, tienen que reconocer el sonido de su propio guía y llegar hasta él. El que llega al guía equivocado vuelve al punto de partida y empieza de nuevo. Gana el primer equipo que se junta completo alrededor de su guía.
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para saber de dónde venía el sonido?
 - ¿Les pasó que el viento o el eco los confundiera?
 
-## Notas para educadores
+## Notas para el educador
 - El viento desvía mucho el sonido: si hay viento, tocá más seguido o acortá la distancia.
 - Este juego entrena justo lo que hace falta si alguien se pierde y escucha un silbato de búsqueda.
 

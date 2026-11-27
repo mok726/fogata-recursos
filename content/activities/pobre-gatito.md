@@ -134,19 +134,20 @@ rama_rovers:
 
 # Pobre Gatito
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para aguantarse la risa: uno hace de gatito y los demás no tienen que reírse.
 
+## Desarrollo
 1. Los jugadores se sientan en el piso, en ronda. Uno, el «gatito», se pone en el centro, en cuatro patas.
 2. El gatito gatea hasta quien quiera y le maúlla tres veces.
 3. A cada maullido, ese jugador tiene que acariciarle la cabeza y decir «Pobre gatito», con toda seriedad. Son tres caricias y tres «Pobre gatito», sin reírse.
 4. El gatito puede hacer todas las muecas, caras y gestos que quiera para hacerlo reír, pero no puede hablar y tiene que andar siempre en cuatro patas.
 5. Si el jugador se ríe, pierde un punto o pasa a ser el gatito (se acuerda antes cuál de las dos cosas). Si aguanta, el gatito va a probar con otro.
 
-## Para cerrar
+## Cierre
 - ¿Quién fue el gatito más gracioso? ¿Quién el más serio?
 
-## Notas para educadores
+## Notas para el educador
 - Juego clásico para una ronda de Manada. Cuidá que nadie se sienta obligado a tocar a otro: se puede «acariciar» en el aire.
 
 

@@ -137,9 +137,10 @@ rama_rovers:
 
 # Nueces y Pasas
 
-## Cómo se juega
+## Resumen
 Un juego de pases por equipos: un equipo trata de pasarse la pelota cinco veces seguidas sin perderla, y el otro trata de cortarle los pases.
 
+## Desarrollo
 1. Se arman dos equipos. Uno tiene la pelota (puede ser una de fútbol) y se la va pasando entre sus jugadores, con la mano. El otro equipo trata de interceptarla.
 2. Cada vez que el equipo que ataca hace 5 pases seguidos limpios, sin que se le caiga la pelota y sin que el otro la toque, suma un punto.
 3. Ningún jugador puede quedarse con la pelota más de 5 segundos ni dar más de 5 pasos con ella: la tiene que pasar.
@@ -149,10 +150,10 @@ Un juego de pases por equipos: un equipo trata de pasarse la pelota cinco veces 
 
 **Cómo se gana:** gana el equipo que suma más puntos en ese tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué hacían los que no tenían la pelota para ayudar?
 
-## Notas para educadores
+## Notas para el educador
 - Pedí que los pases se den a todos los compañeros, no siempre a los mismos. Podés exigir que los cinco pases vayan a cinco jugadores distintos.
 
 

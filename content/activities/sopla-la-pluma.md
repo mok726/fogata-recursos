@@ -137,9 +137,10 @@ rama_rovers:
 
 # Posta de Soplar la Pluma
 
-## Cómo se juega
+## Resumen
 Una carrera de postas a puro soplido: hay que llevar una pluma por el recorrido sin tocarla.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Se marca un recorrido, por ejemplo hasta una línea y de vuelta. Conviene jugarlo bajo techo, sin viento.
@@ -153,7 +154,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Posta del pescado frito (variante del original):** justo delante de cada equipo se dibuja en el piso un círculo de unos 30 cm de diámetro, y otro igual en la otra punta del recorrido: son las dos «sartenes». Cada equipo tiene un abanico y un pescado recortado en papel finito, con forma de pez chato, como un lenguado. Cada jugador, por turno, lleva el pescado abanicándolo desde una sartén hasta la otra, sin tocarlo de ninguna manera. Para que cuente, el pescado tiene que quedar totalmente adentro del círculo, sin que sobresalga nada. Después sigue el siguiente. Gana el primer equipo en el que pasaron todos.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco descubrieron para que la pluma no se fuera para cualquier lado?
 
 

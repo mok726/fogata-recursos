@@ -138,9 +138,10 @@ rama_rovers:
 
 # Carrera del Ciempiés
 
-## Cómo se juega
+## Resumen
 Una carrera en la que todo el equipo, montado sobre un bastón, avanza como un ciempiés, casi todos de espaldas.
 
+## Desarrollo
 1. Cada equipo se forma en fila india y se monta a horcajadas sobre un bastón scout largo, es decir, con el bastón entre las piernas, como si fuera un caballito. Todos lo sostienen con las manos.
 2. Todos los jugadores se ponen de espaldas a la dirección en que van a correr, menos uno, que mira para adelante. Ese es el timonel: como en un bote de remo, es el que ve el camino y guía a los demás.
 3. A la señal, cada equipo corre el recorrido así, sin soltar el bastón, siguiendo las indicaciones de su timonel.
@@ -149,10 +150,10 @@ Una carrera en la que todo el equipo, montado sobre un bastón, avanza como un c
 
 **Carrera del equipo ciego (variante del original):** cada equipo se forma en fila india y cada jugador se agarra de los hombros del de adelante. Todos tienen los ojos vendados, menos el último, que es el conductor. Al primero de la fila se le atan unas riendas de soga, que llegan hasta el conductor. El conductor guía a todo el equipo con las riendas por un recorrido que va y viene en zigzag. Gana el primer equipo que termina entero, sin soltarse.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sintieron yendo para atrás? ¿Qué instrucciones del timonel ayudaban más?
 
-## Notas para educadores
+## Notas para el educador
 - El palo va a la altura de la cintura, nunca entre las piernas a la altura de la entrepierna: así nadie se lastima.
 
 

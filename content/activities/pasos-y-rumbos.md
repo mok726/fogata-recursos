@@ -138,9 +138,10 @@ rama_rovers:
 
 # Pasos
 
-## Cómo se juega
+## Resumen
 Un juego a ciegas en el que hay que encontrar a los compañeros y reconocerlos solo con las manos.
 
+## Desarrollo
 1. Un jugador, el ciego, se para en el centro con los ojos vendados.
 2. Los demás, de a uno, se le acercan. El que dirige le dice a cada uno, en voz baja, una cantidad de pasos, cualquier número entre 3 y 9.
 3. El jugador tiene que dar todos esos pasos seguidos, en la dirección que quiera, alejándose del ciego. Cuando termina, se queda quieto en ese lugar.
@@ -150,7 +151,7 @@ Un juego a ciegas en el que hay que encontrar a los compañeros y reconocerlos s
 
 **Pasos con brújula (variante del original):** se juega igual, pero a cada jugador se le dice, además de la cantidad de pasos, una dirección de la brújula (por ejemplo, «cinco pasos al Este»). Antes de empezar, el que dirige muestra dónde quedan los puntos cardinales. Si un jugador sale para el lado equivocado, pierde una vida. El que pierde tres vidas paga una prenda al final del juego.
 
-## Para cerrar
+## Cierre
 - ¿Cómo saben para dónde queda el Noreste si solo conocen el Norte?
 
 

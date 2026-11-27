@@ -139,9 +139,10 @@ rama_rovers:
 
 # Ubicar el Bastón
 
-## Cómo se juega
+## Resumen
 Un juego para calcular distancias y caminar derecho sin ver.
 
+## Desarrollo
 1. El que dirige clava un bastón en el suelo.
 2. Cada jugador lo mira bien desde unos 20 o 30 metros, se venda los ojos y sale caminando con su propio bastón en la mano.
 3. Cuando cree que llegó, clava su bastón lo más cerca posible del primero.
@@ -149,10 +150,10 @@ Un juego para calcular distancias y caminar derecho sin ver.
 
 **Cómo se gana:** gana el que clava su bastón más cerca.
 
-## Para cerrar
+## Cierre
 - ¿Contar los pasos los ayudó? ¿Cuántos pasos tuyos son 20 metros?
 
-## Notas para educadores
+## Notas para el educador
 - Combina bien con la ficha de medidas personales (cuánto mide tu paso).
 - Si el piso es duro, usá en su lugar una marca en el suelo y que el jugador apoye la punta del bastón.
 

@@ -137,15 +137,16 @@ rama_rovers:
 
 # Palabras que Faltan
 
-## Cómo se juega
+## Resumen
 Un juego de palabras: hay que completar frases.
 
+## Desarrollo
 1. El que dirige lee frases a las que les falta una palabra. Por ejemplo: «El scout se lastimó el pie y se fue…».
 2. Cada jugador escribe una palabra que entre en el hueco, o varias: «sonriendo», «silbando», «rengueando», «al botiquín».
 
 **Cómo se gana:** cada palabra que tenga sentido vale un punto. Gana el que tiene más.
 
-## Para cerrar
+## Cierre
 - ¿Qué palabra los sorprendió? ¿Cambia mucho la frase con cada palabra?
 
 

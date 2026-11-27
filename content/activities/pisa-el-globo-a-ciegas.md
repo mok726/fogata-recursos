@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pisar el Globo
 
-## Cómo se juega
+## Resumen
 Un juego de memoria y orientación: hay que reventar un globo pisándolo, pero con los ojos vendados.
 
+## Desarrollo
 1. Se pone un globo chico, inflado, en el piso.
 2. Un jugador de un equipo se para a unos pasos y mira bien dónde está el globo.
 3. Después se le vendan los ojos. Camina hasta donde cree que está el globo y, cuando le parece que llegó, puede dar tres pisotones para tratar de reventarlo.
@@ -149,10 +150,10 @@ Un juego de memoria y orientación: hay que reventar un globo pisándolo, pero c
 
 **Cómo se gana:** gana el equipo que revienta más globos.
 
-## Para cerrar
+## Cierre
 - ¿Contar los pasos los ayudó?
 
-## Notas para educadores
+## Notas para el educador
 - Juntá todos los pedazos de globo al terminar: son peligrosos para los animales.
 - Que nadie juegue descalzo.
 

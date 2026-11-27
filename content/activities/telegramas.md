@@ -137,9 +137,10 @@ rama_rovers:
 
 # Telegramas
 
-## Cómo se juega
+## Resumen
 Un juego de ingenio por equipos: hay que armar un mensaje con las letras de una palabra.
 
+## Desarrollo
 1. El que dirige dice una palabra y un tema. Por ejemplo: «FOGÓN» y «un telegrama del Jefe Scout».
 2. Cada equipo arma un telegrama sobre ese tema, en el que cada palabra empieza con una letra de «fogón», en el mismo orden: F, O, G, O, N. Por ejemplo: «Felices. Olvidamos Galletitas. Organizamos Nuevamente. EL JEFE».
 3. Los telegramas eran mensajes cortos que se mandaban por el correo y se cobraban por palabra; por eso eran tan breves.
@@ -148,10 +149,10 @@ Un juego de ingenio por equipos: hay que armar un mensaje con las letras de una 
 
 **Armar oraciones (variante del original):** el que dirige dice una palabra, por ejemplo «CONEJO». Cada jugador del equipo, por turno, dice una palabra que empiece con la letra que le toca, de modo que entre todos armen una oración que tenga sentido: «Carlos Olvidó Nuestras Empanadas, Juana Odió» (seis jugadores, una palabra cada uno). La palabra elegida tiene tantas letras como jugadores tiene cada equipo. Gana la mejor oración armada en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué era un telegrama? ¿Por qué se escribía tan corto? (Se pagaba por palabra.)
 
-## Notas para educadores
+## Notas para el educador
 - Es una linda excusa para contar cómo se comunicaba la gente antes de los celulares.
 
 

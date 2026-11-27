@@ -145,9 +145,10 @@ rama_rovers:
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
+## Resumen
 Los juegos de nudos de carrera se pueden jugar también con los ojos vendados. Es una forma de comprobar quién sabe los nudos de verdad, con las manos, y no solo mirando.
 
+## Desarrollo
 1. Elegí uno de los juegos de nudos: la Posta de Nudos, la Carrera de Nudos o la Carrera de As de Guía y Ballestrinque.
 2. Se juega con las mismas reglas de ese juego, pero cada jugador hace su nudo con los ojos vendados. Se le pone la venda justo antes de atar y se la saca cuando termina.
 3. El que dirige, o alguien que no juega, revisa cada nudo antes de que siga el próximo jugador.
@@ -157,11 +158,11 @@ Los juegos de nudos de carrera se pueden jugar también con los ojos vendados. E
 ### Variante: En posta
 Cualquier carrera de nudos se puede correr con los ojos vendados.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudos ya los tienen en las manos? ¿Cuáles todavía necesitan mirar?
 - ¿Para qué sirve saber hacerlos sin mirar? (De noche, con lluvia, en una emergencia.)
 
-## Notas para educadores
+## Notas para el educador
 - Para Manada, usá solo los nudos de su progresión.
 
 

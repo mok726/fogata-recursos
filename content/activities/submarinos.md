@@ -136,9 +136,10 @@ rama_rovers:
 
 # Espías, o Submarinos
 
-## Cómo se juega
+## Resumen
 Un juego de sigilo: un equipo, con los ojos vendados, forma una barrera, y el otro equipo, los espías, tiene que cruzarla sin que lo toquen.
 
+## Desarrollo
 1. Un equipo es el cordón. Sus jugadores se vendan los ojos y forman una fila de pared a pared del salón, tomados de las manos. Cada uno se para con las piernas abiertas, de modo que su pie izquierdo toque apenas el pie derecho del compañero de al lado. Así queda una barrera continua.
 2. El otro equipo son los espías (o submarinos). Desde un lado del salón, tratan de pasar al otro lado atravesando el cordón sin que los toquen: por entre las piernas, por debajo de los brazos, por donde puedan, haciendo el menor ruido posible.
 3. Los del cordón pueden soltarse las manos para estirarse y atrapar a un espía que sienten cerca, pero no pueden mover los pies ni doblar las rodillas.
@@ -147,10 +148,10 @@ Un juego de sigilo: un equipo, con los ojos vendados, forma una barrera, y el ot
 
 **Cómo se gana:** gana el equipo que logra hacer pasar más espías al otro lado.
 
-## Para cerrar
+## Cierre
 - ¿Qué ruido delataba a los submarinos?
 
-## Notas para educadores
+## Notas para el educador
 - Poné un límite de tiempo, de tres minutos, para que no se haga eterno.
 
 

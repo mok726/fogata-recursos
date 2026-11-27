@@ -135,9 +135,10 @@ rama_rovers:
 
 # El Alfabeto del Barco
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para pensar rápido palabras con una letra.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda. El que dirige dice una letra, por ejemplo la «M».
 2. Le pregunta al primero: «¿Cómo se llama el barco?». Tiene que contestar enseguida con un nombre que empiece con M: «La Mariposa».
 3. Al segundo: «¿Cómo se llama el capitán?» («Martín»). Al tercero: «¿A dónde va?» («A Mendoza»). Al cuarto: «¿Qué lleva?» («Mandarinas»). Y así siguiendo la ronda, con otras preguntas.
@@ -149,10 +150,10 @@ Un juego de ronda para pensar rápido palabras con una letra.
 ### Variante: El barco del campamento
 Todo lo que lleva el barco tiene que servir para el campamento: con la M, «mochilas», «mate», «mantas».
 
-## Para cerrar
+## Cierre
 - ¿Qué letras fueron las más difíciles?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego conocido en muchos países de habla hispana con distintos nombres. Ideal para esperar el colectivo o la comida.
 
 

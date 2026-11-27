@@ -145,9 +145,10 @@ rama_rovers:
 1. Alisá bien la arena o la tierra húmeda.
 2. Planeá una escena corta con cuatro o cinco acciones claras.
 
-## Cómo se juega
+## Resumen
 Un juego de rastreo: leer en el suelo lo que pasó.
 
+## Desarrollo
 1. Se prepara una franja de arena o de tierra suelta y alisada.
 2. Sin que los jugadores miren, uno o dos dirigentes representan ahí una escena simple: por ejemplo, alguien camina, se para, deja caer algo, otro llega corriendo, se pelean, uno se va arrastrando un pie.
 3. Cada equipo puede estudiar las huellas durante unos minutos, sin pisarlas.
@@ -156,11 +157,11 @@ Un juego de rastreo: leer en el suelo lo que pasó.
 
 **Cómo se gana:** gana el equipo que mejor reconstruye lo que pasó.
 
-## Para cerrar
+## Cierre
 - ¿En qué se nota en la huella si alguien corre o camina?
 - ¿Qué huellas de animales podrían encontrar en el lugar del campamento?
 
-## Notas para educadores
+## Notas para el educador
 - Antes del juego, mostrá cómo cambia la huella al caminar, correr, cargar peso o caminar para atrás.
 - Combina con las fichas de rastreo de B-P (Dibujá la Huella, Memoria de Huellas).
 

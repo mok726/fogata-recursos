@@ -144,9 +144,10 @@ rama_rovers:
 2. Marcá con una flechita, en una esquina, cuál es el lado de arriba de cada silueta. Así el que toca sabe cómo agarrarla.
 3. Numeralas por detrás.
 
-## Cómo se juega
+## Resumen
 Un juego para adivinar formas solo con las manos.
 
+## Desarrollo
 1. Antes del juego, el que dirige recorta en cartón varias figuras conocidas, por ejemplo cabezas de animales (un caballo, un perro, un gallo, un elefante). En cada cartón marca cuál es la parte de arriba, para que el que toca sepa cómo agarrarlo.
 2. Por turno, a cada jugador se le vendan los ojos y se le da una figura.
 3. El jugador la toca, recorre el borde con los dedos y dice qué cree que es.
@@ -159,11 +160,11 @@ Cada patrulla manda un jugador por ronda. Gana la patrulla con más aciertos en 
 ### Variante: Hojas del lugar
 En vez de siluetas, usá hojas de árboles del lugar (secas y ya caídas). Hay que adivinar de qué árbol son.
 
-## Para cerrar
+## Cierre
 - ¿Qué siluetas fueron más fáciles? ¿Por qué?
 - ¿Cómo se las arreglan las personas ciegas para reconocer las cosas?
 
-## Notas para educadores
+## Notas para el educador
 - Sirve para hablar de inclusión y de cómo usamos los otros sentidos cuando falta la vista.
 - Para Manada usá formas muy simples; para Scouts podés usar siluetas parecidas entre sí (dos herramientas, dos aves).
 

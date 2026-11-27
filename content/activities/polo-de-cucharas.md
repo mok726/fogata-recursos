@@ -138,9 +138,10 @@ rama_rovers:
 
 # Pelota de Piso, o Polo
 
-## Cómo se juega
+## Resumen
 Un polo de salón: los jugadores «montan» en sillas como si fueran caballos y le pegan a una pelota de tenis con una cuchara, como si fuera el taco de polo.
 
+## Desarrollo
 1. Se marca un arco en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
 2. Cada jugador va «montado» en una silla, sentado a caballo, y se desplaza arrastrándola o dando saltitos con ella. Lleva una cuchara en la mano, que es su taco.
 3. Se pone una pelota de tenis en el centro. Los jugadores le pegan con la cuchara para llevarla hasta el arco del otro equipo.
@@ -148,7 +149,7 @@ Un polo de salón: los jugadores «montan» en sillas como si fueran caballos y 
 
 **Cómo se gana:** gana el equipo que hace más goles.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pasaban la pelota entre compañeros?
 
 

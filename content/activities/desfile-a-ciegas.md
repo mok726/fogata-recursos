@@ -136,18 +136,19 @@ rama_rovers:
 
 # Orden Cerrado a Ciegas
 
-## Cómo se juega
+## Resumen
 Un juego de orden cerrado con los ojos vendados: se siguen órdenes de marcha sin ver, y al final todos descubren el lío en que quedaron.
 
+## Desarrollo
 1. Los jugadores se forman en fila, como para orden cerrado (las formaciones y movimientos de marcha que se hacen a la voz de mando), y se vendan los ojos.
 2. El que dirige da varias órdenes simples, una tras otra, y los jugadores las cumplen. Por ejemplo: «¡Atención!», «¡Derecha, mar!» (girar a la derecha), «Un paso atrás», «¡Izquierda, mar!» (girar a la izquierda), «Un paso a la derecha», «¡Media vuelta!».
 3. Conviene dar bastantes órdenes, para que los pequeños errores de cada uno se vayan sumando.
 4. Al final, todos se sacan la venda y miran el lío en que quedaron.
 
-## Para cerrar
+## Cierre
 - ¿Qué órdenes los confundieron más? ¿Por qué?
 
-## Notas para educadores
+## Notas para el educador
 - Sirve para repasar las órdenes de formación del Grupo de una manera divertida.
 
 

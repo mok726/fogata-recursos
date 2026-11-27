@@ -135,9 +135,10 @@ rama_rovers:
 
 # Carrera del Cocodrilo
 
-## Cómo se juega
+## Resumen
 Una carrera en la que todo el equipo avanza junto, en cuclillas, como un cocodrilo largo.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
 2. Todos se ponen en cuclillas, con las rodillas bien dobladas, y apoyan las manos en los hombros del compañero de adelante. Así el equipo queda unido como un solo animal.
 3. Enfrente se marca un lugar, no muy lejos.
@@ -146,10 +147,10 @@ Una carrera en la que todo el equipo avanza junto, en cuclillas, como un cocodri
 
 **Cómo se gana:** gana el primer equipo que termina el recorrido entero, sin cortarse.
 
-## Para cerrar
+## Cierre
 - ¿Qué pasó cuando cada uno saltaba a su ritmo?
 
-## Notas para educadores
+## Notas para el educador
 - Que el recorrido sea corto: es un ejercicio muy cansador para las rodillas.
 
 

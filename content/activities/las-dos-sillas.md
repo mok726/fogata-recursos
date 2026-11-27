@@ -135,20 +135,21 @@ rama_rovers:
 
 # Volver a Poner las Dos Sillas
 
-## Cómo se juega
+## Resumen
 Un juego de observación que se arma sin avisar.
 
+## Desarrollo
 1. Al empezar la reunión, el que dirige deja dos sillas como al descuido en algún lugar bastante visible del salón, pero no dice nada de ellas.
 2. Más tarde, sin que los jugadores vean, mueve las dos sillas.
 3. Entonces pregunta dónde estaban, y cada equipo, por turno, trata de volver a ponerlas exactamente en el lugar y en la posición en que estaban.
 
 **Cómo se gana:** gana el equipo que las deja más cerca de su lugar original.
 
-## Para cerrar
+## Cierre
 - ¿Quién se había dado cuenta de las sillas? ¿Les llamó la atención en ese momento?
 - ¿Qué otras cosas pasan cerca nuestro y no las notamos?
 
-## Notas para educadores
+## Notas para el educador
 - Marcá con una tiza chiquita, donde no se vea, las patas de las sillas para poder corregir.
 - Funciona una sola vez por grupo: guardalo para el día justo.
 

@@ -135,19 +135,20 @@ rama_rovers:
 
 # Llená el Hueco
 
-## Cómo se juega
+## Resumen
 Un juego de ronda de carrera: dos corren alrededor de la ronda para ver quién llega primero al hueco.
 
+## Desarrollo
 1. Los jugadores forman una ronda, mirando hacia adentro.
 2. Un jugador corre por afuera de la ronda y, cuando quiere, le toca la espalda a alguno.
 3. En ese momento, los dos salen corriendo alrededor de la ronda en direcciones opuestas: uno para la derecha y el otro para la izquierda.
 4. Los dos tratan de llegar primero al lugar que quedó vacío (el hueco) y ocuparlo.
 5. El que llega primero se queda en la ronda. El que pierde sigue corriendo por afuera y le toca la espalda a otro.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía tocar a alguien rápido o a alguien que estuviera distraído?
 
-## Notas para educadores
+## Notas para el educador
 - Pedí que al cruzarse siempre pasen por la derecha: evita choques.
 
 

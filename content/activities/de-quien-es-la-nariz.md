@@ -142,9 +142,10 @@ rama_rovers:
 1. Colgá la sábana de una soga, a la altura de las caras, de manera que no se vea nada de lo que pasa atrás.
 2. Hacé un agujero chico, del tamaño de una moneda grande.
 
-## Cómo se juega
+## Resumen
 Un juego para reconocer a los compañeros viendo solo una parte de ellos.
 
+## Desarrollo
 1. Se cuelga una sábana (de una soga, de una puerta o sostenida por dos personas) y se le hace un agujero chico, o se arma de modo que solo asome la nariz del que está detrás.
 2. Un equipo se pone detrás de la sábana. De a uno, cada jugador muestra la nariz por el agujero.
 3. El otro equipo trata de adivinar de quién es cada nariz.
@@ -154,10 +155,10 @@ Un juego para reconocer a los compañeros viendo solo una parte de ellos.
 
 **Variantes del original:** en lugar de la nariz se puede mostrar la mano, el pie, la sombra proyectada en la sábana, etc.
 
-## Para cerrar
+## Cierre
 - ¿Qué detalle les ayudó a reconocer a cada uno?
 
-## Notas para educadores
+## Notas para el educador
 - Que nadie se sienta mal por su nariz: el juego va de observar, no de burlarse. Si notás incomodidad, pasá directo a la variante de manos o sombras.
 
 

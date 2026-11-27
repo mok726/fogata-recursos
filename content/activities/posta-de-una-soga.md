@@ -144,9 +144,10 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Hacé una lista de los nudos que tiene que hacer cada uno según su progresión.
 
-## Cómo se juega
+## Resumen
 Una carrera de postas para repasar todos los nudos de la primera etapa de progresión en una misma soga.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida. Enfrente de cada equipo, a cierta distancia, se deja un pedazo de soga.
 2. A la orden, el primero de cada fila corre hasta la soga y hace en ella, uno después del otro, todos los nudos de la primera etapa de progresión. (En la época del original eran el nudo llano, la vuelta de escota, el ballestrinque, el as de guía, la vuelta redonda con dos medios cotes y la margarita; se pueden usar los que pida hoy la progresión de tu grupo.)
 3. Después deshace los nudos, vuelve corriendo y toca al siguiente de su fila, que hace lo mismo.
@@ -154,7 +155,7 @@ Una carrera de postas para repasar todos los nudos de la primera etapa de progre
 
 **Cómo se gana:** gana el primer equipo que termina sin ningún nudo mal hecho ni salteado.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudo fallaba más? ¿Cómo lo pueden practicar en casa?
 
 

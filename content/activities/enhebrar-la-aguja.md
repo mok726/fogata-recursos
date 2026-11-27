@@ -134,9 +134,10 @@ rama_rovers:
 
 # Carrera de Enhebrar la Aguja
 
-## Cómo se juega
+## Resumen
 Una carrera en cadena: el equipo, tomado de las manos, tiene que pasar entero por debajo de un arco, como un hilo por el ojo de una aguja.
 
+## Desarrollo
 1. Cada equipo se para en una fila, uno al lado del otro, y todos se toman de las manos.
 2. Los dos jugadores de una punta levantan los brazos que tienen tomados y forman un arco: ese es el ojo de la aguja.
 3. A la señal, el jugador de la otra punta corre por delante de la fila hasta el arco y pasa por debajo, llevando a todos los demás detrás, sin soltarse.
@@ -148,7 +149,7 @@ Una carrera en cadena: el equipo, tomado de las manos, tiene que pasar entero po
 
 **Carrera del remolino (variante del original):** los equipos se forman en fila india. El primero de cada equipo corre alrededor de su fila. Cuando vuelve a pasar por adelante, el segundo se le engancha atrás, agarrándolo de la cintura, y siguen dando la vuelta juntos. En la vuelta siguiente se engancha el tercero, y así. Cuando todo el equipo está enganchado, corren hasta la línea de llegada. Gana el primer equipo que llega completo y sin cortarse.
 
-## Para cerrar
+## Cierre
 - ¿Qué pasaba cuando alguien tiraba demasiado fuerte?
 
 

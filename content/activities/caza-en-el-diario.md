@@ -140,9 +140,10 @@ rama_rovers:
 ## Preparación
 1. Leé el diario antes y anotá unas 15 cosas para buscar, de páginas distintas.
 
-## Cómo se juega
+## Resumen
 Un juego de búsqueda rápida en el diario.
 
+## Desarrollo
 1. Cada jugador o cada equipo recibe un ejemplar del mismo diario (o de la misma revista).
 2. El que dirige nombra un lugar, un hecho o un objeto: «una ciudad de Italia», «el pronóstico del tiempo», «una bicicleta».
 3. Todos buscan en el diario dónde se lo menciona.
@@ -152,11 +153,11 @@ Un juego de búsqueda rápida en el diario.
 ### Variante: Diario digital
 Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido usar el buscador del sitio.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron para buscar más rápido?
 - ¿Qué secciones tiene un diario? ¿Cuáles nunca habían mirado?
 
-## Notas para educadores
+## Notas para el educador
 - Sirve para trabajar alfabetización mediática: al final, charlá sobre qué es noticia, qué es opinión y qué es publicidad.
 
 

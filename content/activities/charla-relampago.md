@@ -136,9 +136,10 @@ rama_rovers:
 
 # El que Habla Más Rápido
 
-## Cómo se juega
+## Resumen
 Un duelo de palabras: hay que hablar sin parar.
 
+## Desarrollo
 1. Dos jugadores se paran frente a frente delante de los demás.
 2. A la señal, cada uno le habla al otro lo más rápido que puede, sobre el tema que quiera, y sin parar.
 3. No se permiten gestos.
@@ -146,7 +147,7 @@ Un duelo de palabras: hay que hablar sin parar.
 
 **Cómo se gana:** si ninguno se quiebra en dos minutos, los demás votan al ganador.
 
-## Para cerrar
+## Cierre
 - ¿Qué es más difícil: hablar o no escuchar al otro?
 
 

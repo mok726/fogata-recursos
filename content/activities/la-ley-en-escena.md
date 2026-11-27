@@ -138,20 +138,21 @@ rama_rovers:
 
 # Actuar la Ley
 
-## Cómo se juega
+## Resumen
 Una forma de trabajar la Ley Scout con teatro.
 
+## Desarrollo
 1. Un equipo elige uno de los artículos de la Ley Scout y lo actúa en una escena corta delante de los demás, sin decir cuál es.
 2. Los demás adivinan qué artículo es.
 3. Después, el que dirige puede dar una charla muy corta sobre ese artículo.
 
 **Consejo del original:** se puede hacer un artículo distinto cada semana.
 
-## Para cerrar
+## Cierre
 - ¿Qué artículo les costó más representar? ¿Por qué?
 - ¿Qué artículo les cuesta más cumplir en la vida diaria?
 
-## Notas para educadores
+## Notas para el educador
 - Se puede hacer un artículo distinto cada semana, como propone el juego original.
 - Usá la redacción de la Ley de tu organización scout nacional.
 

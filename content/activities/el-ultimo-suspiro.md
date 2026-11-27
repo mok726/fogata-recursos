@@ -135,9 +135,10 @@ rama_rovers:
 
 # Chanchos Moribundos
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para ver quién aguanta más un silbido con una sola bocanada de aire.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. A la primera señal del que dirige, todos toman aire hondo.
 3. A la segunda señal, todos lo sueltan haciendo un silbido largo y parejo, sin volver a tomar aire.
@@ -145,11 +146,11 @@ Un juego de ronda para ver quién aguanta más un silbido con una sola bocanada 
 
 **Cómo se gana:** gana el último que sigue silbando.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sienten después de respirar así? ¿Más tranquilos?
 - ¿En qué momentos les podría servir respirar despacio?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego excelente para bajar las revoluciones después de un juego movido, y para enseñar a respirar con calma en momentos de nervios.
 - Si alguien se marea, que deje de jugar y respire normal.
 

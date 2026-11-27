@@ -142,20 +142,21 @@ rama_rovers:
 1. Escribí un diálogo corto (dos minutos) con datos concretos: nombres, un día, una hora, un lugar, una seña, un objeto.
 2. Que los dos dirigentes lo ensayen una vez y cambien un poco la voz.
 
-## Cómo se juega
+## Resumen
 Un juego de atención y memoria auditiva, que se hace por sorpresa.
 
+## Desarrollo
 1. En medio de la reunión, sin avisar, dos personas (dirigentes o ayudantes) se ponen del otro lado de la puerta y hablan en voz alta y ronca, como si estuvieran planeando algo: un robo, una fuga, una broma.
 2. Apenas se empieza a escuchar el complot, el que dirige pide silencio para que todos puedan oír.
 3. Cuando los que conspiran terminan, se le pide a cada equipo un informe para la policía: qué planeaban, cuándo, dónde, cuántos eran, cómo hablaban.
 
 **Cómo se gana:** gana el informe más completo y exacto.
 
-## Para cerrar
+## Cierre
 - ¿Por qué cada patrulla escuchó cosas un poco distintas?
 - ¿Qué pasa con los chismes cuando alguien cuenta algo que escuchó a medias?
 
-## Notas para educadores
+## Notas para el educador
 - Que el «plan» sea gracioso y no dé miedo: nada de violencia ni amenazas.
 - Sirve para hablar de rumores y de la diferencia entre lo que se escuchó y lo que se interpretó.
 

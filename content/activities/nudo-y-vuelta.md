@@ -143,9 +143,10 @@ rama_rovers:
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para reconocer nudos rápido, mientras otro corre.
 
+## Desarrollo
 1. Los jugadores se paran en ronda, mirando hacia el centro.
 2. Un jugador hace un nudo en un pedazo de soga y lo deja caer a los pies de otro jugador de la ronda.
 3. Enseguida sale corriendo alrededor de la ronda, por afuera, para volver a su lugar.
@@ -156,10 +157,10 @@ Un juego de ronda para reconocer nudos rápido, mientras otro corre.
 
 **Consejo del original:** cambien el tamaño de la ronda según la experiencia de los que hacen los nudos: con chicos que recién aprenden, una ronda más grande les da más tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudos salieron más rápido? ¿Cuáles cuesta todavía hacer bajo presión?
 
-## Notas para educadores
+## Notas para el educador
 - Ajustá el tamaño de la ronda a lo que sabe el grupo: más chica si saben, más grande si están aprendiendo.
 
 

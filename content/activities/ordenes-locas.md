@@ -140,9 +140,10 @@ rama_rovers:
 1. Escribí una orden por jugador. Que sean variadas y algunas choquen con otras: una lleva la silla a un rincón y otra la tiene que llevar al rincón opuesto.
 2. Se pueden escribir en una clave simple para que primero haya que descifrarlas.
 
-## Cómo se juega
+## Resumen
 Un juego caótico y muy divertido: cada uno tiene una orden secreta que cumplir, y algunas órdenes chocan con las de otros.
 
+## Desarrollo
 1. Antes de jugar, el que dirige prepara una tarjeta para cada jugador, cada una con una orden escrita. Por ejemplo: «Juntá tres zapatillas de otros», «Hacé que todos se sienten», «Llevá la silla de la punta al otro rincón», «No dejes que nadie toque la puerta».
 2. Algunas órdenes tienen que ser para impedir que se cumplan otras. Por ejemplo, si uno tiene que juntar las mochilas en un rincón, otro puede tener la orden de que no haya ninguna mochila en ese rincón.
 3. Se reparte una tarjeta a cada jugador, que la lee en secreto.
@@ -151,11 +152,11 @@ Un juego caótico y muy divertido: cada uno tiene una orden secreta que cumplir,
 
 **Órdenes en clave (variante del original):** las órdenes se escriben en una clave muy simple, así que primero hay que descifrarlas para saber qué hacer. Por ejemplo, cambiando cada letra por la que le sigue en el abecedario.
 
-## Para cerrar
+## Cierre
 - ¿Qué pasó cuando dos órdenes chocaban? ¿Cómo lo resolvieron?
 - ¿Negociaron? ¿Se ayudaron?
 
-## Notas para educadores
+## Notas para el educador
 - El juego da para charlar sobre negociación y conflictos: dos personas con objetivos opuestos pueden buscar una solución en la que ganen las dos.
 
 

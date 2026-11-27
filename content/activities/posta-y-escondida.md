@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta y Escondida
 
-## Cómo se juega
+## Resumen
 Una carrera de postas con sorpresa: al terminar, hay que salir a buscar al que dirige, que se escondió mientras todos corrían.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Antes de empezar, cada equipo recibe un objeto que tiene que entregar al final (un pañuelo, una piedra pintada, un bastón): se acuerda de antemano cuál es el de cada uno.
@@ -149,10 +150,10 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Cómo se gana:** gana el primer equipo que le entrega al que dirige su objeto acordado.
 
-## Para cerrar
+## Cierre
 - ¿Alguien vio para dónde se fue? ¿Les sirvió prestar atención además de correr?
 
-## Notas para educadores
+## Notas para el educador
 - Marcá bien el límite del predio para que nadie se aleje demasiado.
 
 

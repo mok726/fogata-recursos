@@ -137,16 +137,17 @@ rama_rovers:
 
 # Arroz Caliente
 
-## Cómo se juega
+## Resumen
 Un juego de tiro al blanco en movimiento: uno se defiende con una tapa de olla como si fuera un escudo, y los demás tratan de pegarle con una pelota.
 
+## Desarrollo
 1. Un jugador recibe una tapa vieja de olla (o un plato de lata del equipo de campamento). Con ella se defiende, atajando o desviando la pelota.
 2. Todos los demás tratan de pegarle con una pelota.
 3. La pelota siempre se tira desde el lugar donde cayó. El que la junta no puede correr con ella para acercarse, pero sí se la puede pasar a otro jugador que esté mejor ubicado.
 4. Si la pelota le pega al de la tapa, o si él la desvía con la tapa y otro jugador la agarra en el aire antes de que toque el piso, el de la tapa la suelta enseguida.
 5. Su lugar lo toma el que le pegó o el que agarró la pelota en el aire. Apenas ese jugador toca la tapa, ya le pueden tirar.
 
-## Para cerrar
+## Cierre
 - ¿Qué convenía: tirar fuerte o pasarse la pelota para tirar de cerca?
 
 

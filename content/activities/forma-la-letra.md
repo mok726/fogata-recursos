@@ -136,9 +136,10 @@ rama_rovers:
 
 # Formen Letras
 
-## Cómo se juega
+## Resumen
 Un juego rápido de equipo: hay que formar letras con el propio cuerpo.
 
+## Desarrollo
 1. Se pueden armar todos los equipos que se quiera. Cada equipo se ubica en un lugar del salón con espacio libre a su alrededor.
 2. El que dirige dice en voz alta una letra del abecedario, por ejemplo: «¡La T!».
 3. Cada equipo se acomoda lo más rápido que puede para formar esa letra con los cuerpos de sus integrantes: unos parados en línea para el palo, otros para el travesaño, y así.
@@ -150,10 +151,10 @@ Un juego rápido de equipo: hay que formar letras con el propio cuerpo.
 ### Variante: La palabra
 Al final, todas las patrullas juntas forman una palabra corta: SCOUT, LOBO, FOGÓN. ¡Sacale una foto desde arriba!
 
-## Para cerrar
+## Cierre
 - ¿Quién organizó a la patrulla? ¿Cómo decidieron quién era cada parte?
 
-## Notas para educadores
+## Notas para el educador
 - Una foto desde arriba (o con un drone, si alguien tiene) es un lindo recuerdo para el campamento.
 
 

@@ -139,9 +139,10 @@ rama_rovers:
 1. Contá los clips de cada color.
 2. Ponelos a la altura de los chicos y en lugares seguros: nada arriba de un mueble alto ni en enchufes.
 
-## Cómo se juega
+## Resumen
 Una búsqueda de objetos chicos escondidos por el salón.
 
+## Desarrollo
 1. Antes del juego, el que dirige esconde (no demasiado) alfileres de distintos tipos por todo el salón: en las cortinas, en las sillas, en los marcos.
 2. A la señal, todos los buscan.
 
@@ -149,10 +150,10 @@ Una búsqueda de objetos chicos escondidos por el salón.
 
 *Adaptación de Fogata:* en lugar de alfileres se pueden usar clips o broches de colores, con el mismo puntaje por color, para que nadie se pinche.
 
-## Para cerrar
+## Cierre
 - ¿Qué clips costaron más? ¿Por qué?
 
-## Notas para educadores
+## Notas para el educador
 - Reemplaza a los alfileres del juego original: los clips no pinchan.
 
 

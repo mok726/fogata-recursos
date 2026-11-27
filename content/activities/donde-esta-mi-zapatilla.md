@@ -135,9 +135,10 @@ rama_rovers:
 
 # Carrera del Zapato Perdido
 
-## Cómo se juega
+## Resumen
 Una carrera cómica: hay que encontrar los propios zapatos en una montaña de calzado mezclado y ponérselos bien.
 
+## Desarrollo
 1. Antes del día del juego, se avisa a todos que vengan con los zapatos del uniforme o con zapatillas, así todos los pares se parecen bastante.
 2. Todos se sacan el calzado y se lo junta en una pila, bien mezclado, en la otra punta del salón.
 3. Los jugadores se ponen en la línea de salida, descalzos o en medias.
@@ -147,10 +148,10 @@ Una carrera cómica: hay que encontrar los propios zapatos en una montaña de ca
 
 **Cómo se gana:** gana el primero que vuelve al punto de partida con sus propios zapatos puestos y bien atados.
 
-## Para cerrar
+## Cierre
 - ¿Cómo reconocieron las suyas? ¿Alguno las tenía con nombre?
 
-## Notas para educadores
+## Notas para el educador
 - Ideal para lobatos que están aprendiendo a atarse los cordones.
 - Un buen momento para recordar que en campamento todo va con nombre.
 

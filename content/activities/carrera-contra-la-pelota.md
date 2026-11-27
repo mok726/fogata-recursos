@@ -136,9 +136,10 @@ rama_rovers:
 
 # Corré contra la Pelota
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que un jugador corre contra una pelota que se pasa de mano en mano.
 
+## Desarrollo
 1. Los jugadores forman una ronda y uno se queda afuera.
 2. A la señal, los de la ronda empiezan a pasarse una pelota de mano en mano, de uno al de al lado, alrededor de la ronda.
 3. Al mismo tiempo, el de afuera corre alrededor de la ronda, por afuera.
@@ -150,7 +151,7 @@ Un juego de ronda en el que un jugador corre contra una pelota que se pasa de ma
 ### Variante: Patrulla contra patrulla
 Una patrulla pasa la pelota y otra corre en posta. Después cambian.
 
-## Para cerrar
+## Cierre
 - ¿Qué hacía la ronda para que la pelota fuera más rápido?
 
 

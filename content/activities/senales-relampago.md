@@ -138,9 +138,10 @@ rama_rovers:
 
 # Avance
 
-## Cómo se juega
+## Resumen
 Un juego para practicar las señales (por ejemplo, el semáforo con banderines o con los brazos, o el Morse) y hacerlas rápido, sin dudar.
 
+## Desarrollo
 1. Se marca una línea de partida y todos los jugadores se paran sobre ella, uno al lado del otro.
 2. El que dirige dice una letra, espera un momento y después dice «¡Ya!».
 3. Apenas escuchan «¡Ya!», todos hacen al mismo tiempo la señal de esa letra.
@@ -152,10 +153,10 @@ Un juego para practicar las señales (por ejemplo, el semáforo con banderines o
 ### Variante: Tráiganme…
 El que dirige transmite con señales el nombre de un objeto («jarro», «piña»). La primera patrulla que se lo trae, gana. También puede transmitir una orden: «sentarse», «dar una vuelta».
 
-## Para cerrar
+## Cierre
 - ¿Qué letras se confunden más?
 
-## Notas para educadores
+## Notas para el educador
 - Funciona igual con semáforo, Morse o el sistema de señales que use tu Grupo.
 
 

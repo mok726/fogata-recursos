@@ -136,9 +136,10 @@ rama_rovers:
 
 # La Manta y el Globo
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con una manta: los de la ronda mueven una pelota sobre la tela y uno de afuera trata de agarrarla.
 
+## Desarrollo
 1. Los jugadores se sientan en el piso en ronda y entre todos sostienen los bordes de una sábana o de una manta bien estirada.
 2. Encima de la manta se pone una pelota o un globo.
 3. Un jugador se queda afuera de la ronda, de pie.
@@ -146,10 +147,10 @@ Un juego de ronda con una manta: los de la ronda mueven una pelota sobre la tela
 5. El de afuera da vueltas alrededor y trata de agarrar la pelota estirando la mano por encima de los que están sentados.
 6. Cuando la agarra, se cambia el jugador de afuera.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pusieron de acuerdo para mover la sábana todos a la vez?
 
-## Notas para educadores
+## Notas para el educador
 - Funciona muy bien con lobatos chicos. Una sábana de colores (o un paracaídas de juegos) lo hace más lindo.
 
 

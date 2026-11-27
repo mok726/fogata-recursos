@@ -136,9 +136,10 @@ rama_rovers:
 
 # Juego de Escuchar
 
-## Cómo se juega
+## Resumen
 Un juego para entrenar el oído: hay que adivinar cuántos pasaron por cada lado sin verlos.
 
+## Desarrollo
 1. Un jugador, el que escucha, se para cerca de una punta del salón con los ojos vendados.
 2. El que dirige elige en secreto a algunos jugadores. Uno por uno, salen desde la otra punta y tratan de pasar al lado del que escucha, por la derecha o por la izquierda, lo más silenciosamente que puedan.
 3. Cuando pasaron todos los elegidos, el que escucha dice cuántos cree que pasaron por su derecha y cuántos por su izquierda.
@@ -149,11 +150,11 @@ Un juego para entrenar el oído: hay que adivinar cuántos pasaron por cada lado
 ### Variante: Con calzado o descalzos
 Prueben una vuelta con zapatillas y otra en medias. ¿Cuál hace menos ruido?
 
-## Para cerrar
+## Cierre
 - ¿Qué ruidos los delataron: los pasos, la ropa, la respiración?
 - ¿Cómo se camina en el monte para no espantar a los animales?
 
-## Notas para educadores
+## Notas para el educador
 - Se puede usar antes de una salida de observación de aves o de un juego de acecho.
 - Cambiá la cantidad de los que cruzan cada vez: si siempre son todos, el centinela adivina sin escuchar.
 

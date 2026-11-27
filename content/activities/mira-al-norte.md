@@ -136,9 +136,10 @@ rama_rovers:
 
 # ¿Norte, Sur, Este u Oeste?
 
-## Cómo se juega
+## Resumen
 Un juego rápido para aprender los puntos cardinales dentro del salón.
 
+## Desarrollo
 1. Los jugadores se forman en filas abiertas, es decir, en filas con bastante espacio entre uno y otro, para que todos puedan girar y saltar sin chocarse.
 2. El que dirige les muestra hacia dónde quedan el Norte, el Sur, el Este y el Oeste del salón. Conviene usar una brújula para que sea real y no inventado.
 3. Después, el que dirige dice en voz alta una dirección: «¡Norte!», «¡Oeste!», etc.
@@ -147,10 +148,10 @@ Un juego rápido para aprender los puntos cardinales dentro del salón.
 
 **Cómo se gana:** el último que queda sin equivocarse es el ganador.
 
-## Para cerrar
+## Cierre
 - ¿Cómo encontrarían el Norte si no tuvieran brújula?
 
-## Notas para educadores
+## Notas para el educador
 - Antes, ubicá el Norte real del lugar. En el hemisferio sur, al mediodía el sol está hacia el Norte.
 - Complementa la Rosa de los 32 Rumbos y las fichas de orientación.
 

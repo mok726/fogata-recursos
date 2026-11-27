@@ -137,20 +137,21 @@ rama_rovers:
 
 # Obras Improvisadas
 
-## Cómo se juega
+## Resumen
 Una obra de teatro improvisada.
 
+## Desarrollo
 1. Entre todos se piensa un argumento sencillo: quiénes son los personajes y qué les pasa. Pero no se escriben los diálogos.
 2. Se elige el elenco. Dos de los más grandes llevan la improvisación: van guiando la obra e inventando sobre la marcha.
 3. La obra se representa para divertir a los demás.
 
 **Para qué sirve:** con la práctica, en poco tiempo se va a poder armar una obra así con un solo ensayo y presentarla en un fogón o ante un público de afuera, con éxito.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue lo más difícil de improvisar? ¿Y lo más divertido?
 - ¿Qué hicieron cuando a alguien no se le ocurría qué decir?
 
-## Notas para educadores
+## Notas para el educador
 - Con práctica, esto alimenta los fogones del campamento sin necesidad de preparar libretos.
 - Cuidá que el humor no sea a costa de nadie del grupo.
 

@@ -144,9 +144,10 @@ rama_rovers:
 2. Dejá entre 6 y 10 pistas que cuenten esa historia. Sumá una o dos pistas falsas que no tengan nada que ver.
 3. Armá la escena y sacale una foto para poder rearmarla igual entre patrulla y patrulla.
 
-## Cómo se juega
+## Resumen
 Un juego de observación y deducción, como en las películas de detectives.
 
+## Desarrollo
 1. El que dirige arma en un salón la escena de un «crimen» representado: muebles movidos, objetos tirados, huellas, pistas.
 2. Cada patrulla, por turno, entra al salón durante 5 o 10 minutos a mirar todo con atención, sin tocar nada.
 3. Después escribe un informe de lo que cree que pasó.
@@ -154,11 +155,11 @@ Un juego de observación y deducción, como en las películas de detectives.
 
 **Cómo se gana:** gana la patrulla cuyo informe se acerca más a lo que pasó.
 
-## Para cerrar
+## Cierre
 - ¿Qué pistas engañaron a todos?
 - ¿Por qué conviene separar lo que vimos de lo que imaginamos?
 
-## Notas para educadores
+## Notas para el educador
 - Mantené el misterio en el humor (una torta, un banderín, la mascota de la tropa). Evitá crímenes violentos.
 - Es un gran juego para una noche de campamento con lluvia.
 

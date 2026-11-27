@@ -137,9 +137,10 @@ rama_rovers:
 
 # Marcar el Ritmo
 
-## Cómo se juega
+## Resumen
 Un juego de adivinar canciones solo por el ritmo, sin cantar ni tararear.
 
+## Desarrollo
 1. Cada equipo se ubica en un lugar distinto del salón, lejos de los otros.
 2. El que dirige llama a un jugador de cada equipo y les dice en secreto el nombre de una canción conocida, la misma para todos.
 3. Cada uno vuelve a su equipo y marca el ritmo de la canción golpeando el piso con una cuchara o con algún otro objeto firme que sirva (nunca un cuchillo). No puede cantar, tararear, silbar ni decir nada.
@@ -149,10 +150,10 @@ Un juego de adivinar canciones solo por el ritmo, sin cantar ni tararear.
 
 **Cómo se gana:** gana el primer equipo que adivina bien la canción.
 
-## Para cerrar
+## Cierre
 - ¿Qué canciones fueron más fáciles? ¿Por qué?
 
-## Notas para educadores
+## Notas para el educador
 - Usá canciones que todos conozcan: las del fogón del Grupo son ideales.
 
 

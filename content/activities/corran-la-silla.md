@@ -136,19 +136,20 @@ rama_rovers:
 
 # Corran el Asiento
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con asientos: todos se van corriendo de lugar mientras uno trata de quedarse con el asiento vacío.
 
+## Desarrollo
 1. Se arma una ronda grande de asientos: sillas, bancos, troncos, cajones, lo que haya, aunque sean de distintas alturas.
 2. Cada jugador se sienta en un asiento, menos uno, que se para en el centro. Así queda siempre un asiento vacío.
 3. Los jugadores sentados tienen que ir corriéndose al asiento de al lado apenas queda libre, siempre en el mismo sentido. Así el asiento vacío va «viajando» por la ronda.
 4. El del centro trata de sentarse en el asiento vacío antes de que lo ocupe alguno de la ronda.
 5. Cuando lo logra, el jugador que se quedó sin lugar (el que tenía que ocupar ese asiento y no llegó) pasa al centro, y el juego sigue.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron para que el del medio no pudiera sentarse?
 
-## Notas para educadores
+## Notas para el educador
 - Usá sillas firmes. Si son plásticas livianas, mejor bancos largos.
 
 

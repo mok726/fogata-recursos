@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta de los Pertrechos
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que hay que repartir objetos a todo el equipo y volver a juntarlos.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
@@ -151,7 +152,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Cómo se gana:** gana el primer equipo en el que todos hicieron el reparto.
 
-## Para cerrar
+## Cierre
 - ¿Qué ayudaba más: cómo estaban los compañeros o cómo repartía el que corría?
 
 

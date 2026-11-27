@@ -135,9 +135,10 @@ rama_rovers:
 
 # Cabezas y Colas
 
-## Cómo se juega
+## Resumen
 Un juego de palabras en ronda: cada palabra empieza con el final de la anterior.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. El primero dice una palabra de dos sílabas, por ejemplo «me-sa».
 3. El siguiente tiene que decir otra palabra de dos sílabas que empiece con la última sílaba de la anterior: «sa-po». El siguiente, «po-zo», después «zo-rro», y así.
@@ -151,7 +152,7 @@ Solo valen palabras de un tema: animales, cosas del campamento, lugares de Argen
 ### Variante: Por letras
 Para los más chicos, en vez de la última sílaba, se usa la última letra: LOBO → OSO → OLLA.
 
-## Para cerrar
+## Cierre
 - ¿Qué sílabas eran trampas? (Las que terminan en palabras difíciles, como -XO o -GÜE.)
 
 

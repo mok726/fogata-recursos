@@ -135,9 +135,10 @@ rama_rovers:
 
 # Concurso de Deletreo
 
-## Cómo se juega
+## Resumen
 Un juego de palabras en ronda, sin papel.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda. El primero dice una letra, pensando en alguna palabra.
 2. El siguiente agrega otra letra, también pensando en una palabra que pueda empezar así. Por ejemplo: «C», «A», «M»…
 3. La idea es seguir sumando letras **sin completar** una palabra de más de tres letras.
@@ -148,10 +149,10 @@ Un juego de palabras en ronda, sin papel.
 
 **Cómo se gana:** gana el último que queda.
 
-## Para cerrar
+## Cierre
 - ¿Qué palabras salieron que nadie esperaba?
 
-## Notas para educadores
+## Notas para el educador
 - Para que el juego no se trabe, aclarar al principio que los plurales y las formas verbales cuentan como «palabra que sigue».
 - Es mejor con Scouts y Caminantes: para lobatos es difícil.
 

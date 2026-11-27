@@ -142,9 +142,10 @@ rama_rovers:
 1. Hacé el aro con un pedazo de soga de un metro, con las puntas unidas por un empalme o un nudo.
 2. Marcá arcos chicos, de unos dos metros de ancho.
 
-## Cómo se juega
+## Resumen
 Un fútbol de salón muy divertido en el que, en vez de pelota, se patea un aro de soga (un anillo de soga gruesa, de los que se usan para tirar y embocar en una estaca), y los jugadores no pueden correr libres porque van atados. El original trae dos formas de jugarlo.
 
+## Desarrollo
 **Con los pies atados:**
 
 1. Se marcan dos arcos de 1,80 m de ancho, uno en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
@@ -162,10 +163,10 @@ Un fútbol de salón muy divertido en el que, en vez de pelota, se patea un aro 
 
 **Solo la pierna del medio (variante del original):** en la forma de tres piernas, se puede jugar con la regla de que solo se patea con la pierna del medio, la que está atada al compañero. Tampoco acá se permite cargar contra el otro.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pusieron de acuerdo con su pareja para moverse?
 
-## Notas para educadores
+## Notas para el educador
 - El nudo del tobillo va con pañuelo, flojo, y se desata enseguida si alguien se cae.
 
 

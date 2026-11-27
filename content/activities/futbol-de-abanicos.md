@@ -141,9 +141,10 @@ rama_rovers:
 1. Cada jugador dobla un diario en acordeón para hacer su abanico.
 2. Marcá los arcos en las paredes con cinta y los lugares de cada jugador con una cruz de tiza.
 
-## Cómo se juega
+## Resumen
 Un fútbol de salón muy liviano: en lugar de patear, se abanica una cáscara de huevo o una pelotita de ping-pong para meterla en el arco del otro.
 
+## Desarrollo
 1. Se marca un arco en cada punta del salón. Se arman dos equipos y cada uno defiende un arco.
 2. Cada jugador tiene un abanico de papel (se puede hacer doblando una hoja en acordeón).
 3. El que dirige ubica a cada jugador en un lugar de la cancha, y nadie se puede mover de ese lugar durante el juego.
@@ -155,7 +156,7 @@ Un fútbol de salón muy liviano: en lugar de patear, se abanica una cáscara de
 
 **Fútbol de globo (variante del original):** se marca un arco en cada punta del salón y cada equipo trata de meter un globo inflado en el arco del otro. El que dirige decide de qué forma se mueve el globo: soplándolo, abanicándolo o dándole palmaditas. Ningún jugador puede tocar el globo ni intervenir en la jugada si no tiene las dos rodillas apoyadas en el piso en ese momento. Si se quiere, también se le puede asignar a cada jugador un lugar del que no se puede mover mientras el globo está en juego.
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para que la pelotita fuera para donde querían?
 
 

@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pasar el Anillo por el Hilo
 
-## Cómo se juega
+## Resumen
 Un juego de ronda para disimular: los jugadores se pasan un anillo por un hilo y uno en el centro tiene que descubrir quién lo tiene.
 
+## Desarrollo
 1. Se pasa un anillo por un hilo o un cordón largo y se atan las puntas, para formar un círculo.
 2. Los jugadores se ponen en ronda, mirando hacia adentro, y sostienen el hilo con las dos manos, con los puños cerrados sobre el hilo.
 3. Uno se pone en el centro.
@@ -147,10 +148,10 @@ Un juego de ronda para disimular: los jugadores se pasan un anillo por un hilo y
 5. El del centro trata de atrapar el anillo: cuando cree que sabe dónde está, toca o agarra las manos de un jugador.
 6. Si el anillo está en esas manos, ese jugador pasa al centro.
 
-## Para cerrar
+## Cierre
 - ¿En qué se nota cuando alguien tiene el anillo?
 
-## Notas para educadores
+## Notas para el educador
 - Es parecido al «anillo» o «la sortijita» que se juega en los cumpleaños.
 
 

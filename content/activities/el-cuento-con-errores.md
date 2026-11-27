@@ -142,9 +142,10 @@ rama_rovers:
 1. Escribí un cuento de una carilla sobre un campamento o una salida.
 2. Metele entre 10 y 15 errores: cosas imposibles, cosas que se contradicen («los cuatro de la patrulla: Ana, Leo y Sofi»), errores de técnica scout («el pañuelo se ata con nudo de rizo… en los cordones»).
 
-## Cómo se juega
+## Resumen
 Un juego de atención: hay que cazar los errores de un cuento.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. El que dirige lee un cuento en el que metió a propósito muchos errores y contradicciones: por ejemplo, «era una noche de sol», o un personaje que al principio es pelado y después se peina.
 3. Cada jugador o equipo anota todos los errores que descubre.
@@ -154,11 +155,11 @@ Un juego de atención: hay que cazar los errores de un cuento.
 ### Variante: Escriban el suyo
 Cada patrulla escribe un cuento con diez errores para que las demás los descubran.
 
-## Para cerrar
+## Cierre
 - ¿Qué errores fueron más difíciles de ver? ¿Por qué?
 - ¿Pasa algo parecido con las noticias falsas?
 
-## Notas para educadores
+## Notas para el educador
 - Si los errores son de técnica scout, el juego sirve para repasar sin que parezca una clase.
 
 

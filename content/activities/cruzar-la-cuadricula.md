@@ -139,9 +139,10 @@ rama_rovers:
 ## Preparación
 1. Dibujá una cuadrícula de 4 x 4 cuadrados de unos 3 metros de lado y una franja de base en cada punta.
 
-## Cómo se juega
+## Resumen
 Un juego de persecución en una cuadrícula: un equipo tiene que cruzar de punta a punta y el otro, parado sobre las líneas, trata de tocarlo.
 
+## Desarrollo
 1. Se marca en el terreno una cuadrícula de cuadrados de 2,70 m de lado. En cada punta del terreno queda una base: una de salida y otra de llegada.
 2. Un equipo es el que cuida. Sus jugadores se reparten sobre las líneas que cruzan el terreno a lo ancho (las que hay que atravesar para ir de una base a la otra). No pueden salirse de su línea, pero sí moverse a lo largo de ella. En cada línea puede haber como máximo tres.
 3. Uno de los que cuidan es el Walla: él sí puede moverse en cualquier dirección y por cualquier línea de la cuadrícula.
@@ -152,7 +153,7 @@ Un juego de persecución en una cuadrícula: un equipo tiene que cruzar de punta
 
 **Cómo se gana:** gana el equipo que logra hacer llegar más jugadores a la otra base.
 
-## Para cerrar
+## Cierre
 - ¿Qué cuadrados eran los más peligrosos? ¿Cómo se ayudaban para pasar?
 
 

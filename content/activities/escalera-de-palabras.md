@@ -137,9 +137,10 @@ rama_rovers:
 
 # Cambiar Palabras
 
-## Cómo se juega
+## Resumen
 Un juego de palabras para hacer en papel.
 
+## Desarrollo
 1. El que dirige elige dos palabras del mismo largo: la de salida y la de llegada. Por ejemplo, «casa» y «mesa».
 2. Cada jugador tiene que ir de una a otra cambiando una sola letra por paso.
 3. En cada paso tiene que quedar una palabra que exista. Por ejemplo: casa → masa → mesa.
@@ -153,10 +154,10 @@ Para Scouts y Caminantes, usen palabras de cinco o seis letras.
 ### Variante: Escalera scout
 Que la palabra de llegada sea de campamento: de LOBO a LOMA, de PALO a PANA, de CAMA a CAPA.
 
-## Para cerrar
+## Cierre
 - ¿Qué escalera les gustó más? ¿Alguien encontró un camino distinto?
 
-## Notas para educadores
+## Notas para el educador
 - Tené a mano algunas escaleras ya resueltas, por si nadie llega.
 
 

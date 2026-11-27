@@ -143,9 +143,10 @@ rama_rovers:
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Hacé una tarjeta por patrulla con el orden de los nudos.
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que cada jugador del equipo agrega un nudo distinto a una misma cadena de sogas.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de partida.
 2. A unos 9 metros de cada equipo se para un jugador (puede ser alguien del mismo equipo o un ayudante) con una pila de sogas a sus pies.
 3. A la orden, el primero de cada fila corre hasta ese jugador y le ata un as de guía alrededor de la cintura. Después vuelve corriendo y toca al segundo de su fila.
@@ -171,11 +172,11 @@ Gana el primer equipo que termina la cadena con todos los nudos bien hechos.
 ### Variante: Sin correr
 Toda la patrulla en fila y cada uno con su soga: van armando la cadena de mano en mano, sin moverse.
 
-## Para cerrar
+## Cierre
 - ¿Qué nudo se trabó más? ¿Cómo lo revisaron?
 - ¿Para qué sirve cada uno de esos nudos en la vida real?
 
-## Notas para educadores
+## Notas para el educador
 - El as de guía en la cintura no se aprieta: tiene que quedar holgado.
 - Valorá más los nudos bien hechos que la velocidad.
 

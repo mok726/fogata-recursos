@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta de Pasar la Pelota con los Pies
 
-## Cómo se juega
+## Resumen
 Una carrera de pases en la que la pelota recorre la fila usando solo los pies.
 
+## Desarrollo
 1. Cada equipo se forma en una fila, uno al lado del otro, con unos 90 cm entre jugador y jugador.
 2. El primer jugador de cada equipo tiene una pelota apoyada entre los pies, sobre los empeines (la parte de arriba del pie).
 3. A la señal, se la pasa al compañero de al lado usando solo los pies, sin tocarla con las manos. Ese la recibe con los pies y se la pasa al siguiente, y así a lo largo de la fila.
@@ -149,7 +150,7 @@ Una carrera de pases en la que la pelota recorre la fila usando solo los pies.
 ### Variante: Sentados
 Más difícil: todos sentados en el piso y la pelota agarrada entre los dos pies.
 
-## Para cerrar
+## Cierre
 - ¿Qué técnica de pase funcionó mejor?
 
 

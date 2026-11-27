@@ -137,16 +137,17 @@ rama_rovers:
 
 # El Vendedor de Panecillos
 
-## Cómo se juega
+## Resumen
 Un juego a ciegas para atrapar a alguien guiándose solo por el oído.
 
+## Desarrollo
 1. Todos los jugadores menos uno se vendan los ojos y se reparten por el salón.
 2. El jugador que no tiene los ojos vendados lleva una campanita y la tiene que hacer sonar todo el tiempo, sin parar, mientras se mueve por el salón.
 3. Los vendados, guiándose por el sonido, tratan de tocarlo.
 4. El de la campanita trata de escaparse de todos, esquivándolos sin dejar de tocar la campanita.
 5. Cuando alguien lo toca, ese jugador pasa a tener la campanita y el otro se venda los ojos.
 
-## Para cerrar
+## Cierre
 - ¿Por qué cuesta tanto saber de dónde viene un sonido?
 
 

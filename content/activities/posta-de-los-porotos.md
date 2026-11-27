@@ -137,9 +137,10 @@ rama_rovers:
 
 # Posta de los Porotos
 
-## Cómo se juega
+## Resumen
 Una carrera de postas de paciencia: hay que llevar porotos de a uno y después volver a juntarlos.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida.
@@ -152,7 +153,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Carrera de porotos en cuadrado (variante del original):** se ponen tantos platitos como equipos haya, todos a la misma distancia uno de otro: con 4 equipos forman un cuadrado, con 5 un pentágono, y así. Cada equipo se ubica junto a su platito, que tiene tantos porotos como jugadores tiene el equipo. A la señal, cada equipo trata de pasar sus porotos al platito que tiene a su derecha. Nadie puede tocar más de un poroto por vez, y los porotos se llevan en la mano, no se tiran. El equipo se puede organizar en cadena, pasándose los porotos de mano en mano. Como todos los equipos hacen lo mismo, a cada platito le siguen llegando porotos. Gana el equipo que tiene menos porotos en su platito cuando se termina el tiempo fijado.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía correr muy rápido o ir seguros para no perder porotos?
 
 

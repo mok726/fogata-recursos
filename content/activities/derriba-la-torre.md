@@ -141,9 +141,10 @@ rama_rovers:
 ## Preparación
 1. Armá el trípode con tres bastones y un amarre de trípode flojo (ver la ficha de amarres), o con tres botellas.
 
-## Cómo se juega
+## Resumen
 Un juego de ronda con pelota: los de afuera tratan de voltear una torre y cuatro guardias la defienden.
 
+## Desarrollo
 1. En el centro se arma un trípode liviano (tres palos atados en la punta, parados como una carpa india) que haga de torre.
 2. Cuatro jugadores se ponen alrededor del trípode, cada uno cuidando un lado: son los «guardias».
 3. El resto de los jugadores forma una ronda grande alrededor.
@@ -154,10 +155,10 @@ Un juego de ronda con pelota: los de afuera tratan de voltear una torre y cuatro
 ### Variante: Por patrullas
 Cada patrulla defiende la torre por turno. Se cuenta cuánto tiempo aguanta en pie. Gana la que más resiste.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron los guardianes para cubrir todos los lados?
 
-## Notas para educadores
+## Notas para el educador
 - Una buena excusa para practicar el amarre de trípode antes de jugar.
 
 

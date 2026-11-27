@@ -138,9 +138,10 @@ rama_rovers:
 
 # Carrera de la Mula Ciega
 
-## Cómo se juega
+## Resumen
 Una carrera de postas de a dos: uno hace de mula con los ojos vendados y el otro la conduce con riendas, sin hablar.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Se marca un recorrido en zigzag que sale y vuelve al mismo lugar, por ejemplo entre sillas o mochilas.
 2. En cada pareja, uno es la mula: tiene los ojos vendados y lleva atadas unas riendas, que son una soga pasada por delante del cuerpo. El otro es el conductor, que va detrás agarrando las riendas.
 3. A la señal, el conductor de la primera pareja guía a su mula por todo el recorrido, tirando de las riendas para un lado o para el otro, hasta que vuelven al lugar de la mula en la fila.
@@ -151,7 +152,7 @@ Una carrera de postas de a dos: uno hace de mula con los ojos vendados y el otro
 
 **Reventar el globo (variante del original):** al terminar el recorrido, la mula tiene que reventar un globo sentándose encima o pisándolo, guiada por su conductor. Después se sigue igual que antes.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sintieron siendo la mula? ¿Y siendo el arriero?
 - ¿Qué hace falta para confiar en alguien que te guía?
 

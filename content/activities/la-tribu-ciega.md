@@ -137,9 +137,10 @@ rama_rovers:
 
 # La Tribu Ciega
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que dos jugadores atados tienen que escaparse de una «tribu» de jugadores con los ojos vendados.
 
+## Desarrollo
 1. Los jugadores forman una ronda, separados de modo que, con los brazos estirados hacia los costados, se toquen apenas las puntas de los dedos con los vecinos. Todos se vendan los ojos: son la tribu ciega.
 2. En el centro se ponen otros dos jugadores, sin venda: son las víctimas. Van atados como en una carrera de tres piernas, es decir, uno al lado del otro, con el tobillo derecho de uno atado al tobillo izquierdo del otro.
 3. A la señal, las víctimas tratan de salir de la ronda pasando entre los ciegos sin que las toquen. Tienen que moverse juntas y en silencio, porque los ciegos se guían por el oído.
@@ -148,10 +149,10 @@ Un juego de ronda en el que dos jugadores atados tienen que escaparse de una «t
 
 **Cómo se gana:** las víctimas ganan si logran salir de la ronda sin que las toquen.
 
-## Para cerrar
+## Cierre
 - ¿Por qué era tan difícil para los del medio moverse en silencio?
 
-## Notas para educadores
+## Notas para el educador
 - El nudo del tobillo tiene que ser flojo y de pañuelo, nunca de soga.
 
 

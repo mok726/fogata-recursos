@@ -134,9 +134,10 @@ rama_rovers:
 
 # Posta Canguro
 
-## Cómo se juega
+## Resumen
 Una carrera de postas en la que se salta como un canguro por encima de las piernas de los compañeros.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Cada equipo se sienta en el piso en una fila, uno detrás del otro, con las piernas estiradas hacia adelante y unos 60 cm de distancia entre jugador y jugador.
@@ -148,7 +149,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Formas de saltar (variante del original):** se puede pedir que todos salten con los pies juntos, que todos salten en un pie, o que se alterne: un jugador con los dos pies y el siguiente en un pie.
 
-## Para cerrar
+## Cierre
 - ¿Les dio miedo que los pisaran? ¿Cómo se cuidaron?
 
 

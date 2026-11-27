@@ -137,16 +137,17 @@ rama_rovers:
 
 # ¿Qué Hizo?
 
-## Cómo se juega
+## Resumen
 Un juego de observación de acciones.
 
+## Desarrollo
 1. Un jugador se para en el centro del salón y hace algunas acciones simples, una detrás de otra. Por ejemplo: camina seis pasos, saca un lápiz, saca el sacapuntas, le saca punta al lápiz, se sienta en el piso y silba una canción.
 2. Durante unos momentos se hace algo que distraiga mucho a todos.
 3. Después, cada equipo o jugador trata de contar exactamente qué hizo y en qué orden.
 
 **Cómo se gana:** gana el informe más exacto.
 
-## Para cerrar
+## Cierre
 - ¿Qué acciones se olvidaron todos?
 - ¿Por qué los testigos de un hecho a veces cuentan cosas distintas?
 

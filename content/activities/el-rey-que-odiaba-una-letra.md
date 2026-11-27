@@ -135,9 +135,10 @@ rama_rovers:
 
 # El Gran Mogol
 
-## Cómo se juega
+## Resumen
 Un juego de ronda: hay que contestar sin usar una letra prohibida.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda. Uno es el Gran Mogol (un emperador muy caprichoso) y se para en el medio.
 2. El Gran Mogol anuncia que no soporta una letra, por ejemplo la R.
 3. Después le pregunta a cada jugador, por turno: «¿Qué me vas a dar de cenar?».
@@ -147,10 +148,10 @@ Un juego de ronda: hay que contestar sin usar una letra prohibida.
 
 **Cómo se gana:** gana el último que queda.
 
-## Para cerrar
+## Cierre
 - ¿Qué letras eran más difíciles de evitar? ¿Por qué? (Las vocales.)
 
-## Notas para educadores
+## Notas para el educador
 - Con lobatos, el Rey puede odiar una letra fácil de evitar, como la Z o la J.
 
 

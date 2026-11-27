@@ -136,9 +136,10 @@ rama_rovers:
 
 # Carrera del Correo
 
-## Cómo se juega
+## Resumen
 Una carrera de pases de pelota en zigzag entre dos filas, como un correo que lleva y trae.
 
+## Desarrollo
 1. Cada equipo se divide en dos filas, paradas una frente a la otra, a unos pocos pasos.
 2. El primer jugador de una fila le tira la pelota al de enfrente. Ese se la tira al segundo de la primera fila, que se la tira al segundo de la otra, y así la pelota va en zigzag de una fila a la otra hasta el final.
 3. Cuando llega a la otra punta, vuelve de la misma manera hasta el principio. Eso es una vuelta.
@@ -149,7 +150,7 @@ Una carrera de pases de pelota en zigzag entre dos filas, como un correo que lle
 
 **Posta del correo (variante del original):** los equipos se forman igual y la pelota va en zigzag de la misma manera. Pero cuando llega al último, este corre con la pelota hasta la otra punta, se pone primero en su fila y vuelve a largarla. Así cada jugador va pasando adelante por turno. Gana el primer equipo que vuelve a quedar en su orden original.
 
-## Para cerrar
+## Cierre
 - ¿Qué tipo de pase iba más seguro?
 
 

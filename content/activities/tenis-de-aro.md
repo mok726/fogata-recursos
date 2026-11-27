@@ -143,9 +143,10 @@ rama_rovers:
 1. Hacé el aro: un pedazo de soga de 70 cm, unido en círculo con un empalme corto o un nudo y forrado con cinta para que no se deshaga.
 2. Tendé la red entre dos árboles o estacas, con un ballestrinque en cada punta. Marcá las líneas del fondo.
 
-## Cómo se juega
+## Resumen
 Un juego parecido al tenis o al vóley, pero en vez de pelota se usa un aro de soga (un anillo de soga gruesa) que se tira y se ataja con las manos. En los barcos se jugaba en la cubierta, por eso en inglés se llama «tenis de cubierta».
 
+## Desarrollo
 1. Se cuelga o se tiende una red, o una soga, a 1,50 m de alto, cruzando el lugar. Se marca una línea de fondo en cada lado, que es el límite de la cancha.
 2. Se pone un equipo de cada lado de la red.
 3. Un jugador tira el aro por arriba de la red hacia el otro lado. Los del otro lado tienen que atajarlo en el aire y devolverlo, también tirándolo por arriba de la red.
@@ -160,10 +161,10 @@ Un juego parecido al tenis o al vóley, pero en vez de pelota se usa un aro de s
 ### Variante: Individual o en parejas
 Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
 
-## Para cerrar
+## Cierre
 - ¿Qué técnica de tiro funcionaba mejor?
 
-## Notas para educadores
+## Notas para el educador
 - El juego nació en las cubiertas de los barcos. Armar la red con nudos de verdad es parte de la actividad.
 
 

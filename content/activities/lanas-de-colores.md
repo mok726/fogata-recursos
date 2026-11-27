@@ -147,19 +147,20 @@ rama_rovers:
 2. Dejalos a la vista, sin esconderlos debajo de nada: enredados en una rama, apoyados en el pasto, en una piedra.
 3. Marcá bien el límite del terreno.
 
-## Cómo se juega
+## Resumen
 Un juego para darse cuenta de que algunos colores se ven mucho más que otros en la naturaleza.
 
+## Desarrollo
 1. Antes del juego, el que dirige reparte pedacitos de lana de distintos colores en una zona determinada o a lo largo de un sendero, sin esconderlos demasiado.
 2. A la señal, cada equipo sale a buscarlos y a juntar todos los que pueda en un tiempo dado.
 
 **Cómo se gana (puntaje):** cada color vale distinto, según lo difícil que es verlo: verde 6 puntos, gris 5, marrón 4, azul 3, rojo 2 y blanco 1. El puntaje se puede cambiar según el lugar. Gana el equipo que suma más.
 
-## Para cerrar
+## Cierre
 - ¿Qué colores encontraron primero? ¿Cuáles costaron más?
 - ¿Qué animales usan colores para esconderse? ¿Y cuáles usan colores para que los vean?
 
-## Notas para educadores
+## Notas para el educador
 - Llevá la cuenta exacta de las lanas: no puede quedar ninguna en el terreno, porque los pájaros las usan para hacer nidos y se enredan.
 - Si el terreno es seco y marrón, cambiá los puntos según los colores que más se camuflen ahí.
 

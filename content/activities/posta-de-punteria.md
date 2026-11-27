@@ -137,9 +137,10 @@ rama_rovers:
 
 # Posta de Tiro al Blanco
 
-## Cómo se juega
+## Resumen
 Una carrera de postas de puntería: cada jugador tiene que voltear un blanco con pelotas de tenis.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo, a unos 9 metros, se para un blanco: un bolo, o una botella de plástico con un poco de arena para que no se caiga sola.
@@ -152,7 +153,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Carrera de las papas por equipos (variante del original):** delante de cada equipo, a unos 27 metros, se pone un balde en el centro de un círculo de unos 3 metros de radio. Alrededor del círculo, en el borde, se ponen tres papas por cada jugador del equipo. A la señal, todo el equipo corre hasta el borde de su círculo y cada jugador trata de embocar sus tres papas en el balde, tirándolas desde afuera del círculo. Cuando un jugador ya metió las suyas, puede ayudar devolviéndoles a sus compañeros las papas que no entraron. Gana el primer equipo que vuelve al punto de partida con todas sus papas en el balde.
 
-## Para cerrar
+## Cierre
 - ¿Ayudar a los compañeros a buscar pelotas hizo que la patrulla ganara?
 
 

@@ -136,9 +136,10 @@ rama_rovers:
 
 # Pelota entre las Piernas
 
-## Cómo se juega
+## Resumen
 Un juego de ronda en el que hay que sacar la pelota por entre las piernas de los demás.
 
+## Desarrollo
 1. Los jugadores forman una ronda, mirando hacia adentro, con las piernas abiertas y las rodillas derechas. Cada uno apoya los pies tocando los pies de los vecinos, así la ronda queda cerrada y los únicos huecos son los de entre las piernas de cada jugador.
 2. Uno se pone en el centro con una pelota.
 3. El del centro trata de sacar la pelota fuera de la ronda, tirándola o haciéndola rodar por el piso entre las piernas de alguno.
@@ -149,10 +150,10 @@ Un juego de ronda en el que hay que sacar la pelota por entre las piernas de los
 
 **Dos atados en el centro (variante del original):** igual que la anterior, pero con dos jugadores en el centro atados como en una carrera de tres piernas (el tobillo de uno atado al tobillo del otro).
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para defender su lugar y el del vecino?
 
-## Notas para educadores
+## Notas para el educador
 - Con lobatos, la pelota va solo con la mano y rodando.
 
 

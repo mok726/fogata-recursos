@@ -139,9 +139,10 @@ rama_rovers:
 ## Preparación
 1. Dibujá un círculo de unos 6 metros de diámetro, un círculo chico en el medio y seis u ocho rayos que los unan.
 
-## Cómo se juega
+## Resumen
 Un juego de persecución en el que solo se puede correr por las líneas de una rueda dibujada en el piso.
 
+## Desarrollo
 1. Con tiza (o marcando en la tierra) se dibuja en el piso una rueda grande, como la de una carreta:
    - la llanta: el borde de afuera, un círculo de unos 2,70 m de radio, marcado como una franja de 30 cm de ancho;
    - el cubo: un círculo chico en el centro, de unos 75 cm;
@@ -153,7 +154,7 @@ Un juego de persecución en el que solo se puede correr por las líneas de una r
 6. Se puede acordar que el cubo del centro sea un lugar a salvo: mientras el perseguido está ahí, no lo pueden tocar.
 7. Cuando tocan al perseguido, se eligen otros tres jugadores.
 
-## Para cerrar
+## Cierre
 - ¿Qué camino les convenía usar: los rayos o el borde?
 
 

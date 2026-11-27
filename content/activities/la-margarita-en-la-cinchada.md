@@ -142,9 +142,10 @@ rama_rovers:
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
+## Resumen
 Un duelo de a dos: cada uno tiene que hacer una margarita en su punta de la soga mientras el otro tira.
 
+## Desarrollo
 1. La margarita es un nudo que sirve para acortar una soga sin cortarla: se hacen dos pliegues en la soga, formando una especie de «S», y cada punta del pliegue se asegura con una vuelta.
 2. Dos jugadores agarran una soga, cada uno de una punta, como en una cinchada.
 3. A la orden, cada uno trata de hacer una margarita en su lado de la soga antes que el otro.
@@ -152,10 +153,10 @@ Un duelo de a dos: cada uno tiene que hacer una margarita en su punta de la soga
 
 **Cómo se gana:** gana el primero que termina una margarita bien hecha.
 
-## Para cerrar
+## Cierre
 - ¿Para qué sirve la margarita? ¿Por qué aguanta solo si la soga está tensa?
 
-## Notas para educadores
+## Notas para el educador
 - La margarita es un nudo para acortar sin cortar (ver la ficha Margarita: Acortar sin Cortar). Este juego muestra muy bien que se deshace si la soga se afloja.
 
 

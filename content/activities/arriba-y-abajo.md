@@ -136,9 +136,10 @@ rama_rovers:
 
 # Posta Arriba y Abajo
 
-## Cómo se juega
+## Resumen
 Una carrera de pases en fila: la pelota va por arriba de las cabezas y por abajo, entre las piernas.
 
+## Desarrollo
 1. Los equipos se forman en fila india, uno detrás del otro. El de adelante tiene una pelota o algún objeto más grande (una mochila, una almohada).
 2. A la señal, el de adelante pasa la pelota hacia atrás por arriba de su cabeza, con las dos manos, al compañero de atrás. Ese hace lo mismo, y así hasta el final de la fila.
 3. Cuando el último recibe la pelota, corre hasta adelante, se pone primero y la vuelve a largar hacia atrás, pero esta vez entre las piernas.
@@ -149,7 +150,7 @@ Una carrera de pases en fila: la pelota va por arriba de las cabezas y por abajo
 
 **Arriba y abajo alternado (variante del original):** el primero de la fila siempre la pasa por arriba de la cabeza, el segundo por abajo entre las piernas, el tercero por arriba, y así, alternando a lo largo de toda la fila.
 
-## Para cerrar
+## Cierre
 - ¿Dónde se trababa la pelota? ¿Cómo lo resolvieron?
 
 

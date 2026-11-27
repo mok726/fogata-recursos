@@ -136,9 +136,10 @@ rama_rovers:
 
 # Charadas
 
-## Cómo se juega
+## Resumen
 Un juego de teatro para adivinar una palabra por partes.
 
+## Desarrollo
 1. Un equipo elige en secreto una palabra de 2, 3 o 4 sílabas que se pueda separar en partes con sentido. Por ejemplo: «girasol» (gira + sol).
 2. Prepara una escena corta para cada parte y una última escena para la palabra entera. En cada escena tiene que aparecer, de alguna forma, esa parte de la palabra.
 3. Actúa las escenas en orden: primera parte, segunda parte, palabra entera.
@@ -146,10 +147,10 @@ Un juego de teatro para adivinar una palabra por partes.
 
 **Consejo del original:** elijan una escena de actualidad y metan la palabra como sea.
 
-## Para cerrar
+## Cierre
 - ¿Qué escena estuvo mejor actuada? ¿Por qué se entendió?
 
-## Notas para educadores
+## Notas para el educador
 - Funciona muy bien como número de fogón.
 
 

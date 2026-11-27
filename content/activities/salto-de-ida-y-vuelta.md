@@ -136,9 +136,10 @@ rama_rovers:
 
 # Salto de Ida y Vuelta
 
-## Cómo se juega
+## Resumen
 Un juego de saltos en largo entre dos equipos: uno salta hacia adelante y el otro trata de deshacer lo que avanzó, saltando hacia atrás.
 
+## Desarrollo
 1. Se marca una línea de tiza en el piso. Se forman dos equipos, con el mismo número de jugadores y numerados (el n.º 1 es el guía).
 2. El guía del primer equipo se para con los talones en la línea y hace un salto en largo sin carrera, con los dos pies juntos, hacia adelante.
 3. Se marca el lugar donde quedaron sus talones. Desde ahí, el guía del segundo equipo salta hacia atrás, de vuelta hacia la línea, también sin carrera.
@@ -147,7 +148,7 @@ Un juego de saltos en largo entre dos equipos: uno salta hacia adelante y el otr
 
 **Cómo se gana:** se mira el último salto, que siempre es uno hacia atrás del segundo equipo. Si con ese salto los talones quedan pasando la línea de partida, gana el segundo equipo. Si no llegan a la línea, gana el primero.
 
-## Para cerrar
+## Cierre
 - ¿Cómo eligieron el orden de los saltadores?
 
 

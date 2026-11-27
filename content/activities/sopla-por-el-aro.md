@@ -138,9 +138,10 @@ rama_rovers:
 
 # Soplá, Soplá
 
-## Cómo se juega
+## Resumen
 Un juego de soplido en equipo: hay que hacer pasar un globo por un aro colgado, solo soplando.
 
+## Desarrollo
 1. Para cada equipo se cuelga un aro chico de madera (o de otro material liviano), de modo que la parte de abajo del aro quede apenas por arriba de la cabeza de un jugador de estatura promedio.
 2. Cada equipo se agrupa alrededor de su aro y recibe un globo inflado.
 3. A la orden de empezar, los jugadores soplan el globo para mantenerlo en el aire y hacerlo pasar por el aro. Puede pasar en cualquier dirección.
@@ -149,10 +150,10 @@ Un juego de soplido en equipo: hay que hacer pasar un globo por un aro colgado, 
 
 **Cómo se gana:** gana el primer equipo que hace tres «soplidos».
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron para soplar todos para el mismo lado?
 
-## Notas para educadores
+## Notas para el educador
 - Juego cortito y muy divertido para hacer bajo techo.
 
 

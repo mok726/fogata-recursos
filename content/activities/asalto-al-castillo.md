@@ -135,9 +135,10 @@ rama_rovers:
 
 # Asalto al Castillo
 
-## Cómo se juega
+## Resumen
 Un juego de equipos en el que hay que meterse adentro de una ronda que defiende su «castillo».
 
+## Desarrollo
 1. La mayoría de los jugadores forma una ronda tomados de las manos: son las murallas del castillo.
 2. Un equipo se queda afuera: son los que asaltan.
 3. A la señal, el equipo de afuera trata de meter a todos sus integrantes adentro de la ronda, pasando por arriba o por debajo de los brazos, o metiéndose por donde puedan.
@@ -147,7 +148,7 @@ Un juego de equipos en el que hay que meterse adentro de una ronda que defiende 
 
 **Cómo se gana:** gana el equipo que logró meter a todos sus integrantes en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué estrategia usaron? ¿Entraron todos juntos o de a uno?
 
 

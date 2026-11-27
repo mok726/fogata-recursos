@@ -137,9 +137,10 @@ rama_rovers:
 
 # ¿Estás Ahí?
 
-## Cómo se juega
+## Resumen
 Un juego de dos jugadores con los ojos vendados, uno que busca y otro que esquiva, guiándose solo por la voz.
 
+## Desarrollo
 1. Dos jugadores se arrodillan en el piso, frente a frente, lo bastante cerca como para alcanzarse con el brazo. Los dos tienen los ojos vendados.
 2. Uno tiene un diario enrollado, que hace de garrote blando.
 3. Cuando quiere, el del diario pregunta: «¿Estás ahí?». El otro está obligado a contestar «¡Acá estoy!» (o algo parecido).
@@ -151,10 +152,10 @@ Un juego de dos jugadores con los ojos vendados, uno que busca y otro que esquiv
 
 **En movimiento (variante del original):** los dos jugadores pueden moverse dentro de una ronda formada por los demás, en lugar de estar arrodillados. Todo lo demás es igual.
 
-## Para cerrar
+## Cierre
 - ¿Cómo hicieron para esquivar? ¿Cambiaban de lugar después de contestar?
 
-## Notas para educadores
+## Notas para el educador
 - El diario tiene que ser blando: un rollo de diario con cinta, no una revista dura ni un tubo de cartón.
 
 

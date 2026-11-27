@@ -134,9 +134,10 @@ rama_rovers:
 
 # Posta de «Hacé Esto»
 
-## Cómo se juega
+## Resumen
 Una carrera de postas de atención y memoria: hay que copiar exactamente lo que hizo el que dirige.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Delante de cada equipo, a cierta distancia, se marca un lugar (con una tiza, un pañuelo o una piedra).
@@ -146,7 +147,7 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 
 **Cómo se gana:** gana el primer equipo que termina.
 
-## Para cerrar
+## Cierre
 - ¿Qué gestos costaba más recordar?
 
 

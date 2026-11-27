@@ -139,9 +139,10 @@ rama_rovers:
 ## Preparación
 1. Escribí unos 30 temas, la mayoría divertidos y algunos más en serio.
 
-## Cómo se juega
+## Resumen
 Un juego para animarse a hablar en público sin preparación.
 
+## Desarrollo
 1. Se escriben temas en papelitos y se ponen en un sombrero.
 2. Cada jugador saca un tema, tiene 2 minutos para pensar y después habla sobre ese tema durante 3 a 5 minutos.
 
@@ -157,11 +158,11 @@ Cada patrulla manda un orador con el mismo tema. Se comparan los discursos.
 ### Variante: Todos a la vez
 Para Caminantes: todos los oradores hablan a la vez del mismo tema. El que se ríe o se queda callado, sale. Gana el que logra que lo escuchen.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue lo más difícil: arrancar, seguir o terminar?
 - ¿Qué les ayudó a no quedarse en blanco?
 
-## Notas para educadores
+## Notas para el educador
 - Para los más tímidos, empezá con un minuto en lugar de tres. Nadie debería quedar expuesto: si alguien no quiere, puede hablar en pareja.
 
 

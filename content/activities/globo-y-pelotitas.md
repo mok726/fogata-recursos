@@ -137,9 +137,10 @@ rama_rovers:
 
 # Fútbol de Globo y Pelotas
 
-## Cómo se juega
+## Resumen
 Un juego de puntería por equipos: hay que mover un globo hasta la línea del otro equipo, pero solo pegándole con pelotas tiradas desde lejos.
 
+## Desarrollo
 1. Se marcan dos líneas de arco, una en cada punta del salón. Cada equipo se forma sobre su propia línea, con varias pelotas de tenis.
 2. En el centro, entre las dos líneas, se pone un globo inflado (o una pelota muy liviana).
 3. A la orden de empezar, los jugadores tiran las pelotas de tenis contra el globo para empujarlo hacia la línea del otro equipo.
@@ -149,10 +150,10 @@ Un juego de puntería por equipos: hay que mover un globo hasta la línea del ot
 
 **Cómo se gana:** gana el equipo que hace más goles.
 
-## Para cerrar
+## Cierre
 - ¿Les convenía tirar todos juntos o de a uno?
 
-## Notas para educadores
+## Notas para el educador
 - Con pelotitas de papel bollado se puede jugar adentro sin romper nada.
 
 

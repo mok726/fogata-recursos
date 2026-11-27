@@ -136,9 +136,10 @@ rama_rovers:
 
 # Encerrar las Ovejas
 
-## Cómo se juega
+## Resumen
 Una mancha en equipo: los pastores, tomados de las manos, tratan de atrapar a las ovejas y meterlas en los corrales, y las ovejas encerradas se convierten en nuevos pastores.
 
+## Desarrollo
 1. Se marcan varios corrales en el piso, por ejemplo con tiza o con sogas: son espacios cerrados repartidos por el salón o el terreno.
 2. Doce jugadores son los pastores. Se forman en tres filas de cuatro, tomados de las manos. Cada fila de cuatro se mueve como un solo pastor y no se puede soltar.
 3. Los demás jugadores son las ovejas, y corren libres.
@@ -146,7 +147,7 @@ Una mancha en equipo: los pastores, tomados de las manos, tratan de atrapar a la
 5. A una oveja atrapada, los pastores la meten en el corral que quieran.
 6. Apenas hay cuatro ovejas en un mismo corral, se toman de las manos, salen y pasan a ser un pastor nuevo que ayuda a los demás.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pusieron de acuerdo los pastores para rodear a las ovejas?
 
 

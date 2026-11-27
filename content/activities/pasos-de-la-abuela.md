@@ -134,9 +134,10 @@ rama_rovers:
 
 # Los Pasos de la Abuela
 
-## Cómo se juega
+## Resumen
 Un juego de acercarse sin ser visto: hay que llegar hasta la «abuela» moviéndose solo cuando está de espaldas.
 
+## Desarrollo
 1. Un jugador es la «abuela». Se para a unos 20 metros de los demás, de espaldas a ellos.
 2. Los demás jugadores se forman en una fila, uno al lado del otro, en la línea de salida.
 3. Mientras la abuela está de espaldas, los jugadores avanzan hacia ella.
@@ -146,10 +147,10 @@ Un juego de acercarse sin ser visto: hay que llegar hasta la «abuela» moviénd
 
 **Cómo se gana:** gana el primero que llega a tocar a la abuela.
 
-## Para cerrar
+## Cierre
 - ¿Qué estrategia usaron: avanzar mucho de golpe o de a poquito?
 
-## Notas para educadores
+## Notas para el educador
 - Es pariente del «Un, dos, tres… ¡estatua!» y de otros juegos de estatuas que se juegan en los patios de toda América.
 
 

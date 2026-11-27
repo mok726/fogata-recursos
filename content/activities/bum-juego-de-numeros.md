@@ -135,9 +135,10 @@ rama_rovers:
 
 # Buzz
 
-## Cómo se juega
+## Resumen
 Un juego de números para pensar rápido. Se dice «Buzz» (se pronuncia «bas») en lugar de ciertos números.
 
+## Desarrollo
 1. Los jugadores se sientan en ronda.
 2. Empiezan a contar en voz alta, uno por vez: el primero dice «1», el siguiente «2», y así.
 3. Cuando al que le toca le corresponde decir el 7, un número que tiene un 7 (17, 27, 70…) o un múltiplo de 7 (14, 21, 28…), en lugar del número tiene que decir «Buzz».
@@ -152,10 +153,10 @@ Un juego de números para pensar rápido. Se dice «Buzz» (se pronuncia «bas»
 ### Variante: Para los más chicos
 Con lobatos, usá solo el 3 o el 5, que son más fáciles.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron para no equivocarse?
 
-## Notas para educadores
+## Notas para el educador
 - Es un juego para repasar las tablas sin que se note.
 - Que el ritmo sea rápido pero parejo: si alguien tarda, contá hasta tres en voz alta.
 

@@ -137,9 +137,10 @@ rama_rovers:
 
 # El Tictac del Reloj
 
-## Cómo se juega
+## Resumen
 Un juego para encontrar un objeto guiándose solo por su sonido.
 
+## Desarrollo
 1. Se pone en algún lugar del salón un reloj que haga un tictac bastante fuerte (puede ser un despertador a cuerda o un metrónomo), donde se lo pueda tocar.
 2. Entra al salón un jugador de cada equipo, con los ojos vendados. Todos tratan de encontrar el reloj escuchando el tictac.
 3. Cuando un jugador toca el reloj, se saca la venda y se queda callado hasta que lo encuentran todos.
@@ -147,10 +148,10 @@ Un juego para encontrar un objeto guiándose solo por su sonido.
 
 **Cómo se gana:** el primero de cada vuelta que toca el reloj suma un punto para su equipo. Gana el equipo con más puntos.
 
-## Para cerrar
+## Cierre
 - ¿Les fue más fácil ir directo o hacer pausas para escuchar?
 
-## Notas para educadores
+## Notas para el educador
 - Si usás un celular, poné el volumen bajo: el juego es lindo cuando cuesta.
 - Sacá del medio sillas y mesas para que nadie se golpee.
 

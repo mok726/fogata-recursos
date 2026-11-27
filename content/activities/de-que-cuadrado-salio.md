@@ -136,9 +136,10 @@ rama_rovers:
 
 # ¿Qué Cuadrado?
 
-## Cómo se juega
+## Resumen
 Un juego de memoria visual.
 
+## Desarrollo
 1. Sobre una mesa se dibujan varios cuadraditos (con tiza o con cinta) y se pone un objeto chico dentro de cada uno.
 2. Los jugadores miran la mesa durante unos 45 segundos.
 3. Después el que dirige saca todos los objetos de la mesa.
@@ -149,10 +150,10 @@ Un juego de memoria visual.
 ### Variante: Más difícil
 Usá una cuadrícula de 5 x 5 con objetos parecidos entre sí, por ejemplo, ocho piedras y ocho hojas distintas.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron para recordar? ¿Armaron una historia, contaron filas, agruparon las cosas?
 
-## Notas para educadores
+## Notas para el educador
 - Es una variante del Juego de Kim que, además del objeto, pide recordar la posición.
 
 

@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pelota sobre la Cortina
 
-## Cómo se juega
+## Resumen
 Un juego de tirar y atajar por encima de una cortina: como no se ve al otro lado, la pelota aparece de golpe.
 
+## Desarrollo
 1. Se cuelga a lo ancho del salón una cortina que no deje ver (puede ser una sábana o una lona), lo bastante alta como para tapar a los jugadores.
 2. Se pone un equipo de cada lado de la cortina.
 3. Un equipo tira una pelota (puede ser una de fútbol) por arriba de la cortina, tratando de que toque el piso del otro lado.
@@ -149,7 +150,7 @@ Un juego de tirar y atajar por encima de una cortina: como no se ve al otro lado
 
 **Cómo se gana:** gana el equipo al que le quedan jugadores durante más tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron para cubrir toda la cancha?
 
 

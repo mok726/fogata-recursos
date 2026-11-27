@@ -137,9 +137,10 @@ rama_rovers:
 
 # Pelota Empujada
 
-## Cómo se juega
+## Resumen
 Un juego de pelota en el que todos juegan sentados: hay que hacer pasar la pelota más allá del arquero del otro equipo, pegándole solo con la mano abierta.
 
+## Desarrollo
 1. Se ponen sillas en dos filas, una frente a otra, a unos 1,20 m de distancia, de modo que en el medio quede un pasillo.
 2. Se arman dos equipos y los jugadores se sientan alternados: uno de un equipo, uno del otro, y así. Ningún jugador tiene a un compañero de su equipo sentado al lado.
 3. Cada equipo designa un arquero. Los dos arqueros se sientan uno en cada punta del pasillo.
@@ -149,7 +150,7 @@ Un juego de pelota en el que todos juegan sentados: hay que hacer pasar la pelot
 
 **Cómo se gana:** cada vez que la pelota pasa al arquero rival es un gol. Gana el equipo que hace más goles.
 
-## Para cerrar
+## Cierre
 - ¿Ayudaba estar sentado entre dos rivales o complicaba?
 
 

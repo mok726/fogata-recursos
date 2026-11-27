@@ -135,9 +135,10 @@ rama_rovers:
 
 # Cuervos y Grullas
 
-## Cómo se juega
+## Resumen
 Un juego de reflejos y carrera entre dos equipos: hay que reaccionar rápido al nombre que dice el que dirige, para escapar o para perseguir.
 
+## Desarrollo
 1. Se forman dos equipos en dos filas, mirándose de frente, a 1,5 m una de otra, en el medio del salón. Un equipo se llama «Cuervos» y el otro «Grullas». Cada equipo tiene su refugio en la pared o en la punta del salón que le queda a la espalda.
 2. El que dirige va a decir uno de los dos nombres, pero antes hace suspenso: hace una pausa larga, o hace sonar un «Rrrrrr…» que no da ninguna pista, y recién entonces dice de golpe «¡Cuervos!» o «¡Grullas!». Así nadie sabe hasta el último momento si le toca escapar o perseguir. (En el original, en inglés, los dos nombres empiezan igual, «Crows» y «Cranes», y el que dirige estira la R del principio para mantener la duda.)
 3. El equipo nombrado sale corriendo hacia su punta del salón, y el otro equipo sale a perseguirlo.
@@ -151,10 +152,10 @@ Un juego de reflejos y carrera entre dos equipos: hay que reaccionar rápido al 
 ### Variante: Verdadero o falso
 Un equipo es «Verdadero» y el otro «Falso». El que dirige dice una frase («El hornero hace su nido de barro») y, según sea cierta o no, escapa uno u otro. Sirve para repasar cualquier tema.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue más difícil: esperar el final de la palabra o correr?
 
-## Notas para educadores
+## Notas para el educador
 - La variante de verdadero o falso convierte el juego en un repaso de técnica scout, de naturaleza o de lo que estén trabajando.
 
 

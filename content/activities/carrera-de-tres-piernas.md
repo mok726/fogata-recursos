@@ -137,9 +137,10 @@ rama_rovers:
 
 # Carrera de Tres Piernas
 
-## Cómo se juega
+## Resumen
 La clásica carrera de a dos con una pierna atada a la del compañero, como si entre los dos tuvieran tres piernas.
 
+## Desarrollo
 En una carrera de postas (también llamada de relevos) cada jugador hace su tramo y, cuando vuelve, «larga» al siguiente de su equipo, por ejemplo tocándole la mano; recién entonces puede salir el otro.
 
 1. Los equipos se forman en fila india, uno detrás del otro, detrás de una línea de salida. Dentro de cada equipo, los jugadores se agrupan de a dos. Enfrente se marca un punto de vuelta.
@@ -154,10 +155,10 @@ En una carrera de postas (también llamada de relevos) cada jugador hace su tram
 ### Variante: Cuatro piernas con cucharas
 Tríos atados, y los de las puntas llevan una papa en una cuchara.
 
-## Para cerrar
+## Cierre
 - ¿Qué funcionó mejor: contar en voz alta, mirar los pies o abrazarse?
 
-## Notas para educadores
+## Notas para el educador
 - El juego habla de ponerse de acuerdo: preguntá qué hicieron las parejas que no se cayeron.
 
 

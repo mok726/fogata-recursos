@@ -135,16 +135,17 @@ rama_rovers:
 
 # Atrapen a la Liebre
 
-## Cómo se juega
+## Resumen
 Un juego de persecución en ronda en el que todos ayudan a la liebre a escaparse de los perros.
 
+## Desarrollo
 1. Los jugadores forman una ronda tomados de las manos. Un jugador, la «liebre», se pone adentro de la ronda. Otros dos, los «perros», se ponen afuera.
 2. A la señal, los perros tratan de atrapar a la liebre, es decir, de tocarla.
 3. Los de la ronda están del lado de la liebre: la dejan entrar y salir cuando quiere, levantando los brazos para que pase por debajo.
 4. En cambio, a los perros les cierran el paso o se lo hacen difícil: bajan los brazos, se juntan, se mueven para taparlos, siempre sin soltarse las manos.
 5. Cuando los perros atrapan a la liebre, se eligen otra liebre y otros dos perros.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se pusieron de acuerdo los de la ronda para proteger a la liebre?
 
 

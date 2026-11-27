@@ -139,9 +139,10 @@ rama_rovers:
 ## Preparación
 1. Prepará unas 20 frases, ordenadas primero y después mezcladas. Que haya verdaderas («la flor de lis es el símbolo scout»), falsas («el sol sale por el oeste») y algunas que nadie puede saber («en Marte hay vida»).
 
-## Cómo se juega
+## Resumen
 Un juego de pensar rápido con frases desordenadas.
 
+## Desarrollo
 1. El que dirige lee una frase con las palabras mezcladas.
 2. Los jugadores tienen que ordenarla en la cabeza y decir rápido si lo que dice la frase es verdadero, falso o no se sabe.
 3. Ejemplos:
@@ -151,10 +152,10 @@ Un juego de pensar rápido con frases desordenadas.
 
 **Cómo se gana:** cada respuesta correcta vale un punto.
 
-## Para cerrar
+## Cierre
 - ¿Qué frases eran de «no se sabe»? ¿Qué diferencia hay entre «no lo sé» y «nadie lo sabe»?
 
-## Notas para educadores
+## Notas para el educador
 - La tercera opción («no se sabe») da para una buena charla sobre lo que sabemos, lo que creemos y lo que todavía no se descubrió.
 
 

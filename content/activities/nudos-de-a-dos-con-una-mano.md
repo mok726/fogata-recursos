@@ -144,9 +144,10 @@ rama_rovers:
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
-## Cómo se juega
+## Resumen
 Un juego de nudos en pareja en el que cada uno puede usar una sola mano. Hay que ponerse de acuerdo para atar entre los dos.
 
+## Desarrollo
 1. Los jugadores se ponen de a dos. Cada uno tiene un pedazo de soga.
 2. Cada jugador pone una mano atrás de la espalda y no la puede usar en todo el juego.
 3. El que dirige dice qué nudo hay que hacer para unir dos sogas, por ejemplo un nudo llano o una vuelta de escota.
@@ -157,7 +158,7 @@ Un juego de nudos en pareja en el que cada uno puede usar una sola mano. Hay que
 
 **Otros nudos (variante del original):** se puede jugar con otros nudos, cambiando el que se pide en cada vuelta.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se organizaron? ¿Uno dirigía o se iban turnando?
 - ¿Qué pasa en la patrulla cuando cada uno tiene solo una parte de lo que hace falta?
 

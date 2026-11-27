@@ -143,9 +143,10 @@ rama_rovers:
 2. Dejá los objetos al costado del camino: algunos bien visibles, otros sobre una rama, al pie de un poste, en el pasto.
 3. Anotá vos la lista completa para corregir.
 
-## Cómo se juega
+## Resumen
 Una carrera en la que no solo gana el más rápido: también cuenta lo que viste mientras corrías.
 
+## Desarrollo
 1. A lo largo del recorrido de la carrera, el que dirige pone distintos objetos a la vista: una taza, un pañuelo, un libro, una gorra, etc.
 2. Los jugadores se ubican en la línea de partida de espaldas al recorrido, para que no lo vean antes.
 3. A la señal, se dan vuelta y corren hasta la meta.
@@ -157,11 +158,11 @@ Una carrera en la que no solo gana el más rápido: también cuenta lo que viste
 - Se resta 1 punto por cada objeto que había y no anotó, y 2 puntos por cada objeto que anotó pero no estaba.
 Gana el que suma más.
 
-## Para cerrar
+## Cierre
 - ¿Convenía correr rápido o ir un poco más lento y mirar mejor?
 - ¿Qué objetos no vio casi nadie? ¿Por qué?
 
-## Notas para educadores
+## Notas para el educador
 - Es una buena forma de mostrar que el apuro nos hace ver menos. Da para charlar sobre caminar por el monte o por la ciudad prestando atención.
 - Al terminar, que una patrulla levante todos los objetos.
 
