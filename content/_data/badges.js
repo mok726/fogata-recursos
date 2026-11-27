@@ -2613,7 +2613,7 @@ sections: {
   description:
     "Construir paz en la comunidad: diálogo, servicio y preparación ante desastres.",
   summary:
-    "Mensajeros de la Paz (Messengers of Peace) es la iniciativa de la Organización Mundial del Movimiento Scout para que los jóvenes construyan paz en sus comunidades. En Scouts for SDGs funciona también como desafío.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).\n\n<p>**Sobre las actividades:** las actividades de esta insignia ya están traducidas y adaptadas, pero se mantienen ocultas hasta recibir el permiso de la OMMS (Organización Mundial del Movimiento Scout) para publicarlas. Se van a sumar en cuanto llegue la autorización.",
+    "Mensajeros de la Paz (Messengers of Peace) es la iniciativa de la Organización Mundial del Movimiento Scout para que los jóvenes construyan paz en sus comunidades. En Scouts for SDGs funciona también como desafío.\n\nLas actividades son traducciones y adaptaciones de las fichas publicadas en Scouts for SDGs (sdgs.scout.org).",
   logo: "/imagenes/insignias/mensajerospaz.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "Young scouts painting a colorful mural with doves and joined hands on a neighborhood wall, neighbors of different ages helping, buckets of paint and brushes on the sidewalk, sunny day.",
