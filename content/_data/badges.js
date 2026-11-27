@@ -2903,7 +2903,7 @@ sections: {
     "Juegos de patrulla, de ronda, de postas, de observación y de interior, inspirados en los grandes libros de juegos scouts de los años veinte.",
   summary:
     "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Reúne juegos inspirados en dos clásicos de dominio público: **Gilcraft's Book of Games** (1928), del equipo de formación de *The Boy Scouts Association*, y **Sixty Indoor Games for Scouts**, de *J. B. Collyns* (década de 1920). \n\n<p>Las fichas no traducen los libros: toman la idea de cada juego y la cuentan de nuevo, con pasos para los chicos, variantes y notas para educadores. Se dejaron afuera los juegos de golpes, de fuerza bruta o que hoy no son seguros, y los que ya estaban en Fogata con otro nombre. \n\n<p>Los juegos de *Scouting Games* y de *Escultismo para Muchachos* de B-P están en las insignias de Baden-Powell.",
-  logo: "/imagenes/insignias/general-sitio.png",
+  logo: "/imagenes/insignias/juegosscouts.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "A lively group of scouts aged 8 to 16 playing a team game on a sunny grass field, some running in a relay, others in a big circle laughing, a leader with a whistle, tents and trees in the background.",
   sources: [
