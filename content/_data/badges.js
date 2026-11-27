@@ -3245,6 +3245,10 @@ sections: {
       title: "Extras",
       description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y yo solo documento."
     },
+    M: {
+      title: "Estación Meteorológica",
+      description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
+    },
   }  
 }
 

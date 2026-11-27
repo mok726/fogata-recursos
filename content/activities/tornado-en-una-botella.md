@@ -52,7 +52,7 @@ sdgs:
 activity_badges:
   - general
   - rrd
-activity_code: "general-E22"
+activity_code: "general-M07"
 required: false
 required_for: []
 required_comment: ""

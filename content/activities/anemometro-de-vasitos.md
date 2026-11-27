@@ -55,7 +55,7 @@ activity_badges:
   - general
   - cambioclimatico
   - tecnicascout
-activity_code: "general-E16"
+activity_code: "general-M01"
 required: false
 required_for: []
 required_comment: ""
