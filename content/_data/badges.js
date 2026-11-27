@@ -2253,13 +2253,17 @@ sections: {
   description:
     "Juegos y actividades de Robert Baden-Powell, fundador del Movimiento Scout, tomados de sus libros.",
   summary:
-    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público, empezando por **Scouting for Boys** (1908).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
+    "**Esta no es una insignia oficial**: es una forma de reunir y ordenar los juegos y actividades que Robert Baden-Powell (BP) escribió para los scouts, y un merecido homenaje a él.\n\nLos textos vienen de sus libros, hoy de dominio público: **Scouting for Boys** (1908) y **Scouting Games** (6.ª ed., 1921).\n\nCada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy, con notas de seguridad.\n\nLas actividades son de B-P; acá solo las reusamos, traducimos y acercamos a nuevas generaciones.",
   logo: "/imagenes/insignias/badenpowell.png",
   hero_image: "/imagenes/insignias/badenpowell-hero.jpg",
   sources: [
     {
       name: "Robert Baden-Powell, Scouting for Boys (1908) – Project Gutenberg #65993",
       url: "https://www.gutenberg.org/ebooks/65993"
+    },
+    {
+      name: "Robert Baden-Powell, Scouting Games (The Scout Library n.º 4), 6.ª ed. (1921) – The Online Books Page",
+      url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
     }
   ],
   license: {
@@ -2315,6 +2319,46 @@ sections: {
     I: {
       title: "Juegos de Salón",
       description: "Los «juegos no scouts» que B-P recomienda para las noches en el local o en campamento, tomados del libro Social—to Save."
+    },
+    J: {
+      title: "Juegos de Exploración",
+      description: "Juegos del capítulo I de Scouting Games: mensajes, puestos, mapas y patrullas que se buscan en el terreno."
+    },
+    K: {
+      title: "Acecho y Rastreo",
+      description: "Juegos de los capítulos II y III de Scouting Games: seguir, emboscar y rastrear."
+    },
+    L: {
+      title: "Juegos de Interior",
+      description: "Juegos del capítulo IV de Scouting Games para el local: memoria, mesa y ronda."
+    },
+    M: {
+      title: "Juegos de Campamento",
+      description: "Juegos del capítulo V de Scouting Games para el campamento o el patio."
+    },
+    N: {
+      title: "Juegos en Bicicleta",
+      description: "Juegos del capítulo VI de Scouting Games, adaptados para Caminantes y Rovers en lugares sin tránsito."
+    },
+    O: {
+      title: "Juegos de Ciudad",
+      description: "Juegos del capítulo VII de Scouting Games: observar y moverse por el barrio."
+    },
+    P: {
+      title: "Juegos Nocturnos",
+      description: "Juegos del capítulo VIII de Scouting Games para jugar de noche."
+    },
+    Q: {
+      title: "Juegos de Invierno y de Agua",
+      description: "Juegos de los capítulos IX y X de Scouting Games: soga, postas, botes y agua."
+    },
+    R: {
+      title: "Juegos de Rescate",
+      description: "Los juegos del capítulo XI de Scouting Games que no dependen de técnicas de primeros auxilios de época."
+    },
+    S: {
+      title: "Juegos de Fuerza",
+      description: "Juegos del capítulo XII de Scouting Games: duelos y empujes por parejas o equipos."
     }
   }
 },
@@ -2472,6 +2516,10 @@ sections: {
     G: {
       title: "Amarres y Pionerismo",
       description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA). Además, elementos de campamento de la patrulla, en fichas propias: banco, silla, mesa comedor con bancos, fogón altar, escurridor, despensa, lavamanos de pie, estante para mochilas, tendedero, mástil y puesto de residuos."
+    },
+    H: {
+      title: "Primeros Auxilios y Emergencias",
+      description: "Actividades propias para prepararse ante una emergencia sin tratamientos: botiquín, pedir ayuda, llamar al 107 o al 911, la cadena de ayuda, señales de auxilio y emergencias del hogar."
     }
   }
 },
@@ -3244,6 +3292,26 @@ sections: {
     E: {
       title: "Extras",
       description: "Actividades Inventadas por mi, o que vi implementar a otros Educadores y yo solo documento."
+    },
+    B: {
+      title: "Bienestar Emocional",
+      description: "Reconocer las emociones, manejar el estrés y cuidarse: juegos, reflexiones y herramientas para sentirse bien."
+    },
+    D: {
+      title: "Ciudadanía Digital",
+      description: "Contraseñas, estafas, huella digital, tiempo de pantalla, diseño persuasivo y redes sociales: usar la tecnología con criterio."
+    },
+    I: {
+      title: "Inclusión y Accesibilidad",
+      description: "Detectar barreras, conocer las discapacidades que no se ven y organizar actividades en las que todos puedan participar."
+    },
+    C: {
+      title: "Cuidado de Mascotas",
+      description: "Qué necesita cada mascota, el bienestar animal y la tenencia responsable."
+    },
+    M: {
+      title: "Estación Meteorológica",
+      description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
 }

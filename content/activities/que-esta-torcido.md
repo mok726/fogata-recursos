@@ -1,0 +1,175 @@
+---
+# ========== METADATOS OBLIGATORIOS ==========
+title: "¿Qué Está Torcido?"
+duration: "45 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/que-esta-torcido/"
+description: "Juego de observación de Baden-Powell en la calle: hay que anotar todo lo que está torcido o fuera de lugar, sin que los que vienen atrás se den cuenta de qué anotás."
+summary: "Anotar todo lo torcido de la calle sin que el resto vea qué anotás."
+
+# ========== AUTORÍA Y FUENTES ==========
+author:
+  - Robert Baden-Powell
+source:
+  - Scouting Games (6.ª ed., 1921)
+
+# ========== IMAGEN Y ESTADO ==========
+original: false
+Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
+version: "0.99"
+
+# ========== CLASIFICACIÓN ==========
+branch:
+  - Comunidad
+age: "11-22 años"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Libreta y lápiz por jugador
+tools: []
+responsible:
+  - Docente o Scouter
+prep_time: "10 min"
+participants: "4-30"
+location: "Exterior"
+space_required: "Unas manzanas de un barrio tranquilo, con plazas o veredas anchas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
+sdgs:
+  - 3
+
+# ========== INSIGNIAS / CÓDIGO ==========
+activity_badges:
+  - badenpowell
+activity_code: "badenpowell-O04"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
+tags:
+  - baden-powell
+  - juego-scout
+  - scouting-games
+  - ciudad
+  - observacion
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+    author: "Robert Baden-Powell"
+    year: 1921
+    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    url: "http://www.macscouter.com/Games/BPGames.html"
+  - title: "Scouting Games, by Robert Baden-Powell"
+    author: "The Online Books Page"
+    url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
+
+# ========== LICENCIA ==========
+license:
+  name: "Dominio público"
+  url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
+  image: ""
+  note: "Robert Baden-Powell murió en 1941 y la 6.ª edición de Scouting Games es de 1921: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "Robert Baden-Powell"
+    role: "autor del original (Scouting Games, 6.ª ed., 1921)"
+    year: 1921
+  - entity: "Mariano S. Cosentino"
+    role: "Traducción, adaptación y compilación para publicación WEB"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5
+reflective_component: 2
+active_component: 4
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2
+complexity_organizer: 2
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner. Scouts walking along both sides of a city street with notebooks, glancing at a crooked shop sign and a tilted window blind. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+activity_type:
+  - Juego
+category:
+  - Juegos scouts
+  - Juegos de ciudad
+skills:
+  - Observación
+  - Técnicas scout
+
+# ========== VALORES SCOUT ==========
+scout_values: []
+scout_method:
+  - Aprender Haciendo
+  - Sistema de Equipos
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # Castores no tienen competencias definidas
+rama_lobatos: []
+rama_scouts:
+  - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 52  # Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
+rama_caminantes:
+  - 11  # Comparto actividades recreativas, deportivas y lúdicas, fomentando mi desarrollo social y emocional junto a mis amistades.
+  - 48  # Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+---
+
+# ¡¿Qué Está Torcido?!
+
+## Resumen
+Dos grupos recorren una calle, uno por cada vereda, se cruzan al final y vuelven por la otra. Cada uno anota todo lo que esté torcido o fuera de lugar: un cartel caído, una persiana torcida, una mercadería mal puesta en una vidriera. No vale lo que está en movimiento. Además, hay que anotar con disimulo para que los que vienen detrás no se den cuenta.
+
+## Desarrollo
+1. Se reúnen en un punto y se dividen en dos grupos, uno por vereda.
+2. Recorren la calle, se cruzan al final y vuelven por la vereda de enfrente.
+3. Cada uno anota con disimulo todo lo torcido o fuera de lugar que ve.
+4. Al volver, cada uno firma su hoja y se la da al juez, que verifica y pone puntos.
+5. Gana el más observador de la patrulla con más puntos.
+
+## Cierre
+- ¿Qué detalle se le pasó a casi todos?
+- ¿Cómo hacían para anotar sin que se notara?
+
+> **Nota de seguridad:** los juegos de ciudad, solo para Caminantes y Rovers (o Scouts con adultos repartidos en el recorrido), en calles conocidas, de día o con buena luz, siempre de a dos o más, con celular y un punto y hora de encuentro. Nadie cruza en rojo ni corre por la calle, y no se molesta a vecinos ni comerciantes.
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT'S WRONG.**
+
+Scouts should be mustered at a given point, then divided into two sections, one section proceeding along either side of the street, crossing. each other at the end, and returning on the opposite sides. They may be sent either in line or irregularly, the latter for preference, each carrying pencil and notebook or paper, and noting, during their journey, every article or thing which is out of the straight. It may be a placard fixed to a shopkeeper's door or board, or a small swing sign, which is out of the horizontal, window-blinds crooked, goods in shop windows markedly crooked, and so on. Irregularities on vehicles in motion are not to be noted, as no opportunity would be given for the judge to verify. Upon approaching the judge each Scout signs his own paper or book and hands it over; marks should then be given according to merit, and a prize awarded to the most observant Scout of the patrol which gets most marks among all its Scouts. The idea is, that not only shall Scouts observe details, but also that they shall make their entries in such a guarded manner and at such times that Scouts following them shall not notice the entry being made. This may be worked with or without a time-limit.
+
+**Versión en español:**
+
+**¿QUÉ ESTÁ MAL?**
+
+Hay que reunir a los scouts en un punto dado y dividirlos en dos secciones; cada una recorre una vereda de la calle, se cruzan al final y vuelven por la vereda opuesta. Se los puede mandar en fila o en forma irregular, de preferencia lo último; cada uno lleva lápiz y libreta o papel, y va anotando durante el recorrido cada objeto o cosa que esté torcida. Puede ser un cartel colgado en la puerta o en una pizarra de un comerciante, o un letrero colgante que no esté horizontal, persianas torcidas, mercadería notoriamente torcida en las vidrieras, y así. No hay que anotar irregularidades en vehículos en movimiento, porque el juez no tendría cómo verificarlas. Al acercarse al juez, cada scout firma su propio papel o libreta y se lo entrega; después se dan los puntos según el mérito, y se premia al scout más observador de la patrulla que sume más puntos entre todos sus scouts. La idea es que los scouts no solo observen los detalles, sino que además hagan sus anotaciones con tanta discreción y en momentos tales que los scouts que vienen detrás no los vean anotar. Se puede hacer con o sin límite de tiempo.
+
+---
+**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VII (Town Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+
+**Traducción:** Fogata de Recursos (2026).
+
+---
