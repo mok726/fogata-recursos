@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: true
 Origin: "Actividad original inspirada en Sixty Indoor Games for Scouts (J. B. Collyns)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
