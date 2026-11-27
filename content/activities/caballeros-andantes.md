@@ -155,7 +155,7 @@ Una actividad de servicio: los scouts salen, como los caballeros andantes de los
 3. **En el campo:** pasan por las chacras o casas de la zona y ofrecen hacer pequeñas tareas, gratis.
 4. Al volver, cada scout cuenta, bajo su palabra de honor, qué hizo.
 
-**Carrera de la buena acción (variante del original):** la misma actividad se puede hacer como carrera, pero no dice cómo se gana. El original no lo dice; una opción es que gane la patrulla que haga más buenas acciones en un tiempo fijado.
+**Carrera de la buena acción (variante del original):** la misma actividad se puede hacer como carrera. El original no lo dice; una opción es que gane la patrulla que haga más buenas acciones en un tiempo fijado.
 
 ## Cierre
 - ¿Cómo reaccionó la gente? ¿Les costó ofrecer ayuda?
