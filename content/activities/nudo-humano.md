@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/nudo-humano.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "5 min"
 participants: "6-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio amplio para formar un círculo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

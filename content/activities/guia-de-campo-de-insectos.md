@@ -19,7 +19,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/fiesta-por-los-bosques.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -108,7 +108,7 @@ main_type: "Campaña"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Lush green forest with diverse trees and wildlife dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, celebrating around a large tree with colorful decorations, playing games and dancing. Joyful forest celebration atmosphere, sunlight filtering through canopy. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para celebrar con juegos y actividades"
 prep_time: "30 min"
 participants: ""

@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 hora"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Ecosistema local (playa, río, bosque, etc.)"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -110,14 +110,14 @@ complexity_execution: 3  # Requiere investigación y producción
 complexity_organizer: 3  # Requiere planificación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Youth documenting plastic pollution in a local ecosystem like a beach, river, or forest, taking photos and videos of plastic litter and its impact on wildlife. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, conducting a local pollution investigation. Educational documentary scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Salida / Exploración
 category:
   - Contaminación

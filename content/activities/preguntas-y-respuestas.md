@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/preguntas-y-respuestas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "6-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -118,7 +118,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Simulación / Juego de roles
-  - Indagación
+  - Investigación
 category:
   - Agricultura
   - Comunicación

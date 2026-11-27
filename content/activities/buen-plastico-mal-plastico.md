@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/buen-plastico-mal-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "5-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con espacio para trabajar en grupos"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

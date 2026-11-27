@@ -28,6 +28,15 @@
   color: #2e6b3d;
   margin-top: 0;
 }
+/* Aviso breve de marcas, bajo el lema. */
+.footer-slogan .footer-marcas {
+  font-size: 0.85rem;
+  color: #4b5563;
+  margin-bottom: 0;
+}
+.footer-slogan .footer-marcas a {
+  color: #2e6b3d;
+}
 .footer-newsletter h4 {
   margin-bottom: 0.5rem;
 }

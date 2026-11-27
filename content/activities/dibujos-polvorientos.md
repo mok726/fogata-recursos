@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/dibujos-polvorientos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -100,7 +100,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating paintings with soil-based pigments, exploring different colors and textures dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, painting with soil. Artistic creativity and natural materials atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas para pintar"
 prep_time: "15 min"
 participants: "4-15"

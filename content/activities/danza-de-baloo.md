@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "The Wolf Cub's Handbook - Baden-Powell (1938)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -34,6 +34,7 @@ responsible:
 prep_time: "5 min"
 participants: "6-40"
 location: "Interior o exterior"
+momento: "día o noche"
 space_required: "Lugar para formar un círculo amplio"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

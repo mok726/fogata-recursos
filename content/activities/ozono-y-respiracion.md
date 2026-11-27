@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Cuaderno de Trabajo Solar (2022) - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "Equipos de 3 a 5"
-location: "Interior"
+location: "Interior o exterior"
 space_required: ""
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -88,8 +88,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (Cuaderno de Trabajo Solar, 2.ª ed. 2022; la primera edición, de 2015, se desarrolló con YUNGA, la OMMS y Greenpeace). La edición 2022 permite utilizar y adaptar el documento para usos no comerciales."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:
@@ -116,14 +114,14 @@ complexity_execution: 2
 complexity_organizer: 2
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenagers on a city rooftop on a hot hazy summer afternoon, looking at an air quality chart on a tablet, a faint smog layer over the skyline in the background."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Salud
   - Ozono

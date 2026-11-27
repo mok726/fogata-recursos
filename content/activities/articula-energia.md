@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/articula-energia.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para juego"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

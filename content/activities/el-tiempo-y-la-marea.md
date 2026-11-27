@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-tiempo-y-la-marea.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -110,7 +110,7 @@ main_type: ""
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A simulation of tides using balls representing the Sun, Moon, and Earth dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, acting out tidal movements. Astronomy and ocean science education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Espacio amplio para moverse"
 prep_time: "10 min"
 participants: ""

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/intercambio-internacional-de-recetas.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -90,11 +90,11 @@ active_component: 2  # Cocinar (opcional)
 complexity_execution: 3  # Requiere investigación y cálculo
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. International recipes being shared and compared, with water footprint calculations for each dish dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and calculating. Cultural exchange and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón o cocina"
 prep_time: "15 min"
 participants: "4-15"
@@ -103,7 +103,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Agua

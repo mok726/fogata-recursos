@@ -1,0 +1,184 @@
+---
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Cortar la Línea"
+duration: "45 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/cortar-la-linea/"
+description: "Juego de Baden-Powell: los atacantes intentan atar tres pañuelos en un poste de la línea y los defensores tienen que cubrir todo el tramo."
+summary: "Atar tres pañuelos en un poste de la línea sin que te toquen."
+
+# ========== AUTORÍA Y FUENTES ==========
+author:
+  - Robert Baden-Powell
+source:
+  - Scouting Games (6.ª ed., 1921)
+
+# ========== IMAGEN Y ESTADO ==========
+original: false
+Origin: "Scouting Games - Baden-Powell (6.ª ed., 1921)"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
+branch:
+  - Naturaleza
+age: "11-22 años"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Pañuelos o cintas (tres por atacante)
+  - Estacas o banderines si no hay postes
+tools: []
+responsible:
+  - Docente o Scouter
+prep_time: "10 min"
+participants: "12-40"
+location: "Exterior"
+space_required: "Un camino o sendero con postes, árboles o estacas en fila y lugares para esconderse a los costados"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
+sdgs:
+  - 3
+
+# ========== INSIGNIAS / CÓDIGO ==========
+activity_badges:
+  - badenpowell
+  - tecnicascout
+activity_code: "badenpowell-J07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
+tags:
+  - baden-powell
+  - juego-scout
+  - scouting-games
+  - acecho
+  - patrulla
+  - estrategia
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+    author: "Robert Baden-Powell"
+    year: 1921
+    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    url: "http://www.macscouter.com/Games/BPGames.html"
+  - title: "Scouting Games, by Robert Baden-Powell"
+    author: "The Online Books Page"
+    url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
+
+# ========== LICENCIA ==========
+license:
+  name: "Dominio público"
+  url: "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141"
+  image: ""
+  note: "Robert Baden-Powell murió en 1941 y la 6.ª edición de Scouting Games es de 1921: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "Robert Baden-Powell"
+    role: "autor del original (Scouting Games, 6.ª ed., 1921)"
+    year: 1921
+  - entity: "Mariano S. Cosentino"
+    role: "Traducción, adaptación y compilación para publicación WEB"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5
+reflective_component: 2
+active_component: 4
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2
+complexity_organizer: 2
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner. Scouts sneaking from bushes toward a line of wooden stakes along a path, one tying a scarf around a stake, while defenders run along the path. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+activity_type:
+  - Juego
+category:
+  - Juegos scouts
+skills:
+  - Técnicas scout
+  - Trabajo en equipo
+  - Comunicación
+
+# ========== VALORES SCOUT ==========
+scout_values: []
+scout_method:
+  - Aprender Haciendo
+  - Sistema de Equipos
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # Castores no tienen competencias definidas
+rama_lobatos: []
+rama_scouts:
+  - 12  # Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+  - 38  # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+rama_caminantes:
+  - 10  # Me involucro en actividades físicas y deportivas como parte fundamental de mi bienestar, explorando mi potencial y desafiándome a mí mismo/a.
+  - 37  # Investigo y desarrollo distintas habilidades y tecnologías, que me permitan adquirir experiencias prácticas y útiles para mi vida.
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+---
+
+# ¡Cortar la Línea!
+
+## Resumen
+Una línea de postes (o árboles, o estacas) representa una línea de comunicación. Los atacantes intentan "cortarla" atando tres pañuelos en un mismo poste. Los defensores, con el doble de gente, los dejan fuera con solo tocarlos.
+
+## Preparación
+1. Elegí un tramo con un poste o estaca por cada defensor. No uses postes de luz ni de teléfono reales: marcá tus propias estacas o usá árboles.
+
+## Desarrollo
+1. Los defensores (dos patrullas) se reparten a lo largo de la línea y pueden mandar exploradores a ver dónde se juntan los atacantes.
+2. Los atacantes (una patrulla) se esconden y eligen dónde atacar.
+3. Para cortar la línea hay que atar tres pañuelos en un mismo poste (seis si atacan dos patrullas).
+4. Un defensor deja fuera a un atacante con solo tocarlo. Si en un punto hay menos defensores que atacantes, los defensores tienen que retroceder hasta que llegue ayuda.
+5. El juego es mantenerse en contacto a lo largo de toda la línea y mandar refuerzos rápido.
+
+## Cierre
+- ¿Cómo se avisaban entre los defensores?
+- ¿Sirvió hacer un amague de un lado y atacar del otro?
+
+> **Nota de seguridad:** marcá bien los límites del terreno, que nadie juegue solo fuera de la vista de un adulto y contá a todos al terminar.
+
+> En el original, la línea es un tendido telegráfico de verdad, en el contexto de un ejército invasor. Acá se juega con estacas o árboles propios: nunca con postes o cables reales.
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TELEGRAPH CUTTING.**
+
+An invading army always tries to destroy all communication in the invaded country, so the first thing to be destroyed is the telegraph system-and the defenders send out men to protect the wires. Choose a road with telegraph wires, and one which has good cover on either side. The defenders should have two patrols to the attacker's one, and only that amount of ground which will allow one defender to each telegraph post should be protected. The defenders need not necessarily keep to the road but may send out Scouts to discover where the enemy are in force and likely to attack. The attackers have to tie three scarves round a post (or double that number if there are two patrols attacking) before the line is broken. The defenders can put them out of action by merely touching, but if the defenders are less in number at any point they must retreat until reinforcements arrive. So the point of the game is for the defenders to keep in touch along the line, and be ready to bring up a relieving party immediately the enemy threaten to attack any spot.
+
+**Versión en español:**
+
+**CORTAR EL TELÉGRAFO.**
+
+Un ejército invasor siempre trata de destruir todas las comunicaciones del país invadido, así que lo primero que se destruye es el sistema telegráfico, y los defensores mandan gente a proteger los cables. Elijan un camino con cables de telégrafo y con buena cobertura a ambos lados. Los defensores deberían tener dos patrullas por cada una de los atacantes, y solo se protege el tramo de terreno que permita un defensor por cada poste. Los defensores no tienen que quedarse en el camino: pueden mandar exploradores a descubrir dónde se concentra el enemigo y por dónde es probable que ataque. Los atacantes tienen que atar tres pañuelos alrededor de un poste (o el doble si atacan dos patrullas) para que la línea quede cortada. Los defensores pueden dejarlos fuera de combate con solo tocarlos, pero si en algún punto son menos, tienen que retroceder hasta que lleguen refuerzos. Así que la gracia del juego está en que los defensores se mantengan en contacto a lo largo de la línea y estén listos para mandar un grupo de auxilio apenas el enemigo amenace con atacar algún punto.
+
+---
+**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 10. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+
+**Traducción:** Fogata de Recursos (2026).
+
+---

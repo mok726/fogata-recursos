@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/todo-sobre-la-acuicultura.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,11 +93,11 @@ active_component: 1  # Actividad predominantemente de investigación
 complexity_execution: 3  # Requiere investigación y síntesis
 complexity_organizer: 3  # Requiere organizar presentaciones
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Modern aquaculture farm with floating fish cages, seaweed lines, and oyster nets dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and learning about the aquaculture operation. Sustainable seafood farming atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para investigar y presentar"
 prep_time: "30 min"
 participants: "8-20"
@@ -106,7 +106,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Acuicultura

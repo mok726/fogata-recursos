@@ -14,7 +14,7 @@ Comenzó como una necesidad personal al documentar actividades para mi manada (L
 
 ## Estado actual
 - **Versión beta** publicada en abril de 2026.
-- Más de 550 actividades, aunque la mayoría están en estado **BORRADOR** (convertidas automáticamente, pendientes de revisión manual).
+- Más de 1500 actividades, aunque la mayoría están ocultas o en estado **BORRADOR** (convertidas automáticamente, pendientes de revisión manual).
 - Trabajando en completar atribuciones y materiales auxiliares (plantillas, archivos adicionales).
 
 ## Cómo colaborar

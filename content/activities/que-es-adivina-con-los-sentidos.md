@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "The Wolf Cub's Handbook - Baden-Powell (1938)"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -37,7 +37,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-24"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesas y un lugar tranquilo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

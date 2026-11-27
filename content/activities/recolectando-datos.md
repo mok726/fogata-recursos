@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/recolectando-datos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -89,11 +89,11 @@ active_component: 1  # Actividad de investigación
 complexity_execution: 2  # Sencilla
 complexity_organizer: 1  # Sin preparación
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children investigating where their food comes from, with a list of foods and soil types needed for each dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching on computers. Food origins and soil connection atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "10 min"
 participants: "4-15"
@@ -102,7 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Suelo

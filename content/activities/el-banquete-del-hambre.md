@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-banquete-del-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -112,7 +112,7 @@ main_type: "Simulación / Juego de roles"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People receiving different types of food based on income levels at a banquet table dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, participating in a hunger simulation activity. Social inequality and food injustice awareness atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el banquete"
 prep_time: "1 hora"
 participants: ""

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/juego-de-adivinanza.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,7 +93,7 @@ main_type: "Juego"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a guessing game about soil ecosystem services, with posters showing different soil types dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, guessing and debating. Fun learning about soil services atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para el juego"
 prep_time: "15 min"
 participants: "4-15"

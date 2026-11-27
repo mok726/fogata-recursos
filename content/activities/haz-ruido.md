@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/haz-ruido.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -110,7 +110,7 @@ main_type: "Campaña"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A loud and creative event like a concert or street theater raising awareness about hunger dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing and engaging the audience. Creative activism and social engagement atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para evento"
 prep_time: "45 min"
 participants: ""

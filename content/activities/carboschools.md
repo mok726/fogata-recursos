@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/carboschools.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -89,11 +89,11 @@ active_component: 1  # Investigación
 complexity_execution: 3  # Requiere investigación
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child investigating if their school can join the Carboschools network to measure atmospheric CO2 and other weather variables dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching on a computer. Climate science education and citizen science atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con acceso a internet"
 prep_time: "15 min"
 participants: "4-15"
@@ -102,7 +102,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Carboschools

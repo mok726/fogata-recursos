@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "Mapa impreso de la zona"
 participants: "4-20"
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "El barrio alrededor del local o de una escuela"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -94,14 +94,14 @@ complexity_execution: 3
 complexity_organizer: 4
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Teenage scouts in Scout Association of Argentina uniforms and reflective vests standing on a sidewalk corner of an Argentine neighborhood, one taking a photo of a broken sidewalk ramp, another marking a paper map, wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
   - Campaña
 category:
   - Seguridad vial

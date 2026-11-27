@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/evento-benefico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -95,7 +95,7 @@ main_type: "Servicio"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children organizing a charity race, concert, or bazaar to raise money for environmental projects at school or around the world dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the event. Fundraising and environmental action atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para el evento"
 prep_time: "30 min"
 participants: "4-30"

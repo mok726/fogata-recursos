@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-manejo-de-los-cultivos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -112,7 +112,7 @@ main_type: "Experimento"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Potted plants growing under different conditions of light and water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, experimenting with plant growth. Agricultural science and hands-on learning atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Espacio con luz y mesa para macetas"
 prep_time: "30 min"
 participants: ""

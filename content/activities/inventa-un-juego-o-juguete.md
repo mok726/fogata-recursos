@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/inventa-un-juego-o-juguete.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -99,7 +99,7 @@ main_type: "Taller / Construcción"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child inventing a game or toy with natural or recycled materials, testing it with friends dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing the invented game. Creative recycling and sustainable play atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para crear y probar"
 prep_time: "10 min"
 participants: "4-20"

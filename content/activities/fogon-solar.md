@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Solar Campfire Manual - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -46,7 +46,9 @@ responsible:
   - Docente o Scouter
 prep_time: "Conseguir los componentes"
 participants: "2-6"
-location: "Interior para construir; exterior o interior para usar"
+location: "Interior o exterior"
+location_detail: "Se construye adentro; se usa adentro o afuera"
+momento: "noche"
 space_required: "Taller o mesa de trabajo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -98,8 +100,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (programa Scouts go Solar). Solafrica autorizó la publicación y adaptación de su material."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:

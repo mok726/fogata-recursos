@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -92,7 +92,7 @@ main_type: "Expresión artística"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children sitting in a circle telling a collaborative story about how soil is formed, with each child adding a sentence dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and participating. Creative storytelling and collaborative learning atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para sentarse en círculo"
 prep_time: "5 min"
 participants: "4-20"

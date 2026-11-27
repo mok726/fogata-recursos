@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/investigando-rocas.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -92,11 +92,11 @@ active_component: 3  # Recolección de rocas
 complexity_execution: 2  # Sencilla
 complexity_organizer: 2  # Fácil de organizar
 
-main_type: "Indagación"
+main_type: "Investigación"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children collecting and studying rocks from different locations, comparing shapes and colors dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining rocks with a magnifying glass. Geology and earth science exploration atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior y exterior"
 space_required: "Áreas para recolectar rocas y salón para estudiarlas"
 prep_time: "15 min"
 participants: "4-15"
@@ -105,7 +105,7 @@ accessibility: []
 
 
 activity_type:
-  - Indagación
+  - Investigación
 
 category:
   - Rocas

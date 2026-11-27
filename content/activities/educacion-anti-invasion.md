@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/educacion-anti-invasion.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -108,7 +108,7 @@ main_type: "Campaña"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Educational posters about invasive species with images of harmful insects and plants dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating posters and educational materials in a classroom or outdoor setting. Environmental education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Espacio para trabajar en pósteres"
 prep_time: "10 min"
 participants: ""
@@ -120,7 +120,7 @@ accessibility: []
 
 activity_type:
   - Campaña
-  - Indagación
+  - Investigación
 
 category:
   - Especies invasoras

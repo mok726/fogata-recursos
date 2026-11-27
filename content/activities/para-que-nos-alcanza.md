@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/para-que-nos-alcanza.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "10 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -117,7 +117,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 activity_type:
   - Simulación / Juego de roles
   - Debate / Diálogo
-  - Indagación
+  - Investigación
 category:
   - Pobreza
   - Alimentación

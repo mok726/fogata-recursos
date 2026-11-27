@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/informacion-privilegiada.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón o espacio para reunión"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -121,7 +121,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Visita / Charla
-  - Indagación
+  - Investigación
 category:
   - Política
   - Clima

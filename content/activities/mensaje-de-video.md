@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/mensaje-de-video.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -112,7 +112,7 @@ main_type: "Campaña"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person recording a video message about ending hunger with a camera or phone dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and sharing their message. Digital storytelling and social media activism atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Espacio para grabar"
 prep_time: "15 min"
 participants: ""

@@ -59,7 +59,7 @@ populares:
     </h1>
 
     <p>
-      Biblioteca abierta de actividades scouts, recursos educativos
+      Biblioteca abierta de actividades scouts/guías, recursos educativos
       y propuestas pedagógicas.
     </p>
 
@@ -99,10 +99,10 @@ populares:
 
 
 <ul class="home-stats">
-  <li><b>{{ collections.activities | length }}</b> actividades</li>
-  <li><b>{{ badges | length }}</b> insignias</li>
-  <li><b>{{ allSdgs | length }}</b> ODS</li>
-  <li><b>{{ ageGroups | length }}</b> ramas</li>
+  <li><a href="{{ '/activities/' | url }}"><b>{{ collections.activities | length }}</b> actividades</a></li>
+  <li><a href="{{ '/badges/' | url }}"><b>{{ badges | length }}</b> insignias</a></li>
+  <li><a href="{{ '/ods/' | url }}"><b>{{ allSdgs | length }}</b> ODS</a></li>
+  <li><a href="{{ '/edades/' | url }}"><b>{{ ageGroups | length }}</b> ramas</a></li>
 </ul>
 
 
@@ -191,15 +191,51 @@ populares:
 
   </div>
 
-  <div class="grid">
+  {# Cada card lleva arriba si es nueva o de qué día fue «Actividad
+     del día». Las «del día» se renderizan de más (ver filtro
+     destacadas) y el script deja las 3 anteriores a hoy según la
+     fecha del navegador. #}
+  <div class="grid" id="destacadas">
 
-    {% for activityItem in collections.activitiesRecent | destacadas(collections.activitiesDaily) %}
-        {% set item = activityItem.data %}
-        {% set activityUrl = activityItem.url %}
+    {% for d in collections.activitiesRecent | destacadas(collections.activitiesDaily) %}
+      <div class="home-destacada"{% if d.fecha %} data-fecha="{{ d.fecha }}"{% if not d.visible %} hidden{% endif %}{% endif %}>
+        <p class="home-destacada-etiqueta{% if d.fecha %} home-destacada-etiqueta-dia{% endif %}">
+          {% if d.fecha %}
+            <span class="material-symbols-outlined" aria-hidden="true">wb_sunny</span>
+            Actividad del día · {{ d.fecha | fechaCorta }}
+          {% else %}
+            <span class="material-symbols-outlined" aria-hidden="true">new_releases</span>
+            Recién agregada
+          {% endif %}
+        </p>
+        {% set item = d.item.data %}
+        {% set activityUrl = d.item.url %}
         {% include "components/activity-card.njk" %}
+      </div>
     {% endfor %}
 
   </div>
+
+  <script>
+  (function () {
+    try {
+      var hoy = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Argentina/Buenos_Aires',
+        year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+      var d = new Date(hoy + 'T12:00:00Z');
+      d.setUTCDate(d.getUTCDate() - 3);
+      var desde = d.toISOString().slice(0, 10);
+      var dias = document.querySelectorAll('#destacadas .home-destacada[data-fecha]');
+      var enRango = [];
+      dias.forEach(function (el) {
+        var f = el.getAttribute('data-fecha');
+        if (f >= desde && f < hoy) enRango.push(el);
+      });
+      // Si el build es muy viejo (ningún día en rango), queda como vino.
+      if (!enRango.length) return;
+      dias.forEach(function (el) { el.hidden = enRango.indexOf(el) < 0; });
+    } catch (e) {}
+  })();
+  </script>
 
 </section>
 

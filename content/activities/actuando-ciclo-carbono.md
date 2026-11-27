@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/actuando-ciclo-carbono.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -42,7 +42,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para actuar o grabar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

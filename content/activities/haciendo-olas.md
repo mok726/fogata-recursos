@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/haciendo-olas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -107,7 +107,7 @@ main_type: "Experimento"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A wave experiment with water and a fan creating ripples dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating waves with a fan. Fun science and ocean learning atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Mesa para la bandeja"
 prep_time: "10 min"
 participants: ""

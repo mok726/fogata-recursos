@@ -42,6 +42,14 @@ module.exports = {
     quality: 80
   },
 
+  // Íconos de los rastros de Manada (/competencias/).
+  rastro: {
+    dir: "imagenes/competencias/manada",
+    width: 192,
+    height: 192,
+    quality: 80
+  },
+
   // Vista previa al compartir (og:image). WhatsApp y Facebook
   // necesitan JPG/PNG de ~1200x630. El recorte busca la zona
   // con más detalle ("attention"): las imágenes suelen tener el

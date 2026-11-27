@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 hora"
 participants: "4-20"
-location: "Interior o Exterior"
+location: "Interior o exterior"
 space_required: "Espacio para filmar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Repensar el mundo - ASDE Scouts de España"
-version: "DRAFT"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:

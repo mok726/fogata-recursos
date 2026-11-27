@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/bolsa-reutilizable.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -93,7 +93,7 @@ main_type: "Cambio de hábitos"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child using a reusable shopping bag instead of plastic bags at the store, encouraging family and friends to do the same dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, shopping consciously. Plastic reduction and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Tienda o supermercado"
 prep_time: "5 min"
 participants: "4-20"

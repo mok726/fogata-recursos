@@ -17,7 +17,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouts go Solar - Deshidratación solar de alimentos (2026) - Solafrica"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -44,7 +44,9 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "Construcción: hasta 6; uso: hasta 10"
-location: "Construcción: interior o exterior. Uso: exterior"
+location: "Exterior"
+location_detail: "Se construye adentro o afuera; se usa al sol"
+momento: "día"
 space_required: "Lugar con muchas horas de sol, protegido del viento y de los animales"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -108,8 +110,6 @@ license:
   image: ""
   note: "Titular de los derechos: Solafrica (Cuaderno de Trabajo Solar, 2.ª ed. 2022; la primera edición, de 2015, se desarrolló con YUNGA, la OMMS y Greenpeace). La edición 2022 permite utilizar y adaptar el documento para usos no comerciales."
   allowed: "Solafrica (09/11/2026)."
-  pending: ""
-  status: "permiso-parcial"
 
 # ========== ATRIBUCIONES ==========
 attributions:

@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: false
 Origin: "Scouting for Boys - Baden-Powell (1908)"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,6 +39,7 @@ responsible:
 prep_time: "15 min"
 participants: "4-30"
 location: "Exterior"
+momento: "noche"
 space_required: "Campamento o predio oscuro, con cielo abierto"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

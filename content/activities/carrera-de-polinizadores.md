@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "8-40"
-location: "Interior y Exterior"
+location: "Interior o exterior"
 space_required: "Espacio mediano a grande, con lugar para una pista de obstáculos simple"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

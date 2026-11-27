@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/debate-energetico.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -38,7 +38,7 @@ responsible:
   - Docente o Scouter
 prep_time: "1 hora"
 participants: "4-15"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para debate"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -115,7 +115,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
   - Debate / Diálogo
-  - Indagación
+  - Investigación
 category:
   - Política
   - Energía

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/ejercicio-de-mapeo-urbano.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón con mesas"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -84,13 +84,11 @@ translation_notice:
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Licencia sin confirmar"
-  url: "https://www.fao.org/contact-us/terms/en/"
-  image: ""
-  note: "Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Nada confirmado."
-  pending: "Publicar esta traducción o adaptación: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
-  status: "permiso-pendiente"
+  name: "Creative Commons BY-NC-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+  note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
 
 # ========== ATRIBUCIONES ==========
 attributions:

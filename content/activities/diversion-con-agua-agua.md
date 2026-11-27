@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/diversion-con-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -43,7 +43,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Según la actividad elegida"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

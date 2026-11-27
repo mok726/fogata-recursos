@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/se-voluntario-en-una-organizacion-comunitaria.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -106,7 +106,7 @@ main_type: "Servicio"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person volunteering at a community organization working on nutrition issues dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, helping and learning. Community service and nutrition action atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Organización comunitaria"
 prep_time: "15 min"
 participants: ""

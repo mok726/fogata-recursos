@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "30 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para trabajar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
@@ -112,14 +112,14 @@ complexity_execution: 1  # Sencilla
 complexity_organizer: 2  # Requiere investigación
 
 # ========== TIPO PRINCIPAL ==========
-main_type: "Indagación"
+main_type: "Investigación"
 
 # ========== IMAGEN PROMPT ==========
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A world map with different countries highlighted, youth discovering and sharing how to say 'energy' in various languages, creating fun tongue twisters. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a linguistic game about energy words. Educational multicultural scene. No text, no letters, no words. Wide shot."
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 activity_type:
-  - Indagación
+  - Investigación
 category:
   - Idiomas
   - Cultura

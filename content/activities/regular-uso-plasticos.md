@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/regular-uso-plasticos.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -39,7 +39,7 @@ responsible:
   - Docente o Scouter
 prep_time: "20 min"
 participants: "10-30"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón amplio para debate"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/recuerdos-acuaticos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,7 +41,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para escribir y dibujar"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

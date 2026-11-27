@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/electricidad-en-todas-partes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -40,7 +40,7 @@ responsible:
   - Docente o Scouter
 prep_time: "15 min"
 participants: "4-20"
-location: "Ambos"
+location: "Interior o exterior"
 space_required: "Salón para actividad + hogar para conteo"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

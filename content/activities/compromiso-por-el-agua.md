@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/compromiso-por-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "0.99"
+version: "DRAFT"
 
 branch:
   - Naturaleza
@@ -99,7 +99,7 @@ main_type: "Campaña"
 
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating water commitment certificates for family and friends, with personalized pledges to save water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, making certificates and reviewing progress. Personal commitment and family engagement atmosphere. No text, no letters, no words. Wide shot."
 
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para crear certificados"
 prep_time: "15 min"
 participants: "4-30"

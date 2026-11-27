@@ -16,7 +16,7 @@ source:
 # ========== IMAGEN Y ESTADO ==========
 original: true
 Origin: "Actividad original"
-version: "0.99"
+version: "1.00"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -41,6 +41,7 @@ responsible:
 prep_time: "30 min (armar la escena)"
 participants: "6-24"
 location: "Exterior"
+momento: "día o noche"
 space_required: "Patio o espacio cerrado al tránsito"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/clases-de-animales.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "0.99"
+version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -108,7 +108,7 @@ main_type: "Juego"
 image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Different classes of forest animals in a playful guessing game setting dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing a guessing game with animal cards. Fun learning and wildlife education atmosphere. No text, no letters, no words. Wide shot."
 
 # ========== ESPACIO Y LOGÍSTICA ==========
-location: "Interior"
+location: "Interior o exterior"
 space_required: "Salón para jugar"
 prep_time: "15 min"
 participants: ""
@@ -120,7 +120,7 @@ accessibility: []
 
 activity_type:
   - Juego
-  - Indagación
+  - Investigación
 
 category:
   - Animales
