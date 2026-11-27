@@ -2439,9 +2439,9 @@ sections: {
   id: "tecnicascout",
   name: "Técnica Scout",
   description:
-    "Nudos, amarres, campamento, refugios, orientación, señales y juegos tomados de manuales scouts clásicos (1911–1920), traducidos y puestos al día.",
+    "Nudos, amarres, pionerismo, campamento, cocina, refugios, orientación, señales y juegos: técnicas de manuales scouts clásicos puestas al día y fichas nuevas.",
   summary:
-    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de *Horace Kephart* y *Ernest Thompson Seton*, **Knots, Splices and Rope Work** de *A. Hyatt Verrill* (1912) y **Shelters, Shacks and Shanties** de *Daniel Carter Beard* (1914). \n\n<p>Los amarres y el armado de carpa vienen de la **Pathfinder Wiki*, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.",
+    "**Esta no es una insignia oficial**: es una colección de _Fogata de Recursos_ con técnicas scouts de manuales de dominio público. \n\n<p>Las fuentes son el **Boy Scouts Handbook** (1911), **Scouting for Girls** de *Girl Scouts of the USA* (1920), con textos de *Horace Kephart* y *Ernest Thompson Seton*, **Knots, Splices and Rope Work** de *A. Hyatt Verrill* (1912) y **Shelters, Shacks and Shanties** de *Daniel Carter Beard* (1914). \n\n<p>Los amarres y el armado de carpa vienen de la **Pathfinder Wiki*, con licencia libre CC BY-SA, porque no encontre manuales de escoutismo de dominio público con autor conocido.\n\n<p>Cada actividad incluye el original en inglés, su traducción completa y una adaptación para hoy. \n\n<p>Lo que cambió desde entonces (seguridad, cuidado del ambiente, hemisferio sur) va en notas, sin tocar el original. \n\n<p>Los primeros auxilios de esos libros quedaron afuera a propósito, porque están desactualizados.\n\n<p>Las secciones J, K y L son fichas nuevas, sin texto original: juegos de orientación inspirados en la cartilla **50 Juegos de Orientación & Topografía** de *Juan Manuel Lourenço*, pionerismo adaptado del blog **Ropes and Poles** (CC BY-NC-SA) y cocina de campamento propia.",
   logo: "/imagenes/insignias/tecnicascout.png",
   hero_image: "/imagenes/insignias/tecnicascout-hero.jpg",
   sources: [
@@ -2468,12 +2468,20 @@ sections: {
     {
       name: "ASDE - Scouts de España, Manual básico de Orientación (CC BY-NC)",
       url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/17495/Manual-basico-de-Orientacion_2020.pdf"
+    },
+    {
+      name: "Juan Manuel Lourenço, «50 Juegos de Orientación & Topografía» (cartilla de campo, 2019)",
+      url: ""
+    },
+    {
+      name: "Ropes and Poles, blog de pionerismo scout de Sudáfrica (CC BY-NC-SA 2.5)",
+      url: "https://ropesandpoles.blogspot.com/"
     }
   ],
   license: {
     type: "Dominio público, CC BY-SA 4.0 y CC BY-NC-SA 4.0",
     url: "",
-    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las fichas de orientación de ASDE - Scouts de España (CC BY-NC) se publican con CC BY-NC-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
+    note: "Las fichas de manuales (1911–1920) son de dominio público: obras publicadas en EE. UU. antes de 1930 cuyos autores murieron hace más de 70 años, o textos institucionales de más de cien años. Las fichas de amarres y de carpa adaptan la Pathfinder Wiki (CC BY-SA 3.0) y se publican con CC BY-SA 4.0. Las fichas de orientación de ASDE - Scouts de España (CC BY-NC) se publican con CC BY-NC-SA 4.0. Las fichas de juegos de orientación (sección J) y de cocina de campamento (sección L) son propias, con CC BY-NC-SA 4.0. Las de pionerismo (sección K) adaptan el blog Ropes and Poles (CC BY-NC-SA 2.5) y se publican con CC BY-NC-SA 4.0. Las traducciones y adaptaciones son de Fogata de Recursos."
   },
   attribution: {
     organization: "Fogata de Recursos",
@@ -2520,6 +2528,18 @@ sections: {
     H: {
       title: "Primeros Auxilios y Emergencias",
       description: "Actividades propias para prepararse ante una emergencia sin tratamientos: botiquín, pedir ayuda, llamar al 107 o al 911, la cadena de ayuda, señales de auxilio y emergencias del hogar."
+    },
+    J: {
+      title: "Juegos de Orientación",
+      description: "Juegos de mesa y de terreno para aprender la rosa de los vientos, leer mapas, seguir rumbos y organizar carreras de orientación (inspirados en la cartilla de Juan Manuel Lourenço)."
+    },
+    K: {
+      title: "Pionerismo e Ingeniería Scout",
+      description: "Construcciones sin nudos, catapultas, maquetas, control y ajuste de amarres, y cómo funcionan las fuerzas en una estructura (adaptado del blog Ropes and Poles)."
+    },
+    L: {
+      title: "Cocina de Campamento",
+      description: "Planificar el menú, cocinar en las brasas, en una vara, en una naranja o en un horno de cartón, con higiene y con el calentador seguro."
     }
   }
 },

@@ -330,7 +330,7 @@ collections.activities
           {% set dcontent %}
             <ul>
               {% for source in badge.sources %}
-                <li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a></li>
+                <li>{% if source.url %}<a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.name }}</a>{% else %}{{ source.name }}{% endif %}</li>
               {% endfor %}
             </ul>
           {% endset %}
