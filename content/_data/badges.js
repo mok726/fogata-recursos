@@ -3383,14 +3383,60 @@ sections: {
       description: "Instrumentos caseros para que la patrulla mida el tiempo (viento, lluvia, presión y temperatura) y experimentos para entender el cielo."
     },
   }  
+},
+
+{
+  id: "desenchufada",
+  name: "Computación Desenchufada",
+  description:
+    "Descubrir cómo piensan las computadoras sin usar ninguna: números binarios, imágenes, errores, programación, búsqueda y ordenamiento, jugando con cartas, tiza y el cuerpo.",
+  summary:
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Las actividades están adaptadas de **CS Unplugged**, un proyecto del *Computer Science Education Research Group* de la *Universidad de Canterbury* (Nueva Zelanda) que enseña las ideas de la informática sin computadoras. \n\n<p>No hace falta saber de computación: alcanza con cartas, papel cuadriculado, tiza y ganas de jugar. Sirven para trabajar el ODS 9 (industria, innovación e infraestructura) y para que los chicos entiendan la tecnología que usan todos los días.",
+  logo: "/imagenes/insignias/desenchufada.png",
+  hero_image: "/imagenes/insignias/general-hero.png",
+  hero_prompt: "Scouts aged 8 to 14 in a bright scout hall playing with large cards showing dot patterns and walking along chalk lines drawn on the floor, a grid of black and white squares on a poster, no computers anywhere, cheerful daylight.",
+  sources: [
+    {
+      name: "CS Unplugged – Computer Science Education Research Group, Universidad de Canterbury (CC BY-SA 4.0)",
+      url: "https://www.csunplugged.org/es/topics/"
+    }
+  ],
+  license: {
+    type: "CC BY-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.es",
+    note: "Las lecciones de CS Unplugged se publican con CC BY-SA 4.0. Las fichas están redactadas de nuevo y adaptadas por Fogata de Recursos, y se comparten con la misma licencia. No incluyen el texto original."
+  },
+  attribution: {
+    organization: "CS Unplugged (Universidad de Canterbury) y Fogata de Recursos",
+    year: "2026"
+  },
+  requirements: {
+    summary:
+      "No hay actividades obligatorias: elegí las que se adapten a la edad. Varias se pueden encadenar (por ejemplo, las cartas binarias antes de los mensajes en binario).",
+    rules: [
+      "No hace falta ninguna computadora",
+      "Respetá las notas de cada actividad"
+    ]
+  },
+  sections: {
+    A: {
+      title: "Números y Mensajes",
+      description: "Cómo guarda los números y las letras una computadora, y cómo se da cuenta de los errores."
+    },
+    B: {
+      title: "Imágenes",
+      description: "Píxeles y compresión: cómo se guarda una foto con números."
+    },
+    C: {
+      title: "Programar sin Computadora",
+      description: "Robots humanos, instrucciones exactas, errores y bucles."
+    },
+    D: {
+      title: "Buscar y Ordenar",
+      description: "Búsqueda binaria, árboles de búsqueda y redes de ordenamiento."
+    }
+  }
 }
-
-
-
-
-
-
-
 
   ];
 };
