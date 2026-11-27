@@ -137,25 +137,25 @@ rama_rovers:
 
 # Apretar Imágenes
 
-## De qué se trata
+## Resumen
 Dictar un dibujo cuadradito por cuadradito es largo. Hay una forma más corta: en cada fila, en lugar de «blanco, blanco, blanco, negro, negro», se dice «3 blancos, 2 negros», o directamente «3, 2». Siempre se arranca por el blanco (si la fila empieza en negro, el primer número es 0). Así un dibujo ocupa muchos menos números, y se puede reconstruir igualito. Las computadoras hacen algo parecido para que las imágenes ocupen menos lugar.
 
 ## Preparación
 1. Prepará dos o tres dibujos sencillos ya escritos en este código: cada fila es una lista de números.
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno recibe una hoja cuadriculada y una ficha con el dibujo apretado.
-2. El primer número de cada fila son cuadraditos blancos; el siguiente, negros; el siguiente, blancos otra vez, y así.
+2. Cada número dice cuántos cuadraditos seguidos se pintan de un mismo color. El primer número de la fila indica cuántos cuadraditos blancos van al principio; el segundo, cuántos negros vienen después; el tercero, cuántos blancos otra vez, y así se van alternando hasta completar la fila.
 3. Si la fila empieza con 0, quiere decir que arranca directo en negro.
 4. Pintá cada fila siguiendo los números.
 5. ¿Qué dibujo apareció?
 6. Ahora tomá el dibujo de «Pintar con Números» y escribilo apretado. ¿Cuántos números usaste antes y cuántos ahora?
 
-## Para cerrar
+## Cierre
 - ¿Qué dibujos se aprietan mucho y cuáles casi nada?
 - ¿Por qué es importante que las fotos ocupen poco para mandarlas por el celular?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Esta forma de comprimir se llama «codificación por longitud de serie». Los fax, por ejemplo, la usaban.
 - Conviene jugar primero «Pintar con Números», de esta misma insignia.

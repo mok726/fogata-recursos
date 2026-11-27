@@ -130,27 +130,27 @@ rama_rovers:
 
 # Posta por Arriba y por Abajo de la Mesa
 
-## De qué se trata
+## Resumen
 Se pone una mesa firme cruzada en el medio del salón. Cada jugador corre hasta el fondo pasando por arriba de la mesa y vuelve pasando por abajo. Al llegar, toca al siguiente.
 
-## Cómo se juega
-1. Pongan una mesa firme cruzada en el salón. Cada patrulla, en fila, en una punta.
+## Desarrollo
+1. Pongan una mesa larga y firme cruzada en el medio del salón. Todas las patrullas usan la misma mesa: cada patrulla se forma en fila, uno detrás del otro, en un extremo del salón, frente a su propio tramo de la mesa. Si la mesa no alcanza para todas, jueguen de a dos patrullas por vez o usen una mesa por patrulla.
 2. A la orden, el primero corre y pasa por arriba de la mesa (sentándose y pasando las piernas, no saltando de cabeza).
 3. Toca la pared del fondo.
 4. Vuelve pasando gateando por debajo de la mesa.
 5. Toca al siguiente, que hace lo mismo.
 6. Gana la primera patrulla que termina.
 
-## Reglas
+### Reglas
 - Por arriba de la mesa se pasa sentado o en cuatro patas, no se salta parado.
 
 ### Variante: Con bancos
 Se usan dos bancos: uno se salta por arriba y el otro se pasa por abajo.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte fue más rápida? ¿Dónde se trababan?
 
-## Notas para educadores
+## Notas para el educador
 - Revisá que la mesa sea firme y no se mueva. Si es liviana, que dos dirigentes la sostengan.
 
 ---

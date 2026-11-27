@@ -137,13 +137,13 @@ rama_rovers:
 
 # Pintar con Números
 
-## De qué se trata
+## Resumen
 Si mirás muy de cerca una pantalla, ves que está hecha de cuadraditos de colores: los píxeles. La computadora no guarda «un gato»: guarda una lista de números que dicen qué color va en cada cuadradito. Lo probamos con papel cuadriculado: cada fila del dibujo se escribe como números, y otro tiene que pintar el dibujo sin haberlo visto.
 
 ## Preparación
 1. Prepará algunos dibujos sencillos en cuadrícula (una estrella, una taza, una flor de lis) y escribí sus números: en cada fila, 0 = blanco y 1 = negro.
 
-## Cómo se juega
+## Desarrollo
 1. Miren una pantalla muy de cerca, o una foto muy agrandada. ¿Qué ven?
 2. Cada uno recibe una hoja cuadriculada y una ficha con números.
 3. Cada fila de números es una fila de la hoja. El 1 se pinta de negro y el 0 queda blanco.
@@ -158,11 +158,11 @@ Dividan un dibujo en varias hojas: cada uno pinta una parte y al final se arma e
 ### Variante: Con colores
 Usen más números para más colores: 0 blanco, 1 negro, 2 rojo, 3 verde.
 
-## Para cerrar
+## Cierre
 - ¿Qué pasaría con la imagen si los cuadraditos fueran más chicos?
 - ¿Por qué una foto ocupa tanta memoria en el celular?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Para Manada, usar dibujos chiquitos de 8 × 8; para Scouts, más grandes.
 

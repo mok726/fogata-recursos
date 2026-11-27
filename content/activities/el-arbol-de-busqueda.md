@@ -136,10 +136,10 @@ rama_rovers:
 
 # El Árbol de Búsqueda
 
-## De qué se trata
+## Resumen
 Hay una forma muy usada por las computadoras para guardar datos y encontrarlos rápido: el árbol de búsqueda. El primero que llega es la raíz. Cada uno que llega después compara su número con el de la raíz: si es más chico, se va a la izquierda; si es más grande, a la derecha. Y así sigue comparando hasta encontrar un lugar libre. Al final, para buscar un número, se arranca por la raíz y se va eligiendo izquierda o derecha. ¡Se encuentra muy rápido!
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno recibe una tarjeta con un número. No la muestren todavía.
 2. El primero se para adelante: es la raíz del árbol.
 3. El segundo se acerca a la raíz y compara: si su número es más chico, se para atrás a la izquierda; si es más grande, atrás a la derecha.
@@ -154,11 +154,11 @@ En lugar de números, usen nombres y ordenen por orden alfabético.
 ### Variante: Árbol torcido
 ¿Qué pasa si los chicos llegan en orden, del más chico al más grande? ¿Cómo queda el árbol? ¿Sigue siendo rápido buscar?
 
-## Para cerrar
+## Cierre
 - ¿Por qué se encuentra tan rápido un número en el árbol?
 - ¿Qué pasó con el árbol cuando llegaron en orden?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - No confundir con la búsqueda binaria en una lista ordenada (ver «Adiviná el Número en Pocas Preguntas»): se parecen, pero son ideas distintas.
 

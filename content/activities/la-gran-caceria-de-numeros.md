@@ -137,10 +137,10 @@ rama_rovers:
 
 # La Gran Cacería de Números
 
-## De qué se trata
+## Resumen
 Se ponen tarjetas boca abajo en fila, cada una con un número. Hay que encontrar uno dando vuelta la menor cantidad de tarjetas. En la primera ronda están mezcladas: no queda otra que ir de a una. En la segunda ronda están ordenadas de menor a mayor: ahora se puede dar vuelta la del medio y saber si el número está a la izquierda o a la derecha. La diferencia es enorme. Por eso a las computadoras les conviene tener las cosas ordenadas.
 
-## Cómo se juega
+## Desarrollo
 1. En parejas: uno pone 15 tarjetas boca abajo, mezcladas, y le dice al otro qué número tiene que encontrar.
 2. El otro da vuelta tarjetas de a una hasta encontrarlo. Cuenten cuántas dio vuelta.
 3. Repitan con otro número. ¿Hay alguna forma más rápida? (En desorden, no.)
@@ -149,11 +149,11 @@ Se ponen tarjetas boca abajo en fila, cada una con un número. Hay que encontrar
 6. Sigan partiendo por la mitad lo que queda. Cuenten cuántas tarjetas dieron vuelta.
 7. Comparen las dos formas. ¿Cuál fue más rápida?
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas de la vida diaria están ordenadas para encontrarlas rápido (la guía de teléfonos, el diccionario, los libros de la biblioteca)?
 - ¿Vale la pena ordenar algo si solo se va a buscar una vez?
 
-## Notas para educadores
+## Notas para el educador
 - No hace falta saber nada de computación, ni para el dirigente ni para los chicos: la gracia es descubrir cómo piensa una computadora jugando.
 - Conviene jugar antes «Adiviná el Número en Pocas Preguntas», de esta misma insignia.
 

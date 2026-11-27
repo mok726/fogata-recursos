@@ -134,30 +134,30 @@ rama_rovers:
 
 # Lazo al Poste
 
-## De qué se trata
+## Resumen
 Se arma un lazo con una gaza en la punta de una soga. Se pone una silla arriba de una mesa, o se usa un poste, y desde una línea a 3 o 4 metros cada jugador intenta enlazarla. Cada lazo que queda enganchado suma un punto.
 
 ## Preparación
 1. Hacé en una punta de la soga una gaza chica con un as de guía y pasá el resto de la soga por ella para formar un lazo grande.
 
-## Cómo se juega
+## Desarrollo
 1. Pongan la silla arriba de la mesa, o elijan un poste. Marquen la línea de tiro.
 2. El jugador agarra el lazo abierto con una mano y las vueltas de la soga con la otra.
 3. Hace girar el lazo por arriba de la cabeza y lo tira hacia la silla.
 4. Si el lazo enlaza el respaldo o una pata, tira suave para cerrarlo. ¡Punto!
 5. Cada uno tiene cinco tiros. Gana el que enlaza más.
 
-## Reglas
+### Reglas
 - Nadie se para entre la línea y el blanco.
 - Nunca se enlaza a una persona.
 
 ### Variante: Aros al bastón
 Un jugador sostiene un bastón parado. Otro, desde 3 metros, le tira aros de soga o de goma y el del bastón los tiene que atrapar con la punta. Gana la pareja que atrapa más.
 
-## Para cerrar
+## Cierre
 - ¿Qué técnica funcionaba mejor? ¿Girar el lazo mucho o poco?
 
-## Notas para educadores
+## Notas para el educador
 - El juego original enlazaba a un compañero: acá se enlaza solo una silla o un poste, por seguridad.
 - Buen momento para hablar del lazo de los gauchos y de su historia.
 
