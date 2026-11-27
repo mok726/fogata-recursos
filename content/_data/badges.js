@@ -2515,7 +2515,7 @@ sections: {
     },
     G: {
       title: "Amarres y Pionerismo",
-      description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA)."
+      description: "Amarre cuadrado, japonés, diagonal, de tijera y trípode, amarre continuo y una mesa de patrulla que pase la prueba de carga (Pathfinder Wiki, CC BY-SA). Además, elementos de campamento de la patrulla, en fichas propias: banco, silla, mesa comedor con bancos, fogón altar, escurridor, despensa, lavamanos de pie, estante para mochilas, tendedero, mástil y puesto de residuos."
     },
     H: {
       title: "Primeros Auxilios y Emergencias",
