@@ -136,10 +136,10 @@ rama_rovers:
 
 # Menú y Compras de la Patrulla
 
-## De qué se trata
+## Resumen
 Antes de un campamento, cada patrulla planifica su comida. Hay que pensar un menú rico, sano y que se pueda cocinar con lo que hay (fuego, calentador, una olla), calcular cuánto lleva de cada cosa para todos, armar la lista de compras, ver cuánto cuesta y repartir quién cocina cada día. Es un ejercicio de organización que después se nota en el campamento.
 
-## Cómo se hace
+## Desarrollo
 1. Anoten cuántos días dura el campamento y cuántas comidas hay: desayuno, almuerzo, merienda y cena de cada día.
 2. Pregunten en la patrulla si alguien tiene alergias, es celíaco o no come algo.
 3. Para cada comida, elijan qué van a comer. Que haya verduras y frutas, y que no se repita todo el tiempo lo mismo.
@@ -150,11 +150,11 @@ Antes de un campamento, cada patrulla planifica su comida. Hay que pensar un men
 8. Hagan una grilla de turnos: quién cocina, quién lava y quién busca agua y leña cada día.
 9. Con un dirigente, salgan a comprar con la lista.
 
-## Para cerrar
+## Cierre
 - ¿Les alcanzó la comida en el campamento? ¿Sobró algo?
 - ¿Qué cambiarían del menú para la próxima?
 
-## Notas para educadores
+## Notas para el educador
 - Antes de cocinar, preguntá por alergias, celiaquía, dietas y comidas que alguien no pueda comer por motivos de salud o religiosos.
 - Guarden el menú y la lista: para el próximo campamento ya tienen la mitad del trabajo hecho.
 - Los alimentos que no necesitan heladera (fideos, arroz, legumbres, enlatados, frutas y verduras de estación) son los mejores aliados del campamento.

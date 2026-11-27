@@ -139,34 +139,38 @@ rama_rovers:
 
 # Puente Trabado de Bastones
 
-## De qué se trata
+## Resumen
 Es un puente chiquito que se arma con nueve bastones y nada más: los palos pasan unos por arriba y otros por abajo, y el propio peso los traba. Como no hace falta saber nudos, es perfecto para la primera vez que una patrulla hace pionerismo. Se arma en unos 10 minutos y cuando sale, la patrulla queda con ganas de aprender amarres para hacer cosas más grandes.
 
 ## Preparación
 1. Armá vos primero un puente para saber cómo es y sacale fotos de cada paso.
 2. Prepará una lámina por patrulla con los pasos dibujados o con las fotos.
 
-## Cómo se arma
-1. Pongan dos bastones en el piso, paralelos, separados un poco menos que el largo de un bastón. Son las «patas» del primer lado.
-2. Crucen un bastón por arriba de esas dos patas, cerca de una punta.
-3. Hagan lo mismo del otro lado: dos patas y un travesaño.
-4. Ahora vienen los largueros, los palos que van de un lado al otro. Cada uno pasa por arriba del travesaño de un lado y por abajo del travesaño del otro lado.
-5. Este es el paso clave: fíjense bien qué palo va arriba y cuál abajo. Si se equivocan, el puente se desarma.
-6. Levanten el puente entre todos, despacio: al levantarlo, los palos se traban solos.
-7. Prueben su resistencia apoyando una mochila en el medio.
+## Desarrollo
+Los nueve bastones se reparten así: cuatro largueros, que son los palos largos que van inclinados de una orilla hacia la otra y hacen de patas; dos travesaños, que van cruzados, de costado a costado del puente; y tres palos para el piso. Elijan una orilla «A» y una orilla «B», separadas más o menos el largo de un bastón y medio.
 
-## Reglas
+1. Numeren los palos con tiza o cinta: largueros 1, 2, 3 y 4, travesaños A y B, y piso 1, 2 y 3.
+2. Pongan los largueros 1 y 2 en el suelo, paralelos, separados un poco menos que el largo de un travesaño (más o menos 1 metro). Sus pies apoyan en la orilla A y sus puntas apuntan hacia la orilla B.
+3. Apoyen el travesaño A atravesado por arriba de los largueros 1 y 2, a un tercio de su largo, contando desde los pies.
+4. Levanten un poco las puntas de los largueros 1 y 2 y metan por debajo el travesaño B, a unos 15 cm de las puntas. Las puntas de 1 y 2 quedan apoyadas encima de B.
+5. Los largueros 3 y 4 salen de la orilla B. Van entre el 1 y el 2, separados unos 40 cm entre sí, con los pies en la orilla B y las puntas hacia la orilla A. Cada uno pasa por abajo del travesaño B (levántenlo un poco para meterlos) y su punta queda apoyada encima del travesaño A, sobresaliendo unos 15 cm.
+6. Este es el paso clave: cada larguero pasa por abajo del travesaño de su orilla y por arriba del travesaño de la otra orilla. Revisen los cuatro. Si uno quedó al revés, el puente se desarma.
+7. Ahora levántenlo entre todos, despacio: dos jugadores levantan los travesaños desde el medio mientras otros empujan los pies de los largueros hacia el centro. El puente se arquea y los palos se traban solos, porque cada uno queda apretado entre los otros. Apoyen los pies contra una piedra, un tronco o un pocito en el suelo, para que no resbalen hacia afuera.
+8. Apoyen los tres palos del piso atravesados por arriba de los cuatro largueros, entre los dos travesaños. Con ese peso, todo queda todavía más trabado.
+9. Prueben su resistencia apoyando una mochila en el medio.
+
+### Reglas
 - Nadie se sube al puente sin que un dirigente lo revise.
 - Los bastones se pasan, no se tiran.
 
 ### Variante: Carrera de puentes
 Cuando todas las patrullas ya lo armaron una vez, se hace una carrera: gana la que lo arma más rápido y aguanta el peso de prueba.
 
-## Para cerrar
+## Cierre
 - ¿Por qué el puente no se cae si no tiene ningún nudo?
 - ¿Qué parte fue la más difícil?
 
-## Notas para educadores
+## Notas para el educador
 - Es un buen «rompehielo» para una tarde de pionerismo. Una patrulla con práctica lo arma en dos minutos; la primera vez, calculá diez.
 - Antes de cualquier construcción: revisá sogas y palos (sin rajaduras ni partes podridas), guantes para los que tiran de sogas, y nadie se sube a nada hasta que un dirigente lo revise.
 

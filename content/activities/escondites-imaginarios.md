@@ -132,7 +132,7 @@ rama_rovers:
 
 # Escondites Imaginarios
 
-## De qué se trata
+## Resumen
 Todos siguen al dirigente por un recorrido con el plano en la mano. Antes de salir, el dirigente describe varios escondites imaginarios: cómo es el lugar, qué árboles hay cerca, de qué lado del camino está, más o menos a qué distancia. Pero no dice en qué parte del recorrido están. Mientras caminan, cada uno tiene que reconocer el lugar y marcarlo en rojo en su plano con su número.
 
 ## Preparación
@@ -140,7 +140,7 @@ Todos siguen al dirigente por un recorrido con el plano en la mano. Antes de sal
 2. Escribí la descripción de cada uno: «Escondite 1: en una lomita a la izquierda del camino, al lado de un sauce, a unos 20 metros. Desde ahí se ve el tanque de agua».
 3. Prepará el plano del recorrido para cada jugador.
 
-## Cómo se juega
+## Desarrollo
 1. Antes de salir, escuchen la descripción de cada escondite. Pueden anotarla.
 2. Sigan al dirigente por el recorrido, despacio. Miren todo.
 3. Cuando reconozcas un lugar, marcalo en rojo en tu plano con su número. No digas nada en voz alta.
@@ -148,11 +148,11 @@ Todos siguen al dirigente por un recorrido con el plano en la mano. Antes de sal
 5. Al final, el dirigente junta los planos.
 6. Lugar exacto, 10 puntos; aproximado, entre 2 y 6; equivocado o sin marcar, 0. Gana el que suma más.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte de la descripción les sirvió más para reconocer cada lugar?
 - ¿Cómo describirían ustedes un lugar para que otro lo encuentre?
 
-## Notas para educadores
+## Notas para el educador
 - Es un buen paso previo para que después cada patrulla escriba sus propias descripciones.
 
 ---

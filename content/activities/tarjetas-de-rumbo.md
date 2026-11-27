@@ -130,21 +130,21 @@ rama_rovers:
 
 # Tarjetas de Rumbo
 
-## De qué se trata
+## Resumen
 Se ponen boca abajo, en ronda, tarjetas con los rumbos de la rosa de los vientos. Solo una tiene la N. A la señal, cada uno agarra una; a la segunda señal, la dan vuelta. El que tiene el Norte la levanta bien alto y se queda quieto. Los demás corren a ubicarse alrededor según su rumbo, tomando como norte la posición de ese jugador. El último en ubicarse pierde.
 
 ## Preparación
 1. Hacé una tarjeta por jugador con un rumbo: N, NE, E, SE, S, SO, O, NO, y si son más, NNE, ENE, etc. Una sola N.
 
-## Cómo se juega
-1. Pongan las tarjetas boca abajo, formando una ronda.
-2. A la primera señal, cada uno agarra una tarjeta sin mirarla.
+## Desarrollo
+1. Pongan las tarjetas boca abajo, formando una ronda grande, de unos 5 a 10 metros de diámetro. Marquen el centro de la ronda con una mochila, un palito o una piedra: ese es el centro de la rosa.
+2. A la primera señal, cada uno agarra una tarjeta sin mirarla y se queda parado en el lugar donde estaba su tarjeta.
 3. A la segunda señal, la dan vuelta.
-4. El que tiene la N la levanta y se queda quieto donde está.
-5. Todos los demás corren a armar la rosa alrededor de un centro, con el Norte donde está ese jugador.
+4. El que tiene la N la levanta y se queda quieto donde está. Desde ese momento, el Norte es la dirección que va del centro de la ronda hacia ese jugador, aunque no coincida con el norte de verdad.
+5. Todos los demás corren a ubicarse sobre la misma ronda, a la misma distancia del centro que el jugador Norte, cada uno en el lugar de su rumbo. Por ejemplo, el S se pone justo enfrente del N, del otro lado del centro; el E, a un cuarto de vuelta del N en el sentido de las agujas del reloj, y el O, a un cuarto de vuelta en el sentido contrario.
 6. El último en ubicarse pierde. Se mezclan las tarjetas y se juega otra vez.
 
-## Para cerrar
+## Cierre
 - ¿Qué rumbo era el más difícil de ubicar?
 
 ---

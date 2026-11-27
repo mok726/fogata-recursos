@@ -132,13 +132,13 @@ rama_rovers:
 
 # ¡El Viento Sopla de…!
 
-## De qué se trata
+## Resumen
 Se marcan los cuatro puntos cardinales con estacas alrededor de un círculo. Los jugadores se juntan en el medio. El dirigente camina por afuera del círculo, se para de golpe, toca el silbato y grita «¡El viento sopla del sudeste!». El primero que señala bien esa dirección se lleva un punto. Con dos puntos, sale del círculo como ganador. El último que queda, pierde.
 
 ## Preparación
 1. Con una brújula, clavá cuatro estacas con carteles en los puntos cardinales alrededor de un círculo grande.
 
-## Cómo se juega
+## Desarrollo
 1. Todos se juntan en el medio del círculo.
 2. El dirigente da vueltas por afuera. Estén atentos.
 3. Cuando suena el silbato, escuchá de dónde sopla el viento.
@@ -149,10 +149,10 @@ Se marcan los cuatro puntos cardinales con estacas alrededor de un círculo. Los
 ### Variante: Sin carteles
 Se sacan las estacas: hay que acordarse dónde estaban o ubicarse por el sol.
 
-## Para cerrar
+## Cierre
 - El viento que «sopla del sur», ¿hacia dónde empuja? ¿Por qué se nombra así?
 
-## Notas para educadores
+## Notas para el educador
 - El viento se nombra por el lugar de donde viene: el viento sur viene del sur y empuja hacia el norte. Vale la pena aclararlo al final.
 - Estamos en el hemisferio sur: al mediodía el sol queda hacia el norte. Si alguno se orienta por el sol, que lo tenga en cuenta.
 

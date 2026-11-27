@@ -137,10 +137,10 @@ rama_rovers:
 
 # Papas, Batatas y Choclos al Rescoldo
 
-## De qué se trata
+## Resumen
 Cuando el fuego se apaga y quedan brasas y cenizas calientes, es el momento ideal para cocinar enterrando. Las papas y las batatas se cocinan enteras, con cáscara; los choclos, con sus hojas. Hay que tener paciencia: lleva entre 40 minutos y una hora. El resultado es riquísimo y casi no ensucia nada.
 
-## Cómo se hace
+## Desarrollo
 1. Lavá bien las papas, las batatas y los choclos.
 2. A los choclos no les saques las hojas: mojalos en agua un rato, así no se queman.
 3. Si querés, envolvé las papas y batatas en papel aluminio, o cubrilas con una capa de barro.
@@ -150,7 +150,7 @@ Cuando el fuego se apaga y quedan brasas y cenizas calientes, es el momento idea
 7. Sacá una papa con la pala y pinchala con un palito: si entra fácil, está lista.
 8. Dejá que se enfríe un poco, abrila y poné sal y manteca.
 
-## Reglas
+### Reglas
 - Las verduras se sacan con la pala, nunca con la mano.
 - Cuidado con el vapor al abrir: quema.
 
@@ -160,11 +160,11 @@ El papel aluminio es basura que no se recicla fácil. Con barro funciona igual d
 ### Variante: Paquetitos
 Cada uno arma un paquetito de aluminio con verduras cortadas (zanahoria, cebolla, morrón, zapallito), un chorrito de aceite y sal, y lo cocina sobre las brasas unos 20 minutos.
 
-## Para cerrar
+## Cierre
 - ¿Por qué se cocina mejor en las cenizas que arriba del fuego?
 - ¿Cuánta basura generamos? ¿Cómo se puede generar menos?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Si usan aluminio, se junta todo al final: no se deja en el fogón.
 

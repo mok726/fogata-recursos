@@ -130,14 +130,14 @@ rama_rovers:
 
 # La Rosa Loca
 
-## De qué se trata
+## Resumen
 Cada jugador es un punto de la rosa de los vientos y lo tiene que defender. El dirigente señala hacia cualquier lado y dice «¡El norte está ahí!». El que es Norte corre a pararse en esa dirección y todos los demás tienen que reacomodarse alrededor del círculo en el orden correcto. El último en ubicarse sale del juego.
 
 ## Preparación
 1. Marcá un círculo grande en el piso.
 2. Repartí los puntos: con 8 jugadores, N, NE, E, SE, S, SO, O, NO. Con más, usá 16 puntos o hacé dos rosas.
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno sabe qué punto es. Párense en el círculo en el lugar que les toca, con el norte para donde está de verdad.
 2. El dirigente se para en el medio, señala hacia cualquier parte y grita «¡El norte está ahí!».
 3. El Norte corre a pararse en esa dirección del círculo.
@@ -148,11 +148,11 @@ Cada jugador es un punto de la rosa de los vientos y lo tiene que defender. El d
 ### Variante: El desorientado
 Todos quedan quietos en su lugar. El dirigente elige a uno y le dice cinco rumbos seguidos, cada vez más rápido: «¡Sudeste! ¡Oeste! ¡Norte!…». Tiene que ir corriendo a pararse delante del que es ese rumbo. Si no duda, sale del círculo como ganador. Si se equivoca, vuelve a su lugar y se elige a otro.
 
-## Para cerrar
+## Cierre
 - ¿Qué truco usaron para encontrar su lugar rápido?
 - Si el norte está para cualquier lado, ¿cómo sabe el Este dónde pararse?
 
-## Notas para educadores
+## Notas para el educador
 - Primero jueguen con el norte real (con brújula). La versión loca es para cuando ya se saben la rosa.
 
 ---

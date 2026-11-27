@@ -133,14 +133,14 @@ rama_rovers:
 
 # El Laberinto del Monte
 
-## De qué se trata
+## Resumen
 Un juego para entrenar la memoria del camino. El dirigente lleva a todos por un recorrido con muchas vueltas: entre árboles, por arbustos, subiendo y bajando. Al volver, el dirigente hace el mismo camino solo y deja tarjetas en algunos puntos. Después salen los jugadores de a uno, con unos minutos de diferencia, a repetir el recorrido anotando lo que dice cada tarjeta.
 
 ## Preparación
 1. Elegí un recorrido de 1 a 2 km en un lugar conocido y cerrado (un predio de campamento, un parque grande), con muchas vueltas pero sin peligros.
 2. Prepará las tarjetas numeradas, cada una con una letra o un dibujo.
 
-## Cómo se juega
+## Desarrollo
 1. Sigan al dirigente por el recorrido. Miren bien: árboles raros, piedras grandes, cambios de dirección.
 2. Vuelvan todos a la salida. Mientras tanto, el dirigente va solo a dejar las tarjetas.
 3. Salen de a uno (o de a dos), con unos minutos entre cada salida. Se anota la hora.
@@ -149,15 +149,15 @@ Un juego para entrenar la memoria del camino. El dirigente lleva a todos por un 
 6. Al llegar, se anota la hora. Cada tarjeta que falta suma cinco minutos de castigo.
 7. Gana el que tiene el menor tiempo total.
 
-## Reglas
+### Reglas
 - Nadie sale del predio.
 - Si te perdés, volvé al último lugar que reconozcas y esperá; o tocá el silbato.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas usaron para acordarse del camino?
 - ¿Dónde se perdieron? ¿Por qué ahí?
 
-## Notas para educadores
+## Notas para el educador
 - Cada jugador lleva un silbato. Fijá una hora límite y tené a alguien en la salida y otro en la mitad del recorrido.
 - Para Scouts más chicos, que salgan de a dos.
 

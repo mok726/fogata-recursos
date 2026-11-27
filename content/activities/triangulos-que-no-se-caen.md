@@ -141,10 +141,10 @@ rama_rovers:
 
 # Triángulos que No se Caen
 
-## De qué se trata
+## Resumen
 Por más que se ajuste un amarre cuadrado, dos palos amarrados siempre se pueden mover un poquito, como una tijera. Si hacemos un cuadrado con cuatro palos, se tuerce y se aplasta hacia un costado. Un triángulo, en cambio, no se puede torcer. Por eso las construcciones de pionerismo se llenan de diagonales: convierten los cuadrados en triángulos. Además, vemos las tres maneras de hacer que un mástil se quede parado.
 
-## Cómo se hace
+## Desarrollo
 1. Armen un cuadrado con cuatro palitos unidos en las esquinas con gomitas.
 2. Empújenlo de costado: se tuerce y se aplasta. Los ingenieros dicen que «se paralelogramea».
 3. Ahora armen un triángulo con tres palitos. Empújenlo: no se tuerce.
@@ -153,11 +153,11 @@ Por más que se ajuste un amarre cuadrado, dos palos amarrados siempre se pueden
 6. Ahora el mástil: claven un palito en la plastilina. Para que no se caiga, prueben las tres formas: con sogas de viento (tracción), con puntales que lo apuntalan (compresión) o enterrándolo bien en la base.
 7. En grande: si tienen bastones, armen un cuadrado con amarres y prueben lo mismo.
 
-## Para cerrar
+## Cierre
 - ¿Dónde ven triángulos en un puente, en una torre de alta tensión o en un techo?
 - ¿Qué forma de sostener el mástil usarían en el campamento?
 
-## Notas para educadores
+## Notas para el educador
 - Además del torcido, las construcciones fallan porque se afloja un amarre (por eso se controlan) o porque se rompe un palo (por eso se revisan y se elige el grosor justo).
 - Es la segunda ficha de la serie de «ingeniería para scouts», después de «Las Cuatro Fuerzas».
 

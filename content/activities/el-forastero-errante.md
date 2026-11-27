@@ -130,7 +130,7 @@ rama_rovers:
 
 # El Forastero Errante
 
-## De qué se trata
+## Resumen
 Todos tienen el mismo mapa. El dirigente arranca diciendo de qué pueblo o esquina sale el forastero y después cuenta su viaje como un cuento, pero sin nombrar lugares: «cruzó un río por un puente, llegó a una estación de tren, subió una loma con una antena arriba…». Cada uno va siguiendo el recorrido con el dedo en el mapa. Al final hay que decir dónde terminó el forastero.
 
 ## Preparación
@@ -138,7 +138,7 @@ Todos tienen el mismo mapa. El dirigente arranca diciendo de qué pueblo o esqui
 2. Escribí el cuento del viaje describiendo cada cosa sin nombrarla. Sumá pistas de rumbo: «el sol de la mañana le daba en la cara» (iba hacia el este).
 3. Anotá en tu mapa el punto exacto donde termina.
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno (o cada pareja) tiene el mapa abierto adelante.
 2. El dirigente dice de dónde sale el forastero. Pongan el dedo ahí.
 3. Escuchen el cuento y vayan moviendo el dedo por el mapa a medida que el forastero avanza.
@@ -152,11 +152,11 @@ El dirigente describe también lo que el forastero ve por el camino (árboles, c
 ### Variante: Lo inventan ustedes
 Cada patrulla escribe su propio viaje del forastero y se lo lee a otra patrulla para que lo siga.
 
-## Para cerrar
+## Cierre
 - ¿Qué pistas fueron las más útiles: los rumbos, los ríos, las vías?
 - ¿Qué cosas del cuento no aparecían en el mapa?
 
-## Notas para educadores
+## Notas para el educador
 - En Argentina, las cartas topográficas del Instituto Geográfico Nacional (IGN) se pueden ver y bajar gratis desde su sitio. Para empezar, un plano del barrio o una captura impresa de un mapa en línea también sirve.
 - Estamos en el hemisferio sur: al mediodía el sol queda hacia el norte. Si alguno se orienta por el sol, que lo tenga en cuenta.
 

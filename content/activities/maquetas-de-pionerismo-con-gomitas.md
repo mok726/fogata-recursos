@@ -139,20 +139,23 @@ rama_rovers:
 
 # Maquetas de Pionerismo con Gomitas
 
-## De qué se trata
+## Resumen
 Hacer una maqueta con hilo lleva muchísimo tiempo. Con gomitas elásticas, un amarre sale en unos 15 segundos. Así, en una reunión, la patrulla puede probar ideas de construcciones (un puente, una torre, un portal) antes de hacerlas en grande en el campamento.
 
 ## Preparación
 1. Juntá muchas gomitas y palitos (los de brochette son baratos y van bien).
 2. Mostrá cómo se hace un amarre de gomita antes de empezar.
 
-## Cómo se hace un amarre de gomita
-1. Pongan dos palitos cruzados.
-2. Enganchen la gomita en la punta de uno de los palitos.
-3. Pásenla por arriba del palito de arriba y por abajo del de abajo, y vuelvan. Siempre estirando, para que quede tensa.
-4. Después de una vuelta completa, den vueltas alrededor del amarre, entre los palitos, como en los amarres de verdad (se llaman vueltas de ajuste).
-5. Cuando se termina la gomita, enganchen la otra punta en un palito.
-6. ¡Listo! Ahora armen la maqueta: primero dibujen lo que quieren construir y después peguen palito por palito.
+## Desarrollo
+### Cómo se hace un amarre de gomita
+1. Pongan dos palitos cruzados en ángulo recto, uno encima del otro, como una cruz.
+2. Corten la gomita con la tijera para que quede una tira con dos puntas. Apoyen una punta contra el palito de abajo, al lado del cruce, y sosténganla con el pulgar.
+3. Den la primera vuelta en diagonal: pasen la gomita por arriba del cruce, de una esquina a la esquina opuesta, y por abajo del palito de abajo, volviendo al punto de partida. Esa primera vuelta pisa la punta que sostenían, así que ya pueden soltarla. Den dos o tres vueltas así, siempre estirando para que quede tensa.
+4. Ahora cambien de diagonal: den otras dos o tres vueltas igual, pero de las otras dos esquinas. Mirado desde arriba, el cruce queda tapado por una X de gomita.
+5. Después den una o dos vueltas alrededor de la gomita, entre los dos palitos, sin pasar por arriba de ellos, rodeando las vueltas que ya dieron, como en los amarres de verdad (se llaman vueltas de ajuste). Así todo queda más apretado.
+6. Para terminar, metan la punta que les queda por debajo de la última vuelta, tirando para que quede trabada. ¡Listo el amarre!
+
+Con este amarre ya pueden armar la maqueta: primero dibujen lo que quieren construir y después unan los palitos uno por uno, con un amarre de gomita en cada cruce.
 
 ### Variante: A escala
 Elijan una escala (por ejemplo, 1 a 20: 10 cm de maqueta son 2 metros de verdad) y fabriquen una regla de papel con esa escala. Así la maqueta sirve para saber cuántos palos y de qué largo van a necesitar.
@@ -160,11 +163,11 @@ Elijan una escala (por ejemplo, 1 a 20: 10 cm de maqueta son 2 metros de verdad)
 ### Variante: De la maqueta a la realidad
 La patrulla elige la maqueta que más le gusta y la construye en grande en el próximo campamento.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte de la maqueta quedó floja? ¿Qué harían distinto en grande?
 - ¿Qué palos van a necesitar para construirla de verdad?
 
-## Notas para educadores
+## Notas para el educador
 - Para Manada es una manualidad en sí misma. Para Scouts y Caminantes, sirve para planificar construcciones reales.
 - Ver también «Maquetas» de la insignia Manada de B-P.
 

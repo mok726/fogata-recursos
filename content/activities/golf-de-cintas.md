@@ -134,7 +134,7 @@ rama_rovers:
 
 # Golf de Cintas
 
-## De qué se trata
+## Resumen
 Todos se juntan en un lugar alto desde donde se vea bien el terreno. El dirigente explica que hay cintas escondidas y que cada color vale distinto: roja, 1 punto; blanca, 2; amarilla, 3; verde, 4. De cada cinta da el rumbo en grados y la distancia aproximada («Roja, rumbo 35, entre 200 y 250 metros»). Los equipos anotan, marcan las zonas en su mapa y salen a buscar. Hay tiempo limitado.
 
 ## Preparación
@@ -142,7 +142,7 @@ Todos se juntan en un lugar alto desde donde se vea bien el terreno. El dirigent
 2. Que las más lejanas o difíciles sean las que valen más.
 3. Fijá la duración del juego y un silbatazo de aviso un cuarto de hora antes del final.
 
-## Cómo se juega
+## Desarrollo
 1. Desde el mirador, escuchen y anoten el color, el rumbo y la distancia de cada cinta.
 2. En el mapa, marquen la zona donde puede estar cada una.
 3. Decidan en equipo qué cintas buscar primero: ¿las cercanas o las que valen más?
@@ -151,11 +151,11 @@ Todos se juntan en un lugar alto desde donde se vea bien el terreno. El dirigent
 6. Hay que llegar con todo el equipo antes del final. Si no, pierden las cintas.
 7. Se suman los puntos. Gana el equipo con más puntos.
 
-## Para cerrar
+## Cierre
 - ¿Cómo decidieron qué cintas buscar?
 - ¿Se dieron cuenta de cuánto mide 200 metros en el terreno?
 
-## Notas para educadores
+## Notas para el educador
 - Al terminar, que cada equipo vuelva a buscar las cintas que no se encontraron, para no dejar basura.
 
 ---

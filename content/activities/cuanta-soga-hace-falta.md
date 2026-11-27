@@ -140,10 +140,10 @@ rama_rovers:
 
 # ¿Cuánta Soga Hace Falta?
 
-## De qué se trata
-Cuando se prepara una construcción grande hay que saber cuánta soga llevar. Si se lleva de menos, no alcanza; si se lleva de más, se carga peso de balde o se cortan sogas sin necesidad. El largo de un amarre cuadrado depende de lo gruesos que son los dos palos y la soga. Hay calculadoras en internet, pero lo más divertido es medirlo: la patrulla hace amarres, mide la soga que usó y arma su propia tabla.
+## Resumen
+Cuando se prepara una construcción grande hay que saber cuánta soga llevar. Si se lleva de menos, no alcanza; si se lleva de más, se carga peso de más o se cortan sogas sin necesidad. El largo de un amarre cuadrado depende de lo gruesos que son los dos palos y la soga. Hay calculadoras en internet, pero lo más divertido es medirlo: la patrulla hace amarres, mide la soga que usó y arma su propia tabla.
 
-## Cómo se hace
+## Desarrollo
 1. Midan el grosor de cada palo (alrededor, con la cinta métrica) y el de la soga.
 2. Hagan un amarre cuadrado con una soga larga. Marquen con cinta dónde empezó y dónde terminó.
 3. Desaten y midan cuánta soga usaron.
@@ -152,11 +152,11 @@ Cuando se prepara una construcción grande hay que saber cuánta soga llevar. Si
 6. ¿Encuentran una regla? Por ejemplo: «para palos de tal grosor, tantos metros».
 7. Usen la tabla para calcular cuánta soga necesita la próxima construcción de la patrulla.
 
-## Para cerrar
+## Cierre
 - ¿Qué influye más: el grosor de los palos o el de la soga?
 - ¿Para qué sirve saber esto antes de un campamento?
 
-## Notas para educadores
+## Notas para el educador
 - El blog recomienda la calculadora de amarres del sitio neerlandés Knoopenzo.nl, de Theo Slijkerman (International Guild of Knot Tyers). Sirve para comparar con la tabla de la patrulla.
 - Cuidar las sogas es parte del pionerismo: no se cortan si se puede evitar.
 

@@ -133,7 +133,7 @@ rama_rovers:
 
 # La Palabra Escondida
 
-## De qué se trata
+## Resumen
 El dirigente esconde, alrededor de un punto central, tarjetas con las letras de una palabra. De cada una anota el rumbo y la cantidad de pasos desde el centro. Los equipos reciben esa lista y salen a buscar. Con todas las letras, hay que adivinar qué palabra forman. Gana el primer equipo que la dice bien.
 
 ## Preparación
@@ -142,7 +142,7 @@ El dirigente esconde, alrededor de un punto central, tarjetas con las letras de 
 3. Anotá el rumbo y los pasos de cada letra. Usá tu paso o metros.
 4. Si juegan varios equipos, prepará un juego de letras por equipo, con palabras distintas, o pediles que no muevan las tarjetas.
 
-## Cómo se juega
+## Desarrollo
 1. Cada equipo recibe la lista de rumbos y pasos.
 2. Vuelvan siempre al punto central antes de buscar la letra siguiente.
 3. Con la brújula, ubiquen el rumbo. Uno cuenta los pasos en voz alta.
@@ -153,11 +153,11 @@ El dirigente esconde, alrededor de un punto central, tarjetas con las letras de 
 ### Variante: Con croquis
 Antes de salir, cada equipo dibuja un croquis con la ubicación de las letras y elige el mejor orden para buscarlas sin volver al centro. Entrega el croquis junto con la palabra.
 
-## Para cerrar
+## Cierre
 - ¿Les sirvió volver al centro cada vez? ¿Por qué?
 - ¿Qué pasó cuando dos contaban distinto los pasos?
 
-## Notas para educadores
+## Notas para el educador
 - Para Manada, usen solo los ocho rumbos principales y distancias cortas. Para Scouts, rumbos en grados.
 
 ---

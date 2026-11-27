@@ -134,33 +134,40 @@ rama_rovers:
 
 # El Guía Tramposo
 
-## De qué se trata
-En medio del monte, el dirigente dice que se perdió y que tiene que llegar a un punto del mapa. Primero, cada uno le dice en secreto dónde cree que están. Después, por turnos, cada jugador es el guía y lleva al grupo un tramo con la brújula. El dirigente va controlando el rumbo y grita «¡Falta!» si el guía se desvía. Además, de vez en cuando, hace de «guía tramposo»: da órdenes con tono de malo para confundir («¡Ahora al nor-noroeste! ¿O era al sur?»).
+## Resumen
+En medio del monte, el dirigente dice que se perdió y que tiene que llegar a un punto del mapa. Primero, cada uno le dice en secreto dónde cree que están. Después, por turnos, cada jugador es el guía y lleva al grupo un tramo con la brújula. El dirigente va controlando el rumbo y grita «¡Falta!» si el guía se desvía. Además, de vez en cuando, hace de «guía tramposo»: da una orden nueva de rumbo y después trata de confundir al guía con tono de malo («¡Ahora al nor-noroeste! ¿O era al sur?»). La orden vale y hay que cumplirla; lo que viene después es la trampa, y no se obedece.
 
 ## Preparación
 1. Elegí una zona conocida con un punto de llegada claro en el mapa.
 2. Dividí el recorrido en tramos, uno por jugador.
 
-## Cómo se juega
+## Desarrollo
 1. En el lugar de partida, cada uno le dice al dirigente en voz baja dónde cree que están en el mapa. El primero que acierta gana 3 puntos.
-2. El primer guía toma la brújula y lleva al grupo por el primer tramo.
+2. El primer guía toma la brújula. El dirigente, que lleva el mapa, le dice en voz alta el rumbo del primer tramo (por ejemplo, «rumbo 120 grados» o «al sudeste»). El guía lo marca en la brújula y lleva al grupo en esa dirección.
 3. Si hay un obstáculo, el guía avisa «¡Obstáculo!», lo rodea y cuando retoma el rumbo dice «¡En rumbo!».
-4. Si el dirigente grita «¡Falta!», el guía tiene que corregir. Si después de tres correcciones no lo logra, pasa el siguiente.
-5. Cada tanto, el dirigente da una orden nueva de rumbo, tratando de confundir. El guía tiene que obedecer bien y sin dudar.
-6. Al final del tramo, pasa el siguiente guía.
-7. Cada orden bien cumplida es un punto; si dudó, medio punto. Gana el que suma más.
+4. Si el guía se desvía, el dirigente grita «¡Falta!» y el guía tiene que corregir. Si después de tres correcciones no lo logra, pasa el siguiente.
+5. Cada tanto, el dirigente da en voz alta una orden nueva de rumbo («¡Ahora al nor-noroeste!») y enseguida trata de confundir al guía: duda en voz alta, pone tono de malo o dice otro rumbo como pregunta («¿O era al sur?»). La orden que vale es siempre la primera, la que empieza con «¡Ahora...!». El guía tiene que cumplirla bien y sin dudar, sin hacerle caso a la trampa.
+6. Al final del tramo, el dirigente le da el rumbo del tramo siguiente al nuevo guía, y sigue el juego igual.
+7. Cada jugador lleva su propio puntaje, que el dirigente anota en la libreta.
 
-## Reglas
-- Desvío chico (menos de 30 grados): un punto en contra. Mediano (hasta 90): dos. Grande: tres.
+**Puntaje:**
+- 3 puntos para el primero que acierta dónde están, en el paso 1.
+- 1 punto por cada orden nueva de rumbo que el guía cumple bien; medio punto si la cumple pero duda.
+- Puntos en contra por cada «¡Falta!», según cuánto se desvió del rumbo: desvío chico (menos de 30 grados), un punto; mediano (de 30 a 90 grados), dos puntos; grande (más de 90 grados), tres puntos.
+
+Al final se suman los puntos a favor y se restan los puntos en contra. Gana el que tiene más.
+
+### Reglas
+- El dirigente avisa siempre en voz alta cuando da una orden nueva, así todos saben cuál es la que vale.
 
 ### Variante: El voluntario final
 Si después de todos los guías no llegaron, se pide un voluntario para el último tramo. El dirigente no corrige nada: si llega, gana entre 10 y 20 puntos; si no, pierde todo.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se sintieron cuando el dirigente trataba de confundirlos?
 - ¿Qué hace un buen guía cuando no está seguro?
 
-## Notas para educadores
+## Notas para el educador
 - El «guía tramposo» es actuado y en broma: que se note que es un personaje.
 - El grupo camina siempre junto, detrás del guía.
 

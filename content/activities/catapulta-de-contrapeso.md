@@ -34,6 +34,8 @@ materials:
   - "Un palo para el brazo y otro corto para el eje"
   - "Sogas para amarres"
   - "Una cámara de bicicleta o una soga para tirar"
+  - "Una bolsa resistente con 10 a 15 kilos de arena o piedras (el contrapeso)"
+  - "Un vaso de plástico o una lata sin bordes filosos para la cuchara"
   - "Bombitas de agua o pelotas de papel"
 tools: []
 responsible:
@@ -143,27 +145,31 @@ rama_rovers:
 
 # Catapulta de Contrapeso
 
-## De qué se trata
-Una catapulta de las de los castillos, hecha con palos y amarres. Tiene dos caballetes en forma de A que se apoyan uno contra otro, así no necesita sogas de viento para quedarse parada. Arriba descansa un eje con el brazo lanzador. Se tira con una soga o con una cámara de bicicleta estirada. Para probarla: bombitas de agua o pelotas de papel.
+## Resumen
+Una catapulta de las de los castillos, hecha con palos y amarres. Tiene dos caballetes en forma de A que se apoyan uno contra otro, así no necesita sogas de viento para quedarse parada. Arriba descansa un eje con el brazo lanzador. En la punta corta del brazo cuelga el contrapeso, una bolsa con arena o piedras. Con una soga se baja la punta larga (eso levanta el contrapeso) y, al soltarla, el contrapeso cae y el brazo lanza. Una cámara de bicicleta estirada le puede dar más fuerza. Para probarla: bombitas de agua o pelotas de papel.
 
 ## Preparación
 1. Revisá que la patrulla ya sepa los amarres cuadrado y diagonal.
 2. Elegí un lugar abierto, con una zona de tiro sin nadie adelante.
 
-## Cómo se arma
-1. Armen el primer caballete en A. Dejen lugar arriba, en el cruce, para que apoye el eje del brazo.
-2. Aten la base del segundo caballete y apóyenlo contra el primero.
-3. Amarren la punta del segundo caballete, cuidando que el cruce quede a la misma altura que el del primero.
-4. Amarren los dos palos de la base a los dos caballetes.
-5. Amarren el brazo lanzador al eje y apoyen el eje en las horquetas de arriba.
-6. Cierren cada horqueta con una vuelta de cordel para que el eje no salte.
-7. Aten la soga o la cámara de bicicleta para tirar del brazo.
-8. Prueben con una pelota de papel. Después, ¡bombitas de agua!
+## Desarrollo
+1. Armen el primer caballete en A con tres de los seis palos largos. Dos palos son las patas: crúcenlos cerca de la punta de arriba, dejando unos 30 cm por encima del cruce, y únanlos ahí con un amarre diagonal. Esa V que queda arriba del cruce es la horqueta donde va a apoyar el eje. Abran las patas abajo hasta que queden separadas unos 1,5 metros. El tercer palo es el travesaño: va atravesado sobre las dos patas, a unos 40 cm del suelo, con un amarre cuadrado en cada pata. Así la A no se puede abrir más.
+2. Armen el segundo caballete igual, con los otros tres palos. Fíjense que el cruce de arriba quede a la misma altura que el del primero, así el eje queda horizontal.
+3. Paren los dos caballetes uno frente al otro, a lo largo de la línea de tiro: cada uno con una pata adelante y otra atrás. Las patas quedan separadas unos 1,2 metros de un caballete al otro, y las puntas de arriba se inclinan un poco una hacia la otra, hasta que las horquetas queden a unos 60 cm. Ese hueco entre los dos es por donde va a girar el brazo.
+4. Unan los pies con los dos palos de la base, que van en el suelo, de un caballete al otro: uno une las dos patas de adelante y el otro, las dos patas de atrás. Cada unión lleva un amarre cuadrado, cerca del pie de la pata. Con la base atada y las puntas inclinadas una hacia la otra, la estructura queda firme sin vientos.
+5. Preparen el brazo. Midan unos 70 cm desde una punta del palo del brazo: esa es la punta corta, la del contrapeso, y el resto es la punta larga, la que lanza. En ese punto, amarren el brazo al palo corto del eje, cruzado en ángulo recto y en el medio del eje, con un amarre cuadrado.
+6. En la punta larga, aten la cuchara: el vaso o la lata, con la boca hacia arriba cuando el brazo está bajado, sujeto con cordel.
+7. Entre varios, levanten el brazo con el eje y apoyen cada punta del eje en una horqueta, con el brazo colgando entre los dos caballetes. Cierren cada horqueta con una vuelta de cordel por arriba del eje, para que no salte. El eje tiene que poder girar dentro de las horquetas.
+8. Cuelguen el contrapeso de la punta corta con una soga corta, atada con un ballestrinque y asegurada con medio nudo. Tiene que quedar colgando unos 30 cm por debajo de la punta, sin tocar el suelo. En reposo, el contrapeso tira la punta corta para abajo y la punta larga queda arriba.
+9. Aten la soga de tiro a la punta larga. Para cargar, dos jugadores tiran de la soga desde atrás hasta bajar la punta larga casi al suelo, apoyada contra el palo de la base de atrás: el contrapeso sube. La sostienen firme mientras otro pone el proyectil en la cuchara y se aleja.
+10. Si quieren más fuerza, aten la cámara de bicicleta desde la punta corta hasta el palo de la base de adelante: al bajar la punta larga, la cámara se estira y después ayuda al contrapeso.
+11. Cuando el encargado da la orden, los dos sueltan la soga al mismo tiempo: el contrapeso cae, la punta larga sube y lanza. Prueben primero con una pelota de papel. Después, ¡bombitas de agua!
 
-## Reglas
+### Reglas
 - Nadie se para adelante de la catapulta ni en la zona de tiro.
 - Solo se lanzan cosas blandas: bombitas de agua o pelotas de papel.
 - Un solo encargado da la orden de tiro.
+- Nadie se pone debajo del contrapeso ni al lado del brazo cuando está cargado: el contrapeso baja con mucha fuerza.
 
 ### Variante: Puntería
 Pongan un balde o un aro a distintas distancias. ¿Cómo hay que tirar para acertarle?
@@ -171,11 +177,11 @@ Pongan un balde o un aro a distintas distancias. ¿Cómo hay que tirar para acer
 ### Variante: Con honda
 Prueben agregar en la punta del brazo una bolsita de tela colgando: ¿llega más lejos?
 
-## Para cerrar
+## Cierre
 - ¿Qué cambia si tiran más fuerte o si el brazo es más largo?
 - ¿Por qué esta catapulta no necesita vientos?
 
-## Notas para educadores
+## Notas para el educador
 - El autor del blog cuenta que en una prueba con dirigentes, dos patrullas se aliaron para bombardear con tomates a la tercera. Con bombitas de agua alcanza.
 - Antes de cualquier construcción: revisá sogas y palos (sin rajaduras ni partes podridas), guantes para los que tiran de sogas, y nadie se sube a nada hasta que un dirigente lo revise.
 

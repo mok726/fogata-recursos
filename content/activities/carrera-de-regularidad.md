@@ -135,7 +135,7 @@ rama_rovers:
 
 # Carrera de Regularidad
 
-## De qué se trata
+## Resumen
 Cada pareja recibe un mapa y una tarjeta con su hora de salida y el primer control. En cada control, un dirigente anota la hora de llegada y le dice cuál es el siguiente. La idea es mantener un ritmo de 4 km por hora, con descansos incluidos. No gana el que corre: cada minuto de atraso es un punto en contra, y llegar antes no suma nada. Hay que saber calcular distancias en el mapa y conocer el propio ritmo.
 
 ## Preparación
@@ -143,7 +143,7 @@ Cada pareja recibe un mapa y una tarjeta con su hora de salida y el primer contr
 2. Calculá la hora ideal de llegada a cada control a 4 km por hora, según la hora de salida de cada pareja.
 3. Ubicá un dirigente en cada control con la lista de horas.
 
-## Cómo se juega
+## Desarrollo
 1. Al salir, recibís tu tarjeta con la hora de salida y el primer control.
 2. En el mapa, medí la distancia hasta el control y calculá cuánto tiempo tenés (a 4 km por hora, 1 km son 15 minutos).
 3. Elegí el camino y caminá a ritmo parejo, mirando el reloj.
@@ -151,15 +151,15 @@ Cada pareja recibe un mapa y una tarjeta con su hora de salida y el primer contr
 5. Repetí hasta la llegada.
 6. Cada minuto de atraso es un punto en contra. Gana la pareja con menos puntos.
 
-## Reglas
+### Reglas
 - Las parejas no se separan.
 - Llegar antes no da puntos: no hace falta correr.
 
-## Para cerrar
+## Cierre
 - ¿Cuánto les costó mantener el ritmo?
 - ¿Para qué sirve saber cuánto tardás en caminar un kilómetro?
 
-## Notas para educadores
+## Notas para el educador
 - Es una buena previa para planificar una travesía: cada uno aprende su ritmo real con mochila.
 - Cada pareja lleva silbato y celular. Hora límite de regreso para todos.
 

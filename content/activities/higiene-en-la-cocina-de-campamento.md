@@ -138,13 +138,13 @@ rama_rovers:
 
 # Higiene en la Cocina de Campamento
 
-## De qué se trata
+## Resumen
 En el campamento no hay heladera, a veces no hay canilla y se cocina al aire libre. Por eso hay que tener más cuidado que en casa. Hay cinco reglas de oro: lavarse las manos, separar lo crudo de lo cocido, cocinar bien (sobre todo la carne y el pollo), cuidar lo que necesita frío y usar agua segura. Las aprendemos con un juego: cada patrulla recibe situaciones y tiene que decidir qué está bien y qué está mal.
 
 ## Preparación
 1. Prepará tarjetas con situaciones, por ejemplo: «Cortamos el pollo crudo y en la misma tabla, sin lavar, cortamos el tomate»; «Dejamos la carne picada al sol hasta la tarde»; «Lavamos la lechuga con agua del arroyo»; «Antes de cocinar, nos lavamos las manos con agua y jabón».
 
-## Cómo se juega
+## Desarrollo
 1. Lavémonos las manos bien, como corresponde: agua, jabón, palmas, dorso, entre los dedos y uñas, contando hasta 20.
 2. El dirigente cuenta las cinco reglas de oro.
 3. Cada patrulla recibe un mazo de tarjetas con situaciones.
@@ -156,11 +156,11 @@ En el campamento no hay heladera, a veces no hay canilla y se cocina al aire lib
 ### Variante: Detectives de la cocina
 Durante el campamento, una patrulla por día es la «inspectora» y revisa las cocinas de las otras con una lista de control.
 
-## Para cerrar
+## Cierre
 - ¿Qué regla es la más difícil de cumplir en un campamento?
 - ¿Cómo nos organizamos para que siempre haya agua y jabón para lavarse las manos?
 
-## Notas para educadores
+## Notas para el educador
 - Las cinco reglas siguen las «cinco claves para la inocuidad de los alimentos» de la Organización Mundial de la Salud.
 - Para el agua, ver «Agua Segura en el Campamento», y para la vajilla, «Lavar los Platos en Campamento», de esta misma insignia.
 - La carne picada, el pollo y los huevos son los alimentos más delicados: en un campamento sin heladera, conviene comprarlos el mismo día o reemplazarlos.

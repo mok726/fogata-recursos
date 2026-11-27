@@ -139,10 +139,10 @@ rama_rovers:
 
 # Tensar una Soga sin Aparejo
 
-## De qué se trata
+## Resumen
 En el campamento siempre hay que tensar sogas largas: para un tendedero, un toldo, un cerco o una línea de seguridad. A veces, aunque se tire con todas las fuerzas, la soga queda floja. Una revista scout inglesa de 1953 traía dos trucos sencillos: ir y volver con la punta alrededor del árbol, pasando por la soga cada vez; o atar una segunda soga desde un costado y tirar de la principal como si fuera la cuerda de un arco.
 
-## Cómo se hace
+## Desarrollo
 1. Aten una punta de la soga a un árbol con vuelta redonda y dos medios nudos.
 2. Lleven la soga al otro árbol, denle una vuelta y tiren lo más fuerte que puedan.
 3. Primer truco: con la punta que sobra, denle una vuelta a la parte tensa de la soga y vuelvan al árbol, pero en sentido contrario. Tiren. Repitan, para un lado y para el otro, hasta que la soga quede tensa.
@@ -151,16 +151,16 @@ En el campamento siempre hay que tensar sogas largas: para un tendedero, un told
 6. Pongan un trapo donde las sogas se rozan, para que no se gasten.
 7. Cuando la soga está tensa, rematen bien los nudos.
 
-## Reglas
+### Reglas
 - Siempre con guantes.
 - Nadie se cuelga de la soga: es para tender cosas, no para personas.
 - Los árboles se protegen con un trapo donde apoya la soga.
 
-## Para cerrar
+## Cierre
 - ¿Cuál de los dos trucos tensó más? ¿Por qué el segundo funciona?
 - ¿Dónde lo usarían en el próximo campamento?
 
-## Notas para educadores
+## Notas para el educador
 - Una soga que va a cargar personas (por ejemplo, una tirolesa) necesita equipo y técnica especial, y siempre la supervisión de alguien con formación. Esta ficha es solo para tendederos, toldos, cercos y líneas de seguridad.
 - Esta ficha combina dos entradas del blog: «The Bristol Tackle» y «Another rough and ready tackle», las dos tomadas del anuario scout inglés de 1953.
 

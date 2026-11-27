@@ -131,13 +131,13 @@ rama_rovers:
 
 # Relevos de la Rosa
 
-## De qué se trata
+## Resumen
 Cada equipo tiene una rosa de los vientos dibujada con tiza en el piso, frente a su fila, con el norte marcado. El dirigente dice un rumbo y el primero de cada fila corre a poner su lápiz en el punto correcto antes de que se cuente hasta seis. Si lo hizo bien, pasa al otro lado de la rosa. Si se equivocó, vuelve al final de su fila. Gana el equipo que primero pasa a todos.
 
 ## Preparación
 1. Dibujá una rosa de los vientos con tiza frente a cada fila, con el norte marcado y los demás puntos sin letras.
 
-## Cómo se juega
+## Desarrollo
 1. Cada equipo forma una fila frente a su rosa.
 2. El dirigente dice un rumbo y empieza a contar hasta seis.
 3. El primero de cada fila corre y pone el lápiz en ese punto.
@@ -145,10 +145,10 @@ Cada equipo tiene una rosa de los vientos dibujada con tiza en el piso, frente a
 5. Juega el siguiente con un rumbo nuevo.
 6. Gana el equipo que primero tiene a todos del otro lado.
 
-## Para cerrar
+## Cierre
 - ¿Qué rumbos les dieron más trabajo?
 
-## Notas para educadores
+## Notas para el educador
 - Con Manada, usen ocho rumbos; con Scouts, dieciséis.
 
 ---

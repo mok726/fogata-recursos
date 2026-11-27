@@ -139,10 +139,10 @@ rama_rovers:
 
 # Detectives de Fuerzas
 
-## De qué se trata
+## Resumen
 Después de conocer las cuatro fuerzas y los triángulos, toca hacer de detectives. Se toma el dibujo de una construcción y se pinta cada parte según la fuerza que soporta: azul para compresión, rojo para tracción y verde para flexión. Se arranca con un mástil sostenido de tres formas distintas y se termina con una construcción del campamento.
 
-## Cómo se hace
+## Desarrollo
 1. Dibujen un mástil con sogas de viento hasta la punta. Pinten: el mástil en azul (se aplasta), las sogas en rojo (se estiran) y las estacas en verde (se doblan al pasar la fuerza al suelo).
 2. Dibujen el mismo mástil sostenido con puntales. ¿De qué color van los puntales? ¿Y la parte del mástil que queda arriba de los puntales, sin sostener?
 3. Dibujen el mástil enterrado. Si está quieto, trabaja en compresión; cuando sopla el viento, pasa a trabajar en flexión. Píntenlo de los dos colores.
@@ -151,11 +151,11 @@ Después de conocer las cuatro fuerzas y los triángulos, toca hacer de detectiv
 6. Busquen las partes verdes (las que se doblan): suelen ser las más delicadas. ¿Cómo se podrían reforzar?
 7. Si es una construcción real, revisen esas partes con un dirigente.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte de la construcción les parece más débil después del análisis?
 - ¿Cómo cambiarían el diseño?
 
-## Notas para educadores
+## Notas para el educador
 - Un tronco entero, sin cepillar, es muy resistente a la flexión: así es como el árbol aguanta el viento.
 - Es la tercera ficha de la serie de «ingeniería para scouts», después de «Las Cuatro Fuerzas» y «Triángulos que No se Caen».
 

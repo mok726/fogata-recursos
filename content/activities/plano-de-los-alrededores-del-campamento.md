@@ -135,14 +135,14 @@ rama_rovers:
 
 # Plano de los Alrededores del Campamento
 
-## De qué se trata
+## Resumen
 Lo primero que conviene hacer al llegar a un campamento es conocer el lugar. Cada patrulla recibe una hoja grande y tiene que dibujar el plano de los alrededores, hasta una distancia fija (por ejemplo, 500 metros o 1 km). El guía organiza a la patrulla: manda a cada uno o a cada pareja en una dirección para medir y anotar caminos, arroyos, alambrados, casas y otros detalles. Después, con todo lo que trajeron, el guía arma el plano final.
 
 ## Preparación
 1. Fijá el radio del plano según la edad y el lugar (con Scouts, 500 metros alcanza).
 2. Avisá qué cosas no pueden faltar: caminos, agua, alambrados, casas, el lugar de cada carpa.
 
-## Cómo se juega
+## Desarrollo
 1. En patrulla, decidan quién va hacia cada dirección. Siempre de a dos.
 2. Salgan con la brújula, papel y lápiz. Cuenten los pasos para medir distancias.
 3. Anoten todo lo importante que encuentren y hacia dónde queda.
@@ -150,16 +150,16 @@ Lo primero que conviene hacer al llegar a un campamento es conocer el lugar. Cad
 5. El guía, con ayuda de todos, dibuja el plano en la hoja grande, con el norte arriba y una escala.
 6. Entreguen el plano. Gana el más completo y prolijo, y si empatan, el que llegó primero.
 
-## Reglas
+### Reglas
 - Nadie va solo.
 - No se sale del radio acordado.
 - No se entra a campos ni casas sin permiso.
 
-## Para cerrar
+## Cierre
 - ¿Qué descubrieron del lugar que no sabían?
 - Dejen el plano a la vista en el campamento: ¿para qué les puede servir los próximos días?
 
-## Notas para educadores
+## Notas para el educador
 - El plano ganador puede quedar colgado en el campamento como plano oficial.
 - Antes de jugar, sirve la ficha «Croquis con Signos Convencionales».
 

@@ -130,7 +130,7 @@ rama_rovers:
 
 # El Viajero Dibujante
 
-## De qué se trata
+## Resumen
 Primero se repasan los signos convencionales que se usan en los croquis (camino, sendero, arroyo, puente, casa, monte, alambrado). Después, cada uno marca una cruz abajo a la izquierda de su hoja: ahí arranca el viajero. El dirigente dicta el viaje en tramos rectos: «Sale hacia el noreste, 500 metros por un camino de tierra. Cruza un arroyo por un puente. A la izquierda hay una casa…». Cada uno lo va dibujando con los signos. Al final se compara con el croquis del dirigente.
 
 ## Preparación
@@ -138,7 +138,7 @@ Primero se repasan los signos convencionales que se usan en los croquis (camino,
 2. Fijá una escala sencilla, por ejemplo 1 cm = 100 metros.
 3. Tené a mano una lámina con los signos para repasar.
 
-## Cómo se juega
+## Desarrollo
 1. Repasen juntos los signos convencionales de la lámina.
 2. Marcá una cruz en la esquina de abajo a la izquierda de tu hoja: es el punto de salida. El norte queda para arriba.
 3. Escuchá cada tramo: rumbo, distancia y qué hay en el camino.
@@ -152,11 +152,11 @@ Cada uno inventa el viaje de Pedro, un aventurero que sueña con recorrer un lug
 ### Variante: El topógrafo
 Además del croquis, cada jugador sigue el recorrido sobre un mapa real de la zona, así ve cómo se ve lo mismo en las dos escalas.
 
-## Para cerrar
+## Cierre
 - ¿Qué signos se confundieron?
 - ¿Se parecen los croquis entre sí? ¿Por qué cada uno quedó distinto?
 
-## Notas para educadores
+## Notas para el educador
 - Antes de jugar, sirve ver la ficha «Croquis con Signos Convencionales» de esta misma insignia.
 
 ---

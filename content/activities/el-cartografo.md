@@ -131,14 +131,14 @@ rama_rovers:
 
 # El Cartógrafo
 
-## De qué se trata
+## Resumen
 El dirigente dibuja en el pizarrón varios signos de los que aparecen en el mapa (un puente, una capilla, un molino, un cruce de vías) y explica qué es cada uno. Mientras tanto, el mapa queda cerrado. Después, cada jugador abre su mapa y tiene que trazar un recorrido continuo, saliendo de un punto fijo, que pase por un lugar con cada signo. Gana el recorrido más corto.
 
 ## Preparación
 1. Elegí cinco o seis signos que aparezcan varias veces en el mapa, así hay que elegir cuál conviene.
 2. Buscá vos primero el recorrido más corto, para tener con qué comparar.
 
-## Cómo se juega
+## Desarrollo
 1. Con los mapas cerrados, miren el pizarrón: el dirigente dibuja cada signo y dice qué es.
 2. Cuando dice «¡Abran!», abran el mapa y busquen dónde aparece cada signo.
 3. Pensá qué combinación de lugares te deja el camino más corto. No hace falta seguir el orden del pizarrón.
@@ -146,11 +146,11 @@ El dirigente dibuja en el pizarrón varios signos de los que aparecen en el mapa
 5. Al terminar el tiempo, se mide cada recorrido con la escala.
 6. Gana el más corto. Si a alguien le falta un signo, ese recorrido no vale.
 
-## Para cerrar
+## Cierre
 - ¿Alguien encontró un atajo que nadie vio?
 - ¿Siempre el camino más corto es el mejor para caminar? ¿Qué más hay que tener en cuenta?
 
-## Notas para educadores
+## Notas para el educador
 - En Argentina, las cartas topográficas del Instituto Geográfico Nacional (IGN) se pueden ver y bajar gratis desde su sitio. Para empezar, un plano del barrio o una captura impresa de un mapa en línea también sirve.
 - Buen momento para repasar los signos convencionales antes de una salida.
 

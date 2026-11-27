@@ -146,7 +146,7 @@ rama_rovers:
 
 # Travesía de Incidentes
 
-## De qué se trata
+## Resumen
 La patrulla recorre un camino (en el monte, en el campamento o en el barrio) y en cada base se encuentra con un problema que tiene que resolver con el equipo de pionerismo que lleva o que encuentra ahí. Para que haya variedad, conviene tener incidentes de cuatro tipos: mover un objeto, cruzar un obstáculo alto, trasladar a un herido y cruzar un obstáculo a lo ancho.
 
 ## Preparación
@@ -155,7 +155,7 @@ La patrulla recorre un camino (en el monte, en el campamento o en el barrio) y e
 3. Probá cada incidente: tiene que ser un desafío, pero que se pueda resolver con el equipo disponible.
 4. Decidí si la patrulla lleva su equipo (un bastón y una soga por scout) o si lo encuentra en cada base.
 
-## Cómo se juega
+## Desarrollo
 1. Cada patrulla sale con su equipo y la tarjeta de la primera base.
 2. En cada base, lean la tarjeta: cuenta qué pasó y qué tienen que lograr.
 3. Mover un objeto: por ejemplo, sacar un balde del medio de una zona prohibida sin pisarla, o llevar un tronco por un camino de obstáculos usando solo sogas.
@@ -165,16 +165,16 @@ La patrulla recorre un camino (en el monte, en el campamento o en el barrio) y e
 7. Antes de seguir, desarmen todo y dejen la base como la encontraron.
 8. Al final, cada patrulla cuenta cómo resolvió cada incidente.
 
-## Reglas
+### Reglas
 - Nadie se sube a nada a más de un metro de altura.
 - En el incidente del herido solo se simula el traslado: nada de tratamientos.
 - Si un incidente parece peligroso, se para y se consulta al dirigente de la base.
 
-## Para cerrar
+## Cierre
 - ¿Qué incidente fue el más difícil? ¿Cómo se organizaron?
 - ¿Hubo alguna solución que nadie esperaba?
 
-## Notas para educadores
+## Notas para el educador
 - El blog cuenta que la «travesía de incidentes» es parte de la progresión de los scouts de Sudáfrica. Se adapta muy bien a cualquier progresión de Scouts y Caminantes.
 - Un desafío imposible desmoraliza. Pero cada tanto una patrulla sorprende con una solución que nadie había pensado: dejalos probar.
 - Si hay agua, chalecos salvavidas y un adulto en el agua. Recordá las normas de seguridad de tu organización scout nacional.

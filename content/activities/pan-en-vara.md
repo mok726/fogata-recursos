@@ -137,14 +137,14 @@ rama_rovers:
 
 # Pan en Vara
 
-## De qué se trata
+## Resumen
 Cada uno enrolla una tira de masa en la punta de una vara y la cocina dando vueltas sobre las brasas, como si fuera un chorizo. En diez minutos tenés un pan calentito. Es fácil, divertido y siempre sale: si queda medio crudo por dentro, se vuelve a las brasas.
 
 ## Preparación
 1. Prepará el fuego con tiempo: el pan se cocina sobre brasas, no sobre llamas.
 2. Juntá las varas de ramas caídas, o llevalas ya preparadas.
 
-## Cómo se hace
+## Desarrollo
 1. Lavate bien las manos.
 2. En el bol, mezclá la levadura con el azúcar y un poco del agua tibia. Esperá cinco minutos a que haga espuma.
 3. Agregá la harina, la sal, el aceite y el resto del agua de a poco. Mezclá con la mano hasta que se forme una masa.
@@ -157,7 +157,7 @@ Cada uno enrolla una tira de masa en la punta de una vara y la cocina dando vuel
 10. Cuando está dorada y suena hueca al golpearla, está lista. Sacala de la vara con cuidado: ¡quema!
 11. Si querés, rellená el hueco con dulce de leche.
 
-## Reglas
+### Reglas
 - Nadie mete la vara en las llamas: el pan va sobre brasas.
 - La vara se sostiene siempre apuntando al fuego, nunca hacia otra persona.
 
@@ -167,11 +167,11 @@ Agregale a la masa orégano, queso rallado o pedacitos de cebolla de verdeo.
 ### Variante: Salchicha envuelta
 Primero se pincha una salchicha en la vara y la masa se enrolla alrededor.
 
-## Para cerrar
+## Cierre
 - ¿Por qué se cocina mejor sobre brasas que sobre llamas?
 - ¿Qué otra cosa se podría cocinar en una vara?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Antes de cocinar, preguntá por alergias, celiaquía, dietas y comidas que alguien no pueda comer por motivos de salud o religiosos.
 - Para celíacos, hay premezclas sin TACC que funcionan, aunque la masa es más frágil: conviene una tira más gruesa y cocinarla en una vara aparte.

@@ -137,27 +137,30 @@ rama_rovers:
 
 # Mesa Trabada con una Sola Soga
 
-## De qué se trata
+## Resumen
 En el campamento siempre hace falta una mesa. Esta tiene una gracia: no lleva amarres. Los palos se traban entre sí por el peso, y hay una sola soga que cruza por abajo de la tapa para que la mesa no se abra. Es un buen desafío de ingenio para la patrulla.
 
 ## Preparación
 1. Probá el armado vos primero.
 2. Dibujá un esquema simple para cada patrulla.
 
-## Cómo se arma
-1. Pongan cuatro palos paralelos en el piso, separados unos 40 cm.
-2. Átenlos entre sí con la soga, con un ballestrinque en cada palo, cerca de la mitad.
-3. Levanten los dos palos del medio y pasen dos palos atravesados: por abajo de los dos del medio y por arriba de los dos de afuera.
-4. Apoyen la tapa en el centro.
-5. Dos chicos levantan la mesa de los palos de afuera y la sostienen mientras los demás ponen las patas.
-6. Las patas van algo abiertas: así traban la tapa hacia abajo.
-7. Prueben la mesa con peso antes de usarla.
+## Desarrollo
+La mesa usa los ocho palos así: cuatro son las patas, que se cruzan en X, y los otros cuatro son los atravesados que sostienen la tapa. La única soga es el eje de la X.
 
-## Para cerrar
+1. Pongan cuatro palos paralelos en el piso, uno al lado del otro, separados unos 40 cm. Llamemos «de afuera» a los dos de los costados y «del medio» a los dos del centro.
+2. Átenlos entre sí con la soga, que cruza por arriba de los cuatro, en la mitad: hagan un ballestrinque en cada palo, justo en el medio, y dejen la soga bien tirante entre palo y palo. Las puntas que sobran se rematan con medios nudos.
+3. Ahora se paran las patas. Dos chicos levantan los dos palos de afuera por la punta que mira, por ejemplo, hacia el lado del fogón y, al mismo tiempo, otros dos levantan los dos palos del medio por la punta del lado contrario. Los palos giran alrededor de la soga y, mirados de costado, forman una X: los de afuera se inclinan hacia un lado y los del medio hacia el otro. La soga queda en el cruce, por abajo de donde va a ir la tapa.
+4. Apoyen los pies en el suelo y abran las patas hasta que formen más o menos un ángulo recto entre sí (cada palo inclinado unos 45 grados). Arriba del cruce queda una V larga, formada por las puntas de arriba de los cuatro palos.
+5. Mientras los chicos sostienen las patas, los demás apoyan dos palos atravesados adentro de esa V, de costado a costado de la mesa, encima de los cuatro palos, uno al lado del otro y bien al fondo de la V.
+6. Encima de esos dos, apoyen los otros dos palos atravesados, también adentro de la V, más separados. Así se forma una cama de cuatro palos.
+7. Apoyen la tapa sobre esa cama. El peso de la tapa empuja los atravesados hacia el fondo de la V y los deja trabados entre las puntas de los cuatro palos; la soga del cruce no deja que las patas se separen ni que se abran de costado. Recién ahí los chicos sueltan las patas, despacio.
+8. Prueben la mesa con peso antes de usarla. Si se abre o se ladea, ajusten la soga y prueben con las patas un poco más o menos abiertas.
+
+## Cierre
 - ¿Qué hace la única soga? ¿Qué pasaría si no estuviera?
 - ¿Qué otras construcciones se les ocurren con palos trabados?
 
-## Notas para educadores
+## Notas para el educador
 - El autor del blog vio esta mesa en una competencia de balsas en Sudáfrica y la reconstruyó a partir de una foto: no hay una única forma correcta. Dejá que la patrulla pruebe.
 - Para una mesa con amarres, ver «Mesa de Patrulla con Amarre Continuo» en esta misma insignia.
 - Antes de cualquier construcción: revisá sogas y palos (sin rajaduras ni partes podridas), guantes para los que tiran de sogas, y nadie se sube a nada hasta que un dirigente lo revise.

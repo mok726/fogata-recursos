@@ -140,31 +140,34 @@ rama_rovers:
 
 # Amarre Redondo contra Amarre Alemán
 
-## De qué se trata
-Para alargar un palo hay que unir dos, encimados, con un amarre redondo. Hay una variante, el amarre alemán, que algunos dicen que queda más firme. Lo comprobamos como científicos: cada patrulla hace una viga con cada amarre, se las apoya en dos tambores y se les pone peso en el medio. Además, cada uno dice cuál le resultó más fácil.
+## Resumen
+Para alargar un palo hay que unir dos, encimados, con un amarre redondo. Hay una variante, el amarre alemán, que algunos dicen que queda más firme. Lo comprobamos como científicos: cada patrulla hace una viga con cada amarre, se las apoya entre dos apoyos (dos tambores, cajones o troncos de la misma altura) y se les pone peso en el medio. Además, cada uno dice cuál le resultó más fácil.
 
 ## Preparación
-1. Aprendé las dos variantes y enseñáselas a los guías.
-2. Prepará el lugar de prueba: dos apoyos a la misma altura.
+1. Aprendé las dos variantes y enseñáselas a los guías. En las dos, los palos se ponen encimados, uno al lado del otro, de modo que se toquen en un tramo de por lo menos 1 metro. En cada viga se hacen dos amarres, uno cerca de cada punta del tramo encimado.
+   - **Amarre redondo:** se empieza con un ballestrinque que agarra los dos palos juntos. Después se dan ocho a diez vueltas apretadas alrededor de los dos palos, una al lado de la otra, sin encimarse, avanzando a lo largo de los palos. Se termina con otro ballestrinque alrededor de los dos palos. No lleva vueltas de ajuste, porque entre los dos palos no queda hueco para pasarlas.
+   - **Amarre alemán:** no empieza con un ballestrinque. Se dobla la punta de la soga formando un lazo largo (de unos 30 cm) y se lo apoya a lo largo de los palos, con la curva del lazo hacia donde va a terminar el amarre. Después se dan las vueltas alrededor de los dos palos y del lazo, apretadas y una al lado de la otra, avanzando hacia la curva. Al terminar las vueltas, se pasa la soga por adentro del lazo y se tira de la punta que quedó asomando al principio: el lazo se mete debajo de las vueltas y deja la soga trabada adentro, sin nudo por fuera.
+   - **La diferencia:** el redondo se sostiene con dos ballestrinques a la vista; el alemán no tiene nudos por fuera, porque las mismas vueltas aprietan y traban las dos puntas de la soga.
+2. Prepará el lugar de prueba: dos apoyos de la misma altura (dos tambores, dos cajones o dos troncos), separados de modo que cada viga apoye sus dos puntas, una en cada uno.
 
-## Cómo se hace
+## Desarrollo
 1. Cada patrulla hace dos vigas: dos palos encimados unidos con amarre redondo, y otros dos unidos con amarre alemán.
 2. Antes de probar, anoten: ¿cuál creen que va a aguantar más?
-3. Apoyen la primera viga sobre los dos tambores, con la unión en el medio.
+3. Apoyen la primera viga sobre los dos apoyos, una punta en cada uno, con la unión en el medio.
 4. Pongan peso en el medio, de a poco: una mochila, otra, otra. Miren cuánto se dobla o si la unión resbala.
 5. Repitan con la otra viga.
 6. Anoten los resultados y cuál fue más fácil de atar.
 7. Comparen con las demás patrullas. ¿Ganó siempre el mismo?
 
-## Reglas
+### Reglas
 - Nadie se sube a las vigas: el peso se pone con mochilas o bolsas.
 - Todos lejos de la viga mientras se carga.
 
-## Para cerrar
+## Cierre
 - ¿El resultado dependió del amarre o de quién lo ató?
 - ¿Qué harían para que la prueba fuera más justa?
 
-## Notas para educadores
+## Notas para el educador
 - En la prueba del blog, en dos de cuatro patrullas aguantó más el redondo, en una el alemán y en otra empataron; y a todos les resultó más fácil el redondo. Puede cambiar con más práctica.
 - Un truco de la patrulla que mejor hizo el alemán: apoyar el lazo inicial sobre uno de los palos y no en el hueco entre los dos, así se traba mientras se dan las vueltas.
 

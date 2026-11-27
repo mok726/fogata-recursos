@@ -132,7 +132,7 @@ rama_rovers:
 
 # Itinerario de Ángulos
 
-## De qué se trata
+## Resumen
 Es como tirar rumbos con la brújula, pero sobre el mapa y sin moverse de la mesa. El dirigente da un punto de partida y después una serie de tramos: «rumbo 40 grados, 200 metros», «rumbo 90, 150 metros». Con el transportador y la regla, cada jugador va pinchando un alfiler al final de cada tramo. Si todo salió bien, el último alfiler cae justo en la meta.
 
 ## Preparación
@@ -140,11 +140,11 @@ Es como tirar rumbos con la brújula, pero sobre el mapa y sin moverse de la mes
 2. Armá un recorrido de cinco o seis tramos que termine en algo fácil de reconocer: un cruce de caminos, una casa sola, la punta de un monte.
 3. Medí con cuidado los rumbos y las distancias en tu mapa y anotalos.
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno tapa su mapa con una cartulina para que los vecinos no vean.
 2. El dirigente dice el punto de partida. Clavá el primer alfiler ahí.
 3. Escuchá el primer tramo: un rumbo en grados y una distancia.
-4. Apoyá el transportador en el alfiler, con el 0 hacia el norte del mapa, y buscá el ángulo.
+4. Apoyá el centro del transportador en el alfiler, con el 0 hacia el norte del mapa (casi siempre, el borde de arriba de la hoja), y buscá el ángulo. El rumbo se cuenta siempre desde el norte y en el sentido de las agujas del reloj: 90 es el este, 180 el sur y 270 el oeste. Lo más cómodo es un transportador de vuelta entera, de 0 a 360 grados. Si tenés uno común de media vuelta (de 0 a 180), para los rumbos de más de 180 grados dalo vuelta con el 0 hacia el sur, restale 180 al rumbo y medí ese ángulo desde el sur, siguiendo también el sentido de las agujas del reloj. Por ejemplo, para el rumbo 250 medís 70 grados desde el sur, hacia el oeste.
 5. Con la regla y la escala del mapa, medí la distancia en esa dirección y clavá otro alfiler.
 6. Repetí con cada tramo. Cuando el dirigente dice «¡Meta!», se destapan los mapas.
 7. Se compara dónde quedó el último alfiler de cada uno. Cada tramo mal marcado es un punto en contra.
@@ -155,11 +155,11 @@ En lugar de dar todos los tramos en grados, el dirigente mezcla rumbos con pista
 ### Variante: Con errores a propósito
 El dirigente mete, sin avisar, un tramo imposible (por ejemplo, uno que cruza un lago sin puente). El primero que grita «¡Error!» y explica por qué, se lleva dos puntos a favor.
 
-## Para cerrar
+## Cierre
 - ¿En qué parte es más fácil equivocarse: el ángulo o la distancia?
 - ¿Qué pasa con el resultado final si te equivocás en el primer tramo?
 
-## Notas para educadores
+## Notas para el educador
 - En Argentina, las cartas topográficas del Instituto Geográfico Nacional (IGN) se pueden ver y bajar gratis desde su sitio. Para empezar, un plano del barrio o una captura impresa de un mapa en línea también sirve.
 - Conviene haber practicado antes con el transportador y la escala. Si es la primera vez, usen rumbos redondos (N, E, S, O) y distancias en cuadras.
 

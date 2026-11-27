@@ -30,6 +30,7 @@ age_group:
 materials:
   - "Ocho sillas (o aros, o mantas)"
   - "Carteles con los rumbos"
+  - "Pañuelos o cintas de dos a cuatro colores para distinguir los equipos"
 tools: []
 responsible:
   - "Scouter"
@@ -131,29 +132,31 @@ rama_rovers:
 
 # La Rosa de las Sillas
 
-## De qué se trata
-Se ponen ocho sillas en un círculo grande, cada una en un rumbo con su cartel. Los jugadores, en fila detrás del dirigente, corren alrededor del círculo por afuera. De repente el dirigente grita un rumbo y todos corren a esa silla. El primero que llega se sienta. Si se repite un rumbo, el que llega se para detrás de la silla con las manos en los hombros del que está sentado. Gana el equipo que primero ubica a todos sus integrantes.
+## Resumen
+Se ponen ocho sillas en un círculo grande, cada una en un rumbo con su cartel. Los jugadores se dividen en equipos y, todos mezclados en una fila detrás del dirigente, corren alrededor del círculo por afuera. De repente el dirigente grita un rumbo y todos corren a esa silla. Solo el primero que llega queda ubicado: se sienta en la silla o, si ya está ocupada, se para detrás. Los demás vuelven a la fila. Gana el equipo que primero ubica a todos sus integrantes.
 
 ## Preparación
 1. Con una brújula, ubicá cada silla en su rumbo real, bien separadas, mirando hacia afuera.
 2. Pegale a cada silla un cartel con su rumbo.
 
-## Cómo se juega
-1. Formen una fila detrás del dirigente.
-2. Corran alrededor del círculo, por afuera, siguiéndolo.
-3. Cuando el dirigente grita un rumbo, corran a esa silla.
-4. El primero en llegar se sienta. Si la silla ya está ocupada, te parás detrás con las manos en los hombros del sentado.
-5. Una vez ubicado, no te movés más. El que se levanta, sale del juego.
-6. Gana el equipo que primero tiene a todos sus integrantes ubicados.
+## Desarrollo
+1. Se arman de dos a cuatro equipos con la misma cantidad de jugadores (pueden ser las patrullas). Cada equipo se pone un pañuelo o una cinta de su color, para que se vea de qué equipo es cada uno.
+2. Todos forman una sola fila detrás del dirigente, con los equipos mezclados.
+3. Corren alrededor del círculo, por afuera, siguiéndolo.
+4. Cuando el dirigente grita un rumbo, todos corren a esa silla.
+5. Solo el primero en llegar queda ubicado. Si la silla está libre, se sienta. Si ya está ocupada, se para detrás con las manos en los hombros del sentado; si ya hay alguien parado, se pone detrás de ese, con las manos en sus hombros, y así se va formando una columna.
+6. Los que no llegaron primero vuelven enseguida a la fila detrás del dirigente, que sigue corriendo y grita otro rumbo. Así, en cada grito se ubica un jugador.
+7. Una vez ubicado, no te movés más. El que se levanta o se suelta, sale del juego, y su equipo sigue con uno menos.
+8. La ronda termina cuando un equipo tiene a todos sus integrantes ubicados. Ese equipo gana. Después todos vuelven a la fila y se juega otra ronda.
 
-## Reglas
+### Reglas
 - No se pelea por la silla: el primero que llega, se queda.
 - Nadie se sienta encima de otro.
 
 ### Variante: Sin carteles
 Se sacan los carteles: hay que saber qué silla es cada rumbo por su ubicación.
 
-## Para cerrar
+## Cierre
 - ¿Qué rumbos se repitieron más? ¿Se los aprendieron?
 
 ---

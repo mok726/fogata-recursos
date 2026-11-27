@@ -137,33 +137,36 @@ rama_rovers:
 
 # Inspectores de Amarres
 
-## De qué se trata
+## Resumen
 Un amarre cuadrado no es solo «ballestrinque, tres vueltas, tres vueltas de ajuste y ballestrinque». Hay detalles que lo hacen más seguro. Esta lista de control de siete puntos es la que usan los guías de patrulla para revisar cada amarre. Primero cada patrulla hace amarres; después las patrullas se cambian y revisan los de otra, como inspectores de obra.
 
 ## Preparación
 1. Copiá la planilla con los siete puntos para cada patrulla.
 2. Repasá antes con todos el amarre cuadrado.
 
-## Cómo se juega
+## Desarrollo
 1. Cada patrulla hace tres o cuatro amarres cuadrados, numerados.
 2. Las patrullas se cambian de lugar: ahora son inspectores.
-3. Para cada amarre, revisen punto por punto: 1) ¿Empieza en el lugar correcto? En una torre, el ballestrinque de arranque va en el palo vertical, abajo del horizontal.
-4. 2) ¿La punta del ballestrinque está retorcida con la soga, para que quede guardada y trabada?
-5. 3) ¿Tiene tres vueltas, prolijas y sin cruzarse?
-6. 4) ¿Tiene tres vueltas de ajuste, sin cruzarse?
-7. 5) ¿Está firme? Si empujás las vueltas de ajuste con un dedo, no se tienen que mover.
-8. 6) ¿Termina con un ballestrinque en el otro palo, en el lugar correcto?
-9. 7) ¿La soga que sobra está rematada con medios nudos alrededor del palo?
-10. Anoten en la planilla. Devuelvan los amarres a su patrulla con las correcciones.
+3. Para cada amarre, revisen uno por uno los siete puntos de la lista de control que está más abajo.
+4. Anoten en la planilla qué puntos cumple y cuáles no. Devuelvan los amarres a su patrulla con las correcciones.
 
-## Reglas
+**Lista de control de siete puntos:**
+- **Punto 1:** ¿Empieza en el lugar correcto? En una torre, el ballestrinque de arranque va en el palo vertical, abajo del horizontal.
+- **Punto 2:** ¿La punta del ballestrinque está retorcida con la soga, para que quede guardada y trabada?
+- **Punto 3:** ¿Tiene tres vueltas, prolijas y sin cruzarse?
+- **Punto 4:** ¿Tiene tres vueltas de ajuste, sin cruzarse?
+- **Punto 5:** ¿Está firme? Si empujás las vueltas de ajuste con un dedo, no se tienen que mover.
+- **Punto 6:** ¿Termina con un ballestrinque en el otro palo, en el lugar correcto?
+- **Punto 7:** ¿La soga que sobra está rematada con medios nudos alrededor del palo?
+
+### Reglas
 - Los inspectores corrigen con respeto: explican qué está mal y cómo arreglarlo.
 
-## Para cerrar
+## Cierre
 - ¿Qué punto de la lista fallaba más?
 - ¿Por qué importa que todos los amarres arranquen y terminen igual?
 
-## Notas para educadores
+## Notas para el educador
 - Estas pautas salen de las planillas de puntaje de competencias de pionerismo, pero no son para competir: hacen que el amarre sea más seguro y más fácil de revisar y de desatar.
 - Para aprender el amarre, ver «Amarre Cuadrado y Amarre Japonés» de esta misma insignia.
 

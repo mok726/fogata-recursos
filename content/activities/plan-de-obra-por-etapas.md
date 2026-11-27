@@ -139,10 +139,10 @@ rama_rovers:
 
 # Plan de Obra por Etapas
 
-## De qué se trata
+## Resumen
 Una buena planificación hace que una construcción salga sin problemas. Además de la maqueta, el dibujo y la lista de materiales, sirve un dibujo de la secuencia de obra: como los instructivos de los juguetes de bloques, donde cada dibujo muestra un paso. Así la patrulla descubre qué partes se pueden hacer al mismo tiempo, cuánta gente necesita cada tarea y qué tiene que esperar a que otra cosa esté terminada.
 
-## Cómo se hace
+## Desarrollo
 1. Elijan la construcción que van a hacer (un portal, una balsa, un mangrullo).
 2. Hagan la lista de todas las partes: torres, puentes, escaleras, plataformas.
 3. Dibujen la obra en cuadritos, un paso por cuadrito, como un instructivo. El primer paso siempre es medir y marcar el terreno.
@@ -152,11 +152,11 @@ Una buena planificación hace que una construcción salga sin problemas. Además
 7. Repartan las tareas en la patrulla según el plan.
 8. Después de construir, revisen: ¿el plan se cumplió? ¿Qué cambiarían?
 
-## Para cerrar
+## Cierre
 - ¿Cuánto tiempo se ahorra trabajando en paralelo?
 - ¿Qué pasó en la obra que no estaba en el plan?
 
-## Notas para educadores
+## Notas para el educador
 - Se puede hacer a mano o en un programa de dibujo 3D. A mano alcanza y sobra.
 
 ---

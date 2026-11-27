@@ -131,14 +131,14 @@ rama_rovers:
 
 # Carrera de Localización
 
-## De qué se trata
-Es una búsqueda del tesoro, pero dentro del mapa. El dirigente va diciendo cosas para encontrar: algunas por su signo («un molino»), otras por su ubicación («un punto a 30 grados al norte del pueblo») y otras para buscar en todo el mapa («la cota más alta»). Cada uno pincha un alfiler en cada respuesta. Al principio hay tiempo para pensar, pero después las consignas vienen cada vez más rápido.
+## Resumen
+Es una búsqueda del tesoro, pero dentro del mapa. El dirigente va diciendo cosas para encontrar: algunas por su signo («un molino»), otras por su ubicación («el punto que está a 2 km del pueblo, con rumbo 30°», es decir, 30 grados contados desde el norte en el sentido de las agujas del reloj) y otras para buscar en todo el mapa («la cota más alta»). Cada uno pincha un alfiler en cada respuesta. Al principio hay tiempo para pensar, pero después las consignas vienen cada vez más rápido.
 
 ## Preparación
 1. Prepará una lista de doce a quince cosas para encontrar en el mapa, de distintos tipos: por signo, por rumbo y distancia, por altura.
 2. Ordenalas de más fácil a más difícil.
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno tiene su mapa tapado con una cartulina para que nadie copie.
 2. El dirigente dice la primera consigna. Buscala en el mapa y clavá un alfiler.
 3. Viene la siguiente, y la siguiente. Cada vez hay menos tiempo entre una y otra.
@@ -149,11 +149,11 @@ Es una búsqueda del tesoro, pero dentro del mapa. El dirigente va diciendo cosa
 ### Variante: Por patrullas
 Un mapa por patrulla: se reparten las consignas entre todos y alguien coordina.
 
-## Para cerrar
+## Cierre
 - ¿Qué signos del mapa no conocían?
 - ¿Cómo se organizaron cuando las consignas venían rápido?
 
-## Notas para educadores
+## Notas para el educador
 - En Argentina, las cartas topográficas del Instituto Geográfico Nacional (IGN) se pueden ver y bajar gratis desde su sitio. Para empezar, un plano del barrio o una captura impresa de un mapa en línea también sirve.
 
 ---

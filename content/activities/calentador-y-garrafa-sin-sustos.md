@@ -137,10 +137,10 @@ rama_rovers:
 
 # Calentador y Garrafa sin Sustos
 
-## De qué se trata
+## Resumen
 En muchos campamentos se cocina con calentadores de garrafa, porque no se puede hacer fuego o porque es más práctico. Son seguros si se usan bien, pero un descuido puede terminar en un accidente. En esta actividad, un dirigente con experiencia muestra cómo se conecta, cómo se buscan pérdidas y cómo se apaga; después cada patrulla lo hace con supervisión, y se repasa qué hacer si algo sale mal.
 
-## Cómo se hace
+## Desarrollo
 1. Elijan el lugar: al aire libre o en un lugar con mucha ventilación, sobre una superficie firme y pareja, lejos de carpas, telas y pasto seco. Nunca adentro de una carpa.
 2. Revisen la garrafa: que no esté golpeada ni oxidada, que tenga la válvula sana y que sea del tamaño del calentador.
 3. Revisen la manguera, si tiene: sin cortes, sin estar reseca y bien ajustada con abrazaderas.
@@ -151,16 +151,16 @@ En muchos campamentos se cocina con calentadores de garrafa, porque no se puede 
 8. Para apagar: primero se cierra la garrafa y se deja que la llama se apague sola; después, la perilla.
 9. Repasen qué hacer si algo sale mal: si hay olor a gas, no se prende nada y se cierra la garrafa; si se prende algo, se usa el extintor o la arena, y se avisa a un adulto.
 
-## Reglas
+### Reglas
 - El calentador lo usa solo quien ya lo aprendió, con un adulto cerca.
 - Nunca adentro de una carpa, ni para calentarse.
 - Las garrafas se guardan paradas, a la sombra y lejos del fuego.
 
-## Para cerrar
+## Cierre
 - ¿Qué paso del uso seguro se olvida más fácil?
 - ¿Cómo nos organizamos para que siempre haya alguien a cargo del calentador?
 
-## Notas para educadores
+## Notas para el educador
 - Un calentador o una estufa en un lugar cerrado puede producir monóxido de carbono, un gas sin olor que puede matar. Nunca se usan dentro de la carpa.
 - Seguí siempre las instrucciones del fabricante y las normas de tu organización scout nacional sobre el uso de gas.
 

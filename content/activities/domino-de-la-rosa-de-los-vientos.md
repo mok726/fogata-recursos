@@ -131,14 +131,14 @@ rama_rovers:
 
 # Dominó de la Rosa de los Vientos
 
-## De qué se trata
+## Resumen
 Es un juego para aprenderse la rosa de los vientos de memoria. Cada jugador tiene una rosa dibujada pero sin las letras, y solo se sabe dónde está el norte. Se dictan seis rumbos y cada uno pone una ficha en cada punto que cree que corresponde, tapando su rosa para que nadie copie. Después se destapan y se corrige.
 
 ## Preparación
 1. Dibujá (o imprimí) una rosa de los vientos de 16 puntas por jugador, con una flechita en el norte y sin ninguna otra letra.
 2. Prepará varias tandas de seis rumbos, de más fáciles a más difíciles (por ejemplo: N, E, SO, NE, SSE, ONO).
 
-## Cómo se juega
+## Desarrollo
 1. Cada uno se sienta con su rosa adelante y la tapa con la otra cartulina, como si fuera una pared.
 2. Escuchá los seis rumbos que dicta el dirigente. Se dicen una sola vez, despacio.
 3. Detrás de tu pared, poné una ficha sobre cada punta de la rosa que corresponda a cada rumbo.
@@ -152,10 +152,10 @@ Para los que ya la tienen clara: el dirigente dicta los rumbos cada vez más rá
 ### Variante: En patrulla
 Una rosa grande por patrulla dibujada en un afiche: tienen que ponerse de acuerdo en voz baja antes de poner cada ficha.
 
-## Para cerrar
+## Cierre
 - ¿Qué rumbos les costaron más? ¿Encontraron algún truco para acordarse (por ejemplo, que el NE está justo entre el N y el E)?
 
-## Notas para educadores
+## Notas para el educador
 - Para Manada alcanza con 8 puntas (N, NE, E, SE, S, SO, O, NO). Las de 16 son para Scouts en adelante.
 
 ---

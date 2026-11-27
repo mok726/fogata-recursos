@@ -139,7 +139,7 @@ rama_rovers:
 
 # Concurso de Cocina de Patrullas
 
-## De qué se trata
+## Resumen
 Un clásico de los campamentos. Cada patrulla recibe los mismos ingredientes, o una caja sorpresa con algunos obligatorios, y tiene que cocinar un plato completo en el fogón o con su calentador. Un jurado de dirigentes (o de invitados, como las familias en un día de visita) prueba y puntúa. No gana solo el más rico: también cuentan la higiene, el orden, el trabajo en equipo y cómo quedó el lugar al terminar.
 
 ## Preparación
@@ -147,7 +147,7 @@ Un clásico de los campamentos. Cada patrulla recibe los mismos ingredientes, o 
 2. Armá la planilla de puntaje: sabor, presentación, higiene, orden de la cocina, trabajo en equipo y limpieza final.
 3. Avisá a las patrullas qué utensilios tienen que llevar.
 
-## Cómo se juega
+## Desarrollo
 1. Cada patrulla recibe sus ingredientes.
 2. Tienen media hora para planificar: qué van a cocinar, quién hace cada cosa y en qué orden.
 3. Se lavan las manos y arrancan a cocinar. Hay dos horas.
@@ -157,7 +157,7 @@ Un clásico de los campamentos. Cada patrulla recibe los mismos ingredientes, o 
 7. Antes de comer, cada patrulla deja su cocina limpia y ordenada: eso también suma puntos.
 8. Se anuncia la patrulla ganadora y ¡todos comen!
 
-## Reglas
+### Reglas
 - Nadie usa ingredientes que no estén en la caja, salvo sal, aceite y condimentos básicos.
 - Todos en la patrulla tienen una tarea.
 
@@ -167,11 +167,11 @@ Por ejemplo: «plato de nuestra región», «sin carne» o «con lo que sobró d
 ### Variante: Jurado de familias
 En un día de visita, las familias son el jurado.
 
-## Para cerrar
+## Cierre
 - ¿Cómo se repartieron las tareas? ¿Funcionó?
 - ¿Qué aprendieron de las otras patrullas?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Antes de cocinar, preguntá por alergias, celiaquía, dietas y comidas que alguien no pueda comer por motivos de salud o religiosos.
 - Que el jurado premie también la limpieza y el trabajo en equipo, no solo el sabor: así gana la patrulla que mejor se organiza.

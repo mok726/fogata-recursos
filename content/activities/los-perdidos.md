@@ -136,7 +136,7 @@ rama_rovers:
 
 # Los Perdidos
 
-## De qué se trata
+## Resumen
 Un dirigente lleva al grupo por un recorrido que da vueltas alrededor del campamento, para que nadie sepa bien dónde está. Cada tres o cuatro minutos se para y deja a una pareja: le da un mapa con el campamento y una zona marcada más o menos donde están. La pareja tiene que encontrar el punto exacto en el mapa, decidir hacia dónde está el campamento y volver lo más rápido posible.
 
 ## Preparación
@@ -144,7 +144,7 @@ Un dirigente lleva al grupo por un recorrido que da vueltas alrededor del campam
 2. Marcá en cada mapa la zona aproximada donde vas a soltar a cada pareja.
 3. Dejá un dirigente en el campamento con un reloj y una lista.
 
-## Cómo se juega
+## Desarrollo
 1. Caminen detrás del dirigente sin mirar el mapa. Traten de no fijarse en el camino: lo divertido es perderse.
 2. Cuando el dirigente para, se queda una pareja. Se anota la hora.
 3. Abran el mapa y busquen la zona marcada.
@@ -153,16 +153,16 @@ Un dirigente lleva al grupo por un recorrido que da vueltas alrededor del campam
 6. Vuelvan juntos, sin separarse.
 7. En el campamento se anota la hora. Gana la pareja que tardó menos.
 
-## Reglas
+### Reglas
 - La pareja no se separa nunca.
 - Si no saben dónde están, se quedan quietos y tocan el silbato: tres pitazos.
 - Hora límite de regreso para todos.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas del lugar les sirvieron para ubicarse en el mapa?
 - ¿Qué harían si se perdieran de verdad en una excursión?
 
-## Notas para educadores
+## Notas para el educador
 - La versión original propone llevar a los jugadores vendados. Acá se reemplaza por caminar dando vueltas: es más seguro y funciona igual.
 - Solo en un lugar conocido y cerrado, con dirigentes distribuidos y celulares cargados. Recorré la zona antes.
 

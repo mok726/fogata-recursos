@@ -139,13 +139,13 @@ rama_rovers:
 
 # ¿Dónde Está el Medio del Palo?
 
-## De qué se trata
+## Resumen
 Para armar un puente o un portal, muchas veces hay que saber dónde está el medio de un palo. Casi nunca hay un metro a mano. Hay varios trucos: con otro palo más corto, con una soga doblada, haciendo equilibrio sobre un tronquito o con dos compañeros alineados. Se prueban todos y se comparan.
 
-## Cómo se hace
-1. Con un palo corto: apoyalo junto al palo largo, con una punta pareja con una punta del largo, y marcá dónde termina.
-2. Dale vuelta al palo corto y hacé lo mismo desde la otra punta. Si las dos marcas coinciden, ¡ese es el medio!
-3. Si no coinciden, elegí un punto del palo corto que te parezca más cerca del medio y repetí desde las dos puntas, hasta que las marcas coincidan.
+## Desarrollo
+1. Con un palo corto (que mida más de la mitad del largo): apoyalo junto al palo largo, con una punta pareja con una punta del largo, y marcá en el palo largo dónde termina el corto.
+2. Pasá el palo corto a la otra punta del largo y hacé lo mismo: punta pareja con punta, y otra marca donde termina. Como el palo corto mide más de la mitad, las dos marcas se pasan del medio y quedan cerca una de la otra, una a cada lado del medio.
+3. El medio del palo largo es el punto que está justo entre las dos marcas. Como quedan cerca, ese punto se encuentra fácil: a ojo, con un palito o con un pedazo de cordel doblado por la mitad. Si por casualidad las dos marcas coinciden, ese mismo punto es el medio.
 4. Con una soga: medí el palo con la soga, doblala por la mitad y marcá.
 5. Con equilibrio: apoyá el palo sobre un tronquito redondo y movelo hasta que quede como un sube y baja. Si el palo es más grueso de un lado, el punto de equilibrio no es el medio. ¿Por qué será?
 6. Con dos compañeros: uno se para al costado de una punta, a un paso del palo, y otro al costado de la otra punta pero del otro lado. Un tercero camina a lo largo del palo hasta quedar en la línea entre los dos: ahí está el medio.
@@ -154,11 +154,11 @@ Para armar un puente o un portal, muchas veces hay que saber dónde está el med
 ### Variante: Carrera del medio
 Cada patrulla recibe un palo y un método al azar. Gana la que marca el medio más preciso en menos tiempo.
 
-## Para cerrar
+## Cierre
 - ¿Qué método usarían en un campamento? ¿Y si no tienen soga?
 - ¿Por qué el punto de equilibrio no siempre es el medio?
 
-## Notas para educadores
+## Notas para el educador
 - Saber más de una forma de hacer algo siempre sirve. Es una buena excusa para hablar de medir, equilibrio y centro de gravedad.
 - Varios de estos métodos los propusieron lectores del blog en una segunda entrada: «More methods for finding the middle of a pole» (2013).
 

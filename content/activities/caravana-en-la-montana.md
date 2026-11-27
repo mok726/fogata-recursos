@@ -133,7 +133,7 @@ rama_rovers:
 
 # Caravana en la Montaña
 
-## De qué se trata
+## Resumen
 El dirigente marca en un mapa de montaña dos puntos separados por 30 a 60 km. Cada equipo tiene que encontrar la ruta más rápida para una caravana a pie. Por las rutas se va rápido, pero dan muchas vueltas; por el monte se acorta, pero subir cuesta mucho. Con una tabla de velocidades por tipo de terreno, cada equipo calcula cuánto tardaría. Gana la ruta más rápida que además se pueda hacer de verdad.
 
 ## Preparación
@@ -141,7 +141,7 @@ El dirigente marca en un mapa de montaña dos puntos separados por 30 a 60 km. C
 2. Escribí en un afiche la tabla de velocidades: camino llano o con poca pendiente, 4 km por hora; sendero de montaña, 300 metros de subida por hora y 500 de bajada; monte sin sendero con pendiente suave, 2 km por hora; terreno muy empinado, 150 metros de subida por hora.
 3. Aclarale a todos: ríos y arroyos se cruzan solo por puentes o vados marcados.
 
-## Cómo se juega
+## Desarrollo
 1. Miren el mapa y ubiquen la salida y la llegada.
 2. Estudien las curvas de nivel: cuanto más juntas están, más empinado es.
 3. Propongan dos o tres rutas posibles y elijan una entre todos.
@@ -154,11 +154,11 @@ El dirigente marca en un mapa de montaña dos puntos separados por 30 a 60 km. C
 ### Variante: La caravana real
 Elijan la ruta ganadora de una zona cercana y planifiquen una travesía de verdad más corta, usando las mismas cuentas.
 
-## Para cerrar
+## Cierre
 - ¿Qué ruta parecía más corta en el mapa y resultó más lenta?
 - ¿Qué otras cosas hay que tener en cuenta en una travesía de verdad (agua, sombra, lugares para acampar, el clima)?
 
-## Notas para educadores
+## Notas para el educador
 - Las velocidades de la tabla son orientativas para un grupo con mochila. Pueden ajustarlas según el grupo.
 - Esta actividad prepara muy bien una travesía real. Para la travesía, recordá las normas de seguridad de tu organización scout nacional: aviso de ruta, adulto responsable y plan de emergencia.
 

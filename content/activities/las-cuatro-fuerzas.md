@@ -142,10 +142,10 @@ rama_rovers:
 
 # Las Cuatro Fuerzas
 
-## De qué se trata
+## Resumen
 Un puente tiene que aguantar a la gente que lo cruza, y una torre, al viento. Para construir bien, hay que saber qué le hace una carga a una estructura. Y solo puede hacerle cuatro cosas: aplastarla (compresión), estirarla (tracción), doblarla (flexión) o retorcerla (torsión). Con esponjas, palitos, elásticos y el propio cuerpo, descubrimos cada una y la buscamos en las construcciones del campamento.
 
-## Cómo se hace
+## Desarrollo
 1. Compresión: apretá una esponja entre las manos. Se aplasta. Así trabajan las patas de una mesa, el parante de una carpa o las patas de un trípode.
 2. Tracción: estirá un elástico. Se alarga. Así trabajan los vientos de una carpa o la soga de un tendedero.
 3. Flexión: apoyá una regla entre dos libros y apretá en el medio. Se dobla hacia abajo. Así trabajan los palos de un puente o el brazo de una catapulta.
@@ -154,11 +154,11 @@ Un puente tiene que aguantar a la gente que lo cruza, y una torre, al viento. Pa
 6. Miren las fotos de puentes, torres y carpas. Para cada parte, digan qué fuerza está soportando.
 7. Salgan a buscar en el campamento o en el barrio un ejemplo de cada fuerza.
 
-## Para cerrar
+## Cierre
 - ¿Qué fuerza es la más peligrosa para un palo de madera?
 - ¿Un mástil se dobla? (Sí: el viento lo empuja de costado.)
 
-## Notas para educadores
+## Notas para el educador
 - Esta es la primera de una serie de tres fichas de «ingeniería para scouts»: siguen «Triángulos que No se Caen» y «Detectives de Fuerzas».
 - Para profundizar, el blog recomienda un clásico de divulgación: *Por qué las cosas no se caen*, de J. E. Gordon.
 

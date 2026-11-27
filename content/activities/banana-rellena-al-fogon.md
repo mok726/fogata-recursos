@@ -135,10 +135,10 @@ rama_rovers:
 
 # Banana Rellena al Fogón
 
-## De qué se trata
+## Resumen
 Es el postre más fácil del campamento. Se le hace un corte a la banana a lo largo, sin pelarla, se rellena con chocolate y se pone sobre las brasas. La cáscara hace de olla. En unos minutos, el chocolate se derrite y la banana queda tibia y blandita. Se come con cuchara, directo de la cáscara.
 
-## Cómo se hace
+## Desarrollo
 1. Lavate las manos.
 2. Con el cuchillo, hacé un corte a lo largo de la banana, por el lado de adentro de la curva, sin llegar a cortar la cáscara de abajo.
 3. Abrí un poco el corte y meté trocitos de chocolate.
@@ -149,10 +149,10 @@ Es el postre más fácil del campamento. Se le hace un corte a la banana a lo la
 ### Variante: Otros rellenos
 Dulce de leche, coco rallado, nueces o un poquito de canela.
 
-## Para cerrar
+## Cierre
 - ¿Qué otro postre se les ocurre hacer en el fogón?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Antes de cocinar, preguntá por alergias, celiaquía, dietas y comidas que alguien no pueda comer por motivos de salud o religiosos.
 

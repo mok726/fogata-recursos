@@ -131,7 +131,7 @@ rama_rovers:
 
 # Escondite por Pasos y Rumbos
 
-## De qué se trata
+## Resumen
 El dirigente esconde un objeto y escribe cómo llegar desde la puerta: «5 pasos al norte, 3 al este, 4 al sudeste». Los jugadores entran de a uno con las instrucciones anotadas. El dirigente, parado en el medio, va diciendo «frío» cuando el jugador se aleja, pero nunca dice «caliente»: cuando se acerca, se queda callado.
 
 ## Preparación
@@ -139,7 +139,7 @@ El dirigente esconde un objeto y escribe cómo llegar desde la puerta: «5 pasos
 2. Escondé el objeto y, desde la puerta, contá los pasos de cada tramo. Anotá el recorrido.
 3. Medí tu paso y el de un chico: si hay mucha diferencia, dalo en baldosas o en metros.
 
-## Cómo se juega
+## Desarrollo
 1. Antes de entrar, copiá las instrucciones en tu papel.
 2. Entrá solo cuando te llamen. Los demás esperan afuera sin espiar.
 3. Parate en la puerta y ubicá el norte.
@@ -151,10 +151,10 @@ El dirigente esconde un objeto y escribe cómo llegar desde la puerta: «5 pasos
 ### Variante: Patrulla contra patrulla
 Cada patrulla esconde algo y le escribe las instrucciones a otra.
 
-## Para cerrar
+## Cierre
 - ¿Todos tenemos el mismo largo de paso? ¿Qué pasó con los más altos o los más bajitos?
 
-## Notas para educadores
+## Notas para el educador
 - Es un buen juego para la primera vez que se usa la brújula o los rumbos. Para Manada, usen solo N, S, E y O.
 
 ---

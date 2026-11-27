@@ -131,14 +131,14 @@ rama_rovers:
 
 # Kim del Mapa
 
-## De qué se trata
+## Resumen
 Es el clásico juego de Kim, pero en lugar de objetos sobre una mesa hay un pedazo de mapa. Cada uno lo mira durante un minuto. Después se tapa y hay que anotar todo lo que había: caminos, arroyos, casas, puentes, nombres, alturas.
 
 ## Preparación
 1. Recortá (o marcá) en el mapa un pedazo chico, de unos 2 x 2 km, con varias cosas para ver.
 2. Hacé tu propia lista de todo lo que aparece en ese pedazo.
 
-## Cómo se juega
+## Desarrollo
 1. Cuando el dirigente da la señal, miren el mapa sin anotar nada.
 2. Al minuto, se tapa el mapa.
 3. Cada uno escribe todo lo que recuerda: qué cosas había y, si se acuerdan, dónde estaban.
@@ -151,11 +151,11 @@ Para empezar, el dirigente pide que se fijen solo en una cosa: por ejemplo, cuá
 ### Variante: Dibujalo
 En lugar de una lista, cada uno dibuja de memoria el pedazo de mapa como croquis.
 
-## Para cerrar
+## Cierre
 - ¿Qué cosas recordaron todos? ¿Cuáles nadie?
 - ¿Les sirvió tener un método para mirar (de arriba abajo, siguiendo el arroyo)?
 
-## Notas para educadores
+## Notas para el educador
 - En Argentina, las cartas topográficas del Instituto Geográfico Nacional (IGN) se pueden ver y bajar gratis desde su sitio. Para empezar, un plano del barrio o una captura impresa de un mapa en línea también sirve.
 
 ---

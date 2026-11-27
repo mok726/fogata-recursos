@@ -138,28 +138,28 @@ rama_rovers:
 
 # Ajustar y Desatar Amarres: el Mazo y el Pasador
 
-## De qué se trata
-En construcciones grandes, con palos gruesos, las manos no alcanzan para dejar un amarre bien firme. El truco es usar el mango de un mazo de madera como palanca: la soga se traba en el mango con medio nudo y se tira hacia uno. Y al final del campamento, cuando los amarres se mojaron y se hincharon, un pasador ayuda a aflojar el ballestrinque sin cortar la soga.
+## Resumen
+En construcciones grandes, con palos gruesos, las manos no alcanzan para dejar un amarre bien firme. El truco es usar el mango de un mazo de madera como palanca: la soga se traba en el mango con un lazo (una vuelta de soga alrededor del mango que se aprieta sola; algunos lo llaman «medio nudo») y se tira hacia uno. Y al final del campamento, cuando los amarres se mojaron y se hincharon, un pasador ayuda a aflojar el ballestrinque sin cortar la soga.
 
-## Cómo se hace
-1. Para ajustar: retorcé la soga para hacer un lazo, con la punta libre mirando hacia vos.
-2. Meté el mango del mazo en el lazo. La punta libre tiene que quedar abajo, cerca de la cabeza del mazo, y la parte que va al amarre la traba.
-3. Agarrá el mango desde la punta y sostené ahí la soga, así queda trabada.
-4. Apoyá la cabeza del mazo en el palo y tirá el mango hacia vos: la soga se ajusta.
-5. Repetilo en cada vuelta del amarre y en cada media vuelta de ajuste.
+## Desarrollo
+1. Para ajustar: después de dar una vuelta del amarre, dejá salir la soga hacia vos. Agarrá el mazo y apoyá la cabeza contra el palo, justo al lado del amarre, con el mango apuntando hacia vos.
+2. Hacé el lazo en el mango: pasá la soga por arriba del mango, bien cerca de la cabeza del mazo, rodeá el mango por abajo y hacé que la soga vuelva a cruzar por arriba de la parte que viene del amarre. Así la parte de soga que sale del amarre queda encima y aprieta la punta libre contra la madera: eso es lo que la traba.
+3. Llevá la punta libre a lo largo del mango, hasta el extremo, y apretala ahí con la misma mano con que agarrás el mango. Mientras la sostengas apretada, el lazo no se puede correr.
+4. Ahora usá el mazo como palanca: la cabeza queda apoyada en el palo y vos tirás del extremo del mango hacia vos. La soga se estira y la vuelta del amarre queda apretada.
+5. Sin aflojar, soltá el lazo, da la vuelta siguiente y repetí lo mismo. Se hace en cada vuelta del amarre y en cada vuelta de ajuste (las que van entre los dos palos, alrededor de las vueltas).
 6. Para desatar: buscá el ballestrinque del final. Meté la punta del pasador con cuidado entre las vueltas, sin dañar la soga.
 7. Empujá el otro extremo del pasador hacia abajo, como palanca: el ballestrinque se abre y la punta se suelta.
 8. Si está muy apretado, retorcé la punta de la soga en el sentido de su trenzado: se afina un poco y sale más fácil.
 
-## Reglas
+### Reglas
 - Siempre con guantes.
 - El pasador se usa con cuidado: es una herramienta con punta.
 
-## Para cerrar
+## Cierre
 - ¿Notaron la diferencia entre un amarre ajustado a mano y uno con mazo?
 - ¿Por qué conviene que todos los amarres terminen en el mismo lugar a la hora de desarmar?
 
-## Notas para educadores
+## Notas para el educador
 - El pasador (en inglés, marlinspike) se puede hacer con una barra de hierro redondo con una punta afilada y la otra aplastada. También sirve para separar vueltas muy juntas.
 - Esta ficha combina dos entradas del blog: el ajuste con mazo y «Loosening lashings using a marlinspike» (2007).
 - Antes de cualquier construcción: revisá sogas y palos (sin rajaduras ni partes podridas), guantes para los que tiran de sogas, y nadie se sube a nada hasta que un dirigente lo revise.

@@ -134,14 +134,14 @@ rama_rovers:
 
 # La Ruta Contada
 
-## De qué se trata
+## Resumen
 Un dirigente deja a cada equipo en un punto distinto del terreno. Primero, el equipo tiene que ubicar en el mapa dónde está. Después vuelve a la base y, mientras camina, escribe la descripción de la ruta como lo haría un buen guía: con puntos de referencia, rumbos, pasos, árboles que llaman la atención y lugares desde donde se ve algo. Al final, otro equipo intenta hacer ese recorrido al revés usando solo esa descripción.
 
 ## Preparación
 1. Elegí un punto de partida para cada equipo, en una zona conocida y cerrada.
 2. Recorré antes cada camino posible de vuelta.
 
-## Cómo se juega
+## Desarrollo
 1. Cuando te dejen en el punto de partida, busquen en el mapa dónde están.
 2. Decidan el camino de vuelta a la base.
 3. Mientras caminan, anoten todo: «Desde el poste del alambrado, rumbo noreste, 80 pasos hasta un eucalipto grande. Seguir el sendero hasta…».
@@ -150,15 +150,15 @@ Un dirigente deja a cada equipo en un punto distinto del terreno. Primero, el eq
 6. Cada equipo sale desde la base y sigue la descripción del otro hasta su punto de partida.
 7. Se puntúa el tiempo de la vuelta y lo clara que fue la descripción para el otro equipo.
 
-## Reglas
+### Reglas
 - Los equipos no se separan.
 - Hora límite de regreso.
 
-## Para cerrar
+## Cierre
 - ¿Qué parte de la descripción del otro equipo les costó seguir? ¿Por qué?
 - ¿Qué hace que una indicación sea buena?
 
-## Notas para educadores
+## Notas para el educador
 - Este juego sirve para enseñar a pasar una ruta a otro: muy útil para travesías y para dejar indicaciones en un campamento.
 - Se puede hacer en bicicleta con Caminantes y Rovers.
 

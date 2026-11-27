@@ -139,14 +139,14 @@ rama_rovers:
 
 # Organizar un Campeonato de Orientación
 
-## De qué se trata
+## Resumen
 Un proyecto para Rovers: organizar un campeonato de orientación de verdad. Hay que elegir la zona, armar un recorrido con unos diez controles, poner en algunos un árbitro con una prueba (calcular una altura, estimar una distancia, dibujar un croquis panorámico, levantar un plano rápido), y organizar las salidas para que los participantes no se sigan entre ellos. Cada participante lleva un sobre de seguridad cerrado con instrucciones para volver si se pierde: abrirlo significa quedar fuera, pero nadie queda perdido.
 
 ## Preparación
 1. Elegí la zona y pedí los permisos que hagan falta.
 2. Definí las categorías (individual o en parejas) y el reglamento.
 
-## Cómo se juega
+## Desarrollo
 1. Recorran la zona y elijan unos diez puntos de control: cruces de caminos, miradores, la entrada de un campo.
 2. Decidan qué controles tienen solo una baliza y cuáles tienen un árbitro con una prueba de orientación.
 3. Escriban el reglamento: horarios, cómo se puntúa, penalizaciones (por ejemplo, 45 minutos por control salteado), hora de cierre.
@@ -162,11 +162,11 @@ Si los controles quedan más o menos en círculo alrededor de la salida, cualqui
 ### Variante: Salida en rastrillo
 A cada participante se le indica un primer control distinto; recién ahí recibe el mapa completo. Así los participantes quedan más separados y recorren en sentidos distintos.
 
-## Para cerrar
+## Cierre
 - ¿Qué fue lo más difícil de organizar?
 - ¿Qué aprendieron sobre seguridad en actividades al aire libre?
 
-## Notas para educadores
+## Notas para el educador
 - Antes del campeonato, revisá con el equipo las normas de seguridad de tu organización scout nacional: aviso a las familias, adultos responsables, botiquín, comunicaciones y plan de emergencia.
 - El sobre de seguridad es una idea muy buena para cualquier actividad de orientación: vale la pena usarlo siempre.
 - La cartilla que inspiró la ficha cuenta que este tipo de campeonatos ya se hacía en el bosque de Fontainebleau (Francia) en 1939.

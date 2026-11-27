@@ -34,7 +34,9 @@ materials:
   - "Cinta de papel"
   - "Una rejilla de metal o cuatro latas vacías iguales"
   - "Una bandeja o asadera de metal"
-  - "Unas 12 a 16 brasas de carbón (o carbón en briquetas)"
+  - "Unas 16 a 18 brasas de carbón (mejor carbón en briquetas, que son parejas)"
+  - "Una pala o pinza para pasar las brasas"
+  - "Tres o cuatro piedras chatas o latas chicas para levantar un borde de la caja"
   - "Una bandeja de metal para las brasas"
   - "Una tijera o trincheta"
   - "Algo para hornear: pizza, galletitas, budín"
@@ -143,30 +145,31 @@ rama_rovers:
 
 # Horno de Caja de Cartón
 
-## De qué se trata
+## Resumen
 Parece mentira, pero una caja de cartón forrada por dentro con papel aluminio funciona como horno. El calor viene de unas pocas brasas de carbón en una bandeja metálica, en el fondo; la comida va arriba, sobre una rejilla. El aluminio refleja el calor y la caja lo guarda. El cartón no se quema porque las brasas no lo tocan y el aluminio lo protege.
 
-## Cómo se hace
+## Desarrollo
 1. Forrá todo el interior de la caja con papel aluminio, con el lado brillante hacia adentro. Pegalo con cinta solo por afuera.
 2. Cortá en un costado una puerta para poder mirar y sacar la comida. Forrala también.
-3. Poné la caja boca abajo sobre un piso de tierra limpio, sin pasto seco.
-4. Adentro, en el piso, poné la bandeja de metal para las brasas, y encima la rejilla (o cuatro latas que hagan de patas).
-5. Prendan el carbón en el fogón y esperen que esté todo cubierto de ceniza gris.
-6. Con una pala o pinza, pasen 12 a 16 brasas a la bandeja del horno.
-7. Pongan la asadera con la comida sobre la rejilla y cierren.
-8. Cada brasa da más o menos 20 grados: 16 brasas son unos 300 grados. Miren cada tanto por la puerta.
-9. Cuando está lista, saquen la comida con guantes o un repasador.
+3. Prendan el carbón en el fogón y esperen a que esté todo cubierto de ceniza gris (suele tardar entre 20 y 30 minutos). Mientras tanto, preparen la comida.
+4. Elijan el lugar del horno: un piso de tierra limpio y parejo, sin pasto seco. Ahí, en el suelo, pongan la bandeja de metal para las brasas.
+5. Con una pala o pinza, pasen las brasas a esa bandeja. Para calcular cuántas: cada brasa de carbón aporta unos 10 a 12 grados, así que 16 a 18 brasas dan unos 175 a 200 grados, que es la temperatura de un horno de cocina común.
+6. Pongan la rejilla sobre las brasas, a unos 20 cm de altura, apoyada en sus patas o en cuatro latas paradas alrededor de la bandeja. Encima de la rejilla va la asadera con la comida. Si no tienen rejilla, la asadera se apoya directamente sobre las cuatro latas.
+7. Tapen todo con la caja boca abajo, con el lado forrado hacia adentro y la puerta cerrada. La caja tiene que ser bastante más grande que la bandeja, para que las brasas queden lejos de las paredes.
+8. Levanten un poquito un borde de la caja con las piedras chatas o las latas chicas: por esa rendija entra el aire que las brasas necesitan para seguir encendidas.
+9. Miren cada tanto por la puerta, sin dejarla abierta mucho rato, porque se escapa el calor. Si las brasas se apagan antes de que la comida esté lista, agreguen algunas brasas nuevas.
+10. Cuando está lista, abran la puerta o levanten la caja con cuidado y saquen la comida con guantes o un repasador.
 
-## Reglas
+### Reglas
 - Las brasas no tocan nunca el cartón.
 - El horno se usa sobre tierra, lejos de pasto seco y carpas.
 - Siempre un adulto cerca y agua a mano.
 
-## Para cerrar
+## Cierre
 - ¿Por qué no se prende fuego la caja?
 - ¿Qué otra comida se animarían a hornear?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Hacé una prueba antes del campamento, en un patio, para saber cuántas brasas necesita tu caja.
 - Cuando termina el campamento, el aluminio se puede despegar y reciclar, y el cartón, si está sano, guardarse para la próxima.

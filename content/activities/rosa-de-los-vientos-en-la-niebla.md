@@ -131,31 +131,31 @@ rama_rovers:
 
 # Rosa de los Vientos en la Niebla
 
-## De qué se trata
+## Resumen
 Los jugadores forman la rosa de los vientos. Uno va al centro con los ojos vendados y da tres vueltas sobre sí mismo. El dirigente, parado en el Norte, dice «¡Yo soy el Norte!» y le pide un rumbo: «¡Andá al Sudoeste!». Guiándose por la voz, el vendado tiene que ubicarse y caminar hasta el jugador que es ese rumbo.
 
 ## Preparación
 1. Marcá un círculo grande en un piso parejo, sin pozos ni obstáculos.
 2. Ubicá a cada jugador en un punto de la rosa.
 
-## Cómo se juega
+## Desarrollo
 1. Uno pasa al centro y se venda los ojos.
-2. Dá tres vueltas despacio sobre vos mismo, con ayuda de un compañero.
+2. Da tres vueltas despacio sobre vos mismo, con ayuda de un compañero.
 3. Escuchá: el dirigente dice «¡Yo soy el Norte!» desde su lugar.
 4. Girá hasta quedar mirando hacia la voz. Ese es tu norte.
 5. El dirigente te dice un rumbo. Pensá hacia dónde queda, girá y caminá despacio hasta el borde.
 6. Si llegaste al compañero correcto, te sacás la venda y pasa otro.
 7. Si no, ocupás tu lugar en el círculo y después tenés otra oportunidad.
 
-## Reglas
+### Reglas
 - Se camina despacio, con las manos adelante.
 - Los del círculo no ayudan ni hacen ruido.
 
-## Para cerrar
+## Cierre
 - ¿Cómo te diste cuenta hacia dónde estabas mirando?
 - ¿Qué pasa cuando hay niebla de verdad en una excursión? ¿Cómo nos orientamos?
 
-## Notas para educadores
+## Notas para el educador
 - Que haya siempre un dirigente cerca del vendado para frenarlo si se va contra algo.
 
 ---

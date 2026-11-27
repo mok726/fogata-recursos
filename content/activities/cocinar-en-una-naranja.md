@@ -137,10 +137,10 @@ rama_rovers:
 
 # Cocinar en una Naranja
 
-## De qué se trata
+## Resumen
 Se corta una naranja por la mitad, se come la pulpa y la cáscara queda como un cuenquito. Adentro se pone un huevo o masa de bizcochuelo y se apoya sobre las brasas. La cáscara aguanta el calor y le da un gusto a naranja muy rico. Es una forma de cocinar sin ollas y sin platos.
 
-## Cómo se hace
+## Desarrollo
 1. Cortá la naranja por la mitad.
 2. Con la cuchara, sacá la pulpa sin romper la cáscara. ¡La pulpa se come!
 3. Para el huevo: rompé un huevo dentro de media naranja.
@@ -150,14 +150,14 @@ Se corta una naranja por la mitad, se come la pulpa y la cáscara queda como un 
 7. Sacala con la pinza y esperá un poco: ¡está muy caliente!
 8. Comé directo de la cáscara con la cuchara.
 
-## Reglas
+### Reglas
 - Las naranjas se ponen y se sacan con pinza.
 
-## Para cerrar
+## Cierre
 - ¿Qué otras frutas o verduras podrían servir de olla?
 - ¿Cómo cambió el sabor?
 
-## Notas para educadores
+## Notas para el educador
 - El fuego, siempre con un adulto cerca y un balde de agua o de tierra al lado. Respetá las normas del lugar: en muchos lugares y épocas del año está prohibido hacer fuego.
 - Antes de cocinar, preguntá por alergias, celiaquía, dietas y comidas que alguien no pueda comer por motivos de salud o religiosos.
 - Las cáscaras se pueden enterrar o llevar a compost, pero mejor no dejarlas en el fogón.

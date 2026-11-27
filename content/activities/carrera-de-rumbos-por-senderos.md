@@ -134,7 +134,7 @@ rama_rovers:
 
 # Carrera de Rumbos por Senderos
 
-## De qué se trata
+## Resumen
 En un lugar con muchos senderos y cruces, el dirigente arma un recorrido dado solo en rumbos y metros: «Norte, 300 metros. Este, 260 metros. Sudoeste, 100 metros…». No se puede usar mapa. En cada cruce hay que tomar el sendero que va más parecido al rumbo pedido. Unos metros antes de cada cruce correcto, una lana roja atada a una rama, a la derecha, avisa que se va bien. Si no aparece la lana, hay que volver al cruce anterior.
 
 ## Preparación
@@ -142,7 +142,7 @@ En un lugar con muchos senderos y cruces, el dirigente arma un recorrido dado so
 2. Hacé el recorrido vos primero con la brújula y anotá rumbos y distancias de cada tramo.
 3. Atá una lana roja a la altura de los ojos, a la derecha del sendero, unos 10 metros antes de cada cruce donde hay que cambiar de rumbo.
 
-## Cómo se juega
+## Desarrollo
 1. Cada jugador o pareja recibe la tarjeta con el recorrido.
 2. Salen de a uno, con algunos minutos entre cada uno. Se anota la hora.
 3. Con la brújula, buscá el sendero que va hacia el primer rumbo.
@@ -157,11 +157,11 @@ Para los que ya saben: se juega sin brújula, orientándose por el sol, el reloj
 ### Variante: Recorridos cruzados
 La mitad de los equipos hace el recorrido de ida y la otra mitad de vuelta: así no se siguen entre ellos.
 
-## Para cerrar
+## Cierre
 - ¿Qué hicieron cuando el sendero no iba exactamente para el rumbo?
 - ¿Cuántas veces tuvieron que volver?
 
-## Notas para educadores
+## Notas para el educador
 - Al final, que alguien recorra el circuito para levantar las lanas.
 - Estamos en el hemisferio sur: al mediodía el sol queda hacia el norte. Si alguno se orienta por el sol, que lo tenga en cuenta.
 - Cada jugador lleva un silbato y se fija una hora límite de regreso.
