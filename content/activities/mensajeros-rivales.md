@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - mensajes
   - acecho
 
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,7 +140,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Los Mensajeros Rivales!
+# Los Mensajeros Rivales
 
 ## Resumen
 Dos patrullas eligen cada una un mensajero. El dirigente se esconde en un punto central y los dos mensajeros salen desde lados opuestos para llegar hasta él. El resto de cada patrulla vigila el terreno por donde puede venir el mensajero rival e intenta atraparlo. Gana la patrulla cuyo mensajero llega primero.
@@ -148,11 +151,7 @@ Dos patrullas eligen cada una un mensajero. El dirigente se esconde en un punto 
 3. Marcá un círculo de unos 50 m alrededor de la salida y de la llegada: ahí no puede entrar nadie salvo los mensajeros.
 
 ## Desarrollo
-1. Cada patrulla elige un mensajero y le da el sobre.
-2. Los mensajeros salen al mismo tiempo desde sus puntos de partida.
-3. El resto de cada patrulla se reparte para vigilar el camino del mensajero rival.
-4. Para atrapar al mensajero hay que sujetarlo; no se permite pelear ni forcejear. El mensajero atrapado entrega el sobre y queda fuera.
-5. Gana la patrulla cuyo mensajero llega primero al dirigente con el sobre.
+El juego se hace entre dos patrullas rivales, que para simplificar llamaremos los Lobos y los Teros. Cada patrulla elige a un scout como mensajero. El dirigente se ubica en un lugar determinado, de preferencia en medio de un bosque o, si es en una ciudad, en un cruce de varias calles, y los scouts elegidos salen desde puntos opuestos, a unos tres kilómetros del jefe, y tratan de llegar hasta él. El resto de cada patrulla tiene la tarea de impedir que el mensajero rival llegue a destino. Así, los Lobos vigilarán el terreno por donde probablemente venga el Tero elegido y, como gana la patrulla cuyo mensajero llegue primero al jefe, harán todo lo posible por capturar al Tero y quitarle el mensaje. Los Teros, a su vez, tratarán de lograr lo mismo. Cuando a un mensajero le capturan el mensaje, por supuesto no puede seguir. Las patrullas deben mantenerse a 180 m de los puntos de salida y de llegada, para darle al mensajero más posibilidades de llegar al jefe. Para capturarlo, uno de los defensores tiene que sujetarlo, pero no se permite pelear.
 
 ## Cierre
 - ¿Cómo eligieron dónde vigilar?
@@ -169,15 +168,12 @@ Dos patrullas eligen cada una un mensajero. El dirigente se esconde en un punto 
 
 The game is played between two rival patrols, which for convenience we will name the Wolves and Peewits. From each patrol one Scout is selected as dispatch bearer. The Scoutmaster takes up a position at a certain spot, preferably in the middle of a wood, or if in a town at the junction of several streets, and the chosen Scouts start from opposite points about two miles distant from the Scoutmaster and attempt to reach him. It is the duty of the remainder of each patrol to try to prevent the rival dispatch carrier reaching his goal. Thus the Wolves will watch the stretch of country over which the chosen Peewit is likely to come, and as the winning patrol is decided by the first dispatch carrier to reach the Scoutmaster, the Wolves will do all they can to capture the Peewit and secure the dispatch. The Peewits in their turn will naturally try and effect the same result. When the carrier has his dispatch captured he must not of course continue. The patrols must keep 200 yards away from the starting and finishing point, thus giving the dispatchbearer a better chance of reaching the Scout- master. To be captured, the dispatch-bearer must be actually held by one of the defenders, though no fighting is allowed.
 
-**Versión en español:**
-
-**LOS MENSAJEROS RIVALES.**
-
-El juego se hace entre dos patrullas rivales, que para simplificar llamaremos los Lobos y los Teros. Cada patrulla elige a un scout como mensajero. El jefe de tropa se ubica en un lugar determinado, de preferencia en medio de un bosque o, si es en una ciudad, en un cruce de varias calles, y los scouts elegidos salen desde puntos opuestos, a unos tres kilómetros del jefe, y tratan de llegar hasta él. El resto de cada patrulla tiene la tarea de impedir que el mensajero rival llegue a destino. Así, los Lobos vigilarán el terreno por donde probablemente venga el Tero elegido y, como gana la patrulla cuyo mensajero llegue primero al jefe, harán todo lo posible por capturar al Tero y quitarle el mensaje. Los Teros, a su vez, tratarán de lograr lo mismo. Cuando a un mensajero le capturan el mensaje, por supuesto no puede seguir. Las patrullas deben mantenerse a 200 yardas (unos 180 m) de los puntos de salida y de llegada, para darle al mensajero más posibilidades de llegar al jefe. Para capturarlo, uno de los defensores tiene que sujetarlo, pero no se permite pelear.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 2. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 2: «The Rival Dispatch Bearers». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Encontrar los Lugares"
+title: "Encontrar Lugares"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/encontrar-los-lugares/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - orientacion
   - observacion
   - descripcion
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Encontrar los Lugares!
+# Encontrar Lugares
 
 ## Resumen
 Un día o dos antes, el dirigente sale a caminar y escribe en tarjetas descripciones breves de lugares que ve: "puente de madera sobre el arroyo con tres sauces cerca", "tranquera blanca junto a un rancho abandonado". El día del juego reparte las tarjetas y cada scout tiene que encontrar su lugar y volver. Gana el primero que vuelve con el dato correcto.
@@ -149,10 +152,7 @@ Un día o dos antes, el dirigente sale a caminar y escribe en tarjetas descripci
 2. Pensá una pregunta de control para cada lugar (¿de qué color es el buzón? ¿cuántos escalones tiene?) para comprobar que llegaron.
 
 ## Desarrollo
-1. Repartí las tarjetas, una por scout o por pareja.
-2. Salen a buscar el lugar en el tiempo acordado.
-3. Vuelven y le cuentan al dirigente qué encontraron, respondiendo la pregunta de control.
-4. Gana el primero que vuelve con el lugar correcto.
+Uno o dos días antes de jugar, el dirigente sale a caminar por el campo y lleva una provisión de tarjetas postales en blanco. En cada tarjeta escribe una breve descripción de distintos lugares por los que pasa, como "Puente de madera sobre un arroyo con tres sauces cerca" o "Tranquera blanca de cinco barras cerca de una casita en ruinas". El día del juego reparte estas tarjetas entre los scouts, que tienen cierto tiempo, según las condiciones del lugar, para encontrar los lugares descriptos en sus tarjetas e informar al dirigente, que se queda todo el tiempo en el punto de partida. Gana el scout que vuelve primero.
 
 ## Cierre
 - ¿Qué parte de la descripción te sirvió más?
@@ -168,15 +168,12 @@ Un día o dos antes, el dirigente sale a caminar y escribe en tarjetas descripci
 
 The Scoutmaster goes for a walk in the country a day or two before this game is played, taking with him a supply of plain postcards. On each card he writes a short description of various places he passes, such as "Wooden bridge over stream with three willows near," or "White five-barred gate near ruined cottage." On the day the game is played these cards are distributed among the Scouts, who are allowed a certain time, according to local conditions, to discover the places described on their cards and report to the Scoutmaster, who remains at the starting-point all the time. The Scout who returns first wins the game.
 
-**Versión en español:**
-
-**ENCONTRAR LUGARES.**
-
-Uno o dos días antes de jugar, el jefe de tropa sale a caminar por el campo y lleva una provisión de tarjetas postales en blanco. En cada tarjeta escribe una breve descripción de distintos lugares por los que pasa, como "Puente de madera sobre un arroyo con tres sauces cerca" o "Tranquera blanca de cinco barras cerca de una casita en ruinas". El día del juego reparte estas tarjetas entre los scouts, que tienen cierto tiempo, según las condiciones del lugar, para encontrar los lugares descriptos en sus tarjetas e informar al jefe de tropa, que se queda todo el tiempo en el punto de partida. Gana el scout que vuelve primero.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 24. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 24: «Finding Places». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

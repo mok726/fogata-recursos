@@ -9,13 +9,13 @@ summary: "Pasar un mensaje a los gritos en medio del ruido."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,16 +134,8 @@ rama_rovers:
 
 # A los Gritos
 
-## De qué se trata
-Cuatro patrullas, una en cada rincón. Dos de rincones opuestos tienen que pasarse un mensaje sencillo a los gritos, sin hacer señas, y recibir una respuesta con sentido. Las otras dos hacen todo el ruido que puedan con la voz para que no se escuche. Después cambian.
-
 ## Cómo se juega
-1. Cada patrulla va a un rincón.
-2. El que dirige le da a una patrulla un mensaje corto, por ejemplo: «¿A qué hora sale el micro?».
-3. Esa patrulla se lo grita a la patrulla del rincón de enfrente. No pueden hacer señas ni gestos.
-4. Las otras dos patrullas hacen todo el ruido que puedan con la voz: cantan, gritan, aplauden, silban.
-5. La patrulla de enfrente tiene que entender y contestar algo con sentido: «¡A las ocho!».
-6. Se toma el tiempo. Después cambian los papeles. Gana la pareja de patrullas que se entendió más rápido.
+Cuatro equipos, uno en cada rincón del salón. Dos de los que están en rincones opuestos en diagonal tratan de mandarse a los gritos un mensaje simple (no se permiten señas ni gestos) y recibir una respuesta con sentido. Los otros dos equipos tratan, haciendo con la voz el ruido que quieran, de que no se escuchen los mensajes. Ganan los equipos que lo logran en menos tiempo.
 
 ## Para cerrar
 - ¿Qué hicieron para que el mensaje se entendiera? ¿Gritaron todos juntos o uno solo?
@@ -147,5 +145,18 @@ Cuatro patrullas, una en cada rincón. Dos de rincones opuestos tienen que pasar
 - Juego para descargar energía y, de paso, charlar sobre cómo comunicarse con claridad (hablar todos juntos, articular, repetir).
 - Al final, un minuto de silencio absoluto: el contraste es parte del juego.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BAWLING.**
+
+Four teams, one in each corner of the room. Two of those diagonally opposite try to shout a simple message from one to the other (no signalling or gestures allowed) and get a sensible answer. The other two teams try by making any vocal noise they like, to stop the messages being audible. Teams succeeding in shortest time win.
+
 ---
-**Fuente:** inspirada en el juego «Bawling» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 9, «Bawling». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

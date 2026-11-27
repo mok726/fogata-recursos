@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las Varitas Cruzadas"
+title: "Pasar los Palitos Cruzados"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/las-varitas-cruzadas/"
@@ -9,13 +9,13 @@ summary: "Descubrir el truco escondido de las varitas cruzadas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,18 +133,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Las Varitas Cruzadas
-
-## De qué se trata
-En ronda, el que dirige pasa dos varitas a su vecino diciendo «Te paso las varitas cruzadas» o «descruzadas». Parece que habla de las varitas, pero en realidad habla de sus propias piernas: si tiene los tobillos cruzados o no. Los que entienden el truco lo siguen haciendo bien; los demás siguen probando hasta descubrirlo.
+# Pasar los Palitos Cruzados
 
 ## Cómo se juega
-1. Siéntense en ronda. El que dirige es el único que conoce el secreto.
-2. Agarra las dos varitas y se las pasa al de al lado diciendo: «Te paso las varitas cruzadas». Las varitas pueden estar en cualquier posición.
-3. El que las recibe dice: «Las recibo…» y adivina: «…cruzadas» o «…descruzadas». Después se las pasa al siguiente diciendo cómo se las pasa.
-4. Cada vez, el que dirige dice si estuvo bien o mal.
-5. El secreto: «cruzadas» o «descruzadas» depende de cómo tiene los tobillos el que habla, no de las varitas.
-6. El que descubre el truco no lo cuenta: lo sigue haciendo bien. El juego termina cuando todos lo descubrieron.
+Los jugadores en ronda. El que dirige agarra dos palitos y se los pasa a su vecino, cruzados o no, como quiera, y al hacerlo dice: «Paso estos palitos cruzados (o descruzados)», refiriéndose a si él tiene los tobillos cruzados o no. El que los recibe dice: «Recibo estos palitos… y los paso…», y el que dirige le dice si está bien o no. El que tiene los palitos los puede mover o cruzar como quiera. El juego sigue hasta que todos descubren el truco y lo hacen bien.
 
 ## Para cerrar
 - ¿Cuánto tardaron en darse cuenta? ¿Qué los despistó?
@@ -148,5 +146,20 @@ En ronda, el que dirige pasa dos varitas a su vecino diciendo «Te paso las vari
 - Si después de un buen rato nadie lo descubre, empezá a exagerar el cruce de piernas.
 - Funciona con cualquier objeto: lápices, cucharas o ramitas.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PASSING CROSSED STICKS.**
+
+Players in circle. Leader takes two sticks and passes them to his neighbour, crossed or not as he likes, as he does so saying, “I pass these sticks crossed (or uncrossed),” referring to whether his own ankles are crossed or not. The player receiving says, “I receive these sticks . . . and I pass them on ,” the leader
+
+saying if he is right or not. The one with the sticks may move or cross the sticks as he likes. The game continues till all have spotted the catch and are doing it right.
+
 ---
-**Fuente:** inspirada en el juego «Passing Crossed Sticks» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Passing Crossed Sticks». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

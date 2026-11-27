@@ -9,13 +9,13 @@ summary: "Repartir porotos de a uno en una fila de círculos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,23 +136,30 @@ rama_rovers:
 
 # Posta de los Porotos
 
-## De qué se trata
-Delante de cada patrulla hay un círculo grande con cinco porotos y, más adelante, una fila de cinco círculos chicos separados por un metro. El primero lleva los porotos de a uno, uno a cada círculo chico. El segundo los vuelve a juntar de a uno en el círculo grande. Y así.
-
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. Delante de la fila hay un círculo grande con los porotos y, adelante, cinco círculos chicos en fila.
-3. El primero agarra un poroto, lo lleva al primer círculo chico, vuelve a buscar otro, lo lleva al segundo, y así hasta el quinto.
-4. Vuelve corriendo y toca al siguiente.
-5. El segundo hace al revés: busca los porotos de a uno y los devuelve al círculo grande.
-6. Se lleva un solo poroto por vez. Si se tira o se cae, se vuelve a buscar.
-7. Gana la primera patrulla en la que corrieron todos.
+Los equipos en fila india; delante de cada equipo, una fila de circulitos a unos 90 cm uno de otro, y un círculo más grande justo delante del primer jugador, con tantos porotos como círculos haya. Cada jugador, por turno, lleva los porotos de a uno a los circulitos, uno en cada círculo, y después los vuelve de a uno al círculo grande; luego larga al siguiente. Gana el primer equipo que termina.
 
-### Variante: El cuadrado de porotos
-Las patrullas se paran en las esquinas de un cuadrado, cada una con un plato lleno de porotos (uno por jugador). Hay que llevar los porotos de a uno al plato de la patrulla de la derecha. Gana la patrulla que al final del tiempo tiene menos porotos en su plato.
+**Carrera de porotos en cuadrado:** se ponen tantos platitos como equipos haya, a la misma distancia uno de otro (con 4 equipos, en cuadrado; con 5, en pentágono, etc.). En cada platito hay tantos porotos como jugadores tiene cada equipo. Cada equipo corre para pasar los porotos de a uno al platito siguiente hacia su derecha. Nadie puede tocar más de un poroto por vez, y hay que llevarlos, no tirarlos. El equipo puede formar una cadena. Gana el equipo que tiene menos porotos en su platito cuando se termina el tiempo.
 
 ## Para cerrar
 - ¿Les convenía correr muy rápido o ir seguros para no perder porotos?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BEAN RELAY.**
+
+Teams in file; in front of each team a row of small circles about 3 feet apart, and a larger circle just in front of the first player, in which are as many beans as there are circles. Each player in turn moves the beans one by one into the small circles, one to each circle, and then one by one returns them to the large circle; then sending off the next player. Team to finish first wins.
+
+**SQUARE BEAN RACE.**
+
+As many saucers as there are teams are put at equal distances one from the next (if 4 teams in the form of a square; 5, pentagon, etc.). In each saucer are as many beans as there are players in each team. Each team races to remove the beans one by one into the next saucer to their right. No player may touch more than one bean at a time, and they must be carried, not thrown. A team may form a chain. Team with fewest beans in its saucer at end of allotted time wins.
+
 ---
-**Fuente:** inspirada en el juego «Bean Relay / Square Bean Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 17, «Bean Relay» y n.º 18, «Square Bean Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

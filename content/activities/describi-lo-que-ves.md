@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Describí lo que Ves"
+title: "Juego de Observación"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/describi-lo-que-ves/"
@@ -9,13 +9,13 @@ summary: "Aprender a describir objetos con todos sus detalles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,17 +134,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Describí lo que Ves
-
-## De qué se trata
-El que dirige pone dos objetos chicos en una silla y pregunta qué hay. La primera vez todos dicen «dos tornillos». El juego es que, cada vez, la descripción sea más completa: tamaño, color, material, marcas, si están gastados.
+# Juego de Observación
 
 ## Cómo se juega
-1. El que dirige pone dos objetos en la silla. Todos miran 30 segundos sin tocar.
-2. Pregunta: «¿Qué hay en la silla?». Cada patrulla da su descripción.
-3. Se compara: ¿quién dijo más cosas verdaderas? Por ejemplo: «Dos tornillos. Uno es dorado, largo como un dedo, con la cabeza grande. El otro es más corto y está oxidado».
-4. Se cambian los objetos y se vuelve a jugar. Cada vez tienen que superar la descripción anterior.
-5. Gana la patrulla que da la descripción más completa sin inventar nada.
+Se ponen dos objetos chicos sobre una silla y se les pregunta a todos qué hay en la silla (por ejemplo, dos tornillos). Al principio la respuesta es «Dos tornillos». Más adelante va a mejorar, por ejemplo: «Dos tornillos: uno de bronce, de unos 4 cm de largo, con la cabeza grande y la rosca gruesa; el otro, de unos 2 cm de largo y muy oxidado». El nivel tiene que mejorar muy rápido.
 
 ## Para cerrar
 - ¿Qué cosas aprendieron a mirar que antes no miraban?
@@ -147,5 +146,18 @@ El que dirige pone dos objetos chicos en una silla y pregunta qué hay. La prime
 ## Notas para educadores
 - Conviene repetirlo varias reuniones seguidas, un ratito cada vez: el progreso se nota rápido y eso motiva.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**OBSERVATION GAME.**
+
+Two small objects are placed on a chair, all are asked what is on the chair (say 2 screws). At first the answer is “Two screws.” Later it will improve to (say) “Two screws, one brass about 1¾ inches long with a large head and coarse thread; the other about ¾ inch long and very rusty.” The standard should improve very quickly.
+
 ---
-**Fuente:** inspirada en el juego «Observation Game» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 52, «Observation Game». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

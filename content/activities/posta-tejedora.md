@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta Tejedora"
+title: "Posta del Tejedor"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-tejedora/"
@@ -9,13 +9,13 @@ summary: "Correr en zigzag entre los compañeros de la ronda."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,26 +132,36 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta Tejedora
-
-## De qué se trata
-Cada patrulla forma una ronda con un paso de distancia entre jugador y jugador. El primero sale corriendo en zigzag, pasando por delante de uno y por detrás del siguiente, hasta volver a su lugar. Toca al segundo, que hace lo mismo. Gana la patrulla que termina primero.
+# Posta del Tejedor
 
 ## Cómo se juega
-1. Cada patrulla forma su propia ronda, mirando al centro, con un paso de distancia entre jugadores.
-2. A la orden, el primero sale para su derecha, pasando por delante del compañero, por detrás del siguiente, por delante del otro.
-3. Da toda la vuelta tejiendo y vuelve a su lugar.
-4. Toca al siguiente, que hace lo mismo.
-5. Cuando todos dieron la vuelta, la patrulla se sienta. Gana la primera en sentarse.
+Dos o más equipos en ronda, mirando hacia adentro, con un metro entre jugador y jugador. Los equipos se ubican seguidos, NO mezclados. A la orden de «¡Ya!», el primero de cada equipo corre alrededor de la ronda hacia su derecha, en zigzag entre los demás jugadores; cuando vuelve a su lugar toca al n.º 2, que hace lo mismo, y así sucesivamente. Gana el primer equipo que termina con todos sus jugadores. No se permite obstruir.
 
-## Reglas
-- No se vale trabar ni empujar al que corre.
+**Posta de las manos saltadas:** igual que la anterior, pero los jugadores se sientan en el piso tomados de las manos, y los que corren saltan para adentro y para afuera por arriba de las manos.
 
-### Variante: Saltando manos
-La ronda se sienta en el piso agarrada de las manos. El que corre salta por encima de las manos, entrando y saliendo de la ronda.
+**Variante:** igual, pero pasando por arriba y por debajo de las manos.
 
 ## Para cerrar
 - ¿Qué patrulla tejía más prolijo? ¿Y la más rápida?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WEAVER'S RELAY.**
+
+Two or more teams in circle, facing in, a yard between each player. Teams placed concurrently, NOT muddled up. On “Go,” first member of each team runs round circle to his right, zig-zagging between the other players; on regaining his place he touches No. 2, who does the same, and so on. First team to finish all players wins. No obstruction allowed.
+
+**JUMPING HANDS RELAY.**
+
+As for No. 4, except that players sit on floor, holding hands, and those racing jump in and out over the hands.
+
+Variation.-As above, but going over and under the hands.
+
 ---
-**Fuente:** inspirada en el juego «Weaver's Relay / Jumping Hands Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 4, «Weaver's Relay» y n.º 10, «Jumping Hands Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

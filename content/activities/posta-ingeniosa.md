@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta Ingeniosa"
+title: "Posta de Iniciativa"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-ingeniosa/"
@@ -9,13 +9,13 @@ summary: "Dar la vuelta sin repetir la forma de moverse de nadie."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,21 +132,12 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Posta Ingeniosa
-
-## De qué se trata
-Cada jugador da una vuelta al recorrido como se le ocurra: saltando en un pie, de espaldas, rodando, gateando, en zigzag. La condición es que nadie de la patrulla puede repetir la manera de otro. Si alguien repite, tiene que hacer la vuelta así y, después, otra vez de una forma nueva.
+# Posta de Iniciativa
 
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. A la orden, el primero da la vuelta de la manera que quiera.
-3. Vuelve y le da la salida al siguiente, que tiene que inventar otra forma.
-4. Un controlador de cada patrulla anota las formas que ya se usaron.
-5. Si alguien repite una forma, completa la vuelta así y después la hace otra vez de una forma nueva.
-6. Gana la primera patrulla que termina.
+Los equipos en fila india; cada jugador, por turno, hace un recorrido dado de la forma que quiera, pero dos jugadores del mismo equipo no pueden usar la misma forma de avanzar; el que la repite tiene que terminar el recorrido con la forma elegida por error y después volver a hacerlo de una forma original.
 
-### Variante: Estaciones
-El recorrido tiene estaciones y en cada una hay que moverse distinto: de la primera a la segunda saltando, de la segunda a la tercera gateando, después de espaldas, después rodando.
+**Posta genuina:** se manda a un jugador de cada equipo a cada una de las estaciones acordadas en el recorrido. Se corre una posta común, pero los de la primera estación saltan en un pie; los de la 2.ª, gatean; los de la 3.ª, caminan para atrás; los de la 4.ª, ruedan, etc. Gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Qué forma fue la más original? ¿Y la más rápida?
@@ -148,5 +145,22 @@ El recorrido tiene estaciones y en cada una hay que moverse distinto: de la prim
 ## Notas para educadores
 - Que la patrulla piense antes en las formas: la estrategia es parte del juego.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**INITIATIVE RELAY.**
+
+Teams in file; each player in turn goes round a given course in any way he likes, but no two players in the same team may use the same method of progress; penalty for latter is to complete the course in the method chosen in error and then do it again in an original way.
+
+**GENUINE RELAY.**
+
+One player from each team is sent to each of the pre-arranged stations round the course. An ordinary relay is run, but the players at the first station hop, 2nd crawl, 3rd walk backwards, 4th roll, etc. Team to finish first wins.
+
 ---
-**Fuente:** inspirada en el juego «Initiative Relay / Genuine Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 114, «Initiative Relay» y n.º 45, «Genuine Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

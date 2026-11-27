@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Uniforme"
+title: "Posta del Equipo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-uniforme/"
@@ -9,13 +9,13 @@ summary: "Vestirse el uniforme en carrera, prenda por prenda."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,25 +134,33 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta del Uniforme
-
-## De qué se trata
-Antes de empezar, cada uno deja sus prendas en distintos puntos del recorrido: todas las gorras en un lugar, todos los pañuelos en otro, todos los anillos en otro. Por turno, cada jugador recorre las estaciones poniéndose sus prendas. Gana la patrulla que termina primero y bien uniformada.
+# Posta del Equipo
 
 ## Cómo se juega
-1. Cada uno deja sus prendas en las estaciones: gorras en la primera, pañuelos en la segunda, anillos en la tercera.
-2. Las patrullas forman fila en la salida.
-3. A la orden, el primero sale, pasa por cada estación y se pone su prenda.
-4. El pañuelo tiene que quedar bien puesto, con el anillo en su lugar.
-5. Vuelve y le da la salida al siguiente.
-6. Gana la patrulla que termina primero con todos bien uniformados.
+Los equipos en fila india; distintas prendas del uniforme o del equipo de cada jugador se ponen en distintos puntos del recorrido (por ejemplo, todos los sombreros en un lugar, todos los pañuelos en otro, etc.). Cada jugador, por turno, hace el recorrido y se pone su propia prenda en cada punto. Gana el primer equipo que termina con todos vestidos correctamente con su propio uniforme.
 
-### Variante: El saco y el sombrero
-Cada patrulla tiene un saco grande y un sombrero. Cada uno corre, se los pone (con todos los botones) y vuelve. Recién al llegar se los saca para el siguiente.
+**Carrera de vestirse y desvestirse:** los equipos en fila india; cada equipo tiene un saco y un sombrero. El primer jugador de cada uno corre hasta un punto dado y vuelve poniéndose el saco y el sombrero y abrochándose todos los botones; cuando vuelve a su equipo se los saca y se los da al siguiente, y así sucesivamente. Gana el primer equipo que termina. No se puede empezar a sacar la ropa hasta que el jugador está de vuelta en su fila.
 
 ## Para cerrar
 - ¿Qué prenda costó más ponerse bien rápido?
 - ¿Qué significa para ustedes el uniforme?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**EQUIPMENT RELAY.**
+
+Teams in file; different items of each player’s uniform or gear are placed at various points round the course (i.e. all hats at one spot, all scarves at another, etc.). Each player in turn runs round the course and puts on his own article of clothing at each point. First team to finish correctly dressed in their own uniforms wins.
+
+**DRESSING AND UNDRESSING RACE.**
+
+Teams in file; each team has a coat and hat. Each first player runs to and from a given point putting on the coat and hat, doing up all buttons; on regaining his team he takes them off and hands them to the next, and so on. First team to finish wins. Clothes must not be begun to be removed till the player is back with his rank.
+
 ---
-**Fuente:** inspirada en el juego «Equipment Relay / Dressing and Undressing Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 87, «Equipment Relay» y n.º 68, «Dressing and Undressing Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

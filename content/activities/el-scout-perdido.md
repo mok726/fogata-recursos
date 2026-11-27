@@ -9,13 +9,13 @@ summary: "Describir a un compañero que desapareció sin aviso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,16 +135,8 @@ rama_rovers:
 
 # El Scout Perdido
 
-## De qué se trata
-Durante un juego o una charla, el que dirige le pide a un jugador, en secreto, que salga sin que lo vean. Después anuncia que falta alguien y que hay que armar una patrulla de búsqueda. Cada patrulla escribe una descripción del que falta: quién es, cómo está vestido, qué tenía en las manos.
-
 ## Cómo se juega
-1. El que dirige se pone de acuerdo con un jugador, sin que nadie se entere, y el jugador sale disimuladamente.
-2. Un rato después, el que dirige dice: «¡Falta alguien! Necesitamos una descripción para buscarlo».
-3. Primero cada patrulla tiene que descubrir quién falta.
-4. Después escriben todo lo que recuerdan: altura, pelo, qué ropa tenía, de qué color, el calzado, si tenía el pañuelo, si llevaba algo.
-5. Vuelve el jugador y se comparan las descripciones con la realidad.
-6. Gana la patrulla con la descripción más completa y sin errores.
+Se manda a un jugador fuera del salón sin que nadie lo note; después el que dirige anuncia que ve que falta alguien y pide una descripción para el grupo de búsqueda. Gana la mejor descripción del jugador que falta y de su ropa.
 
 ## Para cerrar
 - ¿Qué detalles fueron los más difíciles de recordar?
@@ -148,5 +146,18 @@ Durante un juego o una charla, el que dirige le pide a un jugador, en secreto, q
 - Buena entrada para hablar de qué hacer si alguien se pierde en un campamento o en la calle, y de la importancia de avisar enseguida a un adulto.
 - Elegí a alguien que no se ponga incómodo con ser el centro de atención.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOST SCOUT.**
+
+One player is sent out of the room in an unobtrusive manner; the leader then announces that he sees that someone is missing and asks for a description for a search party. Best description of missing player and his clothes wins.
+
 ---
-**Fuente:** inspirada en el juego «Lost Scout» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 54, «Lost Scout». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

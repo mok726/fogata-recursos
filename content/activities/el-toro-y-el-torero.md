@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Toro y el Torero"
+title: "La Corrida de Toros"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-toro-y-el-torero/"
@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - persecucion
   - exhibicion
 
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,17 +144,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Toro y el Torero!
+# La Corrida de Toros
 
 ## Resumen
 Doce jugadores: un toro, un torero, cuatro ayudantes y seis capoteros con pañuelos. El resto forma la plaza haciendo ronda. Primero los ayudantes tratan de arrancarle al toro las tiras de papel del lomo sin que los toque. Después, con el toro vendado, el torero tiene que sacarle el pañuelo del cuello sin ser tocado.
 
 ## Desarrollo
-1. Parte 1: el toro entra con cuatro o cinco tiras de papel prendidas en la espalda.
-2. Los ayudantes intentan arrancarle una tira por vez. Si el toro toca a un ayudante, queda fuera.
-3. Cuando un ayudante está en apuros, un capotero se mete en el medio agitando su pañuelo para que el toro lo siga.
-4. Parte 2: cuando no quedan tiras (o ayudantes), se despeja la plaza, se venda al toro y se le ata un pañuelo al cuello con un nudo que se suelte de un tirón.
-5. El torero entra y tiene que sacárselo sin que el toro lo toque. Si lo logra, gana.
+Para el juego hacen falta doce jugadores; es interesante de mirar y queda bien como número de una exhibición. Los jugadores: 1 toro, 1 matador, 4 chulos y 6 portadores de pañuelos. PARTE I. El toro entra en la arena (que deben formar los scouts "haciendo cerco") con cuatro o cinco tiras de papel de 15 cm prendidas en la espalda. Los chulos tratan de arrancarlas sin que el toro los toque, pero si el toro los toca dos veces, quedan afuera. Los portadores de pañuelos, que llevan el pañuelo en la mano, se meten corriendo entre el toro y un chulo si este está en apuros y, agitando los pañuelos frente a la cara del toro, hacen que los siga. Si el toro toca una vez a un chulo, queda afuera. Solo se puede sacar una tira por vez. PARTE II. Cuando ya no quedan tiras, o murieron todos los chulos, se despeja la arena y se venda al toro, con un pañuelo atado al cuello de modo que salga de un tirón de una punta. Entonces entra el matador, que tiene que sacar el pañuelo sin que el toro lo toque. Si lo logra, el toro muere.
 
 ## Cierre
 - ¿Cómo se ayudaban los capoteros y los ayudantes?
@@ -171,15 +170,12 @@ PART I. The bull enters the arena (which should be made by Scouts " forming fenc
 
 PART II. When all the, strips are off, or all the Chulos killed, the arena is cleared and the bull blindfolded, with a scarf tied round his neck so that one pull at an end brings it off. The matador then enters and has to remove the scarf without being touched by the bull. If he succeeds, the bull is dead.
 
-**Versión en español:**
-
-**LA CORRIDA DE TOROS.**
-
-Para el juego hacen falta doce jugadores; es interesante de mirar y queda bien como número de una exhibición. Los jugadores: 1 toro, 1 matador, 4 chulos y 6 portadores de pañuelos. PARTE I. El toro entra en la arena (que deben formar los scouts "haciendo cerco") con cuatro o cinco tiras de papel de 6 pulgadas (15 cm) prendidas en la espalda. Los chulos tratan de arrancarlas sin que el toro los toque, pero si el toro los toca dos veces, están muertos. Los portadores de pañuelos, que llevan el pañuelo en la mano, se meten corriendo entre el toro y un chulo si este está en apuros y, agitando los pañuelos frente a la cara del toro, hacen que los siga. Si el toro toca una vez a un chulo, está muerto. Solo se puede sacar una tira por vez. PARTE II. Cuando ya no quedan tiras, o murieron todos los chulos, se despeja la arena y se venda al toro, con un pañuelo atado al cuello de modo que salga de un tirón de una punta. Entonces entra el matador, que tiene que sacar el pañuelo sin que el toro lo toque. Si lo logra, el toro muere.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 4: «The Bull Fight». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pares e Impares"
+title: "Carrera de Impares alrededor de Pares"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pares-e-impares/"
@@ -9,13 +9,13 @@ summary: "Escuchar la orden y correr alrededor del número justo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,18 +132,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Pares e Impares
-
-## De qué se trata
-Las patrullas forman filas paralelas y cada jugador tiene un número. El que dirige da órdenes como «¡Impares alrededor de pares!»: cada jugador impar corre alrededor del par que tiene más cerca y vuelve a su lugar. La primera patrulla que queda quieta y firme gana el punto.
+# Carrera de Impares alrededor de Pares
 
 ## Cómo se juega
-1. Las patrullas forman filas paralelas. Cada jugador se numera: 1, 2, 3, 4…
-2. Las patrullas también tienen número.
-3. El que dirige grita una orden: «¡Impares alrededor de pares… ya!».
-4. Cada impar corre alrededor del par más cercano y vuelve a su lugar.
-5. La primera patrulla que queda completa y quieta en su lugar suma un punto.
-6. Otras órdenes: «¡Patrullas impares alrededor de patrullas pares!», «¡Pares alrededor de su patrulla!».
+Los equipos en fila india; cada equipo tiene un número, y también cada jugador. A la orden «¡Impares alrededor de pares… YA!», cada jugador con número impar corre alrededor del número par más cercano. Gana el primer equipo que vuelve a estar en posición de «¡atención!». Hay otras órdenes, como «¡Equipos IMPARES alrededor de pares… YA!», etc. Se puede largar a los jugadores desde sentados.
 
 ### Variante: Sentados
 Se arranca sentado en el piso, para hacerlo más difícil.
@@ -145,5 +143,18 @@ Se arranca sentado en el piso, para hacerlo más difícil.
 ## Para cerrar
 - ¿Cuál fue la orden más confusa?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ODDS ROUND EVENS RACE.**
+
+Teams in file; each team has a given number, as does each player. On order “Odds round Evens ........ GO,” each player with an odd number runs round the nearest even number. First team back at “alert” wins. Other orders such as “ODD teams round Even... GO,” etc. Players may be started from a sitting position.
+
 ---
-**Fuente:** inspirada en el juego «Odds Round Evens Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 41, «Odds Round Evens Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

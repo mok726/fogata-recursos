@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rastreo
   - acecho
   - patrulla
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Fugitivos!
+# Fugitivos
 
 ## Resumen
 Cada scout lleva un número en la espalda. Uno es el fugitivo: sale con diez minutos de ventaja dejando un rastro. Los demás lo siguen. Si un cazador se acerca sin ser visto y le lee el número, lo atrapó. Pero si el fugitivo lee el número de un cazador, ese cazador queda fuera.
 
 ## Desarrollo
-1. Cada uno se prende su número en la espalda.
-2. El fugitivo sale con diez minutos de ventaja dejando rastro.
-3. Los cazadores siguen el rastro. Al leer un número, hay que gritarlo para que el otro sepa que quedó fuera.
-4. No vale tocarse ni empujar: solo leer números.
-5. Gana el fugitivo si aguanta el tiempo acordado, o los cazadores si le leen el número.
+Este es un juego scout que a los guías les va a resultar útil cuando trabajen con su patrulla, aparte del resto de la tropa. Cada scout de la patrulla lleva prendido en la espalda de la camisa o del buzo un disco redondo de cartón blanco con un número bien impreso. Se elige a un miembro de la patrulla como "fugitivo", y el resto hace de cazadores. El "fugitivo", que lleva hierros de rastreo o deja algún tipo de rastro tras de sí, sale con, digamos, diez minutos de ventaja. Luego sale el resto de la patrulla y trata de seguirle el rastro. Apenas un "cazador" logra acercarse lo suficiente al "fugitivo", sin ser visto, como para anotar su número, este queda atrapado. Pero si el "fugitivo" logra, de cualquier forma, dar vuelta la situación y anotar los números de alguno de sus perseguidores, estos quedan fuera de combate. Apenas se anota un número, el scout que lo anotó tiene que gritarlo, para que su prisionero sepa que quedó fuera. Este juego exige un acecho cuidadoso, y no hay "juego brusco" del tipo de golpear los tobillos. Para fugitivo conviene elegir a un scout despierto de la patrulla, porque no solo tiene que eludir a quizás seis o siete perseguidores, sino que además tiene que tratar de "capturarlos", si no quiere que lo "maten" a él.
 
 ## Cierre
 - ¿Cómo se acercaron sin que el fugitivo los viera?
@@ -166,15 +165,12 @@ Cada scout lleva un número en la espalda. Uno es el fugitivo: sale con diez min
 
 Here is a Scouting game which Patrol-leaders will find useful when engaged in patrol work, apart from the rest of the troop. Each Scout in the patrol has a round disc of white cardboard, with a number printed plainly upon- it, pinned on to the back of his shirt or sweater. One member of the patrol is then chosen as the " fugitive," while the rest act as hunters. The " fugitive," who wears tracking-irons, or leaves some kind of trail behind him, is given, say, 'ten minutes' start. The rest of the patrol then start out and endeavor to track him down. As soon as a " hunter " can get near enough to the fugitive," without being seen, to take down his number, the latter is caught. But if the " fugitive " can, by any means, turn the tables and get any of his pursuers' numbers, the latter are out of action. As soon as a number is taken down, the Scout who takes it must call it out, to let his captive know he is out of action. This game necessitates some careful stalking, and there is no " horse-play " in the shape of ankle-tapping. A sharp Scout in the patrol should be chosen for the fugitive," as he has not only to elude perhaps six or seven pursuers, but he must also endeavor to " capture them, unless he wishes to get killed himself.
 
-**Versión en español:**
-
-**FUGITIVOS.**
-
-Este es un juego scout que a los guías les va a resultar útil cuando trabajen con su patrulla, aparte del resto de la tropa. Cada scout de la patrulla lleva prendido en la espalda de la camisa o del buzo un disco redondo de cartón blanco con un número bien impreso. Se elige a un miembro de la patrulla como "fugitivo", y el resto hace de cazadores. El "fugitivo", que lleva hierros de rastreo o deja algún tipo de rastro tras de sí, sale con, digamos, diez minutos de ventaja. Luego sale el resto de la patrulla y trata de seguirle el rastro. Apenas un "cazador" logra acercarse lo suficiente al "fugitivo", sin ser visto, como para anotar su número, este queda atrapado. Pero si el "fugitivo" logra, de cualquier forma, dar vuelta la situación y anotar los números de alguno de sus perseguidores, estos quedan fuera de combate. Apenas se anota un número, el scout que lo anotó tiene que gritarlo, para que su prisionero sepa que quedó fuera. Este juego exige un acecho cuidadoso, y no hay "juego brusco" del tipo de golpear los tobillos. Para fugitivo conviene elegir a un scout despierto de la patrulla, porque no solo tiene que eludir a quizás seis o siete perseguidores, sino que además tiene que tratar de "capturarlos", si no quiere que lo "maten" a él.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 18. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 18: «Fugitives». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

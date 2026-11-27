@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bicicleta
   - emboscada
   - estrategia
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Cazador Cazado!
+# El Cazador Cazado
 
 ## Resumen
 El grupo 1 recibe la noticia de que una columna ciclista pasará por cierto camino a cierta hora, y prepara una emboscada. El grupo 2 se divide: A hace de columna, por el camino anunciado; B sale en dirección contraria con la orden de buscar enemigos. Lo más probable es que el grupo 1, concentrado en emboscar a A, se olvide de cuidarse, y B lo sorprenda... o caiga él mismo en una emboscada.
 
 ## Desarrollo
-1. Dividí al grupo en 1 y 2, con un buen guía en el grupo 1, y explicale la situación.
-2. El grupo 1 sale y se esconde en emboscada.
-3. El grupo 2 se divide en A y B. A hace el recorrido anunciado; B sale en sentido contrario a buscar al enemigo, con tiempo para ubicarlo antes de que A llegue.
-4. El que se deja ver a lo loco queda fuera y ayuda al árbitro. Los demás no quedan fuera: vuelven al inicio o se pasan al otro bando.
-5. Al final, se cuenta qué pasó y qué se aprendió.
+Dividan su fuerza en dos partes iguales, 1 y 2. Denle al grupo 1 un jefe capaz, y díganle que están operando en territorio enemigo y que deben cuidar su propia seguridad; también que se espera que una fuerza de ciclistas enemigos pase por cierto camino, a cierta hora y en cierta dirección. El grupo 1 sale entonces y se esconde en una buena emboscada. Después dividan al grupo 2 en dos partes, A y B. Que A cumpla el programa original asignado a los ciclistas enemigos, y manden a B dando la vuelta exactamente en la dirección opuesta. Díganle al guía a cargo de B que se vio un grupo enemigo en el camino, y que vaya a explorar en su busca. Denle tiempo suficiente para que pueda ubicarlo (si es despierto) antes de que A llegue a la emboscada. Lo más probable es que el grupo 1 esté tan concentrado esperando para emboscar a A que se haya olvidado de protegerse contra una sorpresa. B puede o no sorprender al grupo 1, y quizás caiga él mismo en una emboscada. En cualquier caso, se puede hacer un trabajo instructivo, que da lugar a la acción y al pensamiento rápidos de todos los participantes. A cualquier hombre que se vea exponiéndose a lo loco bajo el fuego hay que dejarlo fuera de combate y hacerlo trabajar de ayudante del árbitro. Por lo demás, no hay que dejar a los hombres fuera de combate, sino mandarlos de vuelta o hacerlos unirse al enemigo.
 
 ## Cierre
 - ¿El grupo 1 se acordó de cuidarse?
@@ -164,15 +163,12 @@ El grupo 1 recibe la noticia de que una columna ciclista pasará por cierto cami
 
 Divide your force into two equal parts, 1 and 2. Give No. 1 a capable commander, and tell him that they are operating in an enemy's country, and must look out for their own safety; also that a force of the enemy's cyclists are expected to move along a certain road at a certain time in a certain direction. No. 1 will then start off and conceal itself in a good ambush. Then divide No. 2 into two parts A & B. Let A carry out the original program assigned to the enemies' cyclists, and send B round in exactly the opposite direction. Tell the Patrol-leader in charge of B that a body of the enemy were seen on the road, and let him go and scout for them. Give him sufficient time to enable him to location (if he is smart) before A is due at the ambush. No. 1 will probably be so engrossed in waiting to ambush A that it will have neglected to provide for its own safety against surprise. B may or may not surprise No. 1, and may perhaps be ambushed itself. In any case some instructive work can be carried out, work affording room for rapid action and thought on the part of all concerned. Any man seen exposing himself obviously whilst under fire should be put out of action, and made to act as umpire's orderly. Otherwise men should not be put out of action, but either sent back or made to join the enemy.
 
-**Versión en español:**
-
-**EL CAZADOR CAZADO.**
-
-Dividan su fuerza en dos partes iguales, 1 y 2. Denle al grupo 1 un jefe capaz, y díganle que están operando en territorio enemigo y que deben cuidar su propia seguridad; también que se espera que una fuerza de ciclistas enemigos pase por cierto camino, a cierta hora y en cierta dirección. El grupo 1 sale entonces y se esconde en una buena emboscada. Después dividan al grupo 2 en dos partes, A y B. Que A cumpla el programa original asignado a los ciclistas enemigos, y manden a B dando la vuelta exactamente en la dirección opuesta. Díganle al guía a cargo de B que se vio un grupo enemigo en el camino, y que vaya a explorar en su busca. Denle tiempo suficiente para que pueda ubicarlo (si es despierto) antes de que A llegue a la emboscada. Lo más probable es que el grupo 1 esté tan concentrado esperando para emboscar a A que se haya olvidado de protegerse contra una sorpresa. B puede o no sorprender al grupo 1, y quizás caiga él mismo en una emboscada. En cualquier caso, se puede hacer un trabajo instructivo, que da lugar a la acción y al pensamiento rápidos de todos los participantes. A cualquier hombre que se vea exponiéndose a lo loco bajo el fuego hay que dejarlo fuera de combate y hacerlo trabajar de ayudante del árbitro. Por lo demás, no hay que dejar a los hombres fuera de combate, sino mandarlos de vuelta o hacerlos unirse al enemigo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VI (Cyclists' Games), juego 2. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VI (Cyclists' Games), juego 2: «The Biter Bit». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

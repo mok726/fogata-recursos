@@ -9,13 +9,13 @@ summary: "Encontrar datos en un diario antes que las demás patrullas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,18 +136,11 @@ rama_rovers:
 
 # Caza en el Diario
 
-## De qué se trata
-Cada patrulla tiene el mismo diario. El que dirige nombra algo que aparece en alguna página: «el pronóstico del tiempo», «un aviso de una bicicleta», «el resultado de un partido», «un pueblo de la provincia». La primera patrulla que lo encuentra y lo muestra se lleva el punto.
-
 ## Preparación
 1. Leé el diario antes y anotá unas 15 cosas para buscar, de páginas distintas.
 
 ## Cómo se juega
-1. Cada patrulla recibe su diario y se lo reparte: cada uno se queda con unas hojas.
-2. El que dirige dice qué hay que buscar.
-3. Todos buscan en sus hojas. El que lo encuentra levanta la mano con la hoja y señala el lugar.
-4. La primera patrulla que muestra bien lo pedido suma un punto.
-5. Gana la patrulla con más puntos.
+Cada jugador recibe un ejemplar del mismo diario. El que dirige nombra un lugar, un hecho o un objeto, y el primero que encuentra dónde se lo menciona en el diario suma un punto. Se puede hacer como competencia por equipos, repartiendo las hojas del diario.
 
 ### Variante: Diario digital
 Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido usar el buscador del sitio.
@@ -153,5 +152,18 @@ Con Caminantes, se puede hacer en la página de un diario en internet. Prohibido
 ## Notas para educadores
 - Sirve para trabajar alfabetización mediática: al final, charlá sobre qué es noticia, qué es opinión y qué es publicidad.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PAPER HUNT.**
+
+Each player is given a copy of the same paper. The leader mentions some place, event, or object, and the first to find mention of it in the paper gets a point. This may well be made a team contest, the paper being shared out.
+
 ---
-**Fuente:** inspirada en el juego «Paper Hunt» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 16, «Paper Hunt». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

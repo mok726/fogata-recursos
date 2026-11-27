@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - persecucion
 
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Colas!
+# Colas
 
 ## Resumen
 Cada jugador lleva el pañuelo metido suelto en el cinturón, como una cola. El objetivo es sacarle la cola a la mayor cantidad posible de rivales sin perder la propia. B-P la propone como forma de definir cualquier juego de acecho, en vez de golpear los tobillos con el bastón.
 
 ## Desarrollo
-1. Cada jugador se mete el pañuelo en la parte de atrás del cinturón, dejando colgar la mayor parte.
-2. Se forman dos bandos (o todos contra todos).
-3. A la señal, cada uno intenta sacar colas sin perder la suya.
-4. El que pierde la cola queda fuera (o pasa al otro bando, según se acuerde).
-5. Gana el bando o el jugador con más colas al final.
+En los juegos de exploración, muchas tropas usan el "golpe en el tobillo" con los bastones para definir el resultado del día. Es una forma muy emocionante de atacar y defenderse, pero al mismo tiempo es bastante peligrosa y no requiere mucho trabajo de exploración real. Una forma mucho mejor de decidir qué bando gana es la siguiente. Los scouts de los dos bandos llevan su pañuelo metido suavemente en el cinturón, y el objetivo de cada bando es capturar la mayor cantidad posible de estas "colas". Acercarse por detrás a un scout rival y arrebatarle la "cola" antes de que te descubra exige mucha más cautela y técnica scout que el golpe en el tobillo común. Además, un scout puede descubrir de golpe que le falta la cola justo cuando está por capturar la de un enemigo, lo que suma a la diversión del juego. Por supuesto, si se prefiere, se pueden usar trozos de tela de colores o pañuelos comunes en vez de los pañuelos scouts.
 
 ## Cierre
 - ¿Por qué B-P prefería esto a golpear con el bastón?
@@ -164,15 +163,12 @@ Cada jugador lleva el pañuelo metido suelto en el cinturón, como una cola. El 
 
 When engaged in scouting games, many troops make use of " ankle-tapping " with staves to decide the issue of the day. This is a very exciting mode of attack and defense, but at the same time is rather dangerous, and does not need much actual scouting work. A far better way of deciding which side is victorious is as follows. Scouts- on both sides wear their scarves tucked lightly in their belts, and the object of each ride is to capture as many of these 11 tails " as possible. To creep up behind a hostile Scout and grab his " tail before he discovers you, calls for far more caution and scouting than does ordinary ankle-tapping. Again, a Scout may suddenly discover that his own tail is missing just as he is going to capture an enemy's, which all adds to the fun of the game. Of course, if desired, colored pieces of cloth or handkerchiefs can be used instead of the Scout scarves.
 
-**Versión en español:**
-
-**COLAS.**
-
-En los juegos de exploración, muchas tropas usan el "golpe en el tobillo" con los bastones para definir el resultado del día. Es una forma muy emocionante de atacar y defenderse, pero al mismo tiempo es bastante peligrosa y no requiere mucho trabajo de exploración real. Una forma mucho mejor de decidir qué bando gana es la siguiente. Los scouts de los dos bandos llevan su pañuelo metido suavemente en el cinturón, y el objetivo de cada bando es capturar la mayor cantidad posible de estas "colas". Acercarse por detrás a un scout rival y arrebatarle la "cola" antes de que te descubra exige mucha más cautela y técnica scout que el golpe en el tobillo común. Además, un scout puede descubrir de golpe que le falta la cola justo cuando está por capturar la de un enemigo, lo que suma a la diversión del juego. Por supuesto, si se prefiere, se pueden usar trozos de tela de colores o pañuelos comunes en vez de los pañuelos scouts.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 19. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 19: «Tails». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

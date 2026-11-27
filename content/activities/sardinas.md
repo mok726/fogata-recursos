@@ -9,13 +9,13 @@ summary: "Encontrar al escondido y esconderse con él."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,19 +134,8 @@ rama_rovers:
 
 # Sardinas
 
-## De qué se trata
-Uno solo se esconde. Los demás cuentan hasta cien y salen a buscarlo, cada uno por su lado. El que lo encuentra no dice nada: se esconde con él, en el mismo lugar. Así, cada vez hay más gente apretada en el escondite. El juego termina cuando el último encuentra a todos.
-
 ## Cómo se juega
-1. Se elige a uno para esconderse. Los demás se tapan los ojos y cuentan hasta cien.
-2. El escondido busca un lugar donde después puedan entrar varios.
-3. Todos salen a buscarlo, por separado.
-4. El que lo encuentra se mete en el escondite sin hacer ruido y sin avisar a los demás.
-5. Cada vez hay más «sardinas» en la lata, ¡y es más difícil no reírse!
-6. El último que encuentra al grupo es el que se esconde en la próxima.
-
-## Reglas
-- El escondite no puede estar en lugares peligrosos: ni techos, ni árboles altos, ni autos, ni lugares cerrados con llave.
+Un jugador va y se esconde, y los demás tratan de encontrarlo; cada uno, cuando lo encuentra, se esconde en el mismo lugar, junto a él. El juego sigue hasta que están todos en el mismo lugar. Es una variante de la escondida.
 
 ## Para cerrar
 - ¿Qué los delató? ¿Las risas?
@@ -148,5 +143,18 @@ Uno solo se esconde. Los demás cuentan hasta cien y salen a buscarlo, cada uno 
 ## Notas para educadores
 - Marcá bien los límites del terreno y los lugares prohibidos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SARDINES.**
+
+One player goes and hides, the rest try to find him, and each as he does so hides in the same place alongside him. Game continues till all are in the one spot. Variation of Hide-and-Seek.
+
 ---
-**Fuente:** inspirada en el juego «Sardines» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 11, «Sardines». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

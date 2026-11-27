@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Pelota en la Gorra"
+title: "Pelota al Sombrero"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-pelota-en-la-gorra/"
@@ -9,13 +9,13 @@ summary: "Embocar la pelota en una gorra y escapar del dueño."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,19 +135,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Pelota en la Gorra
-
-## De qué se trata
-Todas las gorras se ponen juntas en el centro de un círculo y los jugadores, en el borde. Uno tira la pelota para embocarla en una gorra que no sea la suya. El dueño de esa gorra corre, agarra la pelota y grita «¡Alto!». Todos los que salieron corriendo se congelan, y el de la pelota intenta tocar a alguno tirándosela despacio.
+# Pelota al Sombrero
 
 ## Cómo se juega
-1. Pongan las gorras juntas en el centro de un círculo marcado. Todos se paran en el borde.
-2. Por turno, uno tira la pelota de abajo intentando embocarla en una gorra que no sea la suya.
-3. Si erra, se le pone una piedrita en su gorra.
-4. Si emboca, el dueño de esa gorra corre al centro a buscar la pelota y todos los demás escapan.
-5. Cuando el dueño agarra la pelota, grita «¡Alto!» y todos se congelan donde están.
-6. Sin salir del círculo, tira la pelota despacio para tocar a alguien, abajo de la cintura. Si toca a alguien, ese suma una piedrita. Si erra, la suma el que tiró.
-7. Al final, gana el que tiene menos piedritas.
+Los sombreros de los jugadores se juntan en el centro de un círculo de unos 3 m de radio, con los jugadores en el borde. Uno tira una pelota de tenis para meterla en uno de los sombreros, que no sea el suyo. Si erra, se le pone una marca en su sombrero; si erra tres veces, otro toma su lugar. El dueño del sombrero donde cae la pelota corre al centro, agarra la pelota y grita «¡Alto!». Los demás salen corriendo, pero se frenan al oír la palabra. El que tiene la pelota no puede salir del círculo y trata de pegarle a alguno de los otros con la pelota; si erra, se le pone una ficha en su sombrero; al que le pega pasa a ser el que la tiene. Gana el equipo con menos fichas.
 
 ## Para cerrar
 - ¿Qué convenía: escapar lejos o quedarse cerca para embocar después?
@@ -149,5 +146,18 @@ Todas las gorras se ponen juntas en el centro de un círculo y los jugadores, en
 ## Notas para educadores
 - Usá pelota blanda y pedí que los tiros sean siempre abajo de la cintura.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**EGG-IF-I-MOO (or hat ball).**
+
+Players' hats bunched together in centre of a 10-feet radius circle, players round edge. One throws a tennis ball into one of the hats, not his own, If he misses, a mark is put in his hat, if three times, another takes his place. Owner of the hat in which the ball lodges runs in, picks up ball, and then cries “ halt.” The rest run away but stop at the word. Player with the ball may not leave circle and tries to hit one of the others with ball, if he fails, a chip is put in his hat; one hit becomes IT. Team with fewest chips wins.
+
 ---
-**Fuente:** inspirada en el juego «Egg-if-I-Moo (Hat Ball)» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 6, «Egg-if-i-moo (or Hat Ball)». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

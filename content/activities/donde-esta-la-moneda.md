@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Dónde Está la Moneda?"
+title: "Arriba, Jenkins"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-la-moneda/"
@@ -9,13 +9,13 @@ summary: "Descubrir en qué mano está la moneda escondida."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,23 +133,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¿Dónde Está la Moneda?
-
-## De qué se trata
-Dos equipos se sientan uno frente al otro en una mesa. El que tiene la moneda la pasa por debajo de la mesa. Cuando el capitán del otro equipo dice «¡Arriba las manos!», todos levantan los puños cerrados. Después tienen que apoyar las manos sobre la mesa como el capitán diga. El capitán va sacando manos vacías hasta encontrar la moneda.
+# Arriba, Jenkins
 
 ## Cómo se juega
-1. Los equipos se sientan uno a cada lado de la mesa. El equipo A tiene la moneda.
-2. Con las manos debajo de la mesa, el equipo A se pasa la moneda de mano en mano hasta que alguien se la queda.
-3. El capitán del equipo B grita: «¡Arriba las manos!». Todos los del A levantan los puños cerrados.
-4. El capitán dice cómo apoyar las manos: «¡Despacito!», «¡De golpe!», «¡Caminando como arañas!». Todos lo hacen con la palma para abajo, sin que se vea la moneda.
-5. El capitán señala manos vacías: «Sacá esa». Si la mano estaba vacía, se va. Si señala la mano que tiene la moneda, perdió la vuelta.
-6. Si saca todas las manos vacías y deja solo la de la moneda, su equipo suma un punto y se lleva la moneda.
-7. Si en algún momento señala de una vez la mano con la moneda diciendo «¡Ahí está!», suma 5 puntos. Si se equivoca, pierde 5.
-8. El capitán cambia en cada vuelta.
-
-## Reglas
-- Solo el capitán puede dar las órdenes. Si un jugador obedece a otro, su equipo pierde un punto.
+Los jugadores en dos equipos, uno a cada lado de una mesa. Un equipo tiene una moneda chica, que uno de sus jugadores esconde en la mano. Cuando el capitán contrario dice «¡Arriba, Jenkins!», todos levantan las manos y las apoyan sobre la mesa como él indique (despacio, de golpe, arrastrándolas, etc.). Si el capitán, después, saca de la mesa todas las manos vacías, su equipo suma un punto. Si descubre la moneda sin sacar ninguna mano, suma 5. Si se equivoca, pierde 1 o 5, según el caso. Si pierden los que «tienen» la moneda, la moneda pasa al otro equipo. Solo se obedece al capitán; si no, se pierde un punto. El capitán cambia en cada partida.
 
 ## Para cerrar
 - ¿Qué gestos delataban al que tenía la moneda?
@@ -151,5 +144,18 @@ Dos equipos se sientan uno frente al otro en una mesa. El que tiene la moneda la
 ## Notas para educadores
 - Un clásico para tardes de lluvia en campamento.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UP JENKINS.**
+
+Players in two teams on each side of a table. One side has a small coin (6d.) which one of the players conceals in his hand. When the opposing captain says “up jenkins” all raise their hands, and place them on the table, as he may direct (slowly, with a crash, crawling about, etc.). If the captain then clears all empty hands off the table, his side score one. If he spots the 6d. without moving any hands he scores 5. If he is wrong he loses 1 or 5 as the case may be. If the “holders” lose, the 6d. changes sides. Only the captain must be obeyed or a point is lost. Captain changes each game.
+
 ---
-**Fuente:** inspirada en el juego «Up Jenkins» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 25, «Up Jenkins». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

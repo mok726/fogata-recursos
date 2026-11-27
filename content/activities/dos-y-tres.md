@@ -9,13 +9,13 @@ summary: "Salvarse parándose delante de una pareja."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,25 +134,14 @@ rama_rovers:
 
 # Dos y Tres
 
-## De qué se trata
-Todos se ponen en ronda doble, de a parejas: uno adelante y otro atrás, mirando al centro. Un jugador persigue a otro por afuera de la ronda. El perseguido se salva parándose delante de una pareja: queda un trío, y el último de ese trío tiene que salir corriendo, porque ahora lo persiguen a él.
-
 ## Cómo se juega
-1. Formen una ronda de parejas: uno adelante, el compañero atrás, todos mirando al centro.
-2. Quedan dos sueltos: uno persigue y otro escapa.
-3. El que escapa corre alrededor y entre las parejas.
-4. Para salvarse, se para delante de una pareja. Ahora ahí hay tres.
-5. El de atrás de esos tres tiene que salir corriendo enseguida: ahora lo persiguen a él.
-6. Si el perseguidor toca al que escapa, cambian los papeles: el tocado persigue.
+Los jugadores en ronda, de a dos en fondo, mirando hacia adentro. Uno persigue a otro; cada vez que el perseguido se para delante de una pareja, el de atrás de esa pareja pasa a ser el perseguido. Si tocan al perseguido, él pasa a perseguir al que lo tocó.
 
-### Variante: Jaulas
-Las parejas se ponen frente a frente, agarradas de las manos, formando una jaula. El que escapa se mete en una jaula y sale corriendo el de afuera.
+**Variante:** las parejas se ponen frente a frente, tomadas de las manos, formando jaulas donde el perseguido se refugia; el de afuera de la jaula pasa a ser el perseguido.
 
-### Variante: Silbato
-Cada vez que suena el silbato, el perseguidor y el perseguido cambian de papel.
+**Variante:** cada vez que suena el silbato, el perseguido pasa a ser el perseguidor, y al revés.
 
-### Variante: Caminando o saltando
-Se juega caminando rápido o saltando en un pie, en vez de corriendo.
+**Variantes:** caminar, saltar en un pie, etc., en lugar de correr.
 
 ## Para cerrar
 - ¿Les convenía salvarse rápido o seguir corriendo?
@@ -154,5 +149,24 @@ Se juega caminando rápido o saltando en un pie, en vez de corriendo.
 ## Notas para educadores
 - Un clásico del patio. Con mucha gente, que haya dos perseguidores a la vez.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TWOS AND THREES.**
+
+Players in circle, two deep, facing in. One chases another, whenever the fugitive stops in front of a pair the rearmost one of that pair becomes the fugitive. Touched fugitive chases his pursuer.
+
+Variation.-Pairs face each other with joined hands forming cages in which the fugitive takes refuge, outer one of cage becoming fugitive.
+
+Variation.-Whenever the whistle blows fugitive becomes pursuer and vice versa.
+
+Variations.-Walking, hopping, etc., for running.
+
 ---
-**Fuente:** inspirada en el juego «Twos and Threes» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 22, «Twos and Threes». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

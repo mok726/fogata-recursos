@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Caza de Clips"
+title: "Caza de Alfileres"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/caza-de-clips/"
@@ -9,13 +9,13 @@ summary: "Encontrar clips de colores escondidos en el salón."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,21 +132,16 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Caza de Clips
-
-## De qué se trata
-El que dirige deja clips de colores en distintos lugares del salón: en el borde de una cortina, debajo de una mesa, en un cartel. Algunos se ven fácil y otros no tanto. Cada color vale distinto. Los lobatos los buscan y gana el que suma más puntos.
+# Caza de Alfileres
 
 ## Preparación
 1. Contá los clips de cada color.
 2. Ponelos a la altura de los chicos y en lugares seguros: nada arriba de un mueble alto ni en enchufes.
 
 ## Cómo se juega
-1. El que dirige explica los puntos: clips plateados 1 punto, clips de colores 2 puntos, clips negros 3 puntos.
-2. A la orden, todos salen a buscar. Tienen 5 minutos.
-3. Se buscan mirando y tocando con cuidado. No se mueven muebles.
-4. Al terminar el tiempo, se juntan y cada uno cuenta sus puntos.
-5. Después buscan todos juntos los que faltan hasta encontrarlos todos.
+Se esconden, más o menos, alfileres de distintos tipos por el salón. Los blancos valen 1; los blancos con cabeza de color, 2; los negros, 3. Gana la mejor colección.
+
+*Adaptación de Fogata:* en lugar de alfileres, usar clips o broches de colores (mismo puntaje por color), que no pinchan.
 
 ## Para cerrar
 - ¿Qué clips costaron más? ¿Por qué?
@@ -148,5 +149,18 @@ El que dirige deja clips de colores en distintos lugares del salón: en el borde
 ## Notas para educadores
 - Reemplaza a los alfileres del juego original: los clips no pinchan.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PIN HUNT.**
+
+Pins of various sorts are more or less hidden about a room. White pins count 1. White pins with coloured heads count 2. Black pins count 3. Best collection wins.
+
 ---
-**Fuente:** inspirada en el juego «Pin Hunt» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 76, «Pin Hunt». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

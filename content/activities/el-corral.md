@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Corral"
+title: "Encerrar las Ovejas"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-corral/"
@@ -9,13 +9,13 @@ summary: "Arrear ovejas al corral en grupos de pastores."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,25 +133,26 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Corral
-
-## De qué se trata
-Algunos jugadores son pastores: van de a cuatro, agarrados de las manos. Los demás son ovejas. Los pastores atrapan ovejas rodeándolas o empujándolas suave hacia un corral. Cuando en un corral hay cuatro ovejas, se agarran de las manos y salen a pastorear.
+# Encerrar las Ovejas
 
 ## Cómo se juega
-1. Marquen tres o cuatro corrales en el terreno.
-2. Se eligen tres grupos de cuatro pastores, que se agarran de las manos.
-3. Los demás son ovejas y se reparten por el terreno.
-4. A la orden, los pastores intentan rodear ovejas y llevarlas a un corral.
-5. Una oveja rodeada por un grupo de pastores tiene que ir al corral que le digan.
-6. Cuando hay cuatro ovejas en un corral, se agarran de las manos y son pastores nuevos. Gana la última oveja libre.
-
-## Reglas
-- Los pastores no se pueden soltar.
-- Se rodea, no se empuja fuerte.
+Se marcan varios corrales en el piso; 12 jugadores, en filas de a 4 tomados de las manos, son los pastores, y los demás son las ovejas. Los pastores tratan de atrapar a las ovejas o de llevarlas a un corral. A la oveja atrapada se la pone en el corral que quieran los pastores. Apenas hay 4 ovejas en un corral, se toman de las manos y pasan a ser otro pastor.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo los pastores para rodear a las ovejas?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PENNING SHEEP.**
+
+Various pens are marked out on floor, 12 players in lines of 4 holding hands are the shepherds, the rest are the sheep. The shepherds try to catch the sheep or to drive them into a pen. A caught sheep is put into any pen the shepherds like. As soon as there are 4 sheep in a pen they join hands and become another shepherd.
+
 ---
-**Fuente:** inspirada en el juego «Penning Sheep» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 18, «Penning Sheep». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Números en la Frente"
+title: "Números"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/numeros-en-la-frente/"
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - observacion
   - vista
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Números en la Frente!
+# Números
 
 ## Resumen
 Cada scout lleva un número grande de tres cifras al frente del sombrero o de una vincha. Varias patrullas atacan el campamento avanzando a cubierto y una lo defiende. Si un defensor lee en voz alta el número de un atacante, ese atacante queda fuera, y lo mismo al revés.
@@ -149,12 +152,7 @@ Cada scout lleva un número grande de tres cifras al frente del sombrero o de un
 2. Nombrá un árbitro para cada bando que anote los números cantados.
 
 ## Desarrollo
-1. Una patrulla defiende el campamento escondida. Las demás salen a unos 300 m.
-2. Los atacantes avanzan a cubierto. Nadie puede sacarse el sombrero, darlo vuelta ni taparse el número con las manos.
-3. Cuando alguien lee el número de un rival, lo grita y el árbitro lo anota.
-4. Cuando quedan unos 50 m entre los dos bandos, los árbitros cantan los nombres de los que quedaron fuera.
-5. El jefe atacante grita "¡carga!" y los atacantes corren al campamento mientras los defensores cantan números lo más rápido que pueden.
-6. Si llegan más atacantes que defensores en pie, gana el ataque.
+Este juego es excelente para entrenar la vista y enseñar el arte de avanzar a cubierto. Cada scout lleva un número de tres cifras prendido al frente del sombrero. El número tiene que estar dibujado en negro y ser perfectamente legible a 100 metros (las cifras de al menos 8 cm de alto). La tropa se divide así: dos o tres patrullas se alejan 300 metros del campamento y reciben la orden de avanzar sobre él a cubierto. Como defender es más fácil que atacar, solo una patrulla queda en el campamento para defenderlo. Cuando el grupo atacante avanza, los defensores observan atentamente sus movimientos y, habiendo elegido un buen escondite para que no se les vean los sombreros, esperan que el enemigo se ponga a tiro. Mientras el número no se pueda leer, se considera que están fuera de alcance. Cuanto más se acercan los atacantes, más cuidado tienen de no asomarse por encima de un arbusto el tiempo suficiente para que los defensores lean su número. Por supuesto, un buen scout mira por el costado y no por arriba de un arbusto o una roca; y si mira, en este juego tiene que ser muy rápido, porque no se puede sacar ni dar vuelta el sombrero ni usar las manos para tapar el número. Si los defensores logran leer los números, los gritan y el árbitro los anota. Los atacantes también gritan los números de los defensores que se dejan ver, y el árbitro del bando atacante los anota. Cuando solo quedan 50 metros entre los dos bandos, los árbitros dicen los nombres de los que fueron "eliminados", y esos chicos no participan en el resto del combate. Cuando el jefe de los atacantes considera que avanzó lo más cerca posible a cubierto, da la orden de "¡carga!", y el grupo atacante cruza a toda velocidad el espacio abierto frente al campamento mientras los defensores gritan los números tan rápido como pueden leerlos. Si los atacantes llegan al campamento con más hombres que los que quedan en el bando defensor, ganan. Pero si la carga final permite a la defensa eliminar a casi todos sus enemigos, el campamento se salva.
 
 ## Cierre
 - ¿Cómo se espía sin dejarse ver? (B-P: por el costado del arbusto, no por arriba).
@@ -170,15 +168,12 @@ Cada scout lleva un número grande de tres cifras al frente del sombrero o de un
 
 This game is admirable for training the eyesight and teaching the art of advancing under cover. Every Scout has a three figure number, pinned on the front of his hat. The number should be drawn in black and be quite decipherable at a distance of a hundred yards (the figures at least 3 in. in height). The troop is then divided up in the following manner: Two or three patrols are marched 300 yards from the camp, and instructed to advance on the camp under cover. As the work of defending is easier than attacking, only one patrol remains in camp to defend it. When the attacking party advance, their movements are watched eagerly by the defenders, who, having chosen good cover so that their hats are not visible, are waiting for the enemy to get within range. So long as the number is too indistinct to read, they are supposed to be out of range. The nearer the attackers approach, the more careful are they not to look over the top of a bush long enough for the defenders to read their number. Of course a good; Scout looks round the side, and not over the top of a bush or rock; and if he looks at all in this game he must be very sharp, for no hats may be removed or turned round and no hands used to conceal the number. If the defenders are able to read the numbers they call them out and the umpire writes them down. The attackers also call out the numbers of any defenders who expose themselves, and the umpire attached to the attacking party makes a note of these numbers. When only 50 yards separate the two parties the umpires call out the names of those who are shot, and those boys, must not take any part in the rest of the fight. When the commander of the attackers considers that he has advanced as near as he can under cover, he gives, the order "charge " and the attacking party sweep over the open space in front of the camp the defenders call out the numbers as fast as they can read them. If the attackers reach the camp with more men than survive in the defending side, then they have won. But if the final charge enables the defense to pick off nearly all their enemies the camp is saved.
 
-**Versión en español:**
-
-**NÚMEROS.**
-
-Este juego es excelente para entrenar la vista y enseñar el arte de avanzar a cubierto. Cada scout lleva un número de tres cifras prendido al frente del sombrero. El número tiene que estar dibujado en negro y ser perfectamente legible a cien yardas (las cifras de al menos 3 pulgadas, unos 8 cm, de alto). La tropa se divide así: dos o tres patrullas se alejan 300 yardas del campamento y reciben la orden de avanzar sobre él a cubierto. Como defender es más fácil que atacar, solo una patrulla queda en el campamento para defenderlo. Cuando el grupo atacante avanza, los defensores observan atentamente sus movimientos y, habiendo elegido un buen escondite para que no se les vean los sombreros, esperan que el enemigo se ponga a tiro. Mientras el número no se pueda leer, se considera que están fuera de alcance. Cuanto más se acercan los atacantes, más cuidado tienen de no asomarse por encima de un arbusto el tiempo suficiente para que los defensores lean su número. Por supuesto, un buen scout mira por el costado y no por arriba de un arbusto o una roca; y si mira, en este juego tiene que ser muy rápido, porque no se puede sacar ni dar vuelta el sombrero ni usar las manos para tapar el número. Si los defensores logran leer los números, los gritan y el árbitro los anota. Los atacantes también gritan los números de los defensores que se dejan ver, y el árbitro del bando atacante los anota. Cuando solo quedan 50 yardas entre los dos bandos, los árbitros dicen los nombres de los que fueron "fusilados", y esos chicos no participan en el resto del combate. Cuando el jefe de los atacantes considera que avanzó lo más cerca posible a cubierto, da la orden de "¡carga!", y el grupo atacante cruza a toda velocidad el espacio abierto frente al campamento mientras los defensores gritan los números tan rápido como pueden leerlos. Si los atacantes llegan al campamento con más hombres que los que quedan en el bando defensor, ganan. Pero si la carga final permite a la defensa eliminar a casi todos sus enemigos, el campamento se salva.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 7. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 7: «Numbers». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

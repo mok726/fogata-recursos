@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lanas de Colores"
+title: "Descubrí los Colores"
 duration: "25 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lanas-de-colores/"
@@ -9,13 +9,13 @@ summary: "Buscar lanas de colores que se camuflan en la naturaleza."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -133,10 +139,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Lanas de Colores
-
-## De qué se trata
-El que dirige reparte pedacitos de lana de colores por un terreno: sobre el pasto, en ramas, al pie de los árboles. Cada patrulla busca y junta todos los que pueda. Los colores que se notan poco valen más puntos.
+# Descubrí los Colores
 
 ## Preparación
 1. Contá cuántos pedacitos hay de cada color y anotalo.
@@ -144,12 +147,9 @@ El que dirige reparte pedacitos de lana de colores por un terreno: sobre el past
 3. Marcá bien el límite del terreno.
 
 ## Cómo se juega
-1. Cada patrulla recibe una bolsita.
-2. El que dirige explica los puntos: verde 6, gris 5, marrón 4, azul 3, rojo 2 y blanco 1.
-3. A la orden, salen a buscar. Tienen 10 minutos.
-4. Se busca mirando, sin arrancar plantas ni romper ramas.
-5. Al terminar el tiempo, cada patrulla cuenta sus lanas y suma los puntos.
-6. Ahora todos juntos buscan las que quedaron: el juego termina cuando no queda ni una lana en el lugar.
+Se reparten varios pedacitos de lana de distintos colores en una zona determinada o a lo largo de un rastro. Cada equipo trata de juntarlos.
+
+**Puntaje:** verde 6, gris 5, marrón 4, azul 3, rojo 2, blanco 1; o según el lugar.
 
 ## Para cerrar
 - ¿Qué colores encontraron primero? ¿Cuáles costaron más?
@@ -159,5 +159,18 @@ El que dirige reparte pedacitos de lana de colores por un terreno: sobre el past
 - Llevá la cuenta exacta de las lanas: no puede quedar ninguna en el terreno, porque los pájaros las usan para hacer nidos y se enredan.
 - Si el terreno es seco y marrón, cambiá los puntos según los colores que más se camuflen ahí.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPOT THE COLOURS.**
+
+A number of small ends of various coloured wool are distributed over a specified area, or along a trail. Each team tries to collect them. Scores.—Green 6, grey 5, brown 4, blue 3, red 2, white 1; or according to the surroundings. O.
+
 ---
-**Fuente:** inspirada en el juego «Spot the Colours» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 64, «Spot the Colours». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

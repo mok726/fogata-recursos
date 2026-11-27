@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Emboscadas en Bici"
+title: "Emboscadas en Bicicleta"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/emboscadas-en-bici/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bicicleta
   - emboscada
   - caminata
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,16 +141,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Emboscadas en Bici!
+# Emboscadas en Bicicleta
 
 ## Resumen
 Se divide al grupo en dos. Se elige un camino, y todo lo que esté a más de 180 m queda fuera de los límites. Un grupo sale a preparar una emboscada y, diez minutos después, el otro sale por el camino con exploradores bien adelante. Si se descubre la emboscada, se cambian los roles. B-P lo recomienda para la vuelta de una salida.
 
 ## Desarrollo
-1. Se elige el camino y los límites (180 m a cada lado).
-2. El primer grupo sale y se esconde.
-3. A los diez minutos sale el segundo, con exploradores adelante.
-4. Si descubren la emboscada antes de caer, se cambian los roles.
+Algo para que hagan las patrullas cuando van en bicicleta de un lugar a otro. Dividan la fuerza en dos grupos iguales. Elijan un camino. Cualquier lugar a más de 200 metros del camino quedará fuera de los límites. Manden a un grupo a tomar posición en emboscada y, diez minutos después, que el otro grupo salga por el camino, mandando a sus exploradores bien adelante. Si se descubre la emboscada, los dos grupos intercambian los roles. Esto resultará un ejercicio muy interesante, y se puede practicar con provecho a la vuelta de un día de campo, una marcha, etc., usando el camino de regreso.
 
 ## Cierre
 - ¿Qué delató a los escondidos?
@@ -162,15 +162,12 @@ Se divide al grupo en dos. Se elige un camino, y todo lo que esté a más de 180
 
 something for patrols to do when cycling from one place to another. Divide the force equally into two bodies. Choose a road. Any place more than 200 yards distant from the road will be out of bounds. Send one body off to take up an ambuscade, and ten minutes later let the other body move Off along the road, sending its Scouts well ahead. If the ambush is detected the two bodies will then ex- change roles. This will be found a very interesting exercise, and can with advantage be practiced on return from a field-day, route march, etc., the homeward road being used for the purpose.
 
-**Versión en español:**
-
-**EMBOSCADAS.**
-
-Algo para que hagan las patrullas cuando van en bicicleta de un lugar a otro. Dividan la fuerza en dos grupos iguales. Elijan un camino. Cualquier lugar a más de 200 yardas del camino quedará fuera de los límites. Manden a un grupo a tomar posición en emboscada y, diez minutos después, que el otro grupo salga por el camino, mandando a sus exploradores bien adelante. Si se descubre la emboscada, los dos grupos intercambian los roles. Esto resultará un ejercicio muy interesante, y se puede practicar con provecho a la vuelta de un día de campo, una marcha, etc., usando el camino de regreso.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VI (Cyclists' Games), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VI (Cyclists' Games), juego 4: «Ambuscades». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

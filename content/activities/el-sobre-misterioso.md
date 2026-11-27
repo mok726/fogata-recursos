@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Sobre Misterioso"
+title: "El Tesoro Escondido"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-sobre-misterioso/"
@@ -9,13 +9,13 @@ summary: "Descifrar un mensaje abreviado que lleva a un tesoro."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,10 +136,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Sobre Misterioso
-
-## De qué se trata
-Cada guía de patrulla recibe un sobre cerrado que no puede abrir hasta la señal. Adentro hay un mensaje corto y abreviado, por ejemplo: «P. N. – 2 m – busc. dorado». La patrulla tiene que descifrarlo: «A 2 metros de la pared norte, buscá algo dorado». Gana la que primero encuentra su tesoro.
+# El Tesoro Escondido
 
 ## Preparación
 1. Escondé los tesoros, uno por patrulla, en lugares distintos.
@@ -141,12 +144,9 @@ Cada guía de patrulla recibe un sobre cerrado que no puede abrir hasta la seña
 3. Guardá cada mensaje en un sobre con el nombre de la patrulla.
 
 ## Cómo se juega
-1. Cada guía recibe su sobre y lo tiene cerrado en la mano.
-2. A la señal, lo abren y leen el mensaje entre todos.
-3. Piensan juntos qué quiere decir cada abreviatura.
-4. Miden la distancia (con pasos o con la cinta) y buscan.
-5. Cuando encuentran el tesoro, lo llevan al que dirige sin decirles a las otras patrullas dónde estaba.
-6. Gana la primera patrulla en llegar con su tesoro.
+Cada guía de patrulla recibe un mensaje misterioso en un sobre cerrado, que se abre a una señal. Después cumple las órdenes del mensaje, que es una pista para encontrar un tesoro escondido.
+
+Por ejemplo: «Desde P. O. ....... 1,5 m, buscá bronce». Es decir: a 1,5 metros de la pared oeste del salón, encontrá una chinche de cabeza dorada en el piso.
 
 ### Variante: En cadena
 El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro mensajes, llegan al tesoro final.
@@ -157,5 +157,18 @@ El primer tesoro es otro sobre con un nuevo mensaje. Después de tres o cuatro m
 ## Notas para educadores
 - Antes, repasá los puntos cardinales del local: pegá carteles con N, S, E y O en las paredes si hace falta.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HIDDEN TREASURE.**
+
+Each P.L. gets a mysterious message in a sealed envelope to be opened at a given signal. He then acts on the orders in the message which is a clue to hidden treasure. E.g. From W. W ....... D. 5 f., search for brass. I.e. 5 feet from the West Wall of the room find a brass-headed drawing-pin in the floor.
+
 ---
-**Fuente:** inspirada en el juego «Hidden Treasure» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 70, «Hidden Treasure». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

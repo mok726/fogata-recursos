@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Atrapá el Bastón!"
+title: "El Bastón que Cae"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/atrapa-el-baston/"
@@ -9,13 +9,13 @@ summary: "Agarrar el bastón antes de que toque el piso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,24 +134,14 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Atrapá el Bastón!
-
-## De qué se trata
-Todos sentados en ronda, cada uno con un número, pero mezclados. El que dirige, en el centro, sostiene un bastón parado con un dedo arriba. Dice un número y saca el dedo. El que tiene ese número tiene que saltar y agarrar el bastón antes de que caiga. Si no llega, pierde una vida.
+# El Bastón que Cae
 
 ## Cómo se juega
-1. Siéntense en ronda y repartan números en desorden: el 1 no tiene que estar al lado del 2.
-2. El que dirige se para en el centro con el bastón parado en el piso, sostenido con un dedo arriba.
-3. Grita un número y saca el dedo.
-4. El que tiene ese número corre y agarra el bastón antes de que toque el piso.
-5. Si no llega, pierde una vida. Con tres vidas perdidas, sale.
-6. El que lo agarró puede pasar al centro y sostener el bastón.
+Los jugadores sentados en el piso en ronda, cada uno con un número. El que dirige, en el centro, mantiene un bastón parado, con un dedo apoyado arriba; dice un número y saca el dedo. El jugador que tiene ese número tiene que agarrar el bastón antes de que caiga; si no lo logra, pierde una vida. Los números tienen que estar mezclados en la ronda.
 
-### Variante: Con ruido de animal
-Cada jugador, además del número, es un animal. Cuando agarra el bastón tiene que hacer el ruido de su animal. Si se olvida, pierde una vida.
+**Variante:** cada jugador tiene además un pájaro o un animal asignado, y tiene que hacer el sonido de ese animal cuando agarra el bastón.
 
-### Variante: Con globo
-Para los más chicos o en interior: en vez del bastón, el que dirige suelta un globo y el del número tiene que agarrarlo antes de que toque el piso.
+**Atrapá el globo:** los jugadores sentados en el piso en ronda, numerados pero no en orden. El que dirige, en el centro, tiene un globo chico; al soltarlo dice un número. El jugador que tiene ese número trata de agarrar el globo antes de que toque el piso.
 
 ## Para cerrar
 - ¿Qué fue más difícil: escuchar el número o ser rápido?
@@ -153,5 +149,24 @@ Para los más chicos o en interior: en vez del bastón, el que dirige suelta un 
 ## Notas para educadores
 - La ronda no debería ser muy grande: con un radio de unos dos metros todos tienen chance.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DROPPING STAFF.**
+
+Players sitting on floor in a circle, each with a number. Leader in centre balances a staff erect with finger on top, calls a number and removes finger. Player with that number must catch the staff before it drops, if he fails he loses one life. Numbers should be haphazard about the circle.
+
+Variation.-Each player also has a bird or animal allotted him, and must make the animal's correct noise as he catches the staff.
+
+**CATCH THE BALLOON.**
+
+Players seated on floor in circle, numbered but not in sequence. Leader in centre holds a small balloon, and as he drops it he calls a number. The player with that number tries to catch the balloon before it touches the floor.
+
 ---
-**Fuente:** inspirada en el juego «Dropping Staff / Catch the Balloon» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 21, «Dropping Staff» y n.º 36, «Catch the Balloon». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

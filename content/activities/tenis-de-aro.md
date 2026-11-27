@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tenis de Aro"
+title: "Tenis de Cubierta"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tenis-de-aro/"
@@ -9,13 +9,13 @@ summary: "Atrapar y devolver un aro de soga por encima de la red."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,22 +136,14 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Tenis de Aro
-
-## De qué se trata
-Se tiende una soga a la altura de los hombros, como red. Un equipo de cada lado. Se tiran un aro de soga por encima de la red: hay que atraparlo en el aire y devolverlo enseguida. El que lo deja caer o lo tira afuera de la cancha sale. Gana el equipo que dura más.
+# Tenis de Cubierta
 
 ## Preparación
 1. Hacé el aro: un pedazo de soga de 70 cm, unido en círculo con un empalme corto o un nudo y forrado con cinta para que no se deshaga.
 2. Tendé la red entre dos árboles o estacas, con un ballestrinque en cada punta. Marcá las líneas del fondo.
 
 ## Cómo se juega
-1. Cada equipo se para de un lado de la red.
-2. Uno saca: tira el aro por encima de la red, de abajo para arriba.
-3. Del otro lado tienen que atraparlo en el aire, con una mano o con las dos.
-4. El que lo atrapa lo devuelve enseguida, desde donde está, sin caminar con el aro.
-5. Si alguien deja caer el aro, sale. Si alguien lo tira afuera de la cancha, sale el que lo tiró.
-6. Gana el equipo al que le quedan jugadores al final.
+Se juega sobre una red de 1,50 m de alto, tirando un aro de soga de un lado al otro. Un equipo de cada lado de la red; el jugador al que se le cae el aro sale. Gana el equipo que dura más. El que tira un aro que cae afuera de la línea de fondo marcada, sale. También se juega individual o en parejas.
 
 ### Variante: Individual o en parejas
 Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
@@ -156,5 +154,18 @@ Se juega uno contra uno o dos contra dos, contando puntos como en el tenis.
 ## Notas para educadores
 - El juego nació en las cubiertas de los barcos. Armar la red con nudos de verdad es parte de la actividad.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**DECK TENNIS.**
+
+Played over a net about 5 feet high by throwing a rope ring from side to side. One team each side of net, any player dropping the ring falls out. Team lasting longest wins. Thrower of a shot falling outside a marked base line falls out. Also played as singles or pairs. For full details see Teni-Quoil, on sale at most sports stores.
+
 ---
-**Fuente:** inspirada en el juego «Deck Tennis» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 26, «Deck Tennis». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

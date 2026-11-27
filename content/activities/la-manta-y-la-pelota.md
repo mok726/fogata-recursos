@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Manta y la Pelota"
+title: "La Manta y el Globo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-manta-y-la-pelota/"
@@ -9,13 +9,13 @@ summary: "Mover la pelota en la manta para que no la agarren."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,18 +133,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Manta y la Pelota
-
-## De qué se trata
-Todos sentados en ronda agarran los bordes de una sábana. Encima hay una pelota liviana. Subiendo y bajando los bordes, la hacen rodar de un lado al otro. Un jugador de afuera da vueltas alrededor y trata de agarrarla.
+# La Manta y el Globo
 
 ## Cómo se juega
-1. Siéntense en ronda y agarren la sábana de los bordes, bien estirada.
-2. Pongan la pelota en el medio.
-3. Uno se queda afuera de la ronda: es el que caza.
-4. A la orden, suben y bajan los bordes para que la pelota ruede lejos del que caza.
-5. El que caza camina alrededor e intenta agarrarla estirando la mano por arriba de la ronda.
-6. Cuando la agarra, cambia de lugar con el que estaba más cerca.
+Los jugadores sentados en el piso en ronda, sosteniendo los bordes de una sábana o una manta. Un jugador, afuera, trata de agarrar una pelota o un globo que los demás hacen rodar por la sábana levantando o bajando los bordes.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo para mover la sábana todos a la vez?
@@ -146,5 +144,18 @@ Todos sentados en ronda agarran los bordes de una sábana. Encima hay una pelota
 ## Notas para educadores
 - Funciona muy bien con lobatos chicos. Una sábana de colores (o un paracaídas de juegos) lo hace más lindo.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON BLANKET.**
+
+Players seated in circle on floor, holding edges of a sheet or blanket. One player outside tries to catch a ball or balloon rolled about on sheet by the others raising or lowering the sides.
+
 ---
-**Fuente:** inspirada en el juego «Balloon Blanket» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 25, «Balloon Blanket». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Batalla de Platos"
+title: "Batalla Simulada"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/batalla-de-platos/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - punteria
   - papel
 
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Batalla de Platos!
+# Batalla Simulada
 
 ## Resumen
 Dos bandos se ubican a distancia de tiro. Cada jugador, acostado boca abajo, clava delante suyo un plato con el borde en el suelo. A la voz de "¡ya!", todos tiran bollos de papel a los platos rivales. Al que le voltean el plato, queda fuera. Gana el bando que voltea más platos en el tiempo fijado.
 
 ## Desarrollo
-1. Se arman los bandos y se ubican enfrentados.
-2. Cada uno clava su plato delante de sí, apoyado en el borde.
-3. A la señal, todos tiran bollos al plato de un rival, siempre acostados.
-4. El jugador cuyo plato cae queda fuera de combate.
-5. Gana el bando con más platos en pie al final del tiempo.
+Para este juego hacen falta dos bandos, y la cantidad de jugadores se acuerda entre ellos. La munición es una buena cantidad de bollos de papel. Cada scout tiene un plato, y los bandos se ubican a distancia de tiro uno del otro. Si el terreno no es plano, se sortea quién se queda con la ventaja de la pendiente. Cada scout se acuesta boca abajo y, justo delante de él, apoya su plato clavando el borde en el suelo. A la voz de "¡ya!", cada guerrero le tira un bollo al plato de un rival. Cuando voltean un plato, el scout al que pertenece queda "fuera de combate". Gana el bando que logra "eliminar" a más rivales en un tiempo dado.
 
 ## Cierre
 - ¿Qué técnica de tiro funcionó mejor?
@@ -164,15 +163,12 @@ Dos bandos se ubican a distancia de tiro. Cada jugador, acostado boca abajo, cla
 
 For this game two sides are needed, the numbers being settled among the players. The ammunition is a quantity of paper bars. Every Scout has a plate, and the parties take up positions within throwing distance of each other. If the ground isn't flat, toss up for the advantage of the slope. Each Scout lies flat on his stomach, and just in front of him props up his plate by sticking the rim into the ground. At the word "go " each warrior aims a ball at an opponent's plate. When a plate is knocked down, the Scout to whom it belongs is " put out of action." The side which succeeds in " killing " most opponents in a given time wins. CHAPTER. III -- TRACKING GAMES.
 
-**Versión en español:**
-
-**BATALLA SIMULADA.**
-
-Para este juego hacen falta dos bandos, y la cantidad de jugadores se acuerda entre ellos. La munición es una buena cantidad de bollos de papel. Cada scout tiene un plato, y los bandos se ubican a distancia de tiro uno del otro. Si el terreno no es plano, se sortea quién se queda con la ventaja de la pendiente. Cada scout se acuesta boca abajo y, justo delante de él, apoya su plato clavando el borde en el suelo. A la voz de "¡ya!", cada guerrero le tira un bollo al plato de un rival. Cuando voltean un plato, el scout al que pertenece queda "fuera de combate". Gana el bando que logra "matar" a más rivales en un tiempo dado.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. II (Stalking Games), juego 6. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. II (Stalking Games), juego 6: «Mimic Battle». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

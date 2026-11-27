@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué Está Torcido?"
+title: "¿Qué Está Mal?"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-torcido/"
@@ -56,6 +56,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - ciudad
   - observacion
 
@@ -65,10 +66,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -135,17 +138,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡¿Qué Está Torcido?!
+# ¿Qué Está Mal?
 
 ## Resumen
 Dos grupos recorren una calle, uno por cada vereda, se cruzan al final y vuelven por la otra. Cada uno anota todo lo que esté torcido o fuera de lugar: un cartel caído, una persiana torcida, una mercadería mal puesta en una vidriera. No vale lo que está en movimiento. Además, hay que anotar con disimulo para que los que vienen detrás no se den cuenta.
 
 ## Desarrollo
-1. Se reúnen en un punto y se dividen en dos grupos, uno por vereda.
-2. Recorren la calle, se cruzan al final y vuelven por la vereda de enfrente.
-3. Cada uno anota con disimulo todo lo torcido o fuera de lugar que ve.
-4. Al volver, cada uno firma su hoja y se la da al juez, que verifica y pone puntos.
-5. Gana el más observador de la patrulla con más puntos.
+Hay que reunir a los scouts en un punto dado y dividirlos en dos secciones; cada una recorre una vereda de la calle, se cruzan al final y vuelven por la vereda opuesta. Se los puede mandar en fila o en forma irregular, de preferencia lo último; cada uno lleva lápiz y libreta o papel, y va anotando durante el recorrido cada objeto o cosa que esté torcida. Puede ser un cartel colgado en la puerta o en una pizarra de un comerciante, o un letrero colgante que no esté horizontal, persianas torcidas, mercadería notoriamente torcida en las vidrieras, y así. No hay que anotar irregularidades en vehículos en movimiento, porque el juez no tendría cómo verificarlas. Al acercarse al juez, cada scout firma su propio papel o libreta y se lo entrega; después se dan los puntos según el mérito, y se premia al scout más observador de la patrulla que sume más puntos entre todos sus scouts. La idea es que los scouts no solo observen los detalles, sino que además hagan sus anotaciones con tanta discreción y en momentos tales que los scouts que vienen detrás no los vean anotar. Se puede hacer con o sin límite de tiempo.
 
 ## Cierre
 - ¿Qué detalle se le pasó a casi todos?
@@ -161,15 +160,12 @@ Dos grupos recorren una calle, uno por cada vereda, se cruzan al final y vuelven
 
 Scouts should be mustered at a given point, then divided into two sections, one section proceeding along either side of the street, crossing. each other at the end, and returning on the opposite sides. They may be sent either in line or irregularly, the latter for preference, each carrying pencil and notebook or paper, and noting, during their journey, every article or thing which is out of the straight. It may be a placard fixed to a shopkeeper's door or board, or a small swing sign, which is out of the horizontal, window-blinds crooked, goods in shop windows markedly crooked, and so on. Irregularities on vehicles in motion are not to be noted, as no opportunity would be given for the judge to verify. Upon approaching the judge each Scout signs his own paper or book and hands it over; marks should then be given according to merit, and a prize awarded to the most observant Scout of the patrol which gets most marks among all its Scouts. The idea is, that not only shall Scouts observe details, but also that they shall make their entries in such a guarded manner and at such times that Scouts following them shall not notice the entry being made. This may be worked with or without a time-limit.
 
-**Versión en español:**
-
-**¿QUÉ ESTÁ MAL?**
-
-Hay que reunir a los scouts en un punto dado y dividirlos en dos secciones; cada una recorre una vereda de la calle, se cruzan al final y vuelven por la vereda opuesta. Se los puede mandar en fila o en forma irregular, de preferencia lo último; cada uno lleva lápiz y libreta o papel, y va anotando durante el recorrido cada objeto o cosa que esté torcida. Puede ser un cartel colgado en la puerta o en una pizarra de un comerciante, o un letrero colgante que no esté horizontal, persianas torcidas, mercadería notoriamente torcida en las vidrieras, y así. No hay que anotar irregularidades en vehículos en movimiento, porque el juez no tendría cómo verificarlas. Al acercarse al juez, cada scout firma su propio papel o libreta y se lo entrega; después se dan los puntos según el mérito, y se premia al scout más observador de la patrulla que sume más puntos entre todos sus scouts. La idea es que los scouts no solo observen los detalles, sino que además hagan sus anotaciones con tanta discreción y en momentos tales que los scouts que vienen detrás no los vean anotar. Se puede hacer con o sin límite de tiempo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VII (Town Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VII (Town Games), juego 5: «What's Wrong». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

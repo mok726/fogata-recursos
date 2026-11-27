@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta Zigzag"
+title: "Posta en Zigzag"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-zigzag/"
@@ -9,13 +9,13 @@ summary: "Correr en zigzag entre los compañeros hasta llegar adelante."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,18 +132,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta Zigzag
-
-## De qué se trata
-La patrulla en fila, con medio metro entre cada uno. El último corre en zigzag, pasando entre todos sus compañeros, hasta llegar adelante. Ahí se para y levanta la mano. Entonces sale el que quedó último. La patrulla gana cuando vuelve a estar en el orden del principio.
+# Posta en Zigzag
 
 ## Cómo se juega
-1. Cada patrulla se pone en fila, con un paso de distancia entre jugador y jugador.
-2. A la orden, el último corre en zigzag: por la derecha del primero que tiene adelante, por la izquierda del siguiente, y así.
-3. Cuando llega adelante, se para y levanta la mano.
-4. Ahora sale el que quedó último.
-5. Cuando la patrulla vuelve a estar en el orden del principio, se sientan todos.
-6. Gana la primera patrulla sentada.
+Los equipos en fila india, a unos 60 cm uno de otro. El último corre en zigzag entre los demás de su equipo hasta adelante; apenas llega, levanta la mano y sale el nuevo último. Gana el primer equipo que vuelve a quedar en su posición original. También se puede jugar saltando en un pie, corriendo para atrás, etc.
 
 ### Variante: Saltando, para atrás, gateando
 Se hace en un pie, caminando para atrás o gateando.
@@ -148,5 +146,18 @@ Al llegar adelante, el corredor sigue hasta una marca y vuelve a ponerse adelant
 ## Para cerrar
 - ¿Qué parte costaba más: el zigzag o mantener la fila derecha?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ZIG-ZAG RELAY.**
+
+Teams in file, players about 2 feet apart. Back player runs zig-zag between the rest of his team to the front as soon as he gets there he holds up his hand, and the new back player starts. The team to first regain its original position wins. May also be played hopping, running backwards, etc.
+
 ---
-**Fuente:** inspirada en el juego «Zig-Zag Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 21, «Zig-zag Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

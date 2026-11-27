@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué Cambió en la Pared?"
+title: "¿Qué Se Movió?"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-cambio-en-la-pared/"
@@ -9,13 +9,13 @@ summary: "Descubrir qué se movió o desapareció en una pared del local."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,18 +134,12 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¿Qué Cambió en la Pared?
-
-## De qué se trata
-Todos miran una pared del local durante dos minutos. Se dan vuelta y el que dirige mueve, saca o da vuelta algunas cosas. Cuando vuelven a mirar, tienen un minuto para descubrir los cambios y anotarlos.
+# ¿Qué Se Movió?
 
 ## Cómo se juega
-1. Pónganse en fila frente a la pared elegida y mírenla dos minutos en silencio. Fíjense en todo: carteles, banderines, clavos, fotos, manchas.
-2. A la orden, todos se dan vuelta y miran hacia el otro lado. Nadie espía.
-3. El que dirige cambia algunas cosas: corre un cuadro, da vuelta un cartel, saca un banderín, agrega algo.
-4. A la orden, se dan vuelta otra vez y miran un minuto, sin hablar.
-5. Vuelven a darse vuelta y cada patrulla anota en un papel todo lo que cambió.
-6. Se suma 1 punto por cada cambio bien anotado y se restan 2 por cada cambio inventado.
+Todos los jugadores miran una pared del local durante 2 minutos y después se dan vuelta. Se mueven o se sacan algunos objetos. Todos miran durante 1 minuto, se vuelven a dar vuelta y los equipos hacen la lista de los objetos movidos o que faltan. Se da 1 punto por cada observación correcta y se restan 2 por cada una equivocada o imaginaria. Gana el mejor total.
+
+Una vez, no muevan nada y miren qué pasa.
 
 ### Variante: La trampa
 Una vez cada tanto, no muevas nada. ¡Es muy divertido ver cuántos cambios «encuentran»!
@@ -154,5 +154,18 @@ En vez de una pared, un jugador se para al frente. Se da vuelta y cambia algo de
 ## Notas para educadores
 - La vuelta «sin cambios» enseña mucho sobre la diferencia entre ver y creer que vimos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT'S MOVED.**
+
+All players look at a wall of the clubroom for 2 minutes and then about turn. Certain objects are moved or removed. All look for 1 minute then about turn and teams make lists of moved or missing objects. 1 point for every correct observation. 2 off for every wrong or imaginary one. Best total wins. Move nothing, and watch result.
+
 ---
-**Fuente:** inspirada en el juego «What's Moved» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 42, «What's Moved». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

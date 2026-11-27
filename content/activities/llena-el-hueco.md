@@ -9,13 +9,13 @@ summary: "Correr alrededor de la ronda para recuperar tu lugar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,19 +134,8 @@ rama_rovers:
 
 # Llená el Hueco
 
-## De qué se trata
-Todos en ronda, mirando al centro. Uno camina por afuera y, de golpe, le toca la espalda a alguien. Los dos salen corriendo alrededor de la ronda, en sentidos contrarios. El primero que llega al hueco se queda con el lugar. El otro sigue dando vueltas y toca otra espalda.
-
 ## Cómo se juega
-1. Formen una ronda, mirando al centro, con las manos atrás.
-2. Uno camina por afuera de la ronda.
-3. Cuando quiere, toca la espalda de alguien y sale corriendo para un lado.
-4. El tocado sale corriendo para el otro lado.
-5. Los dos dan la vuelta completa y el que llega primero al hueco se queda.
-6. El que perdió sigue caminando por afuera y elige a otro.
-
-## Reglas
-- Al cruzarse, cada uno pasa por su derecha para no chocar.
+Los jugadores en ronda, mirando hacia adentro; uno corre por afuera y le toca la espalda a otro. Los dos corren alrededor de la ronda en direcciones opuestas, y el que no llega primero a llenar el hueco sigue corriendo.
 
 ## Para cerrar
 - ¿Les convenía tocar a alguien rápido o a alguien que estuviera distraído?
@@ -148,5 +143,18 @@ Todos en ronda, mirando al centro. Uno camina por afuera y, de golpe, le toca la
 ## Notas para educadores
 - Pedí que al cruzarse siempre pasen por la derecha: evita choques.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**FILL THE GAP.**
+
+Players in circle, facing in, one runs round outside and taps another on the back. Both then race round the circle in opposite directions, and whichever fails to get back first and fill the gap carries on.
+
 ---
-**Fuente:** inspirada en el juego «Fill the Gap» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 33, «Fill the Gap». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

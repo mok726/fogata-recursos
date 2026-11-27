@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Duelo sobre los Tachos"
+title: "Justa sobre Tinas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/duelo-sobre-los-tachos/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - equilibrio
   - duelo
   - fuerza
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,16 +140,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Duelo sobre los Tachos!
+# Justa sobre Tinas
 
 ## Resumen
 Dos jugadores, cada uno parado sobre un tacho dado vuelta, a unos 3 m. Con cañas largas acolchadas en la punta, cada uno trata de hacer bajar al otro de su tacho. Si no hay tachos, sirven bancos bajos.
 
 ## Desarrollo
-1. Ubicá los tachos a unos 3 m sobre pasto blando.
-2. Cada jugador se para sobre el suyo con su caña.
-3. A la señal, empujan con la punta acolchada al cuerpo del otro (nunca a la cara).
-4. Pierde el que pone un pie en el suelo.
+Es un juego favorito de los Boy Scouts de Estados Unidos y lo inventó el señor Ernest Thompson Seton, Jefe Scout de Estados Unidos. Dos scouts se suben a tinas dadas vuelta, a unos 2,7 m de distancia, armados con largas cañas de bambú. Cada caña tiene un guante de boxeo en una punta, y los scouts tienen que bajarse uno al otro de las tinas con las cañas. Por supuesto, el guante de boxeo evita que se haga cualquier daño. Si no se consiguen tinas, se pueden usar bancos o sillas.
 
 ## Cierre
 - ¿Qué ayudó más: fuerza, equilibrio o puntería?
@@ -161,15 +161,12 @@ Dos jugadores, cada uno parado sobre un tacho dado vuelta, a unos 3 m. Con caña
 
 This is a favorite game of the Boy Scouts of America, and was invented by Mr. Ernest Thompson Seton, Chief Scout of America. Two Scouts are mounted on upturned tubs, about nine feet apart, and armed with long bamboo poles. Each pole has a boxing glove on one end, and the Scouts have to knock one another off the tubs with the poles. The boxing glove, of course, prevents any damage being done. If tubs cannot be obtained, forms or chairs can be used instead.
 
-**Versión en español:**
-
-**JUSTA SOBRE TINAS.**
-
-Es un juego favorito de los Boy Scouts de Estados Unidos y lo inventó el señor Ernest Thompson Seton, Jefe Scout de Estados Unidos. Dos scouts se suben a tinas dadas vuelta, a unos nueve pies (2,7 m) de distancia, armados con largas cañas de bambú. Cada caña tiene un guante de boxeo en una punta, y los scouts tienen que bajarse uno al otro de las tinas con las cañas. Por supuesto, el guante de boxeo evita que se haga cualquier daño. Si no se consiguen tinas, se pueden usar bancos o sillas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 20. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 20: «Tub-tilting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -9,13 +9,13 @@ summary: "Armar y desarmar un paquete prolijo en posta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -134,19 +140,24 @@ rama_rovers:
 
 # Posta del Paquete
 
-## De qué se trata
-Frente a cada patrulla hay una hoja de papel madera, un piolín y una caja. El primero corre y arma un paquete prolijo, atado con un nudo que se pueda desatar. Cuando el que dirige lo aprueba, vuelve. El siguiente corre, lo desarma con cuidado, enrolla el piolín y dobla el papel. El otro lo vuelve a armar, y así.
-
 ## Cómo se juega
-1. Cada patrulla forma fila. Los materiales están a unos 10 metros.
-2. El primero corre y arma el paquete: envuelve la caja con el papel, dobla las puntas y lo ata en cruz con el piolín.
-3. El nudo final tiene que ser un moño o un nudo de rizo con gaza, que se pueda desatar.
-4. El que dirige lo revisa. Si está bien, el jugador vuelve y toca al siguiente.
-5. El segundo corre, desata el paquete, enrolla el piolín y dobla el papel prolijo.
-6. El tercero lo vuelve a armar. Gana la primera patrulla que termina bien.
+Los equipos en fila india; enfrente de cada equipo, un pedazo de papel madera, un poco de piolín y un objeto para poner en el paquete. El primero de cada equipo corre, arma el paquete hasta que el que dirige quede conforme y vuelve corriendo para largar al siguiente, que desarma el paquete, enrolla el piolín y dobla bien el papel para que el siguiente vuelva a armar el paquete, y así sucesivamente. Gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Para qué sirve saber hacer un paquete bien atado? (Mudanzas, envíos, campamento.)
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PARCEL RELAY.**
+
+Teams in file; opposite each team a piece of brown paper, some string, and an object to be put in the parcel. Each first player runs up and makes up the parcel to the satisfaction of the leader, and runs back to start the next, who undoes the parcel, rolls up the string, and folds the paper neatly for the next to remake the parcel, and so on. First team to finish wins.
+
 ---
-**Fuente:** inspirada en el juego «Parcel Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 19, «Parcel Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

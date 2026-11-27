@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién Hizo el Ruido?"
+title: "El Ciego"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-hizo-el-ruido/"
@@ -9,13 +9,13 @@ summary: "Adivinar quién imita un ruido, con los ojos vendados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,19 +132,10 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¿Quién Hizo el Ruido?
-
-## De qué se trata
-Se arma una ronda sentada con un jugador en el centro, con los ojos vendados. El del centro señala hacia cualquier lado y hace un ruido: un maullido, un estornudo, un mugido. El que quedó señalado tiene que imitarlo. Si el del centro adivina quién fue, cambian de lugar.
+# El Ciego
 
 ## Cómo se juega
-1. Siéntense en ronda. Uno se pone en el centro y se venda los ojos.
-2. Antes de empezar, todos cambian de lugar sin hacer ruido, para que el del centro no sepa quién está dónde.
-3. El del centro gira, señala con el brazo estirado y hace un ruido: «¡Muuu!».
-4. El que quedó más cerca de donde señaló tiene que hacer el mismo ruido. Puede disfrazar la voz, ¡pero lo tiene que hacer!
-5. El del centro dice el nombre de quién cree que fue.
-6. Si acierta, el que imitó pasa al centro. Si no, sigue el mismo, señalando a otro lado.
-7. Cada vez que entra uno nuevo al centro, los demás vuelven a cambiar de lugar.
+Los jugadores se sientan en ronda y uno se queda en el centro con los ojos vendados. Señala hacia cualquier lado y hace un ruido cualquiera (que sea razonable). Aquel al que señaló tiene que imitar el ruido lo mejor que pueda. Si el ciego adivina quién es, cambian de lugar; si no, sigue. Cuando hay un ciego nuevo, los jugadores cambian de lugar en la ronda.
 
 ## Para cerrar
 - ¿Cómo reconocieron a sus compañeros aunque cambiaran la voz?
@@ -146,5 +143,18 @@ Se arma una ronda sentada con un jugador en el centro, con los ojos vendados. El
 ## Notas para educadores
 - Un juego muy simple para lobatos, para arrancar una reunión o para esperar un rato.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND MAN.**
+
+Players sit in a circle, one is blindfold in the centre; he points in any direction and makes any reasonable noise. Whoever is pointed at must imitate the noise as best he can. If the blind man can guess who it is they change places, if not carry on. When there is a new blind man the players should move their positions in the circle.
+
 ---
-**Fuente:** inspirada en el juego «Blind Man» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 40, «Blind Man». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

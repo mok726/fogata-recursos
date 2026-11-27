@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Siluetas al Tacto"
+title: "¿Qué Perfil?"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/siluetas-al-tacto/"
@@ -9,13 +9,13 @@ summary: "Reconocer formas recortadas en cartón con los dedos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -57,6 +57,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -64,24 +65,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,10 +136,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Siluetas al Tacto
-
-## De qué se trata
-El que dirige recorta en cartón siluetas de cosas conocidas: un perro, una tetera, una llave, una flor de lis. Cada jugador, con los ojos vendados, toca las siluetas una por una y dice qué cree que es.
+# ¿Qué Perfil?
 
 ## Preparación
 1. Recortá las siluetas del tamaño de una mano abierta, con bordes claros.
@@ -141,12 +144,9 @@ El que dirige recorta en cartón siluetas de cosas conocidas: un perro, una tete
 3. Numeralas por detrás.
 
 ## Cómo se juega
-1. Se venda los ojos el primer jugador y se sienta frente a la mesa.
-2. El que dirige le pasa una silueta. El jugador busca la flechita para saber dónde está arriba.
-3. Con la punta de los dedos recorre todo el borde, despacio. Piensa: ¿tiene patas? ¿tiene un mango? ¿es redondo o tiene puntas?
-4. Dice en voz baja qué cree que es, y un compañero lo anota junto al número de la silueta.
-5. Pasan todas las siluetas y después le toca al siguiente jugador. Los que esperan no pueden mirar ni soplar.
-6. Al final se muestran las siluetas y se cuentan los aciertos.
+Se recortan en cartón varias figuras conocidas. Cada jugador, por turno y con los ojos vendados, trata de decir qué son tocándolas. Hay que marcar la parte de arriba de cada cartón para que el que toca sepa cómo agarrarlo.
+
+Por ejemplo: una serie de cabezas de animales, etc.
 
 ### Variante: Por patrullas
 Cada patrulla manda un jugador por ronda. Gana la patrulla con más aciertos en total.
@@ -162,5 +162,18 @@ En vez de siluetas, usá hojas de árboles del lugar (secas y ya caídas). Hay q
 - Sirve para hablar de inclusión y de cómo usamos los otros sentidos cuando falta la vista.
 - Para Manada usá formas muy simples; para Scouts podés usar siluetas parecidas entre sí (dos herramientas, dos aves).
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHAT PROFILE.**
+
+A number of well-known shapes are cut out of cardboard. Each player in turn tries to say what they are by feeling blindfold. The top of each card should be marked for the feeler. E.g. A series of heads of animals, etc.
+
 ---
-**Fuente:** inspirada en el juego «What Profile?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 99, «What Profile». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

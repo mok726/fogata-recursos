@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Nudos a Ciegas"
+title: "Carrera de Nudos a Ciegas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/nudos-a-ciegas/"
@@ -9,13 +9,13 @@ summary: "Hacer nudos con los ojos vendados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -57,6 +57,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -64,24 +65,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -133,21 +139,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Nudos a Ciegas
-
-## De qué se trata
-Cada jugador se venda los ojos y tiene un cabo de soga. El que dirige dice un nudo y todos lo hacen sin mirar. Cuando terminan, levantan la mano. El que dirige revisa. Cada nudo bien hecho suma un punto.
+# Carrera de Nudos a Ciegas
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 
 ## Cómo se juega
-1. Siéntense en ronda, cada uno con su soga.
-2. Todos se vendan los ojos.
-3. El que dirige dice un nudo: «¡Nudo de rizo!».
-4. Cada uno lo hace sin mirar y, cuando termina, levanta la mano con el nudo.
-5. El que dirige revisa y anota los puntos. Después se sacan la venda para ver cómo les quedó.
-6. Siguen con otros nudos: ballestrinque alrededor de la pierna, as de guía, margarita.
+Los juegos de nudos como la Posta de Nudos, la Carrera de Nudos o la Carrera de As de Guía y Ballestrinque se pueden jugar con los ojos vendados.
 
 ### Variante: En posta
 Cualquier carrera de nudos se puede correr con los ojos vendados.
@@ -159,5 +157,18 @@ Cualquier carrera de nudos se puede correr con los ojos vendados.
 ## Notas para educadores
 - Para Manada, usá solo los nudos de su progresión.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLIND KNOTTING RACE.**
+
+Games such as Nos. 7, 8, and 9 can be played blindfold..
+
 ---
-**Fuente:** inspirada en el juego «Blind Knotting Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 11, «Blind Knotting Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

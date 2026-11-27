@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Embocar los Aros"
+title: "Atrapar Aros"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/embocar-los-aros/"
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - reflejos
   - punteria
   - sogas
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,7 +144,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Embocar los Aros!
+# Atrapar Aros
 
 ## Resumen
 Un lanzador tira, uno por uno y bastante rápido, seis aros de soga a otro jugador, que tiene que atraparlos con el bastón. El lanzador cambia de lugar y tira cortos, altos y largos, pero nunca a menos de 3 m. B-P dice que hace rápida la vista y ágiles los pies.
@@ -150,10 +153,7 @@ Un lanzador tira, uno por uno y bastante rápido, seis aros de soga a otro jugad
 1. Armá los aros de soga (un trozo de soga con las puntas unidas por una costura o un empalme).
 
 ## Desarrollo
-1. El atrapador se para con el bastón listo.
-2. El lanzador tira los aros de a uno, dándole tiempo justo para volver a la posición.
-3. Varía tiros cortos, altos y largos, desde distintos lugares, a más de 3 m.
-4. Se cuentan los aros atrapados en el bastón. Se cambian roles.
+Un número efectivo para una exhibición scout es Atrapar Aros. También es un juego excelente para los scouts, porque los hace rápidos de vista y ágiles de pies. El juego es así: un scout, al que llamaremos el "lanzador", tiene media docena de aros de soga de unas 10-12 cm de diámetro, que le tira a otro scout, que tiene que atraparlos de a uno con su bastón. El "lanzador" tiene que tirar los aros bastante rápido, dándole al "atrapador" apenas el tiempo justo para volver con elegancia a la posición de "en guardia" después de atrapar o errar cada aro. Los aros no deberían tirarse siempre desde el mismo lugar; pero el "lanzador" nunca debe acercarse a menos de 3 metros del "atrapador". Hay que dar tiros cortos, altos y largos, para hacer más emocionante el juego. El bastón debería tener un trozo de cuero puesto encima para proteger las manos de los golpes de los aros de soga. Por supuesto, el alcance y las demás distancias se pueden adaptar a las condiciones del lugar.
 
 ## Cierre
 - ¿Qué tiro fue el más difícil de atrapar?
@@ -166,15 +166,12 @@ Un lanzador tira, uno por uno y bastante rápido, seis aros de soga a otro jugad
 
 An effective item for a Scout display is Ring Catching. It is also an excellent game for Scouts, as it makes them quick with their eyes and nimble on their feet. The game is played as follows: One Scout, whom we will call the "Thrower," is armed with half a dozen rope quoit rings, about four or five inches in diameter, which he throws to another Scout, who has to catch them one by one on his staff. The " Thrower " must deliver the rings fairly quickly, only giving the " Catcher " time to come smartly back to the " engage " position, after catching or missing each ring. The rings should not be thrown from the same spot each time; but the " Thrower " should never approach within three yards of the " Catcher." Short throws, high throws, and long throws should be all given, in order to make the game more exciting. The pole should have a piece of leather slipped over it to protect the hands from being hurt by the rope rings. Of course, the range and other distances can be made to suit local conditions.
 
-**Versión en español:**
-
-**ATRAPAR AROS.**
-
-Un número efectivo para una exhibición scout es Atrapar Aros. También es un juego excelente para los scouts, porque los hace rápidos de vista y ágiles de pies. El juego es así: un scout, al que llamaremos el "lanzador", tiene media docena de aros de soga de unas cuatro o cinco pulgadas (10-12 cm) de diámetro, que le tira a otro scout, que tiene que atraparlos de a uno con su bastón. El "lanzador" tiene que tirar los aros bastante rápido, dándole al "atrapador" apenas el tiempo justo para volver con elegancia a la posición de "en guardia" después de atrapar o errar cada aro. Los aros no deberían tirarse siempre desde el mismo lugar; pero el "lanzador" nunca debe acercarse a menos de tres yardas del "atrapador". Hay que dar tiros cortos, altos y largos, para hacer más emocionante el juego. El bastón debería tener un trozo de cuero puesto encima para proteger las manos de los golpes de los aros de soga. Por supuesto, el alcance y las demás distancias se pueden adaptar a las condiciones del lugar.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 17. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 17: «Ring Catching». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

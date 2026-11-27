@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Martillazo a Ciegas"
+title: "Clavar la Estaca a Ciegas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/martillazo-a-ciegas/"
@@ -9,13 +9,13 @@ summary: "Encontrar una estaca y pegarle a ciegas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,23 +136,10 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Martillazo a Ciegas
-
-## De qué se trata
-Se clava una estaca en el pasto. Cada jugador se para a unos 6 metros, se venda los ojos, da tres vueltas sobre sí mismo y tiene que llegar hasta la estaca y pegarle en la cabeza con una maza. Gana el que lo logra en menos golpes.
+# Clavar la Estaca a Ciegas
 
 ## Cómo se juega
-1. El que dirige clava una estaca dejando afuera unos 10 centímetros.
-2. El jugador mira dónde está, se para a unos 6 metros y se venda los ojos.
-3. Da tres vueltas despacio sobre sí mismo, con ayuda de un compañero.
-4. Camina hasta donde cree que está la estaca, con la maza apoyada en el hombro. No puede tantear el piso con las manos.
-5. Cuando cree que llegó, se agacha y da un golpe. Si le pega a la estaca en la cabeza, cuenta. Si le erra, puede dar otro golpe ahí mismo o moverse un paso.
-6. Se cuentan los golpes hasta que le pegue bien. Gana el que necesitó menos.
-
-## Reglas
-- Todos los demás se quedan a por lo menos 5 metros de la estaca.
-- La maza nunca se levanta por encima del hombro.
-- Un custodio acompaña al jugador vendado y frena el juego si alguien se acerca.
+Se clava una estaca en el suelo. Cada jugador, por turno, sale desde unos 5 metros con los ojos vendados; da unas 3 vueltas sobre sí mismo y después trata de avanzar hasta donde está la estaca y pegarle con una maza. No se permite tantear. Gana el jugador que le pega de lleno en la cabeza con menos golpes.
 
 ## Para cerrar
 - ¿Cómo se dieron cuenta de para dónde estaban mirando después de las vueltas?
@@ -155,5 +148,18 @@ Se clava una estaca en el pasto. Cada jugador se para a unos 6 metros, se venda 
 - Usá maza de madera o de goma, nunca un martillo de metal.
 - Buen juego para el día de armado del campamento: después todos saben clavar estacas.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD TENT-PEGGING.**
+
+A peg is driven into the ground. Each player in turn starts about 6 yards away blindfold; he turns round about 3 times and then tries to advance to where the peg is and hit it with a mallet. No feeling must be allowed. The player who hits it fairly on the top in the fewest blows wins. O
+
 ---
-**Fuente:** inspirada en el juego «Blindfold Tent-Pegging» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 63, «Blindfold Tent-pegging». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

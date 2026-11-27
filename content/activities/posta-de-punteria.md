@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta de Puntería"
+title: "Posta de Tiro al Blanco"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-de-punteria/"
@@ -9,13 +9,13 @@ summary: "Voltear el blanco por turno con tres pelotas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,25 +134,32 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta de Puntería
-
-## De qué se trata
-Frente a cada patrulla, a unos 10 metros, hay un blanco. Cada jugador tira las pelotas hasta voltearlo. Si se le acaban las pelotas, las va a buscar. Cuando lo voltea, lo vuelve a parar y vuelve con las pelotas para el siguiente. Gana la primera patrulla en la que todos voltearon el blanco.
+# Posta de Tiro al Blanco
 
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El primero tiene las tres pelotas.
-3. Tira desde la línea hasta voltear el blanco.
-4. Si se le terminan las pelotas, corre a buscarlas y vuelve a la línea para tirar.
-5. Cuando lo voltea, corre a pararlo, junta las pelotas y se las da al siguiente.
-6. Los que ya voltearon el blanco pueden ayudar alcanzando pelotas.
-7. Gana la primera patrulla en la que todos lo voltearon.
+Los equipos en fila india; delante de cada equipo, a unos 9 metros, se pone un blanco (un bolo o una botella de plástico con un poco de arena). Cada equipo tiene tres pelotas de tenis. Cada jugador, por turno, tira para voltear el blanco, buscando sus propias pelotas si hace falta, y cuando lo voltea lo vuelve a parar para el siguiente. Gana el primer equipo en el que todos voltean el blanco. Los que ya lo lograron pueden buscar las pelotas para su equipo.
 
-### Variante: Al balde
-Cada uno tiene tres papas o pelotitas para embocar en un balde. Cuando embocó las suyas, ayuda devolviendo las que no entraron. Gana la patrulla que mete todo.
+**Carrera de las papas por equipos:** los equipos en fila; a unos 27 metros delante de cada equipo, un balde en el centro de un círculo (de unos 3 m de radio). Alrededor del círculo se ponen tres papas por cada integrante del equipo. Los equipos corren hasta el borde del círculo y cada jugador trata de meter sus tres papas en el balde de su equipo. Cuando un jugador ya metió todas sus papas, puede ayudar devolviendo las papas que no entraron. Gana el primer equipo que vuelve al punto de partida con todas sus papas en el balde.
 
 ## Para cerrar
 - ¿Ayudar a los compañeros a buscar pelotas hizo que la patrulla ganara?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TARGET RELAY.**
+
+Teams in file; some target (Indian club) set up about 10 yards in front of each team. Each team has three tennis balls. Each player in turn throws to hit the target, retrieving his own balls, if necessary, and replacing the target after he hits it for the next. First team to all knock the target over wins. Successful players may retrieve balls for their team.
+
+**POTATO TEAM RACE.**
+
+Teams in line, a bucket about 30 yards in front of each team in the centre of a circle (radius about 3 yards). Placed round the circle three potatoes for each member of the team. Teams run to the edge of the circle, and each player tries to throw his three potatoes into his team’s bucket. A player, when all his potatoes are in the bucket, may help by throwing BACK potatoes which miss. First team back at the start with all its potatoes in the bucket wins.
+
 ---
-**Fuente:** inspirada en el juego «Target Relay / Potato Team Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 77, «Target Relay» y n.º 72, «Potato Team Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

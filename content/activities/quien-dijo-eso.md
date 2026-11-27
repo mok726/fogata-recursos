@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - memoria
   - escucha
 
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,17 +142,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡¿Quién Dijo Eso?!
+# ¿Quién Dijo Eso?
 
 ## Resumen
 Durante toda la reunión, un scout anota en secreto unas veinte frases llamativas que dijeron los demás. Hacia el final, las copia en hojas grandes numeradas. Se van mostrando una por una y cada jugador escribe quién cree que la dijo.
 
 ## Desarrollo
-1. Al empezar la reunión, el dirigente elige en secreto a un anotador.
-2. El anotador escucha y anota frases llamativas, sin que se note.
-3. Hacia el final, las pasa a hojas grandes numeradas.
-4. Se muestran de a una y cada uno escribe en su papel quién la dijo.
-5. Gana quien acierta más.
+Es una prueba de memoria, y vale mucho la pena probarla en el local. Durante toda la velada, y sin que los demás lo sepan, un scout debería anotar en una libreta a mano unas veinte de las frases más llamativas que se digan en la conversación general. Hacia el final de la velada, se escabulle y, en cada una de veinte hojas apartadas para eso, escribe uno de los "dichos" con letra grande. Para esto habría que usar crayón azul o negro, de modo que cada frase se vea claramente cuando se cuelguen las hojas. Las hojas se numeran, se sujetan juntas y se dan vuelta de a una, dejando tiempo suficiente para que los participantes escriban en un papelito "¿Quién dijo eso?".
 
 ## Cierre
 - ¿Qué frase fue la más fácil de reconocer? ¿Por qué?
@@ -165,15 +164,12 @@ Durante toda la reunión, un scout anota en secreto unas veinte frases llamativa
 
 This is a memory test, and is well worth trying in your clubroom. Throughout the evening, and unknown to the others, one Scout should, in a handy notebook, jot down some twenty of the most striking remarks made in the general conversation. Towards the end of the evening he then slips away, and on each of twenty sheets of paper, put a-side for the purpose, he writes one of the " sayings " in a bold hand. Blue or black crayon should be used for this, so that each sentence may be clearly seen when the sheets &e fastened up. The sheets are numbered, pinned up together, and turned over one by one-a sufficient time being allowed for competitors to write on slips of paper "Who Said That ?"
 
-**Versión en español:**
-
-**¿QUIÉN DIJO ESO?**
-
-Es una prueba de memoria, y vale mucho la pena probarla en el local. Durante toda la velada, y sin que los demás lo sepan, un scout debería anotar en una libreta a mano unas veinte de las frases más llamativas que se digan en la conversación general. Hacia el final de la velada, se escabulle y, en cada una de veinte hojas apartadas para eso, escribe uno de los "dichos" con letra grande. Para esto habría que usar crayón azul o negro, de modo que cada frase se vea claramente cuando se cuelguen las hojas. Las hojas se numeran, se sujetan juntas y se dan vuelta de a una, dejando tiempo suficiente para que los participantes escriban en un papelito "¿Quién dijo eso?".
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 16. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 16: «Who Said That ?». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

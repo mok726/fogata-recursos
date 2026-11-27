@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Globo y Pelotitas"
+title: "Fútbol de Globo y Pelotas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/globo-y-pelotitas/"
@@ -9,13 +9,13 @@ summary: "Empujar un globo a pelotazos hasta la línea contraria."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,18 +134,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Globo y Pelotitas
-
-## De qué se trata
-Cada equipo se para sobre su línea de gol. En el medio hay un globo grande. Los dos equipos le tiran pelotitas para empujarlo hasta la línea del otro equipo. El globo solo se mueve si le pega una pelotita tirada: no se lo puede tocar con el cuerpo ni con una pelota en la mano.
+# Fútbol de Globo y Pelotas
 
 ## Cómo se juega
-1. Cada equipo se para detrás de su línea, a unos 10 metros del globo.
-2. Se reparten las pelotitas en partes iguales.
-3. A la orden, todos tiran pelotitas al globo para empujarlo hacia la línea contraria.
-4. Pueden salir a buscar pelotitas, pero tienen que volver a su línea para tirar.
-5. Si el globo cruza la línea de un equipo, el otro equipo suma un gol y se vuelve a empezar.
-6. Nadie puede tocar el globo con el cuerpo.
+Cada equipo se forma sobre su propia línea de arco, y en el centro se pone un globo (o una pelota liviana). Cada equipo trata, tirando pelotas de tenis, de hacer pasar el globo por la línea del otro equipo. El globo solo se puede mover con una pelota tirada, no con una pelota que se tiene en la mano, y nunca con ninguna parte del cuerpo. Cada vez que el globo pasa la línea es un gol.
 
 ## Para cerrar
 - ¿Les convenía tirar todos juntos o de a uno?
@@ -147,5 +145,18 @@ Cada equipo se para sobre su línea de gol. En el medio hay un globo grande. Los
 ## Notas para educadores
 - Con pelotitas de papel bollado se puede jugar adentro sin romper nada.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BALLOON AND BALLS FOOTBALL.**
+
+Each team lines up on its own goal line, a balloon or football bladder is put in the centre. Each team then tries, by throwing tennis balls, to drive the balloon over the other goal line. The balloon may only be propelled by a thrown ball, not a ball held in the hand; and never by any part of the person. Each time the balloon goes over the line a goal is scored.
+
 ---
-**Fuente:** inspirada en el juego «Balloon and Balls Football» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 12, «Balloon and Balls Football». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

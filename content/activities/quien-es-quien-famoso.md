@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién Es? Retratos Famosos"
+title: "Celebridades"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-es-quien-famoso/"
@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - cultura-general
   - historia
 
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡¿Quién Es? Retratos Famosos!
+# Celebridades
 
 ## Resumen
 Se pegan retratos de personas conocidas en tarjetas numeradas y cada jugador anota quién cree que es cada uno. B-P proponía soldados, reyes, políticos y deportistas; hoy conviene una mezcla más amplia: científicas, artistas, deportistas, figuras del Movimiento Scout y Guía, de la historia del país.
@@ -149,9 +152,7 @@ Se pegan retratos de personas conocidas en tarjetas numeradas y cada jugador ano
 1. Elegí entre 15 y 25 retratos variados, con mujeres y varones, de tu país y del mundo, y de distintas épocas.
 
 ## Desarrollo
-1. Exhibí las tarjetas numeradas en una mesa o pared.
-2. Cada jugador o patrulla recorre y anota los nombres.
-3. Se corrige y se cuenta brevemente quién es cada persona.
+Se puede armar un buen juego recortando de los diarios una selección de retratos de personas célebres, pegando cada retrato en una tarjeta numerada e invitando a los presentes a nombrarlos; los soldados, los reyes, los políticos, los predicadores y los deportistas serán los más fáciles de reconocer.
 
 ## Cierre
 - ¿A quién no conocían? ¿Qué hizo?
@@ -165,15 +166,12 @@ Se pegan retratos de personas conocidas en tarjetas numeradas y cada jugador ano
 
 A good game can be devised by cutting, from the papers a selection of portraits of celebrities, pasting each portrait on a numbered card and inviting the company to name them; soldiers, monarchs, statesmen, preachers, and athletes will be the most readily recognized.
 
-**Versión en español:**
-
-**CELEBRIDADES.**
-
-Se puede armar un buen juego recortando de los diarios una selección de retratos de personas célebres, pegando cada retrato en una tarjeta numerada e invitando a los presentes a nombrarlos; los soldados, los reyes, los políticos, los predicadores y los deportistas serán los más fáciles de reconocer.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. IV (Indoor Games), juego 17. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. IV (Indoor Games), juego 17: «Celebrities». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

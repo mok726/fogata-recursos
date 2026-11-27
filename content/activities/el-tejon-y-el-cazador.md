@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Tejón y el Cazador"
+title: "Acosar al Tejón"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-tejon-y-el-cazador/"
@@ -61,6 +61,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - oido
   - ojos-vendados
   - exhibicion
@@ -71,10 +72,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -143,16 +146,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡El Tejón y el Cazador!
+# Acosar al Tejón
 
 ## Resumen
 Dos sogas de unos 3 m se atan a una estaca. El tejón sostiene una y el cazador la otra, los dos vendados. El tejón hace sonar una lata con una piedrita mientras gira alrededor, y el cazador lo busca por el sonido para darle con un almohadón. Los dos tienen que mantener la soga tensa para no enredarse.
 
 ## Desarrollo
-1. Clavá la estaca y atá las dos sogas.
-2. Se vendan el tejón y el cazador, cada uno con su soga tensa.
-3. El tejón hace sonar la lata y se mueve; el cazador lo busca y trata de darle con el almohadón.
-4. Cuando le da, se cambian o pasan otros dos.
+Es un juego excelente para una exhibición scout, y se puede jugar en un salón o al aire libre en un campo. Se atan un par de sogas, de unos 3 m cada una, a un peso grande o se clavan al suelo con estacas de carpa. El "tejón" sostiene la punta suelta de una soga y el "acosador" la otra. El tejón tiene una lata con una piedrita adentro, mientras que el acosador lleva un almohadón o una almohada. Los dos tienen los ojos vendados. El juego es así: el tejón hace sonar la piedrita en la lata mientras corre alrededor del peso, y el acosador trata de encontrarlo y pegarle con el almohadón. Por supuesto, los dos tienen que mantener su soga bien tensa mientras corren, para no tropezarse.
 
 ## Cierre
 - ¿Cómo sabías hacia dónde ir?
@@ -168,15 +168,12 @@ Dos sogas de unos 3 m se atan a una estaca. El tejón sostiene una y el cazador 
 
 This is an excellent game for a Scout display, and can be played either in a hall or out of doors in a field. A couple of ropes, each about ten feet long, are tied to a heavy weight or driven into the ground with tent pegs. The " Badger " holds the loose end of one rope and the "Baiter" the other. The Badger has a tin with a pebble in it, while the Baiter carries a cushion or pillow. Both are blindfolded. The game is played as follows: The Badger rattles the pebble in the tin, at the same time running round the weight, and the Baiter tries to find him and knock him with the cushion. Both boys, of course, have to keep their own rope quite taut as they run round to prevent themselves from tripping.
 
-**Versión en español:**
-
-**ACOSAR AL TEJÓN.**
-
-Es un juego excelente para una exhibición scout, y se puede jugar en un salón o al aire libre en un campo. Se atan un par de sogas, de unos diez pies (3 m) cada una, a un peso grande o se clavan al suelo con estacas de carpa. El "tejón" sostiene la punta suelta de una soga y el "acosador" la otra. El tejón tiene una lata con una piedrita adentro, mientras que el acosador lleva un almohadón o una almohada. Los dos tienen los ojos vendados. El juego es así: el tejón hace sonar la piedrita en la lata mientras corre alrededor del peso, y el acosador trata de encontrarlo y pegarle con el almohadón. Por supuesto, los dos tienen que mantener su soga bien tensa mientras corren, para no tropezarse.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 16. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 16: «Baiting the Badger». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

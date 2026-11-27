@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fuga de la Ronda"
+title: "Escape"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/fuga-de-la-ronda/"
@@ -9,13 +9,13 @@ summary: "Escaparse de la ronda sin romper la cadena de manos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,21 +132,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Fuga de la Ronda
-
-## De qué se trata
-Todos se agarran de las manos en ronda. Uno o dos jugadores quedan adentro y tienen que salir pasando por arriba o por abajo de los brazos. La ronda puede subir y bajar los brazos para no dejarlos salir, pero no puede achicarse ni soltarse.
+# Escape
 
 ## Cómo se juega
-1. Formen una ronda bien grande, agarrados de las manos. Uno o dos se ponen en el medio.
-2. A la orden, los del medio intentan salir: por abajo de los brazos, agachándose, o por arriba, si los brazos bajan.
-3. Los de la ronda suben o bajan los brazos para cerrarles el paso. ¡Sin soltarse!
-4. No se puede romper la cadena a la fuerza ni empujar. La ronda tampoco puede cerrarse sobre los del medio.
-5. El que logra salir elige a quién le toca entrar.
-
-## Reglas
-- Prohibido empujar o tirar de los brazos.
-- Nada de saltar por arriba de los brazos si están altos: se pasa por abajo o cuando bajan.
+Los jugadores se toman de las manos en ronda; uno o más se ponen en el centro y tratan de salir por arriba o por debajo de los brazos de los demás. No se permite romper la ronda a la fuerza, y la ronda no se puede cerrar.
 
 ## Para cerrar
 - ¿Qué truco usaron los que lograron salir?
@@ -148,5 +143,18 @@ Todos se agarran de las manos en ronda. Uno o dos jugadores quedan adentro y tie
 ## Notas para educadores
 - Para que nadie se golpee, la ronda tiene que tener brazos estirados y no achicarse.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ESCAPE.**
+
+Players join hands in a circle, one or more go into the centre and try to get out over or under the arms of the rest. No bursting through is allowed and the circle must not close in.
+
 ---
-**Fuente:** inspirada en el juego «Escape» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 3, «Escape». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

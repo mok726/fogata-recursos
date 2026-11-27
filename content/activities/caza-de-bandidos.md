@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bicicleta
   - persecucion
   - gran-juego
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -138,17 +141,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Caza de Bandidos!
+# Caza de Bandidos
 
 ## Resumen
 Se marca una zona con muchos caminos y senderos. Una patrulla, con su mejor guía, hace de bandidos: tiene que quedarse dentro de la zona dos horas sin ser capturada, con diez minutos de ventaja. El resto se divide en patrullas chicas que, coordinándose, tienen que atraparla sin caer en sus emboscadas.
 
 ## Desarrollo
-1. Marcá la zona en el mapa (B-P: unos 5 por 5 km; adaptala a lo que tengas) y explicá los límites.
-2. Los bandidos salen con diez minutos de ventaja.
-3. Los cazadores salen en patrullas chicas y se coordinan.
-4. Se captura tocando. Los bandidos pueden emboscar a los cazadores.
-5. Si los bandidos aguantan el tiempo, ganan.
+Marquen una zona con muchos caminos y senderos, de unos 5 km por 5 km. Designen una patrulla al mando de su mejor guía. Su objetivo será quedarse dentro de la zona durante, digamos, dos horas, sin ser capturada. Se le darán diez minutos de ventaja. El resto de la fuerza se divide después en patrullas chicas y trata, cooperando con cuidado, de capturarla, cuidando de no caer ellos mismos en una emboscada de su presa.
 
 ## Cierre
 - ¿Cómo se coordinaron las patrullas cazadoras?
@@ -163,15 +162,12 @@ Se marca una zona con muchos caminos y senderos. Una patrulla, con su mejor guí
 
 Mark off an area plentifully supplied with roads and foot- paths about three miles by three miles in extent. Tell off a patrol under your best Patrol-leader. His object will be to remain within the area for say two hours, without being captured. He should be allowed ten minutes' start. The remainder of the force will then split up into small patrols and endeavor by careful co-operation to effect his capture, care being taken not to be ambushed them- selves by their quarry.
 
-**Versión en español:**
-
-**CAZA DE BANDIDOS.**
-
-Marquen una zona con muchos caminos y senderos, de unas tres millas por tres millas. Designen una patrulla al mando de su mejor guía. Su objetivo será quedarse dentro de la zona durante, digamos, dos horas, sin ser capturada. Se le darán diez minutos de ventaja. El resto de la fuerza se divide después en patrullas chicas y trata, cooperando con cuidado, de capturarla, cuidando de no caer ellos mismos en una emboscada de su presa.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VI (Cyclists' Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VI (Cyclists' Games), juego 3: «Brigand Hunting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

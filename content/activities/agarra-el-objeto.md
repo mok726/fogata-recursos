@@ -9,13 +9,13 @@ summary: "Agarrar un objeto del centro cuando suena la orden."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,20 +135,8 @@ rama_rovers:
 
 # ¡Agarrá!
 
-## De qué se trata
-En el centro de la ronda hay objetos, uno menos que la cantidad de jugadores. El que dirige da órdenes para hacer: «¡Salten!», «¡Toquen el piso!», «¡Den una vuelta!». Pero cuando grita «¡Agarrá!», todos se tiran a buscar un objeto. El que se queda sin nada sale, se saca un objeto y se sigue.
-
 ## Cómo se juega
-1. Formen una ronda grande, todos a la misma distancia del centro.
-2. El que dirige pone los objetos en el medio: uno menos que la cantidad de jugadores.
-3. Da órdenes que todos cumplen: «¡Manos a la cabeza!», «¡Agachados!», «¡Vuelta entera!».
-4. De golpe grita «¡Agarrá!». Todos corren al centro a agarrar un objeto.
-5. El que se queda sin objeto sale y ayuda al que dirige. Se saca un objeto y se vuelve a la ronda.
-6. Gana el último que agarra.
-
-## Reglas
-- Cada uno agarra un solo objeto.
-- No se vale arrebatarle el objeto a otro: el que lo tocó primero, se lo queda.
+Los jugadores en ronda; en el centro, varios objetos chicos, uno menos que la cantidad de jugadores. El que dirige da distintas órdenes, que se cumplen, pero cada vez que dice «¡Agarrá!», todos se tiran al centro a tratar de agarrar uno de los objetos. El que se queda sin objeto sale, se saca un objeto y el juego sigue.
 
 ## Para cerrar
 - ¿Qué fue más difícil: escuchar bien o ser rápido?
@@ -150,5 +144,18 @@ En el centro de la ronda hay objetos, uno menos que la cantidad de jugadores. El
 ## Notas para educadores
 - Usá objetos blandos y ronda amplia para evitar cabezazos. Con muchos jugadores, poné los objetos esparcidos y no todos juntos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GRAB.**
+
+Players in circle, in centre a number of small objects, one less than the number of players. Leader gives sundry orders, which are carried out, but whenever he says “Grab,” all dive to the centre to try to get one of the objects. Unsuccessful player falls out, one object is removed, game continues.
+
 ---
-**Fuente:** inspirada en el juego «Grab» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 8, «Grab». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

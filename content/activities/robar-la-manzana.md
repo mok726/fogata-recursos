@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Robar la Manzana"
+title: "Robar la Huerta"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/robar-la-manzana/"
@@ -9,13 +9,13 @@ summary: "Robar la manzana sin que te toque el chacarero secreto."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,26 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Robar la Manzana
-
-## De qué se trata
-El ladrón sale del salón. La ronda elige en secreto a un chacarero, que es el dueño de la quinta. Se pone una manzana en el centro. El ladrón entra a la ronda por un lugar, intenta agarrar la manzana y salir por el mismo lugar por donde entró. Apenas toca la manzana, el chacarero puede salir a atraparlo.
+# Robar la Huerta
 
 ## Cómo se juega
-1. El ladrón sale del salón o se tapa los ojos lejos.
-2. La ronda elige en voz baja quién va a ser el chacarero. Se pone la manzana en el centro.
-3. Vuelve el ladrón. Entra a la ronda pasando entre dos jugadores.
-4. Va hasta el centro, mirando las caras para adivinar quién es el chacarero.
-5. Cuando toca la manzana, el chacarero sale de la ronda y corre a atraparlo.
-6. El ladrón tiene que salir por el mismo lugar por donde entró. Si lo logra sin que lo toquen, gana. Si lo tocan, el chacarero es el nuevo ladrón.
-
-## Reglas
-- El chacarero no se puede mover hasta que el ladrón toque la manzana.
+Los jugadores en ronda; se manda al «ladrón» fuera del salón, se elige a un «granjero» y se pone una «manzana» en el centro de la ronda. El ladrón entra a la ronda y trata de agarrar la manzana y salir de la ronda sin que lo toque el granjero, que él no sabe quién es. El granjero no se puede mover hasta que tocan la manzana. El ladrón tiene que salir de la ronda por el mismo lugar por donde entró.
 
 ## Para cerrar
 - ¿Cómo hicieron los de la ronda para no delatar al chacarero?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ROBBING THE ORCHARD.**
+
+Players in circle, “robber” is sent out of the room, “farmer” is chosen, and an “apple” put in the centre of circle. Robber enters the circle and tries to grab the apple and get out of the circle without being touched by the farmer, whom he does not know. The farmer may not move till the apple is touched. Robber must leave the circle at the same point as he entered.
+
 ---
-**Fuente:** inspirada en el juego «Robbing the Orchard» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 18, «Robbing the Orchard». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

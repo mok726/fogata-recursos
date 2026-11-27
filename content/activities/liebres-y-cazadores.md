@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Liebres y Cazadores"
+title: "Exploración a Campo Abierto"
 duration: "Medio día"
 layout: "layouts/activity.njk"
 permalink: "/activities/liebres-y-cazadores/"
@@ -59,6 +59,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - gran-juego
   - acecho
   - rastreo
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Liebres y Cazadores!
+# Exploración a Campo Abierto
 
 ## Resumen
 Cuatro scouts salen temprano como liebres, con una banda roja cruzada. Pueden esconderse, pero deben moverse de un lado a otro. Una hora después salen los cazadores, en parejas, y los persiguen hasta tocarlos. Es una práctica completa de esconderse, acechar, rastrear y moverse en el terreno.
@@ -150,10 +153,7 @@ Cuatro scouts salen temprano como liebres, con una banda roja cruzada. Pueden es
 2. Fijá la hora y el punto de regreso.
 
 ## Desarrollo
-1. Las liebres salen con su banda roja. Pueden ir juntas o separadas y esconderse cuando quieran, pero tienen que moverse de una zona a otra.
-2. Una hora después salen los cazadores, en parejas, con banda de otro color para no confundirse con otras personas.
-3. Cuando un cazador ve a una liebre, la persigue. Queda atrapada cuando la tocan.
-4. A la hora acordada, todos vuelven al punto de reunión.
+Se elige un pedazo de terreno, de ser posible la ladera de un cerro, de unos 8 km por lado (debería ser mucho menos si solo salen por unas horas); todos tienen que tener claros los límites del terreno antes de empezar. Entonces, temprano a la mañana, salen cuatro chicos para hacer de liebres. Pueden ir juntos o separados, adonde quieran, y aunque pueden esconderse cuando lo deseen, como regla deberían moverse de una parte del terreno a otra. Cada liebre lleva una banda roja cruzada sobre el hombro. Una hora después de que salieron las liebres, el resto del grupo, en general unos dieciséis, sale como cazadores a buscarlas. Los cazadores pueden ir todos juntos, solos o en parejas, como quieran; pero en general lo más divertido es que las liebres vayan solas y los cazadores en parejas. Conviene que los cazadores lleven una banda de color cruzada sobre el hombro (gris, amarilla o azul) para que se los distinga de la gente común del lugar. Así, el juego consiste en que los cazadores busquen hasta ver una liebre, y entonces corran tras ella para atraparla. Solo la atrapan cuando la tocan. Todo esto es una práctica excelente, para cazadores y liebres, de esconderse, acechar, rastrear y moverse a campo traviesa, y es un juego apasionante. Hacia la tarde termina el juego y todos vuelven a casa.
 
 ## Cierre
 - ¿Qué rastros dejaban las liebres?
@@ -169,15 +169,12 @@ Cuatro scouts salen temprano como liebres, con una banda roja cruzada. Pueden es
 
 A certain bit of country is chosen, the side of a hill if possible, about five miles across each way (it should be much less if you are only out for a few hours); the boundaries of the ground have to be clearly under- stood by everybody before starting. Then, in the early morning, four boys go out to act as hares. They can go together or separately, wherever they please, and though they may hide whenever they like, they should, as a rule, keep moving from one part of the ground to another. Each hare wears a red sash across his shoulder. An hour after the hares have started, the rest of the party, generally numbering sixteen, go out as hunters to find them. The hunters can go all together, or singly, or in pairs-any way they please; but as a rule, the best fun is for the hares to go singly and the hunters in pairs. It is well for the hunters to wear a colored sash across their shoulders - Grey, yellow or blue-so that they can be distinguished from ordinary country people moving about the ground. Thus the game is for the hunters to go looking about till they see a hare, and then they run after him and try to catch him. They only catch him when they touch him. This all gives excellent practice to both hunters and hares in hiding, stalking, tracking, and getting across country, and is a most exciting game. Towards the evening the game ends, and all make their way home.
 
-**Versión en español:**
-
-**EXPLORACIÓN A CAMPO ABIERTO.**
-
-Se elige un pedazo de terreno, de ser posible la ladera de un cerro, de unas cinco millas (8 km) por lado (debería ser mucho menos si solo salen por unas horas); todos tienen que tener claros los límites del terreno antes de empezar. Entonces, temprano a la mañana, salen cuatro chicos para hacer de liebres. Pueden ir juntos o separados, adonde quieran, y aunque pueden esconderse cuando lo deseen, como regla deberían moverse de una parte del terreno a otra. Cada liebre lleva una banda roja cruzada sobre el hombro. Una hora después de que salieron las liebres, el resto del grupo, en general unos dieciséis, sale como cazadores a buscarlas. Los cazadores pueden ir todos juntos, solos o en parejas, como quieran; pero en general lo más divertido es que las liebres vayan solas y los cazadores en parejas. Conviene que los cazadores lleven una banda de color cruzada sobre el hombro (gris, amarilla o azul) para que se los distinga de la gente común del lugar. Así, el juego consiste en que los cazadores busquen hasta ver una liebre, y entonces corran tras ella para atraparla. Solo la atrapan cuando la tocan. Todo esto es una práctica excelente, para cazadores y liebres, de esconderse, acechar, rastrear y moverse a campo traviesa, y es un juego apasionante. Hacia la tarde termina el juego y todos vuelven a casa.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 15. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 15: «Scouting in the Open». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

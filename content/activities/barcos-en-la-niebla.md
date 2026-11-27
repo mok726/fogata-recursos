@@ -9,13 +9,13 @@ summary: "Guiar con la voz a la patrulla vendada hasta el puerto."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -132,22 +138,12 @@ rama_rovers:
 
 # Barcos en la Niebla
 
-## De qué se trata
-Cada patrulla se pone en fila con los ojos vendados y las manos en los hombros del de adelante. Es un barco en la niebla. El capitán, que ve, está lejos y tiene que guiarlos solo con la voz hasta pasar entre dos sillas, que son la boca del puerto. Todos los capitanes gritan a la vez, así que hay que reconocer su voz.
-
 ## Cómo se juega
-1. Pongan dos sillas a un metro de distancia: es la boca del puerto.
-2. Cada patrulla se pone en fila, a unos 15 metros, con las manos en los hombros del de adelante, y se vendan los ojos. El guía es el capitán y no se venda.
-3. El capitán se queda parado cerca del puerto, sin moverse.
-4. A la orden, el capitán da instrucciones: «¡Adelante!», «¡Un poquito a la derecha!», «¡Stop!».
-5. El barco avanza sin soltarse. Todos los capitanes hablan a la vez, así que hay que reconocer la voz propia.
-6. Gana el primer barco que pasa completo entre las sillas.
+Los equipos, con los ojos vendados, en fila india, con las manos en los hombros del de adelante, a cierta distancia de su guía, que no está vendado. El guía, dando órdenes, trata de pilotear su barco a través de la boca de un puerto formada por dos sillas. Gana el primer equipo que pasa.
 
-### Variante: Sin nombres
-El capitán no puede decir el nombre de nadie de su patrulla.
+**Variante:** el guía no puede llamar a su equipo por el nombre; los suyos tienen que distinguir su voz entre las demás.
 
-### Variante: Obstáculos en la niebla
-Se ponen sillas por el salón. Cada jugador, vendado, cruza solo, guiado por su patrulla desde la meta. Si toca un obstáculo, tiene que dar tres vueltas alrededor antes de seguir.
+**Obstáculos en la niebla:** se ponen varias sillas como obstáculos por el salón y se marca una meta en una punta. Cada equipo, por turno, sale desde la otra punta con los ojos vendados y trata de llegar a la meta. Si un jugador toca un obstáculo, tiene que dar tres vueltas alrededor antes de seguir. Gana el equipo que logra pasar más jugadores en el tiempo fijado. Hay que cuidar que no haya ninguna luz fuerte que dé una pista de para dónde ir.
 
 ## Para cerrar
 - ¿Qué instrucciones servían y cuáles no? ¿Qué significa «a la derecha» si el barco está de frente?
@@ -156,5 +152,24 @@ Se ponen sillas por el salón. Cada jugador, vendado, cruza solo, guiado por su 
 ## Notas para educadores
 - Buen juego para trabajar confianza y comunicación clara en la patrulla.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SHIPS IN A FOG.**
+
+Teams blindfold in single file with hands on each others shoulders at some distance from their leader, who is not blind. Leader, by giving orders, tries to pilot his ship through a given harbour-mouth formed by two chairs. First team through wins.
+
+Variation.-Leader may not address his team by name but must rely on his voice being picked out from the rest.
+
+**OBSTACLES IN A FOG.**
+
+A number of chairs as obstacles are placed about the room, and a goal marked at the end. Each team in turn starts at the other end, blindfold, and tries to get to the goal. If a player touches an obstacle he must walk round it three times before going on. Team getting most through in the specified time wins. Care must be taken that there is no bright light to give a hint as to the right direction.
+
 ---
-**Fuente:** inspirada en el juego «Ships in a Fog / Obstacles in a Fog» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Ships in a Fog» y n.º 17, «Obstacles in a Fog». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

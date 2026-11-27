@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fútbol de Tres Piernas"
+title: "Fútbol con Aro"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/futbol-de-tres-piernas/"
@@ -9,13 +9,13 @@ summary: "Jugar al fútbol atados de a dos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -56,6 +56,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -63,24 +64,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,28 +135,18 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Fútbol de Tres Piernas
-
-## De qué se trata
-Dos equipos juegan al fútbol, pero cada jugador está atado de a dos con un compañero, tobillo con tobillo, como en la carrera de tres piernas. En vez de pelota se usa un aro de soga, que se patea por el piso. Solo el arquero puede usar las manos, y tiene que quedarse parado.
+# Fútbol con Aro
 
 ## Preparación
 1. Hacé el aro con un pedazo de soga de un metro, con las puntas unidas por un empalme o un nudo.
 2. Marcá arcos chicos, de unos dos metros de ancho.
 
 ## Cómo se juega
-1. Cada equipo se divide en parejas. Las parejas se atan juntas del tobillo de adentro con un pañuelo.
-2. Cada equipo elige un arquero, que juega suelto.
-3. Se tira el aro al medio y empieza el partido.
-4. El aro se patea por el piso. No se puede agarrar con las manos.
-5. El arquero ataja con las manos, pero siempre parado. No se puede tirar al piso.
-6. Prohibido empujar o cargar. Gana el equipo que hace más goles en diez minutos.
+**Con los pies atados:** dos equipos, cada uno defiende un arco de 1,80 m, saltando con los dos pies atados juntos. En lugar de pelota se patea un aro de soga. Solo el arquero puede usar las manos, pero tiene que quedarse parado. No se permite cargar contra el otro.
 
-### Variante: Solo con la pierna del medio
-Más difícil: solo se puede patear con las piernas atadas.
+**De tres piernas:** se juega como el anterior, pero los jugadores van atados de a dos como en una carrera de tres piernas. Los arqueros solo pueden usar la mano de afuera y tienen que quedarse parados.
 
-### Variante: Pies juntos
-Para Scouts: cada jugador se ata sus dos tobillos y se juega saltando.
+**Variante:** los jugadores solo pueden patear con la pierna del medio. No se permite cargar contra el otro.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo con su pareja para moverse?
@@ -158,5 +154,24 @@ Para Scouts: cada jugador se ata sus dos tobillos y se juega saltando.
 ## Notas para educadores
 - El nudo del tobillo va con pañuelo, flojo, y se desata enseguida si alguien se cae.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUOIT FOOTBALL (FEET TIED).**
+
+Two teams each defend 6-feet goals, hopping with their two feet tied together. In place of a ball a rope quoit is kicked. Only the goalkeeper may use his hands but he must remain standing. No charging allowed.
+
+**QUOIT FOOTBALL (3-LEGGED).**
+
+Played as No. 6, hut the players are tied in pairs as for a 3-legged race. The goalkeeper(s) may use their outside hands only and must remain standing.
+
+Variation.-Players may only kick with their middle leg(s). No charging allowed.
+
 ---
-**Fuente:** inspirada en el juego «Quoit Football (3-Legged / Feet Tied)» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 6, «Quoit Football (feet Tied)» y n.º 7, «Quoit Football (3-legged)». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

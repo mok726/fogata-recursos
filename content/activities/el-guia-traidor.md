@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Guía Traidor"
+title: "El Baquiano"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-guia-traidor/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - noche
   - acecho
   - estrategia
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,16 +142,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Guía Traidor!
+# El Baquiano
 
 ## Resumen
 Todos defienden un campamento salvo una patrulla. Se ubican puestos de guardia alrededor. Uno de los defensores es el guía traidor: recorre la defensa, sale a escondidas y se encuentra con la patrulla atacante en un punto acordado. Después la guía hasta el centro, de a dos o tres o en fila india. Si un defensor toca a alguno, queda capturado.
 
 ## Desarrollo
-1. Los defensores ubican sus puestos alrededor del campamento.
-2. El guía traidor recorre las defensas y sale a encontrarse con la patrulla.
-3. Guía a la patrulla al centro, de a dos o tres, o todos en fila.
-4. Al que tocan, queda capturado. Gana la patrulla si alguno llega al farol del centro.
+Para jugar de noche. Se elige una ciudad o un campamento y lo defienden todos los scouts presentes, salvo una patrulla. Los puestos avanzados tienen que ubicarse con cuidado alrededor. A esa patrulla la va a guiar hacia la ciudad un guía elegido entre los defensores; él es el traidor, y recorre y examina con cuidado las defensas; después se escurre fuera de la ciudad para encontrarse con la patrulla en un punto determinado. Trata de guiarlos hasta el centro de la ciudad, quizás llevándolos de a dos o tres por vez, o todos juntos en fila india. Si un defensor los toca, quedan capturados.
 
 ## Cierre
 - ¿Qué información del guía les sirvió más?
@@ -164,15 +164,12 @@ Todos defienden un campamento salvo una patrulla. Se ubican puestos de guardia a
 
 To be played at night. A town or camp is chosen and defended by all the Scouts present, except one patrol. The outposts must be carefully placed all round. The one patrol is to be led into the town by a guide chosen from the defenders - he is the traitor and goes round and carefully examines the defenses; then slips out of the town to meet the patrol at a, certain spot. He tries to guide them into the center of the town, perhaps taking them two or three at a time or all together in Indian file. If touched by one of the defenders they are captured.
 
-**Versión en español:**
-
-**EL BAQUIANO.**
-
-Para jugar de noche. Se elige una ciudad o un campamento y lo defienden todos los scouts presentes, salvo una patrulla. Los puestos avanzados tienen que ubicarse con cuidado alrededor. A esa patrulla la va a guiar hacia la ciudad un guía elegido entre los defensores; él es el traidor, y recorre y examina con cuidado las defensas; después se escurre fuera de la ciudad para encontrarse con la patrulla en un punto determinado. Trata de guiarlos hasta el centro de la ciudad, quizás llevándolos de a dos o tres por vez, o todos juntos en fila india. Si un defensor los toca, quedan capturados.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. VIII (Night Games), juego 2. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. VIII (Night Games), juego 2: «The Path-finder». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

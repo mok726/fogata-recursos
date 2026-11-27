@@ -2900,15 +2900,15 @@ sections: {
   id: "juegosscouts",
   name: "Juegos Scouts Clásicos",
   description:
-    "Juegos de patrulla, de ronda, de postas, de observación y de interior, inspirados en los grandes libros de juegos scouts de los años veinte.",
+    "Juegos de patrulla, de ronda, de postas, de observación y de interior, traducidos de los grandes libros de juegos scouts de los años veinte.",
   summary:
-    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Reúne juegos inspirados en dos clásicos de dominio público: **Gilcraft's Book of Games** (1928), del equipo de formación de *The Boy Scouts Association*, y **Sixty Indoor Games for Scouts**, de *J. B. Collyns* (década de 1920). \n\n<p>Las fichas no traducen los libros: toman la idea de cada juego y la cuentan de nuevo, con pasos para los chicos, variantes y notas para educadores. Se dejaron afuera los juegos de golpes, de fuerza bruta o que hoy no son seguros, y los que ya estaban en Fogata con otro nombre. \n\n<p>Los juegos de *Scouting Games* y de *Escultismo para Muchachos* de B-P están en las insignias de Baden-Powell.",
+    "**No es una insignia oficial**, sino una colección de Fogata de Recursos. \n\n<p>Reúne juegos inspirados en dos clásicos de dominio público: **Gilcraft's Book of Games** (1928), del equipo de formación de *The Boy Scouts Association*, y **Sixty Indoor Games for Scouts**, de *J. B. Collyns* (década de 1920). \n\n<p>Los juegos de Gilcraft (secciones A a F) están traducidos fielmente del impreso original de 1928, que es de dominio público; solo se pasaron las medidas a metros, se cambiaron algunos términos por los que se usan hoy en la Argentina y se sumaron preparación, preguntas de cierre y notas para educadores. Cada ficha trae el texto original en inglés. Los de Collyns (sección G) son fichas propias inspiradas en el libro. Se dejaron afuera los juegos de golpes, de fuerza bruta o que hoy no son seguros, y los que ya estaban en Fogata con otro nombre. \n\n<p>Los juegos de *Scouting Games* y de *Escultismo para Muchachos* de B-P están en las insignias de Baden-Powell.",
   logo: "/imagenes/insignias/juegosscouts.png",
   hero_image: "/imagenes/insignias/general-hero.png",
   hero_prompt: "A lively group of scouts aged 8 to 16 playing a team game on a sunny grass field, some running in a relay, others in a big circle laughing, a leader with a whistle, tents and trees in the background.",
   sources: [
     {
-      name: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928) – The Canadian Sea Scouts Homeport",
+      name: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928), impreso original en dominio público. Versión en línea: The Canadian Sea Scouts Homeport",
       url: "http://www.seascouts.ca/"
     },
     {
@@ -2919,7 +2919,7 @@ sections: {
   license: {
     type: "CC BY-NC-SA 4.0",
     url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "Los libros que inspiraron las fichas son de dominio público. El texto, la adaptación y el desarrollo de cada ficha son de Fogata de Recursos y se publican con CC BY-NC-SA 4.0. Las fichas no incluyen el texto original."
+    note: "Gilcraft's Book of Games (1928) es de dominio público: sus juegos se publican traducidos, con el texto original en inglés. Las fichas de la sección G (Collyns) son propias de Fogata de Recursos y se publican con CC BY-NC-SA 4.0; esa misma licencia cubre los agregados de Fogata (preparación, cierre y notas) en todas las fichas."
   },
   attribution: {
     organization: "Fogata de Recursos",

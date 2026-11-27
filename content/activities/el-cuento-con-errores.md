@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Cuento con Errores"
+title: "El Cuento Raro"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-cuento-con-errores/"
@@ -9,13 +9,13 @@ summary: "Escuchar un cuento y cazar todos sus disparates."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,21 +135,14 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Cuento con Errores
-
-## De qué se trata
-El que dirige lee en voz alta un cuento que parece normal, pero está lleno de cosas que no pueden ser: «Era una noche de sol radiante. Los scouts armaron la carpa con clavos de goma y encendieron el fuego con un balde de agua…». Los jugadores anotan cada error que descubren.
+# El Cuento Raro
 
 ## Preparación
 1. Escribí un cuento de una carilla sobre un campamento o una salida.
 2. Metele entre 10 y 15 errores: cosas imposibles, cosas que se contradicen («los cuatro de la patrulla: Ana, Leo y Sofi»), errores de técnica scout («el pañuelo se ata con nudo de rizo… en los cordones»).
 
 ## Cómo se juega
-1. Siéntense en ronda con papel y lápiz.
-2. El que dirige lee el cuento despacio, una sola vez.
-3. Cada vez que alguien descubre un error, lo anota con dos o tres palabras. Nadie dice nada en voz alta.
-4. Al terminar, se lee el cuento otra vez y se frena en cada error. ¿Quién lo anotó?
-5. Gana el que (o la patrulla que) cazó más errores.
+Los jugadores en ronda; el que dirige lee un cuento en el que metió muchos errores y contradicciones. Gana el equipo o el jugador que, al final, tiene la mejor lista de errores.
 
 ### Variante: Escriban el suyo
 Cada patrulla escribe un cuento con diez errores para que las demás los descubran.
@@ -155,5 +154,18 @@ Cada patrulla escribe un cuento con diez errores para que las demás los descubr
 ## Notas para educadores
 - Si los errores son de técnica scout, el juego sirve para repasar sin que parezca una clase.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**QUEER STORY.**
+
+Players in circle; leader reads a story into which are introduced numerous inaccuracies and contradictions. The team or player with the best list of faults at the end wins.
+
 ---
-**Fuente:** inspirada en el juego «Queer Story» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 91, «Queer Story». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

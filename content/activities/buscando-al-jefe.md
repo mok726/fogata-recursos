@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Buscando al Jefe"
+title: "Buscando al Dirigente"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/buscando-al-jefe/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rastreo
   - busqueda
   - orientacion
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Buscando al Jefe!
+# Buscando al Dirigente
 
 ## Resumen
 Cada guía recibe un sobre cerrado y se compromete por su honor a no abrirlo antes de cierta hora. Adentro hay un croquis de una zona y un recorrido propio para su patrulla. Todas las patrullas tienen que llegar a esa zona por su camino y encontrar al dirigente, que está escondido. Gana la primera que lo encuentra.
@@ -150,10 +153,7 @@ Cada guía recibe un sobre cerrado y se compromete por su honor a no abrirlo ant
 2. Prepará un sobre por patrulla con un croquis simple y un recorrido distinto para cada una, todos de largo parecido.
 
 ## Desarrollo
-1. Entregá los sobres y fijá la hora para abrirlos. Esperar es parte del juego.
-2. A la hora, las patrullas abren el sobre y siguen su recorrido.
-3. Al llegar a la zona, cada patrulla busca en línea, revisando con cuidado.
-4. Si a la media hora nadie encontró al dirigente, él toca el silbato y termina el juego.
+A cada guía de una tropa se le entrega un sobre cerrado y, diciéndoles que los sobres son importantes, se los compromete por su honor a no abrirlos antes de cierta hora. Esta espera hace más emocionante el juego. Cuando llega el momento de abrir los sobres, encuentran adentro un mapa a mano alzada de una zona determinada e instrucciones que dicen: todos tienen que reunirse en cierto punto, las patrullas se forman y cada una, por su recorrido especial, se dirige al lugar dibujado en el mapa donde estará escondido el dirigente. Por supuesto, los límites del lugar no deben ser demasiado estrechos, o el jefe será descubierto enseguida. Se ofrece un premio a la patrulla que encuentre primero a su jefe, así que cada patrulla debería trabajar en conjunto, revisando el terreno con cuidado en orden abierto. Si el jefe sigue escondido al cabo de media hora, o del tiempo acordado después de que llegó la tropa al lugar, toca un silbato y se termina el juego. Después la tropa puede seguir con otro trabajo scout. El lugar elegido debería tener mucha maleza y ser apto para esconderse. En el sobre de cada guía se pone un papel con el recorrido que deben seguir sus hombres para llegar al lugar, y estos recorridos tienen que ser de largo parecido, si no una patrulla tendrá ventaja sobre otra. Esto se hace para que las patrullas sientan que trabajan por su cuenta. Las órdenes en sobre cerrado enseñan a los scouts a dominar la curiosidad. Este juego se puede jugar de noche si hace falta.
 
 ## Cierre
 - ¿Les costó esperar para abrir el sobre?
@@ -171,15 +171,12 @@ Cada guía recibe un sobre cerrado y se compromete por su honor a no abrirlo ant
 
 The Patrol-leaders of a troop are each handed a sealed envelope, and being told that the envelopes are important, are put upon their honor not to open them before a certain time. This waiting makes the game more exciting. When the moment for opening the envelopes arrives, they find inside a rough outline map of some particular district, and instructions stating that :-All are to meet at a certain point, the patrols will form themselves, and each patrol, proceeding by its special route, will make for the place depicted in the map where the Scoutmaster will be hiding,. Naturally, the boundaries of the place must not be too confined, or the Scoutmaster's discovery will quickly take place. A reward is offered to the patrol which first finds their Scoutmaster, so each patrol should work together, searching the ground carefully in extended order. If the Scoutmaster is still concealed at the expiration of half an hour, or some agreed upon time-after the troops' arrival at the spot, he blows a whistle and the game is at an end. Then the troop could go on with other Scouting work. The spot selected should contain undergrowth in plenty and should be physically suited for concealment. In the envelope of each Patrol-leader would be placed a paper showing the route his men must follow to reach the spot, and these routes should be equal in length, otherwise one patrol will have an advantage over another. This is done so that the patrols shall feel they are working on their own. The sealed orders would teach the Scouts to restrain their curiosity. This game can be played after dark if necessary,
 
-**Versión en español:**
-
-**BUSCANDO AL JEFE DE TROPA.**
-
-A cada guía de una tropa se le entrega un sobre cerrado y, diciéndoles que los sobres son importantes, se los compromete por su honor a no abrirlos antes de cierta hora. Esta espera hace más emocionante el juego. Cuando llega el momento de abrir los sobres, encuentran adentro un mapa a mano alzada de una zona determinada e instrucciones que dicen: todos tienen que reunirse en cierto punto, las patrullas se forman y cada una, por su recorrido especial, se dirige al lugar dibujado en el mapa donde estará escondido el jefe de tropa. Por supuesto, los límites del lugar no deben ser demasiado estrechos, o el jefe será descubierto enseguida. Se ofrece un premio a la patrulla que encuentre primero a su jefe, así que cada patrulla debería trabajar en conjunto, revisando el terreno con cuidado en orden abierto. Si el jefe sigue escondido al cabo de media hora, o del tiempo acordado después de que llegó la tropa al lugar, toca un silbato y se termina el juego. Después la tropa puede seguir con otro trabajo scout. El lugar elegido debería tener mucha maleza y ser apto para esconderse. En el sobre de cada guía se pone un papel con el recorrido que deben seguir sus hombres para llegar al lugar, y estos recorridos tienen que ser de largo parecido, si no una patrulla tendrá ventaja sobre otra. Esto se hace para que las patrullas sientan que trabajan por su cuenta. Las órdenes en sobre cerrado enseñan a los scouts a dominar la curiosidad. Este juego se puede jugar de noche si hace falta.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. III (Tracking Games), juego 1. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. III (Tracking Games), juego 1: «Seeking the Scoutmaster». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

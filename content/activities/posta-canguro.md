@@ -9,13 +9,13 @@ summary: "Saltar las piernas de toda la patrulla como un canguro."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,22 +133,24 @@ rama_rovers:
 
 # Posta Canguro
 
-## De qué se trata
-La patrulla se sienta en una fila, con las piernas estiradas para adelante y medio metro de distancia entre uno y otro. El primero se para y salta con los pies juntos por encima de las piernas de todos sus compañeros. Al llegar al final, corre por detrás y vuelve a sentarse en su lugar. Entonces sale el siguiente.
-
 ## Cómo se juega
-1. Cada patrulla se sienta en fila, de costado, con las piernas estiradas.
-2. A la orden, el primero se para y salta, con los pies juntos, por encima de las piernas de cada compañero.
-3. Al llegar al final, corre por detrás de la fila y vuelve a su lugar.
-4. Cuando se sienta, el siguiente se levanta y salta para los dos lados: primero hacia el final y después hacia el principio.
-5. Gana la primera patrulla en la que saltaron todos.
-
-## Reglas
-- Los sentados no pueden mover las piernas.
-- Se salta con cuidado: el que pisa a alguien vuelve a empezar.
+Los equipos en fila, sentados en el piso con las piernas estiradas hacia adelante, a unos 60 cm uno de otro. El primer jugador de cada equipo salta con los pies juntos por arriba de las piernas de su equipo y después vuelve corriendo por atrás hasta su lugar. Apenas se sienta, el siguiente salta a lo largo de la fila, corre hasta la otra punta y salta por arriba de las piernas del primero hasta su lugar, y así sucesivamente. Gana el primer equipo que termina. Los jugadores pueden saltar con los dos pies o en uno solo, o cada uno puede hacer algo distinto, alternando.
 
 ## Para cerrar
 - ¿Les dio miedo que los pisaran? ¿Cómo se cuidaron?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**KANGAROO RELAY.**
+
+Teams in line sitting on floor with legs straight out in front of them, players about 2 feet apart. First player of each team jumps with feet together over the legs of his team and then runs round the back of his team to his place. As soon as he sits down the next player hops down the row, runs to the other end, and hops over the first players legs to his place, and so on. First team to finish wins. Players should either jump or hop or alternate players do different things.
+
 ---
-**Fuente:** inspirada en el juego «Kangaroo Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 14, «Kangaroo Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

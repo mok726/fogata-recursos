@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Liebre y los Perros"
+title: "Atrapen a la Liebre"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-liebre-y-los-perros/"
@@ -9,13 +9,13 @@ summary: "Proteger a la liebre abriendo y cerrando la ronda."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,23 +132,26 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# La Liebre y los Perros
-
-## De qué se trata
-La liebre está adentro de la ronda y dos perros, afuera. Los perros quieren atrapar a la liebre. La ronda está de su lado: la deja entrar y salir subiendo los brazos, y se los baja a los perros para frenarlos.
+# Atrapen a la Liebre
 
 ## Cómo se juega
-1. Formen una ronda agarrados de las manos. Una liebre se pone adentro y dos perros, afuera.
-2. A la orden, los perros intentan atrapar a la liebre.
-3. La ronda ayuda a la liebre: sube los brazos para que pase y los baja cuando vienen los perros.
-4. La liebre puede salir y entrar de la ronda todas las veces que quiera.
-5. Cuando un perro toca a la liebre, se cambia: la liebre pasa a la ronda, el perro es liebre y entra un perro nuevo.
-
-## Reglas
-- La ronda no puede empujar ni agarrar a los perros: solo bajar los brazos.
+Los jugadores en ronda, tomados de las manos; la «liebre», adentro, y dos «perros», afuera. Los perros tratan de atrapar a la liebre; los de la ronda dejan entrar o salir a la liebre cuando quieren, pero no dejan pasar a los perros, o se lo hacen difícil, para ayudar lo más posible a la liebre.
 
 ## Para cerrar
 - ¿Cómo se pusieron de acuerdo los de la ronda para proteger a la liebre?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CATCH THE HARE.**
+
+Players in circle join hands, “hare” inside, two “hounds,” outside. Hounds try to catch hare, players in circle let hare in or out at will, but prevent or hinder the hounds to best aid the hare.
+
 ---
-**Fuente:** inspirada en el juego «Catch the Hare» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 20, «Catch the Hare». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

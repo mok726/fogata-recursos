@@ -9,13 +9,13 @@ summary: "Cruzar la muralla sin que te toque el guardia."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,19 +134,24 @@ rama_rovers:
 
 # La Muralla China
 
-## De qué se trata
-En el medio del terreno se marca una franja de tres metros: es la muralla. Un guardia la cuida y no puede salir de ella. Todos los demás tienen que cruzar corriendo de una punta a la otra del terreno sin que el guardia los toque. Los tocados se quedan en la muralla y ayudan al guardia.
-
 ## Cómo se juega
-1. Marquen la muralla en el medio y dos líneas de casa, una en cada punta.
-2. El guardia se para en la muralla. Todos los demás, en una casa.
-3. A la orden, todos cruzan corriendo a la otra casa.
-4. El guardia intenta tocarlos mientras pasan por la muralla. No puede salir de la franja.
-5. Los tocados se quedan en la muralla y también tocan.
-6. Se cruza una y otra vez. El último que queda sin tocar es el guardia en la próxima.
+La muralla se marca a lo ancho del centro del terreno con dos líneas a unos 3 m una de otra, y un jugador cuida la muralla. Los demás tratan de correr de un lado del terreno al otro sin que los toque el de la muralla. Los que son tocados se quedan en la muralla y ayudan al guardia.
 
 ## Para cerrar
 - ¿Les convenía cruzar todos juntos o de a uno?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CHINESE WALL.**
+
+The wall is marked across the centre of the ground by two lines about 10 feet apart, one player guards the wall. The rest try to run from one side of the ground to the other, without being touched by the one on the wall. Any touched remain on the wall and assist the guard.
+
 ---
-**Fuente:** inspirada en el juego «Chinese Wall» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 12, «Chinese Wall». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pasos de la Abuela"
+title: "Los Pasos de la Abuela"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasos-de-la-abuela/"
@@ -9,13 +9,13 @@ summary: "Acercarse sin que la abuela te vea moverte."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -125,21 +131,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Pasos de la Abuela
-
-## De qué se trata
-Un jugador, la abuela, se para lejos y de espaldas. Los demás salen de una línea y tienen que acercarse a tocarla. La abuela cuenta en silencio y se da vuelta cuando quiere: todos se tienen que quedar quietos como estatuas. Al que ve moverse, lo manda de vuelta a la línea.
+# Los Pasos de la Abuela
 
 ## Cómo se juega
-1. La abuela se para a unos 20 metros, de espaldas a los demás.
-2. Todos se ponen en la línea de salida.
-3. Cuando la abuela está de espaldas, todos avanzan hacia ella.
-4. La abuela se da vuelta de golpe. Todos se quedan quietos como estatuas.
-5. Si ve a alguien moverse, lo nombra y ese vuelve a la línea. Al que vuelve tres veces, se queda ayudando a la abuela.
-6. El primero que toca a la abuela gana y pasa a ser la abuela.
-
-## Reglas
-- La abuela tiene que contar hasta diez, por lo menos, entre una vuelta y otra.
+Los jugadores en fila; un jugador a unos 20 metros, de espaldas a ellos. Los jugadores tratan de acercarse a él sin que los vea moverse. El de la punta no se puede dar vuelta hasta que haya contado para sí un número entre 20 y 40 desde la última vez que se dio vuelta. El jugador al que ven moviéndose vuelve a empezar; si lo ven tres veces, sale. Gana el primero que toca a la «abuela».
 
 ## Para cerrar
 - ¿Qué estrategia usaron: avanzar mucho de golpe o de a poquito?
@@ -147,5 +142,18 @@ Un jugador, la abuela, se para lejos y de espaldas. Los demás salen de una lín
 ## Notas para educadores
 - Es pariente del «Un, dos, tres… ¡estatua!» y de otros juegos de estatuas que se juegan en los patios de toda América.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GRANNY’S FOOTSTEPS.**
+
+Players in line, one player about 20 yards away back towards them. Players try to move up to the latter without being seen on the move. The player at the end may not turn till he has counted to himself a number between 20 and 40 since he last turned. Each player if caught moving starts again, if caught three times falls out. First to touch “granny” wins.
+
 ---
-**Fuente:** inspirada en el juego «Granny's Footsteps» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 5, «Granny’s Footsteps». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

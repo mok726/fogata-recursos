@@ -9,13 +9,13 @@ summary: "Armar un mensaje con las letras de una palabra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,19 +136,10 @@ rama_rovers:
 
 # Telegramas
 
-## De qué se trata
-El que dirige dice una palabra y un tema. Por ejemplo: «FOGÓN» y «un telegrama de la patrulla a sus familias». Cada patrulla arma un mensaje en el que la primera palabra empiece con F, la segunda con O, la tercera con G, y así: «Felices. Ollas Grasientas. Olvidamos Nada». Gana el más ingenioso hecho en menos tiempo.
-
 ## Cómo se juega
-1. El que dirige dice la palabra y el tema y la escribe en el pizarrón.
-2. Cada patrulla tiene tres minutos para armar su telegrama.
-3. Cada palabra del mensaje empieza con una letra de la palabra elegida, en el mismo orden.
-4. El mensaje tiene que tener sentido (o, por lo menos, hacer reír).
-5. Cada patrulla lee el suyo en voz alta.
-6. Todos votan el mejor. No se puede votar el propio.
+Los jugadores por equipos. El que dirige dice una palabra y un tema, por ejemplo: «Fogón y el Jefe Scout». Cada equipo arma un telegrama sobre el Jefe o enviado por él, en el que cada palabra empieza con una letra de «fogón», en el mismo orden. Por ejemplo: «Fuimos Otra vez Gozosos, Orgullosos, Nuevos. EL JEFE». Gana el mejor telegrama hecho en menos tiempo.
 
-### Variante: Frase de patrulla
-Cada jugador dice una palabra por turno, empezando con la letra que le toca, hasta formar la frase entre todos sin ponerse de acuerdo antes.
+**Armar oraciones:** los jugadores por equipos. El que dirige dice una palabra, por ejemplo «conejo»; cada jugador de cada equipo dice una palabra en su turno, empezando con las letras de «conejo» en orden, de modo que entre todo el equipo armen una oración razonable. Por ejemplo: 1.º «Carlos», 2.º «olvidó», 3.º «nuevamente», 4.º «empanadas», 5.º «junto», 6.º «olla». Gana la mejor oración hecha en menos tiempo. La palabra de partida tiene tantas letras como jugadores tienen los equipos.
 
 ## Para cerrar
 - ¿Qué era un telegrama? ¿Por qué se escribía tan corto? (Se pagaba por palabra.)
@@ -150,5 +147,22 @@ Cada jugador dice una palabra por turno, empezando con la letra que le toca, has
 ## Notas para educadores
 - Es una linda excusa para contar cómo se comunicaba la gente antes de los celulares.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TELEGRAMS.**
+
+Players in teams. Leader mentions a word and a subject, e.g. “Skiff and Chief Scout.” Each team then makes up a telegram about, or from the Chief, the words of the telegram starting with the letters of “skiff” in their right order. E.g. Still keeping in fine fettle. CHIEF. Best telegram in the shortest time wins.
+
+**SENTENCE MAKING.**
+
+Players in teams. Leader mentions a word (say) “Rabbit,” each player of each team must say a word in his turn, beginning with the letters of “Rabbit” in turn, so that the whole team make up a reasonable sentence. E.g., 1st player, Rain; 2nd, Angered; 3rd, Big; 4th, Burly; 5th, Idiotic; 6th, Thomas. Best sentence in shortest time wins. Word of origin has as many letters as there are players in the teams.
+
 ---
-**Fuente:** inspirada en el juego «Telegrams / Sentence Making» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 22, «Telegrams» y n.º 19, «Sentence Making». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

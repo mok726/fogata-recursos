@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Refrán Escondido"
+title: "Refranes"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-refran-escondido/"
@@ -9,13 +9,13 @@ summary: "Adivinar un refrán escondido letra por letra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,17 +134,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# El Refrán Escondido
-
-## De qué se trata
-El que dirige escribe un refrán con una rayita por cada letra, separando las palabras. Por turno, cada jugador dice una letra; si está, se escribe en su lugar. Cada uno tiene una sola oportunidad de decir el refrán completo, cuando quiera. El primero que lo dice bien, gana.
+# Refranes
 
 ## Cómo se juega
-1. El que dirige elige un refrán, por ejemplo «Al que madruga, Dios lo ayuda», y lo escribe con rayitas: _ _   _ _ _   _ _ _ _ _ _ _ …
-2. Por turno, cada jugador dice una letra. Si está en el refrán, el que dirige la escribe en todos los lugares donde aparece.
-3. Si no está, se anota aparte para que nadie la repita.
-4. En cualquier momento, cualquier jugador puede decir «¡Ya sé!» y decir el refrán entero. Tiene una sola chance en todo el juego.
-5. El que acierta gana y elige el próximo refrán.
+El que dirige escribe un refrán en el pizarrón en forma de una serie de X, una por cada letra, agrupadas en sus palabras. Cada jugador, por turno, propone una letra; si está, el que dirige la escribe en su lugar. Cada jugador tiene un solo intento de adivinar el refrán completo, que puede usar cuando quiera; gana el primero que lo adivina bien.
 
 ### Variante: Frases scouts
 En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
@@ -150,5 +149,18 @@ En vez de refranes, usá artículos de la Ley Scout, el lema o frases de B-P.
 - Una buena excusa para charlar sobre el sentido de los refranes y de dónde vienen.
 - Para lobatos, usá frases cortas y conocidas.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**PROVERBS.**
+
+The leader writes a proverb on the black-board, in the form of a series of X's, one for each letter, grouped in the proper words. Each player in turn suggests a letter, which, if it is right, the leader writes in its correct place. Each player has one guess that he may use when he likes, the first to guess the whole proverb correctly wins.
+
 ---
-**Fuente:** inspirada en el juego «Proverbs» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 15, «Proverbs». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arriba y Abajo"
+title: "Posta Arriba y Abajo"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/arriba-y-abajo/"
@@ -9,13 +9,13 @@ summary: "Pasar la pelota alternando por arriba y por abajo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,28 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Arriba y Abajo
-
-## De qué se trata
-La patrulla en fila, uno detrás del otro. El primero pasa la pelota por arriba de su cabeza, con las dos manos, al de atrás. Cuando llega al último, este corre adelante y la pasa por abajo de las piernas. Se va alternando. Gana la patrulla que vuelve primero a su orden inicial.
+# Posta Arriba y Abajo
 
 ## Cómo se juega
-1. Cada patrulla se pone en fila, uno detrás del otro.
-2. El primero tiene la pelota.
-3. A la orden, la pasa por arriba de la cabeza al de atrás, sin tirarla.
-4. Cuando llega al último, este corre adelante y la pasa por abajo de las piernas.
-5. Se sigue alternando: arriba, abajo, arriba…
-6. Gana la primera patrulla que vuelve a su orden del principio.
+Los equipos en fila india; el de adelante tiene una pelota o algún objeto más grande, que pasa por arriba de la cabeza, con las dos manos, al de atrás, y así a lo largo de la fila. Cuando la pelota llega al último, este corre adelante y la pasa para atrás entre las piernas. La vez siguiente, por arriba de la cabeza, y así. Hay que pasarla, no tirarla. Gana el primer equipo que vuelve a su orden original.
 
-### Variante: Uno y uno
-El primero pasa por arriba, el segundo por abajo, el tercero por arriba, y así.
+**Variante:** el de adelante siempre la pasa por arriba, el siguiente por abajo, y así, alternando.
 
 ## Para cerrar
 - ¿Dónde se trababa la pelota? ¿Cómo lo resolvieron?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UNDER AND OVER RELAY.**
+
+Teams in file; front player has a ball or some larger object which he passes over his head, using both hands, to the player behind him, and so on down the line. When the last player gets the ball he runs to the front and passes it between his legs back down the line. Next time over the head, and so on. It must be passed, not thrown. First team to regain its original order wins. Variation—Front player always passes over and the next under, and so on alternately.
+
 ---
-**Fuente:** inspirada en el juego «Under and Over Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 33, «Under and Over Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

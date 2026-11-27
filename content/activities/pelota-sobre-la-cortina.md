@@ -9,13 +9,13 @@ summary: "Tirar la pelota por encima de una sábana sin saber dónde caerá."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,19 +136,24 @@ rama_rovers:
 
 # Pelota sobre la Cortina
 
-## De qué se trata
-Se cuelga una cortina de sábanas en el medio, más alta que los jugadores, de modo que no se vean los de un lado y los del otro. Un equipo de cada lado. Tiran una pelota por arriba para que toque el piso del lado contrario. El que la deja caer pierde una vida.
-
 ## Cómo se juega
-1. Cuelguen las sábanas de una soga, que lleguen casi hasta el piso.
-2. Un equipo de cada lado.
-3. El que saca tira la pelota por arriba de la cortina.
-4. Del otro lado no ven de dónde viene: tienen que reaccionar rápido cuando aparece la pelota.
-5. Si la atajan, la devuelven desde ese lugar, sin caminar con ella.
-6. Si cae al piso, pierde una vida el que estaba más cerca. Con tres vidas, sale. Gana el equipo que dura más.
+Se cuelga a lo ancho del salón una cortina que no deje ver, lo bastante alta como para tapar a los jugadores, y se pone un equipo de cada lado. Cada equipo trata de tirar una pelota por arriba para que toque el piso del otro lado. El jugador que la deja caer sale (se pueden dar 3 vidas). Gana el equipo que dura más. Nadie puede moverse con la pelota en la mano.
 
 ## Para cerrar
 - ¿Cómo se organizaron para cubrir toda la cancha?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CURTAIN BALL.**
+
+An opaque curtain high enough to hide the players is hung across the room, one team on each side of it. Each team tries to throw a football over so that it hits the ground the other side. Any player letting it fall drops out (3 lives may be given). Team lasting longest wins. No player may move with the ball.
+
 ---
-**Fuente:** inspirada en el juego «Curtain Ball» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 55, «Curtain Ball». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

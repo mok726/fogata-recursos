@@ -9,13 +9,13 @@ summary: "Ordenar frases mezcladas y decir si son verdad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,18 +135,11 @@ rama_rovers:
 
 # ¿Tiene Sentido?
 
-## De qué se trata
-El que dirige lee frases con las palabras mezcladas, como «agua el mar es de salada». Hay que ordenarla mentalmente («el agua de mar es salada») y contestar rápido: verdadero, falso o no se sabe.
-
 ## Preparación
 1. Prepará unas 20 frases, ordenadas primero y después mezcladas. Que haya verdaderas («la flor de lis es el símbolo scout»), falsas («el sol sale por el oeste») y algunas que nadie puede saber («en Marte hay vida»).
 
 ## Cómo se juega
-1. Todos de pie. El que dirige lee una frase mezclada.
-2. Cada uno la ordena en la cabeza.
-3. A la cuenta de tres, todos dicen al mismo tiempo: «¡Verdadero!», «¡Falso!» o «¡No se sabe!».
-4. El que se equivoca se sienta. A la frase siguiente, los sentados pueden volver a pararse si aciertan.
-5. Gana el que queda parado al final.
+El que dirige lee una frase con las palabras desordenadas, y los jugadores tienen que decir rápido si el sentido de la frase ya ordenada es verdadero o falso. Por ejemplo: «El mar del agua es salada» (verdadero). «La insignia de Madera es del Rey» (falso). «Vida en Marte hay» (no se sabe), etc.
 
 ## Para cerrar
 - ¿Qué frases eran de «no se sabe»? ¿Qué diferencia hay entre «no lo sé» y «nadie lo sabe»?
@@ -148,5 +147,18 @@ El que dirige lee frases con las palabras mezcladas, como «agua el mar es de sa
 ## Notas para educadores
 - La tercera opción («no se sabe») da para una buena charla sobre lo que sabemos, lo que creemos y lo que todavía no se descubrió.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SENSE?**
+
+Leader reads out a sentence with the words jumbled out of order, and players must say quickly if the sense of corrected sentence is true or false. E.g. The sea in the water is salt.” (True.) The Scout badge King's is a Woodman.” (False.) Animal there is Mars in life.” (Unknown.) etc. etc.
+
 ---
-**Fuente:** inspirada en el juego «Sense?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 98, «Sense?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Rescatista"
+title: "El Héroe de la Cruz Roja"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-rescatista/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rescate
   - camilla
   - primeros-auxilios
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -141,7 +144,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Rescatista!
+# El Héroe de la Cruz Roja
 
 ## Resumen
 Un mensajero llega al campamento: vio a un compañero "herido" tirado en el terreno enemigo y no pudo ayudarlo. Se pide un voluntario, el rescatista, que tiene que encontrarlo y traerlo de vuelta sin ser capturado. El resto del grupo hace de enemigo. Como adaptación, el rescatista y un ayudante arman una camilla improvisada con bastones y camperas.
@@ -151,12 +154,7 @@ Un mensajero llega al campamento: vio a un compañero "herido" tirado en el terr
 2. Escondé al "herido" en un lugar bastante oculto. Puede ser una persona o, mejor, un muñeco o bolsa de dormir rellena.
 
 ## Desarrollo
-1. El enemigo sale a repartirse por el terreno.
-2. Llega el mensajero y describe más o menos dónde está el herido.
-3. Se ofrece el rescatista (o una pareja de rescatistas, si hay camilla).
-4. Encuentran al herido, arman la camilla y lo traen al campamento. Si los ven, esquivan. Para capturarlos hacen falta dos enemigos.
-5. Si los apuran, pueden dejar al herido bien escondido, despistar al enemigo y volver por él.
-6. Puede haber varios heridos y varios rescatistas si el enemigo es numeroso.
+Un día, mientras todo el campamento se divierte, llega un mensajero y le cuenta a un guía que, mientras el enemigo lo perseguía del lado de ellos de la frontera, vio a uno de sus hombres tirado en el suelo, herido, y no pudo prestarle ninguna ayuda. Entonces el guía les cuenta a sus hombres la mala noticia y pide un voluntario para que vaya a traer, o intente traer, a su compañero de vuelta al campamento. Así se encuentra al "Héroe de la Cruz Roja". Su tarea es encontrar al herido (al que se habrá ubicado de antemano en un lugar bastante escondido) y después llevarlo de vuelta al campamento, sin ser capturado por los scouts rivales. Este juego necesita un scout con cabeza y recursos para hacer el papel de "Héroe de la Cruz Roja", porque se supone que está en un país hostil con un herido al que tiene que llevar de vuelta al campamento. Si lo ven, tiene que tratar de esquivarlos. Dos enemigos tienen que agarrarlo para que quede capturado. Es un juego que pondrá seriamente a prueba los recursos del scout. Por ejemplo, si lo apuran, podría ser lo bastante despierto como para dejar a su compañero completamente escondido hasta haber despistado a sus perseguidores. Cuando el scout herido ya está escondido, todos los que puedan dejar el campamento deberían salir a hacer de enemigo; después uno llega como mensajero y describe más o menos dónde está el herido. Podría haber varios heridos y varios héroes de la Cruz Roja, si el número del enemigo alcanza.
 
 ## Cierre
 - ¿Cómo se organizaron para cargar la camilla?
@@ -173,15 +171,12 @@ Un mensajero llega al campamento: vio a un compañero "herido" tirado en el terr
 
 One day while the whole camp are enjoying themselves a messenger arrives and tells a Patrol-leader that while he was being pursued by the enemy on their side of the border he saw one of his men lying on the ground, wounded, and was unable to render him any assistance. The Patrol-leader then tells his men the bad news, and calls for a volunteer to go and bring or endeavor to bring their comrade back to camp. Thus the "Red Cross Hero" is found. His duty is to find the wounded man (who will have been placed in a fairly hidden position before- hand) and then carry him back to camp, without being captured by the opposing Scouts. This game needs a Scout of brain and resource to act the part of the " Red Cross Hero," for he is supposed to be in a hostile country with a wounded man whom he must bring back to camp. If seen he must endeavor to dodge. Two of the enemy must get hold of him before he is captured. This is a game which will severely test the resourcefulness of the Scout. For example, if pressed he might be sharp enough to leave his comrade completely hidden until he has knocked his pursuers off his track. When the wounded Scout has been hidden all who can be spared from camp should go out to act as enemy, then one comes in as messenger and describes roughly where the wounded man is. There could be several wounded men and red cross heroes, if the enemy's number is sufficient.
 
-**Versión en español:**
-
-**EL HÉROE DE LA CRUZ ROJA.**
-
-Un día, mientras todo el campamento se divierte, llega un mensajero y le cuenta a un guía que, mientras el enemigo lo perseguía del lado de ellos de la frontera, vio a uno de sus hombres tirado en el suelo, herido, y no pudo prestarle ninguna ayuda. Entonces el guía les cuenta a sus hombres la mala noticia y pide un voluntario para que vaya a traer, o intente traer, a su compañero de vuelta al campamento. Así se encuentra al "Héroe de la Cruz Roja". Su tarea es encontrar al herido (al que se habrá ubicado de antemano en un lugar bastante escondido) y después llevarlo de vuelta al campamento, sin ser capturado por los scouts rivales. Este juego necesita un scout con cabeza y recursos para hacer el papel de "Héroe de la Cruz Roja", porque se supone que está en un país hostil con un herido al que tiene que llevar de vuelta al campamento. Si lo ven, tiene que tratar de esquivarlos. Dos enemigos tienen que agarrarlo para que quede capturado. Es un juego que pondrá seriamente a prueba los recursos del scout. Por ejemplo, si lo apuran, podría ser lo bastante despierto como para dejar a su compañero completamente escondido hasta haber despistado a sus perseguidores. Cuando el scout herido ya está escondido, todos los que puedan dejar el campamento deberían salir a hacer de enemigo; después uno llega como mensajero y describe más o menos dónde está el herido. Podría haber varios heridos y varios héroes de la Cruz Roja, si el número del enemigo alcanza.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. XI (First-Aid Games), juego 2. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. XI (First-Aid Games), juego 2: «The Red Cross Hero». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

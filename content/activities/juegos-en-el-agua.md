@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juegos en el Agua"
+title: "Deportes Acuáticos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juegos-en-el-agua/"
@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - agua
   - natacion
   - exhibicion
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Juegos en el Agua!
+# Deportes Acuáticos
 
 ## Resumen
 B-P propone varios juegos acuáticos que, bien practicados, arman una exhibición muy linda: waterpolo con estacas como arcos; el palo enjabonado saliendo de un muelle, con un premio en la punta; justas en canoas o troncos (uno rema y el otro empuja con un palo acolchado); y carreras de natación, de zambullida y de meterse en un salvavidas.
@@ -149,10 +152,7 @@ B-P propone varios juegos acuáticos que, bien practicados, arman una exhibició
 1. Elegí solo los juegos que se puedan hacer con seguridad en el lugar que tenés y con quienes saben nadar.
 
 ## Desarrollo
-1. Waterpolo: dos equipos, arcos con estacas o boyas, una pelota de goma.
-2. Palo enjabonado: un palo saliendo del muelle (inclinado hacia un costado para que se vea desde la orilla) con un premio en la punta. Hay que llegar caminando por el palo.
-3. Justas: en canoas, un jugador rema y el otro, con un escudo liviano y un palo largo acolchado, intenta hacer caer al rival al agua.
-4. Carreras: de natación, de zambullida y de meterse en un salvavidas.
+Hay varios tipos de deportes acuáticos que, cuando se practican lo suficiente, arman una exhibición muy interesante. I. WATERPOLO: se clavan estacas para hacer los arcos y se usa una pelota de goma grande, si no se consigue una pelota de waterpolo de verdad. II. PALO ENJABONADO: sujeto a la punta de un muelle o un embarcadero, con algún premio atado en la punta. (Nota: el palo no debería salir derecho de la punta del muelle, sino inclinarse hacia la derecha o la izquierda, para que se vea mejor desde la orilla). III. JUSTAS: en canoas chicas o sobre troncos, un chico rema y otro justa, armado con un escudo chico de madera y un palo de 1,80 m con algo blando atado en la punta. IV. Carreras de natación, competencias de zambullida y carreras para meterse en un salvavidas.
 
 ## Cierre
 - ¿Qué juego les gustó más?
@@ -170,15 +170,12 @@ B-P propone varios juegos acuáticos que, bien practicados, arman una exhibició
 
 There are several kinds of water sports, which, when practiced enough, make a very interesting display. 1. WATER POLO.-Stakes driven in to make goal- posts, and a large rubber ball, if a proper water polo ball cannot be obtained. II. GREASY POLE - fastened from the end of a pier or landing-stage, with some prize fastened to the end of it. (N.B.-The pole should not stick straight out from the end of the stage, but should incline to the right or left, so that it can be seen better from the shore.) 111. JOUSTING.-In small canoes or on logs, one boy to paddle and one to joust, armed with a small wooden shield and a 6 foot pole with something soft attached to the end. IV. Swimming races, diving competitions, and races to get into a lifebuoy.
 
-**Versión en español:**
-
-**DEPORTES ACUÁTICOS.**
-
-Hay varios tipos de deportes acuáticos que, cuando se practican lo suficiente, arman una exhibición muy interesante. I. WATERPOLO: se clavan estacas para hacer los arcos y se usa una pelota de goma grande, si no se consigue una pelota de waterpolo de verdad. II. PALO ENJABONADO: sujeto a la punta de un muelle o un embarcadero, con algún premio atado en la punta. (Nota: el palo no debería salir derecho de la punta del muelle, sino inclinarse hacia la derecha o la izquierda, para que se vea mejor desde la orilla). III. JUSTAS: en canoas chicas o sobre troncos, un chico rema y otro justa, armado con un escudo chico de madera y un palo de 6 pies (1,80 m) con algo blando atado en la punta. IV. Carreras de natación, competencias de zambullida y carreras para meterse en un salvavidas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. X (Seamanship Games), juego 5. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. X (Seamanship Games), juego 5: «Water Sports». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

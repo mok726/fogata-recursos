@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Cangrejo"
+title: "Posta del Caballo de Tiro"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-cangrejo/"
@@ -9,13 +9,13 @@ summary: "Ir y volver caminando como un cangrejo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,21 +133,12 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta del Cangrejo
-
-## De qué se trata
-Cada jugador va hasta una marca y vuelve caminando en cuatro patas, pero con la panza para arriba: apoyado en las manos y en los pies, como un cangrejo. Recién cuando vuelve, sale el siguiente.
+# Posta del Caballo de Tiro
 
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El primero se pone en posición de cangrejo: sentado, apoya las manos atrás y levanta la cola del piso.
-3. A la orden, camina así hasta la marca y vuelve.
-4. Toca la mano del siguiente, que sale igual.
-5. Si alguien apoya la cola en el piso, se frena, se acomoda y sigue.
-6. Gana la primera patrulla que termina.
+Los equipos en fila india; cada jugador, por turno, va hasta un punto fijo y vuelve caminando con las manos y los pies, con la espalda hacia el suelo. Gana el primer equipo que termina. El recorrido no tiene que ser muy largo.
 
-### Variante: El cangrejo cargador
-En el recorrido hay cinco círculos con una papa en cada uno. El cangrejo lleva una caja apoyada en la panza y va juntando las papas. El siguiente las vuelve a poner en los círculos.
+**Posta de los que llevan papas:** los equipos en fila india; delante de cada equipo, una fila de circulitos con una papa en cada uno. Cada jugador, por turno, avanza por la fila de círculos juntando las papas en una cajita que lleva sobre la panza, y después vuelve para largar al siguiente, que vuelve a poner las papas en los círculos, y así sucesivamente. Gana el primer equipo que termina. Los jugadores se mueven de la misma manera que en la posta anterior.
 
 ## Para cerrar
 - ¿Qué músculos sintieron después?
@@ -149,5 +146,22 @@ En el recorrido hay cinco círculos con una papa en cada uno. El cangrejo lleva 
 ## Notas para educadores
 - Que el recorrido sea corto: cansa mucho los brazos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CARTHORSE RELAY.**
+
+Teams in file; each player in turn goes to a fixed point and back, walking on their hands and feet with backs toward the ground. First team to finish wins. The course should not be too long.
+
+**POTATO CARRIERS’ RELAY.**
+
+Teams in file; in front of each team is a row of small circles with a potato in each. Each player in turn moves down the row of circles, collecting the potatoes into a small box carried on his stomach, and then returning to send off the next player, who replaces the potatoes in the circles, and so on. First team to finish wins. The players move in the same way as in No. 15.
+
 ---
-**Fuente:** inspirada en el juego «Carthorse Relay / Potato Carriers Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 15, «Carthorse Relay» y n.º 16, «Potato Carriers’ Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

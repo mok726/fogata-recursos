@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Etiquetas en el Bastón"
+title: "Marcá tus Bastones"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/etiquetas-en-el-baston/"
@@ -61,6 +61,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rastreo
   - liebres-y-sabuesos
 
@@ -70,10 +71,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -142,16 +145,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Etiquetas en el Bastón!
+# Marcá tus Bastones
 
 ## Resumen
 Es una carrera de liebres y sabuesos común, pero las liebres dejan, junto a cada marca del rastro, una o dos etiquetas autoadhesivas. El sabueso que encuentra el rastro toca el silbato y todos buscan las etiquetas cerca. Quien las encuentra las pega en su bastón. Gana el que junta más.
 
 ## Desarrollo
-1. Las liebres salen con ventaja, dejando rastro y, junto a cada marca, no más de dos etiquetas.
-2. Los sabuesos salen después. El que encuentra una marca toca el silbato.
-3. Todos se acercan y buscan las etiquetas. Quien las encuentra las pega en su bastón.
-4. Al final, gana quien tiene más etiquetas.
+Este juego se juega igual que una carrera de papelitos común, salvo que las liebres llevan cierta cantidad de pequeñas etiquetas redondas engomadas, como las que usan los comerciantes para marcar el precio de la mercadería. Cada vez que se deja una marca del rastro, no deberían dejarse más de dos etiquetas con ella. Apenas un sabueso encuentra el rastro, toca el silbato. Los demás sabuesos van enseguida al lugar y buscan las dos etiquetas. Cuando las encuentran, se pegan en el bastón de quien las halló, y al final de la carrera gana el scout con más etiquetas. Esto ayuda a mantener el interés de los scouts más chicos, que de otro modo enseguida tenderían a quedarse atrás.
 
 ## Cierre
 - ¿Dónde estaban escondidas las etiquetas más difíciles?
@@ -167,15 +167,12 @@ Es una carrera de liebres y sabuesos común, pero las liebres dejan, junto a cad
 
 This game is played in the same way as an ordinary paper chase, except that the hares are provided with a number of small circular gummed labels, such as are used by shopkeepers for marking the price on goods. Every time trail is dropped not more than two labels should be dropped with it. As soon as the trail is picked up by a hound, he blows his whistle. The other hounds immediately proceed to the spot and search for the two labels. When found they should be tuck on to the finder's staff, and at the end of the chase the Scout with the most labels wins. This tends to keep up the interest of the smaller Scouts who otherwise would soon be inclined to lag behind.
 
-**Versión en español:**
-
-**MARCÁ TUS BASTONES.**
-
-Este juego se juega igual que una carrera de papelitos común, salvo que las liebres llevan cierta cantidad de pequeñas etiquetas redondas engomadas, como las que usan los comerciantes para marcar el precio de la mercadería. Cada vez que se deja una marca del rastro, no deberían dejarse más de dos etiquetas con ella. Apenas un sabueso encuentra el rastro, toca el silbato. Los demás sabuesos van enseguida al lugar y buscan las dos etiquetas. Cuando las encuentran, se pegan en el bastón de quien las halló, y al final de la carrera gana el scout con más etiquetas. Esto ayuda a mantener el interés de los scouts más chicos, que de otro modo enseguida tenderían a quedarse atrás.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 21. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 21: «Spot Your Staves». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

@@ -60,6 +60,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - rescate
   - emergencias
   - simulacro
@@ -71,10 +72,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -144,7 +147,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Campamento Desdichado!
+# El Campamento Desdichado
 
 ## Resumen
 Una patrulla recibe la orden de ir hasta un campamento y actuar como le parezca mejor. Lo encuentra revuelto, con "víctimas" con carteles. Una está a la vista; otra, lejos, se arrastró y se desmayó. B-P muestra la diferencia entre una patrulla novata, que pierde tiempo con el que no tiene arreglo y no ve al tercero, y una experimentada, que primero se asegura, ordena la tarea y descubre por las tres tazas que falta alguien.
@@ -154,13 +157,7 @@ Una patrulla recibe la orden de ir hasta un campamento y actuar como le parezca 
 2. Dejá tres tazas junto al fogón como pista.
 
 ## Desarrollo
-1. La patrulla recibe la orden y llega a la escena.
-2. Primero, la seguridad: ¿hay peligro? Ponen a alguien a vigilar.
-3. Revisan la escena y cuentan: ¿cuántas personas había? (las tazas).
-4. Buscan a todas las víctimas, también a la que no está a la vista.
-5. Uno simula el llamado a emergencias: dice dónde están, qué pasó y cuántas víctimas hay.
-6. Acompañan y abrigan a las víctimas hasta que llegue "la ayuda".
-7. Al final, todos conversan qué hicieron bien y qué se les pasó.
+Se le da la orden a una patrulla de marchar en cierta dirección hasta encontrar un campamento y, cuando llegue, actuar como le parezca mejor. Al poco tiempo encuentran el campamento, con todo revuelto, como si hubiera pasado algo grave. Hay una persona tirada en la carpa con un cartel: "No responde". Cerca hay otra con un cartel: "Pierna lastimada, no puede caminar", mientras que un poco más lejos todavía hay otra víctima, que se fue arrastrando y quedó desmayada fuera de la vista. Es interesante mirar a distintas patrullas trabajando. Una patrulla novata seguramente va a pasar los primeros diez minutos dando vueltas alrededor de la primera víctima al llegar a la escena, y quizás la mueva sin necesidad. Después de perder todo ese tiempo valioso, se ocupan de la persona de la pierna lastimada y la llevan a la rastra hasta la carpa, empeorando la lesión en el camino. Nadie pide ayuda. El rastro de la tercera víctima pasa inadvertido, y la dejan sola. Pero ahora miren la llegada de una patrulla con más experiencia. Apenas el guía ve la escena, se fija que no haya peligro para ellos y pone a alguien a vigilar; manda enseguida a dos scouts a pedir ayuda (o a llamar al número de emergencias) diciendo dónde están, qué pasó y cuántas víctimas hay; a la persona de la pierna lastimada no la mueven, la abrigan y la acompañan. Después uno de los scouts nota que hay tres tazas junto al fuego, así que buscan alrededor al dueño de la tercera. Cuando lo encuentran, se quedan con él hasta que llega la ayuda. Este juego es un buen tema para una exhibición.
 
 ## Cierre
 - ¿Encontraron a todas las víctimas? ¿Qué pista los llevó?
@@ -179,15 +176,12 @@ Una patrulla recibe la orden de ir hasta un campamento y actuar como le parezca 
 
 Orders are given to a patrol to march in a certain direction until they find a camp, and, when they arrive there, they are to act as they think best. They find the camp after a short time, with every- thing disordered, as though there had been a fight. There is a man lying in the tent labeled : " Shot through the head - dead." Near by is another man, with a label, " Broken thigh," while some way off there is yet another wounded man, who crawled away after he had been shot, and had fainted from loss of blood. It is interesting to watch different patrols at work. A tenderfoot patrol will very likely spend the first ten minutes fussing round the dead man when they arrive on the scene; and, after prodding him, poking him, and rolling him about, will, perhaps, make a stretcher, and carry him off for burial. After wasting all this precious time, they turn to the man with the broken thigh, and carry him to the tent to patch him up, making the fracture a compound one on the way. They then tie up the wrong leg with numerous granny knots, and, after some quite needless artificial respiration, leave the unfortunate patient to himself. The spoor of the third man passes unnoticed, and he is left to bleed to death. But now watch the arrival of a more experienced patrol. As soon as the leader sees that the men have been wounded in a fight, he puts out two sentries to prevent another surprise attack; the dead man is briefly examined and left to himself, and the broken thigh carefully put into splints on the spot, and the patient gently carried into the tent. Then one of the Scouts notices that there are three tea cans by the fire, so they hunt round for the owner of the third. When he is found, a Scout's scarf makes a tourniquet, and the man's life is saved. This game makes a good subject for a display.
 
-**Versión en español:**
-
-**EL CAMPAMENTO DESDICHADO (por Percy Hill).**
-
-Se le da la orden a una patrulla de marchar en cierta dirección hasta encontrar un campamento y, cuando llegue, actuar como le parezca mejor. Al poco tiempo encuentran el campamento, con todo revuelto, como si hubiera habido una pelea. Hay un hombre tirado en la carpa con un cartel: "Tiro en la cabeza: muerto". Cerca hay otro hombre con un cartel: "Fémur fracturado", mientras que un poco más lejos hay todavía otro herido, que se arrastró después de recibir el tiro y se desmayó por la pérdida de sangre. Es interesante mirar a distintas patrullas trabajando. Una patrulla novata seguramente va a pasar los primeros diez minutos dando vueltas alrededor del muerto al llegar a la escena; y después de pincharlo, toquetearlo y darlo vuelta, quizás haga una camilla y se lo lleve para enterrarlo. Después de perder todo ese tiempo valioso, se ocupan del hombre del fémur fracturado y lo llevan a la carpa para curarlo, convirtiendo en el camino la fractura en expuesta. Después le atan la pierna equivocada con un montón de nudos mal hechos y, después de una respiración artificial totalmente innecesaria, dejan al pobre paciente solo. El rastro del tercer hombre pasa inadvertido, y lo dejan desangrarse hasta morir. Pero ahora miren la llegada de una patrulla con más experiencia. Apenas el guía ve que los hombres fueron heridos en una pelea, pone dos centinelas para evitar otro ataque sorpresa; al muerto se lo examina brevemente y se lo deja, y la pierna fracturada se entablilla con cuidado ahí mismo, y se lleva al paciente con suavidad a la carpa. Después uno de los scouts nota que hay tres tazas junto al fuego, así que buscan alrededor al dueño de la tercera. Cuando lo encuentran, un pañuelo scout sirve de torniquete, y se le salva la vida al hombre. Este juego es un buen tema para una exhibición.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. XI (First-Aid Games), juego 3. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. XI (First-Aid Games), juego 3: «The Ill-fated Camp. by Percy Hill». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»). En la escena, la pelea con heridas de bala y los tratamientos (torniquete, respiración artificial) se cambiaron por un accidente y por lo que tiene que hacer cualquier scout: cuidar la escena, pedir ayuda y no mover a los heridos.
 
 ---

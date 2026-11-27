@@ -9,13 +9,13 @@ summary: "Esquivar el diarazo guiándose solo por la voz."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -130,22 +136,12 @@ rama_rovers:
 
 # ¿Estás Ahí?
 
-## De qué se trata
-Dos jugadores se arrodillan uno frente al otro, a un brazo de distancia, con los ojos vendados. Uno tiene un diario enrollado. Pregunta «¿Estás ahí?» y el otro tiene que contestar «¡Acá estoy!». Enseguida, el del diario intenta tocarlo y el otro esquiva sin mover las rodillas.
-
 ## Cómo se juega
-1. Los dos se arrodillan en el centro de la ronda, frente a frente, a un brazo de distancia.
-2. Se vendan los ojos. Uno recibe el diario enrollado.
-3. El del diario pregunta: «¿Estás ahí?». El otro tiene que contestar «¡Acá estoy!».
-4. El del diario da un golpecito suave donde escuchó la voz. El otro se agacha o se inclina para esquivar, sin mover las rodillas.
-5. Si lo toca, suma un punto. Después de tres preguntas cambian el diario.
-6. Los de la ronda miran en silencio. ¡Es muy difícil no reírse!
+Dos jugadores arrodillados, al alcance uno del otro; uno tiene un diario enrollado como garrote. Cada vez que pregunta «¿Estás ahí?», el otro tiene que contestar y tratar de esquivar el golpe que viene. Los dos tienen los ojos vendados y ninguno puede mover las rodillas.
 
-## Reglas
-- Solo se toca en los hombros o la espalda. Nunca en la cabeza.
+**Variante:** los dos jugadores se toman de la mano izquierda y cada uno tiene un garrote; preguntan por turno.
 
-### Variante: Los dos con diario
-Los dos se agarran de la mano izquierda y cada uno tiene un diario. Preguntan por turno.
+**Variante:** los dos jugadores se mueven dentro de una ronda; lo demás, igual que antes.
 
 ## Para cerrar
 - ¿Cómo hicieron para esquivar? ¿Cambiaban de lugar después de contestar?
@@ -153,5 +149,22 @@ Los dos se agarran de la mano izquierda y cada uno tiene un diario. Preguntan po
 ## Notas para educadores
 - El diario tiene que ser blando: un rollo de diario con cinta, no una revista dura ni un tubo de cartón.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**ARE YE THERE?**
+
+Two players kneeling within reach of one another; one has a paper rolled up as a club. Whenever he asks “Are ye there? “the other must reply and try to dodge the ensuing blow. Both players are blindfold and neither may move his knees.
+
+Variation.—The two players hold hands (left) and each has a club, calling alternately.
+
+Variation.—The two players move about in a circle, otherwise proceeding as above.
+
 ---
-**Fuente:** inspirada en el juego «Are Ye There?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 11, «Are Ye There?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

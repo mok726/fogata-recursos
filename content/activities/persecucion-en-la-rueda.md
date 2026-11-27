@@ -9,13 +9,13 @@ summary: "Correr solo por las líneas de una rueda dibujada."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -129,22 +135,27 @@ rama_rovers:
 
 # Persecución en la Rueda
 
-## De qué se trata
-Se dibuja en el piso una rueda grande, con el borde, el centro (el cubo) y seis u ocho rayos. Todos se paran sobre el borde. Dos jugadores persiguen a otro, y todos solo pueden pisar las líneas. El perseguido está a salvo en el centro, pero no puede quedarse mucho.
-
 ## Preparación
 1. Dibujá un círculo de unos 6 metros de diámetro, un círculo chico en el medio y seis u ocho rayos que los unan.
 
 ## Cómo se juega
-1. Todos se paran sobre el borde de la rueda.
-2. Se eligen dos perseguidores y un perseguido.
-3. A la orden, los perseguidores salen detrás del perseguido. Todos corren solo por arriba de las líneas.
-4. El perseguido puede descansar en el centro mientras se cuenta hasta cinco.
-5. Si alguien pisa afuera de la línea, los que miran gritan «¡Afuera!» y ese pasa a perseguir.
-6. Cuando atrapan al perseguido, se eligen tres nuevos.
+Se dibuja con tiza en el piso una rueda de unos 2,70 m de radio, con un centro (el cubo) de unos 75 cm, una llanta de 30 cm y rayos. Los jugadores se ubican sobre la llanta. Dos jugadores persiguen a otro, y todos tienen que andar solo por la llanta o por los rayos. Los de afuera vigilan que nadie pise afuera. Se puede considerar que el perseguido está a salvo en el centro.
 
 ## Para cerrar
 - ¿Qué camino les convenía usar: los rayos o el borde?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WHEEL PURSUIT.**
+
+Wheel chalked on floor about 9 feet radius, 2 feet 6 inches hub, 1-foot rim, and spokes. Players round rim. Two players chase another, all keeping to the rim or spokes. Players outside watch lest any step outside. Fugitive may be considered safe in the hub.
+
 ---
-**Fuente:** inspirada en el juego «Wheel Pursuit» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 27, «Wheel Pursuit». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

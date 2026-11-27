@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Seguir a la Columna"
+title: "Seguimiento"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/seguir-a-la-columna/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - caminata
   - patrulla
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -137,17 +140,13 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Seguir a la Columna!
+# Seguimiento
 
 ## Resumen
 Una patrulla tiene que seguir a la "columna enemiga" (otra patrulla o el resto de la tropa) que avanza por el terreno. Conviene mandar uno o dos scouts adelante para avisar cuándo es seguro avanzar. Si la columna ve a un perseguidor, lo puede correr: si lo alcanza, queda prisionero y marcha con ella.
 
 ## Desarrollo
-1. La columna sale por el sendero; los perseguidores, un rato después.
-2. Los perseguidores la siguen lo más cerca posible, con uno o dos adelante haciendo señas.
-3. La columna puede dividirse y volver a juntarse más adelante, o dejar gente escondida en emboscada.
-4. Para capturar a un perseguidor basta con tocarlo.
-5. Si en cierta distancia la columna no logra despistarlos ni atrapar a más de la mitad, pierde y otra patrulla pasa a perseguir.
+Se destina una patrulla a seguir a un grupo enemigo que avanza por el terreno (formado por otra patrulla o por el resto de la tropa). La patrulla perseguidora tiene que seguirlos lo más cerca posible, pero es mejor mandar uno o dos scouts adelante para que hagan señas cuando sea seguro avanzar. Apenas el enemigo ve a un scout siguiéndolo, puede correrlo, y si lo alcanza, queda prisionero y tiene que marchar con el grupo principal. También pueden dividirse en dos grupos y volver a juntarse más adelante, o dejar algunos atrás en emboscada. Basta con tocar a los perseguidores para tomarlos prisioneros. Si no logran sacárselos de encima en cierta distancia (unos 3 km) o capturar a más de la mitad, tienen que darse por vencidos; y entonces otra patrulla pasa a hacer de perseguidora. (Esto se puede practicar durante una marcha: tiene la ventaja de que siempre se recorre terreno nuevo).
 
 ## Cierre
 - ¿Cómo se comunicaban los perseguidores sin hablar?
@@ -165,15 +164,12 @@ Una patrulla tiene que seguir a la "columna enemiga" (otra patrulla o el resto d
 
 A Patrol is told off to shadow a party of the enemy, who are advancing through the country (consisting of another patrol or the rest of the troop). The patrol told off to shadow the rest must follow on as closely as possible, but it is best to send on one or two Scouts ahead, to signal when it is safe to advance. As soon as the enemy see a Scout shadowing them they can give chase, and if they overtake him he is a prisoner, and has to march with the main body. They can also split up into two parties and join again further on, or leave some behind in ambush. It is only necessary to touch the shadowers to make them prisoners. If they cannot throw them off their tracks within a certain distance (two miles or so), or else capture more than half of them, they must own themselves defeated; and then another patrol takes the place of the shadowers. (This can be practiced along a route march-it has the advantage of always covering fresh ground in the advance.)
 
-**Versión en español:**
-
-**SEGUIMIENTO.**
-
-Se destina una patrulla a seguir a un grupo enemigo que avanza por el terreno (formado por otra patrulla o por el resto de la tropa). La patrulla perseguidora tiene que seguirlos lo más cerca posible, pero es mejor mandar uno o dos scouts adelante para que hagan señas cuando sea seguro avanzar. Apenas el enemigo ve a un scout siguiéndolo, puede correrlo, y si lo alcanza, queda prisionero y tiene que marchar con el grupo principal. También pueden dividirse en dos grupos y volver a juntarse más adelante, o dejar algunos atrás en emboscada. Basta con tocar a los perseguidores para tomarlos prisioneros. Si no logran sacárselos de encima en cierta distancia (unas dos millas) o capturar a más de la mitad, tienen que darse por vencidos; y entonces otra patrulla pasa a hacer de perseguidora. (Esto se puede practicar durante una marcha: tiene la ventaja de que siempre se recorre terreno nuevo).
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. II (Stalking Games), juego 4. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. II (Stalking Games), juego 4: «Shadowing». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

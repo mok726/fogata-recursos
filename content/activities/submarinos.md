@@ -1,21 +1,21 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Submarinos"
+title: "Espías, o Submarinos"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/submarinos/"
-description: "Un equipo con los ojos vendados forma una barrera de minas. Los submarinos del otro equipo tienen que pasar sin que los toquen."
-summary: "Cruzar una barrera de vendados sin que te toquen."
+description: "Un equipo con los ojos vendados forma un cordón a lo ancho del salón. Los espías del otro equipo tienen que pasar sin que los toquen."
+summary: "Cruzar un cordón de vendados sin que te toquen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,18 +133,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Submarinos
-
-## De qué se trata
-Un equipo forma una fila de lado a lado del salón, con los ojos vendados, las piernas abiertas y agarrados de las manos. Son las minas. El otro equipo son los submarinos: tienen que pasar al otro lado sin que los toquen. Las minas se pueden soltar de las manos para tocar, pero no pueden mover los pies.
+# Espías, o Submarinos
 
 ## Cómo se juega
-1. El equipo de las minas forma una fila, con los pies abiertos, cada pie tocando el del vecino, y se vendan los ojos.
-2. Se agarran de las manos.
-3. Los submarinos se ponen del otro lado del salón.
-4. A la orden, los submarinos intentan cruzar la fila en silencio: por abajo de los brazos, entre dos minas, por la punta.
-5. Las minas escuchan y, cuando sienten a alguien, se sueltan y lo tocan. No pueden mover los pies ni agacharse.
-6. Cada submarino que cruza suma un punto. Después cambian los papeles. Gana el equipo con más puntos.
+Un equipo, con los ojos vendados, forma una fila a lo ancho del salón, con las piernas abiertas de modo que el pie izquierdo de cada uno toque apenas el derecho del vecino, y tomados de las manos. El otro equipo trata de pasar a través del cordón sin que lo toquen. El cordón se puede soltar las manos para atrapar a un espía, pero no puede mover los pies ni doblar las rodillas. Gana el equipo que logra pasar más jugadores. En general hace falta un límite de tiempo.
 
 ## Para cerrar
 - ¿Qué ruido delataba a los submarinos?
@@ -146,5 +144,18 @@ Un equipo forma una fila de lado a lado del salón, con los ojos vendados, las p
 ## Notas para educadores
 - Poné un límite de tiempo, de tres minutos, para que no se haga eterno.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**SPIES, OR SUBMARINES.**
+
+One team, blindfolded, forms a line across the room, feet astride so that one player's left foot just touches his neighbour's right, and holding hands. The other team tries to pass through the cordon without being touched. Cordon may let go hands to catch a spy but may not move their feet or bend their knees. Team getting most through wins. A time limit is usually needed.
+
 ---
-**Fuente:** inspirada en el juego «Spies, or Submarines» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 8, «Spies, or Submarines». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

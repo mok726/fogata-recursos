@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pateá y Corré"
+title: "Pateala y Corré"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/patea-y-corre/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - bosque
   - pelota
   - persecucion
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,17 +143,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Pateá y Corré!
+# Pateala y Corré
 
 ## Resumen
 Uno se queda en un claro y los demás se esconden lo más cerca posible. El árbitro tira la pelota al claro: el del centro la patea afuera y sale a atrapar a quien encuentre. Pero si alguien patea la pelota de vuelta al claro, tiene que volver a sacarla. Mientras la pelota está quieta en el claro, nadie puede ser atrapado. Los atrapados se suman al cazador.
 
 ## Desarrollo
-1. Uno en el claro; el resto escondido cerca.
-2. El árbitro tira la pelota al claro. El del centro la patea afuera y sale a cazar.
-3. Cuando la pelota vuelve y se queda quieta en el claro, el árbitro toca el silbato: el cazador tiene que volver a patearla y nadie puede ser atrapado mientras tanto.
-4. Los atrapados se ponen un pañuelo en el brazo y ayudan a cazar, pero no patean la pelota.
-5. Gana el último que queda libre.
+Este juego se juega mejor en un claro del bosque, pero también se puede jugar en un campo abierto. Un scout se ubica en el claro y el resto busca un escondite lo más cerca posible. El dirigente u otra persona que haga de árbitro hace rodar una pelota de fútbol hacia el claro. El scout que está adentro enseguida la patea afuera y sale corriendo a "manchar" a cualquier otro scout que pueda encontrar y atrapar; pero apenas la pelota vuelve pateada al claro, tiene que volver y sacarla de nuevo. A ningún scout se lo puede "manchar" mientras la pelota está quieta en el claro. El árbitro mira la pelota y, apenas se queda quieta dentro del claro, toca el silbato para indicarlo. Mientras el scout vuelve a patear la pelota afuera, los demás pueden cambiar de posición o buscar escondites nuevos. Los scouts atrapados se sacan el pañuelo o se ponen un pañuelo blanco en un brazo, y después ayudan a su captor a atrapar a otros scouts; pero no pueden patear la pelota, y tienen que volver al claro cada vez que suena el silbato. Gana el scout atrapado último. En un campo abierto, el claro se indica con una marca blanca en el pasto o con postes en las esquinas, y los scouts tienen que evitar la captura más esquivando que buscando dónde esconderse. Como variante, las patrullas pueden "tener" el claro una tras otra e intentar capturar al resto de la tropa en el menor tiempo posible. Solo el guía puede patear la pelota fuera del claro. Gana la patrulla que tarda menos. En esta variante, los scouts atrapados no siguen participando del juego, y por eso no es tan adecuada para un día frío de invierno.
 
 ### Variante: Por patrullas
 Cada patrulla, por turno, "tiene" el claro y trata de atrapar a toda la tropa en el menor tiempo. Solo el guía patea la pelota.
@@ -167,15 +166,12 @@ Cada patrulla, por turno, "tiene" el claro y trata de atrapar a toda la tropa en
 
 This game is best played in a clearing in a wood, but can also be played in an open field. One Scout takes up his position in the clearing and the rest seek cover as near as possible. A football is rolled into the clearing by the Scoutmaster or some other person acting as umpire. The Scout in- side the clearing immediately kicks it outside and rushes out to "tag" any other Scout he can find and catch; but directly the ball is kicked back into the clearing, he must return and kick it out. NO Scout may be " tagged ",while the ball Is lying still in the clearing. The umpire watches the ball, and directly it comes to a standstill inside the clearing he blows his whistle to indicate the fact. While the One Scout is returning to kick the ball out, the others may change their position or seek fresh hiding-places. The Scouts who are caught remove their scarves or wear a white handkerchief around one arm, and then help their captor to catch other Scouts; but they must not kick the ball, and must return to the clearing each time the whistle is blown. The winner is the Scout who is caught last. In an open field the clearing is indicated by a white mark on the grass or comer posts, and Scouts have to elude capture more by dodging than by seeking cover. As a variation, successive patrols may " hold " the clearing and endeavor to capture the rest of the troop in the shortest possible time. The Patrol-leader only is allowed to kick the ball out of the clearing. The winning patrol is that which takes the shortest time. In this variation the Scouts who are caught do not take any further part in the game, and for this reason it is not so suitable for a cold winter's day.
 
-**Versión en español:**
-
-**PATEALA Y CORRÉ.**
-
-Este juego se juega mejor en un claro del bosque, pero también se puede jugar en un campo abierto. Un scout se ubica en el claro y el resto busca un escondite lo más cerca posible. El jefe de tropa u otra persona que haga de árbitro hace rodar una pelota de fútbol hacia el claro. El scout que está adentro enseguida la patea afuera y sale corriendo a "manchar" a cualquier otro scout que pueda encontrar y atrapar; pero apenas la pelota vuelve pateada al claro, tiene que volver y sacarla de nuevo. A ningún scout se lo puede "manchar" mientras la pelota está quieta en el claro. El árbitro mira la pelota y, apenas se queda quieta dentro del claro, toca el silbato para indicarlo. Mientras el scout vuelve a patear la pelota afuera, los demás pueden cambiar de posición o buscar escondites nuevos. Los scouts atrapados se sacan el pañuelo o se ponen un pañuelo blanco en un brazo, y después ayudan a su captor a atrapar a otros scouts; pero no pueden patear la pelota, y tienen que volver al claro cada vez que suena el silbato. Gana el scout atrapado último. En un campo abierto, el claro se indica con una marca blanca en el pasto o con postes en las esquinas, y los scouts tienen que evitar la captura más esquivando que buscando dónde esconderse. Como variante, las patrullas pueden "tener" el claro una tras otra e intentar capturar al resto de la tropa en el menor tiempo posible. Solo el guía puede patear la pelota fuera del claro. Gana la patrulla que tarda menos. En esta variante, los scouts atrapados no siguen participando del juego, y por eso no es tan adecuada para un día frío de invierno.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 19. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 19: «Kick It and Run». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

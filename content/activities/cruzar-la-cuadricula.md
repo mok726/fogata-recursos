@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cruzar la Cuadrícula"
+title: "Walla"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cruzar-la-cuadricula/"
@@ -9,13 +9,13 @@ summary: "Cruzar la cuadrícula sin que te toquen los guardianes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,29 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Cruzar la Cuadrícula
-
-## De qué se trata
-Se dibuja una cuadrícula en el piso, con una base en cada punta. Un equipo cuida las líneas que cruzan de lado a lado: solo pueden caminar por su línea, nunca más de tres por línea. Un guardián especial, el Capitán, puede ir por cualquier línea. El otro equipo tiene que cruzar de una base a la otra pasando de cuadrado en cuadrado, hacia adelante o al costado, pero nunca para atrás.
+# Walla
 
 ## Preparación
 1. Dibujá una cuadrícula de 4 x 4 cuadrados de unos 3 metros de lado y una franja de base en cada punta.
 
 ## Cómo se juega
-1. El equipo guardián se reparte en las líneas que cruzan la cuadrícula: hasta tres por línea. Uno es el Capitán.
-2. El otro equipo se pone en la base de salida.
-3. A la orden, todos intentan cruzar hasta la otra base.
-4. Se puede pasar al cuadrado de adelante o al de al lado, pero nunca volver para atrás.
-5. Los guardianes solo caminan por su línea. El Capitán puede ir por todas.
-6. El que es tocado sale. Se cuentan los que llegan. Después cambian los papeles.
+Se marca el terreno en cuadrados de 2,70 m, con una base en cada punta. Un equipo se para sobre las líneas que forman los cuadrados a lo ancho del terreno; no se pueden salir de su línea, pero se pueden mover a lo largo de ella (no más de tres por línea). Uno de ellos (el Walla) se puede mover en cualquier dirección y por cualquier línea. El otro equipo trata de pasar de una base a la otra sin que lo toquen, moviéndose de cuadrado en cuadrado, para adelante o para el costado, pero nunca para atrás. El que es atrapado sale. Gana el equipo que logra pasar más jugadores.
 
 ## Para cerrar
 - ¿Qué cuadrados eran los más peligrosos? ¿Cómo se ayudaban para pasar?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**WALLA.**
+
+Ground marked in 9-feet squares with a base at each end; one team stand on the lines, forming squares running across ground, and may not move off their line but move along it (not more than three on any line). One (Walla) may move in any direction on any line. Other team try to pass from one base to the other without being touched by moving from square to square, forward or sideways, but never back. Caught player falls out. Team getting most through wins.
+
 ---
-**Fuente:** inspirada en el juego «Walla» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 54, «Walla». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

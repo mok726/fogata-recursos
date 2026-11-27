@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Discurso Sorpresa"
+title: "Discursos Improvisados"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/discurso-sorpresa/"
@@ -9,13 +9,13 @@ summary: "Hablar en público de un tema sorpresa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,20 +133,17 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Discurso Sorpresa
-
-## De qué se trata
-En un sombrero hay papelitos con temas: «por qué el mate es mejor que el café», «cómo convencer a una vaca», «el mejor campamento de mi vida». Cada jugador saca uno, tiene dos minutos para pensar y después habla de ese tema durante tres minutos.
+# Discursos Improvisados
 
 ## Preparación
 1. Escribí unos 30 temas, la mayoría divertidos y algunos más en serio.
 
 ## Cómo se juega
-1. El primero saca un papelito del sombrero y lo lee en voz alta.
-2. Tiene dos minutos para pensar qué va a decir. Puede anotar tres palabras en un papel.
-3. Se para al frente y habla durante tres minutos. Un compañero toma el tiempo.
-4. Los demás escuchan sin interrumpir.
-5. Al final, todos aplauden y alguien dice una cosa que le gustó del discurso.
+Cada jugador saca un tema de un sombrero, tiene 2 minutos para pensar y después habla durante 3 o 5 minutos.
+
+O bien: cada equipo propone un orador y, por turno, cada uno habla sobre el mismo tema.
+
+O bien: como el anterior, pero hablan todos a la vez, y gana el que logra que lo escuchen. El orador que se ríe o hace una pausa no puede seguir.
 
 ### Variante: Uno por patrulla
 Cada patrulla manda un orador con el mismo tema. Se comparan los discursos.
@@ -155,5 +158,18 @@ Para Caminantes: todos los oradores hablan a la vez del mismo tema. El que se r�
 ## Notas para educadores
 - Para los más tímidos, empezá con un minuto en lugar de tres. Nadie debería quedar expuesto: si alguien no quiere, puede hablar en pareja.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**STUMP ORATIONS.**
+
+Each player draws a subject out of a hat, takes 2 minutes to think and then speaks for 3 or 5 minutes. OR. Each team puts up a speaker and in turn each speaks on the same subject. OR. As the last, but all speak at once and the one to get a hearing wins. A speaker laughing or pausing is not allowed to go on.
+
 ---
-**Fuente:** inspirada en el juego «Stump Orations» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 85, «Stump Orations». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

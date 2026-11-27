@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tocá y Escapá"
+title: "Atrapame"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/toca-y-escapa/"
@@ -9,13 +9,13 @@ summary: "Tocar a tu rival y volver sin que te atrape."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,21 +132,26 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Tocá y Escapá
-
-## De qué se trata
-Los dos equipos se paran en fila en las dos puntas del salón. Un equipo mira a la pared. Los del otro se acercan, cada uno a su número, le tocan la espalda y vuelven corriendo a su lugar. El tocado sale a perseguirlo. Cada uno que atrapan es un punto. Después cambian.
+# Atrapame
 
 ## Cómo se juega
-1. Los dos equipos se numeran. El equipo A se para mirando a la pared.
-2. El equipo B se para en la otra punta.
-3. A la orden, todos los del B se acercan en silencio y cada uno le toca la espalda al que tiene su mismo número.
-4. Ni bien lo tocan, vuelven corriendo a su línea.
-5. El tocado se da vuelta y lo persigue. Nadie puede salir antes de que lo toquen.
-6. Cada atrapado suma un punto para el A. Después cambian los papeles. Gana el equipo con más puntos.
+Los equipos en fila en las dos puntas del salón; un equipo, mirando a la pared. Todos los jugadores del otro equipo se acercan despacito, tocan a su compañero de número de la otra fila y después tratan de volver a su lugar sin que los toquen. Ningún perseguidor se puede mover hasta que lo toca su compañero de número. Se suma un punto por cada jugador atrapado. Después los equipos cambian de lugar, y gana el que tiene el mejor puntaje.
 
 ## Para cerrar
 - ¿Qué convenía: acercarse rápido o despacio?
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CATCH ME.**
+
+Teams in line at opposite ends of the room, one team facing the wall, all players of the other team creep up and touch their opposite numbers of the other rank and then try to regain their places without being touched. No chasing player may move till touched by his opposite number. One point is scored for each player caught. Teams then change places, and one with best score wins.
+
 ---
-**Fuente:** inspirada en el juego «Catch Me» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 59, «Catch Me». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

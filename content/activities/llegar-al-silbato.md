@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Llegar al Silbato"
+title: "Ubicar por el Sonido"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/llegar-al-silbato/"
@@ -9,13 +9,13 @@ summary: "Orientarse solo por el oído hasta llegar al silbato."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,30 +134,16 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Llegar al Silbato
-
-## De qué se trata
-El que dirige se aleja y se para en un lugar del terreno. Las patrullas, con los ojos vendados, tienen que llegar hasta él guiándose solo por el sonido del silbato.
+# Ubicar por el Sonido
 
 ## Preparación
 1. Revisá el terreno: nada de pozos, piedras, ramas bajas ni alambrados.
 2. Elegí uno o dos dirigentes o scouts más grandes como custodios, que caminen sin hablar al lado de los jugadores para que nadie se lastime.
 
 ## Cómo se juega
-1. Las patrullas se ponen en fila en la línea de salida y se vendan los ojos.
-2. El que dirige camina en silencio unos 30 a 50 metros y se queda quieto.
-3. Toca el silbato una vez, corto. Esperen un poquito y vuelvan a tocar cada 10 o 15 segundos.
-4. Todos caminan despacio hacia donde escuchan el sonido. Prohibido correr: se camina con las manos adelante.
-5. Cuando alguien llega y toca al que dirige, se saca la venda, se queda callado al lado y espera.
-6. Gana la patrulla que llega completa primero.
+El que dirige se ubica en un espacio abierto; los equipos se forman a cierta distancia y se vendan los ojos. El que dirige toca el silbato cada tanto, y cada jugador, cuando llega hasta él, se saca la venda y se queda callado. Gana el primer equipo que llega completo.
 
-## Reglas
-- Se camina, no se corre.
-- Los que llegan no pueden hablar ni ayudar a los que faltan.
-- Si un custodio toca el hombro de alguien, ese jugador se frena: hay un obstáculo.
-
-### Variante: Cada patrulla con su silbato
-Los guías de patrulla se alejan a la misma distancia y cada uno tiene un silbato que suena distinto. Cada patrulla tiene que reconocer el suyo y llegar a su guía. El que llega a otro guía vuelve a la salida y empieza otra vez.
+**¿Qué silbato?** El guía de cada equipo se aleja la misma distancia del punto de partida, y cada uno tiene un silbato de un sonido propio, distinto del de los demás. Los equipos se vendan los ojos, los guías silban cada tanto y gana el primer equipo que se reúne completo alrededor de su propio guía. El que llega al guía equivocado vuelve al punto de partida y empieza de nuevo.
 
 ## Para cerrar
 - ¿Cómo hicieron para saber de dónde venía el sonido?
@@ -161,5 +153,22 @@ Los guías de patrulla se alejan a la misma distancia y cada uno tiene un silbat
 - El viento desvía mucho el sonido: si hay viento, tocá más seguido o acortá la distancia.
 - Este juego entrena justo lo que hace falta si alguien se pierde y escucha un silbato de búsqueda.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**LOCATION BY SOUND.**
+
+Leader takes up a position in an open space, teams line up some distance away and are blindfold. The leader blows a whistle at intervals and each player on reaching him removes his bandage and keeps quiet. First team all to reach the leader wins. O.
+
+**WHICH WHISTLE?**
+
+Leader of each team goes the same distance from the starting point, and each has a whistle of a distinctive note, different from the rest. Teams are blindfold, leaders whistle at intervals, and the first team to rally to its own leader wins. Any reaching the wrong leader go back and start again.
+
 ---
-**Fuente:** inspirada en el juego «Location by Sound / Which Whistle?» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 35, «Location by Sound» y n.º 39, «Which Whistle?». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

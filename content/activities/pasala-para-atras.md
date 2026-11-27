@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pasala para Atrás"
+title: "Pasala"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasala-para-atras/"
@@ -57,6 +57,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - posta
   - pelota
   - patrullas
@@ -67,10 +68,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,16 +142,13 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Pasala para Atrás!
+# Pasala
 
 ## Resumen
 Dos equipos en fila, uno al lado del otro. A la señal, el primero de cada fila pasa la pelota entre sus piernas al de atrás, y así hasta el último, que corre por afuera de la fila y se la entrega al primero. Gana la fila que lo hace primero.
 
 ## Desarrollo
-1. Se forman dos filas iguales, una al lado de la otra.
-2. A la señal, el primero pasa la pelota entre las piernas al de atrás.
-3. La pelota llega al último, que corre por afuera y se la da al primero.
-4. Gana el equipo que termina primero.
+Este juego se puede jugar en el local o al aire libre, y pueden participar dos o más patrullas. Todo lo que se necesita son dos pelotas de goma huecas, o también sirve muy bien un par de guantes de boxeo. Los jugadores se dividen en dos grupos iguales y se paran en dos filas, una al lado de la otra. El líder de cada grupo se para a la cabeza de su fila y, cuando se da la señal de "¡Ya!", tira la pelota entre sus piernas al que está detrás, que se la pasa al siguiente, y así hasta que llega al último, que tiene que correr con ella por afuera de su fila y entregársela a su líder. Gana el bando que devuelve primero la pelota a su líder, y el juego se puede variar tirando la pelota por encima de la cabeza en vez de entre las piernas.
 
 ### Variante: Por arriba
 La pelota pasa por encima de la cabeza.
@@ -167,15 +167,12 @@ Una vez por abajo y otra por arriba.
 
 This game can be played either in the clubroom or out of doors, and two or more patrols can take part. AU that is required to play it are two hollow rubber balls, or a pair of boxing gloves will do very well. The players should be divided into two equal parties, and should stand in two rows alongside each other. The leader of each party stands at the head of his line, and when the signal to " Go " is given throws the ball between his legs to the man behind him, who passes it on to the next, and so on, until it reaches the last man, who has to run with it outside his line and give it to his leader. The side which gets the ball back to the leader wins, and the game can be varied by throwing the ball over the head instead of between the legs.
 
-**Versión en español:**
-
-**PASALA.**
-
-Este juego se puede jugar en el local o al aire libre, y pueden participar dos o más patrullas. Todo lo que se necesita son dos pelotas de goma huecas, o también sirve muy bien un par de guantes de boxeo. Los jugadores se dividen en dos grupos iguales y se paran en dos filas, una al lado de la otra. El líder de cada grupo se para a la cabeza de su fila y, cuando se da la señal de "¡Ya!", tira la pelota entre sus piernas al que está detrás, que se la pasa al siguiente, y así hasta que llega al último, que tiene que correr con ella por afuera de su fila y entregársela a su líder. Gana el bando que devuelve primero la pelota a su líder, y el juego se puede variar tirando la pelota por encima de la cabeza en vez de entre las piernas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 13. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 13: «Pass It on». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

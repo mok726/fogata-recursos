@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desfile a Ciegas"
+title: "Orden Cerrado a Ciegas"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-a-ciegas/"
@@ -9,13 +9,13 @@ summary: "Cumplir órdenes de formación con los ojos vendados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,18 +133,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Desfile a Ciegas
-
-## De qué se trata
-Todos formados en filas, con los ojos vendados. El que dirige da órdenes simples de formación: «¡Firmes! ¡Derecha! ¡Un paso atrás! ¡Izquierda! ¡Un paso a la derecha! ¡Media vuelta!». Al final se sacan la venda y ven el lío que se armó.
+# Orden Cerrado a Ciegas
 
 ## Cómo se juega
-1. Formen en filas, bien alineados, y véndense los ojos.
-2. El que dirige da órdenes, una por una, despacio.
-3. Cada uno las cumple como puede, sin espiar.
-4. Después de diez o doce órdenes, el que dirige dice «¡Alto!».
-5. Todos se sacan la venda y miran cómo quedaron.
-6. Repitan con otras órdenes. ¿Mejoraron?
+Los jugadores, con los ojos vendados, se forman y se les dan distintas órdenes simples, que cumplen. Por ejemplo: «¡Atención! ¡Derecha, mar! Un paso atrás. ¡Izquierda, mar! Un paso a la derecha. ¡Media vuelta!». Después déjenlos mirar el lío en que quedaron.
 
 ## Para cerrar
 - ¿Qué órdenes los confundieron más? ¿Por qué?
@@ -146,5 +144,18 @@ Todos formados en filas, con los ojos vendados. El que dirige da órdenes simple
 ## Notas para educadores
 - Sirve para repasar las órdenes de formación del Grupo de una manera divertida.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BLINDFOLD DRILL.**
+
+Players blindfold fall in and various simple orders are given, which they carry out. E.g. “Alert, right turn, one pace back, left turn, one pace right, about turn.” Then let them look at the mess they are in.
+
 ---
-**Fuente:** inspirada en el juego «Blindfold Drill» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 3, «Blindfold Drill». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

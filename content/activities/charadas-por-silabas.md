@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Charadas por Sílabas"
+title: "Charadas"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/charadas-por-silabas/"
@@ -9,13 +9,13 @@ summary: "Actuar una palabra sílaba por sílaba hasta que la adivinen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,18 +133,12 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# Charadas por Sílabas
-
-## De qué se trata
-Cada patrulla elige una palabra de dos, tres o cuatro sílabas: GIRASOL (gira-sol), MARIPOSA (mari-posa), FOGONERO. Prepara una escena corta para cada parte y otra para la palabra entera. Las demás patrullas tienen que adivinar.
+# Charadas
 
 ## Cómo se juega
-1. Cada patrulla elige su palabra en secreto y la separa en partes que se puedan actuar: GIRA + SOL.
-2. Prepara una escena corta por parte. En la escena puede haber diálogo, pero sin decir la palabra.
-3. Prepara una última escena con la palabra completa.
-4. Por turno, cada patrulla anuncia «primera parte» y actúa. Después «segunda parte» y «la palabra entera».
-5. Las demás anotan qué creen que es. Al final de las escenas, cada una dice su respuesta.
-6. Suma un punto cada patrulla que acierta y otro la que actuó, por cada una que adivinó.
+Se elige un equipo para actuar. Elige una palabra de 2, 3 o 4 sílabas. Después actúa una escena por cada sílaba y una para la palabra entera, en cada una de las cuales mete la sílaba o la palabra que corresponde. Los demás tratan de adivinar la palabra. Por ejemplo: «girasol» (gira + sol).
+
+Nota: elijan una buena escena de actualidad y metan la palabra como sea.
 
 ## Para cerrar
 - ¿Qué escena estuvo mejor actuada? ¿Por qué se entendió?
@@ -146,5 +146,18 @@ Cada patrulla elige una palabra de dos, tres o cuatro sílabas: GIRASOL (gira-so
 ## Notas para educadores
 - Funciona muy bien como número de fogón.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CHARADES.**
+
+One team is chosen to act. They choose a 2, 3 or 4 syllable word. They then act a scene for each syllable and one for the whole word into each of which they introduce the respective syllables or word. The rest try to guess the word. N.B. Choose a good topical scene and fit in the word somehow.
+
 ---
-**Fuente:** inspirada en el juego «Charades» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 78, «Charades». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

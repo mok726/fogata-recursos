@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cortar la Línea"
+title: "Cortar el Telégrafo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cortar-la-linea/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - acecho
   - patrulla
   - estrategia
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -139,7 +142,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Cortar la Línea!
+# Cortar el Telégrafo
 
 ## Resumen
 Una línea de postes (o árboles, o estacas) representa una línea de comunicación. Los atacantes intentan "cortarla" atando tres pañuelos en un mismo poste. Los defensores, con el doble de gente, los dejan fuera con solo tocarlos.
@@ -148,11 +151,7 @@ Una línea de postes (o árboles, o estacas) representa una línea de comunicaci
 1. Elegí un tramo con un poste o estaca por cada defensor. No uses postes de luz ni de teléfono reales: marcá tus propias estacas o usá árboles.
 
 ## Desarrollo
-1. Los defensores (dos patrullas) se reparten a lo largo de la línea y pueden mandar exploradores a ver dónde se juntan los atacantes.
-2. Los atacantes (una patrulla) se esconden y eligen dónde atacar.
-3. Para cortar la línea hay que atar tres pañuelos en un mismo poste (seis si atacan dos patrullas).
-4. Un defensor deja fuera a un atacante con solo tocarlo. Si en un punto hay menos defensores que atacantes, los defensores tienen que retroceder hasta que llegue ayuda.
-5. El juego es mantenerse en contacto a lo largo de toda la línea y mandar refuerzos rápido.
+Un ejército invasor siempre trata de destruir todas las comunicaciones del país invadido, así que lo primero que se ataca son las líneas de comunicación, y los defensores mandan gente a proteger los cables. Elijan un camino con postes de luz o de teléfono y con buena cobertura a ambos lados. Los defensores deberían tener dos patrullas por cada una de los atacantes, y solo se protege el tramo de terreno que permita un defensor por cada poste. Los defensores no tienen que quedarse en el camino: pueden mandar exploradores a descubrir dónde se concentra el enemigo y por dónde es probable que ataque. Los atacantes tienen que atar tres pañuelos alrededor de un poste (o el doble si atacan dos patrullas) para que la línea quede cortada. Los defensores pueden dejarlos fuera de combate con solo tocarlos, pero si en algún punto son menos, tienen que retroceder hasta que lleguen refuerzos. Así que la gracia del juego está en que los defensores se mantengan en contacto a lo largo de la línea y estén listos para mandar un grupo de auxilio apenas el enemigo amenace con atacar algún punto.
 
 ## Cierre
 - ¿Cómo se avisaban entre los defensores?
@@ -170,15 +169,12 @@ Una línea de postes (o árboles, o estacas) representa una línea de comunicaci
 
 An invading army always tries to destroy all communication in the invaded country, so the first thing to be destroyed is the telegraph system-and the defenders send out men to protect the wires. Choose a road with telegraph wires, and one which has good cover on either side. The defenders should have two patrols to the attacker's one, and only that amount of ground which will allow one defender to each telegraph post should be protected. The defenders need not necessarily keep to the road but may send out Scouts to discover where the enemy are in force and likely to attack. The attackers have to tie three scarves round a post (or double that number if there are two patrols attacking) before the line is broken. The defenders can put them out of action by merely touching, but if the defenders are less in number at any point they must retreat until reinforcements arrive. So the point of the game is for the defenders to keep in touch along the line, and be ready to bring up a relieving party immediately the enemy threaten to attack any spot.
 
-**Versión en español:**
-
-**CORTAR EL TELÉGRAFO.**
-
-Un ejército invasor siempre trata de destruir todas las comunicaciones del país invadido, así que lo primero que se destruye es el sistema telegráfico, y los defensores mandan gente a proteger los cables. Elijan un camino con cables de telégrafo y con buena cobertura a ambos lados. Los defensores deberían tener dos patrullas por cada una de los atacantes, y solo se protege el tramo de terreno que permita un defensor por cada poste. Los defensores no tienen que quedarse en el camino: pueden mandar exploradores a descubrir dónde se concentra el enemigo y por dónde es probable que ataque. Los atacantes tienen que atar tres pañuelos alrededor de un poste (o el doble si atacan dos patrullas) para que la línea quede cortada. Los defensores pueden dejarlos fuera de combate con solo tocarlos, pero si en algún punto son menos, tienen que retroceder hasta que lleguen refuerzos. Así que la gracia del juego está en que los defensores se mantengan en contacto a lo largo de la línea y estén listos para mandar un grupo de auxilio apenas el enemigo amenace con atacar algún punto.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 10. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 10: «Telegraph Cutting». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»). Los postes del telégrafo se cambiaron por postes de luz o de teléfono.
 
 ---

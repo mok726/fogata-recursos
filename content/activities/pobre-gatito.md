@@ -9,13 +9,13 @@ summary: "Acariciar al gatito sin tentarse de risa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,16 +133,8 @@ rama_rovers:
 
 # Pobre Gatito
 
-## De qué se trata
-Uno es el gatito y anda en cuatro patas por el medio de la ronda. Se para frente a alguien y maúlla tres veces, con todas las caras graciosas que quiera. El otro tiene que acariciarle la cabeza y decir «pobre gatito» después de cada maullido, sin reírse. Si se ríe, pasa a ser el gatito.
-
 ## Cómo se juega
-1. Siéntense en ronda en el piso. Uno se pone en el centro: es el gatito.
-2. El gatito camina en cuatro patas y elige a alguien.
-3. Le maúlla tres veces. Puede hacer muecas, ojitos y movimientos, pero no puede hablar.
-4. Después de cada maullido, el elegido le acaricia la cabeza y dice, bien serio: «Pobre gatito».
-5. Si se le escapa la risa, pasa a ser el gatito.
-6. Si aguanta las tres veces, el gatito busca a otro.
+Los jugadores sentados en el piso en ronda, con el «gatito» en el centro. El gatito le maúlla tres veces a quien quiera, y a cada maullido el otro tiene que contestarle acariciándolo y diciendo «Pobre gatito». El que se ríe en el intento pierde un punto o pasa a ser el gatito. El gatito puede hacer todas las muecas y gestos que quiera, pero no puede hablar, y anda todo el tiempo en cuatro patas.
 
 ## Para cerrar
 - ¿Quién fue el gatito más gracioso? ¿Quién el más serio?
@@ -144,5 +142,18 @@ Uno es el gatito y anda en cuatro patas por el medio de la ronda. Se para frente
 ## Notas para educadores
 - Juego clásico para una ronda de Manada. Cuidá que nadie se sienta obligado a tocar a otro: se puede «acariciar» en el aire.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**POOR PUSSY.**
+
+Players in a circle seated on floor with “pussy” in centre. Pussy mews three times to anyone he wishes, each mew must be answered by stroking and the words “Poor Pussy.” Any player laughing in the effort loses a point or becomes pussy. Pussy may make any grimaces or actions but must not speak, going all the time on all fours.
+
 ---
-**Fuente:** inspirada en el juego «Poor Pussy» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 17, «Poor Pussy». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

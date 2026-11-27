@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué Canción Es?"
+title: "Marcar el Ritmo"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-cancion-es/"
@@ -9,13 +9,13 @@ summary: "Adivinar la canción solo por el ritmo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,18 +134,10 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 ---
 
-# ¿Qué Canción Es?
-
-## De qué se trata
-Cada patrulla manda un jugador al que dirige, que le dice en secreto el nombre de una canción conocida. El jugador vuelve a su patrulla y marca el ritmo de la canción golpeando el piso con una cuchara, sin cantar ni tararear. La primera patrulla que adivina, gana.
+# Marcar el Ritmo
 
 ## Cómo se juega
-1. Cada patrulla se sienta en su rincón.
-2. Un jugador de cada patrulla va al que dirige, que les dice en voz baja la misma canción a todos.
-3. Vuelve a su patrulla y golpea el ritmo con la cuchara en el piso. No puede cantar, tararear ni mover los labios.
-4. La patrulla dice canciones hasta adivinar.
-5. Cuando aciertan, gritan el nombre. Gana la primera.
-6. Se repite con otro jugador y otra canción.
+Los equipos en distintas partes del salón; a un jugador de cada equipo se le dice el nombre de una canción conocida. Él va hasta su equipo y marca el ritmo de la canción golpeando el piso con una cuchara o con algún objeto firme que sirva (que no sea un cuchillo). Gana el primer equipo que adivina bien la canción.
 
 ## Para cerrar
 - ¿Qué canciones fueron más fáciles? ¿Por qué?
@@ -147,5 +145,18 @@ Cada patrulla manda un jugador al que dirige, que le dice en secreto el nombre d
 ## Notas para educadores
 - Usá canciones que todos conozcan: las del fogón del Grupo son ideales.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**BEATING TIME.**
+
+Teams in different parts of the room, one player from each team is told the name of some well-known tune. He then goes to his team and taps out the time of the tune on the floor with a spoon or some suitable object which should be stiff (not a knife blade). The first team to guess the tune right wins.
+
 ---
-**Fuente:** inspirada en el juego «Beating Time» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 58, «Beating Time». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,21 +1,21 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Se Hunde el Barco"
+title: "Sentadas sin Música"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-hunde-el-barco/"
-description: "Todos caminan en ronda. Cuando el capitán grita «¡Se hunde el barco! ¡Grupos de 4!», hay que formar grupos de esa cantidad y sentarse en el piso."
-summary: "Formar grupos del número que diga el capitán."
+description: "Todos caminan en ronda; cuando suena el silbato, hay que sentarse en el piso, y el último en sentarse sale. Con «¡Crash!», hay que sentarse en grupos del número que se diga."
+summary: "Sentarse rápido o formar grupos del número que se diga."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -52,6 +52,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -59,24 +60,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,20 +132,16 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Se Hunde el Barco
-
-## De qué se trata
-Todos caminan en ronda. Cuando el que dirige toca el silbato, todos se sientan en el piso y el último en sentarse sale. Otras veces, grita: «¡Se hunde el barco! ¡Botes de 4!» y hay que juntarse de a cuatro y sentarse. Los que quedan sueltos salen.
+# Sentadas sin Música
 
 ## Cómo se juega
-1. Caminen en ronda, uno detrás del otro, mientras el que dirige cuenta una historia de barcos.
-2. Si toca el silbato, todos se sientan en el piso enseguida. El último en sentarse sale.
-3. Si grita «¡Se hunde el barco! ¡Botes de 3!» (o de 2, o de 5), todos se agarran del brazo con otros y se sientan en grupos de ese número.
-4. Los que no consiguen grupo, o quedan en un grupo con más o menos gente, salen y ayudan a controlar.
-5. Se sigue caminando. Gana el último que queda.
+Los jugadores caminan en ronda; cada vez que el que dirige toca el silbato, todos se sientan en el piso, y el último en sentarse sale.
 
-### Variante: La palabra secreta
-Antes de empezar se elige una palabra, por ejemplo «ola». Cada vez que el que dirige la dice en su historia, todos se sientan. Y cada vez que dice un número, se forman grupos de ese número.
+**Variante:** el que dirige cuenta una historia y, cada vez que dice una palabra acordada de antemano («el», «que», «y», etc.), todos se sientan. Se puede combinar muy bien con el juego siguiente.
+
+**¡Crash!:** los jugadores caminan en ronda y el que dirige dice: «¡Siéntense de a 5!» (por ejemplo). Todos los que no quedan en un grupo de 5, sentados en el piso, salen.
+
+**Variante:** el que dirige cuenta una historia y, cada vez que nombra un número, todos se sientan en grupos de ese número.
 
 ## Para cerrar
 - ¿Qué hicieron cuando alguien quedaba solo? ¿Lo buscaban o lo dejaban afuera?
@@ -147,5 +149,26 @@ Antes de empezar se elige una palabra, por ejemplo «ola». Cada vez que el que 
 ## Notas para educadores
 - Buen momento para hablar de inclusión: proponé que, en la segunda vuelta, los grupos solo cuenten si nadie quedó afuera por culpa de otros.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**UNMUSICAL BUMPS.**
+
+Players move round in a circle, whenever leader blows his whistle all sit on the floor, and last down falls out.
+
+Variation.-Leader tells a yarn, and whenever a prearranged word is spoken (it, the, and, etc.) all sit down. May well be combined with No. 6.
+
+**CRASH.**
+
+Players move round in a circle, and leader says “Sit down in (say) 5's.” All who do not get into a group of 5, sitting on the floor, fall out
+
+Variation.-Leader tells a yarn, and whenever he mentions a number all sit down in groups of that number. May well be combined with No. 5.
+
 ---
-**Fuente:** inspirada en el juego «Unmusical Bumps / Crash» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 5, «Unmusical Bumps» y n.º 6, «Crash». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

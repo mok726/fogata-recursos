@@ -9,13 +9,13 @@ summary: "Clavar y desclavar estacas bien firmes en posta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -134,21 +140,8 @@ rama_rovers:
 
 # Posta de las Estacas
 
-## De qué se trata
-Cada patrulla tiene doce estacas y una maza. El primero corre hasta su lugar y clava las doce. Vuelve y sale el segundo, que las desclava y las vuelve a clavar. Si una estaca se cae o está floja cuando llega el siguiente, el que la clavó tiene que volver a clavarla.
-
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. El primero corre con las estacas y la maza hasta su lugar.
-3. Clava las doce, bien firmes y con la inclinación correcta (la cabeza apuntando para el lado contrario a la carpa).
-4. Vuelve y le da la salida al segundo.
-5. El segundo saca todas las estacas y las vuelve a clavar.
-6. Si una estaca está floja o caída, el que la clavó vuelve a arreglarla antes de que siga el juego.
-7. Gana la primera patrulla que termina con las estacas bien clavadas.
-
-## Reglas
-- Nadie se acerca al que está con la maza.
-- La maza no sube por arriba del hombro.
+Los equipos en fila india; cada equipo tiene 12 estacas de carpa y una maza. El primer jugador de cada equipo corre con las estacas y la maza hasta un lugar dado y clava todas las estacas; vuelve y larga al siguiente, que saca todas las estacas y las vuelve a clavar, y así sucesivamente. Si una estaca se cae entre que un jugador se va y llega el siguiente, el que la clavó tiene que volver a ponerla. Gana el primer equipo que termina.
 
 ## Para cerrar
 - ¿Cómo se saca una estaca sin doblarla?
@@ -158,5 +151,20 @@ Cada patrulla tiene doce estacas y una maza. El primero corre hasta su lugar y c
 - Antes del juego, mostrá cómo se clava una estaca y cómo se saca con otra estaca o con un sacaestacas.
 - Ideal para la mañana de armado del campamento.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**TENT PEG RELAY.**
+
+Teams in file; each team has 12 tent-pegs and a mallet. Each first player runs with the pegs and mallet to a given spot and knocks all the pegs in, returning to send off the next player, who pulls all the pegs out and
+
+knocks them in again, and so on. If a peg falls down between one player leaving it and the next arriving, the one who knocked it in must go back and replace it. First team to finish wins.
+
 ---
-**Fuente:** inspirada en el juego «Tent Peg Relay» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 60, «Tent Peg Relay». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

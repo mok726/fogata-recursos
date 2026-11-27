@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Hombre al Agua!"
+title: "Hombre al Agua"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hombre-al-agua/"
@@ -9,13 +9,13 @@ summary: "Unir dos sogas antes de que se escape la punta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -55,6 +55,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -62,24 +63,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -131,22 +137,14 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡Hombre al Agua!
-
-## De qué se trata
-Dos sogas enrolladas están del mismo lado de una línea. Un jugador, el «hombre al agua», agarra la punta de una y camina alejándose: la soga se va desenrollando. Antes de que la otra punta cruce la línea, otro jugador tiene que atar las dos sogas con un nudo de escota o de rizo.
+# Hombre al Agua
 
 ## Preparación
 1. Antes de jugar, repasen los nudos que van a usar (ver la sección Nudos y Cuerdas de Técnica Scout).
 2. Probá antes a qué velocidad tiene que caminar el «hombre al agua» para que el juego sea parejo.
 
 ## Cómo se juega
-1. Pongan las dos sogas enrolladas a un metro de la línea.
-2. El «hombre al agua» agarra la punta de una soga y espera la orden.
-3. A la orden, empieza a caminar alejándose, a paso normal. La soga se desenrolla.
-4. El rescatista agarra la otra punta de esa soga y le ata la segunda soga con un nudo de escota.
-5. Si termina antes de que la soga cruce la línea, ¡lo salvó!
-6. Se cambian los papeles. Cada uno que salva a su compañero suma un punto para la patrulla.
+Dos rollos de soga están de un lado de una línea; un jugador agarra la punta de una de las sogas y se aleja caminando de la línea. Otro tiene que unir las dos sogas antes de que la soga que sostiene el «hombre al agua» pase por completo la línea. El ritmo al que hay que caminar solo se encuentra probando.
 
 ## Para cerrar
 - ¿Qué nudo usaron para unir las sogas? ¿Por qué ese y no otro?
@@ -154,5 +152,18 @@ Dos sogas enrolladas están del mismo lado de una línea. Un jugador, el «hombr
 ## Notas para educadores
 - El que camina nunca corre ni tira de golpe.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**MAN OVERBOARD.**
+
+Two coils of rope lie on one side of a line and one player takes one end of one of the ropes and walks away from the line. One of the others must join the two ropes together before the one the “man overboard” holds is pulled over the line. Pace of walking can only be found by trial.
+
 ---
-**Fuente:** inspirada en el juego «Man Overboard» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 12, «Man Overboard». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

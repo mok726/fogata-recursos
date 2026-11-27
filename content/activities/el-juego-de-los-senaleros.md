@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - señales
   - morse
   - semaforo
@@ -69,10 +70,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,7 +143,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ¡El Juego de los Señaleros!
+# El Juego de los Señaleros
 
 ## Resumen
 La tropa se divide en tres: A, los señaleros (pocos y buenos), B, los que se esconden, y C, los atacantes (los más numerosos). A se ubica en un lugar alto, ve dónde se esconde B y le pasa la información a C con señales. C tiene que rodear y capturar a los de B.
@@ -150,11 +153,7 @@ La tropa se divide en tres: A, los señaleros (pocos y buenos), B, los que se es
 2. Fijá el tiempo máximo del juego (B-P sugiere dos horas; con 45 minutos alcanza).
 
 ## Desarrollo
-1. A sube al punto alto con sus banderas.
-2. B sale al terreno, se muestra y se esconde varias veces para confundir a A, y al final se queda escondido.
-3. A los 15 minutos sale C. A le va señalando dónde están los de B y otros datos para avanzar sin ser vistos.
-4. C captura a cada uno de B rodeando su escondite.
-5. Si C pasa de largo más escondidos de los que captura, gana B.
+La tropa se divide en tres grupos o patrullas: patrulla A, patrulla B y patrulla C. La patrulla A será la más chica, pero todos tienen que ser buenos señaleros, y la C, la más numerosa. Primero sale la patrulla A y se ubica en un terreno alto, o en el campanario de una iglesia, o en el techo de una casa, de modo de dominar bien la vista de cierto tramo del terreno. Esta patrulla lleva banderas de morse o de semáforo, u otro aparato de señales. La patrulla B sale y se mantiene a cubierto en ese tramo del terreno vigilado por los señaleros. Al salir, la patrulla B tratará de mantenerse a cubierto y de esquivar o engañar a los señaleros apareciendo en distintos lugares y desapareciendo, y finalmente tomará una posición escondida. Cuando la patrulla B lleva quince minutos afuera, avanza la patrulla C; entonces los señaleros le transmiten a la patrulla C, los atacantes, la posición de la patrulla B enemiga y otros datos que la ayuden a avanzar sin ser vista y sorprender al enemigo. Para ganar, la patrulla C tiene que capturar a los scouts de la patrulla B rodeando sus escondites. Si la patrulla C pasa de largo a más scouts de la patrulla B de los que captura, cuenta como victoria para la patrulla B. Habría que ponerle al juego un límite de tiempo de, digamos, dos horas.
 
 ## Cierre
 - ¿Las señales llegaban claras? ¿Qué mejorarían del código?
@@ -170,15 +169,12 @@ La tropa se divide en tres: A, los señaleros (pocos y buenos), B, los que se es
 
 The troop must be divided up into three parties or patrols, as follows: A. Patrol, B. Patrol and C. Patrol. A. Patrol will be the smallest, but must all be good signallers, and c. Patrol the largest. First, the A. Patrol goes out and takes a position on high ground, or up in a church steeple, or the roof of a house, so as to command a good view of a certain stretch of country. This patrol will take Morse or Semaphore flags, or other signalling apparatus. The B. Patrol will go out and keep under cover in this certain stretch of country overlooked by the signallers or A. Patrol. On going out the B. Patrol will endeavor to keep under cover and dodge or trick the signallers by appearing in different places and disappearing and will finally take up a concealed position. After B. Patrol has been out fifteen minutes, C. Patrol will advance; then the signallers will signal down to the C. Patrol, or attackers, the position of the hostile B. Patrol, and other details that will help the patrol to advance unseen and surprise the enemy or B. Patrol. To win, the C. Patrol must capture the Scouts of the B. Patrol by surrounding their hiding-places. If the C. Patrol pass by more Scouts of the B. Patrol than they capture, it counts a win for the hostile B. Patrol. A time-limit of, say, two hours should be put upon the game.
 
-**Versión en español:**
-
-**EL JUEGO DE LOS SEÑALEROS (UN JUEGO PARA BUENOS SEÑALEROS).**
-
-La tropa se divide en tres grupos o patrullas: patrulla A, patrulla B y patrulla C. La patrulla A será la más chica, pero todos tienen que ser buenos señaleros, y la C, la más numerosa. Primero sale la patrulla A y se ubica en un terreno alto, o en el campanario de una iglesia, o en el techo de una casa, de modo de dominar bien la vista de cierto tramo del terreno. Esta patrulla lleva banderas de morse o de semáforo, u otro aparato de señales. La patrulla B sale y se mantiene a cubierto en ese tramo del terreno vigilado por los señaleros. Al salir, la patrulla B tratará de mantenerse a cubierto y de esquivar o engañar a los señaleros apareciendo en distintos lugares y desapareciendo, y finalmente tomará una posición escondida. Cuando la patrulla B lleva quince minutos afuera, avanza la patrulla C; entonces los señaleros le transmiten a la patrulla C, los atacantes, la posición de la patrulla B enemiga y otros datos que la ayuden a avanzar sin ser vista y sorprender al enemigo. Para ganar, la patrulla C tiene que capturar a los scouts de la patrulla B rodeando sus escondites. Si la patrulla C pasa de largo a más scouts de la patrulla B de los que captura, cuenta como victoria para la patrulla B. Habría que ponerle al juego un límite de tiempo de, digamos, dos horas.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. I (Scouting Games), juego 11. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. I (Scouting Games), juego 11: «The Signallers' Game. (a Game for Good Signallers)». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

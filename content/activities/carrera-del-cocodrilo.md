@@ -9,13 +9,13 @@ summary: "Avanzar en cuclillas todos juntos sin desarmarse."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -53,6 +53,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -60,24 +61,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,16 +134,8 @@ rama_rovers:
 
 # Carrera del Cocodrilo
 
-## De qué se trata
-La patrulla se pone en fila, en cuclillas, con las manos en los hombros del de adelante. Así, todos juntos, avanzan con saltitos hasta una marca y vuelven. Si el cocodrilo se rompe o alguien se cae, tienen que volver a la salida y empezar de nuevo.
-
 ## Cómo se juega
-1. Cada patrulla se pone en fila, en cuclillas, con las manos en los hombros del de adelante.
-2. A la orden, avanzan dando saltitos cortos, todos al mismo tiempo.
-3. El de adelante marca el ritmo: «¡Uno, dos! ¡Uno, dos!».
-4. Llegan hasta la marca, dan la vuelta sin soltarse y vuelven.
-5. Si alguien se suelta o se cae, vuelven todos a la salida.
-6. Gana el primer cocodrilo que vuelve entero.
+Los equipos en fila india, en cuclillas con las rodillas bien dobladas y las manos en los hombros del de adelante. Cada equipo, en esa posición, avanza saltando hasta un lugar dado y vuelve; si se cae, tiene que volver al punto de partida, volver a formarse y probar otra vez. El recorrido no tiene que ser muy largo. Gana el primer equipo que termina entero.
 
 ## Para cerrar
 - ¿Qué pasó cuando cada uno saltaba a su ritmo?
@@ -145,5 +143,18 @@ La patrulla se pone en fila, en cuclillas, con las manos en los hombros del de a
 ## Notas para educadores
 - Que el recorrido sea corto: es un ejercicio muy cansador para las rodillas.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**CROCODILE RACE.**
+
+Teams in file, squatting at the deep knees-bend position, hands on the shoulders of the player in front. Each team in that position hops forward to a given place and back; if it falls over it must return to the start, reform, and try again. Course should not be very long. First team to finish intact wins.
+
 ---
-**Fuente:** inspirada en el juego «Crocodile Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 20, «Crocodile Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

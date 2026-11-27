@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cartas, Paquetes y Telegramas"
+title: "Correo General"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartas-paquetes-y-telegramas/"
@@ -9,13 +9,13 @@ summary: "Cambiar de lugar sin que el cartero te gane el sitio."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,21 +133,12 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Cartas, Paquetes y Telegramas
-
-## De qué se trata
-Cada jugador se sienta en ronda y es una ciudad: Salta, Ushuaia, Rosario. Uno queda en el medio. El que dirige grita dos ciudades y el tipo de envío. Las dos ciudades tienen que cambiar de lugar, y el del medio intenta sentarse en una de las sillas antes. Las cartas van caminando, los paquetes gateando y los telegramas corriendo. ¡El del medio también!
+# Correo General
 
 ## Cómo se juega
-1. Siéntense en ronda. Cada uno elige el nombre de una ciudad y lo dice en voz alta. El que dirige los anota.
-2. Uno se para en el medio, sin silla.
-3. El que dirige grita, por ejemplo: «¡De Salta a Ushuaia… paquete!».
-4. Salta y Ushuaia tienen que cambiar de silla gateando. El del medio también gatea e intenta ganarles una silla.
-5. Si es «carta», todos caminan. Si es «telegrama», todos corren.
-6. El que se queda sin silla pasa al medio, con la ciudad del que se sentó.
+Los jugadores en ronda alrededor del salón; cada uno toma el nombre de una ciudad. Un jugador en el centro. El que dirige nombra dos ciudades y dice «Carta», «Paquete» o «Telegrama». Las ciudades nombradas cambian de lugar y el del centro trata de ocupar uno de los asientos vacíos. En las «cartas», todos caminan; en los «paquetes», todos gatean (o saltan en un pie); en los «telegramas», todos corren; «todos» incluye al del centro.
 
-### Variante: Correo a ciegas
-El del medio tiene los ojos vendados y en vez de buscar silla tiene que atrapar a una de las dos ciudades que cambian. No gatea ni salta.
+**Variante:** el del centro tiene los ojos vendados y trata de atrapar a uno de los dos que se mueven; él no tiene que saltar ni gatear.
 
 ### Variante: ¡Correo general!
 Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
@@ -152,5 +149,20 @@ Si el que dirige grita «¡Correo general!», todos cambian de silla a la vez.
 ## Notas para educadores
 - Podés pegar en la pared un mapa de Argentina y, después del juego, que cada uno marque su ciudad.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**GENERAL POST.**
+
+Players in circle round room, each takes the name of a town. One player in centre. Leader calls out two towns and “Letter”, “Parcel,” or “Telegram.” The towns mentioned change places and the one in centre tries to occupy one of the vacant seats. “Letters” all walk, “parcels” all crawl (or hop), “telegrams” all run; all includes one in centre.
+
+Variation.-Player in centre is blindfold and tries to catch one of the two moving, and need not hop or crawl.
+
 ---
-**Fuente:** inspirada en el juego «General Post» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 23, «General Post». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las Dos Sillas"
+title: "Volver a Poner las Dos Sillas"
 duration: "10 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/las-dos-sillas/"
@@ -9,13 +9,13 @@ summary: "Recordar dónde estaban dos sillas que nadie mencionó."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -126,17 +132,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Las Dos Sillas
-
-## De qué se trata
-Antes de empezar la reunión, el que dirige deja dos sillas en un lugar un poco llamativo, sin decir nada. En algún momento, sin aviso, las saca. Cada patrulla tiene que volver a ponerlas donde estaban, en la misma posición.
+# Volver a Poner las Dos Sillas
 
 ## Cómo se juega
-1. El que dirige pone dos sillas en un lugar raro del local antes de que lleguen los chicos. Por ejemplo, una mirando a la pared y otra cruzada en un rincón.
-2. La reunión sigue normal. Nadie habla de las sillas.
-3. Más tarde, mientras están en otra cosa, el que dirige saca las sillas.
-4. Pregunta: «¿Alguien vio dos sillas raras hoy?». Cada patrulla, por turno, tiene que ponerlas donde estaban y como estaban.
-5. Gana la patrulla que más se acerque: se mide la distancia al lugar verdadero y si las sillas miraban para el mismo lado.
+Se dejan dos sillas como al descuido en el salón, en un lugar bastante visible, pero no se dice nada de ellas. Después se mueven y cada equipo, por turno, trata de volver a ponerlas exactamente donde estaban.
 
 ## Para cerrar
 - ¿Quién se había dado cuenta de las sillas? ¿Les llamó la atención en ese momento?
@@ -146,5 +145,18 @@ Antes de empezar la reunión, el que dirige deja dos sillas en un lugar un poco 
 - Marcá con una tiza chiquita, donde no se vea, las patas de las sillas para poder corregir.
 - Funciona una sola vez por grupo: guardalo para el día justo.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**REPLACE TWO CHAIRS.**
+
+Two chairs are left casually in the room in a rather noticeable position, but are not mentioned. They are then moved and each team in turn tries to replace them correctly.
+
 ---
-**Fuente:** inspirada en el juego «Replace Two Chairs» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 51, «Replace Two Chairs». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

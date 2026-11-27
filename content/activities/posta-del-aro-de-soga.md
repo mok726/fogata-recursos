@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Posta del Aro de Soga"
+title: "Carrera del Aro"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/posta-del-aro-de-soga/"
@@ -9,13 +9,13 @@ summary: "Pasar por adentro de un aro de soga y volver."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -127,24 +133,16 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Posta del Aro de Soga
-
-## De qué se trata
-En la marca de cada patrulla hay un aro hecho con soga. Cada jugador corre, se lo pasa por la cabeza, lo baja por el cuerpo hasta los pies, sale de él y vuelve a dar la salida al siguiente.
+# Carrera del Aro
 
 ## Cómo se juega
-1. Cada patrulla forma una fila detrás de la línea de salida.
-2. Cada patrulla tiene su aro en una marca, a unos 10 metros.
-3. A la orden, el primero corre, agarra el aro y se lo pasa por la cabeza.
-4. Lo baja por el cuerpo y sale por los pies.
-5. Deja el aro en el piso y vuelve corriendo a tocar al siguiente.
-6. Gana la primera patrulla que termina.
+Los equipos en fila india; cada equipo tiene un aro de soga apenas lo bastante grande como para que pase un jugador. Cada jugador, por turno, corre hasta un punto donde está el aro, se lo pasa por la cabeza y lo saca por los pies; después vuelve corriendo para largar al siguiente. Gana el primer equipo que termina.
 
-### Variante: En fila
-Sin correr: la patrulla en fila, cada uno se pasa el aro por la cabeza y se lo da al de atrás. El último corre adelante y empieza otra vez.
+**Variante:** los equipos en fila india, a unos 60 cm uno de otro. Los primeros se pasan el aro como antes y se lo dan al siguiente, que hace lo mismo, y así a lo largo de la fila.
 
-### Variante: Remeros
-La patrulla sentada en fila. Cada uno pasa el aro por los pies, lo sube por el cuerpo y lo saca por la cabeza, sin levantarse, y se lo da al de atrás. El último lo devuelve igual.
+**Carrera de los remeros:** los equipos en fila india, sentados en el piso. Cada equipo tiene un aro de soga de unos 45 cm de diámetro. Cada jugador, por turno y sin levantarse, se pasa el aro por los pies, lo sube por el cuerpo y lo saca por la cabeza, y así al siguiente. Cuando el aro llega al último, él lo pasa en sentido contrario por su cuerpo, y así hasta el de adelante. Gana el primer aro que vuelve a llegar adelante.
+
+**Variante:** cuando el aro llega al último, este corre adelante y lo vuelve a largar.
 
 ## Para cerrar
 - ¿Qué técnica era la más rápida?
@@ -152,5 +150,26 @@ La patrulla sentada en fila. Cada uno pasa el aro por los pies, lo sube por el c
 ## Notas para educadores
 - El aro de soga lo puede hacer la patrulla antes, con un empalme corto (ver Técnica Scout).
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**HOOP RACE.**
+
+Teams in file; each team has a rope ring just large enough to pass over a player. Each player in turn runs to a given point where the ring is and slips it over his head, and off at his feet; then running back to start the next. Team finishing first wins.
+
+Variation.—Teams in file, players about 2 feet apart. Nos. 1 pass ring over themselves as above, and then hand it to next players, who do the same, and so on down the file.
+
+**ROWERS’ RACE.**
+
+Teams in file seated on floor. Each team has a rope ring about 1 foot 6 inches diameter. Each player in turn, without getting up, passes the ring over his feet, up over his body, and off over his head, and so on to the next. When the ring reaches the last player he passes it in the opposite direction over his body, and so on to the player in front. First ring to re-reach the front wins.
+
+Variation.—When ring reaches the last player he runs to the front and restarts it.
+
 ---
-**Fuente:** inspirada en el juego «Hoop Race / Rowers Race» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 19, «Hoop Race» y n.º 107, «Rowers’ Race». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.

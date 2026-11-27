@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Vestite Antes que el Otro"
+title: "Mancha del Atuendo"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vestite-antes-que-el-otro/"
@@ -58,6 +58,7 @@ tags:
   - baden-powell
   - juego-scout
   - scouting-games
+  - dominio-publico
   - persecucion
   - reflejos
   - pañuelo
@@ -68,10 +69,12 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed."
+  - title: "Scouting Games (The Scout Library n.º 4), 6.ª ed. (impreso original)"
     author: "Robert Baden-Powell"
     year: 1921
-    series: "C. Arthur Pearson, Londres. Transcripción en línea"
+    series: "C. Arthur Pearson, Londres"
+  - title: "Scouting Games: transcripción de la 6.ª edición (versión alternativa en línea)"
+    author: "MacScouter"
     url: "http://www.macscouter.com/Games/BPGames.html"
   - title: "Scouting Games, by Robert Baden-Powell"
     author: "The Online Books Page"
@@ -140,18 +143,17 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# ¡Vestite Antes que el Otro!
+# Mancha del Atuendo
 
 ## Resumen
 Se ponen todas las gorras en fila en el centro y las dos patrullas, numeradas, se paran enfrentadas a unos 20 m. El dirigente canta un número y los dos que lo tienen corren a buscar la gorra más cercana a él y volver sin ser tocados. Si lo tocan, la devuelve. Gana la patrulla que junta todas.
 
 ## Desarrollo
-1. Cada patrulla numera a sus jugadores. Se ponen las gorras en fila en el centro.
-2. El dirigente, en una punta de la fila, canta un número.
-3. Los dos con ese número corren a buscar la gorra más cercana al dirigente.
-4. El que la agarra trata de volver sin que el otro lo toque. Si lo tocan, la devuelve.
-5. Vale amagar: hacer como que la agarrás para que el otro se mueva, y salir para el otro lado.
-6. Nadie repite hasta que pasaron todos los de su patrulla.
+Para este juego hacen falta dos equipos iguales. Lo más divertido es que cada equipo sea una patrulla, pero si hace falta, los dos equipos se pueden formar con una sola patrulla. La forma más simple del juego es tomar los sombreros de todos los jugadores y ponerlos en fila en el medio del terreno, con los dos equipos parados frente a frente a cada lado de la fila, a unos 25 metros de ella. Un dirigente o un guía, parado en una punta de la fila, canta un número, y cada scout que tiene ese número en su patrulla corre hasta la fila e intenta agarrar el sombrero más cercano al dirigente y volver a su lugar sin que el otro lo "manche" o lo toque. Si lo manchan, tiene que devolver el sombrero a la fila. El juego sigue hasta que una patrulla consiguió un juego completo de sombreros. Si hay más de dos patrullas, los perdedores del primer juego juegan contra otra patrulla, y así hasta que todos hayan tenido su turno. Como los dos scouts probablemente lleguen al sombrero casi al mismo tiempo, cada uno debería hacer como que lo agarra, para que el otro se mueva hacia un lado, mientras él agarra el sombrero y sale rápido para el otro lado. Hay mucho valor en conseguir una buena salida con un amague bien hecho, y siempre resulta muy divertido cuando se enfrentan dos expertos en fingir. A ningún scout se lo debería llamar por segunda vez hasta que todos los demás de su patrulla hayan sido llamados una vez. El juego se puede variar de varias formas, de las que estas dos son típicas:
+
+1) En vez de ir todos al mismo sombrero, a cada scout llamado se le puede pedir que encuentre su propio sombrero entre todos los sombreros puestos en montón y, cuando lo encuentra, que intente la doble tarea de manchar a su rival y de volver a su lugar sin ser manchado. Si lo logra, cuando vuelvan a cantar su número solo tiene que manchar a su rival y no necesita preocuparse por conseguir un sombrero, porque por supuesto ya tiene el suyo. Cuando los dos scouts con el mismo número consiguieron sombrero, le avisan al dirigente y se ponen detrás de la línea, sin seguir participando del juego.
+
+2) Se pueden poner otras prendas del atuendo scout, por ejemplo pañuelos, cordones, cantimploras, y cualquier jugador que haya conseguido un sombrero va entonces por otra prenda hasta completar su atuendo. El orden en que hay que conseguir las prendas tiene que fijarlo el dirigente con claridad al empezar el juego. En esta variante gana la patrulla a la que pertenece el primer scout que completa su atuendo.
 
 ### Variante: Cada uno la suya
 Las gorras van en montón y cada uno busca la propia y trata de volver tocando al rival y sin que lo toquen.
@@ -175,19 +177,12 @@ For this game two equal teams are required. Each team formed of one patrol is th
 
 2) Other articles of Scout toilet, e.g. scarves, lanyards, water-bottles, may be put down, and any player having secured a hat would then aim at another article until his toilet was complete. The order in which articles are to be obtained must be definitely laid down by the Scoutmaster, when the game begins. In this variation, the patrol to which a Scout who first completes his toilet belongs wins the game.
 
-**Versión en español:**
-
-**MANCHA DEL ATUENDO.**
-
-Para este juego hacen falta dos equipos iguales. Lo más divertido es que cada equipo sea una patrulla, pero si hace falta, los dos equipos se pueden formar con una sola patrulla. La forma más simple del juego es tomar los sombreros de todos los jugadores y ponerlos en fila en el medio del terreno, con los dos equipos parados frente a frente a cada lado de la fila, a unas veinticinco yardas de ella. Un jefe de tropa o un guía, parado en una punta de la fila, canta un número, y cada scout que tiene ese número en su patrulla corre hasta la fila e intenta agarrar el sombrero más cercano al jefe de tropa y volver a su lugar sin que el otro lo "manche" o lo toque. Si lo manchan, tiene que devolver el sombrero a la fila. El juego sigue hasta que una patrulla consiguió un juego completo de sombreros. Si hay más de dos patrullas, los perdedores del primer juego juegan contra otra patrulla, y así hasta que todos hayan tenido su turno. Como los dos scouts probablemente lleguen al sombrero casi al mismo tiempo, cada uno debería hacer como que lo agarra, para que el otro se mueva hacia un lado, mientras él agarra el sombrero y sale rápido para el otro lado. Hay mucho valor en conseguir una buena salida con un amague bien hecho, y siempre resulta muy divertido cuando se enfrentan dos expertos en fingir. A ningún scout se lo debería llamar por segunda vez hasta que todos los demás de su patrulla hayan sido llamados una vez. El juego se puede variar de varias formas, de las que estas dos son típicas:
-
-1) En vez de ir todos al mismo sombrero, a cada scout llamado se le puede pedir que encuentre su propio sombrero entre todos los sombreros puestos en montón y, cuando lo encuentra, que intente la doble tarea de manchar a su rival y de volver a su lugar sin ser manchado. Si lo logra, cuando vuelvan a cantar su número solo tiene que manchar a su rival y no necesita preocuparse por conseguir un sombrero, porque por supuesto ya tiene el suyo. Cuando los dos scouts con el mismo número consiguieron sombrero, le avisan al jefe de tropa y se ponen detrás de la línea, sin seguir participando del juego.
-
-2) Se pueden poner otras prendas del atuendo scout, por ejemplo pañuelos, cordones, cantimploras, y cualquier jugador que haya conseguido un sombrero va entonces por otra prenda hasta completar su atuendo. El orden en que hay que conseguir las prendas tiene que fijarlo el jefe de tropa con claridad al empezar el juego. En esta variante gana la patrulla a la que pertenece el primer scout que completa su atuendo.
 
 ---
-**Fuente:** Robert Baden-Powell, *Scouting Games* (The Scout Library n.º 4), 6.ª ed. (1921), cap. V (General Games for Camp or Playground), juego 14. Dominio público. Texto según la transcripción de la 6.ª edición publicada en macscouter.com.
+**Fuente:** *Scouting Games*, de Robert Baden-Powell (The Scout Library n.º 4, C. Arthur Pearson, Londres), 6.ª edición, 1921, cap. V (General Games for Camp or Playground), juego 14: «Toilet Tag». Impreso original en dominio público.
 
-**Traducción:** Fogata de Recursos (2026).
+**Versión alternativa en línea:** transcripción de la 6.ª edición en [MacScouter](http://www.macscouter.com/Games/BPGames.html) y ficha del libro en [The Online Books Page](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp11141).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina (por ejemplo, «jefe de tropa» por «dirigente»).
 
 ---

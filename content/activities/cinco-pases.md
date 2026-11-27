@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cinco Pases"
+title: "Nueces y Pasas"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cinco-pases/"
@@ -9,13 +9,13 @@ summary: "Lograr cinco pases seguidos sin que te corten."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - "Mariano S. Cosentino"
+  - Gilcraft (The Boy Scouts Association)
 source:
-  - "Inspirada en Gilcraft's Book of Games (1928)"
+  - Gilcraft's Book of Games (1928)
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
-Origin: "Actividad original inspirada en Gilcraft's Book of Games (1928)"
+original: false
+Origin: "Gilcraft's Book of Games - Gilcraft (1928)"
 version: "DRAFT"
 
 # ========== CLASIFICACIÓN ==========
@@ -54,6 +54,7 @@ required_category: ""
 tags:
   - "juego-scout"
   - "gilcraft"
+  - "dominio-publico"
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -61,24 +62,29 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Gilcraft's Book of Games (C. Arthur Pearson, Londres, 1928). Edición digital de The Canadian Sea Scouts Homeport"
+  - title: "Gilcraft's Book of Games (impreso original)"
+    author: "Gilcraft"
+    year: 1928
+    series: "C. Arthur Pearson, Londres"
+  - title: "Gilcraft's Book of Games: edición digital (versión alternativa en línea)"
+    author: "The Canadian Sea Scouts Homeport"
     url: "http://www.seascouts.ca/"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Ficha propia. La idea viene de un juego de Gilcraft's Book of Games (1928), de dominio público; el texto, la adaptación y el desarrollo son de Fogata de Recursos. No incluye el texto original."
-  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+  name: "Dominio público"
+  url: "http://www.seascouts.ca/"
+  image: ""
+  note: "Gilcraft's Book of Games se publicó en 1928 bajo el seudónimo colectivo «Gilcraft» del equipo de formación de The Boy Scouts Association: el texto original es de dominio público. La traducción y la adaptación son de Fogata de Recursos."
+  allowed: "Copiar, traducir, adaptar y difundir el texto original sin restricciones."
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "Gilcraft (equipo de formación de The Boy Scouts Association)"
-    role: "autor de la colección que inspiró la ficha (Gilcraft's Book of Games, 1928)"
+    role: "autor del original (Gilcraft's Book of Games, 1928)"
     year: 1928
   - entity: "Mariano S. Cosentino"
-    role: "texto, adaptación y desarrollo"
+    role: "Traducción, adaptación y compilación para publicación WEB"
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
@@ -128,19 +134,10 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas, buscando mi bienestar integral.
 ---
 
-# Cinco Pases
-
-## De qué se trata
-Un equipo tiene la pelota y se la pasa con las manos entre sus jugadores. El otro equipo intenta cortarla, pero sin tocar a nadie: solo puede interceptar la pelota. Cada cinco pases seguidos sin que caiga, el equipo suma un punto. Si la pelota cae o la cortan, pasa al otro equipo.
+# Nueces y Pasas
 
 ## Cómo se juega
-1. Los dos equipos se distinguen con pañuelos o pecheras.
-2. El que dirige le da la pelota a un equipo.
-3. Se pasan la pelota contando en voz alta: «¡Uno! ¡Dos! ¡Tres!…».
-4. Nadie puede tener la pelota más de cinco segundos ni caminar más de tres pasos con ella.
-5. El otro equipo solo puede cortar el pase en el aire. No se vale tocar ni sacarla de las manos.
-6. Si llegan a cinco pases, suman un punto y vuelven a contar desde uno.
-7. Si la pelota cae, el primero que la toque se la queda sin que lo molesten. Gana el equipo con más puntos en ocho minutos.
+Dos equipos; uno trata de pasarse una pelota de fútbol entre sus integrantes y el otro trata de interceptarla. Se suma un punto por 5 pases seguidos limpios, sin que se caiga la pelota. Nadie puede tener la pelota más de 5 segundos ni dar más de 5 pasos con ella; no se permite quitarla con el cuerpo, solo interceptarla. El primero que toca una pelota caída la puede levantar sin que lo molesten. Gana el equipo con más puntos en, por ejemplo, 8 minutos.
 
 ## Para cerrar
 - ¿Qué hacían los que no tenían la pelota para ayudar?
@@ -148,5 +145,18 @@ Un equipo tiene la pelota y se la pasa con las manos entre sus jugadores. El otr
 ## Notas para educadores
 - Pedí que los pases se den a todos los compañeros, no siempre a los mismos. Podés exigir que los cinco pases vayan a cinco jugadores distintos.
 
+
+## Texto original completo de la actividad
+
+**English version:**
+
+**NUTS AND RAISINS.**
+
+Two teams; one team tries to pass a football about among its own members, the other trying to intercept. A point is scored for 5 clear undropped consecutive passes. No player may hold the ball for more than 5 seconds or paces; no tackling, only interception is allowed. The first player to touch a dropped ball may pick it up unmolested. Team with most points in (say) 8 minutes wins.
+
 ---
-**Fuente:** inspirada en el juego «Nuts and Raisins» de *Gilcraft's Book of Games* (Gilcraft, C. Arthur Pearson, Londres, 1928), de dominio público. Edición digital: [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/). El texto, la adaptación y el desarrollo de esta ficha son de Fogata de Recursos (2026).
+**Fuente:** *Gilcraft's Book of Games*, de Gilcraft (C. Arthur Pearson, Londres, 1928), juego n.º 53, «Nuts and Raisins». Impreso original en dominio público.
+
+**Versión alternativa en línea:** edición digital de [The Canadian Sea Scouts Homeport](http://www.seascouts.ca/).
+
+**Traducción y adaptación:** Fogata de Recursos (2026). Se pasaron las medidas a metros y se cambiaron algunos términos por los que se usan hoy en la Argentina.
