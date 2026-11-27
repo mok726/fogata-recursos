@@ -25,4 +25,10 @@ module.exports = [
     icon: "music_note",
     description: "Coplas y rondas anónimas del cancionero popular, sin autor conocido.",
   },
+  {
+    id: "guia",
+    name: "Guías Prácticas",
+    icon: "table_chart",
+    description: "Tablas y datos de consulta para preparar una actividad: calendarios, medidas y épocas.",
+  },
 ];

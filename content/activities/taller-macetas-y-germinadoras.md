@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-macetas-y-germinadoras.jpg"
 original: true
 Origin: "Actividad original"
-version: "1.00"
+version: "1.01"
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -70,6 +70,10 @@ tags:
   - macetas
   - germinadoras
   - taller
+
+# ========== MATERIAL DE APOYO ==========
+material_apoyo:
+  - calendario-de-siembra-de-la-huerta
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
