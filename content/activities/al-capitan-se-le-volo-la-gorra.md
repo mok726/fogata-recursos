@@ -154,6 +154,26 @@ Un juego de ronda con un diálogo que hay que decir sin trabarse.
 ### Variante: Animales
 En vez de números, cada lugar de la ronda es un animal. El que llama dice «¡Hornero a Yaguareté!» y el Yaguareté sigue «¡Yaguareté a Carpincho!». El que tarda va al último lugar y todos los demás cambian de animal.
 
+### Variante: El gran Bonete
+En Argentina este juego se los conoce popularmente como El Gran Bonete, y es similar:
+Los niños se circulo, uno es el «Gran Bonete» que dice:
+- Al «Gran Bonete» se le ha perdido un (lo que sea) y dice que xxx (uno de los ninos en la ronda) lo tiene.
+Al oír ésto, el niño que el Gran Bonete nombro debe contestar en seguida:
+- ¿Yo, señor?
+Ante lo que el «Gran Bonete» contesta sin perder tiempo:
+- Sí, señor.
+el niono responde:
+- No, señor.
+«Gran Bonete»:
+- ¿Pues, quién lo tiene?
+A lo que xxxx debe contestar:
+- yyy  otro nino/a)
+Entonces yyy debe contestar en seguida:
+- ¿Yo, señor?
+Y el otro:
+- Sí, señor...
+Y así seguir cada vez más rápido hasta que algún niño, se equivoca
+
 ## Cierre
 - ¿Qué fue más difícil: el diálogo o acordarse del número nuevo?
 
